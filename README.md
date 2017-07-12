@@ -2,7 +2,7 @@
 
 Chi Hack Night Youtube captions scraper/search interface
 
-## Installation
+## Scraper installation
 
 *set up virtual environment:*
 
@@ -13,3 +13,5 @@ Chi Hack Night Youtube captions scraper/search interface
 *install dependencies:*
 
 * pip install -r requirements.txt
+
+## Web interface installation
