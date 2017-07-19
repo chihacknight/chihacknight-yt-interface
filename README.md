@@ -14,4 +14,9 @@ Chi Hack Night Youtube captions scraper/search interface
 
 * pip install -r requirements.txt
 
+*start using*
+
+* Download your `client_secrets.json`
+* Run testscrape.py, authenticate, follow instructions
+
 ## Web interface installation
