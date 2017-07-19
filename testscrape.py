@@ -86,7 +86,9 @@ def download_caption(youtube, caption_id, tfmt):
     tfmt=tfmt
   ).execute()
 
-  print("First line of caption track: %s" % (subtitle))
+  print(subtitle.decode("utf-8"))
+  # print(dir(subtitle))
+  # print(type(subtitle))
 
 
 if __name__ == "__main__":
@@ -116,8 +118,9 @@ if __name__ == "__main__":
     if args.action == 'list':
       list_captions(youtube, args.videoid)
     elif args.action == 'download':
-      download_caption(youtube, args.captionid, 'srt')
+      download_caption(youtube, args.captionid, 'ttml') # sbv (plaintext) or ttml (xml)
+      # use ttml (xml): parse it and get text + time start/end for each line
   except HttpError as e:
     print("An HTTP error %d occurred:\n%s" % (e.resp.status, e.content))
   else:
-    print("Created and managed caption tracks.")
+    print("done")
