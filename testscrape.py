@@ -1,6 +1,3 @@
-# Usage example:
-# python captions.py --videoid='<video_id>' --name='<name>' --file='<file>' --language='<language>' --action='action'
-
 import httplib2
 import os
 import sys
