@@ -81,49 +81,6 @@ def list_captions(youtube, video_id):
   return results["items"]
 
 
-# Call the API's captions.insert method to upload a caption track in draft status.
-def upload_caption(youtube, video_id, language, name, file):
-  insert_result = youtube.captions().insert(
-    part="snippet",
-    body=dict(
-      snippet=dict(
-        videoId=video_id,
-        language=language,
-        name=name,
-        isDraft=True
-      )
-    ),
-    media_body=file
-  ).execute()
-
-  id = insert_result["id"]
-  name = insert_result["snippet"]["name"]
-  language = insert_result["snippet"]["language"]
-  status = insert_result["snippet"]["status"]
-  print("Uploaded caption track '%s(%s) in '%s' language, '%s' status." % (name,
-      id, language, status))
-
-
-# Call the API's captions.update method to update an existing caption track's draft status
-# and publish it. If a new binary file is present, update the track with the file as well.
-def update_caption(youtube, caption_id, file):
-  update_result = youtube.captions().update(
-    part="snippet",
-    body=dict(
-      id=caption_id,
-      snippet=dict(
-        isDraft=False
-      )
-    ),
-    media_body=file
-  ).execute()
-
-  name = update_result["snippet"]["name"]
-  isDraft = update_result["snippet"]["isDraft"]
-  print("Updated caption track '%s' draft status to be: '%s'" % (name, isDraft))
-  if file:
-    print("and updated the track with the new uploaded file.")
-
 
 # Call the API's captions.download method to download an existing caption track.
 def download_caption(youtube, caption_id, tfmt):
@@ -134,26 +91,12 @@ def download_caption(youtube, caption_id, tfmt):
 
   print("First line of caption track: %s" % (subtitle))
 
-# Call the API's captions.delete method to delete an existing caption track.
-def delete_caption(youtube, caption_id):
-  youtube.captions().delete(
-    id=caption_id
-  ).execute()
-
-  print("caption track '%s' deleted succesfully" % (caption_id))
-
 
 if __name__ == "__main__":
   # The "videoid" option specifies the YouTube video ID that uniquely
   # identifies the video for which the caption track will be uploaded.
   argparser.add_argument("--videoid",
     help="Required; ID for video for which the caption track will be uploaded.")
-  # The "name" option specifies the name of the caption trackto be used.
-  argparser.add_argument("--name", help="Caption track name", default="YouTube for Developers")
-  # The "file" option specifies the binary file to be uploaded as a caption track.
-  argparser.add_argument("--file", help="Captions track file to upload")
-  # The "language" option specifies the language of the caption track to be uploaded.
-  argparser.add_argument("--language", help="Caption track language", default="en")
   # The "captionid" option specifies the ID of the caption track to be processed.
   argparser.add_argument("--captionid", help="Required; ID of the caption track to be processed")
   # The "action" option specifies the action to be processed.
@@ -162,42 +105,21 @@ if __name__ == "__main__":
 
   args = argparser.parse_args()
 
-  if (args.action in ('upload', 'list', 'all')):
+  if (args.action in ('list')):
     if not args.videoid:
           exit("Please specify videoid using the --videoid= parameter.")
 
-  if (args.action in ('update', 'download', 'delete')):
+  if (args.action in ('download')):
     if not args.captionid:
           exit("Please specify captionid using the --captionid= parameter.")
 
-  if (args.action in ('upload', 'all')):
-    if not args.file:
-      exit("Please specify a caption track file using the --file= parameter.")
-    if not os.path.exists(args.file):
-      exit("Please specify a valid file using the --file= parameter.")
 
   youtube = get_authenticated_service(args)
   try:
-    if args.action == 'upload':
-      upload_caption(youtube, args.videoid, args.language, args.name, args.file)
-    elif args.action == 'list':
+    if args.action == 'list':
       list_captions(youtube, args.videoid)
-    elif args.action == 'update':
-      update_caption(youtube, args.captionid, args.file);
     elif args.action == 'download':
       download_caption(youtube, args.captionid, 'srt')
-    elif args.action == 'delete':
-      delete_caption(youtube, args.captionid);
-    else:
-      # All the available methods are used in sequence just for the sake of an example.
-      upload_caption(youtube, args.videoid, args.language, args.name, args.file)
-      captions = list_captions(youtube, args.videoid)
-
-      if captions:
-        first_caption_id = captions[0]['id'];
-        update_caption(youtube, first_caption_id, None);
-        download_caption(youtube, first_caption_id, 'srt')
-        delete_caption(youtube, first_caption_id);
   except HttpError as e:
     print("An HTTP error %d occurred:\n%s" % (e.resp.status, e.content))
   else:
