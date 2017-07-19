@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#project
+*oauth2.json
+client_secrets.json
