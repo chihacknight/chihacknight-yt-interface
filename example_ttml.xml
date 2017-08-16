@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.620" end="00:00:04.049" style="s2">though<span style="s3"> many</span> have joined the stem</p>
+<p begin="00:00:02.639" end="00:00:05.910" style="s2">learning community and have brought many</p>
+<p begin="00:00:04.049" end="00:00:08.010" style="s2">improvements the whole program is still</p>
+<p begin="00:00:05.910" end="00:00:09.450" style="s2">very new if<span style="s3"> I</span> were to<span style="s4"> be</span> in the stem</p>
+<p begin="00:00:08.010" end="00:00:10.800" style="s2">community I think that I could allow a</p>
+<p begin="00:00:09.450" end="00:00:12.150" style="s2">large amount of growth in the field of</p>
+<p begin="00:00:10.800" end="00:00:14.759" style="s2">programming and connecting the web with</p>
+<p begin="00:00:12.150" end="00:00:16.049" style="s2"><span style="s3">real world I have had several projects</span></p>
+<p begin="00:00:14.759" end="00:00:18.000" style="s2">that allow me to control and receive</p>
+<p begin="00:00:16.049" end="00:00:20.310" style="s2">feedback<span style="s3"> from</span> our<span style="s4"> website</span> to hardware</p>
+<p begin="00:00:18.000" end="00:00:22.199" style="s2">devices such as an<span style="s3"> arduino</span> i also</p>
+<p begin="00:00:20.310" end="00:00:23.760" style="s2">created a homemade remote swivel camera</p>
+<p begin="00:00:22.199" end="00:00:26.340" style="s2">to watch stuff and things like him</p>
+<p begin="00:00:23.760" end="00:00:27.930" style="s2">still adjusting to my home i created a</p>
+<p begin="00:00:26.340" end="00:00:30.000" style="s2">python script on a<span style="s4"> raspberry pi and</span></p>
+<p begin="00:00:27.930" end="00:00:31.949" style="s2">mounted a webcam on several allowing you</p>
+<p begin="00:00:30.000" end="00:00:34.739" style="s2">to remotely control the camera to get</p>
+<p begin="00:00:31.949" end="00:00:37.140" style="s2">better angles<span style="s3"> i</span> also have plans<span style="s3"> of</span> a</p>
+<p begin="00:00:34.739" end="00:00:38.820" style="s2">testing home automation system if I was</p>
+<p begin="00:00:37.140" end="00:00:41.040" style="s2">part of stem I can also try to<span style="s3"> organize</span></p>
+<p begin="00:00:38.820" end="00:00:42.360" style="s2">information better there&#39;s a great</p>
+<p begin="00:00:41.040" end="00:00:44.070" style="s2">system for project management and</p>
+<p begin="00:00:42.360" end="00:00:45.989" style="s2">information management</p>
+<p begin="00:00:44.070" end="00:00:47.250" style="s2">and I<span style="s4"> think</span><span style="s3"> that</span> I could bring us a stem</p>
+<p begin="00:00:45.989" end="00:00:49.020" style="s2">to help everyone share the project&#39;s</p>
+<p begin="00:00:47.250" end="00:00:51.000" style="s2">steps and detailed information for</p>
+<p begin="00:00:49.020" end="00:00:52.770" style="s2">everyone&#39;s benefit I hope you can</p>
+<p begin="00:00:51.000" end="00:00:53.879" style="s2">consider my application and I hope for</p>
+<p begin="00:00:52.770" end="00:00:56.899" style="s2">the chance to bring<span style="s3"> these</span> improvements</p>
+<p begin="00:00:53.879" end="00:00:56.899" style="s2">thank you</p>
+</div>
+</body>
+</tt>
