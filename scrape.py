@@ -6,7 +6,9 @@ from apiclient.discovery import build_from_document
 from apiclient.errors import HttpError
 from oauth2client.client import flow_from_clientsecrets
 from oauth2client.file import Storage
-from oauth2client.tools import argparser, run_flow
+from oauth2client.tools import run_flow
+
+videoid="KzMWbC8Hck0"
 
 
 # The CLIENT_SECRETS_FILE variable specifies the name of a file that contains
@@ -45,7 +47,7 @@ https://developers.google.com/api-client-library/python/guide/aaa_client_secrets
                                    CLIENT_SECRETS_FILE))
 
 # Authorize the request and store authorization credentials.
-def get_authenticated_service(args):
+def get_authenticated_service():
   flow = flow_from_clientsecrets(CLIENT_SECRETS_FILE, scope=YOUTUBE_READ_WRITE_SSL_SCOPE,
     message=MISSING_CLIENT_SECRETS_MESSAGE)
 
@@ -53,7 +55,7 @@ def get_authenticated_service(args):
   credentials = storage.get()
 
   if credentials is None or credentials.invalid:
-    credentials = run_flow(flow, storage, args)
+    credentials = run_flow(flow, storage)
 
   # Trusted testers can download this discovery document from the developers page
   # and it should be in the same directory with the code.
@@ -63,20 +65,13 @@ def get_authenticated_service(args):
 
 
 # Call the API's captions.list method to list the existing caption tracks.
-def list_captions(youtube, video_id):
+def get_caption_id(youtube, video_id):
   results = youtube.captions().list(
     part="snippet",
     videoId=video_id
   ).execute()
 
-  for item in results["items"]:
-    id = item["id"]
-    name = item["snippet"]["name"]
-    language = item["snippet"]["language"]
-    print("Caption track '%s(%s)' in '%s' language." % (name, id, language))
-
-  return results["items"]
-
+  return results["items"][0]["id"]
 
 
 # Call the API's captions.download method to download an existing caption track.
@@ -87,38 +82,12 @@ def download_caption(youtube, caption_id, tfmt):
   ).execute()
 
   print(subtitle.decode("utf-8"))
-  # print(dir(subtitle))
-  # print(type(subtitle))
-
 
 if __name__ == "__main__":
-  # The "videoid" option specifies the YouTube video ID that uniquely
-  # identifies the video for which the caption track will be uploaded.
-  argparser.add_argument("--videoid",
-    help="Required; ID for video for which the caption track will be uploaded.")
-  # The "captionid" option specifies the ID of the caption track to be processed.
-  argparser.add_argument("--captionid", help="Required; ID of the caption track to be processed")
-  # The "action" option specifies the action to be processed.
-  argparser.add_argument("--action", help="Action", default="all")
-
-
-  args = argparser.parse_args()
-
-  if (args.action in ('list')):
-    if not args.videoid:
-          exit("Please specify videoid using the --videoid= parameter.")
-
-  if (args.action in ('download')):
-    if not args.captionid:
-          exit("Please specify captionid using the --captionid= parameter.")
-
-
-  youtube = get_authenticated_service(args)
+  youtube = get_authenticated_service()
   try:
-    if args.action == 'list':
-      list_captions(youtube, args.videoid)
-    elif args.action == 'download':
-      download_caption(youtube, args.captionid, 'ttml') # sbv (plaintext) or ttml (xml)
+    download_caption(youtube, get_caption_id(youtube, videoid), 'ttml')
+    # download_caption(youtube, args.captionid, 'ttml') # sbv (plaintext) or ttml (xml)
       # use ttml (xml): parse it and get text + time start/end for each line
   except HttpError as e:
     print("An HTTP error %d occurred:\n%s" % (e.resp.status, e.content))
