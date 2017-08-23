@@ -8,7 +8,8 @@ from oauth2client.client import flow_from_clientsecrets
 from oauth2client.file import Storage
 from oauth2client.tools import run_flow
 
-videoid="IrPwZ7ejsw8"
+video_id = "IrPwZ7ejsw8"
+channel_id = "UC5aFBZOvtseFQWib1kILbpA"
 
 
 # The CLIENT_SECRETS_FILE variable specifies the name of a file that contains
@@ -63,6 +64,22 @@ def get_authenticated_service():
     doc = f.read()
     return build_from_document(doc, http=credentials.authorize(httplib2.Http()))
 
+def get_upload_playlist_id(youtube, channel_id):
+    results = youtube.channels().list(
+      id=channel_id,
+      part="contentDetails"
+    ).execute()
+    upload_playlist_id = results["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
+    print(upload_playlist_id)
+    return upload_playlist_id
+
+def get_playlist_videos(youtube, playlist_id):
+  results = youtube.playlistItems().list(
+    part='contentDetails',
+    playlistId = upload_playlist_id
+  ).execute()
+  for i in results["items"]:
+      print i["contentDetails"]["videoId"]
 
 # Call the API's captions.list method to list the existing caption tracks.
 def get_caption_id(youtube, video_id):
@@ -70,8 +87,9 @@ def get_caption_id(youtube, video_id):
     part="snippet",
     videoId=video_id
   ).execute()
+  caption_id = results["items"][0]["id"]
+  return caption_id
 
-  return results["items"][0]["id"]
 
 
 # Call the API's captions.download method to download an existing caption track.
@@ -88,13 +106,14 @@ def write_caption(path_name, object):
       f.write(object)
       f.close()
 
-
-
 if __name__ == "__main__":
   youtube = get_authenticated_service()
   try:
-    transcript = download_caption(youtube, get_caption_id(youtube, videoid), 'ttml')
-    write_caption("scraped_file1", transcript)
+    upload_playlist_id = get_upload_playlist_id(youtube, channel_id)
+    playlist_videos = get_playlist_videos(youtube, upload_playlist_id)
+    #transcript = download_caption(youtube, get_caption_id(youtube, video_id), 'ttml')
+
+    #write_caption("scraped_file1", transcript)
     # download_caption(youtube, args.captionid, 'ttml') # sbv (plaintext) or ttml (xml)
       # use ttml (xml): parse it and get text + time start/end for each line
   except HttpError as e:
