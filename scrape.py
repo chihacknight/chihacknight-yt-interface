@@ -73,13 +73,35 @@ def get_upload_playlist_id(youtube, channel_id):
     print(upload_playlist_id)
     return upload_playlist_id
 
-def get_playlist_videos(youtube, playlist_id):
+def get_playlist_video_id(youtube, playlist_id, **kwargs):
   results = youtube.playlistItems().list(
     part='contentDetails',
-    playlistId = upload_playlist_id
+    playlistId = upload_playlist_id,
+    **kwargs
   ).execute()
-  for i in results["items"]:
-      print i["contentDetails"]["videoId"]
+  #next_page_token = results["nextPageToken"]
+
+  return results
+
+
+def print_all_pages():
+    playlist_videos = get_playlist_video_id(youtube, upload_playlist_id)
+    print(playlist_videos["nextPageToken"])
+    next_page_token =  playlist_videos["nextPageToken"]
+
+    while ('nextPageToken' in playlist_videos):
+        print(next_page_token)
+        next_page = get_playlist_video_id(youtube, upload_playlist_id, pageToken=next_page_token)
+        playlist_videos['items'] = playlist_videos['items'] + next_page['items']
+        if 'nextPageToken' not in next_page:
+            playlist_videos.pop('nextPageToken', None)
+        else:
+            next_page_token = next_page['nextPageToken']
+    for i in playlist_videos["items"]:
+        print i["contentDetails"]["videoId"]
+    return playlist_videos
+
+
 
 # Call the API's captions.list method to list the existing caption tracks.
 def get_caption_id(youtube, video_id):
@@ -110,7 +132,9 @@ if __name__ == "__main__":
   youtube = get_authenticated_service()
   try:
     upload_playlist_id = get_upload_playlist_id(youtube, channel_id)
-    playlist_videos = get_playlist_videos(youtube, upload_playlist_id)
+    pages = print_all_pages()
+    #playlist_videos = get_playlist_video_id(youtube, upload_playlist_id)
+
     #transcript = download_caption(youtube, get_caption_id(youtube, video_id), 'ttml')
 
     #write_caption("scraped_file1", transcript)
