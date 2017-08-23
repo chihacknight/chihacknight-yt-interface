@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.000" end="00:00:09.269" style="s2">hi everyone<span style="s3"> I&#39;m</span> talking about<span style="s3"> a</span> project</p>
+<p begin="00:00:07.319" end="00:00:11.580" style="s2">that I worked on called I have been</p>
+<p begin="00:00:09.269" end="00:00:13.049" style="s2">working on called gender Avenger that&#39;s</p>
+<p begin="00:00:11.580" end="00:00:15.809" style="s2">focused on measuring women&#39;s inclusion</p>
+<p begin="00:00:13.049" end="00:00:17.550" style="s2">in<span style="s3"> the</span> public dialogue this is sort of</p>
+<p begin="00:00:15.809" end="00:00:19.050" style="s2">the information about gender Avenger the</p>
+<p begin="00:00:17.550" end="00:00:20.880" style="s2">mission is<span style="s3"> to build a community that</span></p>
+<p begin="00:00:19.050" end="00:00:23.220" style="s2">ensures women are represented in the</p>
+<p begin="00:00:20.880" end="00:00:25.769" style="s2">public dialogue it was started by</p>
+<p begin="00:00:23.220" end="00:00:27.900" style="s2">someone who friend of my<span style="s3"> Gina</span> glance who</p>
+<p begin="00:00:25.769" end="00:00:29.099" style="s2">worked for a long time at seiu and</p>
+<p begin="00:00:27.900" end="00:00:33.120" style="s2">generally has been really involved in</p>
+<p begin="00:00:29.099" end="00:00:34.680" style="s2">politics one of the big things<span style="s3"> there</span> are</p>
+<p begin="00:00:33.120" end="00:00:38.190" style="s2">two main<span style="s3"> things</span> that gender Avenger does</p>
+<p begin="00:00:34.680" end="00:00:40.579" style="s2">one is we sort<span style="s3"> of</span> highlight when women</p>
+<p begin="00:00:38.190" end="00:00:42.629" style="s2">are not sufficiently included in</p>
+<p begin="00:00:40.579" end="00:00:46.739" style="s2">different sorts of things so here&#39;s an</p>
+<p begin="00:00:42.629" end="00:00:48.930" style="s2">example where Esquire did a list of 80</p>
+<p begin="00:00:46.739" end="00:00:53.489" style="s2"><span style="s4">Beck&#39;s</span> books every man should read and</p>
+<p begin="00:00:48.930" end="00:00:55.800" style="s2">79<span style="s4"> of</span> them were written by men and so</p>
+<p begin="00:00:53.489" end="00:00:58.980" style="s2">gender Avenger put together this chart</p>
+<p begin="00:00:55.800" end="00:01:02.699" style="s2">using the g8<span style="s3"> ally</span> app this<span style="s4"> is</span> sort of<span style="s4"> my</span></p>
+<p begin="00:00:58.980" end="00:01:04.470" style="s2">contribution and tweeted it at s square</p>
+<p begin="00:01:02.699" end="00:01:05.970" style="s2">a lot and encourage their supporters to</p>
+<p begin="00:01:04.470" end="00:01:08.010" style="s2">comment on the article saying and</p>
+<p begin="00:01:05.970" end="00:01:10.200" style="s2"><span style="s3">suggest</span> like female authors that should</p>
+<p begin="00:01:08.010" end="00:01:14.040" style="s2">have been included and it actually</p>
+<p begin="00:01:10.200" end="00:01:16.710" style="s2">worked<span style="s4"> asghar</span> apologized and then as it</p>
+<p begin="00:01:14.040" end="00:01:19.560" style="s2">says here worked with eight female</p>
+<p begin="00:01:16.710" end="00:01:23.939" style="s2">literacy powerhouses to come up<span style="s4"> with</span> a</p>
+<p begin="00:01:19.560" end="00:01:25.530" style="s2">new list that was much more<span style="s3"> even</span> so this</p>
+<p begin="00:01:23.939" end="00:01:28.470" style="s2"><span style="s4">is</span> sort of a general thing the g8 ally</p>
+<p begin="00:01:25.530" end="00:01:29.820" style="s2">app is available to everyone and there&#39;s</p>
+<p begin="00:01:28.470" end="00:01:31.680" style="s2">an app you<span style="s4"> can</span> download or it works</p>
+<p begin="00:01:29.820" end="00:01:33.329" style="s2">online and you<span style="s4"> can</span> share<span style="s3"> it</span> on Facebook</p>
+<p begin="00:01:31.680" end="00:01:35.159" style="s2">or Twitter or if you&#39;re worried that</p>
+<p begin="00:01:33.329" end="00:01:37.560" style="s2"><span style="s4">you&#39;ll</span> get in trouble<span style="s4"> for</span> with work</p>
+<p begin="00:01:35.159" end="00:01:38.939" style="s2">because it&#39;s sort of a<span style="s3"> sensitive</span> place</p>
+<p begin="00:01:37.560" end="00:01:41.520" style="s2">where you shouldn&#39;t be<span style="s3"> calling</span> people</p>
+<p begin="00:01:38.939" end="00:01:44.640" style="s2">out there&#39;s also an option to have us</p>
+<p begin="00:01:41.520" end="00:01:47.430" style="s2">tweet it for you so that you don&#39;t<span style="s4"> have</span></p>
+<p begin="00:01:44.640" end="00:01:48.960" style="s2"><span style="s3">to</span> get in trouble<span style="s3"> the</span><span style="s4"> other</span> thing that</p>
+<p begin="00:01:47.430" end="00:01:51.689" style="s2">gender Avenger does is<span style="s3"> to</span> ask people<span style="s3"> to</span></p>
+<p begin="00:01:48.960" end="00:01:53.549" style="s2">take the gender<span style="s3"> Avenger</span> pledge basically</p>
+<p begin="00:01:51.689" end="00:01:56.729" style="s2">promising not to be on panels that have</p>
+<p begin="00:01:53.549" end="00:01:57.930" style="s2">no women on them and there&#39;s a big long</p>
+<p begin="00:01:56.729" end="00:02:00.210" style="s2">list of people and you should totally</p>
+<p begin="00:01:57.930" end="00:02:02.790" style="s2">pick take the pledge and there&#39;s some</p>
+<p begin="00:02:00.210" end="00:02:07.020" style="s2">ongoing stuff they&#39;re ramping up now to</p>
+<p begin="00:02:02.790" end="00:02:09.420" style="s2">adopt the<span style="s4"> g8 Ally for use by groups that</span></p>
+<p begin="00:02:07.020" end="00:02:10.709" style="s2">focus on racial equality and also I</p>
+<p begin="00:02:09.420" end="00:02:12.030" style="s2"><span style="s4">think</span> it would be<span style="s4"> really</span> cool<span style="s3"> to</span> combine</p>
+<p begin="00:02:10.709" end="00:02:14.260" style="s2">this with our<span style="s3"> men</span> talking too much</p>
+<p begin="00:02:12.030" end="00:02:16.400" style="s2">because this was largely around</p>
+<p begin="00:02:14.260" end="00:02:18.260" style="s2">conferences and it would be<span style="s3"> really cool</span></p>
+<p begin="00:02:16.400" end="00:02:20.030" style="s2"><span style="s3">like measure how many men</span> women<span style="s3"> are</span> on a</p>
+<p begin="00:02:18.260" end="00:02:22.030" style="s2">given panel and<span style="s3"> then</span> also measure how</p>
+<p begin="00:02:20.030" end="00:02:24.590" style="s2">much people<span style="s3"> are</span> talking on those panels</p>
+<p begin="00:02:22.030" end="00:02:27.540" style="s2">so or at<span style="s3"> least</span> like feature it on our</p>
+<p begin="00:02:24.590" end="00:02:35.919" style="s2"><span style="s4">website</span> so yeah<span style="s3"> that&#39;s</span> it thanks</p>
+<p begin="00:02:27.540" end="00:02:35.919" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

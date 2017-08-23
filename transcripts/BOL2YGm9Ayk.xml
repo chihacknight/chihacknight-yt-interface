@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:10.000" end="00:00:15.070" style="s2">my first introduction<span style="s3"> in</span> code for</p>
+<p begin="00:00:12.580" end="00:00:17.470" style="s2">america was as a<span style="s3"> government</span> employee at</p>
+<p begin="00:00:15.070" end="00:00:19.349" style="s2"><span style="s4">the</span> state of Illinois working in an</p>
+<p begin="00:00:17.470" end="00:00:22.450" style="s2">unemployment office during the recession</p>
+<p begin="00:00:19.349" end="00:00:25.330" style="s2">my system was from the seventies this</p>
+<p begin="00:00:22.450" end="00:00:27.820" style="s2">did not go well and out<span style="s4"> of</span> that</p>
+<p begin="00:00:25.330" end="00:00:29.560" style="s2">frustration I started looking for groups</p>
+<p begin="00:00:27.820" end="00:00:31.960" style="s2">of people that were doing something</p>
+<p begin="00:00:29.560" end="00:00:34.480" style="s2"><span style="s3">about</span> it and I just so happened that</p>
+<p begin="00:00:31.960" end="00:00:36.340" style="s2">Chicago was just named one of<span style="s3"> the</span></p>
+<p begin="00:00:34.480" end="00:00:38.199" style="s2"><span style="s3">fellowship</span> cities and so I started</p>
+<p begin="00:00:36.340" end="00:00:42.250" style="s2"><span style="s4">following</span> what they&#39;re doing and going</p>
+<p begin="00:00:38.199" end="00:00:44.860" style="s2">oh my god this is<span style="s4"> fantastic</span> and I was</p>
+<p begin="00:00:42.250" end="00:00:46.510" style="s2">actually<span style="s3"> invited</span> to the second code for</p>
+<p begin="00:00:44.860" end="00:00:50.200" style="s2">america summit to be<span style="s3"> one</span><span style="s4"> of</span><span style="s3"> the</span><span style="s4"> first</span></p>
+<p begin="00:00:46.510" end="00:00:51.790" style="s2"><span style="s4">Brigade</span> captains and it was sort of an</p>
+<p begin="00:00:50.200" end="00:00:53.739" style="s2">experience<span style="s3"> of</span> walking through the desert</p>
+<p begin="00:00:51.790" end="00:00:56.739" style="s2">for years and years<span style="s3"> and</span> years<span style="s3"> and</span> then</p>
+<p begin="00:00:53.739" end="00:00:58.719" style="s2">falling into the ocean with a whole lot</p>
+<p begin="00:00:56.739" end="00:01:02.379" style="s2"><span style="s4">of</span> people that are very excited and very</p>
+<p begin="00:00:58.719" end="00:01:05.470" style="s2">passionate about<span style="s3"> innovating</span> government</p>
+<p begin="00:01:02.379" end="00:01:08.890" style="s2">and telling me<span style="s3"> they</span> want my help and so</p>
+<p begin="00:01:05.470" end="00:01:11.100" style="s2">I now work for Code for America and it</p>
+<p begin="00:01:08.890" end="00:01:14.320" style="s2">has been<span style="s4"> an</span> organization that has</p>
+<p begin="00:01:11.100" end="00:01:17.320" style="s2">significantly changed my life<span style="s3"> and</span> with</p>
+<p begin="00:01:14.320" end="00:01:19.090" style="s2">that<span style="s3"> I</span> want to thank<span style="s4"> Jim</span> paughco for</p>
+<p begin="00:01:17.320" end="00:01:21.360" style="s2">starting the whole thing and introduced</p>
+<p begin="00:01:19.090" end="00:01:21.360" style="s2">info</p>
+<p begin="00:01:24.510" end="00:01:28.200" style="s2"><span style="s3">alright</span> so welcome or you&#39;re all going</p>
+<p begin="00:01:26.460" end="00:01:31.950" style="s2"><span style="s3">to</span> jump into the ocean today I&#39;m at it</p>
+<p begin="00:01:28.200" end="00:01:34.980" style="s2">talks super fast because Derek and Chris</p>
+<p begin="00:01:31.950" end="00:01:37.500" style="s2">have convinced me<span style="s3"> that</span> you&#39;d rather know</p>
+<p begin="00:01:34.980" end="00:01:39.270" style="s2">more about what&#39;s going on substantively</p>
+<p begin="00:01:37.500" end="00:01:40.860" style="s2">at coat<span style="s3"> Americas</span> and sort of<span style="s3"> all</span> the</p>
+<p begin="00:01:39.270" end="00:01:45.510" style="s2">meta stuff so forgive me if this<span style="s4"> is</span></p>
+<p begin="00:01:40.860" end="00:01:47.790" style="s2">pretty fast the one thing I<span style="s4"> will</span> clarify</p>
+<p begin="00:01:45.510" end="00:01:50.040" style="s2">is the people here know<span style="s3"> what</span> the</p>
+<p begin="00:01:47.790" end="00:01:51.810" style="s2"><span style="s3">fellowship</span> is what sounds like a weird</p>
+<p begin="00:01:50.040" end="00:01:52.950" style="s2">cult when when Chris talked about it</p>
+<p begin="00:01:51.810" end="00:01:55.110" style="s2">raise your hand if<span style="s3"> you</span> know<span style="s3"> what</span> a coach</p>
+<p begin="00:01:52.950" end="00:01:57.540" style="s2"><span style="s3">mark</span> of fellowship is<span style="s4"> okay</span> so really</p>
+<p begin="00:01:55.110" end="00:01:59.880" style="s2">briefly we get this is a year a service</p>
+<p begin="00:01:57.540" end="00:02:01.950" style="s2">your program it&#39;s a sort of the center</p>
+<p begin="00:01:59.880" end="00:02:04.350" style="s2"><span style="s4">of</span> what we<span style="s3"> do</span> but not all<span style="s4"> of</span> what we do</p>
+<p begin="00:02:01.950" end="00:02:06.630" style="s2">we get developers designers product</p>
+<p begin="00:02:04.350" end="00:02:09.300" style="s2">managers mid-career average age is 32</p>
+<p begin="00:02:06.630" end="00:02:11.760" style="s2">come do a year of service and we put</p>
+<p begin="00:02:09.300" end="00:02:14.040" style="s2">them<span style="s4"> in</span> teams of three folks who work</p>
+<p begin="00:02:11.760" end="00:02:16.760" style="s2">with a local government to tackle a</p>
+<p begin="00:02:14.040" end="00:02:20.550" style="s2">problem using technology but primarily</p>
+<p begin="00:02:16.760" end="00:02:22.970" style="s2">taking a user-centered<span style="s4"> data-driven</span> an</p>
+<p begin="00:02:20.550" end="00:02:25.200" style="s2">iterative approach to that problem</p>
+<p begin="00:02:22.970" end="00:02:26.220" style="s2">instead of those are long planning</p>
+<p begin="00:02:25.200" end="00:02:27.570" style="s2">cycles<span style="s4"> that</span><span style="s3"> you</span> typically<span style="s3"> see</span> in</p>
+<p begin="00:02:26.220" end="00:02:31.140" style="s2">government which were the source of</p>
+<p begin="00:02:27.570" end="00:02:32.489" style="s2"><span style="s4">chris&#39;s</span> pain<span style="s4"> i</span> think at the and the</p>
+<p begin="00:02:31.140" end="00:02:33.900" style="s2">state of<span style="s3"> illinois and we&#39;re</span><span style="s4"> just going</span></p>
+<p begin="00:02:32.489" end="00:02:36.570" style="s2">to<span style="s3"> turn</span> the time run so<span style="s4"> i</span> know how far</p>
+<p begin="00:02:33.900" end="00:02:38.250" style="s2">we&#39;re going so our vision is the</p>
+<p begin="00:02:36.570" end="00:02:41.760" style="s2">government can work for<span style="s3"> the</span> people and</p>
+<p begin="00:02:38.250" end="00:02:43.050" style="s2">by the people in the 21st century and so</p>
+<p begin="00:02:41.760" end="00:02:44.610" style="s2"><span style="s3">hopefully</span> you guys know a little bit</p>
+<p begin="00:02:43.050" end="00:02:47.100" style="s2">about the brigade program which is how</p>
+<p begin="00:02:44.610" end="00:02:49.200" style="s2">we helped organize communities around</p>
+<p begin="00:02:47.100" end="00:02:50.640" style="s2">the country who can&#39;t take<span style="s3"> a</span> year off to</p>
+<p begin="00:02:49.200" end="00:02:53.970" style="s2">do this but do want<span style="s3"> to</span> do this on a</p>
+<p begin="00:02:50.640" end="00:02:56.370" style="s2">casual basis<span style="s3"> on</span> over the past<span style="s3"> couple</span> of</p>
+<p begin="00:02:53.970" end="00:02:58.290" style="s2">years we&#39;ve really decided to<span style="s3"> focus</span> on</p>
+<p begin="00:02:56.370" end="00:02:59.850" style="s2">government services the government and</p>
+<p begin="00:02:58.290" end="00:03:01.050" style="s2"><span style="s3">the delivery of government services</span></p>
+<p begin="00:02:59.850" end="00:03:03.420" style="s2">through technology<span style="s4"> or</span> government</p>
+<p begin="00:03:01.050" end="00:03:05.790" style="s2">programs through technology and so the</p>
+<p begin="00:03:03.420" end="00:03:07.170" style="s2">one framing pace<span style="s4"> I&#39;m</span> going to provide to</p>
+<p begin="00:03:05.790" end="00:03:09.989" style="s2"><span style="s4">you</span> guys before I get right into the</p>
+<p begin="00:03:07.170" end="00:03:11.610" style="s2">documents is some statements borrowed</p>
+<p begin="00:03:09.989" end="00:03:13.230" style="s2">from Tom<span style="s3"> Loosemore</span> who&#39;s part of the</p>
+<p begin="00:03:11.610" end="00:03:15.750" style="s2">government digital service in the UK</p>
+<p begin="00:03:13.230" end="00:03:16.830" style="s2">who&#39;s done this very very well and I</p>
+<p begin="00:03:15.750" end="00:03:18.720" style="s2"><span style="s4">think</span> that they&#39;re<span style="s4"> just</span> provocative</p>
+<p begin="00:03:16.830" end="00:03:21.209" style="s2">statements and part<span style="s3"> of</span> how we translate</p>
+<p begin="00:03:18.720" end="00:03:23.070" style="s2">our vision these days government</p>
+<p begin="00:03:21.209" end="00:03:24.989" style="s2">services should be so good they&#39;re</p>
+<p begin="00:03:23.070" end="00:03:27.480" style="s2">better than what<span style="s3"> we</span> use at home better</p>
+<p begin="00:03:24.989" end="00:03:29.489" style="s2">than previously imaginable they should</p>
+<p begin="00:03:27.480" end="00:03:32.910" style="s2"><span style="s3">be</span> able to work in first time the<span style="s4"> first</span></p>
+<p begin="00:03:29.489" end="00:03:35.070" style="s2">time usually in real time we<span style="s3"> should</span> be</p>
+<p begin="00:03:32.910" end="00:03:37.799" style="s2">able to set up new government services</p>
+<p begin="00:03:35.070" end="00:03:38.130" style="s2">in weeks and run them at a fraction of</p>
+<p begin="00:03:37.799" end="00:03:40.830" style="s2"><span style="s4">today</span></p>
+<p begin="00:03:38.130" end="00:03:42.030" style="s2">days costs we need to government</p>
+<p begin="00:03:40.830" end="00:03:44.850" style="s2">officials to be<span style="s4"> able</span> to see if their</p>
+<p begin="00:03:42.030" end="00:03:46.980" style="s2">policy is working within it as was</p>
+<p begin="00:03:44.850" end="00:03:50.040" style="s2">intended within days or weeks not</p>
+<p begin="00:03:46.980" end="00:03:51.810" style="s2">decades we&#39;re far from that now but we</p>
+<p begin="00:03:50.040" end="00:03:53.940" style="s2">all have<span style="s4"> to</span> believe you&#39;re going<span style="s3"> to jump</span></p>
+<p begin="00:03:51.810" end="00:03:55.560" style="s2">into the ocean with me today if you&#39;re</p>
+<p begin="00:03:53.940" end="00:03:58.020" style="s2">going<span style="s3"> to</span> believe<span style="s3"> that</span><span style="s4"> this</span> is possible</p>
+<p begin="00:03:55.560" end="00:04:01.530" style="s2">within the<span style="s4"> next</span> couple of years that we</p>
+<p begin="00:03:58.020" end="00:04:03.870" style="s2">can do this and if<span style="s3"> we</span> do this we can</p>
+<p begin="00:04:01.530" end="00:04:06.060" style="s2"><span style="s3">create</span> services where those on the front</p>
+<p begin="00:04:03.870" end="00:04:08.190" style="s2">line can help the people who need the</p>
+<p begin="00:04:06.060" end="00:04:09.660" style="s2">help most that&#39;s<span style="s3"> what</span> governments</p>
+<p begin="00:04:08.190" end="00:04:12.330" style="s2">supposed to do or at least part of what</p>
+<p begin="00:04:09.660" end="00:04:14.040" style="s2">government is supposed to do and argh</p>
+<p begin="00:04:12.330" end="00:04:16.410" style="s2">our services need to be architected so</p>
+<p begin="00:04:14.040" end="00:04:19.860" style="s2">that we can actually do<span style="s4"> that</span> so what I&#39;m</p>
+<p begin="00:04:16.410" end="00:04:22.350" style="s2">going to spend<span style="s3"> the</span><span style="s4"> 13 and a half</span><span style="s3"> minutes</span></p>
+<p begin="00:04:19.860" end="00:04:24.570" style="s2">I have left it&#39;s like this as fast as</p>
+<p begin="00:04:22.350" end="00:04:26.190" style="s2">they possibly can telling you<span style="s4"> what</span> the</p>
+<p begin="00:04:24.570" end="00:04:28.800" style="s2">projects<span style="s4"> that</span> code for<span style="s4"> america</span> fellows</p>
+<p begin="00:04:26.190" end="00:04:31.950" style="s2">and coke America staff are doing this</p>
+<p begin="00:04:28.800" end="00:04:33.390" style="s2">year and please know that this<span style="s3"> is</span> a tiny</p>
+<p begin="00:04:31.950" end="00:04:35.520" style="s2">section of what&#39;s happening in our</p>
+<p begin="00:04:33.390" end="00:04:36.630" style="s2"><span style="s3">entire</span> network the brigades are doing</p>
+<p begin="00:04:35.520" end="00:04:40.710" style="s2">thousands of other really interesting</p>
+<p begin="00:04:36.630" end="00:04:43.440" style="s2">projects<span style="s3"> I</span> only have 15<span style="s4"> minutes</span> so we</p>
+<p begin="00:04:40.710" end="00:04:45.780" style="s2">have six city partners this year we</p>
+<p begin="00:04:43.440" end="00:04:47.870" style="s2"><span style="s4">actually</span> did a few fewer because we are</p>
+<p begin="00:04:45.780" end="00:04:50.520" style="s2">putting a bunch of our<span style="s4"> resources</span> into</p>
+<p begin="00:04:47.870" end="00:04:52.620" style="s2">projects that already came out that we</p>
+<p begin="00:04:50.520" end="00:04:55.140" style="s2">want<span style="s3"> to</span> advance and take to other cities</p>
+<p begin="00:04:52.620" end="00:04:57.240" style="s2">so it&#39;s it&#39;s six this year and we<span style="s4"> have</span></p>
+<p begin="00:04:55.140" end="00:04:59.220" style="s2">18 fellows so their teams of three and</p>
+<p begin="00:04:57.240" end="00:05:01.830" style="s2">we&#39;re focusing in three areas the first</p>
+<p begin="00:04:59.220" end="00:05:03.630" style="s2">area is<span style="s3"> safety</span> and justice we have a</p>
+<p begin="00:05:01.830" end="00:05:06.810" style="s2">team wonderful team in salt lake county</p>
+<p begin="00:05:03.630" end="00:05:08.550" style="s2">you ha at utah excuse me and what</p>
+<p begin="00:05:06.810" end="00:05:11.420" style="s2">they&#39;re really doing is helping folks</p>
+<p begin="00:05:08.550" end="00:05:14.310" style="s2">who have<span style="s3"> just</span> come out of incarceration</p>
+<p begin="00:05:11.420" end="00:05:15.840" style="s2">meet the terms of<span style="s3"> their</span> probation so</p>
+<p begin="00:05:14.310" end="00:05:17.520" style="s2">about ten percent of people don&#39;t<span style="s4"> show</span></p>
+<p begin="00:05:15.840" end="00:05:19.140" style="s2">up for their court date boom you&#39;re back</p>
+<p begin="00:05:17.520" end="00:05:20.520" style="s2">in jail twenty percent of people don&#39;t</p>
+<p begin="00:05:19.140" end="00:05:22.680" style="s2">take<span style="s3"> advantage</span> of the treatments that</p>
+<p begin="00:05:20.520" end="00:05:25.230" style="s2">they&#39;ve<span style="s4"> been</span> prescribed to them other</p>
+<p begin="00:05:22.680" end="00:05:27.000" style="s2">service social services which tends to</p>
+<p begin="00:05:25.230" end="00:05:28.500" style="s2">put them back in jail and this cost</p>
+<p begin="00:05:27.000" end="00:05:30.990" style="s2">taxpayers a bunch of money<span style="s4"> and</span> it&#39;s</p>
+<p begin="00:05:28.500" end="00:05:34.350" style="s2">terrible social outcomes so we&#39;re<span style="s3"> using</span></p>
+<p begin="00:05:30.990" end="00:05:36.000" style="s2">text messaging and other ways of</p>
+<p begin="00:05:34.350" end="00:05:37.320" style="s2">communicating with them to remind them</p>
+<p begin="00:05:36.000" end="00:05:38.670" style="s2">you know you&#39;re<span style="s4"> supposed</span> to be in court</p>
+<p begin="00:05:37.320" end="00:05:39.570" style="s2">today you&#39;re supposed to be at<span style="s4"> this</span></p>
+<p begin="00:05:38.670" end="00:05:41.340" style="s2">treatment you&#39;re supposed to you know</p>
+<p begin="00:05:39.570" end="00:05:44.100" style="s2">here&#39;s a paperwork if you need to fill</p>
+<p begin="00:05:41.340" end="00:05:47.520" style="s2">out trying to essentially reduce<span style="s4"> rear</span></p>
+<p begin="00:05:44.100" end="00:05:49.950" style="s2">rest in recidivism we have another team</p>
+<p begin="00:05:47.520" end="00:05:51.520" style="s2">in Seattle Washington who is building</p>
+<p begin="00:05:49.950" end="00:05:52.960" style="s2">off of a fantastic</p>
+<p begin="00:05:51.520" end="00:05:55.629" style="s2">program they have there called lead</p>
+<p begin="00:05:52.960" end="00:05:57.310" style="s2">which basically says when we encounter a</p>
+<p begin="00:05:55.629" end="00:06:00.789" style="s2">mentally ill homeless person on the</p>
+<p begin="00:05:57.310" end="00:06:03.280" style="s2">street it&#39;s very easy to and that for</p>
+<p begin="00:06:00.789" end="00:06:04.990" style="s2">that person to end up in<span style="s3"> jail that&#39;s a</span></p>
+<p begin="00:06:03.280" end="00:06:07.539" style="s2"><span style="s3">terrible</span> outcome we should be putting</p>
+<p begin="00:06:04.990" end="00:06:09.879" style="s2">those folks into services they need a</p>
+<p begin="00:06:07.539" end="00:06:12.520" style="s2">very very often they are<span style="s3"> already</span> in care</p>
+<p begin="00:06:09.879" end="00:06:14.229" style="s2">already part of a case workers load and</p>
+<p begin="00:06:12.520" end="00:06:16.599" style="s2">instead<span style="s4"> of</span> incarcerating them we&#39;re</p>
+<p begin="00:06:14.229" end="00:06:19.780" style="s2">diverting them to the services that<span style="s3"> they</span></p>
+<p begin="00:06:16.599" end="00:06:22.930" style="s2">need<span style="s4"> and</span> the police officers who<span style="s4"> are</span> the</p>
+<p begin="00:06:19.780" end="00:06:25.000" style="s2">front lines of the encounters with folks</p>
+<p begin="00:06:22.930" end="00:06:27.520" style="s2"><span style="s4">who</span> really<span style="s3"> need</span> care not incarceration</p>
+<p begin="00:06:25.000" end="00:06:29.560" style="s2">need to have data available to them<span style="s3"> at</span></p>
+<p begin="00:06:27.520" end="00:06:32.169" style="s2">that<span style="s4"> moment</span> to<span style="s3"> know</span> where<span style="s3"> to</span> take them</p>
+<p begin="00:06:29.560" end="00:06:33.610" style="s2">and in a very and they can&#39;t go back to</p>
+<p begin="00:06:32.169" end="00:06:35.620" style="s2">the office<span style="s3"> and</span> look something up over a</p>
+<p begin="00:06:33.610" end="00:06:38.710" style="s2">long period of<span style="s4"> time</span> so it&#39;s<span style="s3"> really</span> the</p>
+<p begin="00:06:35.620" end="00:06:40.780" style="s2">implementation piece of really what a</p>
+<p begin="00:06:38.710" end="00:06:42.550" style="s2">really excellent policy around not</p>
+<p begin="00:06:40.780" end="00:06:44.770" style="s2">criminalizing homelessness and mental</p>
+<p begin="00:06:42.550" end="00:06:47.069" style="s2">illness and we&#39;re really<span style="s3"> excited</span><span style="s4"> about</span></p>
+<p begin="00:06:44.770" end="00:06:49.509" style="s2">the team there I<span style="s4"> just</span> was visiting them</p>
+<p begin="00:06:47.069" end="00:06:51.219" style="s2">these fellows get to do things<span style="s3"> like</span></p>
+<p begin="00:06:49.509" end="00:06:52.780" style="s2">ride-alongs with the police<span style="s3"> and</span> they&#39;re</p>
+<p begin="00:06:51.219" end="00:06:54.669" style="s2">actually part of these encounters and</p>
+<p begin="00:06:52.780" end="00:06:56.469" style="s2">they&#39;re documenting what actually</p>
+<p begin="00:06:54.669" end="00:06:59.110" style="s2">happens when you encounter these folks</p>
+<p begin="00:06:56.469" end="00:07:00.940" style="s2">so that they really can build technology</p>
+<p begin="00:06:59.110" end="00:07:03.520" style="s2">that&#39;s very deeply situated in<span style="s4"> this</span></p>
+<p begin="00:07:00.940" end="00:07:05.500" style="s2">actual context that will actually<span style="s3"> work</span></p>
+<p begin="00:07:03.520" end="00:07:07.150" style="s2">and<span style="s3"> that&#39;s</span> a big<span style="s3"> part</span><span style="s4"> of</span> it so hearing</p>
+<p begin="00:07:05.500" end="00:07:09.130" style="s2">their stories if I had<span style="s3"> more</span><span style="s4"> time</span> I would</p>
+<p begin="00:07:07.150" end="00:07:11.979" style="s2">tell you a little bit at the ride alongs</p>
+<p begin="00:07:09.130" end="00:07:13.060" style="s2">and the encounters but what you<span style="s4"> should</span></p>
+<p begin="00:07:11.979" end="00:07:15.130" style="s2">understand<span style="s3"> is</span> that if<span style="s3"> you&#39;re</span> ever</p>
+<p begin="00:07:13.060" end="00:07:18.969" style="s2">considering during the program which you</p>
+<p begin="00:07:15.130" end="00:07:21.909" style="s2">should a lot of<span style="s3"> fellows</span> talk about that</p>
+<p begin="00:07:18.969" end="00:07:23.590" style="s2">experience getting deeply into<span style="s3"> social</span></p>
+<p begin="00:07:21.909" end="00:07:26.860" style="s2"><span style="s3">services</span> of criminal justice<span style="s3"> system</span> in</p>
+<p begin="00:07:23.590" end="00:07:28.719" style="s2">our country as the much by far the most</p>
+<p begin="00:07:26.860" end="00:07:31.240" style="s2">value that they get out<span style="s4"> of</span> it it&#39;s an</p>
+<p begin="00:07:28.719" end="00:07:33.159" style="s2">experience that many of us won&#39;t have</p>
+<p begin="00:07:31.240" end="00:07:36.219" style="s2">and it really helps the helps you</p>
+<p begin="00:07:33.159" end="00:07:39.400" style="s2">understand how<span style="s4"> our</span> society works and the</p>
+<p begin="00:07:36.219" end="00:07:41.650" style="s2">things that need to change in it this is</p>
+<p begin="00:07:39.400" end="00:07:43.779" style="s2">a couple of the fellows watching The</p>
+<p begin="00:07:41.650" end="00:07:45.039" style="s2">Dispatch in the police department I</p>
+<p begin="00:07:43.779" end="00:07:48.340" style="s2">didn&#39;t get<span style="s3"> a</span> picture<span style="s4"> of</span> the light of the</p>
+<p begin="00:07:45.039" end="00:07:50.590" style="s2">ride alongs we have to fellowship teams</p>
+<p begin="00:07:48.340" end="00:07:53.889" style="s2">working on economic development the</p>
+<p begin="00:07:50.590" end="00:07:55.599" style="s2">first one is in New<span style="s4"> Orleans</span> where the</p>
+<p begin="00:07:53.889" end="00:07:59.289" style="s2">team there is really<span style="s4"> looking</span> at the</p>
+<p begin="00:07:55.599" end="00:08:01.360" style="s2">truly enormous funds that flow from our</p>
+<p begin="00:07:59.289" end="00:08:03.639" style="s2">federal government down to our state&#39;s</p>
+<p begin="00:08:01.360" end="00:08:05.020" style="s2">and our counties<span style="s3"> into</span> our cities for</p>
+<p begin="00:08:03.639" end="00:08:06.699" style="s2"><span style="s3">workforce development training</span></p>
+<p begin="00:08:05.020" end="00:08:09.520" style="s2">we all know the economy<span style="s4"> is</span> changing</p>
+<p begin="00:08:06.699" end="00:08:10.780" style="s2">dramatically the kinds of jobs that are</p>
+<p begin="00:08:09.520" end="00:08:12.250" style="s2">available to people and the kinds of</p>
+<p begin="00:08:10.780" end="00:08:14.560" style="s2">jobs that people can raise a family on</p>
+<p begin="00:08:12.250" end="00:08:16.539" style="s2">are not the ones that we are necessarily</p>
+<p begin="00:08:14.560" end="00:08:19.800" style="s2">spending our workforce training dollars</p>
+<p begin="00:08:16.539" end="00:08:22.300" style="s2">on so people<span style="s3"> are</span> often getting<span style="s3"> a</span></p>
+<p begin="00:08:19.800" end="00:08:24.610" style="s2">assistance from the government to<span style="s3"> get</span></p>
+<p begin="00:08:22.300" end="00:08:26.889" style="s2">trained in things like VCR repair well</p>
+<p begin="00:08:24.610" end="00:08:28.270" style="s2">that&#39;s<span style="s3"> not</span> going to do you much good how</p>
+<p begin="00:08:26.889" end="00:08:30.520" style="s2">can we<span style="s3"> make</span> those workforce training</p>
+<p begin="00:08:28.270" end="00:08:31.960" style="s2">dollars actually match how do<span style="s3"> we know</span></p>
+<p begin="00:08:30.520" end="00:08:33.520" style="s2">that<span style="s4"> this</span> again that these policies are</p>
+<p begin="00:08:31.960" end="00:08:34.990" style="s2">actually working heckling match people</p>
+<p begin="00:08:33.520" end="00:08:37.390" style="s2">up<span style="s4"> with</span> these<span style="s4"> things</span> and<span style="s3"> how</span> can<span style="s3"> we</span></p>
+<p begin="00:08:34.990" end="00:08:39.640" style="s2">understand the ways in which<span style="s4"> people</span> are</p>
+<p begin="00:08:37.390" end="00:08:41.890" style="s2">actually qualified for jobs but don&#39;t</p>
+<p begin="00:08:39.640" end="00:08:43.450" style="s2">get them so we&#39;ve done some data</p>
+<p begin="00:08:41.890" end="00:08:45.040" style="s2">analysis and in fact<span style="s3"> the Marco</span></p>
+<p begin="00:08:43.450" end="00:08:47.260" style="s2"><span style="s3">foundation</span> has our sponsor for this</p>
+<p begin="00:08:45.040" end="00:08:50.260" style="s2"><span style="s3">project</span> has done<span style="s4"> a</span> bunch<span style="s3"> about</span> things</p>
+<p begin="00:08:47.260" end="00:08:52.270" style="s2">like job postings thats a bachelor&#39;s</p>
+<p begin="00:08:50.260" end="00:08:54.370" style="s2">degree required bachelor&#39;s degree may</p>
+<p begin="00:08:52.270" end="00:08:56.230" style="s2">not be really<span style="s3"> required</span> to do the work</p>
+<p begin="00:08:54.370" end="00:08:58.209" style="s2">and this is a sort<span style="s3"> of</span> implicit bias so</p>
+<p begin="00:08:56.230" end="00:08:59.560" style="s2">doing some work on matching people<span style="s4"> to</span></p>
+<p begin="00:08:58.209" end="00:09:03.820" style="s2">jobs in a way that<span style="s4"> makes</span> it<span style="s3"> a</span> lot more</p>
+<p begin="00:08:59.560" end="00:09:05.350" style="s2">sense in Long Beach California the work</p>
+<p begin="00:09:03.820" end="00:09:07.180" style="s2">is around streamlining business</p>
+<p begin="00:09:05.350" end="00:09:10.360" style="s2">permitting they are one<span style="s4"> of</span> the many</p>
+<p begin="00:09:07.180" end="00:09:11.740" style="s2">cities that got a grant from the Small</p>
+<p begin="00:09:10.360" end="00:09:13.959" style="s2">Business Administration to do what&#39;s</p>
+<p begin="00:09:11.740" end="00:09:15.670" style="s2">called startup in a day I think some of</p>
+<p begin="00:09:13.959" end="00:09:17.620" style="s2">that<span style="s3"> work</span> happened in Chicago a couple</p>
+<p begin="00:09:15.670" end="00:09:19.630" style="s2">of years<span style="s4"> ago</span><span style="s3"> but</span> making<span style="s3"> it</span> a lot easier</p>
+<p begin="00:09:17.620" end="00:09:21.339" style="s2">to comply with all the requirements if</p>
+<p begin="00:09:19.630" end="00:09:24.370" style="s2">you&#39;re starting or a new<span style="s4"> business</span> or</p>
+<p begin="00:09:21.339" end="00:09:26.350" style="s2">even just<span style="s3"> trying to keep one open we&#39;ve</span></p>
+<p begin="00:09:24.370" end="00:09:28.570" style="s2">got two projects in what we call our</p>
+<p begin="00:09:26.350" end="00:09:30.310" style="s2"><span style="s3">healthy communities space and in New</span></p>
+<p begin="00:09:28.570" end="00:09:32.170" style="s2">York we&#39;re really supporting these</p>
+<p begin="00:09:30.310" end="00:09:33.730" style="s2"><span style="s3">caseworkers</span><span style="s4"> to</span> use data across</p>
+<p begin="00:09:32.170" end="00:09:35.649" style="s2">departments to better access city</p>
+<p begin="00:09:33.730" end="00:09:38.709" style="s2">services so it&#39;s really<span style="s3"> based</span> in the</p>
+<p begin="00:09:35.649" end="00:09:40.240" style="s2">schools and<span style="s4"> it&#39;s</span><span style="s3"> really</span> around the</p>
+<p begin="00:09:38.709" end="00:09:42.610" style="s2">concept that<span style="s3"> you know if you&#39;ve got</span> a</p>
+<p begin="00:09:40.240" end="00:09:44.890" style="s2">kid in<span style="s3"> the</span> school who needs some sort<span style="s3"> of</span></p>
+<p begin="00:09:42.610" end="00:09:46.720" style="s2">support this earlier you<span style="s3"> get</span> it to<span style="s4"> that</span></p>
+<p begin="00:09:44.890" end="00:09:47.950" style="s2">kid the much better off you&#39;re going to</p>
+<p begin="00:09:46.720" end="00:09:49.720" style="s2">be much good at you&#39;re going to<span style="s3"> spend</span> a</p>
+<p begin="00:09:47.950" end="00:09:51.970" style="s2">lot less on that kid if<span style="s3"> you</span> get them the</p>
+<p begin="00:09:49.720" end="00:09:53.649" style="s2">services early but so often we&#39;re not</p>
+<p begin="00:09:51.970" end="00:09:55.180" style="s2">able<span style="s3"> to</span> target these kids and get them</p>
+<p begin="00:09:53.649" end="00:09:58.170" style="s2">the services they need we make it very</p>
+<p begin="00:09:55.180" end="00:10:01.209" style="s2">difficult so they&#39;re actually<span style="s3"> taking</span> an</p>
+<p begin="00:09:58.170" end="00:10:02.560" style="s2">existing program<span style="s3"> again</span> and<span style="s4"> may</span> create it</p>
+<p begin="00:10:01.209" end="00:10:06.760" style="s2">putting it in a mobile<span style="s3"> app</span> so will</p>
+<p begin="00:10:02.560" end="00:10:10.600" style="s2">actually work in<span style="s3"> the</span> field those fellows</p>
+<p begin="00:10:06.760" end="00:10:13.300" style="s2">by the way did would they all do very</p>
+<p begin="00:10:10.600" end="00:10:15.279" style="s2">interesting user needs discovery in the</p>
+<p begin="00:10:13.300" end="00:10:16.930" style="s2"><span style="s3">field</span> again there&#39;s<span style="s3"> something</span> called</p>
+<p begin="00:10:15.279" end="00:10:18.050" style="s2">code blue which is<span style="s4"> when</span> it goes below</p>
+<p begin="00:10:16.930" end="00:10:20.899" style="s2">freezing in new york</p>
+<p begin="00:10:18.050" end="00:10:23.600" style="s2">social workers go out overnight so they</p>
+<p begin="00:10:20.899" end="00:10:25.880" style="s2">went<span style="s3"> out</span> with the social workers from</p>
+<p begin="00:10:23.600" end="00:10:28.910" style="s2">midnight to 8am going to people in need</p>
+<p begin="00:10:25.880" end="00:10:30.740" style="s2">and trying to<span style="s4"> help them so they&#39;re</span></p>
+<p begin="00:10:28.910" end="00:10:33.019" style="s2">trying to understand<span style="s4"> how</span> technology can</p>
+<p begin="00:10:30.740" end="00:10:35.180" style="s2">help that process better again an</p>
+<p begin="00:10:33.019" end="00:10:38.959" style="s2">experience that we should probably all</p>
+<p begin="00:10:35.180" end="00:10:40.970" style="s2">have and in Kansas City we&#39;re working<span style="s3"> on</span></p>
+<p begin="00:10:38.959" end="00:10:43.160" style="s2">meeting immunization requirements for</p>
+<p begin="00:10:40.970" end="00:10:44.600" style="s2"><span style="s4">school-age</span> children I won&#39;t go into<span style="s3"> it</span></p>
+<p begin="00:10:43.160" end="00:10:46.279" style="s2"><span style="s3">but</span> it&#39;s one of<span style="s3"> these stories of like</span></p>
+<p begin="00:10:44.600" end="00:10:47.510" style="s2">the way it works is really not the right</p>
+<p begin="00:10:46.279" end="00:10:49.160" style="s2">way it should work but you&#39;ve got</p>
+<p begin="00:10:47.510" end="00:10:51.350" style="s2">parents in the<span style="s3"> beginning of the school</span></p>
+<p begin="00:10:49.160" end="00:10:53.480" style="s2">you&#39;re standing in line for<span style="s4"> hours</span> to get</p>
+<p begin="00:10:51.350" end="00:10:55.730" style="s2">their kids immunization records the</p>
+<p begin="00:10:53.480" end="00:10:57.470" style="s2">records aren&#39;t up to date we never know</p>
+<p begin="00:10:55.730" end="00:10:59.420" style="s2">which kids in the school really<span style="s3"> are</span></p>
+<p begin="00:10:57.470" end="00:11:00.920" style="s2">immunized and which ones aren&#39;t and this</p>
+<p begin="00:10:59.420" end="00:11:04.940" style="s2">is a problem that&#39;s pretty easily solved</p>
+<p begin="00:11:00.920" end="00:11:06.769" style="s2">through process in technology so I</p>
+<p begin="00:11:04.940" end="00:11:08.240" style="s2">mentioned<span style="s4"> that</span> we have a bunch of other</p>
+<p begin="00:11:06.769" end="00:11:10.910" style="s2">projects<span style="s3"> that</span> are going on and I want<span style="s3"> to</span></p>
+<p begin="00:11:08.240" end="00:11:13.339" style="s2">breeze through them some of these<span style="s4"> are</span></p>
+<p begin="00:11:10.910" end="00:11:16.310" style="s2">simply projects<span style="s3"> that</span> we did through the</p>
+<p begin="00:11:13.339" end="00:11:18.260" style="s2">fellowship in previous years where folks</p>
+<p begin="00:11:16.310" end="00:11:20.149" style="s2">said to us hey why&#39;d you<span style="s3"> just</span> do<span style="s4"> it for</span></p>
+<p begin="00:11:18.260" end="00:11:21.769" style="s2">one city and why is that just going to</p>
+<p begin="00:11:20.149" end="00:11:24.829" style="s2">now be there why can&#39;t<span style="s4"> we</span> take this to</p>
+<p begin="00:11:21.769" end="00:11:29.570" style="s2">other cities we worked with Indianapolis</p>
+<p begin="00:11:24.829" end="00:11:32.750" style="s2">last year on a connector to their police</p>
+<p begin="00:11:29.570" end="00:11:35.420" style="s2">records system that pulls out data</p>
+<p begin="00:11:32.750" end="00:11:37.459" style="s2">around complaint officer complaints use</p>
+<p begin="00:11:35.420" end="00:11:40.520" style="s2">of force and officer-involved shootings</p>
+<p begin="00:11:37.459" end="00:11:43.850" style="s2">and there&#39;s a very<span style="s4"> robust</span> data portal</p>
+<p begin="00:11:40.520" end="00:11:45.260" style="s2">that explains this data this<span style="s4"> is</span><span style="s3"> very</span></p>
+<p begin="00:11:43.850" end="00:11:47.570" style="s2">important obviously for many police</p>
+<p begin="00:11:45.260" end="00:11:53.209" style="s2">forces I hope that it comes to Chicago</p>
+<p begin="00:11:47.570" end="00:11:56.180" style="s2">and if the city or county uses<span style="s4"> I</span> a pro</p>
+<p begin="00:11:53.209" end="00:11:59.450" style="s2">which is a common records management</p>
+<p begin="00:11:56.180" end="00:12:01.579" style="s2">system<span style="s3"> police</span> officers this tool that we</p>
+<p begin="00:11:59.450" end="00:12:03.250" style="s2">created called comport will pull that</p>
+<p begin="00:12:01.579" end="00:12:05.029" style="s2">data out and display it</p>
+<p begin="00:12:03.250" end="00:12:06.529" style="s2">semi-automatically but makes it<span style="s3"> a</span> lot</p>
+<p begin="00:12:05.029" end="00:12:09.620" style="s2">easier to display this data and offer it</p>
+<p begin="00:12:06.529" end="00:12:11.870" style="s2">up to the public we have a population</p>
+<p begin="00:12:09.620" end="00:12:14.810" style="s2">management dashboard that was built for</p>
+<p begin="00:12:11.870" end="00:12:16.339" style="s2">the<span style="s4"> louisville</span> jail that&#39;s spread sort</p>
+<p begin="00:12:14.810" end="00:12:19.010" style="s2">of organically through the miracle of</p>
+<p begin="00:12:16.339" end="00:12:20.779" style="s2">open source software to<span style="s4"> the</span> city<span style="s3"> of</span></p>
+<p begin="00:12:19.010" end="00:12:24.140" style="s2">Denver and we&#39;re working<span style="s4"> in</span> the coming</p>
+<p begin="00:12:20.779" end="00:12:26.149" style="s2">year to take that 25 more cities I</p>
+<p begin="00:12:24.140" end="00:12:28.490" style="s2">should<span style="s3"> have</span> mentioned there on comport</p>
+<p begin="00:12:26.149" end="00:12:30.440" style="s2">this open data thing we&#39;ve got<span style="s3"> I</span> think</p>
+<p begin="00:12:28.490" end="00:12:30.960" style="s2">five cities are we&#39;re about to announce</p>
+<p begin="00:12:30.440" end="00:12:33.090" style="s2">the<span style="s4"> fight</span></p>
+<p begin="00:12:30.960" end="00:12:34.620" style="s2">cities that are going<span style="s3"> to get their</span> free</p>
+<p begin="00:12:33.090" end="00:12:35.910" style="s2">deployment of comport and that will hope</p>
+<p begin="00:12:34.620" end="00:12:37.740" style="s2">that it spreads<span style="s3"> to</span> the rest of<span style="s3"> the</span></p>
+<p begin="00:12:35.910" end="00:12:40.560" style="s2">country<span style="s3"> so</span> all of these are in the state</p>
+<p begin="00:12:37.740" end="00:12:42.060" style="s2">of like proven to work somewhere in case</p>
+<p begin="00:12:40.560" end="00:12:44.490" style="s2">of this day jailed and management</p>
+<p begin="00:12:42.060" end="00:12:46.380" style="s2">dashboard they literally did not know</p>
+<p begin="00:12:44.490" end="00:12:48.210" style="s2">how many folks were<span style="s4"> in</span> the jail at the</p>
+<p begin="00:12:46.380" end="00:12:49.890" style="s2">time Lauren<span style="s4"> you</span> can correctly if I get</p>
+<p begin="00:12:48.210" end="00:12:51.840" style="s2">all the data wrong but since they</p>
+<p begin="00:12:49.890" end="00:12:54.150" style="s2">implemented this they<span style="s4"> have</span> not had an</p>
+<p begin="00:12:51.840" end="00:12:55.230" style="s2">overcrowded day<span style="s4"> at</span><span style="s3"> least</span> not since we&#39;ve</p>
+<p begin="00:12:54.150" end="00:12:57.210" style="s2">talked to them which has been a little</p>
+<p begin="00:12:55.230" end="00:12:59.010" style="s2">while but when<span style="s3"> you</span> don&#39;t know how many</p>
+<p begin="00:12:57.210" end="00:13:01.160" style="s2">people<span style="s4"> you have in</span><span style="s3"> and</span> you have<span style="s3"> people</span></p>
+<p begin="00:12:59.010" end="00:13:03.600" style="s2"><span style="s3">coming</span> at you you have a continually</p>
+<p begin="00:13:01.160" end="00:13:05.220" style="s2">overcrowded jail which is not<span style="s4"> what</span> we</p>
+<p begin="00:13:03.600" end="00:13:06.960" style="s2">want so that&#39;s been a very<span style="s3"> successful</span></p>
+<p begin="00:13:05.220" end="00:13:11.250" style="s2">project that will go to many other</p>
+<p begin="00:13:06.960" end="00:13:13.260" style="s2">places I put this in here because<span style="s3"> we&#39;re</span></p>
+<p begin="00:13:11.250" end="00:13:14.820" style="s2">talking about what<span style="s3"> about</span> to talk<span style="s3"> about</span></p>
+<p begin="00:13:13.260" end="00:13:17.970" style="s2"><span style="s3">some more projects in the</span><span style="s4"> Health</span> and</p>
+<p begin="00:13:14.820" end="00:13:19.470" style="s2"><span style="s4">Human Services field</span> this one came<span style="s4"> out</span></p>
+<p begin="00:13:17.970" end="00:13:21.900" style="s2">of our work on food stamps which i&#39;m</p>
+<p begin="00:13:19.470" end="00:13:23.700" style="s2"><span style="s3">going</span> to show you in a minute because</p>
+<p begin="00:13:21.900" end="00:13:27.060" style="s2">the folks in the California State</p>
+<p begin="00:13:23.700" end="00:13:30.510" style="s2">Department of Social Services asked us</p>
+<p begin="00:13:27.060" end="00:13:33.570" style="s2">to write up some papers essentially on</p>
+<p begin="00:13:30.510" end="00:13:35.550" style="s2">the barriers to adoption of food</p>
+<p begin="00:13:33.570" end="00:13:37.260" style="s2">assistance in California and as a side</p>
+<p begin="00:13:35.550" end="00:13:39.960" style="s2">thing they asked us to look at a</p>
+<p begin="00:13:37.260" end="00:13:41.820" style="s2">procurement that they had coming out for</p>
+<p begin="00:13:39.960" end="00:13:43.410" style="s2">the child welfare system I noticed there</p>
+<p begin="00:13:41.820" end="00:13:44.490" style="s2">was a procurement<span style="s4"> meet up I&#39;d love to</span></p>
+<p begin="00:13:43.410" end="00:13:47.670" style="s2">come<span style="s4"> to</span> that<span style="s4"> I&#39;m</span> sorry won&#39;t be in town</p>
+<p begin="00:13:44.490" end="00:13:50.850" style="s2">this procurement when we looked at it</p>
+<p begin="00:13:47.670" end="00:13:53.820" style="s2">what all the water marks of a failed</p>
+<p begin="00:13:50.850" end="00:13:55.260" style="s2">large government IT project I took a</p>
+<p begin="00:13:53.820" end="00:13:56.640" style="s2">year<span style="s4"> off</span> from<span style="s3"> coach</span> American went to</p>
+<p begin="00:13:55.260" end="00:13:58.770" style="s2">work<span style="s3"> in</span> the White House during the time</p>
+<p begin="00:13:56.640" end="00:14:00.870" style="s2">of healthcare.gov so that feels very</p>
+<p begin="00:13:58.770" end="00:14:03.990" style="s2">fresh and raw to me even<span style="s3"> two</span> years later</p>
+<p begin="00:14:00.870" end="00:14:07.260" style="s2">this project looked like that with even</p>
+<p begin="00:14:03.990" end="00:14:09.810" style="s2">more signs of failure ahead it was a</p>
+<p begin="00:14:07.260" end="00:14:13.290" style="s2">going to go out<span style="s4"> as</span> a 600 million dollar</p>
+<p begin="00:14:09.810" end="00:14:16.350" style="s2">initial bid very waterfall seven modules</p>
+<p begin="00:14:13.290" end="00:14:19.860" style="s2">of software alt delivered all at once</p>
+<p begin="00:14:16.350" end="00:14:22.320" style="s2">over the course<span style="s3"> of</span> six<span style="s4"> years</span> very long</p>
+<p begin="00:14:19.860" end="00:14:23.490" style="s2">story here but<span style="s3"> I</span> when I will dwell in<span style="s3"> a</span></p>
+<p begin="00:14:22.320" end="00:14:26.490" style="s2">little bit because<span style="s3"> I</span> think<span style="s3"> it&#39;s</span> so</p>
+<p begin="00:14:23.490" end="00:14:28.170" style="s2">powerful and important but we were able</p>
+<p begin="00:14:26.490" end="00:14:32.160" style="s2"><span style="s3">to</span> change that procurement we were able</p>
+<p begin="00:14:28.170" end="00:14:34.500" style="s2"><span style="s3">to</span> help help that team in California</p>
+<p begin="00:14:32.160" end="00:14:35.850" style="s2">take<span style="s4"> a</span> different path<span style="s3"> I&#39;ll</span> tell<span style="s3"> you</span> a</p>
+<p begin="00:14:34.500" end="00:14:37.110" style="s2">little bit about that before I just want</p>
+<p begin="00:14:35.850" end="00:14:39.930" style="s2"><span style="s3">to</span> say I<span style="s4"> think</span> the reason we were able</p>
+<p begin="00:14:37.110" end="00:14:41.880" style="s2"><span style="s3">to</span> get a great alignment around this</p>
+<p begin="00:14:39.930" end="00:14:44.460" style="s2">project is<span style="s3"> that</span> there are four hundred</p>
+<p begin="00:14:41.880" end="00:14:46.800" style="s2"><span style="s3">and seventy-five thousand cases</span></p>
+<p begin="00:14:44.460" end="00:14:48.930" style="s2">of abuse and<span style="s3"> neglect</span> or reported cases</p>
+<p begin="00:14:46.800" end="00:14:53.220" style="s2">of abuse<span style="s3"> and</span> neglect in the<span style="s4"> state</span> of</p>
+<p begin="00:14:48.930" end="00:14:56.040" style="s2">California<span style="s3"> every year and the fact that</span></p>
+<p begin="00:14:53.220" end="00:14:59.700" style="s2">the system that<span style="s3"> the</span> social workers use</p>
+<p begin="00:14:56.040" end="00:15:03.330" style="s2">and that the program managers use to try</p>
+<p begin="00:14:59.700" end="00:15:05.430" style="s2">to<span style="s3"> analyze</span> the data but the is been out</p>
+<p begin="00:15:03.330" end="00:15:07.410" style="s2"><span style="s3">of</span> compliance with federal standards for</p>
+<p begin="00:15:05.430" end="00:15:09.990" style="s2">many years essentially there<span style="s4"> is</span> almost</p>
+<p begin="00:15:07.410" end="00:15:13.200" style="s2">no usable software for social workers in</p>
+<p begin="00:15:09.990" end="00:15:14.880" style="s2">the state of California is not okay and</p>
+<p begin="00:15:13.200" end="00:15:17.520" style="s2">I<span style="s4"> think</span> we were able<span style="s4"> to</span> make it clear</p>
+<p begin="00:15:14.880" end="00:15:20.430" style="s2">that if this project went forward we</p>
+<p begin="00:15:17.520" end="00:15:22.140" style="s2">will<span style="s3"> probably wait six years to</span> find out</p>
+<p begin="00:15:20.430" end="00:15:24.660" style="s2">that<span style="s3"> in</span><span style="s4"> fact</span> it didn&#39;t work and we had</p>
+<p begin="00:15:22.140" end="00:15:27.210" style="s2">to start over again and it could<span style="s4"> be</span> 10</p>
+<p begin="00:15:24.660" end="00:15:29.040" style="s2">or 12<span style="s4"> years</span> before<span style="s3"> social</span> workers had</p>
+<p begin="00:15:27.210" end="00:15:32.970" style="s2">the tools that they need to<span style="s3"> do</span> their job</p>
+<p begin="00:15:29.040" end="00:15:34.650" style="s2">to take care of kids in California helps</p>
+<p begin="00:15:32.970" end="00:15:37.350" style="s2">it<span style="s3"> definitely</span> helps work on projects</p>
+<p begin="00:15:34.650" end="00:15:39.450" style="s2">where the stakes are really high so</p>
+<p begin="00:15:37.350" end="00:15:41.820" style="s2"><span style="s3">essentially</span> we in the course of<span style="s3"> about</span></p>
+<p begin="00:15:39.450" end="00:15:44.730" style="s2">eight weeks<span style="s3"> help</span> them take an agile</p>
+<p begin="00:15:41.820" end="00:15:47.640" style="s2">modular iterative approach and they</p>
+<p begin="00:15:44.730" end="00:15:51.060" style="s2">completely<span style="s4"> changed</span> what the procurement</p>
+<p begin="00:15:47.640" end="00:15:53.670" style="s2">look like instead of all seven modules</p>
+<p begin="00:15:51.060" end="00:15:55.950" style="s2">delivered<span style="s3"> and</span> in six years it sections</p>
+<p begin="00:15:53.670" end="00:15:58.320" style="s2">so six actually broken up into seven</p>
+<p begin="00:15:55.950" end="00:16:00.360" style="s2">modules so we started by releasing an</p>
+<p begin="00:15:58.320" end="00:16:02.220" style="s2"><span style="s3">RFP</span> just for an API to wrap around the</p>
+<p begin="00:16:00.360" end="00:16:03.750" style="s2">mainframe and then the first<span style="s3"> module</span> that</p>
+<p begin="00:16:02.220" end="00:16:06.420" style="s2">will be delivered as is the case</p>
+<p begin="00:16:03.750" end="00:16:10.470" style="s2">management module and there&#39;s obvious</p>
+<p begin="00:16:06.420" end="00:16:13.140" style="s2">reasons why why that<span style="s4"> his</span> I don&#39;t have a</p>
+<p begin="00:16:10.470" end="00:16:16.970" style="s2">slide<span style="s4"> here</span> but it also they the you guys</p>
+<p begin="00:16:13.140" end="00:16:19.710" style="s2">have pivotal in this building the<span style="s4"> the</span></p>
+<p begin="00:16:16.970" end="00:16:21.600" style="s2">request for proposal actually<span style="s3"> specifies</span></p>
+<p begin="00:16:19.710" end="00:16:24.120" style="s2">that the vendor must use pivotal tracker</p>
+<p begin="00:16:21.600" end="00:16:27.750" style="s2">must talk about user stories must</p>
+<p begin="00:16:24.120" end="00:16:30.450" style="s2">demonstrate an ability to<span style="s3"> translate</span></p>
+<p begin="00:16:27.750" end="00:16:32.550" style="s2">understand and translate user needs into</p>
+<p begin="00:16:30.450" end="00:16:34.710" style="s2">features rather than an ability<span style="s4"> to</span></p>
+<p begin="00:16:32.550" end="00:16:36.930" style="s2">comply with a very large set of</p>
+<p begin="00:16:34.710" end="00:16:38.120" style="s2">documents that<span style="s3"> describe</span> requirements and</p>
+<p begin="00:16:36.930" end="00:16:39.990" style="s2">we think<span style="s4"> that</span> that&#39;s going<span style="s3"> to</span> be really</p>
+<p begin="00:16:38.120" end="00:16:43.710" style="s2">important in getting a system that</p>
+<p begin="00:16:39.990" end="00:16:46.680" style="s2">actually works<span style="s3"> for</span> California and for</p>
+<p begin="00:16:43.710" end="00:16:48.630" style="s2">those open source fans and leaders in</p>
+<p begin="00:16:46.680" end="00:16:51.450" style="s2">the audience we were able to<span style="s3"> get</span></p>
+<p begin="00:16:48.630" end="00:16:54.780" style="s2">language we<span style="s3"> helped</span><span style="s4"> them</span> write language</p>
+<p begin="00:16:51.450" end="00:16:56.730" style="s2">which specifies that you know commodity</p>
+<p begin="00:16:54.780" end="00:16:57.950" style="s2">open source components and tools will be</p>
+<p begin="00:16:56.730" end="00:17:00.140" style="s2">used when they&#39;re available</p>
+<p begin="00:16:57.950" end="00:17:01.910" style="s2">new source will source code will<span style="s4"> be</span> made</p>
+<p begin="00:17:00.140" end="00:17:05.720" style="s2">open and reusable and published with an</p>
+<p begin="00:17:01.910" end="00:17:08.240" style="s2">appropriate license when they intend<span style="s3"> to</span></p>
+<p begin="00:17:05.720" end="00:17:10.220" style="s2">release the entire project as an open</p>
+<p begin="00:17:08.240" end="00:17:12.490" style="s2">source<span style="s3"> product</span> when it&#39;s done and<span style="s3"> I</span></p>
+<p begin="00:17:10.220" end="00:17:15.140" style="s2"><span style="s3">think</span> this could really change the game</p>
+<p begin="00:17:12.490" end="00:17:18.079" style="s2">for certainly<span style="s3"> child</span> welfare systems and</p>
+<p begin="00:17:15.140" end="00:17:19.610" style="s2">of course every state<span style="s3"> needs</span> one but it</p>
+<p begin="00:17:18.079" end="00:17:22.940" style="s2">was really<span style="s4"> interesting</span><span style="s3"> when</span> we were in</p>
+<p begin="00:17:19.610" end="00:17:25.790" style="s2">this meeting where<span style="s4"> we</span> sort<span style="s4"> of</span> convinced</p>
+<p begin="00:17:22.940" end="00:17:28.600" style="s2">them to take this approach an unnamed</p>
+<p begin="00:17:25.790" end="00:17:31.220" style="s2">government official said we&#39;ll do this</p>
+<p begin="00:17:28.600" end="00:17:33.830" style="s2">but only<span style="s4"> if</span> this<span style="s3"> can</span> be the new way we</p>
+<p begin="00:17:31.220" end="00:17:36.170" style="s2">do everything<span style="s3"> and</span> I<span style="s3"> think</span> that speaks<span style="s3"> to</span></p>
+<p begin="00:17:33.830" end="00:17:38.240" style="s2">how much folks really realize the old</p>
+<p begin="00:17:36.170" end="00:17:40.430" style="s2">way doesn&#39;t work they just needed a</p>
+<p begin="00:17:38.240" end="00:17:41.660" style="s2">different path they needed<span style="s4"> to</span> see that</p>
+<p begin="00:17:40.430" end="00:17:44.150" style="s2">there was an alternative and that</p>
+<p begin="00:17:41.660" end="00:17:45.890" style="s2">alternative was not it certainly has</p>
+<p begin="00:17:44.150" end="00:17:51.140" style="s2">risk in it but it&#39;s not as risky as</p>
+<p begin="00:17:45.890" end="00:17:53.240" style="s2">something<span style="s4"> that</span> you know will fail team</p>
+<p begin="00:17:51.140" end="00:17:54.620" style="s2">amazing team came in the state of</p>
+<p begin="00:17:53.240" end="00:17:56.810" style="s2">California came together to make this</p>
+<p begin="00:17:54.620" end="00:17:57.890" style="s2">happen I<span style="s4"> mean we&#39;ll certainly</span><span style="s3"> take</span> some</p>
+<p begin="00:17:56.810" end="00:18:00.590" style="s2">of the credit for pushing the envelope</p>
+<p begin="00:17:57.890" end="00:18:03.230" style="s2">on it and helping that they had enormous</p>
+<p begin="00:18:00.590" end="00:18:05.930" style="s2">courage to throw out a process that have</p>
+<p begin="00:18:03.230" end="00:18:09.860" style="s2">been working on for three years and redo</p>
+<p begin="00:18:05.930" end="00:18:12.080" style="s2">it in<span style="s3"> the</span> course of eight weeks<span style="s4"> okay</span><span style="s3"> I&#39;m</span></p>
+<p begin="00:18:09.860" end="00:18:15.080" style="s2">at time so really quickly that work came</p>
+<p begin="00:18:12.080" end="00:18:17.270" style="s2">about because<span style="s3"> of</span> our<span style="s3"> work</span> on food stamps</p>
+<p begin="00:18:15.080" end="00:18:19.310" style="s2"><span style="s3">so</span> this is how you apply for<span style="s3"> food</span></p>
+<p begin="00:18:17.270" end="00:18:25.370" style="s2">assistance in state<span style="s4"> of</span> California it</p>
+<p begin="00:18:19.310" end="00:18:26.960" style="s2">goes<span style="s3"> on</span> and on and on it&#39;s 50 screens a</p>
+<p begin="00:18:25.370" end="00:18:32.330" style="s2">couple hundred questions some of<span style="s4"> the</span></p>
+<p begin="00:18:26.960" end="00:18:34.280" style="s2">questions are frankly crazy we&#39;ve been</p>
+<p begin="00:18:32.330" end="00:18:37.190" style="s2">working on better ways to apply for<span style="s4"> food</span></p>
+<p begin="00:18:34.280" end="00:18:40.070" style="s2">stamps here<span style="s3"> is</span> a sample works on a</p>
+<p begin="00:18:37.190" end="00:18:42.740" style="s2">mobile phone in a tablet takes just ask</p>
+<p begin="00:18:40.070" end="00:18:44.810" style="s2">a few questions gets your<span style="s4"> brush</span> signed</p>
+<p begin="00:18:42.740" end="00:18:46.580" style="s2">up really quickly course we&#39;re signing</p>
+<p begin="00:18:44.810" end="00:18:48.320" style="s2">you up on the back end but for the user</p>
+<p begin="00:18:46.580" end="00:18:50.780" style="s2">experience<span style="s4"> it&#39;s</span> dramatically better and</p>
+<p begin="00:18:48.320" end="00:18:52.160" style="s2">dramatically different we follow up with</p>
+<p begin="00:18:50.780" end="00:18:56.660" style="s2">all the folks that apply for food stamps</p>
+<p begin="00:18:52.160" end="00:18:58.370" style="s2">through our through our interface and</p>
+<p begin="00:18:56.660" end="00:19:01.190" style="s2">find out what happens to them afterwards</p>
+<p begin="00:18:58.370" end="00:19:02.840" style="s2">a lot<span style="s4"> of</span> them sure we got<span style="s3"> to applied but</span></p>
+<p begin="00:19:01.190" end="00:19:04.280" style="s2">then they called you for your interview</p>
+<p begin="00:19:02.840" end="00:19:06.440" style="s2">and they called<span style="s3"> you</span> at a certain time</p>
+<p begin="00:19:04.280" end="00:19:08.720" style="s2">but they sent you a letter about that</p>
+<p begin="00:19:06.440" end="00:19:11.370" style="s2">interview and that letter came after the</p>
+<p begin="00:19:08.720" end="00:19:15.120" style="s2">date the interview so you missed it</p>
+<p begin="00:19:11.370" end="00:19:17.610" style="s2">so we find those things out we found<span style="s3"> out</span></p>
+<p begin="00:19:15.120" end="00:19:19.470" style="s2">that on the online forum you were</p>
+<p begin="00:19:17.610" end="00:19:21.150" style="s2">supposed to be<span style="s4"> able</span> to upload documents</p>
+<p begin="00:19:19.470" end="00:19:24.480" style="s2">but when you attach<span style="s4"> a</span> document<span style="s4"> and</span> hit</p>
+<p begin="00:19:21.150" end="00:19:26.520" style="s2">submit it just went into thin air so</p>
+<p begin="00:19:24.480" end="00:19:30.240" style="s2">this<span style="s4"> is</span> when your mobile phone that you</p>
+<p begin="00:19:26.520" end="00:19:31.350" style="s2">can actually<span style="s3"> attach</span> attach a picture of</p>
+<p begin="00:19:30.240" end="00:19:32.670" style="s2">your driver&#39;s license<span style="s3"> or</span> whatever</p>
+<p begin="00:19:31.350" end="00:19:34.710" style="s2">documentation you&#39;re trying to provide</p>
+<p begin="00:19:32.670" end="00:19:37.770" style="s2">and actually upload it and actually have</p>
+<p begin="00:19:34.710" end="00:19:39.480" style="s2">it comply so we&#39;ve been using of<span style="s4"> course</span></p>
+<p begin="00:19:37.770" end="00:19:42.390" style="s2">the build measure and learn through</p>
+<p begin="00:19:39.480" end="00:19:44.250" style="s2">paradigm this is outdated but we&#39;re</p>
+<p begin="00:19:42.390" end="00:19:46.170" style="s2">tracking all of<span style="s3"> these folks through the</span></p>
+<p begin="00:19:44.250" end="00:19:48.720" style="s2">system<span style="s3"> and</span> playing back to our County</p>
+<p begin="00:19:46.170" end="00:19:50.220" style="s2">Partners in California this<span style="s4"> is not just</span></p>
+<p begin="00:19:48.720" end="00:19:51.809" style="s2">where your technology fails but where</p>
+<p begin="00:19:50.220" end="00:19:53.850" style="s2">your process fails and people are not</p>
+<p begin="00:19:51.809" end="00:19:55.920" style="s2">getting the benefits that<span style="s4"> they</span> need I&#39;ll</p>
+<p begin="00:19:53.850" end="00:19:58.350" style="s2">get off my soapbox about benefits but in</p>
+<p begin="00:19:55.920" end="00:20:00.090" style="s2"><span style="s3">California</span> where the 49th out of 50</p>
+<p begin="00:19:58.350" end="00:20:01.920" style="s2">states<span style="s3"> an</span> adoption of<span style="s3"> this</span> program by</p>
+<p begin="00:20:00.090" end="00:20:05.250" style="s2">eligible people and it&#39;s not<span style="s3"> because</span></p>
+<p begin="00:20:01.920" end="00:20:08.700" style="s2"><span style="s3">we&#39;re</span> evil conspiracy so who are trying</p>
+<p begin="00:20:05.250" end="00:20:09.960" style="s2"><span style="s3">to</span> keep trying to keep people off the</p>
+<p begin="00:20:08.700" end="00:20:11.790" style="s2">benefits it&#39;s just the things so</p>
+<p begin="00:20:09.960" end="00:20:13.470" style="s2">complicated that most people<span style="s3"> try</span> to get</p>
+<p begin="00:20:11.790" end="00:20:15.360" style="s2">on it<span style="s3"> and</span> then they can&#39;t so we&#39;re</p>
+<p begin="00:20:13.470" end="00:20:17.250" style="s2">helping California move that number up</p>
+<p begin="00:20:15.360" end="00:20:19.679" style="s2">the only state with lower enrollment</p>
+<p begin="00:20:17.250" end="00:20:22.920" style="s2">races Wyoming which is like three</p>
+<p begin="00:20:19.679" end="00:20:24.480" style="s2">hundred<span style="s3"> and</span> seventy thousand people so</p>
+<p begin="00:20:22.920" end="00:20:26.250" style="s2">what we&#39;re really<span style="s3"> trying</span> to<span style="s3"> do</span> is<span style="s4"> get</span> in</p>
+<p begin="00:20:24.480" end="00:20:28.590" style="s2">a virtuous cycle with governments where</p>
+<p begin="00:20:26.250" end="00:20:30.929" style="s2">we build trust with them by<span style="s4"> doing</span> these</p>
+<p begin="00:20:28.590" end="00:20:33.270" style="s2">projects we then in this case at least</p>
+<p begin="00:20:30.929" end="00:20:35.940" style="s2"><span style="s3">we</span> built an alternate app collected data</p>
+<p begin="00:20:33.270" end="00:20:38.220" style="s2">from<span style="s3"> the</span> users helped that data play</p>
+<p begin="00:20:35.940" end="00:20:40.290" style="s2">that data back to<span style="s3"> our</span> partners so<span style="s4"> they</span></p>
+<p begin="00:20:38.220" end="00:20:41.790" style="s2">could debug their operations and many</p>
+<p begin="00:20:40.290" end="00:20:43.440" style="s2"><span style="s3">times</span> now that&#39;s actually resulting in</p>
+<p begin="00:20:41.790" end="00:20:46.800" style="s2">policy changes which i won&#39;t<span style="s3"> go</span><span style="s4"> into</span></p>
+<p begin="00:20:43.440" end="00:20:49.530" style="s2">right<span style="s3"> now</span> I hope you&#39;re there are other</p>
+<p begin="00:20:46.800" end="00:20:51.000" style="s2">projects that are going<span style="s3"> on</span> many others</p>
+<p begin="00:20:49.530" end="00:20:52.559" style="s2">that&#39;s sort of a smattering of them that</p>
+<p begin="00:20:51.000" end="00:20:55.800" style="s2">i&#39;m personally pretty excited about</p>
+<p begin="00:20:52.559" end="00:20:59.040" style="s2">right now but i<span style="s3"> will</span> end with an offer</p>
+<p begin="00:20:55.800" end="00:21:00.900" style="s2">again to jump into the ocean so there</p>
+<p begin="00:20:59.040" end="00:21:02.250" style="s2">are<span style="s3"> a</span> million ways that you can get</p>
+<p begin="00:21:00.900" end="00:21:05.010" style="s2"><span style="s4">involved</span> with this work it sounds<span style="s3"> like</span></p>
+<p begin="00:21:02.250" end="00:21:06.630" style="s2">everyone&#39;s already involved with Civic</p>
+<p begin="00:21:05.010" end="00:21:08.700" style="s2">tech in some way here but you know</p>
+<p begin="00:21:06.630" end="00:21:11.460" style="s2">whether you&#39;ve got<span style="s3"> an</span> hour to work on</p>
+<p begin="00:21:08.700" end="00:21:14.730" style="s2">open issues on our Civic tech issue</p>
+<p begin="00:21:11.460" end="00:21:18.300" style="s2">finder or a night a week to come to hack</p>
+<p begin="00:21:14.730" end="00:21:20.760" style="s2">died<span style="s4"> and</span><span style="s3"> Brigade</span> meetings that&#39;s great</p>
+<p begin="00:21:18.300" end="00:21:22.650" style="s2">if you want to give a year if you&#39;re<span style="s4"> in</span></p>
+<p begin="00:21:20.760" end="00:21:25.020" style="s2">a private sector<span style="s3"> job</span> or in a public</p>
+<p begin="00:21:22.650" end="00:21:26.730" style="s2">sector job and you&#39;ve got</p>
+<p begin="00:21:25.020" end="00:21:28.770" style="s2">a chance to take a year out and really</p>
+<p begin="00:21:26.730" end="00:21:30.900" style="s2">dive into this stuff we&#39;ve got that will</p>
+<p begin="00:21:28.770" end="00:21:32.400" style="s2">be<span style="s3"> recruiting</span> again for the Code for</p>
+<p begin="00:21:30.900" end="00:21:34.710" style="s2">America fellowship in the<span style="s3"> next</span> couple of</p>
+<p begin="00:21:32.400" end="00:21:35.970" style="s2">months part<span style="s3"> of</span> my work at the White</p>
+<p begin="00:21:34.710" end="00:21:37.380" style="s2">House was on the presidential innovation</p>
+<p begin="00:21:35.970" end="00:21:39.390" style="s2">fellows which is another great</p>
+<p begin="00:21:37.380" end="00:21:41.430" style="s2">opportunity and I<span style="s3"> always</span> encourage</p>
+<p begin="00:21:39.390" end="00:21:42.720" style="s2">fantastic folks who care about their</p>
+<p begin="00:21:41.430" end="00:21:45.630" style="s2">fellow citizens their fellow human</p>
+<p begin="00:21:42.720" end="00:21:49.800" style="s2">beings to have great impact by working</p>
+<p begin="00:21:45.630" end="00:21:53.930" style="s2"><span style="s3">in</span> government and that&#39;s it<span style="s3"> and</span> I did<span style="s4"> it</span></p>
+<p begin="00:21:49.800" end="00:21:53.930" style="s2">in a few minutes or like 16</p>
+<p begin="00:22:13.170" end="00:22:20.230" style="s2">yeah no not<span style="s3"> this</span> one credit for throwing</p>
+<p begin="00:22:18.340" end="00:22:24.460" style="s2">away where they had worked<span style="s3"> on</span> for three</p>
+<p begin="00:22:20.230" end="00:22:34.000" style="s2">years you&#39;re being serious right like I</p>
+<p begin="00:22:24.460" end="00:22:36.720" style="s2">am what part was convenient so what</p>
+<p begin="00:22:34.000" end="00:22:39.340" style="s2">happened<span style="s3"> was</span> they had been<span style="s3"> in</span> a very</p>
+<p begin="00:22:36.720" end="00:22:42.790" style="s2"><span style="s3">traditional</span> government<span style="s3"> procurement</span></p>
+<p begin="00:22:39.340" end="00:22:46.150" style="s2">process which involves a very long time</p>
+<p begin="00:22:42.790" end="00:22:48.490" style="s2"><span style="s3">to build to gather requirements and I&#39;m</span></p>
+<p begin="00:22:46.150" end="00:22:50.470" style="s2">maybe<span style="s3"> slightly</span> exaggerating by the three</p>
+<p begin="00:22:48.490" end="00:22:52.540" style="s2">years it actually but it may actually be</p>
+<p begin="00:22:50.470" end="00:22:53.950" style="s2">longer because they had a couple of</p>
+<p begin="00:22:52.540" end="00:22:55.419" style="s2">failed procurements where they tried<span style="s4"> to</span></p>
+<p begin="00:22:53.950" end="00:22:58.720" style="s2">get it out the door and then didn&#39;t so</p>
+<p begin="00:22:55.419" end="00:23:02.500" style="s2">this was this was i don&#39;t know the</p>
+<p begin="00:22:58.720" end="00:23:05.910" style="s2">second third or fourth attempt so they</p>
+<p begin="00:23:02.500" end="00:23:08.040" style="s2">that requirements anyone down a giant</p>
+<p begin="00:23:05.910" end="00:23:10.929" style="s2">thousand-page requirements gathering</p>
+<p begin="00:23:08.040" end="00:23:14.830" style="s2">thing anyone here I haven&#39;t either you</p>
+<p begin="00:23:10.929" end="00:23:17.020" style="s2">have yes fun isn&#39;t it super fun um yeah</p>
+<p begin="00:23:14.830" end="00:23:18.760" style="s2">when you when you when you move<span style="s4"> to</span> a</p>
+<p begin="00:23:17.020" end="00:23:21.100" style="s2">model<span style="s4"> that</span> says we&#39;re actually going to</p>
+<p begin="00:23:18.760" end="00:23:24.340" style="s2">focus on the understanding<span style="s3"> of</span> user needs</p>
+<p begin="00:23:21.100" end="00:23:26.110" style="s2">and the ability to iteratively make</p>
+<p begin="00:23:24.340" end="00:23:27.820" style="s2">something that works your<span style="s3"> requirements</span></p>
+<p begin="00:23:26.110" end="00:23:31.840" style="s2">document will sort of go in the garbage</p>
+<p begin="00:23:27.820" end="00:23:34.950" style="s2"><span style="s3">and</span> so they did<span style="s3"> they</span> I think<span style="s4"> there was a</span></p>
+<p begin="00:23:31.840" end="00:23:40.750" style="s2">lot of work<span style="s4"> that</span> was let&#39;s say set aside</p>
+<p begin="00:23:34.950" end="00:23:44.530" style="s2">the time frame that we during which we</p>
+<p begin="00:23:40.750" end="00:23:47.110" style="s2">helped them rewrite the<span style="s3"> RFP</span> coat America</p>
+<p begin="00:23:44.530" end="00:23:51.549" style="s2">summit was the end beginning of October</p>
+<p begin="00:23:47.110" end="00:23:54.700" style="s2">the vendor we the RFP had to go out the</p>
+<p begin="00:23:51.549" end="00:23:57.040" style="s2">day<span style="s4"> before</span> thanksgiving and it did it</p>
+<p begin="00:23:54.700" end="00:23:59.020" style="s2">just looked really really different<span style="s3"> we</span></p>
+<p begin="00:23:57.040" end="00:24:03.610" style="s2">held a vendor forum then on<span style="s3"> december</span></p>
+<p begin="00:23:59.020" end="00:24:05.770" style="s2">fourth and got a different some of the</p>
+<p begin="00:24:03.610" end="00:24:10.480" style="s2">incumbents the traditional players came</p>
+<p begin="00:24:05.770" end="00:24:12.850" style="s2">to the table and about<span style="s3"> 62</span> maybe a<span style="s4"> little</span></p>
+<p begin="00:24:10.480" end="00:24:14.269" style="s2">bit more than<span style="s3"> six</span> new companies also</p>
+<p begin="00:24:12.850" end="00:24:16.099" style="s2">came to<span style="s3"> learn about the</span><span style="s4"> opera</span></p>
+<p begin="00:24:14.269" end="00:24:18.139" style="s2"><span style="s3">did</span> a bit on the work like tell me as<span style="s3"> I</span></p>
+<p begin="00:24:16.099" end="00:24:23.690" style="s2">had never worked or<span style="s3"> didn&#39;t</span> have</p>
+<p begin="00:24:18.139" end="00:24:25.639" style="s2">pre-existing contracts that&#39;s right yeah</p>
+<p begin="00:24:23.690" end="00:24:29.259" style="s2">and<span style="s3"> I</span> think<span style="s3"> it&#39;s</span> really<span style="s4"> public</span></p>
+<p begin="00:24:25.639" end="00:24:32.599" style="s2">information the the companies that came</p>
+<p begin="00:24:29.259" end="00:24:35.149" style="s2">but but some of them were companies that</p>
+<p begin="00:24:32.599" end="00:24:38.359" style="s2">were<span style="s3"> born</span> out of healthcare.gov rescue</p>
+<p begin="00:24:35.149" end="00:24:40.279" style="s2">effort so their development teams that</p>
+<p begin="00:24:38.359" end="00:24:43.669" style="s2">have a lot of experience now working in</p>
+<p begin="00:24:40.279" end="00:24:45.049" style="s2">government but have done it had the</p>
+<p begin="00:24:43.669" end="00:24:46.639" style="s2">chance within the context of</p>
+<p begin="00:24:45.049" end="00:24:51.320" style="s2">healthcare.gov to sort of do it their</p>
+<p begin="00:24:46.639" end="00:24:54.889" style="s2">way and been wildly successful some of</p>
+<p begin="00:24:51.320" end="00:24:56.869" style="s2">them I think actually that pivotal came</p>
+<p begin="00:24:54.889" end="00:25:00.469" style="s2">and I don&#39;t know if they&#39;ve bid yet but</p>
+<p begin="00:24:56.869" end="00:25:02.179" style="s2">I think they were there so yeah and</p>
+<p begin="00:25:00.469" end="00:25:04.899" style="s2"><span style="s3">other</span> and other<span style="s3"> companies</span> that<span style="s3"> would</span> not</p>
+<p begin="00:25:02.179" end="00:25:04.899" style="s2">have otherwise come</p>
+<p begin="00:25:13.440" end="00:25:23.950" style="s2">I don&#39;t know I haven&#39;t talked to them</p>
+<p begin="00:25:20.639" end="00:25:25.480" style="s2">yeah seriously did you basically just</p>
+<p begin="00:25:23.950" end="00:25:28.869" style="s2">out with the old in it with a whole new</p>
+<p begin="00:25:25.480" end="00:25:35.679" style="s2">set of vendors now or<span style="s3"> or</span> are some<span style="s3"> of</span></p>
+<p begin="00:25:28.869" end="00:25:37.389" style="s2">these vendors so<span style="s3"> I</span> can speak to that a</p>
+<p begin="00:25:35.679" end="00:25:38.529" style="s2">little bit more clearly from my</p>
+<p begin="00:25:37.389" end="00:25:44.409" style="s2">experience in the federal government</p>
+<p begin="00:25:38.529" end="00:25:48.429" style="s2"><span style="s4">we&#39;re</span> different people here know what 18</p>
+<p begin="00:25:44.409" end="00:25:51.340" style="s2">f is largely ok so this unit within</p>
+<p begin="00:25:48.429" end="00:25:53.019" style="s2">federal government has<span style="s4"> done</span> in fact we</p>
+<p begin="00:25:51.340" end="00:25:56.080" style="s2">borrowed heavily and the rewrite of the</p>
+<p begin="00:25:53.019" end="00:25:59.350" style="s2">of the RFP from work that<span style="s4"> the</span> 18 of</p>
+<p begin="00:25:56.080" end="00:26:01.869" style="s2">consulting teams have done I mean I</p>
+<p begin="00:25:59.350" end="00:26:04.149" style="s2"><span style="s4">think</span> what so 18<span style="s4"> efrain</span> since it is</p>
+<p begin="00:26:01.869" end="00:26:05.710" style="s2"><span style="s3">something</span> called the agile BP a blanket</p>
+<p begin="00:26:04.149" end="00:26:07.840" style="s2">purchase agreement and in order<span style="s3"> to</span></p>
+<p begin="00:26:05.710" end="00:26:10.359" style="s2">qualify<span style="s3"> for the algae BPA you actually</span></p>
+<p begin="00:26:07.840" end="00:26:12.309" style="s2">de send a team to essentially a</p>
+<p begin="00:26:10.359" end="00:26:14.259" style="s2">hackathon it wasn&#39;t a hackathon I guess</p>
+<p begin="00:26:12.309" end="00:26:15.669" style="s2">I&#39;m you you had to<span style="s3"> prove</span><span style="s4"> that</span> you could</p>
+<p begin="00:26:14.259" end="00:26:18.940" style="s2">work in an agile way they gave you a</p>
+<p begin="00:26:15.669" end="00:26:21.940" style="s2">test case of something your team had to</p>
+<p begin="00:26:18.940" end="00:26:24.100" style="s2"><span style="s3">build</span> and if you if you could<span style="s3"> do it in a</span></p>
+<p begin="00:26:21.940" end="00:26:27.279" style="s2">very short period of time then you<span style="s3"> were</span></p>
+<p begin="00:26:24.100" end="00:26:29.289" style="s2"><span style="s4">qualified</span> for it and I think<span style="s3"> what</span> you</p>
+<p begin="00:26:27.279" end="00:26:31.450" style="s2">see is that the folks who came to</p>
+<p begin="00:26:29.289" end="00:26:33.789" style="s2">participate in<span style="s3"> that</span> agile BPA were all</p>
+<p begin="00:26:31.450" end="00:26:35.499" style="s2">the incumbents and they sent the teams</p>
+<p begin="00:26:33.789" end="00:26:37.480" style="s2">that they thought could achieve that</p>
+<p begin="00:26:35.499" end="00:26:40.809" style="s2">goal<span style="s3"> and</span> I think that&#39;s part of our</p>
+<p begin="00:26:37.480" end="00:26:43.330" style="s2">theory of change is it&#39;s not<span style="s3"> that</span><span style="s4"> we</span></p>
+<p begin="00:26:40.809" end="00:26:44.889" style="s2"><span style="s3">need</span> to<span style="s4"> take</span> all of government contracts</p>
+<p begin="00:26:43.330" end="00:26:46.480" style="s2">and give them to<span style="s4"> a</span> new set of<span style="s4"> people</span> at</p>
+<p begin="00:26:44.889" end="00:26:48.460" style="s2">all it&#39;s that we need<span style="s3"> to</span> change the</p>
+<p begin="00:26:46.480" end="00:26:50.169" style="s2"><span style="s3">rules</span> and if the incumbents are going to</p>
+<p begin="00:26:48.460" end="00:26:52.239" style="s2">play they need to play<span style="s3"> by</span> the new rules</p>
+<p begin="00:26:50.169" end="00:26:54.340" style="s2">they need to have people who are trained</p>
+<p begin="00:26:52.239" end="00:26:56.200" style="s2">and agile who understand open source and</p>
+<p begin="00:26:54.340" end="00:26:59.350" style="s2">give them those rules they&#39;ll either</p>
+<p begin="00:26:56.200" end="00:27:01.720" style="s2">come to the table or go home but I think</p>
+<p begin="00:26:59.350" end="00:27:04.470" style="s2">that<span style="s3"> they</span> can compete on<span style="s4"> that</span> field and</p>
+<p begin="00:27:01.720" end="00:27:04.470" style="s2"><span style="s3">I</span> think that they will</p>
+<p begin="00:27:12.509" end="00:27:16.889" style="s2">it&#39;s a<span style="s3"> really good</span><span style="s4"> question</span> we struggle</p>
+<p begin="00:27:15.209" end="00:27:19.259" style="s2">a lot with advocacy because we find</p>
+<p begin="00:27:16.889" end="00:27:21.179" style="s2">ourselves often in a position where we</p>
+<p begin="00:27:19.259" end="00:27:24.209" style="s2">want<span style="s3"> to</span> become advocates because we have</p>
+<p begin="00:27:21.179" end="00:27:27.029" style="s2"><span style="s4">information</span> about how system is working</p>
+<p begin="00:27:24.209" end="00:27:28.759" style="s2">for instance that policymakers should</p>
+<p begin="00:27:27.029" end="00:27:30.929" style="s2">know that community members should know</p>
+<p begin="00:27:28.759" end="00:27:34.349" style="s2">and we don&#39;t always<span style="s3"> know</span> the right</p>
+<p begin="00:27:30.929" end="00:27:36.539" style="s2">answer we want to be partners with</p>
+<p begin="00:27:34.349" end="00:27:38.969" style="s2">government to we want to be more the</p>
+<p begin="00:27:36.539" end="00:27:41.909" style="s2">carrot than<span style="s3"> the</span> stick we very much</p>
+<p begin="00:27:38.969" end="00:27:44.489" style="s2">partner with a lot<span style="s4"> of</span> advocacy groups in</p>
+<p begin="00:27:41.909" end="00:27:47.399" style="s2">California around access to food</p>
+<p begin="00:27:44.489" end="00:27:49.109" style="s2">assistance and try to be part of<span style="s4"> that</span></p>
+<p begin="00:27:47.399" end="00:27:50.399" style="s2">ecosystem where we&#39;re playing our role</p>
+<p begin="00:27:49.109" end="00:27:52.789" style="s2">and they&#39;re<span style="s3"> playing</span> their role but we&#39;re</p>
+<p begin="00:27:50.399" end="00:27:57.509" style="s2">really we&#39;re understanding each other&#39;s</p>
+<p begin="00:27:52.789" end="00:28:01.549" style="s2">unique strengths to the<span style="s3"> issue of sort of</span></p>
+<p begin="00:27:57.509" end="00:28:04.829" style="s2">access what we&#39;ve really found is that</p>
+<p begin="00:28:01.549" end="00:28:07.409" style="s2">we get adoption of get<span style="s3"> CalFresh</span> which is</p>
+<p begin="00:28:04.829" end="00:28:10.109" style="s2">the mobile app that you saw through</p>
+<p begin="00:28:07.409" end="00:28:14.190" style="s2">partners who<span style="s3"> are</span> already doing outreach</p>
+<p begin="00:28:10.109" end="00:28:16.679" style="s2">we do outreach there&#39;s you know we for a</p>
+<p begin="00:28:14.190" end="00:28:18.539" style="s2">long time where would you know we work</p>
+<p begin="00:28:16.679" end="00:28:20.909" style="s2">in a section of<span style="s3"> San Francisco where a</span></p>
+<p begin="00:28:18.539" end="00:28:23.069" style="s2">lot of<span style="s3"> the</span> social services are so it&#39;s</p>
+<p begin="00:28:20.909" end="00:28:25.919" style="s2">we can just put flyers<span style="s3"> like</span> literally on</p>
+<p begin="00:28:23.069" end="00:28:28.859" style="s2">the outside<span style="s4"> of</span><span style="s3"> our</span> office and had people</p>
+<p begin="00:28:25.919" end="00:28:31.229" style="s2">come in<span style="s4"> and</span> we sign them up there or or</p>
+<p begin="00:28:28.859" end="00:28:32.729" style="s2">work with them<span style="s3"> in</span> another way but<span style="s3"> we</span></p>
+<p begin="00:28:31.229" end="00:28:36.209" style="s2">also work through food banks through</p>
+<p begin="00:28:32.729" end="00:28:38.789" style="s2">social workers through the<span style="s3"> the</span> other</p>
+<p begin="00:28:36.209" end="00:28:41.159" style="s2"><span style="s3">groups</span> in the community where they are</p>
+<p begin="00:28:38.789" end="00:28:43.109" style="s2">trying<span style="s3"> to</span> you know it&#39;s it what we hear</p>
+<p begin="00:28:41.159" end="00:28:46.889" style="s2">from from folks who are outreach workers</p>
+<p begin="00:28:43.109" end="00:28:49.379" style="s2">is I can sign them up in the street in</p>
+<p begin="00:28:46.889" end="00:28:51.359" style="s2">five minutes which means<span style="s4"> i&#39;ll</span> actually</p>
+<p begin="00:28:49.379" end="00:28:53.399" style="s2">get it done as opposed to trying to get</p>
+<p begin="00:28:51.359" end="00:28:55.649" style="s2"><span style="s3">them</span> to come<span style="s4"> to</span> my office sit<span style="s4"> down</span><span style="s3"> and</span></p>
+<p begin="00:28:53.399" end="00:28:58.379" style="s2">from the computer and spend over an hour</p>
+<p begin="00:28:55.649" end="00:29:03.599" style="s2">trying<span style="s4"> to</span><span style="s3"> get</span> through that form but we</p>
+<p begin="00:28:58.379" end="00:29:05.609" style="s2">are not in<span style="s4"> our</span> own work other than sort</p>
+<p begin="00:29:03.599" end="00:29:09.389" style="s2">of i think trying to call<span style="s4"> attention</span> to</p>
+<p begin="00:29:05.609" end="00:29:12.029" style="s2">the problem doing<span style="s3"> significant</span> work<span style="s3"> on</span></p>
+<p begin="00:29:09.389" end="00:29:13.679" style="s2">the digital divide we do put tools in</p>
+<p begin="00:29:12.029" end="00:29:17.659" style="s2">the hands of people who can<span style="s4"> help</span> others</p>
+<p begin="00:29:13.679" end="00:29:17.659" style="s2">so thank you<span style="s4"> for</span> the question</p>
+<p begin="00:29:21.560" end="00:29:27.180" style="s2">sustainability is I think<span style="s3"> the</span> biggest</p>
+<p begin="00:29:24.540" end="00:29:29.520" style="s2">challenge of Code for America and of the</p>
+<p begin="00:29:27.180" end="00:29:32.430" style="s2">whole Civic tech network and the three</p>
+<p begin="00:29:29.520" end="00:29:34.800" style="s2">links that<span style="s4"> Derek</span> requests are both have</p>
+<p begin="00:29:32.430" end="00:29:37.170" style="s2">you talked about<span style="s4"> earlier</span> that is the</p>
+<p begin="00:29:34.800" end="00:29:40.740" style="s2">conversation<span style="s3"> that&#39;s</span> happening in these</p>
+<p begin="00:29:37.170" end="00:29:43.830" style="s2">circles the when<span style="s3"> I</span> when<span style="s3"> I</span> talked<span style="s3"> about</span></p>
+<p begin="00:29:40.740" end="00:29:44.940" style="s2">our projects sort of splitting it</p>
+<p begin="00:29:43.830" end="00:29:46.770" style="s2">between stuff that we&#39;re doing through</p>
+<p begin="00:29:44.940" end="00:29:48.660" style="s2">the fellowship now and stuff that<span style="s4"> we</span> are</p>
+<p begin="00:29:46.770" end="00:29:50.910" style="s2"><span style="s3">is</span> our fellowship projects that we&#39;re</p>
+<p begin="00:29:48.660" end="00:29:52.140" style="s2">trying<span style="s3"> to</span> move<span style="s4"> forward</span> in that you</p>
+<p begin="00:29:50.910" end="00:29:54.030" style="s2">should see some<span style="s4"> of</span><span style="s3"> Code for America</span></p>
+<p begin="00:29:52.140" end="00:29:56.990" style="s2"><span style="s3">trying</span> to<span style="s3"> move</span> towards let&#39;s not just</p>
+<p begin="00:29:54.030" end="00:29:58.590" style="s2">like do this<span style="s3"> thing</span><span style="s4"> and</span> walk away there&#39;s</p>
+<p begin="00:29:56.990" end="00:29:59.910" style="s2">sustainability within a community</p>
+<p begin="00:29:58.590" end="00:30:05.670" style="s2">they&#39;re<span style="s3"> stayin</span> ability within local</p>
+<p begin="00:29:59.910" end="00:30:08.190" style="s2">government I think as we have moved more</p>
+<p begin="00:30:05.670" end="00:30:09.540" style="s2">towards social services we&#39;re getting<span style="s4"> a</span></p>
+<p begin="00:30:08.190" end="00:30:11.970" style="s2">little bit more<span style="s3"> of a culture and</span></p>
+<p begin="00:30:09.540" end="00:30:15.720" style="s2">expertise around serving underserved</p>
+<p begin="00:30:11.970" end="00:30:17.490" style="s2">populations and we&#39;re really again</p>
+<p begin="00:30:15.720" end="00:30:19.080" style="s2">targeting more and more<span style="s4"> of</span> our work on</p>
+<p begin="00:30:17.490" end="00:30:20.610" style="s2">how can we make these government</p>
+<p begin="00:30:19.080" end="00:30:22.410" style="s2">programs actually effective we&#39;re</p>
+<p begin="00:30:20.610" end="00:30:25.320" style="s2"><span style="s3">already</span> spending<span style="s3"> the</span> money let&#39;s<span style="s3"> make</span></p>
+<p begin="00:30:22.410" end="00:30:27.120" style="s2">the money worth something early on<span style="s3"> in</span></p>
+<p begin="00:30:25.320" end="00:30:30.660" style="s2">code for america we did stuff like</p>
+<p begin="00:30:27.120" end="00:30:32.190" style="s2">blight status which was in New also in</p>
+<p begin="00:30:30.660" end="00:30:36.780" style="s2">New<span style="s4"> Orleans</span><span style="s3"> this</span> is a return<span style="s3"> trip</span> for us</p>
+<p begin="00:30:32.190" end="00:30:39.570" style="s2">and it was really<span style="s3"> very</span> it was really i</p>
+<p begin="00:30:36.780" end="00:30:42.510" style="s2">think<span style="s4"> our</span> first test case of if we<span style="s4"> don&#39;t</span></p>
+<p begin="00:30:39.570" end="00:30:46.350" style="s2">get the community<span style="s3"> involvement</span> in this</p>
+<p begin="00:30:42.510" end="00:30:48.270" style="s2">right we will go nowhere<span style="s3"> because</span> it was</p>
+<p begin="00:30:46.350" end="00:30:51.180" style="s2">about neighborhoods<span style="s3"> add</span> neighbors</p>
+<p begin="00:30:48.270" end="00:30:53.400" style="s2">advocating for you know the resources to</p>
+<p begin="00:30:51.180" end="00:30:54.810" style="s2">improve or destroy or tear down</p>
+<p begin="00:30:53.400" end="00:30:57.390" style="s2">properties and their neighbors</p>
+<p begin="00:30:54.810" end="00:31:00.990" style="s2">neighborhoods and that team nailed it</p>
+<p begin="00:30:57.390" end="00:31:02.190" style="s2">they did such a good job of talking to</p>
+<p begin="00:31:00.990" end="00:31:04.110" style="s2">the community understanding what the</p>
+<p begin="00:31:02.190" end="00:31:05.670" style="s2">community needed that that&#39;s<span style="s3"> actually</span></p>
+<p begin="00:31:04.110" end="00:31:07.110" style="s2">one of our most sustainable projects<span style="s3"> and</span></p>
+<p begin="00:31:05.670" end="00:31:10.530" style="s2"><span style="s3">i</span> think it absolutely proves your thesis</p>
+<p begin="00:31:07.110" end="00:31:12.860" style="s2">if it&#39;s got bottom-up support it&#39;s going</p>
+<p begin="00:31:10.530" end="00:31:12.860" style="s2">to<span style="s3"> stick</span></p>
+<p begin="00:31:24.440" end="00:31:30.690" style="s2"><span style="s3">um</span> we rather good question and we&#39;re</p>
+<p begin="00:31:28.049" end="00:31:33.539" style="s2"><span style="s3">sort</span> of working towards that so half<span style="s3"> of</span></p>
+<p begin="00:31:30.690" end="00:31:35.580" style="s2">our cities for 2016 our repeat cities</p>
+<p begin="00:31:33.539" end="00:31:38.190" style="s2">for us but they&#39;re not cities where we</p>
+<p begin="00:31:35.580" end="00:31:39.749" style="s2">worked with them in in a current<span style="s3"> year</span></p>
+<p begin="00:31:38.190" end="00:31:41.190" style="s2">and then worked with them again<span style="s3"> in</span> the</p>
+<p begin="00:31:39.749" end="00:31:43.379" style="s2">next year and<span style="s3"> that&#39;s</span> actually<span style="s3"> something</span></p>
+<p begin="00:31:41.190" end="00:31:45.450" style="s2">we&#39;re working to change<span style="s4"> it&#39;s</span> sort<span style="s3"> of</span></p>
+<p begin="00:31:43.379" end="00:31:48.749" style="s2">part<span style="s3"> of</span> our business model that<span style="s3"> needs</span> to</p>
+<p begin="00:31:45.450" end="00:31:51.869" style="s2">evolve in order to get there we&#39;ve had</p>
+<p begin="00:31:48.749" end="00:31:53.249" style="s2"><span style="s3">this</span> model of getting support from the</p>
+<p begin="00:31:51.869" end="00:31:56.730" style="s2">local government and support from a</p>
+<p begin="00:31:53.249" end="00:32:00.539" style="s2">local funder and it&#39;s been really hard</p>
+<p begin="00:31:56.730" end="00:32:03.480" style="s2"><span style="s4">for</span> us to figure<span style="s3"> out</span> how to keep the</p>
+<p begin="00:32:00.539" end="00:32:06.509" style="s2">project<span style="s3"> in</span> scope have that forcing</p>
+<p begin="00:32:03.480" end="00:32:07.919" style="s2">function of without anything else</p>
+<p begin="00:32:06.509" end="00:32:09.720" style="s2">changing the<span style="s3"> project&#39;s</span> going to be done</p>
+<p begin="00:32:07.919" end="00:32:12.269" style="s2">so let&#39;s hurry<span style="s3"> up and get something done</span></p>
+<p begin="00:32:09.720" end="00:32:14.009" style="s2">here folks and yet still have the oh</p>
+<p begin="00:32:12.269" end="00:32:15.509" style="s2">wait this is really<span style="s3"> working</span> and this is</p>
+<p begin="00:32:14.009" end="00:32:18.960" style="s2">really<span style="s3"> valuable</span> and we want to keep</p>
+<p begin="00:32:15.509" end="00:32:20.580" style="s2"><span style="s3">going</span> given the super long cycles of</p>
+<p begin="00:32:18.960" end="00:32:22.110" style="s2">local<span style="s4"> government</span> and frankly the super</p>
+<p begin="00:32:20.580" end="00:32:38.789" style="s2">long cycles of Code for America which<span style="s4"> is</span></p>
+<p begin="00:32:22.110" end="00:32:40.559" style="s2">another<span style="s3"> thing</span> we&#39;re working to change so</p>
+<p begin="00:32:38.789" end="00:32:42.330" style="s2">we&#39;ve<span style="s3"> been</span> trying<span style="s3"> to</span> figure<span style="s4"> out</span><span style="s3"> where</span> we</p>
+<p begin="00:32:40.559" end="00:32:46.200" style="s2">have the most impact and where the work</p>
+<p begin="00:32:42.330" end="00:32:48.720" style="s2">can be most sustainable and factors in</p>
+<p begin="00:32:46.200" end="00:32:52.470" style="s2">both of those things<span style="s3"> include</span><span style="s4"> we&#39;ll</span> just</p>
+<p begin="00:32:48.720" end="00:32:55.080" style="s2">somebody want us there right it is the</p>
+<p begin="00:32:52.470" end="00:32:56.519" style="s2">problem<span style="s4"> that</span><span style="s3"> the</span> community wants to</p>
+<p begin="00:32:55.080" end="00:32:59.789" style="s2">solve something where we&#39;re going to<span style="s3"> be</span></p>
+<p begin="00:32:56.519" end="00:33:03.299" style="s2">able to<span style="s3"> build</span> on past work this is our</p>
+<p begin="00:32:59.789" end="00:33:05.429" style="s2">sixth year and so we&#39;re we&#39;re trying to</p>
+<p begin="00:33:03.299" end="00:33:07.889" style="s2">figure<span style="s4"> out</span> where we get better over time</p>
+<p begin="00:33:05.429" end="00:33:12.200" style="s2">instead<span style="s3"> of</span> like jumping to a new problem</p>
+<p begin="00:33:07.889" end="00:33:14.249" style="s2">every year so the we&#39;re increasingly</p>
+<p begin="00:33:12.200" end="00:33:16.889" style="s2">specifying in our call for applications</p>
+<p begin="00:33:14.249" end="00:33:18.899" style="s2">from local governments we want<span style="s3"> people</span></p>
+<p begin="00:33:16.889" end="00:33:22.950" style="s2"><span style="s3">who</span> want to do more of the reducing</p>
+<p begin="00:33:18.899" end="00:33:26.460" style="s2">recidivism or<span style="s4"> increase</span> decreasing the</p>
+<p begin="00:33:22.950" end="00:33:28.139" style="s2">number of people who end up with bench</p>
+<p begin="00:33:26.460" end="00:33:29.850" style="s2">warrants for their arrest which is a</p>
+<p begin="00:33:28.139" end="00:33:32.960" style="s2">sort of sister project to that one we</p>
+<p begin="00:33:29.850" end="00:33:35.970" style="s2">did<span style="s3"> in</span> Atlanta or working on food stamps</p>
+<p begin="00:33:32.960" end="00:33:37.409" style="s2">so we&#39;re looking<span style="s4"> for</span><span style="s3"> partners</span> who want</p>
+<p begin="00:33:35.970" end="00:33:37.580" style="s2">to work<span style="s3"> on</span> the same things<span style="s3"> that</span> we want</p>
+<p begin="00:33:37.409" end="00:33:40.730" style="s2">to</p>
+<p begin="00:33:37.580" end="00:33:42.620" style="s2">work on<span style="s3"> typically</span> those counties in</p>
+<p begin="00:33:40.730" end="00:33:45.320" style="s2">particular will tell you those things</p>
+<p begin="00:33:42.620" end="00:33:47.570" style="s2">are incredibly high<span style="s4"> cost</span> in<span style="s3"> terms</span> of</p>
+<p begin="00:33:45.320" end="00:33:49.550" style="s2">both financial and cost to the community</p>
+<p begin="00:33:47.570" end="00:33:51.950" style="s2">a human cost<span style="s3"> of</span> the community so think</p>
+<p begin="00:33:49.550" end="00:33:55.520" style="s2">we&#39;re in good places and we need someone</p>
+<p begin="00:33:51.950" end="00:33:58.130" style="s2"><span style="s3">who&#39;s</span> willing to<span style="s3"> say</span> I will support<span style="s4"> your</span></p>
+<p begin="00:33:55.520" end="00:34:00.710" style="s2">team in taking an approach that&#39;s going</p>
+<p begin="00:33:58.130" end="00:34:02.390" style="s2">to be<span style="s3"> different</span> you&#39;ve got to sign up</p>
+<p begin="00:34:00.710" end="00:34:04.940" style="s2">for<span style="s4"> a</span> team that&#39;s going to take an</p>
+<p begin="00:34:02.390" end="00:34:07.010" style="s2">iterative data-driven and user-centered</p>
+<p begin="00:34:04.940" end="00:34:09.860" style="s2">approach to solving this problem which</p>
+<p begin="00:34:07.010" end="00:34:12.170" style="s2">means<span style="s4"> that</span> they&#39;re not going to start</p>
+<p begin="00:34:09.860" end="00:34:13.340" style="s2">the same way and your normal technology</p>
+<p begin="00:34:12.170" end="00:34:15.620" style="s2">projects were started if we don&#39;t have</p>
+<p begin="00:34:13.340" end="00:34:17.480" style="s2"><span style="s3">someone</span> who&#39;s willing to nurture and</p>
+<p begin="00:34:15.620" end="00:34:19.550" style="s2">like create the space for that kind of</p>
+<p begin="00:34:17.480" end="00:34:22.040" style="s2">work we&#39;re<span style="s3"> not going to get anywhere so</span></p>
+<p begin="00:34:19.550" end="00:34:39.440" style="s2">we wouldn&#39;t take that project that</p>
+<p begin="00:34:22.040" end="00:34:42.470" style="s2"><span style="s3">helped</span> give you an example mayor<span style="s3"> ben</span></p>
+<p begin="00:34:39.440" end="00:34:45.200" style="s2"><span style="s3">mcadams</span> in<span style="s3"> Salt Lake he made criminal</span></p>
+<p begin="00:34:42.470" end="00:34:48.010" style="s2">justice reform his top priority he wants</p>
+<p begin="00:34:45.200" end="00:34:51.280" style="s2">us<span style="s3"> to</span> solve the problem and very much</p>
+<p begin="00:34:48.010" end="00:34:54.980" style="s2">the costumes<span style="s3"> County</span> are incredibly high</p>
+<p begin="00:34:51.280" end="00:34:58.340" style="s2">and he buys that the way that we want<span style="s3"> to</span></p>
+<p begin="00:34:54.980" end="00:35:01.330" style="s2">do it is at least worth trying that&#39;s a</p>
+<p begin="00:34:58.340" end="00:35:01.330" style="s2"><span style="s3">great</span> place for us to<span style="s3"> be</span></p>
+<p begin="00:35:07.250" end="00:35:13.730" style="s2">has worked on that is he would say</p>
+<p begin="00:35:10.550" end="00:35:15.290" style="s2">didn&#39;t succeed as much as you expected</p>
+<p begin="00:35:13.730" end="00:35:19.000" style="s2">them to and like what you would</p>
+<p begin="00:35:15.290" end="00:35:19.000" style="s2"><span style="s3">attribute that to what you learn</span></p>
+<p begin="00:35:23.160" end="00:35:28.269" style="s2">yes we&#39;ve got<span style="s4"> a</span> lot you know we we have</p>
+<p begin="00:35:26.319" end="00:35:31.180" style="s2">our share of those for sure our very</p>
+<p begin="00:35:28.269" end="00:35:34.150" style="s2"><span style="s3">first</span> year we had three teams one in</p>
+<p begin="00:35:31.180" end="00:35:35.920" style="s2">Philly one in Boston and one in Seattle</p>
+<p begin="00:35:34.150" end="00:35:40.690" style="s2">and it&#39;s very interesting to go back to</p>
+<p begin="00:35:35.920" end="00:35:42.700" style="s2"><span style="s4">Seattle</span> having really not succeeded</p>
+<p begin="00:35:40.690" end="00:35:43.960" style="s2">there in our first year not because we</p>
+<p begin="00:35:42.700" end="00:35:46.690" style="s2">didn&#39;t<span style="s3"> have</span> a great for the<span style="s4"> fellows</span> they</p>
+<p begin="00:35:43.960" end="00:35:48.309" style="s2">were awesome but<span style="s3"> I</span> think there were</p>
+<p begin="00:35:46.690" end="00:35:50.079" style="s2">stakeholder management issues there</p>
+<p begin="00:35:48.309" end="00:35:53.200" style="s2">there was sort of clarity of focus there</p>
+<p begin="00:35:50.079" end="00:35:55.900" style="s2">and<span style="s3"> ultimately</span> we were trying to<span style="s3"> do</span> a</p>
+<p begin="00:35:53.200" end="00:35:57.609" style="s2">very general purpose tool and what we&#39;ve</p>
+<p begin="00:35:55.900" end="00:35:59.319" style="s2">really learned over the years is if you</p>
+<p begin="00:35:57.609" end="00:36:01.749" style="s2"><span style="s4">don&#39;t</span> have a very specific problem that</p>
+<p begin="00:35:59.319" end="00:36:04.690" style="s2">you&#39;re trying to<span style="s3"> help</span><span style="s4"> people</span> solve that</p>
+<p begin="00:36:01.749" end="00:36:08.279" style="s2">is as one of my mentors called<span style="s4"> a</span> hair on</p>
+<p begin="00:36:04.690" end="00:36:10.329" style="s2"><span style="s3">fire</span> problem like<span style="s3"> a</span> general-purpose</p>
+<p begin="00:36:08.279" end="00:36:13.119" style="s2">functionality for things like you<span style="s4"> know</span></p>
+<p begin="00:36:10.329" end="00:36:17.319" style="s2">neighbors getting together is very<span style="s3"> hard</span></p>
+<p begin="00:36:13.119" end="00:36:19.839" style="s2"><span style="s3">to</span> get adoption for situated solutions</p>
+<p begin="00:36:17.319" end="00:36:22.660" style="s2">so having done that in seattle<span style="s4"> now</span> going</p>
+<p begin="00:36:19.839" end="00:36:25.299" style="s2">back and having a very very situated</p>
+<p begin="00:36:22.660" end="00:36:31.150" style="s2">problem with clear outcomes and clear</p>
+<p begin="00:36:25.299" end="00:36:35.200" style="s2">partners is it&#39;s a great do-over I think</p>
+<p begin="00:36:31.150" end="00:36:37.450" style="s2">in other cases we we did it<span style="s4"> a</span> project in</p>
+<p begin="00:36:35.200" end="00:36:39.670" style="s2">Albuquerque Lear before last it<span style="s3"> also</span></p>
+<p begin="00:36:37.450" end="00:36:43.569" style="s2">kind<span style="s3"> of</span> never<span style="s3"> relationship</span> and I think</p>
+<p begin="00:36:39.670" end="00:36:47.079" style="s2">it was it struggled to find the right</p>
+<p begin="00:36:43.569" end="00:36:48.640" style="s2">thing to do the right project that would</p>
+<p begin="00:36:47.079" end="00:36:53.710" style="s2">really have impact on the problem they</p>
+<p begin="00:36:48.640" end="00:36:55.719" style="s2">were trying<span style="s3"> to</span> solve and that probably</p>
+<p begin="00:36:53.710" end="00:36:58.749" style="s2">accounts for a lot a lot<span style="s4"> of</span> the times</p>
+<p begin="00:36:55.719" end="00:37:00.969" style="s2">were we kind of swing and<span style="s3"> miss</span> you know</p>
+<p begin="00:36:58.749" end="00:37:04.139" style="s2">us though what<span style="s4"> are</span> what are the other</p>
+<p begin="00:37:00.969" end="00:37:13.149" style="s2">reasons we swing in this</p>
+<p begin="00:37:04.139" end="00:37:15.339" style="s2">about<span style="s3"> they&#39;ll try</span><span style="s4"> X</span> we very often end up</p>
+<p begin="00:37:13.149" end="00:37:18.579" style="s2">with projects that succeed<span style="s4"> in</span> their</p>
+<p begin="00:37:15.339" end="00:37:20.799" style="s2"><span style="s3">local</span> context but don&#39;t spread to other</p>
+<p begin="00:37:18.579" end="00:37:22.029" style="s2">contexts and that&#39;s not a failure but<span style="s3"> it</span></p>
+<p begin="00:37:20.799" end="00:37:25.689" style="s2">is<span style="s4"> something</span> we&#39;re trying to figure<span style="s4"> out</span></p>
+<p begin="00:37:22.029" end="00:37:28.019" style="s2">how to how more of these things<span style="s3"> can</span></p>
+<p begin="00:37:25.689" end="00:37:28.019" style="s2">replicate</p>
+<p begin="00:37:53.530" end="00:37:59.119" style="s2">so there&#39;s sort of two questions in<span style="s3"> that</span></p>
+<p begin="00:37:55.670" end="00:38:00.880" style="s2">the second one<span style="s4"> is</span> sort of the does</p>
+<p begin="00:37:59.119" end="00:38:04.430" style="s2">government<span style="s3"> make</span><span style="s4"> it</span> hard to sign up for</p>
+<p begin="00:38:00.880" end="00:38:08.180" style="s2">services on purpose and the answer<span style="s4"> to</span></p>
+<p begin="00:38:04.430" end="00:38:10.910" style="s2">that is in California is no I can say</p>
+<p begin="00:38:08.180" end="00:38:12.700" style="s2">that<span style="s3"> really</span> confidently and I&#39;ll tell</p>
+<p begin="00:38:10.910" end="00:38:14.750" style="s2">you why it snow in California</p>
+<p begin="00:38:12.700" end="00:38:17.720" style="s2">particularly but I think it should<span style="s4"> be</span><span style="s3"> no</span></p>
+<p begin="00:38:14.750" end="00:38:22.160" style="s2">everywhere it&#39;s federal money<span style="s4"> that</span> flows</p>
+<p begin="00:38:17.720" end="00:38:25.580" style="s2"><span style="s4">into</span> your local<span style="s3"> community</span> for free like</p>
+<p begin="00:38:22.160" end="00:38:27.790" style="s2">nobody doesn&#39;t want that like there are</p>
+<p begin="00:38:25.580" end="00:38:30.740" style="s2">certainly places in the country where</p>
+<p begin="00:38:27.790" end="00:38:34.670" style="s2">there are ideological or you know</p>
+<p begin="00:38:30.740" end="00:38:36.650" style="s2">cultural issues with people getting but</p>
+<p begin="00:38:34.670" end="00:38:39.380" style="s2">like we frankly haven&#39;t really worked in</p>
+<p begin="00:38:36.650" end="00:38:40.820" style="s2">those places in California the reason</p>
+<p begin="00:38:39.380" end="00:38:42.560" style="s2">people<span style="s4"> don&#39;t</span> get food stamps isn&#39;t</p>
+<p begin="00:38:40.820" end="00:38:45.640" style="s2">because people are trying<span style="s3"> not</span> to have</p>
+<p begin="00:38:42.560" end="00:38:48.349" style="s2">them it&#39;s because<span style="s4"> the</span> process is broken</p>
+<p begin="00:38:45.640" end="00:38:51.430" style="s2">the you wanted me<span style="s3"> to</span> speak a little bit</p>
+<p begin="00:38:48.349" end="00:38:51.430" style="s2">more to policy changes</p>
+<p begin="00:38:58.390" end="00:39:03.640" style="s2">when so there&#39;s there&#39;s um there&#39;s</p>
+<p begin="00:39:04.090" end="00:39:08.900" style="s2">policy that we hear about<span style="s4"> in</span> the news</p>
+<p begin="00:39:06.250" end="00:39:12.530" style="s2">and then there&#39;s<span style="s4"> like</span> policy on<span style="s4"> the</span></p>
+<p begin="00:39:08.900" end="00:39:14.240" style="s2">ground yeah I<span style="s3"> mean</span> I look at when I say</p>
+<p begin="00:39:12.530" end="00:39:15.680" style="s2">I mean I I mean it really<span style="s3"> all</span> of<span style="s3"> them</span></p>
+<p begin="00:39:14.240" end="00:39:21.290" style="s2">but like the concrete examples they can</p>
+<p begin="00:39:15.680" end="00:39:23.420" style="s2">give you<span style="s4"> for</span> instance or lake on demand</p>
+<p begin="00:39:21.290" end="00:39:24.859" style="s2">interviews so one of the<span style="s4"> big</span> one of the</p>
+<p begin="00:39:23.420" end="00:39:26.600" style="s2">biggest reasons people apply for food</p>
+<p begin="00:39:24.859" end="00:39:27.859" style="s2">stamps<span style="s4"> in</span> don&#39;t get it is you&#39;ve got I</p>
+<p begin="00:39:26.600" end="00:39:29.869" style="s2">mean<span style="s3"> used</span> to<span style="s3"> be</span><span style="s4"> you</span> had to go in an</p>
+<p begin="00:39:27.859" end="00:39:31.160" style="s2">office<span style="s3"> and</span> sit now they&#39;ll actually call</p>
+<p begin="00:39:29.869" end="00:39:33.710" style="s2">use you don&#39;t have to come in that&#39;s</p>
+<p begin="00:39:31.160" end="00:39:35.780" style="s2">great but they they send you a letter</p>
+<p begin="00:39:33.710" end="00:39:39.680" style="s2">when I have screenshots Odin&#39;s you know</p>
+<p begin="00:39:35.780" end="00:39:41.030" style="s2">we collect all these letters and they</p>
+<p begin="00:39:39.680" end="00:39:44.330" style="s2">say I&#39;m going<span style="s3"> to call you Tuesday the</span></p>
+<p begin="00:39:41.030" end="00:39:47.480" style="s2">23rd at 3pm if you don&#39;t pick<span style="s3"> up</span> the</p>
+<p begin="00:39:44.330" end="00:39:50.000" style="s2"><span style="s3">phone</span> tuesday the 20 30<span style="s3"> 3 p.m. you start</span></p>
+<p begin="00:39:47.480" end="00:39:53.260" style="s2">over<span style="s3"> at</span> the very beginning like</p>
+<p begin="00:39:50.000" end="00:39:56.600" style="s2">literally you&#39;ve gotta go reapply the</p>
+<p begin="00:39:53.260" end="00:39:58.280" style="s2">the regulatory framework allows for</p>
+<p begin="00:39:56.600" end="00:39:59.810" style="s2">on-demand interviews where you could</p>
+<p begin="00:39:58.280" end="00:40:01.100" style="s2"><span style="s3">just</span> like call in and do your interview</p>
+<p begin="00:39:59.810" end="00:40:05.330" style="s2">with case worker happen to be available</p>
+<p begin="00:40:01.100" end="00:40:10.310" style="s2"><span style="s4">and</span> one of somebody in the back asked</p>
+<p begin="00:40:05.330" end="00:40:12.830" style="s2">earlier about advocacy like this is a</p>
+<p begin="00:40:10.310" end="00:40:15.440" style="s2">case where like we want to advocate for</p>
+<p begin="00:40:12.830" end="00:40:18.530" style="s2">the policy change to take advantage<span style="s3"> of</span></p>
+<p begin="00:40:15.440" end="00:40:20.630" style="s2"><span style="s4">that</span> to<span style="s3"> change</span> so that so that<span style="s4"> they&#39;re</span></p>
+<p begin="00:40:18.530" end="00:40:23.240" style="s2">you&#39;re doing on demand interviews or at</p>
+<p begin="00:40:20.630" end="00:40:25.850" style="s2">least reschedule interviews and you know</p>
+<p begin="00:40:23.240" end="00:40:28.070" style="s2">we&#39;ll probably get there but where we</p>
+<p begin="00:40:25.850" end="00:40:30.260" style="s2">start is by just<span style="s3"> playing</span> back the data</p>
+<p begin="00:40:28.070" end="00:40:33.800" style="s2">to the<span style="s3"> county</span> welfare Directors and</p>
+<p begin="00:40:30.260" end="00:40:37.430" style="s2">saying did you<span style="s4"> know</span> that X percent of</p>
+<p begin="00:40:33.800" end="00:40:39.830" style="s2"><span style="s3">your</span> people are falling<span style="s3"> off</span> because they</p>
+<p begin="00:40:37.430" end="00:40:41.510" style="s2">didn&#39;t pick up the phone or you didn&#39;t</p>
+<p begin="00:40:39.830" end="00:40:43.400" style="s2">even<span style="s3"> send</span> them the letter about when the</p>
+<p begin="00:40:41.510" end="00:40:45.500" style="s2">interview was until the interview was</p>
+<p begin="00:40:43.400" end="00:40:48.290" style="s2">already<span style="s3"> passed</span> let&#39;s fix this problem</p>
+<p begin="00:40:45.500" end="00:40:50.869" style="s2">and<span style="s3"> then</span> we&#39;re in a dialogue around a</p>
+<p begin="00:40:48.290" end="00:40:52.760" style="s2">policy change that they could do to have</p>
+<p begin="00:40:50.869" end="00:40:54.350" style="s2">better operations but those are the</p>
+<p begin="00:40:52.760" end="00:40:55.580" style="s2">kinds of policies<span style="s3"> that</span> don&#39;t make the</p>
+<p begin="00:40:54.350" end="00:40:56.869" style="s2">front page that&#39;s not what people think</p>
+<p begin="00:40:55.580" end="00:40:59.840" style="s2">of when they think a government policy</p>
+<p begin="00:40:56.869" end="00:41:02.109" style="s2">but it those little policies matter a</p>
+<p begin="00:40:59.840" end="00:41:02.109" style="s2">lot</p>
+<p begin="00:41:03.440" end="00:41:07.359" style="s2">I don&#39;t think<span style="s4"> there</span> are<span style="s3"> up</span> one more</p>
+<p begin="00:41:17.240" end="00:41:22.340" style="s2">sighing for the<span style="s3"> stallion</span></p>
+<p begin="00:41:22.530" end="00:41:32.900" style="s2">I the only example that I have is<span style="s4"> that</span></p>
+<p begin="00:41:29.850" end="00:41:39.810" style="s2">is the child welfare thing we were<span style="s4"> very</span></p>
+<p begin="00:41:32.900" end="00:41:41.340" style="s2">vocal but<span style="s3"> we</span> did happen so I think<span style="s3"> one</span></p>
+<p begin="00:41:39.810" end="00:41:42.990" style="s2">of the things i would say is that and<span style="s4"> i</span></p>
+<p begin="00:41:41.340" end="00:41:45.060" style="s2">think<span style="s3"> probably</span> all<span style="s4"> of</span> you will</p>
+<p begin="00:41:42.990" end="00:41:48.180" style="s2">immediately recognize this as a very</p>
+<p begin="00:41:45.060" end="00:41:51.800" style="s2"><span style="s3">true</span> statement it is not monolithic it</p>
+<p begin="00:41:48.180" end="00:41:53.730" style="s2">is not homogeneous<span style="s3"> in</span> any government</p>
+<p begin="00:41:51.800" end="00:41:55.920" style="s2"><span style="s3">institution</span> there are people already</p>
+<p begin="00:41:53.730" end="00:41:57.510" style="s2">there who are like<span style="s3"> tam</span> this does not</p>
+<p begin="00:41:55.920" end="00:41:59.460" style="s2">work could we please find a different</p>
+<p begin="00:41:57.510" end="00:42:00.990" style="s2">way and there are people who<span style="s4"> are</span> like</p>
+<p begin="00:41:59.460" end="00:42:02.600" style="s2">this is our morning<span style="s3"> ah no we&#39;re not</span></p>
+<p begin="00:42:00.990" end="00:42:05.070" style="s2">going to do in a different way and</p>
+<p begin="00:42:02.600" end="00:42:07.950" style="s2">there&#39;s not I don&#39;t<span style="s4"> there</span> these</p>
+<p begin="00:42:05.070" end="00:42:09.810" style="s2">institutions are large<span style="s3"> I</span> challenge you</p>
+<p begin="00:42:07.950" end="00:42:12.000" style="s2">to find an institution<span style="s4"> where</span> there is</p>
+<p begin="00:42:09.810" end="00:42:14.010" style="s2">not already a change agent I also</p>
+<p begin="00:42:12.000" end="00:42:15.600" style="s2">challenge you to find one there or there</p>
+<p begin="00:42:14.010" end="00:42:19.680" style="s2">aren&#39;t people who are risk averse and do</p>
+<p begin="00:42:15.600" end="00:42:21.330" style="s2">not want anything<span style="s4"> to</span> change yes we</p>
+<p begin="00:42:19.680" end="00:42:22.860" style="s2">happen to be working in the ones where</p>
+<p begin="00:42:21.330" end="00:42:26.940" style="s2">the mayor has stood up and said please</p>
+<p begin="00:42:22.860" end="00:42:28.680" style="s2">come in in that case we did a paper for</p>
+<p begin="00:42:26.940" end="00:42:30.240" style="s2">the state of California saying that</p>
+<p begin="00:42:28.680" end="00:42:32.640" style="s2">procurement won&#39;t work you shouldn&#39;t put</p>
+<p begin="00:42:30.240" end="00:42:34.410" style="s2"><span style="s4">it</span> out there<span style="s3"> and</span> initially<span style="s4"> they</span> said</p>
+<p begin="00:42:32.640" end="00:42:36.210" style="s2">thanks so<span style="s3"> much for your conditions we</span></p>
+<p begin="00:42:34.410" end="00:42:37.650" style="s2">totally agree but we&#39;re<span style="s4"> moving</span> forward</p>
+<p begin="00:42:36.210" end="00:42:40.050" style="s2"><span style="s3">with</span> this as planned because we don&#39;t</p>
+<p begin="00:42:37.650" end="00:42:44.070" style="s2">have<span style="s3"> another</span> alternative that&#39;s when we</p>
+<p begin="00:42:40.050" end="00:42:46.200" style="s2">got all nutty on them and said no we&#39;re</p>
+<p begin="00:42:44.070" end="00:42:47.820" style="s2">we&#39;re going to<span style="s4"> we&#39;re</span><span style="s3"> calling</span> a bunch of</p>
+<p begin="00:42:46.200" end="00:42:50.220" style="s2">other stakeholders we&#39;re talking to</p>
+<p begin="00:42:47.820" end="00:42:52.410" style="s2">people at the federal government<span style="s3"> who</span></p>
+<p begin="00:42:50.220" end="00:42:53.910" style="s2">frankly are paying<span style="s4"> for</span> this project so</p>
+<p begin="00:42:52.410" end="00:42:55.470" style="s2">you&#39;ve got to understand anything<span style="s3"> that</span></p>
+<p begin="00:42:53.910" end="00:42:58.860" style="s2">happens the state or county level the</p>
+<p begin="00:42:55.470" end="00:43:00.990" style="s2">money is coming<span style="s3"> from the feds and if you</span></p>
+<p begin="00:42:58.860" end="00:43:03.660" style="s2">can the feds happen to have just</p>
+<p begin="00:43:00.990" end="00:43:06.930" style="s2">realized over the past year and a half</p>
+<p begin="00:43:03.660" end="00:43:08.610" style="s2">two and a half years that waterfall</p>
+<p begin="00:43:06.930" end="00:43:10.470" style="s2">method doesn&#39;t work in a very painful</p>
+<p begin="00:43:08.610" end="00:43:12.600" style="s2">way so they have they&#39;re having to be a</p>
+<p begin="00:43:10.470" end="00:43:13.890" style="s2">lot of<span style="s4"> people</span> in DC who are willing to</p>
+<p begin="00:43:12.600" end="00:43:16.080" style="s2"><span style="s3">make</span> a phone call<span style="s4"> to</span> some of the state</p>
+<p begin="00:43:13.890" end="00:43:17.400" style="s2">or county level saying<span style="s3"> actually</span> that</p>
+<p begin="00:43:16.080" end="00:43:19.410" style="s2">five hundred million dollars we just</p>
+<p begin="00:43:17.400" end="00:43:22.620" style="s2">gave you we want you to use it<span style="s4"> on</span> an</p>
+<p begin="00:43:19.410" end="00:43:24.380" style="s2">agile project it&#39;s just<span style="s3"> not</span> that simple</p>
+<p begin="00:43:22.620" end="00:43:26.310" style="s2">it&#39;s about finding the right<span style="s3"> people</span></p>
+<p begin="00:43:24.380" end="00:43:27.990" style="s2">bringing it to the<span style="s3"> people who are</span></p>
+<p begin="00:43:26.310" end="00:43:30.090" style="s2">concerned about the change and have</p>
+<p begin="00:43:27.990" end="00:43:32.190" style="s2">helping them understand that<span style="s3"> the</span> risks</p>
+<p begin="00:43:30.090" end="00:43:34.140" style="s2">are lower than they think in the new way</p>
+<p begin="00:43:32.190" end="00:43:36.090" style="s2">and higher than they think in the old</p>
+<p begin="00:43:34.140" end="00:43:37.680" style="s2">way that&#39;s what</p>
+<p begin="00:43:36.090" end="00:43:41.640" style="s2">you do so yes we do sometimes go</p>
+<p begin="00:43:37.680" end="00:43:43.290" style="s2">knocking quite loudly especially when it</p>
+<p begin="00:43:41.640" end="00:43:45.870" style="s2">has<span style="s4"> to</span> do with something like child</p>
+<p begin="00:43:43.290" end="00:43:51.900" style="s2">welfare I think that&#39;s<span style="s3"> all</span> the<span style="s3"> time</span></p>
+<p begin="00:43:45.870" end="00:43:54.680" style="s2"><span style="s4">thing</span> sorry Thank You Jan best questions</p>
+<p begin="00:43:51.900" end="00:43:54.680" style="s2">ever thank you</p>
+</div>
+</body>
+</tt>

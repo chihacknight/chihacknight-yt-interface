@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.790" end="00:00:09.599" style="s2">hi I&#39;m Andy and I&#39;m going<span style="s3"> to</span> answer the</p>
+<p begin="00:00:08.069" end="00:00:11.820" style="s2">question tonight are men talking too</p>
+<p begin="00:00:09.599" end="00:00:14.460" style="s2">much<span style="s3"> i</span> hack night if you can&#39;t wait two</p>
+<p begin="00:00:11.820" end="00:00:16.529" style="s2">whole minutes the answer is kind of yes</p>
+<p begin="00:00:14.460" end="00:00:18.869" style="s2">sort<span style="s3"> of</span> maybe depends on how you<span style="s3"> slice</span></p>
+<p begin="00:00:16.529" end="00:00:20.100" style="s2">it so I became<span style="s3"> curious</span> about<span style="s3"> this</span></p>
+<p begin="00:00:18.869" end="00:00:21.570" style="s2">question a couple<span style="s3"> of</span> months<span style="s4"> ago when I</span></p>
+<p begin="00:00:20.100" end="00:00:23.160" style="s2">heard<span style="s3"> about</span> this site that have been</p>
+<p begin="00:00:21.570" end="00:00:26.250" style="s2">developed by one of our own<span style="s4"> Kathy</span> dang</p>
+<p begin="00:00:23.160" end="00:00:29.189" style="s2"><span style="s3">are</span> men talking too much calm all it is</p>
+<p begin="00:00:26.250" end="00:00:31.500" style="s2">is a tool to record is a dude talking or</p>
+<p begin="00:00:29.189" end="00:00:33.210" style="s2">not<span style="s4"> a</span> dude talking and you<span style="s4"> can</span> use this</p>
+<p begin="00:00:31.500" end="00:00:34.969" style="s2">at a meeting or an event<span style="s3"> to</span> see<span style="s3"> kind</span> of</p>
+<p begin="00:00:33.210" end="00:00:37.230" style="s2">who&#39;s dominating the conversation and</p>
+<p begin="00:00:34.969" end="00:00:39.690" style="s2">it&#39;s not the final answer<span style="s3"> as</span> far as</p>
+<p begin="00:00:37.230" end="00:00:41.879" style="s2">inclusion goes it goes a step beyond</p>
+<p begin="00:00:39.690" end="00:00:43.649" style="s2">attendance and we<span style="s3"> might</span> as<span style="s3"> well</span> be</p>
+<p begin="00:00:41.879" end="00:00:45.270" style="s2">asking like I&#39;m encoding too much i hack</p>
+<p begin="00:00:43.649" end="00:00:48.420" style="s2">net are many<span style="s3"> eating</span> too many empanadas</p>
+<p begin="00:00:45.270" end="00:00:50.489" style="s2">but this is something that<span style="s3"> we</span> can</p>
+<p begin="00:00:48.420" end="00:00:52.260" style="s2">relatively easily quantify and see</p>
+<p begin="00:00:50.489" end="00:00:54.210" style="s2">what&#39;s going<span style="s3"> on</span> so you might have</p>
+<p begin="00:00:52.260" end="00:00:57.059" style="s2"><span style="s3">noticed me sitting in</span> the back gendering</p>
+<p begin="00:00:54.210" end="00:00:58.859" style="s2">people and<span style="s4"> i</span> record the number of men or</p>
+<p begin="00:00:57.059" end="00:01:00.719" style="s2">non men by appearance among the</p>
+<p begin="00:00:58.859" end="00:01:03.930" style="s2">attendees presenters and facilitators</p>
+<p begin="00:01:00.719" end="00:01:05.700" style="s2">and<span style="s3"> i</span> use the site to record the amount</p>
+<p begin="00:01:03.930" end="00:01:07.530" style="s2">of time that each group<span style="s3"> of</span> people is</p>
+<p begin="00:01:05.700" end="00:01:09.810" style="s2">speaking during the announcements during</p>
+<p begin="00:01:07.530" end="00:01:12.510" style="s2">the Q&amp;A after the talks and during the</p>
+<p begin="00:01:09.810" end="00:01:13.950" style="s2">breakout announcements now some<span style="s3"> of</span> the</p>
+<p begin="00:01:12.510" end="00:01:15.869" style="s2">results that<span style="s3"> have</span> gotten from this that</p>
+<p begin="00:01:13.950" end="00:01:17.220" style="s2"><span style="s4">i</span> can fit into 20 seconds over the</p>
+<p begin="00:01:15.869" end="00:01:19.409" style="s2"><span style="s3">course</span> of nine shy hack nights tonight</p>
+<p begin="00:01:17.220" end="00:01:24.119" style="s2"><span style="s3">will make it 10</span> double digits actual big</p>
+<p begin="00:01:19.409" end="00:01:26.549" style="s2">data the so of the seven hundred or so</p>
+<p begin="00:01:24.119" end="00:01:27.840" style="s2">people that I&#39;ve kept track of three</p>
+<p begin="00:01:26.549" end="00:01:28.950" style="s2"><span style="s3">quarters</span> have been men seventy-six</p>
+<p begin="00:01:27.840" end="00:01:31.140" style="s2">percent just over the half the</p>
+<p begin="00:01:28.950" end="00:01:32.340" style="s2">presenters have been men as well unless</p>
+<p begin="00:01:31.140" end="00:01:34.950" style="s2"><span style="s3">you</span> come tonight in which case it&#39;s a</p>
+<p begin="00:01:32.340" end="00:01:36.900" style="s2">lot more<span style="s4"> than</span> that I&#39;ve looked at over</p>
+<p begin="00:01:34.950" end="00:01:40.920" style="s2">10,000 seconds of data<span style="s4"> that&#39;s</span> five</p>
+<p begin="00:01:36.900" end="00:01:42.119" style="s2">digits extremely big data and of those</p>
+<p begin="00:01:40.920" end="00:01:43.890" style="s2">the announcement<span style="s3"> time</span> is very</p>
+<p begin="00:01:42.119" end="00:01:46.259" style="s2">proportional three quarters of<span style="s3"> the</span> time</p>
+<p begin="00:01:43.890" end="00:01:48.750" style="s2">is taken by men speaking questions it&#39;s</p>
+<p begin="00:01:46.259" end="00:01:50.310" style="s2">quite a bit less men only spend like<span style="s4"> two</span></p>
+<p begin="00:01:48.750" end="00:01:51.780" style="s2"><span style="s4">thirds</span> of the<span style="s3"> time</span> speaking during break</p>
+<p begin="00:01:50.310" end="00:01:53.060" style="s2">out announcements is where men tend to</p>
+<p begin="00:01:51.780" end="00:01:54.960" style="s2">dominate a little bit more of</p>
+<p begin="00:01:53.060" end="00:01:56.969" style="s2">eighty-five percent of the time as men</p>
+<p begin="00:01:54.960" end="00:01:59.579" style="s2">speaking that&#39;s only like sixty percent</p>
+<p begin="00:01:56.969" end="00:02:02.159" style="s2">of the time proportionally that nan men</p>
+<p begin="00:01:59.579" end="00:02:04.200" style="s2">would<span style="s4"> be</span> speaking if they spoke as much</p>
+<p begin="00:02:02.159" end="00:02:06.030" style="s2">as they attended so all of<span style="s3"> this</span> by the</p>
+<p begin="00:02:04.200" end="00:02:07.350" style="s2">way is in a spreadsheet that I keep</p>
+<p begin="00:02:06.030" end="00:02:09.539" style="s2">updating throughout these presentations</p>
+<p begin="00:02:07.350" end="00:02:12.050" style="s2">there&#39;s a link that thing is a link<span style="s3"> and</span></p>
+<p begin="00:02:09.539" end="00:02:13.920" style="s2">there&#39;s a link<span style="s3"> in</span> the<span style="s3"> agenda</span> as well and</p>
+<p begin="00:02:12.050" end="00:02:16.890" style="s2">what do<span style="s3"> we</span> do with this information</p>
+<p begin="00:02:13.920" end="00:02:18.599" style="s2"><span style="s3">is</span> the<span style="s3"> question</span> that that<span style="s3"> comes</span> next and</p>
+<p begin="00:02:16.890" end="00:02:20.040" style="s2">I<span style="s3"> think</span> it<span style="s4"> really</span> informs a couple of</p>
+<p begin="00:02:18.599" end="00:02:21.270" style="s2">the goals that were set forth during the</p>
+<p begin="00:02:20.040" end="00:02:24.390" style="s2">community feedback session that we had</p>
+<p begin="00:02:21.270" end="00:02:26.190" style="s2">last month those being getting<span style="s3"> outside</span></p>
+<p begin="00:02:24.390" end="00:02:28.530" style="s2">our own Civic tech bubble a little bit</p>
+<p begin="00:02:26.190" end="00:02:30.840" style="s2">as far as representation and creating a</p>
+<p begin="00:02:28.530" end="00:02:33.989" style="s2">more diverse<span style="s4"> try hack night and again</span></p>
+<p begin="00:02:30.840" end="00:02:35.940" style="s2">this<span style="s3"> isn&#39;t</span> the only measure of inclusion</p>
+<p begin="00:02:33.989" end="00:02:37.739" style="s2">speaking time and gender is<span style="s4"> not</span> the only</p>
+<p begin="00:02:35.940" end="00:02:40.560" style="s2">form of representation we have to<span style="s3"> look</span></p>
+<p begin="00:02:37.739" end="00:02:43.770" style="s2">at but this is an important<span style="s3"> part of the</span></p>
+<p begin="00:02:40.560" end="00:02:51.709" style="s2">introspection that we all have<span style="s4"> to</span><span style="s3"> do</span></p>
+<p begin="00:02:43.770" end="00:02:51.709" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

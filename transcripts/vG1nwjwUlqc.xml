@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.029" end="00:00:11.820" style="s2"><span style="s3">okay</span> so<span style="s3"> I have a lot</span> of slides I&#39;m gonna</p>
+<p begin="00:00:07.350" end="00:00:14.400" style="s2">talk really fast okay so my name is Eric</p>
+<p begin="00:00:11.820" end="00:00:17.640" style="s2">I work for<span style="s4"> a</span> company called<span style="s3"> data</span> made in</p>
+<p begin="00:00:14.400" end="00:00:18.779" style="s2">2014 we worked on a project with<span style="s3"> the</span></p>
+<p begin="00:00:17.640" end="00:00:21.720" style="s2">Department of Planning and Development</p>
+<p begin="00:00:18.779" end="00:00:24.330" style="s2">in chicago and<span style="s4"> lisk</span> Chicago it<span style="s3"> was</span></p>
+<p begin="00:00:21.720" end="00:00:26.750" style="s2">called large lots it was a thing where</p>
+<p begin="00:00:24.330" end="00:00:28.650" style="s2">the city was selling vacant city-owned</p>
+<p begin="00:00:26.750" end="00:00:30.900" style="s2">residentially zoned lots back to the</p>
+<p begin="00:00:28.650" end="00:00:33.059" style="s2">residence in communities part of the</p>
+<p begin="00:00:30.900" end="00:00:35.130" style="s2">process of that we came up with another</p>
+<p begin="00:00:33.059" end="00:00:38.370" style="s2">website called Chicago lots which nobody</p>
+<p begin="00:00:35.130" end="00:00:40.079" style="s2">uses except for me Derek it&#39;s basically</p>
+<p begin="00:00:38.370" end="00:00:43.050" style="s2">a big map of all the city-owned vacant</p>
+<p begin="00:00:40.079" end="00:00:45.570" style="s2">lots in<span style="s4"> the Chicago and Thanksgiving</span><span style="s3"> of</span></p>
+<p begin="00:00:43.050" end="00:00:47.989" style="s2">2014 I was sick so I was on the couch</p>
+<p begin="00:00:45.570" end="00:00:51.270" style="s2">like for a whole week<span style="s3"> doing</span> nothing</p>
+<p begin="00:00:47.989" end="00:00:52.890" style="s2"><span style="s3">looking</span> at that website and I had<span style="s4"> just</span></p>
+<p begin="00:00:51.270" end="00:00:54.809" style="s2">finished a book called<span style="s3"> family</span> properties</p>
+<p begin="00:00:52.890" end="00:00:59.280" style="s2">was your battle residential segregation</p>
+<p begin="00:00:54.809" end="00:01:00.660" style="s2"><span style="s3">Chicago</span> highly recommended and it</p>
+<p begin="00:00:59.280" end="00:01:03.030" style="s2">focuses a lot on the west side and<span style="s3"> I</span></p>
+<p begin="00:01:00.660" end="00:01:05.580" style="s2">noticed if you look at this map right</p>
+<p begin="00:01:03.030" end="00:01:07.080" style="s2">here there&#39;s a lot<span style="s4"> of</span> things on the west</p>
+<p begin="00:01:05.580" end="00:01:09.750" style="s2">side so I started clicking around I</p>
+<p begin="00:01:07.080" end="00:01:11.430" style="s2">found this really big vacant city owned</p>
+<p begin="00:01:09.750" end="00:01:14.130" style="s2">a lot I thought what the heck&#39;s the</p>
+<p begin="00:01:11.430" end="00:01:17.159" style="s2">story here so this is how I figured out</p>
+<p begin="00:01:14.130" end="00:01:18.840" style="s2"><span style="s3">the story of that lot</span> not necessarily in</p>
+<p begin="00:01:17.159" end="00:01:21.240" style="s2">the order in which I discovered it but</p>
+<p begin="00:01:18.840" end="00:01:23.549" style="s2">in a much more<span style="s3"> sensical</span> water first you</p>
+<p begin="00:01:21.240" end="00:01:25.470" style="s2">go to historical areas oh this is<span style="s4"> the</span></p>
+<p begin="00:01:23.549" end="00:01:28.250" style="s2">caveat everything is available while</p>
+<p begin="00:01:25.470" end="00:01:31.310" style="s2">sick on a couch in my living room</p>
+<p begin="00:01:28.250" end="00:01:35.030" style="s2">so this is<span style="s3"> not</span> the complete picture you</p>
+<p begin="00:01:31.310" end="00:01:37.460" style="s2">could obviously do better first you go</p>
+<p begin="00:01:35.030" end="00:01:40.400" style="s2">to historical area aerials and you do a</p>
+<p begin="00:01:37.460" end="00:01:43.880" style="s2">little bit of<span style="s3"> time</span> travel 2012 vacant</p>
+<p begin="00:01:40.400" end="00:01:46.220" style="s2">2011 vacant 2010 bacon at nine vacant at</p>
+<p begin="00:01:43.880" end="00:01:49.729" style="s2">seven vacant at five bacon ought to</p>
+<p begin="00:01:46.220" end="00:01:54.200" style="s2">vacant 99 still vacant 88 a couple of</p>
+<p begin="00:01:49.729" end="00:01:56.540" style="s2">buildings 73<span style="s3"> Wow</span> so we found when</p>
+<p begin="00:01:54.200" end="00:02:00.410" style="s2">somewhere before 1988 all these</p>
+<p begin="00:01:56.540" end="00:02:01.729" style="s2">buildings<span style="s3"> were</span> demolished so now we<span style="s3"> want</span></p>
+<p begin="00:02:00.410" end="00:02:04.310" style="s2">to<span style="s3"> find</span> the<span style="s4"> other</span> end what&#39;s the other</p>
+<p begin="00:02:01.729" end="00:02:06.619" style="s2">end of the<span style="s3"> occupation</span> of this<span style="s3"> lot</span> so we</p>
+<p begin="00:02:04.310" end="00:02:10.009" style="s2">go to the secret city of chicago public</p>
+<p begin="00:02:06.619" end="00:02:13.910" style="s2">library website and look up Sanborn fire</p>
+<p begin="00:02:10.009" end="00:02:17.750" style="s2">insurance maps kind of amazing if you</p>
+<p begin="00:02:13.910" end="00:02:21.890" style="s2">don&#39;t know about<span style="s3"> it</span><span style="s4"> uh</span> and this is what</p>
+<p begin="00:02:17.750" end="00:02:23.840" style="s2">this area looked like in 1918<span style="s3"> I&#39;m just</span></p>
+<p begin="00:02:21.890" end="00:02:26.140" style="s2">going<span style="s4"> to</span> be focusing on this because<span style="s3"> I</span></p>
+<p begin="00:02:23.840" end="00:02:30.050" style="s2">didn&#39;t want to do the<span style="s3"> whole</span> thing so</p>
+<p begin="00:02:26.140" end="00:02:32.060" style="s2"><span style="s4">sometime</span> after 1918 and before 1988 this</p>
+<p begin="00:02:30.050" end="00:02:35.150" style="s2">thing was occupied<span style="s3"> right</span> so this is it</p>
+<p begin="00:02:32.060" end="00:02:36.680" style="s2">look here Dryden Robert company that&#39;s</p>
+<p begin="00:02:35.150" end="00:02:38.660" style="s2">interesting let&#39;s let&#39;s see<span style="s4"> what</span> that&#39;s</p>
+<p begin="00:02:36.680" end="00:02:41.570" style="s2">all about what do<span style="s3"> we</span> do we look in<span style="s3"> the</span></p>
+<p begin="00:02:38.660" end="00:02:43.670" style="s2">newspapers so you go to the saccade oh</p>
+<p begin="00:02:41.570" end="00:02:44.930" style="s2">shit city of Chicago Public Library</p>
+<p begin="00:02:43.670" end="00:02:46.850" style="s2">Thing and you start<span style="s3"> looking</span> in the</p>
+<p begin="00:02:44.930" end="00:02:48.260" style="s2">newspapers and<span style="s4"> it</span> turns out George</p>
+<p begin="00:02:46.850" end="00:02:52.519" style="s2">Dryden had a really big house in</p>
+<p begin="00:02:48.260" end="00:02:53.989" style="s2">evanston in 1915 then in 1920s when they</p>
+<p begin="00:02:52.519" end="00:02:55.850" style="s2"><span style="s4">actually</span> bought this property and built</p>
+<p begin="00:02:53.989" end="00:02:58.190" style="s2">the thing and they had lots of labor</p>
+<p begin="00:02:55.850" end="00:03:01.280" style="s2">labor trouble more label trouble still</p>
+<p begin="00:02:58.190" end="00:03:03.049" style="s2">more labor trouble and that in 1947 they</p>
+<p begin="00:03:01.280" end="00:03:05.299" style="s2">were sold<span style="s3"> to</span><span style="s4"> scheller</span> manufacturing and</p>
+<p begin="00:03:03.049" end="00:03:07.070" style="s2">after that the trail kind of goes cold</p>
+<p begin="00:03:05.299" end="00:03:09.079" style="s2">because<span style="s3"> she&#39;ll</span><span style="s4"> are</span> manufacturing is a</p>
+<p begin="00:03:07.070" end="00:03:11.390" style="s2">huge multinational corporation I don&#39;t</p>
+<p begin="00:03:09.079" end="00:03:14.000" style="s2">feel like googling it all day so we go</p>
+<p begin="00:03:11.390" end="00:03:15.769" style="s2">to property records and on our website</p>
+<p begin="00:03:14.000" end="00:03:18.650" style="s2"><span style="s4">we</span> have<span style="s3"> this</span> nice little link that takes</p>
+<p begin="00:03:15.769" end="00:03:22.010" style="s2">you over here which is the cook county</p>
+<p begin="00:03:18.650" end="00:03:23.540" style="s2">property information thing and so it&#39;s</p>
+<p begin="00:03:22.010" end="00:03:24.739" style="s2">got all this great information but the</p>
+<p begin="00:03:23.540" end="00:03:25.760" style="s2">really interesting information is</p>
+<p begin="00:03:24.739" end="00:03:28.130" style="s2"><span style="s4">actually</span> in the recorder of deeds</p>
+<p begin="00:03:25.760" end="00:03:32.420" style="s2">websites which is kind of annoying Lee</p>
+<p begin="00:03:28.130" end="00:03:33.920" style="s2">not able to<span style="s3"> get</span> to from here so there&#39;s</p>
+<p begin="00:03:32.420" end="00:03:35.900" style="s2">a lot of things<span style="s3"> that I have no idea</span></p>
+<p begin="00:03:33.920" end="00:03:38.510" style="s2">what they mean but<span style="s3"> there&#39;s</span> a lean right</p>
+<p begin="00:03:35.900" end="00:03:39.980" style="s2">here on the property<span style="s3"> and one guy that&#39;s</span></p>
+<p begin="00:03:38.510" end="00:03:41.599" style="s2">mentioned<span style="s3"> that</span><span style="s4"> lien</span> was also mentioned</p>
+<p begin="00:03:39.980" end="00:03:45.709" style="s2"><span style="s3">that</span> family properties bugs<span style="s3"> names</span> Jay</p>
+<p begin="00:03:41.599" end="00:03:48.170" style="s2"><span style="s3">Goran</span> he was a notorious slumlord in on</p>
+<p begin="00:03:45.709" end="00:03:50.569" style="s2">the west side of Chicago so somehow he</p>
+<p begin="00:03:48.170" end="00:03:53.810" style="s2">had a he had a claim on that property at</p>
+<p begin="00:03:50.569" end="00:03:55.280" style="s2">least in 1995 so let&#39;s find out what</p>
+<p begin="00:03:53.810" end="00:03:59.930" style="s2">else we can find out about<span style="s3"> this</span> property</p>
+<p begin="00:03:55.280" end="00:04:02.060" style="s2">on in 1990 there was a six-story pile of</p>
+<p begin="00:03:59.930" end="00:04:06.110" style="s2">construction debris on this property um</p>
+<p begin="00:04:02.060" end="00:04:09.440" style="s2">and it was it<span style="s4"> was</span> illegal<span style="s3"> because</span> that&#39;s</p>
+<p begin="00:04:06.110" end="00:04:12.470" style="s2">what people<span style="s3"> do</span> in<span style="s3"> Chicago</span> so they over</p>
+<p begin="00:04:09.440" end="00:04:15.530" style="s2">over time sometime between 1973 and</p>
+<p begin="00:04:12.470" end="00:04:16.940" style="s2">nineteen ninety six stories<span style="s4"> versus</span> worth</p>
+<p begin="00:04:15.530" end="00:04:20.570" style="s2">of construction debris was dumped<span style="s3"> there</span></p>
+<p begin="00:04:16.940" end="00:04:23.000" style="s2">illegally this guy John Christopher who</p>
+<p begin="00:04:20.570" end="00:04:25.419" style="s2">was the owner of the firm that did it</p>
+<p begin="00:04:23.000" end="00:04:28.760" style="s2">was also<span style="s3"> involved in a federal</span><span style="s4"> probe</span></p>
+<p begin="00:04:25.419" end="00:04:30.680" style="s2">involving this property which implicated</p>
+<p begin="00:04:28.760" end="00:04:33.350" style="s2">several alderman and other city</p>
+<p begin="00:04:30.680" end="00:04:35.720" style="s2">officials and bribery scandals and all</p>
+<p begin="00:04:33.350" end="00:04:37.400" style="s2">kinds of<span style="s4"> wonderful</span> things and I<span style="s3"> couldn&#39;t</span></p>
+<p begin="00:04:35.720" end="00:04:39.919" style="s2"><span style="s3">find</span> great images of the articles so</p>
+<p begin="00:04:37.400" end="00:04:42.289" style="s2">sorry about<span style="s4"> that</span> and it was also<span style="s3"> if</span> you</p>
+<p begin="00:04:39.919" end="00:04:44.240" style="s2">notice back way back here oh wait this</p>
+<p begin="00:04:42.289" end="00:04:46.520" style="s2">is zoned as a<span style="s3"> planned</span> development which</p>
+<p begin="00:04:44.240" end="00:04:48.229" style="s2">is<span style="s3"> like</span> kind<span style="s3"> of</span> interesting so because</p>
+<p begin="00:04:46.520" end="00:04:49.640" style="s2">that means<span style="s3"> that</span> the city was planning on</p>
+<p begin="00:04:48.229" end="00:04:51.680" style="s2">doing<span style="s3"> something</span> with this property at</p>
+<p begin="00:04:49.640" end="00:04:53.000" style="s2">some point what they were planning on</p>
+<p begin="00:04:51.680" end="00:04:55.520" style="s2">doing<span style="s4"> with</span> it is they were planning<span style="s4"> on</span></p>
+<p begin="00:04:53.000" end="00:04:57.229" style="s2">turning it into a movie<span style="s3"> studio</span> this<span style="s3"> is</span></p>
+<p begin="00:04:55.520" end="00:05:01.640" style="s2">an elevation showing what was supposed</p>
+<p begin="00:04:57.229" end="00:05:03.800" style="s2">to be built there at least<span style="s3"> in</span> 2004 so</p>
+<p begin="00:05:01.640" end="00:05:06.110" style="s2">now and another thing<span style="s3"> that&#39;s</span> interesting</p>
+<p begin="00:05:03.800" end="00:05:07.820" style="s2">is that UIC actually proposed<span style="s3"> is</span> a</p>
+<p begin="00:05:06.110" end="00:05:08.750" style="s2">possible location for the<span style="s3"> Obama</span> library</p>
+<p begin="00:05:07.820" end="00:05:12.440" style="s2">and that&#39;s what it was<span style="s3"> going</span> to look</p>
+<p begin="00:05:08.750" end="00:05:15.229" style="s2"><span style="s4">like</span> so that&#39;s all I know about<span style="s3"> this</span></p>
+<p begin="00:05:12.440" end="00:05:17.500" style="s2">property yet but that&#39;s everything that</p>
+<p begin="00:05:15.229" end="00:05:19.560" style="s2">you can<span style="s3"> find</span> on the internet so thanks</p>
+<p begin="00:05:17.500" end="00:05:19.560" style="s2">you</p>
+</div>
+</body>
+</tt>

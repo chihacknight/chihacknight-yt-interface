@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.490" end="00:00:09.240" style="s2">thank you this is my first hack night</p>
+<p begin="00:00:07.319" end="00:00:11.460" style="s2">it&#39;s really exciting this is<span style="s3"> an</span> awesome</p>
+<p begin="00:00:09.240" end="00:00:13.559" style="s2">group in a huge group and so I&#39;m really</p>
+<p begin="00:00:11.460" end="00:00:15.240" style="s2">thrilled to be here normally when I talk</p>
+<p begin="00:00:13.559" end="00:00:18.150" style="s2">about<span style="s4"> this</span> topic it&#39;s either<span style="s3"> people</span> who</p>
+<p begin="00:00:15.240" end="00:00:20.580" style="s2">count energy and know a lot about k bt</p>
+<p begin="00:00:18.150" end="00:00:22.500" style="s2">u--&#39;s<span style="s4"> i</span> know there was<span style="s3"> an</span> energy model</p>
+<p begin="00:00:20.580" end="00:00:24.930" style="s2">modeler but<span style="s3"> i</span> only heard about one and</p>
+<p begin="00:00:22.500" end="00:00:27.420" style="s2">then or people who think<span style="s3"> about</span> building</p>
+<p begin="00:00:24.930" end="00:00:29.760" style="s2">management and count dollars per square</p>
+<p begin="00:00:27.420" end="00:00:31.890" style="s2">foot of leasable rental or rentable</p>
+<p begin="00:00:29.760" end="00:00:33.149" style="s2">space but this<span style="s3"> group</span> is totally a</p>
+<p begin="00:00:31.890" end="00:00:34.200" style="s2">slightly different audience than what I</p>
+<p begin="00:00:33.149" end="00:00:36.870" style="s2">normally talk<span style="s4"> to</span> so I&#39;m really excited</p>
+<p begin="00:00:34.200" end="00:00:38.670" style="s2"><span style="s3">to</span> be here so again my name is<span style="s3"> Amy</span></p>
+<p begin="00:00:36.870" end="00:00:41.160" style="s2">Jewell I work for something<span style="s3"> called</span> the</p>
+<p begin="00:00:38.670" end="00:00:43.110" style="s2"><span style="s3">city</span> energy project it&#39;s a non-profit</p>
+<p begin="00:00:41.160" end="00:00:46.190" style="s2">working with several<span style="s3"> 20</span> cities across</p>
+<p begin="00:00:43.110" end="00:00:48.960" style="s2">the<span style="s3"> u.s.</span> on advancing local energy</p>
+<p begin="00:00:46.190" end="00:00:51.570" style="s2">policies and programs Chicago is one of</p>
+<p begin="00:00:48.960" end="00:00:53.340" style="s2">the lucky 20 cities to<span style="s3"> be</span> a part of that</p>
+<p begin="00:00:51.570" end="00:00:55.050" style="s2"><span style="s3">so</span> I work full-time in the mayor&#39;s</p>
+<p begin="00:00:53.340" end="00:00:56.820" style="s2">office supporting advising and</p>
+<p begin="00:00:55.050" end="00:00:58.859" style="s2">implementing programs and policies</p>
+<p begin="00:00:56.820" end="00:01:02.370" style="s2">focusing on energy efficiency in the</p>
+<p begin="00:00:58.859" end="00:01:05.309" style="s2">city of<span style="s4"> Chicago</span> so<span style="s3"> I&#39;m</span> going<span style="s4"> to</span> talk</p>
+<p begin="00:01:02.370" end="00:01:06.900" style="s2">about<span style="s4"> Chicago</span> energy benchmarking where</p>
+<p begin="00:01:05.309" end="00:01:09.750" style="s2">we are today a little bit about what it</p>
+<p begin="00:01:06.900" end="00:01:12.420" style="s2"><span style="s3">is</span> what the data is data are that we&#39;ve</p>
+<p begin="00:01:09.750" end="00:01:15.360" style="s2">been<span style="s3"> releasing</span> just to make you aware<span style="s3"> of</span></p>
+<p begin="00:01:12.420" end="00:01:17.340" style="s2">some of<span style="s3"> this</span> data that&#39;s out there and</p>
+<p begin="00:01:15.360" end="00:01:22.439" style="s2"><span style="s4">just</span> kind of get your thoughts<span style="s3"> and</span> we&#39;ll</p>
+<p begin="00:01:17.340" end="00:01:24.600" style="s2">have<span style="s3"> some Q&amp;A at the end recently the</span></p>
+<p begin="00:01:22.439" end="00:01:26.040" style="s2">city did so this I&#39;ll get a little<span style="s4"> bit</span></p>
+<p begin="00:01:24.600" end="00:01:27.990" style="s2">into the history<span style="s3"> in</span> a second but the</p>
+<p begin="00:01:26.040" end="00:01:30.750" style="s2">picture here is our most<span style="s3"> recent</span> report</p>
+<p begin="00:01:27.990" end="00:01:33.479" style="s2"><span style="s3">on</span> this particular ordinance we released</p>
+<p begin="00:01:30.750" end="00:01:35.189" style="s2">it in January and the link to where you</p>
+<p begin="00:01:33.479" end="00:01:36.270" style="s2">can download it is there along with</p>
+<p begin="00:01:35.189" end="00:01:42.299" style="s2"><span style="s3">anything</span> you ever wanted to<span style="s3"> know</span> about</p>
+<p begin="00:01:36.270" end="00:01:43.829" style="s2">this particular ordinance so I always</p>
+<p begin="00:01:42.299" end="00:01:45.780" style="s2"><span style="s3">start</span> with this slide is a little bit of</p>
+<p begin="00:01:43.829" end="00:01:48.270" style="s2">background so why does<span style="s4"> the</span> city of</p>
+<p begin="00:01:45.780" end="00:01:50.610" style="s2">Chicago<span style="s4"> care</span> about energy use in</p>
+<p begin="00:01:48.270" end="00:01:52.820" style="s2">buildings so the<span style="s3"> city</span> has developed a</p>
+<p begin="00:01:50.610" end="00:01:55.380" style="s2">couple of different foundational</p>
+<p begin="00:01:52.820" end="00:01:57.509" style="s2">documents that help guide sustainability</p>
+<p begin="00:01:55.380" end="00:01:59.880" style="s2">the first is the Chicago<span style="s4"> Climate Action</span></p>
+<p begin="00:01:57.509" end="00:02:02.280" style="s2"><span style="s4">Plan</span> it goes back almost a decade it was</p>
+<p begin="00:01:59.880" end="00:02:04.049" style="s2">developed<span style="s4"> and</span> I believe in 2008 it has</p>
+<p begin="00:02:02.280" end="00:02:06.320" style="s2">long-term goals for carbon reduction</p>
+<p begin="00:02:04.049" end="00:02:08.729" style="s2">which you can see on the slide there</p>
+<p begin="00:02:06.320" end="00:02:11.400" style="s2">recently<span style="s4"> the</span> city released a report</p>
+<p begin="00:02:08.729" end="00:02:13.110" style="s2">showing a seven percent reduction in</p>
+<p begin="00:02:11.400" end="00:02:15.360" style="s2">carbon emissions</p>
+<p begin="00:02:13.110" end="00:02:17.340" style="s2">from 2010 2 2015 so we&#39;re making</p>
+<p begin="00:02:15.360" end="00:02:21.150" style="s2">progress as a city but we have a ways to</p>
+<p begin="00:02:17.340" end="00:02:22.950" style="s2">go more recently the city develop</p>
+<p begin="00:02:21.150" end="00:02:24.960" style="s2">something called the sustainable<span style="s4"> Chicago</span></p>
+<p begin="00:02:22.950" end="00:02:27.960" style="s2">action agenda it&#39;s<span style="s4"> more</span><span style="s3"> of</span> a shorter</p>
+<p begin="00:02:24.960" end="00:02:30.150" style="s2">term<span style="s4"> road map for</span> sustainability that</p>
+<p begin="00:02:27.960" end="00:02:31.860" style="s2">identifies different themes and actions</p>
+<p begin="00:02:30.150" end="00:02:34.850" style="s2">the city is<span style="s4"> going</span> to focus on to hit</p>
+<p begin="00:02:31.860" end="00:02:38.190" style="s2">those<span style="s4"> long term carbon reduction goals</span></p>
+<p begin="00:02:34.850" end="00:02:40.050" style="s2">and here&#39;s a quote from the mayor I&#39;d</p>
+<p begin="00:02:38.190" end="00:02:42.959" style="s2">say that<span style="s4"> the</span> takeaway from this slide is</p>
+<p begin="00:02:40.050" end="00:02:44.730" style="s2">really both of these documents<span style="s3"> and</span> a lot</p>
+<p begin="00:02:42.959" end="00:02:48.209" style="s2">of the city&#39;s work on sustainability</p>
+<p begin="00:02:44.730" end="00:02:51.570" style="s2">focuses on energy and buildings because</p>
+<p begin="00:02:48.209" end="00:02:54.390" style="s2"><span style="s4">it&#39;s</span><span style="s3"> a</span> huge<span style="s3"> opportunity</span> to both save</p>
+<p begin="00:02:51.570" end="00:02:58.560" style="s2">money and reduce emissions and clean up</p>
+<p begin="00:02:54.390" end="00:03:00.090" style="s2">our environment in Chicago carbon<span style="s3"> at</span> the</p>
+<p begin="00:02:58.560" end="00:03:02.760" style="s2"><span style="s3">energy</span> used in<span style="s3"> building</span> so both</p>
+<p begin="00:03:00.090" end="00:03:05.100" style="s2">electricity and natural gas make up a</p>
+<p begin="00:03:02.760" end="00:03:07.440" style="s2"><span style="s3">little</span> over seventy percent<span style="s3"> of</span> the</p>
+<p begin="00:03:05.100" end="00:03:09.450" style="s2">city&#39;s total carbon emissions so if we</p>
+<p begin="00:03:07.440" end="00:03:12.090" style="s2"><span style="s3">don&#39;t</span> address this it will never<span style="s3"> hit</span> any</p>
+<p begin="00:03:09.450" end="00:03:13.890" style="s2"><span style="s3">long-term</span> carbon reduction goals and</p>
+<p begin="00:03:12.090" end="00:03:15.390" style="s2">it&#39;s been a huge focus<span style="s3"> of</span> the</p>
+<p begin="00:03:13.890" end="00:03:18.600" style="s2">sustainability work at the<span style="s3"> city</span> for a</p>
+<p begin="00:03:15.390" end="00:03:21.269" style="s2">while<span style="s4"> now</span> so that&#39;s why the<span style="s3"> city</span> cares</p>
+<p begin="00:03:18.600" end="00:03:25.019" style="s2">about energy efficiency what is the city</p>
+<p begin="00:03:21.269" end="00:03:27.510" style="s2">doing so the goal is let&#39;s accelerate</p>
+<p begin="00:03:25.019" end="00:03:29.670" style="s2">what&#39;s happening a lot of work has<span style="s4"> been</span></p>
+<p begin="00:03:27.510" end="00:03:32.310" style="s2">happening<span style="s4"> in</span><span style="s3"> this</span> field some of<span style="s4"> it&#39;s</span></p>
+<p begin="00:03:29.670" end="00:03:34.769" style="s2">driven<span style="s3"> by</span> the state level the utilities</p>
+<p begin="00:03:32.310" end="00:03:36.510" style="s2">both have energy efficiency programs</p>
+<p begin="00:03:34.769" end="00:03:40.170" style="s2">where<span style="s4"> they</span> have rebates and incentives</p>
+<p begin="00:03:36.510" end="00:03:42.600" style="s2">for different types of energy efficiency</p>
+<p begin="00:03:40.170" end="00:03:44.130" style="s2">actions but when the city thinks about</p>
+<p begin="00:03:42.600" end="00:03:46.560" style="s2">it I think<span style="s3"> we</span> kind of divide things into</p>
+<p begin="00:03:44.130" end="00:03:52.680" style="s2">both voluntary programs and the code</p>
+<p begin="00:03:46.560" end="00:03:56.220" style="s2">which is mandatory so for for mandatory</p>
+<p begin="00:03:52.680" end="00:03:57.420" style="s2">things we we have<span style="s3"> this</span> benchmarking</p>
+<p begin="00:03:56.220" end="00:04:00.299" style="s2">ordinance the building energy</p>
+<p begin="00:03:57.420" end="00:04:02.640" style="s2">transparency and energy codes which</p>
+<p begin="00:04:00.299" end="00:04:05.250" style="s2">relate to new construction as well<span style="s4"> as</span></p>
+<p begin="00:04:02.640" end="00:04:06.510" style="s2">major rehabs of existing buildings on</p>
+<p begin="00:04:05.250" end="00:04:09.540" style="s2">the voluntary side we have something</p>
+<p begin="00:04:06.510" end="00:04:10.829" style="s2"><span style="s4">called</span> retrofit Chicago so I&#39;m talking</p>
+<p begin="00:04:09.540" end="00:04:13.019" style="s2">today about<span style="s3"> the</span> building energy</p>
+<p begin="00:04:10.829" end="00:04:15.420" style="s2">transparency if you&#39;re curious<span style="s4"> about</span></p>
+<p begin="00:04:13.019" end="00:04:19.620" style="s2">anything<span style="s3"> else</span> just<span style="s3"> let</span> me know and you</p>
+<p begin="00:04:15.420" end="00:04:21.930" style="s2">can grab<span style="s4"> me</span><span style="s3"> later</span> so for transparency</p>
+<p begin="00:04:19.620" end="00:04:24.300" style="s2">the city passed this ordinance back in</p>
+<p begin="00:04:21.930" end="00:04:26.150" style="s2">2013 it really seeks to raise<span style="s4"> awareness</span></p>
+<p begin="00:04:24.300" end="00:04:28.070" style="s2">of energy performance</p>
+<p begin="00:04:26.150" end="00:04:31.729" style="s2">through<span style="s3"> information</span> and<span style="s3"> transparency</span> it</p>
+<p begin="00:04:28.070" end="00:04:33.830" style="s2">is a information based ordinance so as</p>
+<p begin="00:04:31.729" end="00:04:35.750" style="s2">you&#39;ll hear in a second people who have</p>
+<p begin="00:04:33.830" end="00:04:37.460" style="s2">to comply with this ordinance they don&#39;t</p>
+<p begin="00:04:35.750" end="00:04:39.949" style="s2"><span style="s3">have</span> to do anything if their efficiency</p>
+<p begin="00:04:37.460" end="00:04:41.570" style="s2">is not good but they they do have<span style="s3"> to</span></p>
+<p begin="00:04:39.949" end="00:04:43.990" style="s2">report the data every year to the city</p>
+<p begin="00:04:41.570" end="00:04:46.400" style="s2">the information gets into the hands of</p>
+<p begin="00:04:43.990" end="00:04:50.720" style="s2"><span style="s4">decision-makers</span> and into the public</p>
+<p begin="00:04:46.400" end="00:04:52.880" style="s2"><span style="s3">realm</span> these the goal is<span style="s3"> to</span> really just</p>
+<p begin="00:04:50.720" end="00:04:57.139" style="s2">improve transparency and use that to</p>
+<p begin="00:04:52.880" end="00:04:59.810" style="s2">drive change so the essentials<span style="s3"> of</span> this</p>
+<p begin="00:04:57.139" end="00:05:02.150" style="s2">ordinance it was passed to 2013 we</p>
+<p begin="00:04:59.810" end="00:05:04.789" style="s2">started rolling<span style="s4"> it</span> in in 2014 here&#39;s</p>
+<p begin="00:05:02.150" end="00:05:07.070" style="s2">what you have<span style="s4"> to</span> do if you are<span style="s3"> building</span></p>
+<p begin="00:05:04.789" end="00:05:09.710" style="s2">like this one larger than 50,000 square</p>
+<p begin="00:05:07.070" end="00:05:11.210" style="s2">feet you have to track the energy use</p>
+<p begin="00:05:09.710" end="00:05:13.639" style="s2">for the entire building all electricity</p>
+<p begin="00:05:11.210" end="00:05:15.620" style="s2">all natural gas anything<span style="s3"> else</span> once a</p>
+<p begin="00:05:13.639" end="00:05:17.449" style="s2"><span style="s3">year</span> report that to the city once a year</p>
+<p begin="00:05:15.620" end="00:05:21.020" style="s2">and<span style="s3"> then</span> every three years do some data</p>
+<p begin="00:05:17.449" end="00:05:22.849" style="s2">verification the city isn&#39;t authorized</p>
+<p begin="00:05:21.020" end="00:05:25.960" style="s2">to make that data public after the</p>
+<p begin="00:05:22.849" end="00:05:29.479" style="s2">second year that<span style="s3"> the</span> property reports</p>
+<p begin="00:05:25.960" end="00:05:31.940" style="s2">under the ordinance it uses<span style="s4"> a</span> tool</p>
+<p begin="00:05:29.479" end="00:05:34.070" style="s2">developed by the US<span style="s3"> EPA</span> called Energy</p>
+<p begin="00:05:31.940" end="00:05:36.349" style="s2">Star portfolio managers what the logo</p>
+<p begin="00:05:34.070" end="00:05:38.570" style="s2">looks<span style="s3"> like</span> it&#39;s free it&#39;s pretty easy to</p>
+<p begin="00:05:36.349" end="00:05:41.510" style="s2">use and that&#39;s the basics of what</p>
+<p begin="00:05:38.570" end="00:05:45.860" style="s2">buildings and their owners or property</p>
+<p begin="00:05:41.510" end="00:05:51.940" style="s2">managers have to do so we phased this in</p>
+<p begin="00:05:45.860" end="00:05:54.710" style="s2">overtime and basically as I mentioned we</p>
+<p begin="00:05:51.940" end="00:05:57.740" style="s2"><span style="s3">it</span> was a three-year phase-in period so</p>
+<p begin="00:05:54.710" end="00:05:59.389" style="s2"><span style="s4">we</span> started in 2014 not very many</p>
+<p begin="00:05:57.740" end="00:06:01.820" style="s2">buildings just commercial or</p>
+<p begin="00:05:59.389" end="00:06:04.909" style="s2">institutional buildings 250,000 square</p>
+<p begin="00:06:01.820" end="00:06:07.580" style="s2">feet and greater and as you can see in</p>
+<p begin="00:06:04.909" end="00:06:10.580" style="s2">2015 and 2016 we brought in more</p>
+<p begin="00:06:07.580" end="00:06:13.220" style="s2">buildings so the light blue bars show</p>
+<p begin="00:06:10.580" end="00:06:16.550" style="s2">when you have to do the benchmarking and</p>
+<p begin="00:06:13.220" end="00:06:17.620" style="s2">reporting and the<span style="s3"> red Chicago star is</span></p>
+<p begin="00:06:16.550" end="00:06:21.409" style="s2">when you had to do the data verification</p>
+<p begin="00:06:17.620" end="00:06:23.330" style="s2">so now everyone&#39;s been phased in as of</p>
+<p begin="00:06:21.409" end="00:06:28.250" style="s2">the end of last year and we&#39;re starting</p>
+<p begin="00:06:23.330" end="00:06:30.169" style="s2"><span style="s3">that cycle over this year and 2017 we</span></p>
+<p begin="00:06:28.250" end="00:06:32.090" style="s2">wouldn&#39;t<span style="s3"> be</span> a very good data or</p>
+<p begin="00:06:30.169" end="00:06:34.700" style="s2">transparency ordinance without some data</p>
+<p begin="00:06:32.090" end="00:06:38.409" style="s2">so this<span style="s3"> is</span> what compliance has looked</p>
+<p begin="00:06:34.700" end="00:06:38.409" style="s2">like over the past four<span style="s4"> years</span></p>
+<p begin="00:06:38.470" end="00:06:42.160" style="s2">so as I mentioned 2014 with a pretty</p>
+<p begin="00:06:40.180" end="00:06:43.300" style="s2">small year we had less<span style="s4"> than</span><span style="s3"> 300</span></p>
+<p begin="00:06:42.160" end="00:06:45.820" style="s2">buildings that were required<span style="s3"> to</span> do</p>
+<p begin="00:06:43.300" end="00:06:48.280" style="s2">anything<span style="s3"> last</span> year we&#39;re up to<span style="s4"> a</span> little</p>
+<p begin="00:06:45.820" end="00:06:51.700" style="s2">over<span style="s4"> 3,500</span> and that should remain pretty</p>
+<p begin="00:06:48.280" end="00:06:55.630" style="s2">steady going forward<span style="s3"> you</span> can see the</p>
+<p begin="00:06:51.700" end="00:06:57.610" style="s2">compliance rate by number<span style="s3"> of</span> properties</p>
+<p begin="00:06:55.630" end="00:06:59.500" style="s2">has<span style="s4"> been</span> in the eighty to ninety percent</p>
+<p begin="00:06:57.610" end="00:07:01.300" style="s2">range and when you measure<span style="s4"> that</span> by</p>
+<p begin="00:06:59.500" end="00:07:06.910" style="s2">square footage is consistently over</p>
+<p begin="00:07:01.300" end="00:07:08.650" style="s2">ninety percent so now<span style="s4"> I&#39;m</span> going<span style="s3"> to</span> share</p>
+<p begin="00:07:06.910" end="00:07:12.220" style="s2">a<span style="s3"> little more about the results we&#39;ve</span></p>
+<p begin="00:07:08.650" end="00:07:14.590" style="s2">seen and ensure i&#39;m going to get to like</p>
+<p begin="00:07:12.220" end="00:07:16.180" style="s2">what the data is are and what kind of</p>
+<p begin="00:07:14.590" end="00:07:18.930" style="s2">metrics were sharing for the different</p>
+<p begin="00:07:16.180" end="00:07:23.170" style="s2">buildings so you&#39;re the map showing</p>
+<p begin="00:07:18.930" end="00:07:24.460" style="s2">participation rates by neighborhood at</p>
+<p begin="00:07:23.170" end="00:07:26.740" style="s2">the time we went to print was not with</p>
+<p begin="00:07:24.460" end="00:07:28.930" style="s2">our report we had just under twenty</p>
+<p begin="00:07:26.740" end="00:07:30.490" style="s2">seven hundred total reports for</p>
+<p begin="00:07:28.930" end="00:07:33.880" style="s2">different properties every neighborhood</p>
+<p begin="00:07:30.490" end="00:07:36.820" style="s2">had at least one building that had to do</p>
+<p begin="00:07:33.880" end="00:07:38.410" style="s2">that had to report we had<span style="s4"> almost</span><span style="s3"> three</span></p>
+<p begin="00:07:36.820" end="00:07:42.160" style="s2"><span style="s3">quarters</span> of a billion square feet of</p>
+<p begin="00:07:38.410" end="00:07:43.570" style="s2">space and all the energy and<span style="s4"> all</span> those</p>
+<p begin="00:07:42.160" end="00:07:47.020" style="s2">reporting buildings is just about a</p>
+<p begin="00:07:43.570" end="00:07:48.820" style="s2">quarter of citywide energy use all</p>
+<p begin="00:07:47.020" end="00:07:52.180" style="s2">neighborhoods have at least one building</p>
+<p begin="00:07:48.820" end="00:07:54.490" style="s2">and most have five<span style="s4"> or</span> more so it&#39;s not</p>
+<p begin="00:07:52.180" end="00:07:56.200" style="s2">surprising the<span style="s4"> neighborhoods</span> closer to</p>
+<p begin="00:07:54.490" end="00:07:57.760" style="s2">the lake<span style="s4"> and</span> of course closer<span style="s3"> to</span> the</p>
+<p begin="00:07:56.200" end="00:07:59.800" style="s2">loop and the neighborhoods near the loop</p>
+<p begin="00:07:57.760" end="00:08:01.570" style="s2">tend to have a little<span style="s3"> bit</span> more of<span style="s4"> these</span></p>
+<p begin="00:07:59.800" end="00:08:03.910" style="s2">bigger buildings that need to report and</p>
+<p begin="00:08:01.570" end="00:08:06.340" style="s2">some of the outlying neighborhoods are a</p>
+<p begin="00:08:03.910" end="00:08:08.350" style="s2">little bit less dense and have not as</p>
+<p begin="00:08:06.340" end="00:08:16.120" style="s2">many big buildings so you&#39;ll see a</p>
+<p begin="00:08:08.350" end="00:08:18.580" style="s2">little bit fewer numbers there so as I</p>
+<p begin="00:08:16.120" end="00:08:20.290" style="s2">mentioned the second year<span style="s3"> of</span> building</p>
+<p begin="00:08:18.580" end="00:08:21.970" style="s2">reports the city&#39;s authorized to share</p>
+<p begin="00:08:20.290" end="00:08:24.100" style="s2">their data the first year is kind of a</p>
+<p begin="00:08:21.970" end="00:08:26.020" style="s2">grace period so if you&#39;re<span style="s4"> building</span> sucks</p>
+<p begin="00:08:24.100" end="00:08:28.570" style="s2">you can do something<span style="s3"> about</span> it and then</p>
+<p begin="00:08:26.020" end="00:08:30.970" style="s2">of the next year you report and the city</p>
+<p begin="00:08:28.570" end="00:08:33.580" style="s2">will release your data at that point so</p>
+<p begin="00:08:30.970" end="00:08:36.969" style="s2">we&#39;ve released two data sets on the<span style="s3"> data</span></p>
+<p begin="00:08:33.580" end="00:08:39.330" style="s2">portal now and thanks again to<span style="s3"> do</span> it for</p>
+<p begin="00:08:36.969" end="00:08:44.380" style="s2">helping us get all that data out there</p>
+<p begin="00:08:39.330" end="00:08:46.030" style="s2">and so there&#39;s two things up there one</p>
+<p begin="00:08:44.380" end="00:08:49.540" style="s2">is just<span style="s3"> the</span> full list of every building</p>
+<p begin="00:08:46.030" end="00:08:51.690" style="s2">required to comply and then the second</p>
+<p begin="00:08:49.540" end="00:08:56.400" style="s2">is the results from the building</p>
+<p begin="00:08:51.690" end="00:08:58.200" style="s2">it complies we also created a map this</p>
+<p begin="00:08:56.400" end="00:09:01.100" style="s2">interactive map that my organization</p>
+<p begin="00:08:58.200" end="00:09:02.900" style="s2">helped to create you can<span style="s3"> create your own</span></p>
+<p begin="00:09:01.100" end="00:09:06.420" style="s2">it&#39;s meant to be a data visualization</p>
+<p begin="00:09:02.900" end="00:09:08.520" style="s2">you can create<span style="s3"> your</span> own comparisons you</p>
+<p begin="00:09:06.420" end="00:09:09.810" style="s2">can look<span style="s3"> at</span> certain neighborhoods and</p>
+<p begin="00:09:08.520" end="00:09:12.180" style="s2">both of<span style="s3"> these</span> are linked on that mean</p>
+<p begin="00:09:09.810" end="00:09:19.170" style="s2">web page<span style="s4"> that</span> I had on the front front</p>
+<p begin="00:09:12.180" end="00:09:21.120" style="s2">slide so if you&#39;re<span style="s4"> interested</span> in<span style="s3"> a</span></p>
+<p begin="00:09:19.170" end="00:09:23.010" style="s2">building<span style="s4"> like</span> this one what kind of data</p>
+<p begin="00:09:21.120" end="00:09:24.380" style="s2">can you find out so there&#39;s four</p>
+<p begin="00:09:23.010" end="00:09:26.730" style="s2"><span style="s3">different</span> categories<span style="s3"> of</span> information</p>
+<p begin="00:09:24.380" end="00:09:30.870" style="s2">that&#39;s been released for every building</p>
+<p begin="00:09:26.730" end="00:09:32.580" style="s2">that&#39;s complied for at least two years</p>
+<p begin="00:09:30.870" end="00:09:35.660" style="s2">so there&#39;s basic building information</p>
+<p begin="00:09:32.580" end="00:09:37.860" style="s2">like the address square<span style="s4"> footage</span> etc</p>
+<p begin="00:09:35.660" end="00:09:41.850" style="s2">energy performance metrics which is</p>
+<p begin="00:09:37.860" end="00:09:43.440" style="s2">probably the key part of<span style="s4"> the</span> report so</p>
+<p begin="00:09:41.850" end="00:09:45.540" style="s2">energy use per square foot measures in a</p>
+<p begin="00:09:43.440" end="00:09:48.210" style="s2">few<span style="s4"> different</span> ways most billions get a</p>
+<p begin="00:09:45.540" end="00:09:51.720" style="s2">score<span style="s3"> on</span> a scale of 1 to 100 called the</p>
+<p begin="00:09:48.210" end="00:09:54.710" style="s2">Energy Star score 100 is great one is</p>
+<p begin="00:09:51.720" end="00:09:57.350" style="s2">very bad and<span style="s3"> 50</span> as a national median</p>
+<p begin="00:09:54.710" end="00:10:00.810" style="s2">there&#39;s an article that came out<span style="s4"> about</span></p>
+<p begin="00:09:57.350" end="00:10:06.150" style="s2">two or three weeks<span style="s3"> ago looking</span><span style="s4"> at</span> the</p>
+<p begin="00:10:00.810" end="00:10:08.280" style="s2">performance of the Trump Tower anyone</p>
+<p begin="00:10:06.150" end="00:10:12.930" style="s2">want<span style="s3"> to</span> guess what their score was I&#39;ll</p>
+<p begin="00:10:08.280" end="00:10:15.390" style="s2">scale of<span style="s4"> one</span> to<span style="s3"> 100</span> it wasn&#39;t negative I</p>
+<p begin="00:10:12.930" end="00:10:19.710" style="s2">don&#39;t think you can get a negative it</p>
+<p begin="00:10:15.390" end="00:10:22.260" style="s2">was I believe either a<span style="s3"> 9</span> or Arab 11 and</p>
+<p begin="00:10:19.710" end="00:10:24.690" style="s2">then there<span style="s4"> is</span> another<span style="s3"> reporter</span> that</p>
+<p begin="00:10:22.260" end="00:10:26.340" style="s2">followed up with a separate<span style="s3"> article</span> New</p>
+<p begin="00:10:24.690" end="00:10:28.110" style="s2">York<span style="s3"> City</span> has a very similar ordinance</p>
+<p begin="00:10:26.340" end="00:10:29.910" style="s2">to this and<span style="s4"> there&#39;s</span> several Trump own</p>
+<p begin="00:10:28.110" end="00:10:33.900" style="s2">buildings in New York City<span style="s3"> they&#39;re</span> all</p>
+<p begin="00:10:29.910" end="00:10:36.180" style="s2">doing in that<span style="s3"> same</span> range as well<span style="s3"> so</span></p>
+<p begin="00:10:33.900" end="00:10:39.060" style="s2">people<span style="s4"> are</span> taking taking note of this</p>
+<p begin="00:10:36.180" end="00:10:40.470" style="s2">it&#39;s interesting energy use by fuel</p>
+<p begin="00:10:39.060" end="00:10:42.360" style="s2">source so if you want to<span style="s4"> know the</span><span style="s3"> exact</span></p>
+<p begin="00:10:40.470" end="00:10:44.130" style="s2">amount of electricity natural gas or</p>
+<p begin="00:10:42.360" end="00:10:47.970" style="s2">other fuels used by each building that&#39;s</p>
+<p begin="00:10:44.130" end="00:10:50.550" style="s2">in there and then carbon<span style="s3"> emissions</span> from</p>
+<p begin="00:10:47.970" end="00:10:53.190" style="s2">each building and then carbon per square</p>
+<p begin="00:10:50.550" end="00:10:59.370" style="s2">foot so so that&#39;s what&#39;s been<span style="s3"> released</span></p>
+<p begin="00:10:53.190" end="00:11:02.790" style="s2">now those<span style="s3"> are</span> the<span style="s3"> main</span> metrics so is</p>
+<p begin="00:10:59.370" end="00:11:04.230" style="s2">this working we think so buildings that</p>
+<p begin="00:11:02.790" end="00:11:05.190" style="s2">have now reported for three years and</p>
+<p begin="00:11:04.230" end="00:11:06.870" style="s2">remember we face</p>
+<p begin="00:11:05.190" end="00:11:08.160" style="s2"><span style="s4">over time so the buildings</span><span style="s3"> that</span> have</p>
+<p begin="00:11:06.870" end="00:11:09.600" style="s2">reported for three years in a row we&#39;re</p>
+<p begin="00:11:08.160" end="00:11:11.490" style="s2">seeing about<span style="s3"> a</span> four percent total</p>
+<p begin="00:11:09.600" end="00:11:13.680" style="s2">reduction in energy use that is whether</p>
+<p begin="00:11:11.490" end="00:11:16.020" style="s2">normalized so it takes into account like</p>
+<p begin="00:11:13.680" end="00:11:19.530" style="s2"><span style="s3">a really hot summer here or really cold</span></p>
+<p begin="00:11:16.020" end="00:11:21.960" style="s2">when are there and that<span style="s4"> we</span><span style="s3"> think</span> has</p>
+<p begin="00:11:19.530" end="00:11:24.180" style="s2">saved almost 12 million and utility</p>
+<p begin="00:11:21.960" end="00:11:26.160" style="s2">costs per year and their scores are</p>
+<p begin="00:11:24.180" end="00:11:28.500" style="s2">going up same trend for buildings</p>
+<p begin="00:11:26.160" end="00:11:32.070" style="s2">reporting two years in a row<span style="s3"> about a two</span></p>
+<p begin="00:11:28.500" end="00:11:35.370" style="s2">percent energy savings and six million</p>
+<p begin="00:11:32.070" end="00:11:38.430" style="s2">dollars in cost savings their<span style="s3"> scores</span> are</p>
+<p begin="00:11:35.370" end="00:11:40.650" style="s2">also going up so we think<span style="s3"> this</span> is the</p>
+<p begin="00:11:38.430" end="00:11:42.330" style="s2">information<span style="s3"> is</span> getting into<span style="s3"> the</span> hands of</p>
+<p begin="00:11:40.650" end="00:11:45.000" style="s2">people who are starting<span style="s4"> to</span> make<span style="s3"> better</span></p>
+<p begin="00:11:42.330" end="00:11:48.210" style="s2">decisions<span style="s4"> and</span> we&#39;re hoping<span style="s4"> it&#39;s</span> also</p>
+<p begin="00:11:45.000" end="00:11:50.490" style="s2"><span style="s3">going</span> to spur the<span style="s3"> public&#39;s</span> for tenants</p>
+<p begin="00:11:48.210" end="00:11:52.080" style="s2">people living<span style="s4"> in</span> those buildings working</p>
+<p begin="00:11:50.490" end="00:11:56.250" style="s2">in those buildings to take note and</p>
+<p begin="00:11:52.080" end="00:11:59.100" style="s2">start to take action as well so this</p>
+<p begin="00:11:56.250" end="00:12:02.310" style="s2"><span style="s3">also</span> shows some overall trends of that</p>
+<p begin="00:11:59.100" end="00:12:04.350" style="s2">10 100 Energy Star score this is the</p>
+<p begin="00:12:02.310" end="00:12:08.820" style="s2"><span style="s4">distribution</span> of that overall building</p>
+<p begin="00:12:04.350" end="00:12:10.530" style="s2">sectors medians in Chicago was 59 so</p>
+<p begin="00:12:08.820" end="00:12:16.740" style="s2">we&#39;re above the<span style="s4"> national</span> average which</p>
+<p begin="00:12:10.530" end="00:12:21.120" style="s2">is<span style="s3"> good</span> but we did some analysis and saw</p>
+<p begin="00:12:16.740" end="00:12:23.370" style="s2">that<span style="s3"> excuse</span> me<span style="s3"> if</span> all the buildings were</p>
+<p begin="00:12:21.120" end="00:12:25.680" style="s2">to reach medium levels or above median</p>
+<p begin="00:12:23.370" end="00:12:28.050" style="s2">levels for energies per square foot</p>
+<p begin="00:12:25.680" end="00:12:29.640" style="s2">there would be a lot of energy could</p>
+<p begin="00:12:28.050" end="00:12:31.500" style="s2">still be saved so we<span style="s3"> think</span> there&#39;s still</p>
+<p begin="00:12:29.640" end="00:12:37.380" style="s2"><span style="s3">a</span> lot<span style="s4"> of</span> energy waste happening<span style="s3"> and</span> a</p>
+<p begin="00:12:31.500" end="00:12:38.700" style="s2">lot still to be done the question I</p>
+<p begin="00:12:37.380" end="00:12:41.240" style="s2">always get is so what&#39;s the city doing</p>
+<p begin="00:12:38.700" end="00:12:44.970" style="s2">with this data other than publishing it</p>
+<p begin="00:12:41.240" end="00:12:46.890" style="s2">great question<span style="s4"> so</span> anyone that reported</p>
+<p begin="00:12:44.970" end="00:12:49.130" style="s2">and complied with this ordinance gets an</p>
+<p begin="00:12:46.890" end="00:12:51.270" style="s2"><span style="s4">email</span> back and you get a peer comparison</p>
+<p begin="00:12:49.130" end="00:12:55.260" style="s2">kind of like if you&#39;ve heard of<span style="s4"> 0</span> power</p>
+<p begin="00:12:51.270" end="00:12:57.390" style="s2">those those reports that compares your</p>
+<p begin="00:12:55.260" end="00:12:59.880" style="s2">building to similar pure buildings in</p>
+<p begin="00:12:57.390" end="00:13:05.580" style="s2"><span style="s3">Chicago</span> and then some ideas about how<span style="s4"> to</span></p>
+<p begin="00:12:59.880" end="00:13:07.470" style="s2">improve<span style="s3"> performance</span> nationally the</p>
+<p begin="00:13:05.580" end="00:13:09.140" style="s2"><span style="s3">Department</span><span style="s4"> of</span><span style="s3"> Energy</span> is<span style="s3"> working</span> to get</p>
+<p begin="00:13:07.470" end="00:13:12.360" style="s2"><span style="s3">this</span> into the hands of people who</p>
+<p begin="00:13:09.140" end="00:13:14.310" style="s2">regularly buy sell or rent space and</p>
+<p begin="00:13:12.360" end="00:13:19.410" style="s2">buildings through a partnership with<span style="s4"> a</span></p>
+<p begin="00:13:14.310" end="00:13:21.579" style="s2">company called<span style="s3"> co-star</span> locally</p>
+<p begin="00:13:19.410" end="00:13:24.069" style="s2">local partners are actually using this</p>
+<p begin="00:13:21.579" end="00:13:26.229" style="s2">data to help<span style="s4"> inform</span> the design of new</p>
+<p begin="00:13:24.069" end="00:13:29.649" style="s2">construction which is really<span style="s4"> interesting</span></p>
+<p begin="00:13:26.229" end="00:13:31.539" style="s2">and so the way<span style="s4"> that</span> works is when you</p>
+<p begin="00:13:29.649" end="00:13:33.699" style="s2">have<span style="s4"> a</span> new building you&#39;re designing you</p>
+<p begin="00:13:31.539" end="00:13:35.589" style="s2">can actually<span style="s3"> set</span> energy targets before</p>
+<p begin="00:13:33.699" end="00:13:37.689" style="s2">you even put a shovel in the ground and</p>
+<p begin="00:13:35.589" end="00:13:39.429" style="s2">say here&#39;s the average in Chicago we&#39;re</p>
+<p begin="00:13:37.689" end="00:13:42.129" style="s2"><span style="s3">going to hit this</span> level which is<span style="s3"> much</span></p>
+<p begin="00:13:39.429" end="00:13:43.899" style="s2">better<span style="s4"> than</span> the average hopefully and so</p>
+<p begin="00:13:42.129" end="00:13:49.660" style="s2">that&#39;s some pilot programs around that</p>
+<p begin="00:13:43.899" end="00:13:52.359" style="s2">are happening now in Chicago here are</p>
+<p begin="00:13:49.660" end="00:13:55.029" style="s2">the resources the report there&#39;s an</p>
+<p begin="00:13:52.359" end="00:13:57.069" style="s2">infographic the data portal the links to</p>
+<p begin="00:13:55.029" end="00:13:59.259" style="s2">that the data portal also has its own</p>
+<p begin="00:13:57.069" end="00:14:03.100" style="s2">map and then the additional map that I</p>
+<p begin="00:13:59.259" end="00:14:04.569" style="s2">mentioned as well and we&#39;re open for</p>
+<p begin="00:14:03.100" end="00:14:06.160" style="s2">questions but<span style="s3"> I</span> know<span style="s3"> that you&#39;re</span></p>
+<p begin="00:14:04.569" end="00:14:08.799" style="s2">supposed to ask me questions<span style="s4"> actually</span></p>
+<p begin="00:14:06.160" end="00:14:11.649" style="s2">had questions for you so I&#39;d love to</p>
+<p begin="00:14:08.799" end="00:14:13.899" style="s2">hear any of your thoughts on where<span style="s4"> this</span></p>
+<p begin="00:14:11.649" end="00:14:15.220" style="s2">data could be useful other platforms we</p>
+<p begin="00:14:13.899" end="00:14:17.019" style="s2">might want<span style="s3"> to think about getting</span> it out</p>
+<p begin="00:14:15.220" end="00:14:19.749" style="s2">there what other ways could this day to</p>
+<p begin="00:14:17.019" end="00:14:21.399" style="s2">be used to encourage upgrades to improve</p>
+<p begin="00:14:19.749" end="00:14:24.269" style="s2">energy performance and then any</p>
+<p begin="00:14:21.399" end="00:14:24.269" style="s2">questions you have for me</p>
+<p begin="00:14:24.769" end="00:14:33.449" style="s2">I guess front row are these benchmarks</p>
+<p begin="00:14:31.079" end="00:14:35.370" style="s2">normalized<span style="s3"> to</span> the the population or the</p>
+<p begin="00:14:33.449" end="00:14:38.310" style="s2">use of the building at all yes they are</p>
+<p begin="00:14:35.370" end="00:14:39.839" style="s2"><span style="s3">so</span> it&#39;s both<span style="s3"> it&#39;s</span> it takes into account</p>
+<p begin="00:14:38.310" end="00:14:41.550" style="s2">both sides of<span style="s3"> the</span> building what the</p>
+<p begin="00:14:39.839" end="00:14:43.410" style="s2"><span style="s3">building</span> is used for you when you set</p>
+<p begin="00:14:41.550" end="00:14:44.959" style="s2">this up in the<span style="s4"> software</span><span style="s3"> you tell the</span></p>
+<p begin="00:14:43.410" end="00:14:47.579" style="s2">software what the building<span style="s4"> is</span> used for</p>
+<p begin="00:14:44.959" end="00:14:52.260" style="s2">and it takes into account occupancy</p>
+<p begin="00:14:47.579" end="00:14:55.769" style="s2">levels and all of those things<span style="s4"> okay</span></p>
+<p begin="00:14:52.260" end="00:14:57.810" style="s2">front row again sorry we&#39;re to building</p>
+<p begin="00:14:55.769" end="00:14:59.910" style="s2">typically see the<span style="s3"> biggest</span> improvement<span style="s3"> in</span></p>
+<p begin="00:14:57.810" end="00:15:02.370" style="s2">energy<span style="s3"> use</span> and that<span style="s3"> could</span> also<span style="s3"> be</span> a way</p>
+<p begin="00:14:59.910" end="00:15:04.139" style="s2"><span style="s4">to</span> like help people like hey this cos x</p>
+<p begin="00:15:02.370" end="00:15:06.720" style="s2"><span style="s4">percent</span> but only<span style="s4"> costs</span> this much it&#39;s</p>
+<p begin="00:15:04.139" end="00:15:10.529" style="s2">really easy that&#39;s a<span style="s3"> tough</span> question</p>
+<p begin="00:15:06.720" end="00:15:12.570" style="s2">because this is yeah I should probably</p>
+<p begin="00:15:10.529" end="00:15:14.940" style="s2">think<span style="s3"> of</span><span style="s4"> a</span> better analogy but energy</p>
+<p begin="00:15:12.570" end="00:15:17.850" style="s2">benchmarking kind of tells you<span style="s3"> roughly</span></p>
+<p begin="00:15:14.940" end="00:15:20.130" style="s2">where you are but doesn&#39;t<span style="s3"> necessarily</span></p>
+<p begin="00:15:17.850" end="00:15:21.899" style="s2">fairly pinpoint the all the sources of</p>
+<p begin="00:15:20.130" end="00:15:23.970" style="s2">the<span style="s3"> energy</span> waste so we&#39;re looking at</p>
+<p begin="00:15:21.899" end="00:15:25.470" style="s2">annual whole building data and we&#39;re</p>
+<p begin="00:15:23.970" end="00:15:28.740" style="s2">comparing you to some<span style="s4"> peer</span> buildings and</p>
+<p begin="00:15:25.470" end="00:15:29.970" style="s2">giving you a score if you get a score 40</p>
+<p begin="00:15:28.740" end="00:15:31.980" style="s2">you know you have a lot of room to</p>
+<p begin="00:15:29.970" end="00:15:34.139" style="s2">improve if you could have scored 80 you</p>
+<p begin="00:15:31.980" end="00:15:35.010" style="s2">know you&#39;re doing<span style="s3"> all</span><span style="s4"> right</span> but beyond</p>
+<p begin="00:15:34.139" end="00:15:36.540" style="s2">that you&#39;re going<span style="s3"> to</span> have to do</p>
+<p begin="00:15:35.010" end="00:15:39.660" style="s2"><span style="s4">additional</span> investigation to find that</p>
+<p begin="00:15:36.540" end="00:15:41.220" style="s2"><span style="s4">out</span> usually if you&#39;ve never<span style="s3"> done</span></p>
+<p begin="00:15:39.660" end="00:15:43.850" style="s2">anything lighting is the best place to</p>
+<p begin="00:15:41.220" end="00:15:46.529" style="s2">start in most buildings if it&#39;s cheap</p>
+<p begin="00:15:43.850" end="00:15:49.790" style="s2">has a quick payback it&#39;s fairly easy to</p>
+<p begin="00:15:46.529" end="00:15:52.079" style="s2">do but<span style="s3"> it</span> does<span style="s4"> vary</span> building to building</p>
+<p begin="00:15:49.790" end="00:15:54.380" style="s2">to figure out where the energy is being</p>
+<p begin="00:15:52.079" end="00:15:54.380" style="s2">wasted</p>
+<p begin="00:15:55.089" end="00:16:00.910" style="s2">I just had a comment<span style="s4"> I</span> thought maybe</p>
+<p begin="00:15:58.240" end="00:16:02.620" style="s2">Awards might be a good idea of certain</p>
+<p begin="00:16:00.910" end="00:16:04.720" style="s2">scores attained as far as marketability</p>
+<p begin="00:16:02.620" end="00:16:06.819" style="s2">buildings and people always love to see</p>
+<p begin="00:16:04.720" end="00:16:09.939" style="s2">there there&#39;s an out there getting you</p>
+<p begin="00:16:06.819" end="00:16:11.620" style="s2">know silver sustainability award yeah so</p>
+<p begin="00:16:09.939" end="00:16:13.899" style="s2">along those lines I didn&#39;t mention<span style="s3"> it</span> if</p>
+<p begin="00:16:11.620" end="00:16:15.970" style="s2">you get a score of 75 or above you can</p>
+<p begin="00:16:13.899" end="00:16:17.230" style="s2">get the Energy Star label on your</p>
+<p begin="00:16:15.970" end="00:16:19.899" style="s2">building it&#39;s like the Energy Star label</p>
+<p begin="00:16:17.230" end="00:16:21.790" style="s2">when you buy like an appliance and the</p>
+<p begin="00:16:19.899" end="00:16:23.889" style="s2">city has awards in a separate<span style="s3"> and our</span></p>
+<p begin="00:16:21.790" end="00:16:25.689" style="s2">voluntary program but that is a great</p>
+<p begin="00:16:23.889" end="00:16:27.970" style="s2">idea<span style="s3"> to</span> kind of think about<span style="s3"> other</span> awards</p>
+<p begin="00:16:25.689" end="00:16:31.649" style="s2">because<span style="s3"> everyone</span> does love<span style="s3"> to</span> get that</p>
+<p begin="00:16:27.970" end="00:16:35.290" style="s2">plaque they just love it Gentry here</p>
+<p begin="00:16:31.649" end="00:16:36.550" style="s2">thank you how many cities are collecting</p>
+<p begin="00:16:35.290" end="00:16:40.720" style="s2">data like this across<span style="s3"> the</span> United States</p>
+<p begin="00:16:36.550" end="00:16:43.959" style="s2"><span style="s3">I</span> think we&#39;re up to around 15 cities ana</p>
+<p begin="00:16:40.720" end="00:16:45.850" style="s2">county Alden near Washington DC and I&#39;m</p>
+<p begin="00:16:43.959" end="00:16:47.649" style="s2">and what what are the geographic</p>
+<p begin="00:16:45.850" end="00:16:50.439" style="s2">patterns of the different scores and</p>
+<p begin="00:16:47.649" end="00:16:56.350" style="s2">what&#39;s correlated with that oh there&#39;s</p>
+<p begin="00:16:50.439" end="00:16:58.629" style="s2">some data on that in our report the</p>
+<p begin="00:16:56.350" end="00:17:00.970" style="s2">scores are pretty much normalized by</p>
+<p begin="00:16:58.629" end="00:17:03.959" style="s2">climate so you don&#39;t actually see better</p>
+<p begin="00:17:00.970" end="00:17:07.539" style="s2">scores in places like Florida or Seattle</p>
+<p begin="00:17:03.959" end="00:17:11.380" style="s2">but certain cities have been doing this</p>
+<p begin="00:17:07.539" end="00:17:14.350" style="s2">longer<span style="s4"> spending one hour saving energy</span></p>
+<p begin="00:17:11.380" end="00:17:18.549" style="s2"><span style="s4">here</span> it a<span style="s4"> dadar</span> it&#39;s romantic</p>
+<p begin="00:17:14.350" end="00:17:21.970" style="s2">benchmarking behind like when the</p>
+<p begin="00:17:18.549" end="00:17:23.289" style="s2">restaurants turn down the<span style="s3"> way</span> so certain</p>
+<p begin="00:17:21.970" end="00:17:24.909" style="s2">cities have been doing this longer and</p>
+<p begin="00:17:23.289" end="00:17:26.589" style="s2">they have some more aggressive policies</p>
+<p begin="00:17:24.909" end="00:17:28.539" style="s2">in some cities you you&#39;re required to</p>
+<p begin="00:17:26.589" end="00:17:30.039" style="s2">benchmark and do an<span style="s4"> energy</span> audit every</p>
+<p begin="00:17:28.539" end="00:17:32.289" style="s2"><span style="s3">ten</span> years or you&#39;re required to</p>
+<p begin="00:17:30.039" end="00:17:34.750" style="s2">benchmark and upgrade your lighting in</p>
+<p begin="00:17:32.289" end="00:17:37.659" style="s2">New York<span style="s3"> City</span> for example so those</p>
+<p begin="00:17:34.750" end="00:17:43.210" style="s2">cities tend to see a little<span style="s3"> bit better</span></p>
+<p begin="00:17:37.659" end="00:17:45.010" style="s2">performance but it&#39;s it it&#39;s it&#39;s all</p>
+<p begin="00:17:43.210" end="00:17:46.480" style="s2">over the map<span style="s4"> Chicago is kind of we&#39;re</span></p>
+<p begin="00:17:45.010" end="00:17:48.220" style="s2">doing better than the national average</p>
+<p begin="00:17:46.480" end="00:17:50.919" style="s2">compared to some of<span style="s3"> the</span> other cities</p>
+<p begin="00:17:48.220" end="00:17:53.350" style="s2">that have publicly available data it</p>
+<p begin="00:17:50.919" end="00:17:55.120" style="s2">depends on the building sector but I can</p>
+<p begin="00:17:53.350" end="00:17:59.919" style="s2"><span style="s3">I</span> can send you a link to<span style="s3"> the</span> report and</p>
+<p begin="00:17:55.120" end="00:18:04.960" style="s2">show you where<span style="s3"> that</span> data are ya over</p>
+<p begin="00:17:59.919" end="00:18:07.390" style="s2">here in the back you<span style="s4"> can</span> ask<span style="s3"> questions</span></p>
+<p begin="00:18:04.960" end="00:18:08.760" style="s2"><span style="s3">if</span> you&#39;re in the back and I<span style="s4"> will</span> try<span style="s4"> to</span></p>
+<p begin="00:18:07.390" end="00:18:11.950" style="s2">get you</p>
+<p begin="00:18:08.760" end="00:18:14.250" style="s2">okay so yeah first off I love kind of</p>
+<p begin="00:18:11.950" end="00:18:17.650" style="s2"><span style="s3">what</span> the what your organization does and</p>
+<p begin="00:18:14.250" end="00:18:21.850" style="s2">pretty excited about that first question</p>
+<p begin="00:18:17.650" end="00:18:25.510" style="s2"><span style="s3">is</span> do you<span style="s4"> guys</span> as kind of a next step or</p>
+<p begin="00:18:21.850" end="00:18:27.370" style="s2">as something to<span style="s3"> answer</span> number Q there do</p>
+<p begin="00:18:25.510" end="00:18:29.890" style="s2">you guys partner<span style="s3"> with</span> organizations that</p>
+<p begin="00:18:27.370" end="00:18:31.480" style="s2"><span style="s3">maybe</span> you know you send out brochures to</p>
+<p begin="00:18:29.890" end="00:18:33.490" style="s2">the lower energy star rating for the</p>
+<p begin="00:18:31.480" end="00:18:35.170" style="s2">lower ratings and say hey listen<span style="s3"> your</span></p>
+<p begin="00:18:33.490" end="00:18:37.660" style="s2">peers in<span style="s3"> this</span> city your peers across the</p>
+<p begin="00:18:35.170" end="00:18:39.490" style="s2">country are at this level you&#39;re at this</p>
+<p begin="00:18:37.660" end="00:18:41.770" style="s2">level and then here&#39;s some actionable</p>
+<p begin="00:18:39.490" end="00:18:44.440" style="s2">next steps that you<span style="s4"> can</span> do to get a</p>
+<p begin="00:18:41.770" end="00:18:49.270" style="s2">higher score yeah they get an email that</p>
+<p begin="00:18:44.440" end="00:18:51.340" style="s2">has that but we are going to work<span style="s4"> with</span> a</p>
+<p begin="00:18:49.270" end="00:18:53.110" style="s2">partner to do a pilot this year to do</p>
+<p begin="00:18:51.340" end="00:18:55.630" style="s2">just<span style="s3"> that</span> so we&#39;re going<span style="s3"> to</span> try to<span style="s4"> ten</span></p>
+<p begin="00:18:53.110" end="00:18:57.220" style="s2"><span style="s4">point</span> buildings with low scores maybe</p>
+<p begin="00:18:55.630" end="00:18:59.770" style="s2">some of them<span style="s3"> are</span> going to be nonprofits</p>
+<p begin="00:18:57.220" end="00:19:01.360" style="s2">or houses of worship<span style="s3"> or</span> buildings with</p>
+<p begin="00:18:59.770" end="00:19:03.160" style="s2">financial needs so that we can reach out</p>
+<p begin="00:19:01.360" end="00:19:05.350" style="s2"><span style="s3">to</span><span style="s4"> them and ask and offer them some</span></p>
+<p begin="00:19:03.160" end="00:19:07.090" style="s2">additional help<span style="s3"> so</span> we&#39;re going<span style="s3"> to</span> try</p>
+<p begin="00:19:05.350" end="00:19:08.530" style="s2">that this year and see how it goes<span style="s3"> we&#39;re</span></p>
+<p begin="00:19:07.090" end="00:19:10.770" style="s2">going to do a pilot hopefully with</p>
+<p begin="00:19:08.530" end="00:19:13.630" style="s2">somewhere in the range of 50 buildings</p>
+<p begin="00:19:10.770" end="00:19:15.100" style="s2">to get enrolled but I think<span style="s3"> that&#39;s</span> a</p>
+<p begin="00:19:13.630" end="00:19:17.110" style="s2">huge opportunity and we&#39;d<span style="s4"> have</span> to<span style="s4"> work</span></p>
+<p begin="00:19:15.100" end="00:19:19.570" style="s2">with a lot of other nonprofits in this</p>
+<p begin="00:19:17.110" end="00:19:21.730" style="s2">area to<span style="s3"> get</span> that done for sure<span style="s4"> cool</span><span style="s3"> and</span></p>
+<p begin="00:19:19.570" end="00:19:25.780" style="s2">then my second question is if you<span style="s3"> had</span></p>
+<p begin="00:19:21.730" end="00:19:27.280" style="s2">unlimited resources what&#39;s one is there</p>
+<p begin="00:19:25.780" end="00:19:32.680" style="s2">something that you would<span style="s4"> like</span> really</p>
+<p begin="00:19:27.280" end="00:19:39.850" style="s2"><span style="s3">want</span> to do with<span style="s4"> this</span> hmm that&#39;s a<span style="s3"> great</span></p>
+<p begin="00:19:32.680" end="00:19:41.680" style="s2">question<span style="s4"> I</span> think if the if if we had</p>
+<p begin="00:19:39.850" end="00:19:45.460" style="s2">unlimited resources I would think about</p>
+<p begin="00:19:41.680" end="00:19:46.630" style="s2">and the folks at City Hall<span style="s3"> maybe</span> don&#39;t</p>
+<p begin="00:19:45.460" end="00:19:49.510" style="s2">tell them this I would<span style="s3"> think about</span></p>
+<p begin="00:19:46.630" end="00:19:51.670" style="s2">lowering the threshold to below 50,000</p>
+<p begin="00:19:49.510" end="00:19:54.400" style="s2">square feet New York City<span style="s3"> just did that</span></p>
+<p begin="00:19:51.670" end="00:19:56.590" style="s2">they require any building now 25,000</p>
+<p begin="00:19:54.400" end="00:19:57.970" style="s2">square feet<span style="s3"> and</span> up to comply and I think</p>
+<p begin="00:19:56.590" end="00:20:00.220" style="s2"><span style="s4">in</span> New York that&#39;s<span style="s3"> an</span> extra seven or</p>
+<p begin="00:19:57.970" end="00:20:01.420" style="s2">eight thousand buildings so getting some</p>
+<p begin="00:20:00.220" end="00:20:03.520" style="s2">of the smaller buildings involved in</p>
+<p begin="00:20:01.420" end="00:20:05.680" style="s2">this it&#39;s a<span style="s3"> little bit harder though</span></p>
+<p begin="00:20:03.520" end="00:20:07.810" style="s2">because those buildings don&#39;t<span style="s3"> have</span> as</p>
+<p begin="00:20:05.680" end="00:20:10.150" style="s2">much resources to<span style="s3"> do</span> the benchmarking</p>
+<p begin="00:20:07.810" end="00:20:13.500" style="s2">and to do the energy work so they need a</p>
+<p begin="00:20:10.150" end="00:20:13.500" style="s2">lot more hand-holding to get it done</p>
+<p begin="00:20:13.710" end="00:20:20.260" style="s2">right<span style="s3"> here</span> okay I&#39;m<span style="s3"> kind</span> of curious</p>
+<p begin="00:20:18.240" end="00:20:21.760" style="s2">first of all I think<span style="s3"> it&#39;s great project</span></p>
+<p begin="00:20:20.260" end="00:20:24.040" style="s2">and<span style="s3"> I</span> appreciate the data being</p>
+<p begin="00:20:21.760" end="00:20:29.410" style="s2">the data portal as well<span style="s3"> I&#39;m</span> curious as</p>
+<p begin="00:20:24.040" end="00:20:31.450" style="s2"><span style="s3">to</span> like the sort of organizational where</p>
+<p begin="00:20:29.410" end="00:20:32.680" style="s2">the funding for this came from like I</p>
+<p begin="00:20:31.450" end="00:20:34.750" style="s2"><span style="s4">noticed</span><span style="s3"> it&#39;s</span> a<span style="s3"> partnership</span> with City</p>
+<p begin="00:20:32.680" end="00:20:37.570" style="s2">energy i wonder if you explain what city</p>
+<p begin="00:20:34.750" end="00:20:39.730" style="s2">energy is and how that&#39;s funded and how</p>
+<p begin="00:20:37.570" end="00:20:41.710" style="s2">when you talk about these like reporting</p>
+<p begin="00:20:39.730" end="00:20:44.440" style="s2">requirements is<span style="s4"> that</span> being required by</p>
+<p begin="00:20:41.710" end="00:20:49.480" style="s2">the people who are funding this or is<span style="s4"> it</span></p>
+<p begin="00:20:44.440" end="00:20:50.530" style="s2">coming<span style="s3"> from</span> where exactly<span style="s3"> ok</span> so the</p>
+<p begin="00:20:49.480" end="00:20:53.650" style="s2">ordinance is<span style="s3"> the</span> city<span style="s3"> of</span> Chicago</p>
+<p begin="00:20:50.530" end="00:20:55.450" style="s2">ordinance is required by the city so the</p>
+<p begin="00:20:53.650" end="00:20:57.520" style="s2"><span style="s3">city</span> of Chicago<span style="s4"> is</span> requiring any</p>
+<p begin="00:20:55.450" end="00:20:59.500" style="s2">building in<span style="s3"> the</span> city of<span style="s4"> Chicago</span> to do</p>
+<p begin="00:20:57.520" end="00:21:02.220" style="s2">this that&#39;s 50,000 square feet a greater</p>
+<p begin="00:20:59.500" end="00:21:04.300" style="s2">there are a few exemptions available so</p>
+<p begin="00:21:02.220" end="00:21:06.780" style="s2">industrial manufacturing buildings for</p>
+<p begin="00:21:04.300" end="00:21:09.310" style="s2">example don&#39;t have don&#39;t have to do this</p>
+<p begin="00:21:06.780" end="00:21:12.400" style="s2">my organization is a<span style="s3"> non-profit it&#39;s</span></p>
+<p begin="00:21:09.310" end="00:21:14.470" style="s2">funded through foundations I&#39;m if I&#39;m on</p>
+<p begin="00:21:12.400" end="00:21:16.900" style="s2"><span style="s3">the</span> ground helping the city with this</p>
+<p begin="00:21:14.470" end="00:21:18.250" style="s2">for three<span style="s4"> years</span> and<span style="s4"> then</span> at<span style="s3"> the</span> end<span style="s3"> of</span></p>
+<p begin="00:21:16.900" end="00:21:20.350" style="s2">that three years will do additional</p>
+<p begin="00:21:18.250" end="00:21:22.540" style="s2">fundraising probably to<span style="s4"> keep</span> this role</p>
+<p begin="00:21:20.350" end="00:21:23.920" style="s2">continuing but we work with many<span style="s3"> many</span></p>
+<p begin="00:21:22.540" end="00:21:25.720" style="s2">other partners one of which is located</p>
+<p begin="00:21:23.920" end="00:21:28.080" style="s2">in<span style="s3"> this</span> building US Green Building</p>
+<p begin="00:21:25.720" end="00:21:30.820" style="s2">Council Illinois and many other</p>
+<p begin="00:21:28.080" end="00:21:33.070" style="s2">nonprofits<span style="s3"> to</span> do this and they all<span style="s3"> get</span></p>
+<p begin="00:21:30.820" end="00:21:35.050" style="s2">different funding sources did you guys</p>
+<p begin="00:21:33.070" end="00:21:37.390" style="s2">have<span style="s4"> a</span> hand in crafting the<span style="s3"> ordinance</span> we</p>
+<p begin="00:21:35.050" end="00:21:39.370" style="s2">had a hand in crafting several partners</p>
+<p begin="00:21:37.390" end="00:21:42.040" style="s2">came together and<span style="s3"> forms</span> a huge working</p>
+<p begin="00:21:39.370" end="00:21:44.080" style="s2">group to<span style="s4"> create</span> the ordinance Chicago is</p>
+<p begin="00:21:42.040" end="00:21:45.550" style="s2">I think<span style="s3"> the</span> six city in the<span style="s4"> u.s.</span><span style="s3"> to</span> pass</p>
+<p begin="00:21:44.080" end="00:21:46.950" style="s2">this so we were able<span style="s3"> to</span> learn<span style="s3"> from</span> some</p>
+<p begin="00:21:45.550" end="00:21:49.360" style="s2">of the other cities that came before us</p>
+<p begin="00:21:46.950" end="00:21:51.700" style="s2">we<span style="s3"> got</span> a partnership together with the</p>
+<p begin="00:21:49.360" end="00:21:54.520" style="s2">city<span style="s3"> and</span> mostly nonprofit organizations</p>
+<p begin="00:21:51.700" end="00:21:56.140" style="s2">and some for-profit energy service</p>
+<p begin="00:21:54.520" end="00:21:57.250" style="s2">providers were involved<span style="s3"> in</span> that and we</p>
+<p begin="00:21:56.140" end="00:21:58.660" style="s2">had the utilities involved from the</p>
+<p begin="00:21:57.250" end="00:22:01.240" style="s2">get-go as well because they have to</p>
+<p begin="00:21:58.660" end="00:22:03.130" style="s2">provide<span style="s3"> the</span> data so that working group</p>
+<p begin="00:22:01.240" end="00:22:04.750" style="s2">created the ordinance and help get<span style="s4"> it</span></p>
+<p begin="00:22:03.130" end="00:22:12.420" style="s2">passed and then are supporting it as</p>
+<p begin="00:22:04.750" end="00:22:12.420" style="s2">well yeah um here and then<span style="s4"> you&#39;re</span><span style="s3"> next</span></p>
+<p begin="00:22:13.410" end="00:22:17.230" style="s2">among the architectural community and</p>
+<p begin="00:22:16.090" end="00:22:20.260" style="s2">some of the building community<span style="s4"> is</span> what&#39;s</p>
+<p begin="00:22:17.230" end="00:22:22.540" style="s2"><span style="s3">called</span> lead the lead<span style="s3"> pétain</span> ability is</p>
+<p begin="00:22:20.260" end="00:22:24.630" style="s2">any<span style="s3"> kind</span> of a correlation between<span style="s3"> what</span></p>
+<p begin="00:22:22.540" end="00:22:27.580" style="s2">you&#39;re doing with the energy<span style="s3"> performance</span></p>
+<p begin="00:22:24.630" end="00:22:30.780" style="s2">and lead buildings that have been built</p>
+<p begin="00:22:27.580" end="00:22:33.640" style="s2">that<span style="s3"> are</span> different<span style="s4"> levels</span><span style="s3"> of</span> be tlie</p>
+<p begin="00:22:30.780" end="00:22:35.450" style="s2">capabilities so on a very basic level</p>
+<p begin="00:22:33.640" end="00:22:37.159" style="s2">you can get points</p>
+<p begin="00:22:35.450" end="00:22:38.720" style="s2">your lead certification for having</p>
+<p begin="00:22:37.159" end="00:22:40.580" style="s2">really good energy performance and the</p>
+<p begin="00:22:38.720" end="00:22:42.620" style="s2">way you measure<span style="s3"> that</span> is the same tool</p>
+<p begin="00:22:40.580" end="00:22:45.260" style="s2">that we use for this the portfolio</p>
+<p begin="00:22:42.620" end="00:22:47.659" style="s2">manager tool we also look at buildings</p>
+<p begin="00:22:45.260" end="00:22:50.210" style="s2">that had been LEED certified in the<span style="s3"> last</span></p>
+<p begin="00:22:47.659" end="00:22:52.250" style="s2">I<span style="s3"> think</span> three to five years and we look</p>
+<p begin="00:22:50.210" end="00:22:54.500" style="s2">at their energy performance in Chicago</p>
+<p begin="00:22:52.250" end="00:22:56.330" style="s2">the LEED certified buildings are doing</p>
+<p begin="00:22:54.500" end="00:22:58.429" style="s2">better than the non leed-certified</p>
+<p begin="00:22:56.330" end="00:23:00.139" style="s2">buildings when it comes to their energy</p>
+<p begin="00:22:58.429" end="00:23:02.210" style="s2">performance other cities<span style="s3"> haven&#39;t</span> found</p>
+<p begin="00:23:00.139" end="00:23:04.429" style="s2">that<span style="s3"> as</span> much and I<span style="s4"> think</span><span style="s3"> that&#39;s</span> limited</p>
+<p begin="00:23:02.210" end="00:23:06.200" style="s2">to office buildings we didn&#39;t have</p>
+<p begin="00:23:04.429" end="00:23:08.779" style="s2"><span style="s4">enough</span> data to do that analysis for</p>
+<p begin="00:23:06.200" end="00:23:10.340" style="s2">other building types but<span style="s3"> we</span> did find</p>
+<p begin="00:23:08.779" end="00:23:13.370" style="s2"><span style="s3">that</span> and it&#39;s in our report so I can</p>
+<p begin="00:23:10.340" end="00:23:19.220" style="s2">point you to that you had a question</p>
+<p begin="00:23:13.370" end="00:23:23.149" style="s2">here thank you so who actually gets the</p>
+<p begin="00:23:19.220" end="00:23:25.250" style="s2">credit for a good or<span style="s4"> bad</span> rating for</p>
+<p begin="00:23:23.149" end="00:23:27.980" style="s2">energy star is it the multiple tenants</p>
+<p begin="00:23:25.250" end="00:23:31.220" style="s2">of the building a leasing group like</p>
+<p begin="00:23:27.980" end="00:23:33.590" style="s2">CBRE<span style="s4"> jll</span> or the construction company</p>
+<p begin="00:23:31.220" end="00:23:34.909" style="s2">that made<span style="s4"> the</span> building itself it&#39;s a</p>
+<p begin="00:23:33.590" end="00:23:38.269" style="s2">great<span style="s4"> question</span> we don&#39;t<span style="s3"> really</span> give</p>
+<p begin="00:23:34.909" end="00:23:40.970" style="s2">credit the people that<span style="s4"> have</span> to do this</p>
+<p begin="00:23:38.269" end="00:23:44.049" style="s2">technically it&#39;s the<span style="s4"> building</span> owner or</p>
+<p begin="00:23:40.970" end="00:23:46.460" style="s2">that person&#39;s agent or building manager</p>
+<p begin="00:23:44.049" end="00:23:48.919" style="s2">tenants don&#39;t typically have much to do</p>
+<p begin="00:23:46.460" end="00:23:50.179" style="s2">with this so the<span style="s3"> data</span> comes<span style="s3"> from</span> the</p>
+<p begin="00:23:48.919" end="00:23:51.529" style="s2">utility so you don&#39;t have<span style="s3"> to</span> go to your</p>
+<p begin="00:23:50.179" end="00:23:53.809" style="s2">tenants and get data from them or</p>
+<p begin="00:23:51.529" end="00:23:55.399" style="s2">anything if a building is doing really</p>
+<p begin="00:23:53.809" end="00:23:57.500" style="s2">well in terms of their energy</p>
+<p begin="00:23:55.399" end="00:23:58.490" style="s2">performance it probably depends to</p>
+<p begin="00:23:57.500" end="00:24:00.289" style="s2"><span style="s3">answer that question you&#39;d have to look</span></p>
+<p begin="00:23:58.490" end="00:24:02.210" style="s2">at<span style="s3"> what kind of building</span> it is a</p>
+<p begin="00:24:00.289" end="00:24:04.460" style="s2">building<span style="s3"> like</span> this they&#39;ve actually done</p>
+<p begin="00:24:02.210" end="00:24:06.230" style="s2">a lot in<span style="s3"> the</span><span style="s4"> merchandize</span> mart to make</p>
+<p begin="00:24:04.460" end="00:24:08.059" style="s2">the space is more efficient so that&#39;s</p>
+<p begin="00:24:06.230" end="00:24:11.539" style="s2">the ownership usually working with</p>
+<p begin="00:24:08.059" end="00:24:14.210" style="s2">property management but in many cases</p>
+<p begin="00:24:11.539" end="00:24:16.639" style="s2"><span style="s4">you</span> will need to<span style="s4"> work</span> with tenants to</p>
+<p begin="00:24:14.210" end="00:24:18.409" style="s2">get them to do things as well so to<span style="s3"> get</span></p>
+<p begin="00:24:16.639" end="00:24:20.149" style="s2">a really high score tenants probably had</p>
+<p begin="00:24:18.409" end="00:24:21.830" style="s2">been involved at some point in a</p>
+<p begin="00:24:20.149" end="00:24:26.500" style="s2">building<span style="s4"> like</span> this or an office<span style="s3"> building</span></p>
+<p begin="00:24:21.830" end="00:24:28.519" style="s2"><span style="s3">or</span> a condo building so it really<span style="s3"> depends</span></p>
+<p begin="00:24:26.500" end="00:24:34.190" style="s2">I&#39;m sorry<span style="s4"> that</span> probably wasn&#39;t a very</p>
+<p begin="00:24:28.519" end="00:24:36.669" style="s2">satisfying answer but yeah sure all</p>
+<p begin="00:24:34.190" end="00:24:36.669" style="s2">right here</p>
+<p begin="00:24:38.380" end="00:24:44.590" style="s2">hi thanks<span style="s4"> for</span> the presentation really</p>
+<p begin="00:24:41.200" end="00:24:46.840" style="s2">informative do you think that one of<span style="s3"> the</span></p>
+<p begin="00:24:44.590" end="00:24:49.150" style="s2">speed bumps that especially smaller</p>
+<p begin="00:24:46.840" end="00:24:51.670" style="s2">buildings have to adopt these energy</p>
+<p begin="00:24:49.150" end="00:24:53.680" style="s2">measures is the cost so I know<span style="s3"> that</span></p>
+<p begin="00:24:51.670" end="00:24:55.660" style="s2">there&#39;s a lot<span style="s4"> of</span> information<span style="s3"> on</span> you know</p>
+<p begin="00:24:53.680" end="00:24:57.340" style="s2">emissions and stuff like that but<span style="s3"> you</span></p>
+<p begin="00:24:55.660" end="00:24:59.980" style="s2"><span style="s4">know</span> the direct<span style="s4"> cost</span><span style="s3"> and</span> you guys<span style="s4"> helped</span></p>
+<p begin="00:24:57.340" end="00:25:02.710" style="s2">kind of debunk some of the myths towards</p>
+<p begin="00:24:59.980" end="00:25:04.630" style="s2">that it&#39;s a<span style="s3"> great</span> question we we</p>
+<p begin="00:25:02.710" end="00:25:07.720" style="s2">constantly ask ourselves why aren&#39;t</p>
+<p begin="00:25:04.630" end="00:25:10.330" style="s2">people doing more of this it seems easy</p>
+<p begin="00:25:07.720" end="00:25:13.300" style="s2">and and some of the easier things don&#39;t</p>
+<p begin="00:25:10.330" end="00:25:14.800" style="s2">cost that much<span style="s3"> I</span> think it again it</p>
+<p begin="00:25:13.300" end="00:25:16.360" style="s2">depends probably one of the biggest</p>
+<p begin="00:25:14.800" end="00:25:19.150" style="s2"><span style="s3">barriers</span> it&#39;s just lack of knowledge</p>
+<p begin="00:25:16.360" end="00:25:21.160" style="s2">lack of information not only about the</p>
+<p begin="00:25:19.150" end="00:25:23.920" style="s2">building&#39;s energy performance which<span style="s3"> this</span></p>
+<p begin="00:25:21.160" end="00:25:26.170" style="s2">obviously helps fix that but about you</p>
+<p begin="00:25:23.920" end="00:25:28.510" style="s2">know what you can do to start taking</p>
+<p begin="00:25:26.170" end="00:25:31.780" style="s2"><span style="s3">action</span> so<span style="s3"> if</span> you get a score of 30 you</p>
+<p begin="00:25:28.510" end="00:25:34.360" style="s2">might not know really what to do as I</p>
+<p begin="00:25:31.780" end="00:25:36.520" style="s2"><span style="s3">mentioned</span> both utilities offer rebate</p>
+<p begin="00:25:34.360" end="00:25:38.200" style="s2">and incentive programs in some cases</p>
+<p begin="00:25:36.520" end="00:25:40.480" style="s2">they&#39;ll come and change<span style="s3"> all</span> your light</p>
+<p begin="00:25:38.200" end="00:25:42.460" style="s2"><span style="s4">bulbs</span> for like no cost I think there are</p>
+<p begin="00:25:40.480" end="00:25:44.080" style="s2">still some programs they both comment</p>
+<p begin="00:25:42.460" end="00:25:47.860" style="s2">that comment provides<span style="s4"> but</span> people don&#39;t</p>
+<p begin="00:25:44.080" end="00:25:50.110" style="s2">know that much about them so you have to</p>
+<p begin="00:25:47.860" end="00:25:52.780" style="s2"><span style="s3">find</span> out about those programs and enroll</p>
+<p begin="00:25:50.110" end="00:25:54.580" style="s2">and have a little bit of knowledge to</p>
+<p begin="00:25:52.780" end="00:25:58.900" style="s2">get it<span style="s3"> done</span> so<span style="s4"> we</span> think<span style="s3"> there&#39;s just</span></p>
+<p begin="00:25:54.580" end="00:26:00.990" style="s2">still some education needs to happen for</p>
+<p begin="00:25:58.900" end="00:26:03.520" style="s2">a bigger upgrades coughs<span style="s4"> cambian</span> issue</p>
+<p begin="00:26:00.990" end="00:26:05.560" style="s2">and it depends on the building type</p>
+<p begin="00:26:03.520" end="00:26:09.130" style="s2">again a non-profit might have a harder</p>
+<p begin="00:26:05.560" end="00:26:12.700" style="s2">time than a big skyscraper in the loop</p>
+<p begin="00:26:09.130" end="00:26:16.140" style="s2">so so I think<span style="s3"> cost</span> can be an issue</p>
+<p begin="00:26:12.700" end="00:26:21.180" style="s2">depending on the building type as<span style="s4"> well</span></p>
+<p begin="00:26:16.140" end="00:26:21.180" style="s2"><span style="s3">is that it</span> all right<span style="s4"> thank</span></p>
+</div>
+</body>
+</tt>

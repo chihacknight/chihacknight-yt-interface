@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.730" end="00:00:10.889" style="s2">so thank you I&#39;ve<span style="s3"> been</span> coming<span style="s3"> here</span> for</p>
+<p begin="00:00:07.589" end="00:00:13.080" style="s2"><span style="s4">about</span> two years so a bit<span style="s3"> of</span> a beginner</p>
+<p begin="00:00:10.889" end="00:00:15.299" style="s2">but I&#39;m talking<span style="s3"> about</span> the pension</p>
+<p begin="00:00:13.080" end="00:00:17.910" style="s2">project which started out as an attempt</p>
+<p begin="00:00:15.299" end="00:00:19.920" style="s2">to model the illinois pension system to</p>
+<p begin="00:00:17.910" end="00:00:23.160" style="s2">explain it and to come up with solutions</p>
+<p begin="00:00:19.920" end="00:00:26.550" style="s2">for how to improve<span style="s3"> the</span><span style="s4"> situation</span> so it</p>
+<p begin="00:00:23.160" end="00:00:29.039" style="s2">started in august of 2014 which means</p>
+<p begin="00:00:26.550" end="00:00:30.449" style="s2">that<span style="s3"> there</span> been<span style="s4"> 88</span> sessions where we&#39;ve</p>
+<p begin="00:00:29.039" end="00:00:33.120" style="s2"><span style="s3">come</span> together and sat<span style="s3"> in</span> a room like</p>
+<p begin="00:00:30.449" end="00:00:35.640" style="s2"><span style="s3">that</span> room or a room like<span style="s4"> it and talked</span></p>
+<p begin="00:00:33.120" end="00:00:37.829" style="s2"><span style="s4">about</span> feverishly about the pension</p>
+<p begin="00:00:35.640" end="00:00:39.360" style="s2">system<span style="s3"> we</span> have<span style="s4"> a</span> mailing list we&#39;re</p>
+<p begin="00:00:37.829" end="00:00:40.950" style="s2">pretty much everyone<span style="s3"> that</span> comes into the</p>
+<p begin="00:00:39.360" end="00:00:42.510" style="s2">room we make them type in their email</p>
+<p begin="00:00:40.950" end="00:00:44.820" style="s2">address and they become part of the</p>
+<p begin="00:00:42.510" end="00:00:47.190" style="s2"><span style="s4">conversation</span> there are 72 members on</p>
+<p begin="00:00:44.820" end="00:00:50.420" style="s2">that mailing list almost<span style="s4"> one</span> person</p>
+<p begin="00:00:47.190" end="00:00:51.809" style="s2">every<span style="s3"> week</span> has joined so i did a</p>
+<p begin="00:00:50.420" end="00:00:56.399" style="s2">ridiculous back-of-the-envelope</p>
+<p begin="00:00:51.809" end="00:00:58.469" style="s2">calculation of how much effort<span style="s3"> if</span> you</p>
+<p begin="00:00:56.399" end="00:01:01.289" style="s2">say yeah we&#39;re pretty talented people so</p>
+<p begin="00:00:58.469" end="00:01:04.229" style="s2">how much has this probably<span style="s4"> cost</span> and a</p>
+<p begin="00:01:01.289" end="00:01:07.580" style="s2">roughly 125 thousand dollars to date we</p>
+<p begin="00:01:04.229" end="00:01:07.580" style="s2">have shipped nothing</p>
+<p begin="00:01:10.220" end="00:01:17.040" style="s2">and<span style="s4"> I</span><span style="s3"> believe</span> that<span style="s4"> any</span> rational sponsor</p>
+<p begin="00:01:15.150" end="00:01:22.710" style="s2">a project like this would have pulled</p>
+<p begin="00:01:17.040" end="00:01:24.930" style="s2">the plug long ago but I started thinking</p>
+<p begin="00:01:22.710" end="00:01:27.420" style="s2"><span style="s3">about</span> really<span style="s4"> what</span> have we done so we&#39;ve</p>
+<p begin="00:01:24.930" end="00:01:29.729" style="s2"><span style="s3">had</span><span style="s4"> 88</span> sessions where we&#39;ve sat down</p>
+<p begin="00:01:27.420" end="00:01:31.350" style="s2">together new people<span style="s3"> have</span> come in<span style="s4"> and</span></p>
+<p begin="00:01:29.729" end="00:01:34.170" style="s2">we&#39;ve engaged them in discussions about</p>
+<p begin="00:01:31.350" end="00:01:36.360" style="s2">the pension crisis about the system how</p>
+<p begin="00:01:34.170" end="00:01:39.270" style="s2">it works what is the math behind it and</p>
+<p begin="00:01:36.360" end="00:01:42.030" style="s2">there&#39;s been a lot<span style="s3"> of</span> people who&#39;ve been</p>
+<p begin="00:01:39.270" end="00:01:43.350" style="s2">awakened to notions about it a lot of</p>
+<p begin="00:01:42.030" end="00:01:44.759" style="s2">different<span style="s4"> discussions</span> we&#39;ve been</p>
+<p begin="00:01:43.350" end="00:01:47.130" style="s2">focusing a lot on the models we&#39;ve</p>
+<p begin="00:01:44.759" end="00:01:49.800" style="s2">played around with various models and</p>
+<p begin="00:01:47.130" end="00:01:51.899" style="s2">looked at ways digging deep into the</p>
+<p begin="00:01:49.800" end="00:01:54.660" style="s2">data and<span style="s4"> the</span> sensitivities and we&#39;ve</p>
+<p begin="00:01:51.899" end="00:01:56.280" style="s2">actually through all of this have come</p>
+<p begin="00:01:54.660" end="00:01:58.500" style="s2">up with<span style="s4"> something</span> we&#39;ll be presenting a</p>
+<p begin="00:01:56.280" end="00:02:01.410" style="s2">bit later but it&#39;s a astonishingly</p>
+<p begin="00:01:58.500" end="00:02:03.660" style="s2">simple outcome of all of this but it</p>
+<p begin="00:02:01.410" end="00:02:05.369" style="s2">really came from<span style="s4"> the</span> flexibility of this</p>
+<p begin="00:02:03.660" end="00:02:07.920" style="s2">this sort of a forum to really come</p>
+<p begin="00:02:05.369" end="00:02:10.729" style="s2">together<span style="s4"> and</span> practice civics so that was</p>
+<p begin="00:02:07.920" end="00:02:10.729" style="s2">my surprising story</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.370" end="00:00:12.179" style="s2">hi everyone I&#39;m<span style="s3"> Cathy</span> ding and i&#39;m here</p>
+<p begin="00:00:08.309" end="00:00:13.980" style="s2">to talk<span style="s3"> to</span> you about inclusion so a lot</p>
+<p begin="00:00:12.179" end="00:00:15.660" style="s2">of times people will say<span style="s3"> things</span> about</p>
+<p begin="00:00:13.980" end="00:00:17.039" style="s2">hack night like wow it&#39;s like really</p>
+<p begin="00:00:15.660" end="00:00:19.920" style="s2">diverse like like there are a lot of</p>
+<p begin="00:00:17.039" end="00:00:21.779" style="s2">like men and<span style="s4"> women</span> in<span style="s3"> the</span> room and like</p>
+<p begin="00:00:19.920" end="00:00:24.900" style="s2">their developers and designers and</p>
+<p begin="00:00:21.779" end="00:00:27.840" style="s2">government people and data people but I</p>
+<p begin="00:00:24.900" end="00:00:29.849" style="s2">and actually<span style="s3"> i</span> hack night is a lot</p>
+<p begin="00:00:27.840" end="00:00:31.830" style="s2">better<span style="s4"> than</span> the vast majority of tech</p>
+<p begin="00:00:29.849" end="00:00:35.840" style="s2">meetups but I<span style="s4"> just</span> want to like push</p>
+<p begin="00:00:31.830" end="00:00:40.290" style="s2">back on this kind of self-congratulation</p>
+<p begin="00:00:35.840" end="00:00:42.329" style="s2">because just counting bodies in the room</p>
+<p begin="00:00:40.290" end="00:00:43.920" style="s2">is<span style="s4"> like</span> a really simplistic<span style="s4"> view</span> of</p>
+<p begin="00:00:42.329" end="00:00:47.579" style="s2">inclusion the things that really</p>
+<p begin="00:00:43.920" end="00:00:50.610" style="s2"><span style="s4">ultimately</span> matter are how people are</p>
+<p begin="00:00:47.579" end="00:00:52.140" style="s2">participating and how people<span style="s4"> are</span></p>
+<p begin="00:00:50.610" end="00:00:55.850" style="s2">interacting with each other and that&#39;s</p>
+<p begin="00:00:52.140" end="00:00:59.309" style="s2">that&#39;s like a much much deeper thing um</p>
+<p begin="00:00:55.850" end="00:01:00.989" style="s2"><span style="s4">so</span> I&#39;ve had a feeling for a long time</p>
+<p begin="00:00:59.309" end="00:01:05.070" style="s2">that hack night was actually very</p>
+<p begin="00:01:00.989" end="00:01:09.900" style="s2">male-dominated but that&#39;s just a feeling</p>
+<p begin="00:01:05.070" end="00:01:14.990" style="s2"><span style="s4">and</span> what&#39;s more<span style="s4"> fun</span> than a<span style="s3"> subjected</span></p>
+<p begin="00:01:09.900" end="00:01:19.920" style="s2">feeling is objective data so let&#39;s see I</p>
+<p begin="00:01:14.990" end="00:01:25.020" style="s2">want<span style="s4"> to show you a new website that I</span></p>
+<p begin="00:01:19.920" end="00:01:28.549" style="s2">built you can get to it by bit ly it&#39;s</p>
+<p begin="00:01:25.020" end="00:01:28.549" style="s2">our men talking too much</p>
+<p begin="00:01:29.360" end="00:01:41.810" style="s2">ah and it&#39;s a timer and here you can say</p>
+<p begin="00:01:37.220" end="00:01:44.750" style="s2">ah right<span style="s4"> now a man</span><span style="s3"> is</span> talking or up it&#39;s</p>
+<p begin="00:01:41.810" end="00:01:49.490" style="s2"><span style="s4">not</span> a man talking and then it&#39;ll show</p>
+<p begin="00:01:44.750" end="00:01:53.240" style="s2"><span style="s3">the</span> percentage right here um so I took</p>
+<p begin="00:01:49.490" end="00:01:56.930" style="s2">this for a trial run at hack night a few</p>
+<p begin="00:01:53.240" end="00:02:00.950" style="s2">weeks<span style="s4"> ago</span><span style="s3"> ah</span> and does anyone<span style="s4"> want</span> to</p>
+<p begin="00:01:56.930" end="00:02:04.070" style="s2">guess what<span style="s3"> it</span> was now too embarrassed</p>
+<p begin="00:02:00.950" end="00:02:07.250" style="s2"><span style="s3">okay</span> well it was ninety-four percent men</p>
+<p begin="00:02:04.070" end="00:02:09.350" style="s2">and six or seven women and this isn&#39;t</p>
+<p begin="00:02:07.250" end="00:02:12.050" style="s2">even including Derek and Christopher by</p>
+<p begin="00:02:09.350" end="00:02:14.239" style="s2">the way I was only counting the parts<span style="s4"> of</span></p>
+<p begin="00:02:12.050" end="00:02:16.580" style="s2">hack night that are kind of<span style="s4"> uh</span> none</p>
+<p begin="00:02:14.239" end="00:02:18.140" style="s2">moderated so things like<span style="s4"> announcements</span></p>
+<p begin="00:02:16.580" end="00:02:20.030" style="s2">and questions and<span style="s4"> things</span> like that and</p>
+<p begin="00:02:18.140" end="00:02:21.739" style="s2"><span style="s4">this</span> is kind<span style="s4"> of</span> crazy because these are</p>
+<p begin="00:02:20.030" end="00:02:23.739" style="s2"><span style="s4">the</span> types of<span style="s3"> things</span> that are really hard</p>
+<p begin="00:02:21.739" end="00:02:25.820" style="s2">to pay attention to if you&#39;re not like</p>
+<p begin="00:02:23.739" end="00:02:27.920" style="s2">explicitly looking out for it<span style="s4"> like</span> this</p>
+<p begin="00:02:25.820" end="00:02:31.760" style="s2">is something<span style="s3"> that</span> men are like very bad</p>
+<p begin="00:02:27.920" end="00:02:36.709" style="s2">at noticing so yeah this is very bad and</p>
+<p begin="00:02:31.760" end="00:02:40.370" style="s2">I just want<span style="s3"> to</span> remind everyone that the</p>
+<p begin="00:02:36.709" end="00:02:42.880" style="s2">most<span style="s4"> creative</span> and<span style="s4"> successful</span> projects at</p>
+<p begin="00:02:40.370" end="00:02:45.650" style="s2">hat night I<span style="s4"> think</span> have<span style="s3"> been</span> led by women</p>
+<p begin="00:02:42.880" end="00:02:49.070" style="s2">so there was the school cuts project</p>
+<p begin="00:02:45.650" end="00:02:52.010" style="s2">that was one that&#39;s<span style="s4"> really</span> popular among</p>
+<p begin="00:02:49.070" end="00:02:53.750" style="s2">parents clearest project my building</p>
+<p begin="00:02:52.010" end="00:02:55.640" style="s2">doesn&#39;t recycle is a first hack night</p>
+<p begin="00:02:53.750" end="00:02:58.130" style="s2"><span style="s4">project</span> to actually like impact</p>
+<p begin="00:02:55.640" end="00:03:00.350" style="s2"><span style="s3">policymaking</span> which is<span style="s4"> amazing</span> rose and</p>
+<p begin="00:02:58.130" end="00:03:03.080" style="s2">Genevieve started to<span style="s4"> M</span> relief and<span style="s3"> now</span></p>
+<p begin="00:03:00.350" end="00:03:04.970" style="s2">that&#39;s a full-fledged nonprofit so who&#39;s</p>
+<p begin="00:03:03.080" end="00:03:09.410" style="s2">participating at hack night<span style="s4"> really</span></p>
+<p begin="00:03:04.970" end="00:03:12.830" style="s2">matters um so I made that<span style="s4"> are</span> men</p>
+<p begin="00:03:09.410" end="00:03:14.989" style="s2">talking too much a<span style="s4"> website</span> because<span style="s4"> what</span></p>
+<p begin="00:03:12.830" end="00:03:17.180" style="s2">gets measured gets managed this is the</p>
+<p begin="00:03:14.989" end="00:03:19.880" style="s2">idea that<span style="s4"> if</span> you start quantifying</p>
+<p begin="00:03:17.180" end="00:03:21.680" style="s2">something oh you&#39;ll<span style="s4"> get</span> better at it</p>
+<p begin="00:03:19.880" end="00:03:26.480" style="s2"><span style="s4">because</span> you&#39;re paying attention<span style="s3"> to</span> it</p>
+<p begin="00:03:21.680" end="00:03:30.470" style="s2">and you&#39;re focusing on it um so my ask</p>
+<p begin="00:03:26.480" end="00:03:32.960" style="s2">of you is one I use my timer you can</p>
+<p begin="00:03:30.470" end="00:03:36.950" style="s2"><span style="s4">also</span><span style="s3"> use</span><span style="s4"> it</span> you know at meetings or</p>
+<p begin="00:03:32.960" end="00:03:39.170" style="s2">like I don&#39;t<span style="s4"> know where ever</span> um and also</p>
+<p begin="00:03:36.950" end="00:03:43.010" style="s2">another ask is if you&#39;re the<span style="s3"> type</span> of</p>
+<p begin="00:03:39.170" end="00:03:45.260" style="s2">person who talks a lot maybe before like</p>
+<p begin="00:03:43.010" end="00:03:47.960" style="s2">blurting things out just think a<span style="s3"> little</span></p>
+<p begin="00:03:45.260" end="00:03:50.930" style="s2">bit like think hey like is<span style="s4"> this</span> worth</p>
+<p begin="00:03:47.960" end="00:03:53.660" style="s2">everyone&#39;s time should I be listening</p>
+<p begin="00:03:50.930" end="00:03:57.440" style="s2">instead should I give him<span style="s4"> a</span> chance for</p>
+<p begin="00:03:53.660" end="00:04:00.560" style="s2">other people to talk and<span style="s4"> also</span> I do want</p>
+<p begin="00:03:57.440" end="00:04:02.840" style="s2">to<span style="s4"> add</span> that gender<span style="s4"> is</span> just one small</p>
+<p begin="00:04:00.560" end="00:04:05.420" style="s2">type of inclusion it was just a simple</p>
+<p begin="00:04:02.840" end="00:04:07.910" style="s2">thing that I was able to focus on but I</p>
+<p begin="00:04:05.420" end="00:04:10.010" style="s2">really<span style="s3"> welcomed</span> everyone else to come up</p>
+<p begin="00:04:07.910" end="00:04:12.560" style="s2"><span style="s3">with</span> your own hacks on your own small</p>
+<p begin="00:04:10.010" end="00:04:16.030" style="s2">projects to make heck night more</p>
+<p begin="00:04:12.560" end="00:04:16.030" style="s2">inclusive<span style="s3"> all right thanks</span></p>
+<p begin="00:04:19.010" end="00:04:21.070" style="s2">you</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:07.450" end="00:00:37.409" style="s2">[Music]</p>
+<p begin="00:00:37.579" end="00:00:46.559" style="s2">doc doc<span style="s3"> oh</span> who are<span style="s4"> you I came here in a</span></p>
+<p begin="00:00:44.250" end="00:00:49.440" style="s2">time machine that you invented I&#39;m<span style="s4"> from</span></p>
+<p begin="00:00:46.559" end="00:00:51.079" style="s2"><span style="s4">the</span> future the year 20 22 and I need</p>
+<p begin="00:00:49.440" end="00:00:55.049" style="s2">your<span style="s3"> help</span> to get back to<span style="s4"> triac</span> night</p>
+<p begin="00:00:51.079" end="00:00:57.269" style="s2">impossible look doc you<span style="s4"> got to believe</span></p>
+<p begin="00:00:55.049" end="00:00:58.769" style="s2"><span style="s3">me</span> you&#39;re<span style="s3"> the only person who</span></p>
+<p begin="00:00:57.269" end="00:01:01.469" style="s2">understands how your time machine worked</p>
+<p begin="00:00:58.769" end="00:01:03.149" style="s2">you started a breakout group a chai hack</p>
+<p begin="00:01:01.469" end="00:01:05.430" style="s2">night that helps students all over</p>
+<p begin="00:01:03.149" end="00:01:07.470" style="s2">Chicago learn about computer science and</p>
+<p begin="00:01:05.430" end="00:01:10.259" style="s2">if I can&#39;t get<span style="s4"> back</span> to the future I</p>
+<p begin="00:01:07.470" end="00:01:12.600" style="s2">can&#39;t be part of it breakout group I</p>
+<p begin="00:01:10.259" end="00:01:14.550" style="s2">never<span style="s4"> started</span> any breakout group look</p>
+<p begin="00:01:12.600" end="00:01:16.020" style="s2">doc I&#39;ll prove it to you look at the</p>
+<p begin="00:01:14.550" end="00:01:20.039" style="s2">contributors guide that we made<span style="s3"> for</span> our</p>
+<p begin="00:01:16.020" end="00:01:22.500" style="s2">breakout group look at the team members</p>
+<p begin="00:01:20.039" end="00:01:24.149" style="s2">there are curriculum developers<span style="s3"> dev</span></p>
+<p begin="00:01:22.500" end="00:01:26.759" style="s2"><span style="s3">bootcamp</span><span style="s4"> graduates</span> even high school</p>
+<p begin="00:01:24.149" end="00:01:30.679" style="s2">students and here I&#39;ll fur with you look</p>
+<p begin="00:01:26.759" end="00:01:33.240" style="s2">at this github issue opened in 2017 dark</p>
+<p begin="00:01:30.679" end="00:01:35.310" style="s2">it&#39;s pretty mediocre documentation</p>
+<p begin="00:01:33.240" end="00:01:36.360" style="s2">fakery you can see where they chopped</p>
+<p begin="00:01:35.310" end="00:01:40.020" style="s2">off the<span style="s3"> names</span> of the high school</p>
+<p begin="00:01:36.360" end="00:01:43.110" style="s2">students doc you you gotta believe<span style="s4"> me</span></p>
+<p begin="00:01:40.020" end="00:01:44.910" style="s2">I&#39;m not trying<span style="s4"> to</span> pull one on you tell</p>
+<p begin="00:01:43.110" end="00:01:50.520" style="s2"><span style="s3">me</span> then future boy who&#39;s the mayor of</p>
+<p begin="00:01:44.910" end="00:01:53.580" style="s2">Chicago in 2022 chance Bennett chance</p>
+<p begin="00:01:50.520" end="00:01:56.459" style="s2"><span style="s3">the rapper and then you&#39;re going to tell</span></p>
+<p begin="00:01:53.580" end="00:01:57.660" style="s2">me Kanye West is the city clerk and I&#39;m</p>
+<p begin="00:01:56.459" end="00:01:59.789" style="s2">going<span style="s4"> to</span> have to believe<span style="s3"> that</span> vic mensa</p>
+<p begin="00:01:57.660" end="00:02:02.610" style="s2">the new chief data officer<span style="s3"> yo and talk</span></p>
+<p begin="00:01:59.789" end="00:02:08.399" style="s2"><span style="s4">it&#39;s</span> not<span style="s4"> like</span> that and lupe fiasco&#39;s the</p>
+<p begin="00:02:02.610" end="00:02:09.959" style="s2">treasurer wait<span style="s4"> stuck</span> the bruise on your</p>
+<p begin="00:02:08.399" end="00:02:11.790" style="s2">forehead I<span style="s4"> know</span> how you got that you</p>
+<p begin="00:02:09.959" end="00:02:13.470" style="s2">told me the whole story you were waiting</p>
+<p begin="00:02:11.790" end="00:02:15.660" style="s2">in line to get your empanadas and then</p>
+<p begin="00:02:13.470" end="00:02:17.760" style="s2">you slipped and fell and hit your head</p>
+<p begin="00:02:15.660" end="00:02:20.700" style="s2">and that was when you came up<span style="s4"> with</span> the</p>
+<p begin="00:02:17.760" end="00:02:23.400" style="s2">idea for<span style="s4"> a new map a website where any</span></p>
+<p begin="00:02:20.700" end="00:02:25.650" style="s2"><span style="s3">CPS</span> teacher could find<span style="s4"> computer</span> science</p>
+<p begin="00:02:23.400" end="00:02:29.550" style="s2">lesson plans based on learning standards</p>
+<p begin="00:02:25.650" end="00:02:34.489" style="s2">or their students content needs and when</p>
+<p begin="00:02:29.550" end="00:02:34.489" style="s2">I got<span style="s3"> back</span> up I drew this yes</p>
+<p begin="00:02:35.360" end="00:02:39.599" style="s2">preliminary sketches from the database</p>
+<p begin="00:02:37.470" end="00:02:41.189" style="s2">schema<span style="s4"> bedroom app and descriptive</span></p>
+<p begin="00:02:39.599" end="00:02:44.810" style="s2">questions for end user interviews this</p>
+<p begin="00:02:41.189" end="00:02:47.519" style="s2">is how it all started<span style="s3"> doc</span> it<span style="s4"> was</span> work it</p>
+<p begin="00:02:44.810" end="00:02:50.659" style="s2"><span style="s3">works</span><span style="s4"> I</span> finally invent something<span style="s4"> that</span></p>
+<p begin="00:02:47.519" end="00:02:53.819" style="s2">works your best your<span style="s4"> manatee</span> it works</p>
+<p begin="00:02:50.659" end="00:02:55.290" style="s2">you&#39;re also you also managed to<span style="s4"> turn</span> the</p>
+<p begin="00:02:53.819" end="00:02:59.700" style="s2">brain<span style="s4"> carry</span> elevator into a time machine</p>
+<p begin="00:02:55.290" end="00:03:01.200" style="s2">so<span style="s3"> tell</span> me then what power is this time</p>
+<p begin="00:02:59.700" end="00:03:05.569" style="s2">machine<span style="s4"> you&#39;re</span> not going to believe me</p>
+<p begin="00:03:01.200" end="00:03:07.799" style="s2">doc but it runs on empanadas of course</p>
+<p begin="00:03:05.569" end="00:03:09.569" style="s2">what other power source could provide</p>
+<p begin="00:03:07.799" end="00:03:11.849" style="s2">the necessary one point 21 jigga</p>
+<p begin="00:03:09.569" end="00:03:15.870" style="s2">calories per second needed to induce</p>
+<p begin="00:03:11.849" end="00:03:18.299" style="s2">temporal transitions when H if we&#39;re</p>
+<p begin="00:03:15.870" end="00:03:20.220" style="s2">going to send<span style="s4"> you</span><span style="s3"> back</span> to 2017 we&#39;re</p>
+<p begin="00:03:18.299" end="00:03:21.480" style="s2">going<span style="s3"> to</span><span style="s4"> need</span> a<span style="s4"> huge</span> attendance that</p>
+<p begin="00:03:20.220" end="00:03:23.129" style="s2">next week Choi hack nights<span style="s3"> to</span><span style="s4"> weren&#39;t</span></p>
+<p begin="00:03:21.480" end="00:03:24.329" style="s2">buying that many<span style="s3"> up another well it&#39;s a</span></p>
+<p begin="00:03:23.129" end="00:03:29.819" style="s2">good thing I already<span style="s4"> started</span> inviting</p>
+<p begin="00:03:24.329" end="00:03:32.010" style="s2">people quick finish we have to<span style="s4"> be</span> very</p>
+<p begin="00:03:29.819" end="00:03:33.750" style="s2">careful any action you take could have</p>
+<p begin="00:03:32.010" end="00:03:36.540" style="s2">massive implications on future events</p>
+<p begin="00:03:33.750" end="00:03:40.949" style="s2">tell me have you interacted with anyone</p>
+<p begin="00:03:36.540" end="00:03:44.280" style="s2">tonight apart from me you know i might</p>
+<p begin="00:03:40.949" end="00:03:46.410" style="s2">have<span style="s4"> bumped</span> into some engineers who were</p>
+<p begin="00:03:44.280" end="00:03:48.810" style="s2">making<span style="s4"> an</span><span style="s3"> app</span> and they were talking</p>
+<p begin="00:03:46.410" end="00:03:50.220" style="s2">about solving<span style="s3"> city</span> violence with</p>
+<p begin="00:03:48.810" end="00:03:51.870" style="s2">technology dated really articulate well</p>
+<p begin="00:03:50.220" end="00:03:56.040" style="s2">but<span style="s3"> i</span> told them that<span style="s4"> they</span> could come to</p>
+<p begin="00:03:51.870" end="00:03:57.510" style="s2"><span style="s3">chai</span> hack night<span style="s3"> yeah right Scott I have</span></p>
+<p begin="00:03:56.040" end="00:04:04.709" style="s2">a theory about this I&#39;m very<span style="s3"> worried</span></p>
+<p begin="00:03:57.510" end="00:04:08.100" style="s2">show us that github issue again all<span style="s4"> of</span></p>
+<p begin="00:04:04.709" end="00:04:15.700" style="s2">the usability enhancements are gone</p>
+<p begin="00:04:08.100" end="00:04:18.970" style="s2">erased from existence this is what I was</p>
+<p begin="00:04:15.700" end="00:04:21.400" style="s2">worried<span style="s3"> about</span> my theory holds that you</p>
+<p begin="00:04:18.970" end="00:04:24.400" style="s2"><span style="s4">interfered</span> with the first meeting<span style="s4"> of</span> the</p>
+<p begin="00:04:21.400" end="00:04:26.380" style="s2">breakout group because of your</p>
+<p begin="00:04:24.400" end="00:04:27.910" style="s2">interference like CS people<span style="s3"> are</span> great</p>
+<p begin="00:04:26.380" end="00:04:29.740" style="s2">but they&#39;re not everything they didn&#39;t</p>
+<p begin="00:04:27.910" end="00:04:31.510" style="s2">get together a group that included</p>
+<p begin="00:04:29.740" end="00:04:36.190" style="s2">enough passionate educators community</p>
+<p begin="00:04:31.510" end="00:04:43.450" style="s2">members designers and as a result they</p>
+<p begin="00:04:36.190" end="00:04:47.140" style="s2">created this this is heavy doc<span style="s3"> weight</span></p>
+<p begin="00:04:43.450" end="00:04:50.530" style="s2">has nothing to do with<span style="s3"> it</span> so what<span style="s4"> are</span> we</p>
+<p begin="00:04:47.140" end="00:04:53.220" style="s2">going to do we&#39;re<span style="s4"> gonna</span> have<span style="s4"> to</span> get</p>
+<p begin="00:04:50.530" end="00:04:54.940" style="s2">together a diverse group of participants</p>
+<p begin="00:04:53.220" end="00:04:57.550" style="s2">we&#39;re gonna have<span style="s3"> to</span> make<span style="s4"> sure that</span></p>
+<p begin="00:04:54.940" end="00:04:59.190" style="s2">newcomers to groups are welcomed and</p>
+<p begin="00:04:57.550" end="00:05:01.000" style="s2">they understand how<span style="s4"> to</span> contribute and</p>
+<p begin="00:04:59.190" end="00:05:02.500" style="s2">we&#39;re going<span style="s4"> to</span> have to make<span style="s4"> sure that</span></p>
+<p begin="00:05:01.000" end="00:05:03.910" style="s2">participants really understand the value</p>
+<p begin="00:05:02.500" end="00:05:06.910" style="s2"><span style="s4">of</span> their work they can see the broader</p>
+<p begin="00:05:03.910" end="00:05:10.450" style="s2">impact if we can do that<span style="s4"> maybe</span> we can</p>
+<p begin="00:05:06.910" end="00:05:14.500" style="s2"><span style="s4">get</span> back<span style="s4"> and</span> create an app that the team</p>
+<p begin="00:05:10.450" end="00:05:19.050" style="s2">really<span style="s4"> loves</span> and finish what do you</p>
+<p begin="00:05:14.500" end="00:05:19.050" style="s2"><span style="s4">think</span> you&#39;re the doc doc let&#39;s get to it</p>
+<p begin="00:05:26.280" end="00:05:41.629" style="s2">you</p>
+<p begin="00:05:27.800" end="00:05:41.629" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

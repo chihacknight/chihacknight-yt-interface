@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.910" end="00:00:11.219" style="s2">so we all know the real reason<span style="s3"> you</span><span style="s4"> came</span></p>
+<p begin="00:00:08.820" end="00:00:14.670" style="s2">is chance the rapper<span style="s4"> so</span> we&#39;re going<span style="s3"> to</span></p>
+<p begin="00:00:11.219" end="00:00:17.000" style="s2"><span style="s3">play</span> some<span style="s4"> music</span> by him<span style="s4"> who</span> knows who</p>
+<p begin="00:00:14.670" end="00:00:19.529" style="s2">chance the rapper is raise<span style="s3"> your</span> hand</p>
+<p begin="00:00:17.000" end="00:00:20.850" style="s2"><span style="s4">together you don&#39;t know who he is don&#39;t</span></p>
+<p begin="00:00:19.529" end="00:00:22.949" style="s2">worry your hand because we<span style="s3"> know what</span></p>
+<p begin="00:00:20.850" end="00:00:26.400" style="s2">embarrass anyone<span style="s3"> but basically this is</span></p>
+<p begin="00:00:22.949" end="00:00:28.710" style="s2"><span style="s3">chance</span> the rapper<span style="s4"> a</span> lot of his music is</p>
+<p begin="00:00:26.400" end="00:00:30.990" style="s2">about Chicago<span style="s3"> and</span> what makes Chicago</p>
+<p begin="00:00:28.710" end="00:00:35.070" style="s2">great and also<span style="s4"> what</span> makes<span style="s3"> Chicago really</span></p>
+<p begin="00:00:30.990" end="00:00:37.860" style="s2">messed up<span style="s3"> and</span> broken<span style="s4"> but</span> as you can<span style="s3"> tell</span></p>
+<p begin="00:00:35.070" end="00:00:41.670" style="s2">he has music injects a lot of joy and</p>
+<p begin="00:00:37.860" end="00:00:44.910" style="s2">life and death into<span style="s4"> what</span> Chicago is but</p>
+<p begin="00:00:41.670" end="00:00:49.640" style="s2">that&#39;s<span style="s3"> not</span><span style="s4"> the only thing</span> that chance</p>
+<p begin="00:00:44.910" end="00:00:53.910" style="s2">the rapper does<span style="s3"> is also this guy</span></p>
+<p begin="00:00:49.640" end="00:00:56.730" style="s2">we are<span style="s3"> Alex</span> and<span style="s3"> Jean we&#39;re one half of</span></p>
+<p begin="00:00:53.910" end="00:00:58.399" style="s2">the China for<span style="s4"> Mayer</span> team<span style="s3"> we&#39;re really</span></p>
+<p begin="00:00:56.730" end="00:01:00.989" style="s2"><span style="s3">excited to be here at hack night</span></p>
+<p begin="00:00:58.399" end="00:01:02.640" style="s2">Jennifer Mayer is a campaign<span style="s3"> that</span></p>
+<p begin="00:01:00.989" end="00:01:04.559" style="s2">proposes that<span style="s3"> Chancellor</span><span style="s4"> opera</span> should</p>
+<p begin="00:01:02.640" end="00:01:06.810" style="s2">run for<span style="s4"> mayor</span> of Chicago<span style="s3"> it&#39;s</span> not a</p>
+<p begin="00:01:04.559" end="00:01:10.409" style="s2">political<span style="s4"> campaign we don&#39;t have like a</span></p>
+<p begin="00:01:06.810" end="00:01:11.790" style="s2">super PAC or any funding at<span style="s3"> all</span> but</p>
+<p begin="00:01:10.409" end="00:01:14.549" style="s2">instead<span style="s4"> we</span> like to<span style="s3"> think</span> of it as an</p>
+<p begin="00:01:11.790" end="00:01:16.290" style="s2">exercise<span style="s3"> in</span> political<span style="s4"> imagination we</span></p>
+<p begin="00:01:14.549" end="00:01:19.920" style="s2">kind<span style="s3"> of fit at</span><span style="s4"> the</span> intersection<span style="s3"> where</span></p>
+<p begin="00:01:16.290" end="00:01:22.200" style="s2"><span style="s4">met</span> art meets<span style="s3"> memes meets grassroots</span></p>
+<p begin="00:01:19.920" end="00:01:25.680" style="s2">organizing<span style="s4"> today</span> we&#39;re going<span style="s3"> to</span> talk</p>
+<p begin="00:01:22.200" end="00:01:28.680" style="s2"><span style="s4">about</span> how<span style="s4"> to</span> work<span style="s4"> with narrative and</span></p>
+<p begin="00:01:25.680" end="00:01:31.259" style="s2">media in your<span style="s3"> civic</span> tech project by</p>
+<p begin="00:01:28.680" end="00:01:33.570" style="s2">media we mean both like the press and</p>
+<p begin="00:01:31.259" end="00:01:36.030" style="s2"><span style="s3">also</span> actual digital<span style="s3"> mediums</span> that<span style="s3"> you</span></p>
+<p begin="00:01:33.570" end="00:01:37.530" style="s2"><span style="s4">would</span> use to<span style="s4"> make</span><span style="s3"> a</span> civic<span style="s3"> tech</span> project</p>
+<p begin="00:01:36.030" end="00:01:39.659" style="s2"><span style="s3">we&#39;re</span> going to call out<span style="s3"> some</span> of the</p>
+<p begin="00:01:37.530" end="00:01:41.520" style="s2"><span style="s3">successes</span> and failures<span style="s3"> of</span> our<span style="s3"> own</span></p>
+<p begin="00:01:39.659" end="00:01:43.320" style="s2">projects that are<span style="s3"> related</span> to<span style="s4"> those</span> two</p>
+<p begin="00:01:41.520" end="00:01:45.149" style="s2">key themes<span style="s3"> and</span><span style="s4"> we&#39;re</span> going<span style="s3"> to</span> have a</p>
+<p begin="00:01:43.320" end="00:01:47.070" style="s2">focus<span style="s3"> on</span> the lessons that<span style="s3"> we</span> learned and</p>
+<p begin="00:01:45.149" end="00:01:49.530" style="s2">how we<span style="s3"> think they might apply to things</span></p>
+<p begin="00:01:47.070" end="00:01:51.000" style="s2">that<span style="s3"> you</span><span style="s4"> might</span><span style="s3"> be</span> doing<span style="s3"> so</span> a really</p>
+<p begin="00:01:49.530" end="00:01:52.619" style="s2"><span style="s3">important piece of context</span><span style="s4"> that</span> I think</p>
+<p begin="00:01:51.000" end="00:01:54.899" style="s2"><span style="s3">Alex</span> covered a<span style="s4"> little bit but I</span><span style="s3"> want</span> to</p>
+<p begin="00:01:52.619" end="00:01:57.329" style="s2">hit again is that<span style="s3"> channel</span> is<span style="s3"> short</span> for</p>
+<p begin="00:01:54.899" end="00:01:59.549" style="s2">chance<span style="s3"> and chances a 24 year old rapper</span></p>
+<p begin="00:01:57.329" end="00:02:01.829" style="s2">from<span style="s3"> the</span> south side<span style="s4"> of</span> Chicago he&#39;s from</p>
+<p begin="00:01:59.549" end="00:02:04.469" style="s2">Chatham<span style="s3"> if</span> you&#39;ve never heard his music</p>
+<p begin="00:02:01.829" end="00:02:07.500" style="s2"><span style="s4">that</span> was one of<span style="s3"> his songs both angels</span></p>
+<p begin="00:02:04.469" end="00:02:09.479" style="s2"><span style="s3">that we just played</span><span style="s4"> for</span> you<span style="s4"> I&#39;m</span> not</p>
+<p begin="00:02:07.500" end="00:02:11.910" style="s2">going to play it again<span style="s3"> instead</span> I&#39;m going</p>
+<p begin="00:02:09.479" end="00:02:13.300" style="s2"><span style="s4">to</span> play<span style="s3"> another</span> example of chance<span style="s3"> that</span> I</p>
+<p begin="00:02:11.910" end="00:02:15.820" style="s2">think really<span style="s3"> speaks</span> to<span style="s4"> a</span> second</p>
+<p begin="00:02:13.300" end="00:02:17.740" style="s2">inside of<span style="s4"> him</span> in the video<span style="s3"> clip chance</span></p>
+<p begin="00:02:15.820" end="00:02:20.350" style="s2"><span style="s4">is</span> you may<span style="s3"> have</span> seen this on<span style="s4"> the</span> news</p>
+<p begin="00:02:17.740" end="00:02:23.700" style="s2"><span style="s4">he&#39;s</span> giving a<span style="s3"> million</span> dollar donation<span style="s4"> to</span></p>
+<p begin="00:02:20.350" end="00:02:26.140" style="s2"><span style="s3">CPS</span> and he&#39;s calling<span style="s4"> on</span> other people</p>
+<p begin="00:02:23.700" end="00:02:28.960" style="s2"><span style="s3">specifically</span> like other famous<span style="s4"> people</span></p>
+<p begin="00:02:26.140" end="00:02:31.140" style="s2">and large<span style="s4"> corporations</span><span style="s3"> to</span> replicate<span style="s3"> that</span></p>
+<p begin="00:02:28.960" end="00:02:34.900" style="s2">donation<span style="s3"> trying</span> to kind of lead a</p>
+<p begin="00:02:31.140" end="00:02:40.080" style="s2"><span style="s3">campaign</span> to generate private funding for</p>
+<p begin="00:02:34.900" end="00:02:40.080" style="s2">CPS<span style="s4"> so</span> we saw<span style="s4"> that</span> and we<span style="s3"> thought</span> that</p>
+<p begin="00:02:40.200" end="00:03:00.880" style="s2"><span style="s3">let</span> me<span style="s3"> see</span> if it&#39;s going<span style="s3"> to</span> play<span style="s3"> now</span> so</p>
+<p begin="00:02:59.440" end="00:03:03.070" style="s2">many people know that<span style="s3"> chance</span> is a great</p>
+<p begin="00:03:00.880" end="00:03:04.900" style="s2">rapper but he&#39;s also a philanthropist</p>
+<p begin="00:03:03.070" end="00:03:07.330" style="s2">and<span style="s3"> I</span> would say that in this capacity</p>
+<p begin="00:03:04.900" end="00:03:10.600" style="s2"><span style="s3">he&#39;s</span> kind of an activist working<span style="s3"> for</span></p>
+<p begin="00:03:07.330" end="00:03:13.270" style="s2">just funding within<span style="s4"> CPS</span> and a chance<span style="s4"> I</span></p>
+<p begin="00:03:10.600" end="00:03:14.800" style="s2">see a lot of I see a representation</p>
+<p begin="00:03:13.270" end="00:03:16.210" style="s2">really of a lot of critical things that</p>
+<p begin="00:03:14.800" end="00:03:19.180" style="s2"><span style="s4">I</span> think are<span style="s4"> missing</span> from Chicago</p>
+<p begin="00:03:16.210" end="00:03:21.250" style="s2">politics<span style="s3"> like</span> passion<span style="s3"> and</span> a sense of</p>
+<p begin="00:03:19.180" end="00:03:23.340" style="s2">excitement<span style="s3"> and</span> engagement<span style="s3"> and</span> most</p>
+<p begin="00:03:21.250" end="00:03:26.320" style="s2">importantly a real concern for<span style="s3"> justice</span></p>
+<p begin="00:03:23.340" end="00:03:28.840" style="s2"><span style="s4">particularly</span> for low-income black and</p>
+<p begin="00:03:26.320" end="00:03:31.780" style="s2">brown communities<span style="s4"> so</span> these are some of</p>
+<p begin="00:03:28.840" end="00:03:33.820" style="s2"><span style="s3">the themes that that to me</span> that chance</p>
+<p begin="00:03:31.780" end="00:03:35.739" style="s2">represents and inspired our work<span style="s3"> and</span></p>
+<p begin="00:03:33.820" end="00:03:38.200" style="s2"><span style="s3">Alex</span><span style="s4"> Schism</span> is going to tell you a</p>
+<p begin="00:03:35.739" end="00:03:39.640" style="s2"><span style="s4">little bit about</span><span style="s3"> who</span><span style="s4"> we</span> are<span style="s3"> and</span> how we</p>
+<p begin="00:03:38.200" end="00:03:45.239" style="s2"><span style="s3">got</span> to<span style="s3"> thinking</span> about<span style="s3"> these</span> themes</p>
+<p begin="00:03:39.640" end="00:03:48.130" style="s2"><span style="s3">together</span><span style="s4"> hey so this</span><span style="s3"> is</span> the transformer</p>
+<p begin="00:03:45.239" end="00:03:52.060" style="s2">this<span style="s4"> is Jean who real life isn&#39;t</span></p>
+<p begin="00:03:48.130" end="00:03:55.420" style="s2">animated and so<span style="s3"> Jean</span> is incredible she</p>
+<p begin="00:03:52.060" end="00:03:57.340" style="s2"><span style="s3">provided</span> so much of the thinking<span style="s4"> and</span></p>
+<p begin="00:03:55.420" end="00:04:00.640" style="s2">coding behind<span style="s3"> the</span> site<span style="s3"> and</span> built an</p>
+<p begin="00:03:57.340" end="00:04:02.770" style="s2">amazing tweet bot<span style="s4"> this</span> is Khalil who</p>
+<p begin="00:04:00.640" end="00:04:04.900" style="s2">isn&#39;t with us in the room<span style="s4"> today</span><span style="s3"> because</span></p>
+<p begin="00:04:02.770" end="00:04:06.790" style="s2">he lives in<span style="s3"> Rhode</span> Island<span style="s3"> but</span> I&#39;m all</p>
+<p begin="00:04:04.900" end="00:04:08.080" style="s2">four of<span style="s3"> us</span> have<span style="s4"> our</span> hearts in Chicago</p>
+<p begin="00:04:06.790" end="00:04:11.709" style="s2">and kind<span style="s3"> of</span> met for the first<span style="s4"> time</span> in</p>
+<p begin="00:04:08.080" end="00:04:14.230" style="s2">Chicago<span style="s3"> this is BA</span> who is in the room</p>
+<p begin="00:04:11.709" end="00:04:18.390" style="s2"><span style="s4">today</span><span style="s3"> somewhere</span> oh hey right here give a</p>
+<p begin="00:04:14.230" end="00:04:21.850" style="s2">round<span style="s3"> of</span> applause<span style="s4"> for BIA we added the</span></p>
+<p begin="00:04:18.390" end="00:04:24.639" style="s2"><span style="s3">the</span> narrative<span style="s4"> the</span> design the media</p>
+<p begin="00:04:21.850" end="00:04:26.379" style="s2">basically<span style="s4"> via</span> carried a lot<span style="s3"> of</span></p>
+<p begin="00:04:24.639" end="00:04:28.120" style="s2">really amazing<span style="s4"> wait</span> on<span style="s3"> this</span> project<span style="s3"> and</span></p>
+<p begin="00:04:26.379" end="00:04:30.729" style="s2">there&#39;s me<span style="s4"> I</span> did some of the writing</p>
+<p begin="00:04:28.120" end="00:04:33.849" style="s2">some<span style="s4"> of</span> the coding<span style="s4"> and</span> so we&#39;re the<span style="s3"> team</span></p>
+<p begin="00:04:30.729" end="00:04:35.979" style="s2">that made<span style="s4"> chants</span> for<span style="s3"> mayor</span> some fun</p>
+<p begin="00:04:33.849" end="00:04:37.960" style="s2">facts about<span style="s4"> us</span> is that<span style="s3"> we&#39;ve only ever</span></p>
+<p begin="00:04:35.979" end="00:04:40.300" style="s2">been in the same room<span style="s4"> together</span> twice<span style="s4"> in</span></p>
+<p begin="00:04:37.960" end="00:04:43.439" style="s2">our<span style="s3"> lives and we manage most of the</span></p>
+<p begin="00:04:40.300" end="00:04:46.750" style="s2">product<span style="s3"> process</span> through a Twitter DM</p>
+<p begin="00:04:43.439" end="00:04:50.500" style="s2"><span style="s3">thread</span> which is not the way<span style="s3"> you</span> should</p>
+<p begin="00:04:46.750" end="00:04:53.319" style="s2">ever manage any process but that&#39;s how</p>
+<p begin="00:04:50.500" end="00:04:55.750" style="s2">this<span style="s4"> worked</span> and<span style="s3"> so</span> where did<span style="s4"> we</span> meet<span style="s4"> so</span></p>
+<p begin="00:04:53.319" end="00:04:57.909" style="s2">we<span style="s4"> met</span> at this coffee<span style="s3"> shop</span><span style="s4"> does</span><span style="s3"> this</span></p>
+<p begin="00:04:55.750" end="00:05:00.280" style="s2">coffee shop look beautiful or<span style="s4"> what</span> what</p>
+<p begin="00:04:57.909" end="00:05:02.259" style="s2">do<span style="s3"> you</span> think<span style="s3"> okay</span> well it is<span style="s3"> beautiful</span></p>
+<p begin="00:05:00.280" end="00:05:04.479" style="s2"><span style="s3">and</span> this<span style="s3"> is</span><span style="s4"> a</span> new coffee shop<span style="s4"> actually</span></p>
+<p begin="00:05:02.259" end="00:05:06.490" style="s2"><span style="s4">beer</span> is one of the<span style="s4"> cofounders</span><span style="s3"> of this</span></p>
+<p begin="00:05:04.479" end="00:05:09.039" style="s2">coffee shop<span style="s3"> and</span> it&#39;s called build coffee</p>
+<p begin="00:05:06.490" end="00:05:11.650" style="s2"><span style="s4">it&#39;s</span> on the south<span style="s3"> side yeah okay</span><span style="s4"> round</span></p>
+<p begin="00:05:09.039" end="00:05:13.270" style="s2"><span style="s4">of love</span><span style="s3"> okay</span> so for those of<span style="s3"> you</span> who are</p>
+<p begin="00:05:11.650" end="00:05:15.190" style="s2"><span style="s3">like</span> why are people so enthusiastic</p>
+<p begin="00:05:13.270" end="00:05:16.840" style="s2">about<span style="s3"> this</span> coffee shop<span style="s3"> it&#39;s</span> just a place</p>
+<p begin="00:05:15.190" end="00:05:19.000" style="s2">where<span style="s3"> I</span> you know<span style="s4"> can</span> buy coffee and plug</p>
+<p begin="00:05:16.840" end="00:05:21.669" style="s2">in my<span style="s4"> laptop</span> and<span style="s4"> sit</span> for<span style="s4"> four</span> hours no</p>
+<p begin="00:05:19.000" end="00:05:23.800" style="s2">this is way<span style="s4"> more</span> than<span style="s3"> coffee shop it&#39;s</span> a</p>
+<p begin="00:05:21.669" end="00:05:26.979" style="s2">community space<span style="s3"> a</span> ton of amazing</p>
+<p begin="00:05:23.800" end="00:05:28.930" style="s2">nonprofits<span style="s3"> are</span> in the greater space</p>
+<p begin="00:05:26.979" end="00:05:31.419" style="s2">called the<span style="s3"> Experimental Station</span><span style="s4"> and</span></p>
+<p begin="00:05:28.930" end="00:05:33.879" style="s2">every single<span style="s3"> Thursday there&#39;s an event</span></p>
+<p begin="00:05:31.419" end="00:05:35.650" style="s2"><span style="s3">at</span> the<span style="s4"> coffee</span> shop that&#39;s called public</p>
+<p begin="00:05:33.879" end="00:05:38.370" style="s2">newsroom<span style="s3"> and</span> public<span style="s3"> newsroom</span> brings</p>
+<p begin="00:05:35.650" end="00:05:41.199" style="s2">together journalists<span style="s3"> so</span> acknowledges</p>
+<p begin="00:05:38.370" end="00:05:44.080" style="s2">citizens<span style="s3"> to</span> talk about<span style="s3"> issues</span><span style="s4"> of</span><span style="s3"> the</span> day</p>
+<p begin="00:05:41.199" end="00:05:46.449" style="s2"><span style="s3">in</span> Chicago<span style="s4"> and</span> really let journalists</p>
+<p begin="00:05:44.080" end="00:05:49.900" style="s2">build new ideas with their audiences<span style="s3"> and</span></p>
+<p begin="00:05:46.449" end="00:05:52.210" style="s2">so that&#39;s where<span style="s3"> we</span> all met<span style="s3"> the</span> topic was</p>
+<p begin="00:05:49.900" end="00:05:54.699" style="s2"><span style="s3">the</span> Chicago Fraternal Order of<span style="s3"> Police</span></p>
+<p begin="00:05:52.210" end="00:05:58.839" style="s2">contracts<span style="s3"> that&#39;s</span> actually set to<span style="s3"> expire</span></p>
+<p begin="00:05:54.699" end="00:06:00.009" style="s2"><span style="s3">on</span> Friday<span style="s3"> so</span> hot<span style="s4"> issue</span><span style="s3"> and</span> we were</p>
+<p begin="00:05:58.839" end="00:06:02.050" style="s2">talking<span style="s4"> about</span><span style="s3"> this</span> issue<span style="s3"> and</span> basically</p>
+<p begin="00:06:00.009" end="00:06:04.270" style="s2">all talking<span style="s3"> about</span> how frustrated<span style="s4"> we</span> felt</p>
+<p begin="00:06:02.050" end="00:06:05.889" style="s2">at the<span style="s3"> state</span> of<span style="s3"> Chicago politics and</span> we</p>
+<p begin="00:06:04.270" end="00:06:08.229" style="s2">kind of<span style="s3"> started</span><span style="s4"> dreaming</span> together<span style="s3"> about</span></p>
+<p begin="00:06:05.889" end="00:06:09.940" style="s2">okay well who who inspires us in Chicago</p>
+<p begin="00:06:08.229" end="00:06:13.750" style="s2"><span style="s3">politics</span> like who is<span style="s3"> it</span><span style="s4"> that</span> we really</p>
+<p begin="00:06:09.940" end="00:06:16.360" style="s2"><span style="s4">look</span> to who&#39;s<span style="s4"> doing</span> what we want out</p>
+<p begin="00:06:13.750" end="00:06:19.479" style="s2">there instead<span style="s4"> of</span> reinforcing systems of</p>
+<p begin="00:06:16.360" end="00:06:21.339" style="s2">oppression<span style="s3"> and</span> we came to chance the</p>
+<p begin="00:06:19.479" end="00:06:23.650" style="s2"><span style="s3">rapper</span> I think because we had been just</p>
+<p begin="00:06:21.339" end="00:06:25.870" style="s2"><span style="s3">been</span> watching<span style="s4"> that million-dollar CPS</span></p>
+<p begin="00:06:23.650" end="00:06:27.400" style="s2">donation the other day<span style="s3"> yeah so some of</span></p>
+<p begin="00:06:25.870" end="00:06:30.339" style="s2">the<span style="s4"> specific</span> things<span style="s4"> that</span><span style="s3"> we</span> got<span style="s3"> to</span></p>
+<p begin="00:06:27.400" end="00:06:33.219" style="s2"><span style="s3">talking</span> about<span style="s3"> were</span><span style="s4"> mutual</span></p>
+<p begin="00:06:30.339" end="00:06:34.690" style="s2">dissatisfaction that<span style="s4"> we</span> had and we</p>
+<p begin="00:06:33.219" end="00:06:36.780" style="s2">didn&#39;t<span style="s4"> really know where</span><span style="s3"> to</span> channel<span style="s3"> it</span> I</p>
+<p begin="00:06:34.690" end="00:06:39.690" style="s2">think this slide shows a chunk</p>
+<p begin="00:06:36.780" end="00:06:41.370" style="s2">our opening letter to Chicago we were</p>
+<p begin="00:06:39.690" end="00:06:43.620" style="s2"><span style="s3">thinking about problems</span> over the past</p>
+<p begin="00:06:41.370" end="00:06:45.780" style="s2">six years<span style="s4"> that seemed really</span><span style="s3"> dire</span> to us</p>
+<p begin="00:06:43.620" end="00:06:48.780" style="s2">that but<span style="s3"> that</span> haven&#39;t translated<span style="s3"> to</span></p>
+<p begin="00:06:45.780" end="00:06:51.180" style="s2">change on the city<span style="s3"> level so things like</span></p>
+<p begin="00:06:48.780" end="00:06:53.190" style="s2">the closing of<span style="s3"> 50</span> public<span style="s3"> schools the</span></p>
+<p begin="00:06:51.180" end="00:06:55.740" style="s2">shuttering of half of the city&#39;s mental</p>
+<p begin="00:06:53.190" end="00:06:57.720" style="s2">health clinics<span style="s3"> and</span> the DOJ finding of a</p>
+<p begin="00:06:55.740" end="00:07:00.240" style="s2">pattern of civil rights<span style="s3"> violations</span> among</p>
+<p begin="00:06:57.720" end="00:07:01.590" style="s2">the CPD which vindicated a lot of what</p>
+<p begin="00:07:00.240" end="00:07:03.150" style="s2">black<span style="s3"> and</span> brown activists<span style="s3"> had</span> been</p>
+<p begin="00:07:01.590" end="00:07:05.220" style="s2">saying for over a<span style="s4"> half-century</span></p>
+<p begin="00:07:03.150" end="00:07:08.160" style="s2"><span style="s3">and</span> in spite of<span style="s3"> all</span> of<span style="s3"> these what felt</span></p>
+<p begin="00:07:05.220" end="00:07:10.650" style="s2">like crises to<span style="s3"> us it seems like no</span> one</p>
+<p begin="00:07:08.160" end="00:07:12.780" style="s2"><span style="s3">was</span><span style="s4"> prepared</span> or even thinking about</p>
+<p begin="00:07:10.650" end="00:07:15.090" style="s2"><span style="s3">preparing</span> to<span style="s4"> challenge</span><span style="s3"> the</span> current</p>
+<p begin="00:07:12.780" end="00:07:17.910" style="s2"><span style="s3">administration</span> on<span style="s3"> these</span> issues in<span style="s4"> the</span></p>
+<p begin="00:07:15.090" end="00:07:19.890" style="s2">2019 mayoral election so we<span style="s4"> spent</span> some</p>
+<p begin="00:07:17.910" end="00:07:22.800" style="s2"><span style="s4">time</span><span style="s3"> asking</span> each other<span style="s3"> as</span> Alex<span style="s3"> mentioned</span></p>
+<p begin="00:07:19.890" end="00:07:25.770" style="s2">like what would<span style="s3"> a good mayor of Chicago</span></p>
+<p begin="00:07:22.800" end="00:07:27.630" style="s2">look like to us<span style="s4"> and</span> as we talked we</p>
+<p begin="00:07:25.770" end="00:07:31.350" style="s2">realized that we our criteria were</p>
+<p begin="00:07:27.630" end="00:07:33.240" style="s2">actually pretty simple<span style="s4"> we</span> we put it on</p>
+<p begin="00:07:31.350" end="00:07:34.290" style="s2">this site like this we said we want a</p>
+<p begin="00:07:33.240" end="00:07:36.150" style="s2">mayor who will fight for<span style="s3"> public</span></p>
+<p begin="00:07:34.290" end="00:07:37.680" style="s2"><span style="s3">education</span><span style="s4"> we</span> want a mayor who will</p>
+<p begin="00:07:36.150" end="00:07:40.110" style="s2">reinvest in black and<span style="s4"> brown</span><span style="s3"> communities</span></p>
+<p begin="00:07:37.680" end="00:07:41.760" style="s2">on<span style="s4"> the</span><span style="s3"> south</span><span style="s4"> and</span><span style="s3"> west side we</span> want<span style="s3"> a</span></p>
+<p begin="00:07:40.110" end="00:07:43.380" style="s2">mayor who will<span style="s4"> address</span> our epidemic of</p>
+<p begin="00:07:41.760" end="00:07:45.660" style="s2">gun violence<span style="s3"> without</span> the brutality of</p>
+<p begin="00:07:43.380" end="00:07:46.800" style="s2">police&#39; prisons and we want a mayor who</p>
+<p begin="00:07:45.660" end="00:07:49.500" style="s2"><span style="s3">will</span> let the young people<span style="s4"> of</span> Chicago</p>
+<p begin="00:07:46.800" end="00:07:51.360" style="s2"><span style="s3">lead</span> and we were talking<span style="s4"> and</span><span style="s3"> we</span> realized</p>
+<p begin="00:07:49.500" end="00:07:53.039" style="s2"><span style="s3">that</span> this was<span style="s4"> kind</span> of the<span style="s3"> core</span> of<span style="s4"> what</span></p>
+<p begin="00:07:51.360" end="00:07:55.470" style="s2">we were<span style="s4"> feeling</span> about<span style="s4"> the</span> mayoral race</p>
+<p begin="00:07:53.039" end="00:07:57.539" style="s2"><span style="s3">and</span> we<span style="s3"> couldn&#39;t</span><span style="s4"> think</span> of anyone better</p>
+<p begin="00:07:55.470" end="00:08:00.960" style="s2"><span style="s4">to</span> get<span style="s3"> that</span><span style="s4"> message</span> out<span style="s3"> of than chance</span></p>
+<p begin="00:07:57.539" end="00:08:03.660" style="s2"><span style="s4">chance is a</span><span style="s3"> beloved public figure</span><span style="s4"> who</span></p>
+<p begin="00:08:00.960" end="00:08:05.280" style="s2">represents<span style="s4"> these</span> ideals<span style="s3"> and</span> the media</p>
+<p begin="00:08:03.660" end="00:08:07.890" style="s2">also can&#39;t help but cover him</p>
+<p begin="00:08:05.280" end="00:08:10.080" style="s2">obsessively<span style="s3"> and</span> at this point<span style="s3"> the</span><span style="s4"> idea</span></p>
+<p begin="00:08:07.890" end="00:08:11.970" style="s2">was<span style="s3"> kind of starting to</span><span style="s4"> take</span> shape<span style="s4"> we</span></p>
+<p begin="00:08:10.080" end="00:08:13.979" style="s2">took inspiration from<span style="s3"> the existing</span><span style="s4"> hash</span></p>
+<p begin="00:08:11.970" end="00:08:16.080" style="s2"><span style="s4">tag</span><span style="s3"> channel</span> for mayor which is based on</p>
+<p begin="00:08:13.979" end="00:08:17.490" style="s2"><span style="s4">a</span> lyric from<span style="s4"> one</span> of his songs<span style="s4"> we</span><span style="s3"> saw</span></p>
+<p begin="00:08:16.080" end="00:08:19.380" style="s2"><span style="s3">that</span> it was out<span style="s3"> there</span> and that it was</p>
+<p begin="00:08:17.490" end="00:08:21.090" style="s2">clearly a joke<span style="s3"> but that it was really</span></p>
+<p begin="00:08:19.380" end="00:08:24.090" style="s2"><span style="s4">interesting</span><span style="s3"> to</span><span style="s4"> think</span> about<span style="s4"> like</span> what if</p>
+<p begin="00:08:21.090" end="00:08:26.820" style="s2">it<span style="s3"> wasn&#39;t</span> a joke<span style="s4"> what</span> if it was a real</p>
+<p begin="00:08:24.090" end="00:08:29.430" style="s2">campaign and maybe better than<span style="s3"> that</span> what</p>
+<p begin="00:08:26.820" end="00:08:31.950" style="s2">if it passed the political campaign</p>
+<p begin="00:08:29.430" end="00:08:34.620" style="s2"><span style="s3">Turing</span> test where you<span style="s3"> like</span> couldn&#39;t<span style="s3"> tell</span></p>
+<p begin="00:08:31.950" end="00:08:36.120" style="s2">the<span style="s4"> difference</span> between a real campaign</p>
+<p begin="00:08:34.620" end="00:08:37.800" style="s2">and<span style="s3"> this big campaign that</span> you saw</p>
+<p begin="00:08:36.120" end="00:08:39.210" style="s2">online<span style="s3"> which</span> would mean like<span style="s3"> it</span> would</p>
+<p begin="00:08:37.800" end="00:08:40.890" style="s2">have a<span style="s3"> beautiful</span> website<span style="s3"> it</span> was<span style="s3"> very</span></p>
+<p begin="00:08:39.210" end="00:08:42.719" style="s2">professional<span style="s4"> would</span><span style="s3"> have</span><span style="s4"> liked</span> a staff</p>
+<p begin="00:08:40.890" end="00:08:45.180" style="s2">that<span style="s4"> would</span><span style="s3"> interact with you on</span><span style="s4"> social</span></p>
+<p begin="00:08:42.719" end="00:08:48.860" style="s2">media<span style="s3"> and</span> so<span style="s4"> we</span> decided<span style="s3"> that it would</span></p>
+<p begin="00:08:45.180" end="00:08:48.860" style="s2"><span style="s3">kind</span> of<span style="s3"> be</span> fun<span style="s3"> as we built that</span></p>
+<p begin="00:08:49.080" end="00:08:56.070" style="s2">so what we did is<span style="s4"> we</span> got together<span style="s3"> around</span></p>
+<p begin="00:08:52.529" end="00:08:59.100" style="s2">a kitchen table<span style="s3"> ideas</span> apartment in</p>
+<p begin="00:08:56.070" end="00:09:02.040" style="s2">Pilsen<span style="s3"> and</span> we decided<span style="s3"> what</span> our goals<span style="s3"> and</span></p>
+<p begin="00:08:59.100" end="00:09:03.779" style="s2">so the first<span style="s3"> goal</span> is<span style="s4"> definitely</span> if we</p>
+<p begin="00:09:02.040" end="00:09:06.690" style="s2">could turn this into<span style="s3"> a</span> way<span style="s3"> to</span> meet</p>
+<p begin="00:09:03.779" end="00:09:08.720" style="s2">chance<span style="s3"> because we&#39;re all big fan boys</span></p>
+<p begin="00:09:06.690" end="00:09:10.920" style="s2">and fan<span style="s3"> girls</span> that<span style="s3"> would</span> be number<span style="s3"> one</span></p>
+<p begin="00:09:08.720" end="00:09:13.230" style="s2"><span style="s4">we</span> also thought<span style="s4"> that</span> this could<span style="s4"> get</span> some</p>
+<p begin="00:09:10.920" end="00:09:15.000" style="s2">media<span style="s4"> attention</span><span style="s3"> just because of the</span></p>
+<p begin="00:09:13.230" end="00:09:16.980" style="s2">nature<span style="s3"> of</span> the idea because it could use</p>
+<p begin="00:09:15.000" end="00:09:19.649" style="s2">this interesting<span style="s3"> rapper</span><span style="s4"> of</span> chance<span style="s3"> to</span></p>
+<p begin="00:09:16.980" end="00:09:21.930" style="s2">talk<span style="s4"> about</span> politics in Chicago and then</p>
+<p begin="00:09:19.649" end="00:09:23.670" style="s2">we we started<span style="s4"> thinking</span> that<span style="s3"> okay maybe</span></p>
+<p begin="00:09:21.930" end="00:09:25.589" style="s2">we could use this as<span style="s4"> an</span><span style="s3"> opportunity to</span></p>
+<p begin="00:09:23.670" end="00:09:27.810" style="s2"><span style="s3">get</span> young<span style="s4"> people</span> more<span style="s3"> excited</span> about<span style="s3"> the</span></p>
+<p begin="00:09:25.589" end="00:09:30.570" style="s2">election like the hook is chance<span style="s3"> maybe</span></p>
+<p begin="00:09:27.810" end="00:09:33.570" style="s2">running<span style="s3"> for</span> mayor and then use<span style="s4"> that to</span></p>
+<p begin="00:09:30.570" end="00:09:36.329" style="s2">draw people to<span style="s3"> information</span> facts<span style="s3"> and</span></p>
+<p begin="00:09:33.570" end="00:09:39.390" style="s2">tools about the election<span style="s4"> you</span> know that</p>
+<p begin="00:09:36.329" end="00:09:43.610" style="s2">kind of<span style="s3"> a</span> wrapper around<span style="s3"> some</span> boring old</p>
+<p begin="00:09:39.390" end="00:09:47.040" style="s2">school<span style="s3"> stuff</span><span style="s4"> if</span> you will<span style="s3"> okay</span><span style="s4"> cool so</span></p>
+<p begin="00:09:43.610" end="00:09:49.589" style="s2"><span style="s4">here&#39;s</span> how we did it basically<span style="s3"> we spent</span></p>
+<p begin="00:09:47.040" end="00:09:51.450" style="s2">a lot<span style="s4"> of</span> time actually<span style="s3"> what</span> we didn&#39;t do</p>
+<p begin="00:09:49.589" end="00:09:53.190" style="s2"><span style="s3">is</span> spending a lot of time<span style="s3"> building</span></p>
+<p begin="00:09:51.450" end="00:09:55.680" style="s2">technology but what we did do<span style="s4"> was</span> spend</p>
+<p begin="00:09:53.190" end="00:09:58.440" style="s2">a lot<span style="s4"> of</span> time thinking<span style="s3"> of</span> the<span style="s3"> narrative</span></p>
+<p begin="00:09:55.680" end="00:10:00.029" style="s2">arc for the project<span style="s3"> and</span> we<span style="s3"> decided</span> on a</p>
+<p begin="00:09:58.440" end="00:10:03.180" style="s2">narrative arc<span style="s3"> that</span> would have three</p>
+<p begin="00:10:00.029" end="00:10:06.480" style="s2">stages<span style="s4"> so</span> it opened with an open letter</p>
+<p begin="00:10:03.180" end="00:10:07.649" style="s2">to<span style="s3"> Chicago that was what</span><span style="s4"> Jean</span><span style="s3"> read</span> from</p>
+<p begin="00:10:06.480" end="00:10:09.420" style="s2">and<span style="s3"> talk</span> to you about so basically</p>
+<p begin="00:10:07.649" end="00:10:11.399" style="s2"><span style="s3">explaining</span> what are the big<span style="s4"> problems</span></p>
+<p begin="00:10:09.420" end="00:10:13.170" style="s2">that<span style="s3"> we see like what</span> is the<span style="s4"> situation</span></p>
+<p begin="00:10:11.399" end="00:10:15.000" style="s2">then we didn&#39;t<span style="s3"> open letter to chance</span></p>
+<p begin="00:10:13.170" end="00:10:16.470" style="s2">where<span style="s3"> we</span> said hey chance<span style="s3"> we think you</span></p>
+<p begin="00:10:15.000" end="00:10:18.810" style="s2">could do an amazing job<span style="s3"> actually</span> as</p>
+<p begin="00:10:16.470" end="00:10:21.779" style="s2">mayor and here&#39;s why your campaign<span style="s3"> could</span></p>
+<p begin="00:10:18.810" end="00:10:24.329" style="s2">probably succeed and then finally we had</p>
+<p begin="00:10:21.779" end="00:10:26.070" style="s2">a FAQ section about okay well if you&#39;re</p>
+<p begin="00:10:24.329" end="00:10:28.020" style="s2"><span style="s3">interested in</span><span style="s4"> getting</span> involved<span style="s4"> how</span> do</p>
+<p begin="00:10:26.070" end="00:10:31.279" style="s2">you sign up to vote who&#39;s allowed to</p>
+<p begin="00:10:28.020" end="00:10:33.420" style="s2"><span style="s3">vote and only 30</span> less than 33%<span style="s3"> of</span></p>
+<p begin="00:10:31.279" end="00:10:35.670" style="s2">eligible voters voted in the last</p>
+<p begin="00:10:33.420" end="00:10:37.050" style="s2">Chicago mayoral election so what does</p>
+<p begin="00:10:35.670" end="00:10:39.180" style="s2">that<span style="s3"> tell</span> you that<span style="s3"> tells</span> you that<span style="s3"> most</span></p>
+<p begin="00:10:37.050" end="00:10:41.820" style="s2">people are not<span style="s4"> participating</span> and<span style="s3"> we</span> want</p>
+<p begin="00:10:39.180" end="00:10:44.010" style="s2">to create a<span style="s3"> campaign</span><span style="s4"> basically</span> that</p>
+<p begin="00:10:41.820" end="00:10:47.250" style="s2">would change that<span style="s3"> and</span> get more<span style="s4"> people</span></p>
+<p begin="00:10:44.010" end="00:10:49.260" style="s2"><span style="s4">excited</span> and registered and able to</p>
+<p begin="00:10:47.250" end="00:10:51.990" style="s2"><span style="s3">participate in the democratic</span><span style="s4"> process</span><span style="s3"> in</span></p>
+<p begin="00:10:49.260" end="00:10:53.730" style="s2">Chicago and as important as the website</p>
+<p begin="00:10:51.990" end="00:10:55.230" style="s2">was<span style="s4"> the</span> Twitter<span style="s3"> presence</span><span style="s4"> too</span> because we</p>
+<p begin="00:10:53.730" end="00:10:56.970" style="s2">knew that<span style="s4"> a</span><span style="s3"> lot</span> of<span style="s4"> people</span> would be</p>
+<p begin="00:10:55.230" end="00:10:58.589" style="s2"><span style="s3">interacting</span><span style="s4"> with</span> us<span style="s3"> mainly</span> through</p>
+<p begin="00:10:56.970" end="00:11:00.810" style="s2">Twitter<span style="s3"> so</span> there were two main</p>
+<p begin="00:10:58.589" end="00:11:02.070" style="s2">components<span style="s4"> to</span><span style="s3"> our</span> Twitter strategy<span style="s4"> the</span></p>
+<p begin="00:11:00.810" end="00:11:02.920" style="s2">first<span style="s4"> was</span> that<span style="s3"> we were going to</span> retweet</p>
+<p begin="00:11:02.070" end="00:11:04.510" style="s2">content</p>
+<p begin="00:11:02.920" end="00:11:07.180" style="s2">elated to<span style="s3"> channel for mayor as well</span> as</p>
+<p begin="00:11:04.510" end="00:11:09.370" style="s2">like news about issues that<span style="s4"> chance</span><span style="s3"> cared</span></p>
+<p begin="00:11:07.180" end="00:11:11.290" style="s2">about just<span style="s3"> news</span> about chance<span style="s3"> in</span> kind<span style="s4"> of</span></p>
+<p begin="00:11:09.370" end="00:11:13.060" style="s2">this political light<span style="s3"> kind</span><span style="s4"> of</span><span style="s3"> in</span> the way</p>
+<p begin="00:11:11.290" end="00:11:15.100" style="s2">that you would see a real campaign<span style="s3"> do</span></p>
+<p begin="00:11:13.060" end="00:11:16.089" style="s2"><span style="s3">and</span> then the second component<span style="s3"> was</span> that</p>
+<p begin="00:11:15.100" end="00:11:17.889" style="s2">we were going<span style="s3"> to have a Twitter bot</span></p>
+<p begin="00:11:16.089" end="00:11:20.740" style="s2">where people could<span style="s4"> interact</span> with<span style="s3"> us</span> and</p>
+<p begin="00:11:17.889" end="00:11:22.329" style="s2">make memes about<span style="s4"> Chano</span> for mayor these</p>
+<p begin="00:11:20.740" end="00:11:24.399" style="s2">are what some of the memes looks like</p>
+<p begin="00:11:22.329" end="00:11:26.589" style="s2">the basic idea<span style="s3"> of</span> it was<span style="s4"> that</span> people</p>
+<p begin="00:11:24.399" end="00:11:28.630" style="s2">would tweet at<span style="s4"> us</span> they would<span style="s4"> mention</span> us</p>
+<p begin="00:11:26.589" end="00:11:30.519" style="s2"><span style="s4">we</span> would have<span style="s4"> a</span><span style="s3"> little</span> bot<span style="s3"> that</span> would</p>
+<p begin="00:11:28.630" end="00:11:33.070" style="s2">automatically grab a Creative Commons</p>
+<p begin="00:11:30.519" end="00:11:35.170" style="s2"><span style="s3">license image and</span> put<span style="s3"> their</span> text on top</p>
+<p begin="00:11:33.070" end="00:11:36.730" style="s2">with some<span style="s3"> random</span> emojis and then that</p>
+<p begin="00:11:35.170" end="00:11:39.010" style="s2">would<span style="s3"> send</span> us an email alert and we</p>
+<p begin="00:11:36.730" end="00:11:41.260" style="s2">could go in and reply to that person</p>
+<p begin="00:11:39.010" end="00:11:42.760" style="s2">with<span style="s4"> the</span> image<span style="s3"> that</span> they<span style="s3"> generated we</span></p>
+<p begin="00:11:41.260" end="00:11:44.529" style="s2">could have made it<span style="s3"> fully</span> automatic but</p>
+<p begin="00:11:42.760" end="00:11:46.360" style="s2">we<span style="s3"> decided not to because we&#39;ve seen the</span></p>
+<p begin="00:11:44.529" end="00:11:48.610" style="s2">horrible<span style="s3"> things</span> that<span style="s3"> happen</span> to bots on</p>
+<p begin="00:11:46.360" end="00:11:50.470" style="s2"><span style="s3">Twitter and we</span> knew that<span style="s4"> it</span> was like</p>
+<p begin="00:11:48.610" end="00:11:53.130" style="s2">important that there was a human screen</p>
+<p begin="00:11:50.470" end="00:11:55.810" style="s2">here<span style="s3"> so</span> that we could kind<span style="s3"> of</span> direct</p>
+<p begin="00:11:53.130" end="00:11:57.070" style="s2">lightly the way that the conversation</p>
+<p begin="00:11:55.810" end="00:11:59.290" style="s2"><span style="s4">was</span> happening<span style="s4"> I</span><span style="s3"> don&#39;t think that we</span></p>
+<p begin="00:11:57.070" end="00:12:01.930" style="s2"><span style="s4">actually</span> got<span style="s3"> any</span> serious abuse of the</p>
+<p begin="00:11:59.290" end="00:12:03.519" style="s2"><span style="s3">bots but</span><span style="s4"> there&#39;s</span> real potential<span style="s4"> for</span> that</p>
+<p begin="00:12:01.930" end="00:12:05.649" style="s2">and and it was something<span style="s4"> that</span> we thought</p>
+<p begin="00:12:03.519" end="00:12:07.870" style="s2"><span style="s3">pretty</span> deliberately about<span style="s3"> so</span> the<span style="s3"> website</span></p>
+<p begin="00:12:05.649" end="00:12:09.670" style="s2"><span style="s4">and</span> the Twitter<span style="s4"> bots</span> were the two<span style="s4"> key</span></p>
+<p begin="00:12:07.870" end="00:12:11.290" style="s2">components<span style="s4"> that</span> we built before</p>
+<p begin="00:12:09.670" end="00:12:16.199" style="s2">launching and we were<span style="s3"> actually</span> really</p>
+<p begin="00:12:11.290" end="00:12:16.199" style="s2"><span style="s4">surprised</span> by the reaction to<span style="s4"> our</span> launch</p>
+<p begin="00:12:16.470" end="00:12:21.730" style="s2">yeah we were<span style="s3"> pretty</span> surprised because we</p>
+<p begin="00:12:19.570" end="00:12:23.470" style="s2">were you know<span style="s3"> had</span> just been doing<span style="s3"> this</span></p>
+<p begin="00:12:21.730" end="00:12:26.529" style="s2">for<span style="s3"> making</span> it<span style="s3"> for</span> a couple<span style="s4"> weeks</span> there</p>
+<p begin="00:12:23.470" end="00:12:29.370" style="s2">were<span style="s3"> just</span> four of<span style="s3"> us</span> but damn<span style="s4"> we</span> were in</p>
+<p begin="00:12:26.529" end="00:12:31.630" style="s2">the Trib we were in the sun-times<span style="s4"> ABC</span></p>
+<p begin="00:12:29.370" end="00:12:34.990" style="s2"><span style="s3">Chicago</span> and then all<span style="s4"> of</span><span style="s3"> these</span> music</p>
+<p begin="00:12:31.630" end="00:12:37.899" style="s2">blogs complex<span style="s3"> fader</span> so basically like</p>
+<p begin="00:12:34.990" end="00:12:41.140" style="s2">both<span style="s4"> district</span> all<span style="s3"> the</span> Chicago<span style="s3"> media</span> and</p>
+<p begin="00:12:37.899" end="00:12:43.839" style="s2">all the kind of big music blog sites</p>
+<p begin="00:12:41.140" end="00:12:46.029" style="s2">covered the idea which i think is<span style="s3"> pretty</span></p>
+<p begin="00:12:43.839" end="00:12:48.490" style="s2">powerful<span style="s3"> and just goes to show that like</span></p>
+<p begin="00:12:46.029" end="00:12:50.860" style="s2"><span style="s4">four</span> people<span style="s3"> can</span> make a<span style="s4"> website</span> that<span style="s3"> a</span></p>
+<p begin="00:12:48.490" end="00:12:53.980" style="s2">lot<span style="s3"> of</span> news outlets<span style="s3"> will</span> can take</p>
+<p begin="00:12:50.860" end="00:12:55.690" style="s2">seriously<span style="s4"> if</span> you put the time into</p>
+<p begin="00:12:53.980" end="00:12:59.649" style="s2">crafting the right narrative arc and</p>
+<p begin="00:12:55.690" end="00:13:02.980" style="s2">building a site<span style="s3"> that looks legit</span><span style="s4"> but</span> you</p>
+<p begin="00:12:59.649" end="00:13:05.470" style="s2">know we<span style="s3"> forgot at an ebony cover story</span></p>
+<p begin="00:13:02.980" end="00:13:07.120" style="s2"><span style="s3">glam which actually was it wasn&#39;t really</span></p>
+<p begin="00:13:05.470" end="00:13:09.880" style="s2"><span style="s4">about</span> us but it<span style="s3"> was</span> pretty<span style="s3"> clearly</span></p>
+<p begin="00:13:07.120" end="00:13:11.649" style="s2">influenced by<span style="s3"> the</span> campaign<span style="s3"> so</span> they took</p>
+<p begin="00:13:09.880" end="00:13:13.000" style="s2"><span style="s3">it</span> a step further<span style="s4"> than</span> we did and they</p>
+<p begin="00:13:11.649" end="00:13:15.040" style="s2">did quota<span style="s3"> yeah</span></p>
+<p begin="00:13:13.000" end="00:13:16.390" style="s2">we also reached<span style="s3"> a</span> place that we&#39;re</p>
+<p begin="00:13:15.040" end="00:13:18.940" style="s2">pretty<span style="s3"> excited</span> to<span style="s4"> share</span> with</p>
+<p begin="00:13:16.390" end="00:13:20.890" style="s2">because it&#39;s a place<span style="s4"> that</span> no civic tech</p>
+<p begin="00:13:18.940" end="00:13:23.320" style="s2">project has ever reached before<span style="s4"> and</span></p>
+<p begin="00:13:20.890" end="00:13:26.279" style="s2">we&#39;re pretty proud<span style="s3"> we</span> think to<span style="s3"> be</span> the</p>
+<p begin="00:13:23.320" end="00:13:26.279" style="s2"><span style="s3">first</span> ones<span style="s4"> to</span> do it</p>
+<p begin="00:13:34.350" end="00:13:41.589" style="s2">yeah thank you<span style="s4"> yeah</span> so in case you<span style="s3"> don&#39;t</span></p>
+<p begin="00:13:39.160" end="00:13:44.500" style="s2"><span style="s3">know</span> that is the<span style="s3"> Canadian</span><span style="s4"> artist</span><span style="s3"> known</span></p>
+<p begin="00:13:41.589" end="00:13:49.959" style="s2">as Drake and he endorsed<span style="s3"> our</span> project</p>
+<p begin="00:13:44.500" end="00:13:52.570" style="s2">which we<span style="s3"> were</span> pretty proud of but</p>
+<p begin="00:13:49.959" end="00:13:54.399" style="s2">actually<span style="s4"> he is not</span> the purse the most</p>
+<p begin="00:13:52.570" end="00:13:56.950" style="s2">important person<span style="s4"> to</span> endorse our project</p>
+<p begin="00:13:54.399" end="00:13:59.380" style="s2">because<span style="s4"> the</span> most important people who</p>
+<p begin="00:13:56.950" end="00:14:01.060" style="s2">responded<span style="s3"> to the project were just young</span></p>
+<p begin="00:13:59.380" end="00:14:03.220" style="s2">people<span style="s4"> across Chicago</span><span style="s3"> because you</span></p>
+<p begin="00:14:01.060" end="00:14:06.670" style="s2">started getting<span style="s3"> texts</span> and Twitter<span style="s4"> dreams</span></p>
+<p begin="00:14:03.220" end="00:14:08.649" style="s2"><span style="s3">of</span> fan<span style="s3"> art</span> that popped up<span style="s3"> and</span> chalk art</p>
+<p begin="00:14:06.670" end="00:14:10.510" style="s2">in the street saying<span style="s3"> tents for mayor</span> and</p>
+<p begin="00:14:08.649" end="00:14:12.220" style="s2"><span style="s3">that</span> felt really<span style="s4"> cool</span> and what we</p>
+<p begin="00:14:10.510" end="00:14:14.800" style="s2">realized that we had<span style="s4"> kind</span><span style="s3"> of</span> done is</p>
+<p begin="00:14:12.220" end="00:14:16.660" style="s2">made a feedback loop because we started</p>
+<p begin="00:14:14.800" end="00:14:18.760" style="s2">looking<span style="s3"> at</span> this<span style="s4"> hashtag</span> that we<span style="s3"> didn&#39;t</span></p>
+<p begin="00:14:16.660" end="00:14:20.800" style="s2">make<span style="s3"> up like basically kids</span> made<span style="s4"> it</span> up</p>
+<p begin="00:14:18.760" end="00:14:22.000" style="s2">who were smarter<span style="s4"> than</span> us and<span style="s4"> like</span> more</p>
+<p begin="00:14:20.800" end="00:14:24.430" style="s2"><span style="s3">advanced because they</span><span style="s4"> already</span> saw that</p>
+<p begin="00:14:22.000" end="00:14:26.110" style="s2"><span style="s4">they</span> were out there tweeting<span style="s4"> channa</span><span style="s3"> for</span></p>
+<p begin="00:14:24.430" end="00:14:27.670" style="s2"><span style="s3">mayor</span><span style="s4"> chants</span> for<span style="s3"> mayor</span><span style="s4"> but</span> there was</p>
+<p begin="00:14:26.110" end="00:14:29.800" style="s2">actually<span style="s4"> like</span><span style="s3"> hundreds</span> of<span style="s3"> tweets saying</span></p>
+<p begin="00:14:27.670" end="00:14:32.350" style="s2">chants for mayor after<span style="s3"> he</span><span style="s4"> announced his</span></p>
+<p begin="00:14:29.800" end="00:14:34.240" style="s2">million dollar gift<span style="s4"> to</span> CPS but what we</p>
+<p begin="00:14:32.350" end="00:14:37.060" style="s2">were<span style="s4"> able</span> to<span style="s3"> do</span> was take that<span style="s3"> idea</span><span style="s4"> and</span></p>
+<p begin="00:14:34.240" end="00:14:39.720" style="s2">give it a politically imaginative</p>
+<p begin="00:14:37.060" end="00:14:42.850" style="s2">campaign with letters<span style="s4"> and</span> narrative and</p>
+<p begin="00:14:39.720" end="00:14:44.920" style="s2">design and then once that<span style="s3"> got</span> out there</p>
+<p begin="00:14:42.850" end="00:14:46.449" style="s2">that kind<span style="s3"> of</span> completed<span style="s3"> the</span> loop<span style="s3"> because</span></p>
+<p begin="00:14:44.920" end="00:14:49.180" style="s2">then that got out through music<span style="s3"> vlogs</span></p>
+<p begin="00:14:46.449" end="00:14:51.880" style="s2">and the news<span style="s4"> and then people</span><span style="s3"> took</span><span style="s4"> that</span></p>
+<p begin="00:14:49.180" end="00:14:54.790" style="s2">and turned<span style="s3"> it</span> into art and<span style="s3"> posters</span> so we</p>
+<p begin="00:14:51.880" end="00:14:56.769" style="s2">kind of<span style="s3"> went</span> full circle<span style="s3"> it</span> was also</p>
+<p begin="00:14:54.790" end="00:14:58.720" style="s2"><span style="s3">like people</span><span style="s4"> making</span> fan art of our fan</p>
+<p begin="00:14:56.769" end="00:15:01.930" style="s2">art which<span style="s4"> is</span> pretty cool too when you</p>
+<p begin="00:14:58.720" end="00:15:03.579" style="s2">think about<span style="s3"> it</span> so to us the most</p>
+<p begin="00:15:01.930" end="00:15:06.339" style="s2">important lessons<span style="s3"> of</span> the campaign were</p>
+<p begin="00:15:03.579" end="00:15:08.709" style="s2">first that<span style="s4"> a</span> small and engaging idea can</p>
+<p begin="00:15:06.339" end="00:15:10.510" style="s2">be more powerful<span style="s3"> than</span> really cool tech</p>
+<p begin="00:15:08.709" end="00:15:12.790" style="s2">as I like men Alex<span style="s4"> mentioned</span> their</p>
+<p begin="00:15:10.510" end="00:15:15.100" style="s2">project was really<span style="s3"> really simple and I</span></p>
+<p begin="00:15:12.790" end="00:15:16.750" style="s2"><span style="s4">think</span> the most important<span style="s3"> part</span> of it<span style="s3"> was</span></p>
+<p begin="00:15:15.100" end="00:15:19.570" style="s2">really just<span style="s3"> this kind</span><span style="s4"> of</span> small<span style="s3"> website</span></p>
+<p begin="00:15:16.750" end="00:15:21.640" style="s2">that<span style="s3"> communicated a little seed</span><span style="s4"> of</span> an</p>
+<p begin="00:15:19.570" end="00:15:24.040" style="s2"><span style="s4">idea</span> that<span style="s4"> we</span> had<span style="s3"> the</span> second<span style="s3"> lesson</span> is</p>
+<p begin="00:15:21.640" end="00:15:25.899" style="s2"><span style="s4">that</span> narrative<span style="s3"> art</span> is<span style="s3"> really</span> important</p>
+<p begin="00:15:24.040" end="00:15:27.910" style="s2">to a project<span style="s3"> and I</span><span style="s4"> think</span> this applies</p>
+<p begin="00:15:25.899" end="00:15:29.980" style="s2">even<span style="s3"> projects</span> that do have<span style="s3"> really</span> cool</p>
+<p begin="00:15:27.910" end="00:15:32.770" style="s2"><span style="s4">check you should think</span> about what<span style="s4"> people</span></p>
+<p begin="00:15:29.980" end="00:15:34.630" style="s2"><span style="s4">gut</span> impression is going<span style="s3"> to</span> be of your</p>
+<p begin="00:15:32.770" end="00:15:36.910" style="s2">project<span style="s3"> but</span> they&#39;ll take<span style="s3"> away with it</span></p>
+<p begin="00:15:34.630" end="00:15:38.800" style="s2"><span style="s4">only if they if they only spend</span><span style="s3"> 30</span></p>
+<p begin="00:15:36.910" end="00:15:40.660" style="s2">seconds<span style="s3"> with your project and</span><span style="s4"> make sure</span></p>
+<p begin="00:15:38.800" end="00:15:43.030" style="s2">that you can tell them a story<span style="s3"> that</span> will</p>
+<p begin="00:15:40.660" end="00:15:44.590" style="s2">stick<span style="s4"> with</span> them in<span style="s3"> that 30 second</span><span style="s4"> it&#39;s</span></p>
+<p begin="00:15:43.030" end="00:15:46.150" style="s2">also a<span style="s3"> great</span> exercise in<span style="s4"> thinking</span> about</p>
+<p begin="00:15:44.590" end="00:15:48.040" style="s2"><span style="s4">how</span> you might<span style="s3"> picture your project to</span></p>
+<p begin="00:15:46.150" end="00:15:49.240" style="s2">media outlets<span style="s4"> to</span><span style="s3"> who</span> are really<span style="s3"> just</span></p>
+<p begin="00:15:48.040" end="00:15:51.160" style="s2">going<span style="s4"> to</span> kind of glance<span style="s3"> at</span> what you&#39;re</p>
+<p begin="00:15:49.240" end="00:15:54.310" style="s2"><span style="s4">doing</span> and decide whether<span style="s3"> or not it&#39;s</span></p>
+<p begin="00:15:51.160" end="00:15:56.020" style="s2">relevant<span style="s3"> to</span> folks<span style="s3"> third</span> creating a</p>
+<p begin="00:15:54.310" end="00:15:58.390" style="s2"><span style="s4">conversation</span> can<span style="s4"> be</span> a valuable thing<span style="s3"> to</span></p>
+<p begin="00:15:56.020" end="00:15:59.920" style="s2"><span style="s4">do</span> in itself<span style="s4"> we</span> were able to get<span style="s4"> a</span> lot</p>
+<p begin="00:15:58.390" end="00:16:02.320" style="s2"><span style="s4">of</span> young people talking about<span style="s4"> what a</span></p>
+<p begin="00:15:59.920" end="00:16:04.930" style="s2">good<span style="s3"> mayor</span> meant to them<span style="s3"> we</span> boosted the</p>
+<p begin="00:16:02.320" end="00:16:06.760" style="s2"><span style="s3">hashtag</span> count for channel<span style="s4"> 4 Mayor into</span></p>
+<p begin="00:16:04.930" end="00:16:08.170" style="s2">the thousands<span style="s3"> which</span> was really<span style="s3"> cool and</span></p>
+<p begin="00:16:06.760" end="00:16:09.970" style="s2"><span style="s3">we were</span><span style="s4"> able</span> to get connected<span style="s3"> with</span></p>
+<p begin="00:16:08.170" end="00:16:12.700" style="s2"><span style="s4">people</span> who were worried about similar</p>
+<p begin="00:16:09.970" end="00:16:14.290" style="s2">issues that we are just by demoing the</p>
+<p begin="00:16:12.700" end="00:16:16.240" style="s2">project for friends and<span style="s3"> by</span> putting<span style="s3"> it</span></p>
+<p begin="00:16:14.290" end="00:16:17.980" style="s2">out in the public<span style="s3"> eye</span> and finally we</p>
+<p begin="00:16:16.240" end="00:16:20.740" style="s2">learned that you should work as simple</p>
+<p begin="00:16:17.980" end="00:16:22.630" style="s2">and as fast as<span style="s3"> you</span> possibly<span style="s4"> can focus on</span></p>
+<p begin="00:16:20.740" end="00:16:25.270" style="s2"><span style="s4">getting</span> something<span style="s3"> out</span> the<span style="s4"> door</span> and into</p>
+<p begin="00:16:22.630" end="00:16:26.950" style="s2"><span style="s4">the</span><span style="s3"> public</span> before<span style="s3"> you</span> lose steam<span style="s3"> because</span></p>
+<p begin="00:16:25.270" end="00:16:29.110" style="s2">it can be really<span style="s3"> really easy</span><span style="s4"> to</span><span style="s3"> get</span></p>
+<p begin="00:16:26.950" end="00:16:31.090" style="s2">bogged down<span style="s4"> in the technical</span><span style="s3"> weeds</span><span style="s4"> of a</span></p>
+<p begin="00:16:29.110" end="00:16:33.850" style="s2">project and<span style="s3"> forget</span> kind of that core</p>
+<p begin="00:16:31.090" end="00:16:38.050" style="s2">message that you&#39;re trying<span style="s4"> to</span><span style="s3"> put into</span></p>
+<p begin="00:16:33.850" end="00:16:39.760" style="s2"><span style="s4">people&#39;s minds</span><span style="s3"> so</span><span style="s4"> some things didn&#39;t</span></p>
+<p begin="00:16:38.050" end="00:16:41.800" style="s2">work and we<span style="s3"> want</span> to be honest with<span style="s4"> you</span></p>
+<p begin="00:16:39.760" end="00:16:43.780" style="s2"><span style="s4">about that because</span><span style="s3"> why</span><span style="s4"> not</span> you<span style="s3"> know</span> like</p>
+<p begin="00:16:41.800" end="00:16:46.270" style="s2"><span style="s4">why</span> go<span style="s4"> and</span> talk to<span style="s4"> us</span> of a tech<span style="s3"> people</span></p>
+<p begin="00:16:43.780" end="00:16:47.980" style="s2">if you<span style="s3"> don&#39;t</span> share lessons<span style="s4"> learned</span><span style="s3"> so</span></p>
+<p begin="00:16:46.270" end="00:16:48.870" style="s2">first of all we failed in our goal to</p>
+<p begin="00:16:47.980" end="00:16:51.700" style="s2">meet chance</p>
+<p begin="00:16:48.870" end="00:16:53.380" style="s2"><span style="s4">that&#39;s</span> unfortunate<span style="s4"> so</span> far who knows</p>
+<p begin="00:16:51.700" end="00:16:55.270" style="s2">there&#39;s always room for more<span style="s3"> plot</span> twists</p>
+<p begin="00:16:53.380" end="00:16:57.940" style="s2">but um yeah he didn&#39;t engage<span style="s4"> directly</span></p>
+<p begin="00:16:55.270" end="00:16:59.800" style="s2"><span style="s3">the</span> Twitter bot was not as<span style="s3"> popular</span> as we</p>
+<p begin="00:16:57.940" end="00:17:01.060" style="s2"><span style="s3">wanted</span> it to<span style="s3"> be and</span><span style="s4"> that</span><span style="s3"> was</span> kind of</p>
+<p begin="00:16:59.800" end="00:17:03.910" style="s2"><span style="s3">interesting</span><span style="s4"> to</span> us<span style="s4"> because that</span></p>
+<p begin="00:17:01.060" end="00:17:05.650" style="s2">technically<span style="s3"> that</span> was the<span style="s3"> most</span> time like</p>
+<p begin="00:17:03.910" end="00:17:07.480" style="s2">man<span style="s3"> gene</span> spent a lot of time like</p>
+<p begin="00:17:05.650" end="00:17:09.460" style="s2">polishing<span style="s3"> that</span> and automating it and</p>
+<p begin="00:17:07.480" end="00:17:11.230" style="s2">getting<span style="s3"> it ready to defend against abuse</span></p>
+<p begin="00:17:09.460" end="00:17:12.970" style="s2">but I think the lesson<span style="s4"> there</span> is</p>
+<p begin="00:17:11.230" end="00:17:14.620" style="s2"><span style="s3">sometimes like look around</span> at your</p>
+<p begin="00:17:12.970" end="00:17:16.780" style="s2"><span style="s4">project</span><span style="s3"> and</span> sometimes the most</p>
+<p begin="00:17:14.620" end="00:17:18.520" style="s2">complicated part might not actually<span style="s3"> be</span></p>
+<p begin="00:17:16.780" end="00:17:21.280" style="s2">the<span style="s4"> most</span> important or effective part it</p>
+<p begin="00:17:18.520" end="00:17:23.230" style="s2">might<span style="s3"> be</span> the simplest part<span style="s4"> and</span> then</p>
+<p begin="00:17:21.280" end="00:17:24.790" style="s2">finally we wanted to work<span style="s4"> with</span> some<span style="s4"> of</span></p>
+<p begin="00:17:23.230" end="00:17:26.710" style="s2">the<span style="s4"> community groups</span><span style="s3"> that</span> chance is</p>
+<p begin="00:17:24.790" end="00:17:29.320" style="s2"><span style="s3">really</span> involved in like he has an open</p>
+<p begin="00:17:26.710" end="00:17:31.510" style="s2"><span style="s3">mic</span> reading series and<span style="s4"> is</span> super<span style="s4"> involved</span></p>
+<p begin="00:17:29.320" end="00:17:33.520" style="s2">with a lot<span style="s4"> of</span><span style="s3"> amazing</span> groups about young</p>
+<p begin="00:17:31.510" end="00:17:36.070" style="s2">people in the arts in Chicago and we</p>
+<p begin="00:17:33.520" end="00:17:37.810" style="s2">want to get<span style="s3"> their</span> feedback<span style="s4"> we</span><span style="s3"> can&#39;t</span></p>
+<p begin="00:17:36.070" end="00:17:39.310" style="s2">basically there&#39;s always the tension in</p>
+<p begin="00:17:37.810" end="00:17:42.310" style="s2">a project<span style="s4"> between the small group of</span></p>
+<p begin="00:17:39.310" end="00:17:44.470" style="s2"><span style="s3">people doing something</span><span style="s4"> fast and versus</span></p>
+<p begin="00:17:42.310" end="00:17:45.850" style="s2">really being community driven<span style="s3"> and</span></p>
+<p begin="00:17:44.470" end="00:17:47.560" style="s2">spending the time<span style="s4"> to talk to</span><span style="s3"> like</span></p>
+<p begin="00:17:45.850" end="00:17:49.420" style="s2">hundreds<span style="s3"> of</span><span style="s4"> people</span><span style="s3"> and</span> get their input</p>
+<p begin="00:17:47.560" end="00:17:51.580" style="s2"><span style="s3">and</span><span style="s4"> help</span> and I<span style="s3"> think</span> what we<span style="s4"> learned</span></p>
+<p begin="00:17:49.420" end="00:17:52.750" style="s2">here<span style="s3"> was</span> if you want to do that second</p>
+<p begin="00:17:51.580" end="00:17:55.870" style="s2"><span style="s4">thing</span> you<span style="s4"> have</span> to start at<span style="s3"> the</span><span style="s4"> very</span></p>
+<p begin="00:17:52.750" end="00:17:58.600" style="s2">beginning because<span style="s4"> we</span> pretty much<span style="s3"> we&#39;re</span></p>
+<p begin="00:17:55.870" end="00:18:01.600" style="s2">ready we&#39;re ready<span style="s3"> to</span> launch<span style="s3"> the</span> project</p>
+<p begin="00:17:58.600" end="00:18:03.310" style="s2"><span style="s3">and</span> we didn&#39;t<span style="s3"> want</span> to<span style="s3"> hold</span> it<span style="s3"> out like</span></p>
+<p begin="00:18:01.600" end="00:18:06.310" style="s2">with weeks and weeks<span style="s4"> and revisions so if</span></p>
+<p begin="00:18:03.310" end="00:18:07.870" style="s2">you want<span style="s3"> to</span> do community<span style="s4"> driven start</span></p>
+<p begin="00:18:06.310" end="00:18:09.490" style="s2">from<span style="s3"> the</span> very<span style="s3"> beginning</span><span style="s4"> but</span> then also</p>
+<p begin="00:18:07.870" end="00:18:12.370" style="s2"><span style="s3">launching</span> you&#39;ll meet people<span style="s4"> in</span> the</p>
+<p begin="00:18:09.490" end="00:18:15.610" style="s2"><span style="s3">community</span><span style="s4"> who</span> can<span style="s3"> help</span> you<span style="s3"> think</span><span style="s4"> more</span></p>
+<p begin="00:18:12.370" end="00:18:17.800" style="s2">and do<span style="s4"> different</span> stuff<span style="s3"> so you know</span> just</p>
+<p begin="00:18:15.610" end="00:18:20.680" style="s2"><span style="s4">launch yeah so to be totally</span><span style="s3"> clear</span></p>
+<p begin="00:18:17.800" end="00:18:22.270" style="s2">chance<span style="s3"> isn&#39;t</span> running<span style="s3"> for</span><span style="s4"> mayor but even</span></p>
+<p begin="00:18:20.680" end="00:18:24.970" style="s2">though he said no it&#39;s left us thinking</p>
+<p begin="00:18:22.270" end="00:18:26.440" style="s2"><span style="s3">about who we do want to run it&#39;s been an</span></p>
+<p begin="00:18:24.970" end="00:18:28.780" style="s2"><span style="s4">interesting</span> time we&#39;ve been<span style="s3"> in</span> touch</p>
+<p begin="00:18:26.440" end="00:18:31.300" style="s2"><span style="s4">with</span> some folks<span style="s3"> who are kind of</span> laying</p>
+<p begin="00:18:28.780" end="00:18:34.210" style="s2">down<span style="s3"> foundations but no one has really</span></p>
+<p begin="00:18:31.300" end="00:18:37.180" style="s2">confirmed<span style="s4"> anything</span> yet<span style="s3"> and</span> who knows it</p>
+<p begin="00:18:34.210" end="00:18:39.850" style="s2">could<span style="s4"> really</span> even<span style="s4"> be</span> you<span style="s3"> 2019</span> is a long</p>
+<p begin="00:18:37.180" end="00:18:42.730" style="s2">way<span style="s3"> away</span> from<span style="s3"> now</span> and in the<span style="s3"> meantime</span></p>
+<p begin="00:18:39.850" end="00:18:44.590" style="s2"><span style="s3">we&#39;ll</span> be iterating on some of the<span style="s3"> ideas</span></p>
+<p begin="00:18:42.730" end="00:18:46.690" style="s2">that<span style="s3"> we</span> had here<span style="s4"> that</span> might<span style="s4"> help</span></p>
+<p begin="00:18:44.590" end="00:18:49.390" style="s2">generate<span style="s3"> a</span><span style="s4"> movement</span><span style="s3"> around whichever</span></p>
+<p begin="00:18:46.690" end="00:18:51.040" style="s2">candidate runs so next year we&#39;re</p>
+<p begin="00:18:49.390" end="00:18:52.930" style="s2">planning to mobilize our network in</p>
+<p begin="00:18:51.040" end="00:18:55.060" style="s2"><span style="s3">favor</span> of the most progressive candidate</p>
+<p begin="00:18:52.930" end="00:18:56.260" style="s2">who decides<span style="s3"> to</span> run we&#39;re planning<span style="s3"> that</span></p>
+<p begin="00:18:55.060" end="00:18:58.750" style="s2">linked up<span style="s4"> with</span> community<span style="s3"> organizations</span></p>
+<p begin="00:18:56.260" end="00:19:00.850" style="s2">like Alex mentioned<span style="s3"> who</span> are doing some</p>
+<p begin="00:18:58.750" end="00:19:02.620" style="s2"><span style="s3">of</span> this work<span style="s3"> on</span><span style="s4"> the</span><span style="s3"> ground</span> already<span style="s3"> and</span></p>
+<p begin="00:19:00.850" end="00:19:04.030" style="s2"><span style="s4">Alex</span> is launching a new<span style="s4"> project</span><span style="s3"> that</span></p>
+<p begin="00:19:02.620" end="00:19:06.130" style="s2"><span style="s3">puts</span> some<span style="s4"> of</span> the lessons<span style="s4"> about</span></p>
+<p begin="00:19:04.030" end="00:19:08.080" style="s2">storytelling<span style="s3"> that</span> we learned into</p>
+<p begin="00:19:06.130" end="00:19:09.850" style="s2">practice<span style="s4"> fundraising</span><span style="s3"> for</span> progressive</p>
+<p begin="00:19:08.080" end="00:19:12.250" style="s2"><span style="s4">causes</span> so if you want<span style="s3"> to</span> talk about<span style="s3"> that</span></p>
+<p begin="00:19:09.850" end="00:19:14.620" style="s2">for<span style="s3"> a</span><span style="s4"> little bit sure some of you who</span></p>
+<p begin="00:19:12.250" end="00:19:16.450" style="s2"><span style="s3">are</span> here last week<span style="s3"> got</span><span style="s4"> a</span> preview but</p>
+<p begin="00:19:14.620" end="00:19:18.820" style="s2"><span style="s3">basically</span> at we give<span style="s4"> Wayne</span><span style="s3"> calm</span> we&#39;re</p>
+<p begin="00:19:16.450" end="00:19:20.950" style="s2">trying to do storytelling<span style="s3"> around a bunch</span></p>
+<p begin="00:19:18.820" end="00:19:23.140" style="s2"><span style="s4">of</span> political<span style="s3"> campaigns including this</span></p>
+<p begin="00:19:20.950" end="00:19:25.300" style="s2">one which<span style="s4"> is</span> a will<span style="s4"> goes already who&#39;s a</span></p>
+<p begin="00:19:23.140" end="00:19:27.970" style="s2">state rep and he is<span style="s4"> helping</span> to<span style="s3"> lead</span><span style="s4"> the</span></p>
+<p begin="00:19:25.300" end="00:19:29.920" style="s2">fight<span style="s4"> for</span> a $15 minimum wage<span style="s3"> and so for</span></p>
+<p begin="00:19:27.970" end="00:19:31.990" style="s2"><span style="s4">example</span><span style="s3"> in</span> this site we&#39;re trying to</p>
+<p begin="00:19:29.920" end="00:19:34.480" style="s2">create like storytelling around the fact</p>
+<p begin="00:19:31.990" end="00:19:36.880" style="s2">that McDonald&#39;s is donating<span style="s3"> the Walmart</span></p>
+<p begin="00:19:34.480" end="00:19:39.400" style="s2">is donating<span style="s4"> to</span> candidates<span style="s3"> every single</span></p>
+<p begin="00:19:36.880" end="00:19:41.440" style="s2">month to<span style="s3"> try</span> to keep a $15 minimum<span style="s3"> wage</span></p>
+<p begin="00:19:39.400" end="00:19:42.669" style="s2"><span style="s3">from</span> happening<span style="s3"> and kind of use that to</span></p>
+<p begin="00:19:41.440" end="00:19:45.039" style="s2"><span style="s3">build tension and get</span><span style="s4"> pee</span></p>
+<p begin="00:19:42.669" end="00:19:47.739" style="s2">engaged and involved<span style="s3"> in fighting back</span></p>
+<p begin="00:19:45.039" end="00:19:56.649" style="s2"><span style="s3">and</span> creating the response<span style="s3"> thanks very</span></p>
+<p begin="00:19:47.739" end="00:19:59.559" style="s2"><span style="s3">much</span><span style="s4"> thank</span> you<span style="s3"> very much I thought you</span></p>
+<p begin="00:19:56.649" end="00:20:01.269" style="s2">your website was really<span style="s3"> cool</span><span style="s4"> one</span></p>
+<p begin="00:19:59.559" end="00:20:02.859" style="s2"><span style="s4">question</span> I had was now<span style="s3"> that</span> you&#39;ve<span style="s3"> kind</span></p>
+<p begin="00:20:01.269" end="00:20:05.080" style="s2">of got the framework set up have you</p>
+<p begin="00:20:02.859" end="00:20:06.659" style="s2">thought about<span style="s3"> maybe</span> going<span style="s3"> back</span><span style="s4"> a</span> little</p>
+<p begin="00:20:05.080" end="00:20:09.549" style="s2">bit and instead<span style="s4"> of</span><span style="s3"> making it about</span></p>
+<p begin="00:20:06.659" end="00:20:12.869" style="s2">chance<span style="s3"> running</span> for mayor per<span style="s3"> se just</span></p>
+<p begin="00:20:09.549" end="00:20:15.009" style="s2"><span style="s4">about like what kind of making</span><span style="s3"> it</span> like a</p>
+<p begin="00:20:12.869" end="00:20:17.499" style="s2">site where people<span style="s3"> couldn&#39;t could</span></p>
+<p begin="00:20:15.009" end="00:20:19.359" style="s2">envision what they&#39;d like<span style="s3"> their</span> ideal</p>
+<p begin="00:20:17.499" end="00:20:20.919" style="s2">candidate<span style="s4"> for</span> mayor to address in<span style="s3"> terms</span></p>
+<p begin="00:20:19.359" end="00:20:23.039" style="s2"><span style="s3">of</span> like what issues do<span style="s4"> they</span> would they</p>
+<p begin="00:20:20.919" end="00:20:25.749" style="s2">actually<span style="s3"> want</span> the mayor to tackle and</p>
+<p begin="00:20:23.039" end="00:20:27.759" style="s2"><span style="s3">have</span> you thought about also<span style="s3"> not</span> limiting</p>
+<p begin="00:20:25.749" end="00:20:29.799" style="s2">yourselves to rather<span style="s3"> than</span> finding a</p>
+<p begin="00:20:27.759" end="00:20:31.779" style="s2">person who&#39;s alive right<span style="s3"> now</span><span style="s4"> who</span> could</p>
+<p begin="00:20:29.799" end="00:20:33.279" style="s2">run for mayor looking at like some</p>
+<p begin="00:20:31.779" end="00:20:35.519" style="s2"><span style="s3">mayor&#39;s</span> from<span style="s3"> the</span> past<span style="s3"> but</span><span style="s4"> I</span> don&#39;t like</p>
+<p begin="00:20:33.279" end="00:20:37.929" style="s2">Mayo LaGuardia<span style="s3"> any</span> of the other like</p>
+<p begin="00:20:35.519" end="00:20:39.970" style="s2">characters in like<span style="s4"> city&#39;s past</span><span style="s3"> to</span> see</p>
+<p begin="00:20:37.929" end="00:20:42.009" style="s2">like what might those<span style="s3"> mayor&#39;s</span> have done</p>
+<p begin="00:20:39.970" end="00:20:46.239" style="s2">a<span style="s3"> little differently</span><span style="s4"> I</span> think<span style="s4"> we won in</span></p>
+<p begin="00:20:42.009" end="00:20:47.590" style="s2">Chicago I&#39;ll answer the<span style="s4"> first</span> half I&#39;m</p>
+<p begin="00:20:46.239" end="00:20:50.769" style="s2">gonna<span style="s3"> have</span><span style="s4"> to</span> good idea you should<span style="s4"> join</span></p>
+<p begin="00:20:47.590" end="00:20:52.330" style="s2">us<span style="s3"> or</span> really<span style="s4"> I think you should</span><span style="s3"> just</span> do</p>
+<p begin="00:20:50.769" end="00:20:56.200" style="s2">it<span style="s3"> I</span> think<span style="s3"> it&#39;s</span> a great<span style="s4"> idea</span> I think</p>
+<p begin="00:20:52.330" end="00:20:57.789" style="s2"><span style="s4">it&#39;s</span> we<span style="s3"> we</span> focused on chance<span style="s3"> because</span><span style="s4"> I</span></p>
+<p begin="00:20:56.200" end="00:21:00.159" style="s2"><span style="s4">think</span> a<span style="s3"> lot</span> of people have trouble<span style="s4"> with</span></p>
+<p begin="00:20:57.789" end="00:21:02.019" style="s2"><span style="s4">that</span><span style="s3"> question</span> like thinking<span style="s3"> about</span> who</p>
+<p begin="00:21:00.159" end="00:21:03.850" style="s2">would be<span style="s4"> a</span><span style="s3"> good</span> mayor<span style="s4"> I</span> think<span style="s4"> also</span> a lot</p>
+<p begin="00:21:02.019" end="00:21:05.980" style="s2">of<span style="s3"> people don&#39;t feel empowered</span><span style="s4"> to</span> answer</p>
+<p begin="00:21:03.850" end="00:21:08.350" style="s2">the question like who would<span style="s3"> be</span> a good</p>
+<p begin="00:21:05.980" end="00:21:10.389" style="s2">mayor<span style="s4"> to</span> so that was one<span style="s4"> thing we were</span></p>
+<p begin="00:21:08.350" end="00:21:13.059" style="s2">trying<span style="s4"> to</span> do with chance he&#39;s like</p>
+<p begin="00:21:10.389" end="00:21:14.769" style="s2">admittedly a kind<span style="s3"> of</span> strange choice or</p>
+<p begin="00:21:13.059" end="00:21:17.710" style="s2">would seem like<span style="s3"> a</span> strange choice to a</p>
+<p begin="00:21:14.769" end="00:21:19.809" style="s2">lot<span style="s3"> of</span> people but we felt like to us he</p>
+<p begin="00:21:17.710" end="00:21:21.639" style="s2">represented<span style="s4"> the things that we cared</span></p>
+<p begin="00:21:19.809" end="00:21:23.470" style="s2">about and that we hoped like<span style="s3"> people</span> who</p>
+<p begin="00:21:21.639" end="00:21:25.269" style="s2">weren&#39;t empowered<span style="s4"> to</span> imagine candidates</p>
+<p begin="00:21:23.470" end="00:21:27.639" style="s2">might care about<span style="s4"> -</span> but I<span style="s3"> like</span> your idea</p>
+<p begin="00:21:25.269" end="00:21:29.559" style="s2">a lot<span style="s3"> I would have a lot</span><span style="s4"> of</span> fun with</p>
+<p begin="00:21:27.639" end="00:21:32.080" style="s2">kind of<span style="s3"> a</span> build your<span style="s4"> own</span> mayor website</p>
+<p begin="00:21:29.559" end="00:21:34.960" style="s2">kind of like<span style="s4"> build-a-bear</span> with a mayor</p>
+<p begin="00:21:32.080" end="00:21:36.399" style="s2"><span style="s4">of</span><span style="s3"> Chicago mr.</span><span style="s4"> potato</span> mr.<span style="s3"> Potato Head it</span></p>
+<p begin="00:21:34.960" end="00:21:38.470" style="s2">reminds me<span style="s3"> a</span> lot of<span style="s3"> what</span> the fantasy</p>
+<p begin="00:21:36.399" end="00:21:40.690" style="s2"><span style="s3">Civic</span> folks are doing<span style="s4"> -</span> so that could be</p>
+<p begin="00:21:38.470" end="00:21:42.999" style="s2"><span style="s4">a</span> fun component of that project<span style="s4"> -</span> but I</p>
+<p begin="00:21:40.690" end="00:21:45.070" style="s2">think<span style="s4"> for</span> the future<span style="s4"> we&#39;re</span> probably</p>
+<p begin="00:21:42.999" end="00:21:47.230" style="s2">going<span style="s3"> to stay constrained to talking</span></p>
+<p begin="00:21:45.070" end="00:21:49.199" style="s2"><span style="s3">about</span> chance<span style="s3"> we</span> also have the URL<span style="s4"> and</span></p>
+<p begin="00:21:47.230" end="00:21:55.479" style="s2">we&#39;d have<span style="s3"> to change the URL</span></p>
+<p begin="00:21:49.199" end="00:21:58.389" style="s2">yeah that&#39;s sorry<span style="s4"> it doesn&#39;t you</span><span style="s3"> guys</span></p>
+<p begin="00:21:55.479" end="00:22:00.459" style="s2">excited<span style="s3"> a lot of like-minded</span> people<span style="s3"> got</span></p>
+<p begin="00:21:58.389" end="00:22:03.489" style="s2">a lot of activity<span style="s3"> monitor</span> going what</p>
+<p begin="00:22:00.459" end="00:22:06.789" style="s2"><span style="s3">about</span> outside of<span style="s3"> that did you</span> kind of</p>
+<p begin="00:22:03.489" end="00:22:10.269" style="s2">hear something<span style="s4"> do</span> you<span style="s3"> wanna</span> grab<span style="s3"> that</span></p>
+<p begin="00:22:06.789" end="00:22:12.279" style="s2"><span style="s3">one</span> well we can I<span style="s4"> think</span><span style="s3"> we</span> can both</p>
+<p begin="00:22:10.269" end="00:22:13.449" style="s2"><span style="s3">answer</span> every question because one we</p>
+<p begin="00:22:12.279" end="00:22:16.089" style="s2">have different<span style="s4"> ideas</span> because<span style="s4"> we&#39;re</span></p>
+<p begin="00:22:13.449" end="00:22:19.559" style="s2">different<span style="s4"> humans</span> but<span style="s4"> I</span> use my<span style="s3"> initial</span></p>
+<p begin="00:22:16.089" end="00:22:23.559" style="s2">times like maybe be like I don&#39;t know</p>
+<p begin="00:22:19.559" end="00:22:25.689" style="s2"><span style="s4">66%</span> of<span style="s3"> people didn&#39;t vote in recent</span></p>
+<p begin="00:22:23.559" end="00:22:27.009" style="s2">Chicago elections<span style="s3"> so</span> maybe the most</p>
+<p begin="00:22:25.689" end="00:22:28.659" style="s2">important<span style="s3"> thing</span> isn&#39;t to<span style="s3"> get</span> through</p>
+<p begin="00:22:27.009" end="00:22:31.329" style="s2">filter bubbles but to activate people</p>
+<p begin="00:22:28.659" end="00:22:32.889" style="s2"><span style="s3">who</span> aren&#39;t engaged or feel<span style="s3"> like</span> it</p>
+<p begin="00:22:31.329" end="00:22:35.379" style="s2">doesn&#39;t<span style="s3"> make</span><span style="s4"> a</span><span style="s3"> difference or their</span></p>
+<p begin="00:22:32.889" end="00:22:37.299" style="s2">imagination isn&#39;t excited by the options</p>
+<p begin="00:22:35.379" end="00:22:38.349" style="s2">on the table<span style="s3"> right</span> now<span style="s3"> but</span> so I don&#39;t</p>
+<p begin="00:22:37.299" end="00:22:40.479" style="s2">know<span style="s3"> that&#39;s</span> kind of where<span style="s4"> my</span> brain is</p>
+<p begin="00:22:38.349" end="00:22:42.219" style="s2">that like so<span style="s3"> I don&#39;t know what about the</span></p>
+<p begin="00:22:40.479" end="00:22:43.989" style="s2">people<span style="s4"> who are</span><span style="s3"> making they&#39;re in the</span></p>
+<p begin="00:22:42.219" end="00:22:45.999" style="s2">bubble of like not<span style="s4"> caring</span> or not feeling</p>
+<p begin="00:22:43.989" end="00:22:47.769" style="s2">empowered<span style="s3"> so</span> I don&#39;t know<span style="s4"> that&#39;s</span><span style="s3"> kind of</span></p>
+<p begin="00:22:45.999" end="00:22:49.449" style="s2">bubble I think<span style="s4"> we&#39;re</span><span style="s3"> going</span> for<span style="s3"> yeah I</span></p>
+<p begin="00:22:47.769" end="00:22:51.879" style="s2"><span style="s3">think</span> when I<span style="s4"> think</span> about filter bubbles</p>
+<p begin="00:22:49.449" end="00:22:54.039" style="s2">I think about like Chicago being the</p>
+<p begin="00:22:51.879" end="00:22:56.529" style="s2">most segregated Sin City in the<span style="s3"> country</span></p>
+<p begin="00:22:54.039" end="00:22:59.529" style="s2">by a lot<span style="s4"> of</span> measures and I don&#39;t<span style="s4"> know</span> if</p>
+<p begin="00:22:56.529" end="00:23:01.659" style="s2">we did anything to like success in any</p>
+<p begin="00:22:59.529" end="00:23:04.179" style="s2">way I don&#39;t<span style="s4"> know we will in the future</span></p>
+<p begin="00:23:01.659" end="00:23:05.979" style="s2">but I think<span style="s4"> that</span> is<span style="s3"> something</span> that<span style="s3"> I&#39;ll</span></p>
+<p begin="00:23:04.179" end="00:23:08.619" style="s2">be thinking<span style="s4"> about</span><span style="s3"> a</span> lot going<span style="s4"> into</span> next</p>
+<p begin="00:23:05.979" end="00:23:12.239" style="s2">year and<span style="s3"> going</span> into 2019 is like what</p>
+<p begin="00:23:08.619" end="00:23:14.289" style="s2">would<span style="s3"> it take to build a movement</span><span style="s4"> that</span></p>
+<p begin="00:23:12.239" end="00:23:16.059" style="s2">crossed what I think<span style="s3"> that</span> was the</p>
+<p begin="00:23:14.289" end="00:23:18.509" style="s2">biggest filter bubble boundary in</p>
+<p begin="00:23:16.059" end="00:23:20.559" style="s2">Chicago<span style="s3"> which</span> is<span style="s4"> the</span> race boundary</p>
+<p begin="00:23:18.509" end="00:23:22.509" style="s2">thinking a lot about<span style="s3"> like</span> Harold</p>
+<p begin="00:23:20.559" end="00:23:25.569" style="s2">Washington in that effort<span style="s4"> to</span><span style="s3"> and</span> our</p>
+<p begin="00:23:22.509" end="00:23:26.889" style="s2">legacy<span style="s4"> of</span> race and Chicago politics<span style="s3"> so</span> I</p>
+<p begin="00:23:25.569" end="00:23:28.539" style="s2">don&#39;t know if I<span style="s4"> directly</span> answered your</p>
+<p begin="00:23:26.889" end="00:23:33.219" style="s2">question but<span style="s4"> it&#39;s</span> what what I think</p>
+<p begin="00:23:28.539" end="00:23:35.289" style="s2"><span style="s3">about</span><span style="s4"> Thanks</span> hey um yeah<span style="s3"> here</span> uh<span style="s3"> you</span></p>
+<p begin="00:23:33.219" end="00:23:38.289" style="s2">talked about<span style="s3"> I</span> mean<span style="s4"> you guys said that</span></p>
+<p begin="00:23:35.289" end="00:23:40.209" style="s2"><span style="s3">you didn&#39;t meet chance unfortunately</span> but</p>
+<p begin="00:23:38.289" end="00:23:42.749" style="s2">do you know if chance knows about this</p>
+<p begin="00:23:40.209" end="00:23:45.669" style="s2">at all</p>
+<p begin="00:23:42.749" end="00:23:48.729" style="s2">that&#39;s a good question do you<span style="s4"> know</span> Alex</p>
+<p begin="00:23:45.669" end="00:23:51.699" style="s2"><span style="s4">well</span> he responded<span style="s3"> to</span> Drake&#39;s<span style="s3"> tweet yeah</span></p>
+<p begin="00:23:48.729" end="00:23:54.939" style="s2">yeah I think<span style="s3"> I</span> mean yeah I think<span style="s3"> so</span></p>
+<p begin="00:23:51.699" end="00:23:58.209" style="s2"><span style="s4">because</span> he responded so Drake<span style="s3"> so</span> here&#39;s</p>
+<p begin="00:23:54.939" end="00:24:00.999" style="s2">here&#39;s how wet okay so TMZ I think put</p>
+<p begin="00:23:58.209" end="00:24:03.159" style="s2">the mic in front<span style="s4"> of</span> Drake and Drake said</p>
+<p begin="00:24:00.999" end="00:24:05.289" style="s2"><span style="s3">to</span> be a good mayor and then<span style="s3"> TMZ</span> tweeted</p>
+<p begin="00:24:03.159" end="00:24:07.419" style="s2">that<span style="s3"> and</span> then Drake on Twitter said<span style="s3"> yeah</span></p>
+<p begin="00:24:05.289" end="00:24:09.309" style="s2">a chance for mayor and chance<span style="s4"> at</span> the</p>
+<p begin="00:24:07.419" end="00:24:12.549" style="s2">Drake<span style="s3"> and</span> not<span style="s3"> running things I&#39;m not</span></p>
+<p begin="00:24:09.309" end="00:24:14.949" style="s2">really<span style="s4"> I&#39;m</span><span style="s3"> running</span> out<span style="s3"> okay so we think</span></p>
+<p begin="00:24:12.549" end="00:24:17.079" style="s2"><span style="s3">he</span> knows but you know he has he has</p>
+<p begin="00:24:14.949" end="00:24:18.789" style="s2"><span style="s3">bigger</span> priorities to<span style="s4"> be</span> fair<span style="s3"> like</span> I</p>
+<p begin="00:24:17.079" end="00:24:20.739" style="s2">would<span style="s3"> rather</span> him<span style="s3"> work</span> on<span style="s3"> his music and</span></p>
+<p begin="00:24:18.789" end="00:24:22.809" style="s2">his activism<span style="s4"> saying oh I didn&#39;t want you</span></p>
+<p begin="00:24:20.739" end="00:24:26.499" style="s2"><span style="s4">to mention but honestly he&#39;s my neighbor</span></p>
+<p begin="00:24:22.809" end="00:24:28.229" style="s2"><span style="s4">so</span> I could keep you<span style="s4"> in</span><span style="s3"> judge CP</span><span style="s4"> that&#39;s</span></p>
+<p begin="00:24:26.499" end="00:24:31.209" style="s2">cool</p>
+<p begin="00:24:28.229" end="00:24:32.769" style="s2"><span style="s3">invited</span><span style="s4"> environment</span> really really<span style="s3"> yes</span> so</p>
+<p begin="00:24:31.209" end="00:24:34.449" style="s2"><span style="s4">curious</span> where<span style="s3"> he</span> lives<span style="s3"> but</span> I don&#39;t want</p>
+<p begin="00:24:32.769" end="00:24:37.059" style="s2">to put<span style="s3"> him on blast</span><span style="s4"> so</span> we should talk</p>
+<p begin="00:24:34.449" end="00:24:39.579" style="s2">I&#39;m<span style="s3"> gonna</span> tell you<span style="s3"> it</span> other words<span style="s4"> I&#39;m</span></p>
+<p begin="00:24:37.059" end="00:24:42.339" style="s2"><span style="s3">not</span> kidding he really is<span style="s4"> my</span> neighbor so</p>
+<p begin="00:24:39.579" end="00:24:44.909" style="s2">that&#39;s very<span style="s3"> I</span> think<span style="s4"> that</span> he nobody</p>
+<p begin="00:24:42.339" end="00:24:46.779" style="s2">tweets<span style="s3"> it</span> by the way<span style="s4"> though was he</span> bad</p>
+<p begin="00:24:44.909" end="00:24:51.639" style="s2"><span style="s3">we</span> know where he<span style="s3"> lives</span></p>
+<p begin="00:24:46.779" end="00:24:52.809" style="s2"><span style="s3">no</span> I I don&#39;t<span style="s4"> think</span><span style="s3"> that</span> he it&#39;s<span style="s4"> also</span></p>
+<p begin="00:24:51.639" end="00:24:55.449" style="s2"><span style="s4">complicated</span> because<span style="s3"> he&#39;s</span> in this</p>
+<p begin="00:24:52.809" end="00:24:58.539" style="s2"><span style="s4">position</span><span style="s3"> where</span> like his dad was chief of</p>
+<p begin="00:24:55.449" end="00:25:01.059" style="s2"><span style="s4">staff</span> I think<span style="s4"> for</span> Rahm<span style="s3"> Emanuel he worked</span></p>
+<p begin="00:24:58.539" end="00:25:03.009" style="s2">in city<span style="s4"> government</span> for<span style="s3"> a</span><span style="s4"> long</span> time so</p>
+<p begin="00:25:01.059" end="00:25:04.899" style="s2">he&#39;s like he has<span style="s3"> his</span> own<span style="s3"> kind</span> of like</p>
+<p begin="00:25:03.009" end="00:25:06.699" style="s2">political<span style="s3"> relationships</span> with the city</p>
+<p begin="00:25:04.899" end="00:25:08.949" style="s2">and he&#39;s been very<span style="s3"> careful</span><span style="s4"> about</span></p>
+<p begin="00:25:06.699" end="00:25:11.229" style="s2">maintaining<span style="s3"> kind</span> of like neutrality</p>
+<p begin="00:25:08.949" end="00:25:13.089" style="s2">around there so I don&#39;t<span style="s4"> know</span> if he&#39;s<span style="s3"> in</span></p>
+<p begin="00:25:11.229" end="00:25:14.619" style="s2">a position<span style="s3"> to</span> acknowledge the campaign</p>
+<p begin="00:25:13.089" end="00:25:16.359" style="s2">really<span style="s3"> at</span><span style="s4"> all</span><span style="s3"> but</span> I would<span style="s3"> be</span> so</p>
+<p begin="00:25:14.619" end="00:25:19.029" style="s2">surprised if you didn&#39;t know<span style="s3"> you</span> know</p>
+<p begin="00:25:16.359" end="00:25:22.839" style="s2">like when when Drake speaks the world</p>
+<p begin="00:25:19.029" end="00:25:25.059" style="s2"><span style="s4">turns</span> so we<span style="s4"> got</span> a question<span style="s3"> on</span> the<span style="s3"> the</span></p>
+<p begin="00:25:22.839" end="00:25:26.679" style="s2">Google slides<span style="s3"> here</span><span style="s4"> that</span> was can you talk</p>
+<p begin="00:25:25.059" end="00:25:28.449" style="s2">more about the<span style="s4"> process</span> for crafting a</p>
+<p begin="00:25:26.679" end="00:25:29.889" style="s2">narrative around<span style="s3"> the</span> project<span style="s3"> what</span> were</p>
+<p begin="00:25:28.449" end="00:25:32.109" style="s2">some concepts<span style="s4"> and</span> narratives that you</p>
+<p begin="00:25:29.889" end="00:25:34.389" style="s2">decided<span style="s4"> not</span> to include<span style="s3"> and</span> I can just</p>
+<p begin="00:25:32.109" end="00:25:37.149" style="s2"><span style="s3">jump really quickly on this</span><span style="s4"> one</span> thing</p>
+<p begin="00:25:34.389" end="00:25:39.729" style="s2">they came<span style="s3"> up</span> a lot was we we had a<span style="s3"> lot</span></p>
+<p begin="00:25:37.149" end="00:25:40.809" style="s2">of negative<span style="s4"> feelings</span> going<span style="s3"> into</span> it<span style="s3"> and</span> a</p>
+<p begin="00:25:39.729" end="00:25:42.399" style="s2"><span style="s4">lot</span> of what we talked about<span style="s3"> initially</span></p>
+<p begin="00:25:40.809" end="00:25:44.829" style="s2"><span style="s3">was</span> everything that<span style="s4"> we</span> felt was really</p>
+<p begin="00:25:42.399" end="00:25:46.839" style="s2"><span style="s3">wrong</span> with the city<span style="s3"> but we made a pretty</span></p>
+<p begin="00:25:44.829" end="00:25:48.849" style="s2">conscious decision to<span style="s3"> keep</span> that limited</p>
+<p begin="00:25:46.839" end="00:25:52.569" style="s2">to also keep it to make it not about</p>
+<p begin="00:25:48.849" end="00:25:54.489" style="s2"><span style="s3">like an an anti Rahm</span> Emanuel site<span style="s3"> to</span></p>
+<p begin="00:25:52.569" end="00:25:56.019" style="s2">make it<span style="s3"> more about kind of our</span> hopes and</p>
+<p begin="00:25:54.489" end="00:25:59.139" style="s2"><span style="s4">dreams</span> for<span style="s4"> what</span> the<span style="s3"> city of Chicago</span></p>
+<p begin="00:25:56.019" end="00:26:00.819" style="s2">could be do you<span style="s4"> want to okay I like</span></p>
+<p begin="00:25:59.139" end="00:26:03.989" style="s2"><span style="s3">wasn&#39;t going to add on to that</span><span style="s4"> but</span> yeah</p>
+<p begin="00:26:00.819" end="00:26:07.239" style="s2"><span style="s4">it&#39;s</span> the first<span style="s3"> thing</span> I think yeah um<span style="s4"> I</span></p>
+<p begin="00:26:03.989" end="00:26:09.819" style="s2">want to try to get<span style="s3"> as</span> nerdy as possible</p>
+<p begin="00:26:07.239" end="00:26:11.619" style="s2">with<span style="s3"> this</span> project<span style="s4"> so you guys mentioned</span></p>
+<p begin="00:26:09.819" end="00:26:12.879" style="s2">how like the Twitter bot you spend a lot</p>
+<p begin="00:26:11.619" end="00:26:14.980" style="s2"><span style="s4">of</span> time<span style="s4"> building</span> it<span style="s3"> and</span> you didn&#39;t get</p>
+<p begin="00:26:12.879" end="00:26:16.510" style="s2">as much response but<span style="s3"> you guys</span></p>
+<p begin="00:26:14.980" end="00:26:18.370" style="s2">a lot of good media<span style="s4"> responds</span> and<span style="s3"> I</span> was</p>
+<p begin="00:26:16.510" end="00:26:22.150" style="s2"><span style="s3">curious if you</span> guys<span style="s3"> did</span> any tracking<span style="s3"> of</span></p>
+<p begin="00:26:18.370" end="00:26:23.320" style="s2">like page<span style="s4"> views</span><span style="s3"> or click views</span><span style="s4"> whether</span></p>
+<p begin="00:26:22.150" end="00:26:25.720" style="s2"><span style="s3">or</span> not there was like a<span style="s3"> feedback</span> loop</p>
+<p begin="00:26:23.320" end="00:26:27.429" style="s2"><span style="s4">between</span> media<span style="s4"> and</span> then people<span style="s4"> actually</span></p>
+<p begin="00:26:25.720" end="00:26:29.380" style="s2">visiting the site<span style="s3"> and maybe looking</span></p>
+<p begin="00:26:27.429" end="00:26:31.299" style="s2"><span style="s3">spending time</span><span style="s4"> and</span> like reading the</p>
+<p begin="00:26:29.380" end="00:26:33.549" style="s2">narrative<span style="s3"> art</span> that you guys wrote<span style="s4"> or</span> if</p>
+<p begin="00:26:31.299" end="00:26:34.780" style="s2">it was<span style="s3"> more</span> like the media<span style="s3"> looking at</span></p>
+<p begin="00:26:33.549" end="00:26:36.400" style="s2">this website thinking it looks pretty</p>
+<p begin="00:26:34.780" end="00:26:38.110" style="s2">legit and kind<span style="s4"> of</span> just putting this</p>
+<p begin="00:26:36.400" end="00:26:41.049" style="s2">story<span style="s3"> out</span> so I wonder if<span style="s3"> you guys got</span></p>
+<p begin="00:26:38.110" end="00:26:43.330" style="s2"><span style="s3">any</span><span style="s4"> like</span> analytics<span style="s4"> on like the behavior</span></p>
+<p begin="00:26:41.049" end="00:26:45.280" style="s2"><span style="s4">of</span><span style="s3"> like</span> how people<span style="s3"> use</span> the site and<span style="s3"> and</span></p>
+<p begin="00:26:43.330" end="00:26:47.020" style="s2"><span style="s3">how that may be</span><span style="s4"> related</span> to media</p>
+<p begin="00:26:45.280" end="00:26:49.240" style="s2"><span style="s4">coverage</span> or not<span style="s4"> yeah</span> that&#39;s a great</p>
+<p begin="00:26:47.020" end="00:26:52.990" style="s2">question we did<span style="s3"> collect</span> a lot of<span style="s3"> events</span></p>
+<p begin="00:26:49.240" end="00:26:54.940" style="s2">through<span style="s4"> Piwik</span> and<span style="s4"> Khalil</span> set that up<span style="s3"> we</span></p>
+<p begin="00:26:52.990" end="00:26:56.770" style="s2">haven&#39;t<span style="s3"> actually dug into it</span> yet but it</p>
+<p begin="00:26:54.940" end="00:26:57.760" style="s2">is<span style="s4"> on our</span><span style="s3"> list</span> to kind of go through<span style="s3"> and</span></p>
+<p begin="00:26:56.770" end="00:27:00.610" style="s2"><span style="s3">try</span> to figure out some<span style="s3"> of</span> those</p>
+<p begin="00:26:57.760" end="00:27:03.309" style="s2">questions because<span style="s4"> I think yeah there</span></p>
+<p begin="00:27:00.610" end="00:27:04.990" style="s2"><span style="s4">could</span> be a whole<span style="s4"> whole</span> treasure trove of</p>
+<p begin="00:27:03.309" end="00:27:08.830" style="s2"><span style="s4">information</span> in there<span style="s4"> about</span> what<span style="s4"> is</span></p>
+<p begin="00:27:04.990" end="00:27:10.870" style="s2"><span style="s3">successful</span><span style="s4"> I</span> was<span style="s3"> just</span> curious about<span style="s3"> the</span></p>
+<p begin="00:27:08.830" end="00:27:13.240" style="s2">choice of<span style="s3"> twitter</span> is like<span style="s4"> the</span> primary</p>
+<p begin="00:27:10.870" end="00:27:14.290" style="s2"><span style="s3">platform to kind</span><span style="s4"> of</span> engage people<span style="s4"> I</span> know</p>
+<p begin="00:27:13.240" end="00:27:16.270" style="s2">you<span style="s3"> guys</span> were worried about abuse and</p>
+<p begin="00:27:14.290" end="00:27:17.919" style="s2"><span style="s3">stuff</span> but like was it mostly</p>
+<p begin="00:27:16.270" end="00:27:20.980" style="s2">constructive did you guys like find</p>
+<p begin="00:27:17.919" end="00:27:24.280" style="s2">other channels or other like platforms</p>
+<p begin="00:27:20.980" end="00:27:26.590" style="s2">to really push it<span style="s3"> on</span> like was it you</p>
+<p begin="00:27:24.280" end="00:27:31.570" style="s2">know<span style="s3"> received</span> in<span style="s4"> Mass</span> or<span style="s3"> the</span> volume<span style="s3"> you</span></p>
+<p begin="00:27:26.590" end="00:27:33.010" style="s2">expected<span style="s4"> I</span> mean<span style="s3"> from my point</span> of view</p>
+<p begin="00:27:31.570" end="00:27:34.929" style="s2"><span style="s3">Twitter</span> is kind of<span style="s4"> natural</span> because</p>
+<p begin="00:27:33.010" end="00:27:37.419" style="s2"><span style="s3">that&#39;s</span> where the<span style="s4"> hashtag</span> started and</p>
+<p begin="00:27:34.929" end="00:27:39.910" style="s2">that&#39;s<span style="s3"> where</span> I first<span style="s3"> saw</span><span style="s4"> that</span> kind<span style="s3"> of</span></p>
+<p begin="00:27:37.419" end="00:27:42.400" style="s2"><span style="s4">premier</span> hashtag so that seemed to make</p>
+<p begin="00:27:39.910" end="00:27:44.200" style="s2">sense<span style="s4"> and</span> I don&#39;t<span style="s4"> know</span> I think<span style="s4"> Twitter</span></p>
+<p begin="00:27:42.400" end="00:27:47.350" style="s2">is<span style="s3"> actually</span> like a<span style="s3"> really</span> amazing space</p>
+<p begin="00:27:44.200" end="00:27:51.190" style="s2">for talking about both politics and</p>
+<p begin="00:27:47.350" end="00:27:53.190" style="s2"><span style="s3">technology and music</span><span style="s4"> and</span> this was all</p>
+<p begin="00:27:51.190" end="00:27:55.600" style="s2">three so<span style="s4"> it&#39;s</span> just<span style="s3"> seemed</span> to make sense</p>
+<p begin="00:27:53.190" end="00:27:58.480" style="s2"><span style="s3">it</span> was something we were familiar with</p>
+<p begin="00:27:55.600" end="00:27:59.860" style="s2"><span style="s3">too</span> and I think<span style="s4"> if</span> we had like if this</p>
+<p begin="00:27:58.480" end="00:28:01.390" style="s2">were a real campaign<span style="s3"> we</span> would probably</p>
+<p begin="00:27:59.860" end="00:28:03.940" style="s2"><span style="s3">have</span><span style="s4"> to</span> think<span style="s4"> more</span> seriously about</p>
+<p begin="00:28:01.390" end="00:28:05.500" style="s2"><span style="s3">expanding across platforms would have</span></p>
+<p begin="00:28:03.940" end="00:28:07.540" style="s2">made a lot of sense<span style="s4"> to</span> do stuff<span style="s3"> with</span></p>
+<p begin="00:28:05.500" end="00:28:10.030" style="s2">snapchat<span style="s4"> to</span> be honest<span style="s3"> like especially</span></p>
+<p begin="00:28:07.540" end="00:28:12.179" style="s2"><span style="s3">considering</span> that<span style="s4"> like</span><span style="s3"> working</span> with<span style="s3"> young</span></p>
+<p begin="00:28:10.030" end="00:28:15.190" style="s2"><span style="s4">people</span> is so important to us and it&#39;s</p>
+<p begin="00:28:12.179" end="00:28:16.960" style="s2"><span style="s4">just</span> like old<span style="s4"> twitter</span><span style="s3"> is</span> mostly old</p>
+<p begin="00:28:15.190" end="00:28:18.850" style="s2"><span style="s4">people</span> it seems like that&#39;s<span style="s4"> actually</span> my</p>
+<p begin="00:28:16.960" end="00:28:21.370" style="s2">my anecdotal feeling and I don&#39;t don&#39;t</p>
+<p begin="00:28:18.850" end="00:28:23.559" style="s2">quote me on that<span style="s3"> but</span> it feels<span style="s3"> like</span> a</p>
+<p begin="00:28:21.370" end="00:28:25.000" style="s2">little<span style="s4"> bit of an older platform</span><span style="s3"> so</span> it&#39;s</p>
+<p begin="00:28:23.559" end="00:28:26.380" style="s2">true that<span style="s4"> there&#39;s</span> kind<span style="s4"> of</span><span style="s3"> an</span><span style="s4"> interesting</span></p>
+<p begin="00:28:25.000" end="00:28:28.300" style="s2">tension there between<span style="s3"> that&#39;s like</span></p>
+<p begin="00:28:26.380" end="00:28:30.310" style="s2">choosing<span style="s3"> Twitter</span> but being really</p>
+<p begin="00:28:28.300" end="00:28:32.040" style="s2">more interested in<span style="s3"> young</span> people and<span style="s3"> I</span></p>
+<p begin="00:28:30.310" end="00:28:34.960" style="s2">think<span style="s4"> it</span> could have<span style="s3"> been</span> an interesting</p>
+<p begin="00:28:32.040" end="00:28:37.000" style="s2"><span style="s3">different</span> take to like go<span style="s3"> to</span> Instagram</p>
+<p begin="00:28:34.960" end="00:28:39.820" style="s2">and snapchat first as like our primary</p>
+<p begin="00:28:37.000" end="00:28:41.760" style="s2">social<span style="s3"> media</span> of the drivers<span style="s4"> I</span> think we</p>
+<p begin="00:28:39.820" end="00:28:44.170" style="s2">have time for<span style="s3"> one</span> more question</p>
+<p begin="00:28:41.760" end="00:28:45.850" style="s2">you also have a question<span style="s4"> that&#39;s</span> in<span style="s3"> the</span></p>
+<p begin="00:28:44.170" end="00:28:48.070" style="s2"><span style="s4">chat</span> here that we could give the last</p>
+<p begin="00:28:45.850" end="00:28:49.840" style="s2">one<span style="s4"> so</span> now that you&#39;ve created</p>
+<p begin="00:28:48.070" end="00:28:52.120" style="s2">amplified this movement<span style="s3"> are</span> there any</p>
+<p begin="00:28:49.840" end="00:28:54.610" style="s2">plans<span style="s3"> to</span> use<span style="s3"> its power or does</span><span style="s4"> it</span> end</p>
+<p begin="00:28:52.120" end="00:28:58.300" style="s2">with<span style="s4"> chants</span> saying no what do you<span style="s3"> think</span></p>
+<p begin="00:28:54.610" end="00:29:01.060" style="s2"><span style="s4">Alex</span><span style="s3"> we</span> do have plans to use its<span style="s3"> power</span></p>
+<p begin="00:28:58.300" end="00:29:04.480" style="s2"><span style="s3">so you&#39;ll have</span> good follow</p>
+<p begin="00:29:01.060" end="00:29:06.760" style="s2"><span style="s4">Shanno</span><span style="s3"> to</span><span style="s4"> K</span> 2019 Jennifer Mayer chicken</p>
+<p begin="00:29:04.480" end="00:29:10.240" style="s2">yeah you have<span style="s3"> to</span> follow us on<span style="s3"> Twitter</span></p>
+<p begin="00:29:06.760" end="00:29:13.060" style="s2">and and our perhaps<span style="s4"> soon-to-be</span> not</p>
+<p begin="00:29:10.240" end="00:29:15.760" style="s2">snapchat Instagram account - you will</p>
+<p begin="00:29:13.060" end="00:29:16.840" style="s2">stay afloat with<span style="s4"> in lettuce news because</span></p>
+<p begin="00:29:15.760" end="00:29:19.120" style="s2">who knows what could happen</p>
+<p begin="00:29:16.840" end="00:29:21.540" style="s2"><span style="s4">it&#39;s a crazy time</span><span style="s3"> yes</span> cool thanks</p>
+<p begin="00:29:19.120" end="00:29:29.849" style="s2">everyone<span style="s4"> Thanks</span></p>
+<p begin="00:29:21.540" end="00:29:29.849" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

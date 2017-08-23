@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.790" end="00:00:09.330" style="s2">okay so I&#39;m Nick<span style="s3"> Doran when we talking</span></p>
+<p begin="00:00:07.440" end="00:00:11.250" style="s2"><span style="s4">say</span><span style="s3"> about</span> fighting gerrymandering in</p>
+<p begin="00:00:09.330" end="00:00:12.809" style="s2">2020<span style="s3"> and</span> we&#39;re going to<span style="s3"> start</span> talking</p>
+<p begin="00:00:11.250" end="00:00:16.859" style="s2"><span style="s4">about</span> it today<span style="s4"> even though it&#39;s the year</span></p>
+<p begin="00:00:12.809" end="00:00:19.650" style="s2">2017<span style="s4"> I</span> have a bunch of different<span style="s4"> jobs</span></p>
+<p begin="00:00:16.859" end="00:00:20.789" style="s2"><span style="s3">but</span> in the when I was<span style="s3"> attending the</span></p>
+<p begin="00:00:19.650" end="00:00:22.710" style="s2">conference</p>
+<p begin="00:00:20.789" end="00:00:24.570" style="s2">I was acting sort<span style="s3"> of just a</span> private</p>
+<p begin="00:00:22.710" end="00:00:25.800" style="s2"><span style="s4">citizen not as my employer</span><span style="s3"> and</span><span style="s4"> I&#39;m</span> not</p>
+<p begin="00:00:24.570" end="00:00:27.720" style="s2">like officially speaking for the</p>
+<p begin="00:00:25.800" end="00:00:29.849" style="s2">conference<span style="s3"> today</span><span style="s4"> but</span><span style="s3"> more</span> like a report</p>
+<p begin="00:00:27.720" end="00:00:31.439" style="s2">on what we saw there what we&#39;re working</p>
+<p begin="00:00:29.849" end="00:00:34.500" style="s2"><span style="s3">on</span> and<span style="s4"> trying</span> to spread<span style="s4"> the</span><span style="s3"> word</span> about</p>
+<p begin="00:00:31.439" end="00:00:35.370" style="s2">this particular group<span style="s4"> so</span> a little<span style="s3"> bit</span></p>
+<p begin="00:00:34.500" end="00:00:38.219" style="s2"><span style="s3">more</span> about me</p>
+<p begin="00:00:35.370" end="00:00:40.500" style="s2">in 2012<span style="s4"> I</span> joined a<span style="s4"> little</span> group<span style="s4"> called</span></p>
+<p begin="00:00:38.219" end="00:00:44.100" style="s2">Code for America<span style="s3"> did</span> like<span style="s4"> fellowship</span></p>
+<p begin="00:00:40.500" end="00:00:48.870" style="s2">with them after that I<span style="s3"> worked</span><span style="s4"> with</span> the</p>
+<p begin="00:00:44.100" end="00:00:52.920" style="s2">city of<span style="s3"> Boston GIS data made and civis</span></p>
+<p begin="00:00:48.870" end="00:00:55.680" style="s2">analytics here<span style="s3"> in</span> Chicago<span style="s3"> and</span> about a</p>
+<p begin="00:00:52.920" end="00:00:57.989" style="s2">year<span style="s4"> ago as here talking about</span><span style="s3"> a</span> project</p>
+<p begin="00:00:55.680" end="00:01:00.629" style="s2"><span style="s3">that</span> we<span style="s3"> did</span> in Myanmar about their</p>
+<p begin="00:00:57.989" end="00:01:04.019" style="s2">election and while I was<span style="s4"> working</span> on<span style="s4"> that</span></p>
+<p begin="00:01:00.629" end="00:01:07.290" style="s2"><span style="s3">little</span><span style="s4"> did</span> I know<span style="s3"> another</span> democracy a</p>
+<p begin="00:01:04.019" end="00:01:11.970" style="s2">little bit closer to<span style="s3"> home was also</span><span style="s4"> in</span></p>
+<p begin="00:01:07.290" end="00:01:16.189" style="s2">peril<span style="s4"> so</span> I&#39;m going<span style="s3"> to</span> be<span style="s4"> talking</span> about</p>
+<p begin="00:01:11.970" end="00:01:19.500" style="s2"><span style="s3">this</span> new very new group called<span style="s3"> mggg</span></p>
+<p begin="00:01:16.189" end="00:01:22.979" style="s2"><span style="s3">metric</span> geometry and gerrymandering group</p>
+<p begin="00:01:19.500" end="00:01:26.330" style="s2"><span style="s4">I</span> ought to name<span style="s4"> often</span> so I usually</p>
+<p begin="00:01:22.979" end="00:01:29.159" style="s2"><span style="s4">Google toughs gerrymandering</span><span style="s3"> because</span></p>
+<p begin="00:01:26.330" end="00:01:30.750" style="s2">Tufts University was helping to<span style="s3"> organize</span></p>
+<p begin="00:01:29.159" end="00:01:33.450" style="s2">and there&#39;s some articles<span style="s3"> about</span><span style="s4"> it</span> you</p>
+<p begin="00:01:30.750" end="00:01:36.869" style="s2"><span style="s4">Google</span><span style="s3"> and</span> all the videos<span style="s4"> that</span> happen at</p>
+<p begin="00:01:33.450" end="00:01:38.759" style="s2">this<span style="s3"> conference</span> including real experts</p>
+<p begin="00:01:36.869" end="00:01:41.850" style="s2">in<span style="s3"> each one of</span> the<span style="s3"> topics</span><span style="s4"> that</span> I&#39;ll talk</p>
+<p begin="00:01:38.759" end="00:01:44.759" style="s2"><span style="s3">about</span> today<span style="s4"> the</span> videos<span style="s3"> are</span> on<span style="s3"> YouTube</span> so</p>
+<p begin="00:01:41.850" end="00:01:46.850" style="s2">if you want to<span style="s3"> view</span> that<span style="s3"> that&#39;s</span> cool if</p>
+<p begin="00:01:44.759" end="00:01:49.860" style="s2">you feel like oh no I<span style="s3"> missed</span> this event</p>
+<p begin="00:01:46.850" end="00:01:52.920" style="s2"><span style="s3">there&#39;s</span> going to be a similar<span style="s3"> one in</span></p>
+<p begin="00:01:49.860" end="00:01:55.070" style="s2"><span style="s3">October very close to here at</span><span style="s4"> U</span></p>
+<p begin="00:01:52.920" end="00:01:58.649" style="s2"><span style="s3">University</span> Wisconsin<span style="s4"> in</span> Madison</p>
+<p begin="00:01:55.070" end="00:02:03.240" style="s2"><span style="s3">registration is open so put on a</span> coat go</p>
+<p begin="00:01:58.649" end="00:02:04.740" style="s2">up to Wisconsin<span style="s4"> take</span><span style="s3"> this</span> event well if</p>
+<p begin="00:02:03.240" end="00:02:05.729" style="s2">you&#39;re not<span style="s3"> interested</span><span style="s4"> in</span> gerrymandering</p>
+<p begin="00:02:04.740" end="00:02:07.079" style="s2">yet and you&#39;re<span style="s3"> curious</span> about it</p>
+<p begin="00:02:05.729" end="00:02:10.590" style="s2"><span style="s4">hopefully</span> by the end of<span style="s3"> the talks you&#39;ll</span></p>
+<p begin="00:02:07.079" end="00:02:12.330" style="s2">be interested<span style="s3"> in going to this so what</span></p>
+<p begin="00:02:10.590" end="00:02:13.980" style="s2"><span style="s3">are</span> we even<span style="s3"> talking</span> about<span style="s3"> right</span><span style="s4"> now</span></p>
+<p begin="00:02:12.330" end="00:02:17.700" style="s2">so gerrymander</p>
+<p begin="00:02:13.980" end="00:02:18.840" style="s2">is this<span style="s3"> problem</span><span style="s4"> that</span> involves<span style="s3"> three</span> the</p>
+<p begin="00:02:17.700" end="00:02:22.709" style="s2">three<span style="s3"> different</span> branches<span style="s4"> of</span> government</p>
+<p begin="00:02:18.840" end="00:02:25.050" style="s2"><span style="s3">right</span><span style="s4"> and</span><span style="s3"> Pennsylvania I use is a good</span></p>
+<p begin="00:02:22.709" end="00:02:27.720" style="s2"><span style="s4">example</span> of this<span style="s4"> because</span> as close as you</p>
+<p begin="00:02:25.050" end="00:02:32.239" style="s2">can get<span style="s4"> to one-half Republican one-half</span></p>
+<p begin="00:02:27.720" end="00:02:35.010" style="s2">Democrat and in<span style="s3"> 2016</span><span style="s4"> people</span><span style="s3"> voted</span> for</p>
+<p begin="00:02:32.239" end="00:02:37.230" style="s2">members<span style="s4"> of Congress and a slight</span></p>
+<p begin="00:02:35.010" end="00:02:40.440" style="s2">majority<span style="s4"> voted</span> for a Republican<span style="s4"> member</span></p>
+<p begin="00:02:37.230" end="00:02:42.810" style="s2">and a slight minority voted for a</p>
+<p begin="00:02:40.440" end="00:02:45.269" style="s2"><span style="s3">Democratic</span> member but the<span style="s3"> number</span> of</p>
+<p begin="00:02:42.810" end="00:02:46.590" style="s2"><span style="s3">seats</span><span style="s4"> that</span> went to Republicans was</p>
+<p begin="00:02:45.269" end="00:02:50.220" style="s2"><span style="s3">thirteen</span><span style="s4"> and</span><span style="s3"> the</span> number of seats<span style="s3"> that</span></p>
+<p begin="00:02:46.590" end="00:02:53.450" style="s2"><span style="s3">went</span> to Democrats was five<span style="s3"> and</span> so this</p>
+<p begin="00:02:50.220" end="00:02:56.970" style="s2">is the map<span style="s4"> that</span> resulted<span style="s4"> from</span> that and</p>
+<p begin="00:02:53.450" end="00:02:59.340" style="s2">this isn&#39;t<span style="s4"> really</span> like<span style="s3"> illegal or</span></p>
+<p begin="00:02:56.970" end="00:03:01.620" style="s2">unconstitutional anyway because the u.s.</p>
+<p begin="00:02:59.340" end="00:03:03.390" style="s2"><span style="s3">is not proportional it&#39;s not like sixty</span></p>
+<p begin="00:03:01.620" end="00:03:07.830" style="s2">percent forty percent<span style="s3"> and</span> then we<span style="s4"> choose</span></p>
+<p begin="00:03:03.390" end="00:03:09.930" style="s2"><span style="s4">the</span><span style="s3"> representatives</span><span style="s4"> in</span> so it&#39;s not<span style="s4"> just</span></p>
+<p begin="00:03:07.830" end="00:03:12.630" style="s2">designed to<span style="s3"> be</span> proportional<span style="s4"> but</span> why is</p>
+<p begin="00:03:09.930" end="00:03:16.799" style="s2">the difference<span style="s4"> so big from fifty-fifty</span></p>
+<p begin="00:03:12.630" end="00:03:20.010" style="s2"><span style="s4">to</span> 13 to<span style="s4"> 5</span> and it&#39;s deliberately drawn</p>
+<p begin="00:03:16.799" end="00:03:22.350" style="s2">that way<span style="s3"> representatives when they&#39;re in</span></p>
+<p begin="00:03:20.010" end="00:03:24.329" style="s2">power<span style="s3"> especially</span> when one party has<span style="s3"> all</span></p>
+<p begin="00:03:22.350" end="00:03:27.120" style="s2">the houses and<span style="s4"> the</span> both houses<span style="s3"> in</span> the</p>
+<p begin="00:03:24.329" end="00:03:29.310" style="s2">governor&#39;s office<span style="s3"> they&#39;ll</span> be able to</p>
+<p begin="00:03:27.120" end="00:03:31.950" style="s2"><span style="s3">control</span> the redistricting<span style="s4"> process</span><span style="s3"> and</span></p>
+<p begin="00:03:29.310" end="00:03:33.620" style="s2">sort of come up with<span style="s3"> a</span> compromise<span style="s4"> that</span></p>
+<p begin="00:03:31.950" end="00:03:37.260" style="s2">benefits one party<span style="s3"> over</span> the other<span style="s3"> and</span></p>
+<p begin="00:03:33.620" end="00:03:38.760" style="s2">this isn&#39;t<span style="s3"> necessarily</span><span style="s4"> there&#39;s</span> not as</p>
+<p begin="00:03:37.260" end="00:03:41.250" style="s2">far as<span style="s4"> I</span> know there&#39;s<span style="s3"> no political party</span></p>
+<p begin="00:03:38.760" end="00:03:43.440" style="s2">that<span style="s3"> said</span> they&#39;re against gerrymandering</p>
+<p begin="00:03:41.250" end="00:03:45.180" style="s2">in their own favor this<span style="s3"> is</span> something</p>
+<p begin="00:03:43.440" end="00:03:47.609" style="s2">that&#39;s<span style="s4"> definitely</span> happened<span style="s4"> it&#39;s</span> just<span style="s4"> in</span></p>
+<p begin="00:03:45.180" end="00:03:50.070" style="s2">our current moment<span style="s4"> of</span> time it&#39;s sort<span style="s3"> of</span></p>
+<p begin="00:03:47.609" end="00:03:52.799" style="s2">fallen in<span style="s3"> with</span> other like late early</p>
+<p begin="00:03:50.070" end="00:03:55.019" style="s2"><span style="s4">voting</span> and automatic registration<span style="s3"> other</span></p>
+<p begin="00:03:52.799" end="00:03:58.019" style="s2">parts of the electoral process<span style="s3"> that</span></p>
+<p begin="00:03:55.019" end="00:04:02.160" style="s2">strengthen our democracy<span style="s3"> but</span> end up</p>
+<p begin="00:03:58.019" end="00:04:03.480" style="s2">getting politicized<span style="s4"> so probably if you</span></p>
+<p begin="00:04:02.160" end="00:04:05.310" style="s2">haven&#39;t<span style="s4"> looked</span> this up before you&#39;re</p>
+<p begin="00:04:03.480" end="00:04:07.709" style="s2">saying<span style="s3"> gerrymandering where does that</span></p>
+<p begin="00:04:05.310" end="00:04:11.130" style="s2"><span style="s3">even</span><span style="s4"> come</span> from<span style="s4"> what</span> a strange word for</p>
+<p begin="00:04:07.709" end="00:04:14.340" style="s2">it so it comes<span style="s3"> from</span> 1812<span style="s4"> like</span> very early</p>
+<p begin="00:04:11.130" end="00:04:17.579" style="s2"><span style="s4">on</span><span style="s3"> in</span> American democracy<span style="s3"> this</span> guy his</p>
+<p begin="00:04:14.340" end="00:04:20.070" style="s2">last name was Gary<span style="s4"> drew</span> his district<span style="s3"> to</span></p>
+<p begin="00:04:17.579" end="00:04:22.440" style="s2">benefit himself<span style="s4"> not</span><span style="s3"> really</span> a<span style="s3"> political</span></p>
+<p begin="00:04:20.070" end="00:04:23.970" style="s2"><span style="s3">decision</span> but more something<span style="s3"> of</span> well</p>
+<p begin="00:04:22.440" end="00:04:25.590" style="s2">these people<span style="s4"> need</span> to be<span style="s3"> in</span> my district</p>
+<p begin="00:04:23.970" end="00:04:26.610" style="s2"><span style="s4">and</span> these people<span style="s3"> are</span> they<span style="s3"> don&#39;t</span> like me</p>
+<p begin="00:04:25.590" end="00:04:27.500" style="s2">so I&#39;m going<span style="s4"> to</span> keep them<span style="s3"> out</span> of<span style="s3"> my</span></p>
+<p begin="00:04:26.610" end="00:04:29.870" style="s2">district</p>
+<p begin="00:04:27.500" end="00:04:32.090" style="s2">and newspapers<span style="s3"> you</span> this<span style="s3"> editorial</span></p>
+<p begin="00:04:29.870" end="00:04:35.450" style="s2"><span style="s3">cartoon</span> making fun of<span style="s3"> it and calling</span> it</p>
+<p begin="00:04:32.090" end="00:04:41.150" style="s2">a salamander<span style="s4"> or</span> a gerrymander<span style="s4"> so</span> that&#39;s</p>
+<p begin="00:04:35.450" end="00:04:43.190" style="s2">how US government works<span style="s4"> and</span> where<span style="s3"> does</span></p>
+<p begin="00:04:41.150" end="00:04:46.070" style="s2">gerrymanders come from<span style="s3"> like</span> how do how</p>
+<p begin="00:04:43.190" end="00:04:49.940" style="s2">do<span style="s3"> these</span> get created<span style="s3"> nowadays</span> so every</p>
+<p begin="00:04:46.070" end="00:04:52.070" style="s2"><span style="s4">10</span> years you participate<span style="s4"> in</span> the census</p>
+<p begin="00:04:49.940" end="00:04:53.540" style="s2"><span style="s4">if</span> you go to one<span style="s4"> of</span> these conferences</p>
+<p begin="00:04:52.070" end="00:04:55.670" style="s2"><span style="s3">you&#39;ll</span> hear a lot<span style="s4"> of</span> conversations<span style="s4"> about</span></p>
+<p begin="00:04:53.540" end="00:04:57.820" style="s2"><span style="s3">how</span> they find people<span style="s4"> for</span> the<span style="s4"> census and</span></p>
+<p begin="00:04:55.670" end="00:05:01.400" style="s2">how they count people<span style="s3"> for</span> the census and</p>
+<p begin="00:04:57.820" end="00:05:05.240" style="s2">you know if you&#39;re born at this<span style="s3"> part</span> of</p>
+<p begin="00:05:01.400" end="00:05:07.400" style="s2">2020 do you count or not<span style="s4"> but</span> they do</p>
+<p begin="00:05:05.240" end="00:05:10.190" style="s2">that constitutionally<span style="s4"> we&#39;re count</span></p>
+<p begin="00:05:07.400" end="00:05:13.280" style="s2"><span style="s3">everybody</span> every<span style="s4"> 10</span> years<span style="s4"> and</span> we use<span style="s4"> that</span></p>
+<p begin="00:05:10.190" end="00:05:16.250" style="s2">to decide how many<span style="s3"> representatives each</span></p>
+<p begin="00:05:13.280" end="00:05:18.410" style="s2">state will get and then it&#39;s sort<span style="s4"> of</span> a</p>
+<p begin="00:05:16.250" end="00:05:20.630" style="s2">free-for-all<span style="s4"> for the state what they</span></p>
+<p begin="00:05:18.410" end="00:05:24.110" style="s2">want to do with<span style="s3"> those</span> representatives</p>
+<p begin="00:05:20.630" end="00:05:27.680" style="s2"><span style="s4">there</span> is no federal<span style="s3"> US</span><span style="s4"> Constitution</span> rule</p>
+<p begin="00:05:24.110" end="00:05:30.490" style="s2">about how<span style="s3"> districts should work</span><span style="s4"> so each</span></p>
+<p begin="00:05:27.680" end="00:05:33.050" style="s2">state has their<span style="s4"> own</span> rules<span style="s4"> for</span><span style="s3"> Alaska</span></p>
+<p begin="00:05:30.490" end="00:05:35.510" style="s2"><span style="s4">there&#39;s</span><span style="s3"> just one district</span><span style="s4"> okay</span> so they</p>
+<p begin="00:05:33.050" end="00:05:38.030" style="s2">don&#39;t<span style="s3"> need to do redistricting but</span> other</p>
+<p begin="00:05:35.510" end="00:05:41.900" style="s2">states such as<span style="s3"> Illinois on this</span> map you</p>
+<p begin="00:05:38.030" end="00:05:45.979" style="s2"><span style="s4">can see</span><span style="s3"> that</span> the legislature is deciding</p>
+<p begin="00:05:41.900" end="00:05:47.770" style="s2">that you know<span style="s3"> other</span> states<span style="s4"> it</span> just</p>
+<p begin="00:05:45.979" end="00:05:52.669" style="s2">depends on<span style="s3"> what the kind of system is</span></p>
+<p begin="00:05:47.770" end="00:05:54.940" style="s2"><span style="s3">and</span> then in Hawaii<span style="s3"> in</span> California and</p>
+<p begin="00:05:52.669" end="00:05:57.320" style="s2">other states<span style="s4"> there&#39;s</span> some<span style="s3"> independent</span></p>
+<p begin="00:05:54.940" end="00:05:59.840" style="s2"><span style="s4">commissions</span> and<span style="s3"> things</span> like<span style="s3"> that or</span></p>
+<p begin="00:05:57.320" end="00:06:01.580" style="s2">they&#39;ll organize<span style="s3"> it</span> that way<span style="s3"> and</span> this<span style="s3"> is</span></p>
+<p begin="00:05:59.840" end="00:06:04.040" style="s2"><span style="s4">just</span> for<span style="s3"> the</span> Congress<span style="s4"> districts</span><span style="s3"> then</span></p>
+<p begin="00:06:01.580" end="00:06:05.990" style="s2">there are other<span style="s3"> rules</span> involving for the</p>
+<p begin="00:06:04.040" end="00:06:08.390" style="s2">state legislature how do they decide</p>
+<p begin="00:06:05.990" end="00:06:11.000" style="s2">where to put their representatives<span style="s3"> so</span></p>
+<p begin="00:06:08.390" end="00:06:13.930" style="s2">there&#39;s a whole like many multiple</p>
+<p begin="00:06:11.000" end="00:06:17.960" style="s2">levels<span style="s3"> of</span> rules<span style="s4"> behind</span> this<span style="s3"> and</span></p>
+<p begin="00:06:13.930" end="00:06:21.560" style="s2">naturally when people&#39;s election depends</p>
+<p begin="00:06:17.960" end="00:06:22.910" style="s2">on where they draw the lines<span style="s3"> and</span> they&#39;re</p>
+<p begin="00:06:21.560" end="00:06:25.190" style="s2">responsible<span style="s4"> for drawing those lines</span></p>
+<p begin="00:06:22.910" end="00:06:26.510" style="s2"><span style="s4">there&#39;s</span><span style="s3"> sort</span> of<span style="s3"> these</span> factors<span style="s3"> that get</span></p>
+<p begin="00:06:25.190" end="00:06:30.229" style="s2"><span style="s3">involved</span><span style="s4"> and</span> people<span style="s3"> choose</span> where the</p>
+<p begin="00:06:26.510" end="00:06:31.970" style="s2">lines go now this<span style="s3"> actually</span> even though</p>
+<p begin="00:06:30.229" end="00:06:33.919" style="s2">they has been<span style="s4"> around</span> for a while<span style="s3"> for</span></p>
+<p begin="00:06:31.970" end="00:06:37.610" style="s2"><span style="s3">people</span> to<span style="s3"> protect themselves in</span> their</p>
+<p begin="00:06:33.919" end="00:06:41.349" style="s2">office it actually isn&#39;t like consistent</p>
+<p begin="00:06:37.610" end="00:06:41.349" style="s2">across<span style="s4"> US</span> history<span style="s3"> how</span> it worked</p>
+<p begin="00:06:41.670" end="00:06:49.140" style="s2">in the early<span style="s4"> 1900&#39;s</span><span style="s3"> there was no</span> like</p>
+<p begin="00:06:47.610" end="00:06:51.150" style="s2">requirement<span style="s3"> that they actually</span><span style="s4"> had to go</span></p>
+<p begin="00:06:49.140" end="00:06:53.190" style="s2"><span style="s3">to</span> the process<span style="s4"> of</span> redistricting<span style="s3"> they</span></p>
+<p begin="00:06:51.150" end="00:06:56.430" style="s2">would do the census<span style="s3"> the</span> state would<span style="s4"> have</span></p>
+<p begin="00:06:53.190" end="00:06:59.730" style="s2"><span style="s4">the</span> same<span style="s3"> number</span><span style="s4"> of</span> congressional</p>
+<p begin="00:06:56.430" end="00:07:02.640" style="s2">districts<span style="s3"> and</span> they would<span style="s3"> decide</span> from</p>
+<p begin="00:06:59.730" end="00:07:05.040" style="s2">then to just keep the districts in<span style="s3"> the</span></p>
+<p begin="00:07:02.640" end="00:07:06.990" style="s2">same place so even though<span style="s3"> cities</span> were</p>
+<p begin="00:07:05.040" end="00:07:10.590" style="s2">rapidly<span style="s3"> growing</span> rural districts were</p>
+<p begin="00:07:06.990" end="00:07:12.210" style="s2">getting to be smaller populations<span style="s4"> no</span></p>
+<p begin="00:07:10.590" end="00:07:13.590" style="s2">districts were being redrawn because it</p>
+<p begin="00:07:12.210" end="00:07:16.830" style="s2">benefits the<span style="s4"> people</span> who are currently in</p>
+<p begin="00:07:13.590" end="00:07:20.780" style="s2"><span style="s4">office</span> in 1942 it went to the<span style="s3"> Supreme</span></p>
+<p begin="00:07:16.830" end="00:07:23.640" style="s2">Court<span style="s3"> and</span> several<span style="s4"> justices</span> including</p>
+<p begin="00:07:20.780" end="00:07:25.770" style="s2"><span style="s4">Felix</span> Frankfurter<span style="s3"> who</span> wrote the<span style="s4"> opinion</span></p>
+<p begin="00:07:23.640" end="00:07:30.450" style="s2">that&#39;s<span style="s3"> a</span> Supreme Court justices name and</p>
+<p begin="00:07:25.770" end="00:07:32.760" style="s2"><span style="s3">not</span> a cat<span style="s4"> name said we don&#39;t it&#39;s the</span></p>
+<p begin="00:07:30.450" end="00:07:34.410" style="s2">Supreme Court<span style="s3"> really</span> did<span style="s3"> not</span> want<span style="s3"> to</span></p>
+<p begin="00:07:32.760" end="00:07:35.730" style="s2"><span style="s3">change how districts work they didn&#39;t</span></p>
+<p begin="00:07:34.410" end="00:07:37.470" style="s2">want<span style="s3"> to</span> get<span style="s3"> involved</span> in<span style="s4"> another</span> branch</p>
+<p begin="00:07:35.730" end="00:07:39.810" style="s2">of<span style="s3"> government because then it would</span></p>
+<p begin="00:07:37.470" end="00:07:41.340" style="s2">cause several<span style="s4"> problems</span> for them and</p>
+<p begin="00:07:39.810" end="00:07:45.570" style="s2">interference in different parts of</p>
+<p begin="00:07:41.340" end="00:07:49.020" style="s2">politics but<span style="s3"> 20</span><span style="s4"> years</span><span style="s3"> later</span><span style="s4"> a</span> separate</p>
+<p begin="00:07:45.570" end="00:07:50.940" style="s2">court case<span style="s3"> Baker</span><span style="s4"> v</span> Carr said you know</p>
+<p begin="00:07:49.020" end="00:07:53.040" style="s2">what there<span style="s4"> are</span> nine times as many people</p>
+<p begin="00:07:50.940" end="00:07:55.440" style="s2"><span style="s4">in</span><span style="s3"> this</span> urban district<span style="s3"> as</span> there is in<span style="s3"> a</span></p>
+<p begin="00:07:53.040" end="00:07:57.270" style="s2">rural district<span style="s3"> that&#39;s</span> not fair under the</p>
+<p begin="00:07:55.440" end="00:08:00.660" style="s2"><span style="s4">14th amendment it</span> has to be</p>
+<p begin="00:07:57.270" end="00:08:03.810" style="s2">unconstitutional from now on so the</p>
+<p begin="00:08:00.660" end="00:08:05.360" style="s2"><span style="s3">1960s</span> were a huge change from the<span style="s3"> old</span></p>
+<p begin="00:08:03.810" end="00:08:08.550" style="s2">way of<span style="s4"> gerrymandering</span> and redistricting</p>
+<p begin="00:08:05.360" end="00:08:11.280" style="s2"><span style="s3">to</span> a new<span style="s3"> system</span> where they were now</p>
+<p begin="00:08:08.550" end="00:08:14.640" style="s2"><span style="s4">expected</span> to redraw all the<span style="s4"> state&#39;s</span> lines</p>
+<p begin="00:08:11.280" end="00:08:17.280" style="s2">every<span style="s4"> 10 years and then as we</span><span style="s3"> know from</span></p>
+<p begin="00:08:14.640" end="00:08:20.100" style="s2"><span style="s3">other</span> parts of<span style="s4"> history in 1964 there&#39;s a</span></p>
+<p begin="00:08:17.280" end="00:08:22.170" style="s2"><span style="s4">Civil Rights Act</span><span style="s3"> 1965</span> there&#39;s<span style="s4"> a</span> Voting</p>
+<p begin="00:08:20.100" end="00:08:25.590" style="s2"><span style="s4">Rights</span> Act<span style="s4"> this</span> changed the<span style="s3"> number of</span></p>
+<p begin="00:08:22.170" end="00:08:28.740" style="s2"><span style="s3">people</span> who can<span style="s4"> vote</span> access<span style="s3"> to voting how</span></p>
+<p begin="00:08:25.590" end="00:08:31.980" style="s2">people are represented<span style="s3"> just</span> huge change</p>
+<p begin="00:08:28.740" end="00:08:35.640" style="s2"><span style="s3">in</span> how policies work<span style="s3"> and over time</span> these</p>
+<p begin="00:08:31.980" end="00:08:36.720" style="s2">policies<span style="s3"> would</span> I don&#39;t<span style="s4"> know</span><span style="s3"> exactly</span><span style="s4"> when</span></p>
+<p begin="00:08:35.640" end="00:08:39.479" style="s2">the Supreme Court<span style="s4"> decided that&#39;s but</span></p>
+<p begin="00:08:36.720" end="00:08:41.430" style="s2">over time the current system is that you</p>
+<p begin="00:08:39.479" end="00:08:43.020" style="s2">don&#39;t<span style="s4"> even</span> need to prove<span style="s3"> that</span> there is<span style="s3"> a</span></p>
+<p begin="00:08:41.430" end="00:08:45.390" style="s2">racist intent<span style="s3"> like you don&#39;t need to</span></p>
+<p begin="00:08:43.020" end="00:08:47.730" style="s2">find<span style="s3"> letters</span> and memos and emails for</p>
+<p begin="00:08:45.390" end="00:08:50.540" style="s2">registering registering plan<span style="s4"> if</span> you can</p>
+<p begin="00:08:47.730" end="00:08:53.520" style="s2"><span style="s4">prove</span> that<span style="s3"> there&#39;s</span> a<span style="s3"> discriminatory</span></p>
+<p begin="00:08:50.540" end="00:08:54.960" style="s2">outcome of a redistricting plan<span style="s3"> then</span> you</p>
+<p begin="00:08:53.520" end="00:08:55.240" style="s2">can<span style="s3"> bring</span><span style="s4"> that</span> to<span style="s3"> court</span> and the Supreme</p>
+<p begin="00:08:54.960" end="00:08:57.310" style="s2"><span style="s3">Court</span></p>
+<p begin="00:08:55.240" end="00:09:01.149" style="s2"><span style="s4">does</span> not mess around<span style="s3"> with</span><span style="s4"> that</span><span style="s3"> they</span> will</p>
+<p begin="00:08:57.310" end="00:09:03.360" style="s2">review that<span style="s3"> very</span> seriously<span style="s3"> and</span> tell you</p>
+<p begin="00:09:01.149" end="00:09:07.029" style="s2">to redraw districts that<span style="s3"> don&#39;t fit their</span></p>
+<p begin="00:09:03.360" end="00:09:10.120" style="s2">conditions so there&#39;s a real risk now</p>
+<p begin="00:09:07.029" end="00:09:14.200" style="s2">that 2020 might be as big of a shift<span style="s3"> as</span></p>
+<p begin="00:09:10.120" end="00:09:17.350" style="s2">the<span style="s4"> 1960s</span><span style="s3"> and</span> it might<span style="s4"> not</span> be<span style="s3"> a</span><span style="s4"> very</span></p>
+<p begin="00:09:14.200" end="00:09:19.240" style="s2">positive shift<span style="s3"> so</span> the book<span style="s3"> that</span> I&#39;m</p>
+<p begin="00:09:17.350" end="00:09:22.690" style="s2"><span style="s3">displaying</span> here is sort<span style="s3"> of</span> going<span style="s4"> around</span></p>
+<p begin="00:09:19.240" end="00:09:24.850" style="s2">now and there&#39;s this<span style="s3"> discussion</span> about</p>
+<p begin="00:09:22.690" end="00:09:27.940" style="s2"><span style="s3">how</span> people have started<span style="s3"> to</span> very</p>
+<p begin="00:09:24.850" end="00:09:30.640" style="s2">intentionally<span style="s3"> think</span> about redistricting</p>
+<p begin="00:09:27.940" end="00:09:32.940" style="s2"><span style="s3">in</span> one state<span style="s4"> or register thing</span> in all</p>
+<p begin="00:09:30.640" end="00:09:36.160" style="s2">the states in<span style="s3"> a very intentional way</span></p>
+<p begin="00:09:32.940" end="00:09:39.820" style="s2">could lead you to have more<span style="s4"> control over</span></p>
+<p begin="00:09:36.160" end="00:09:41.709" style="s2"><span style="s3">the</span> house representatives<span style="s4"> and</span> so<span style="s3"> there</span></p>
+<p begin="00:09:39.820" end="00:09:44.260" style="s2"><span style="s3">are some very intentional cross state</span></p>
+<p begin="00:09:41.709" end="00:09:47.320" style="s2">policies<span style="s4"> that help</span><span style="s3"> create the map that</span></p>
+<p begin="00:09:44.260" end="00:09:48.490" style="s2">was designed<span style="s3"> in</span> 2010 and there&#39;s some</p>
+<p begin="00:09:47.320" end="00:09:50.230" style="s2"><span style="s3">different</span> research going<span style="s3"> different ways</span></p>
+<p begin="00:09:48.490" end="00:09:52.089" style="s2">but it&#39;s generally<span style="s4"> agreed that</span><span style="s3"> the</span></p>
+<p begin="00:09:50.230" end="00:09:53.440" style="s2"><span style="s3">Republicans</span> have an advantage in several</p>
+<p begin="00:09:52.089" end="00:09:56.350" style="s2">states including<span style="s4"> the</span> Pennsylvania</p>
+<p begin="00:09:53.440" end="00:09:58.990" style="s2">example I showed you earlier<span style="s4"> due to some</span></p>
+<p begin="00:09:56.350" end="00:10:00.520" style="s2">very<span style="s3"> careful</span> redistricting and it makes</p>
+<p begin="00:09:58.990" end="00:10:03.360" style="s2">sense<span style="s4"> it&#39;s</span><span style="s3"> possible</span> to do<span style="s3"> that</span> now</p>
+<p begin="00:10:00.520" end="00:10:06.329" style="s2"><span style="s3">because</span> there&#39;s more<span style="s3"> advanced</span> computing</p>
+<p begin="00:10:03.360" end="00:10:10.060" style="s2"><span style="s4">there&#39;s</span> big data being collected on</p>
+<p begin="00:10:06.329" end="00:10:12.250" style="s2">individual voters<span style="s4"> even</span> things like<span style="s3"> the</span></p>
+<p begin="00:10:10.060" end="00:10:14.290" style="s2">buttons you<span style="s3"> press</span> on<span style="s4"> your</span> cable<span style="s3"> box</span><span style="s4"> that</span></p>
+<p begin="00:10:12.250" end="00:10:17.110" style="s2">stuff gets sold and connected to<span style="s4"> your</span></p>
+<p begin="00:10:14.290" end="00:10:19.089" style="s2"><span style="s3">voting</span> record<span style="s4"> and</span> builds up an idea of</p>
+<p begin="00:10:17.110" end="00:10:20.980" style="s2"><span style="s3">like okay what&#39;s this person&#39;s policies</span></p>
+<p begin="00:10:19.089" end="00:10:24.670" style="s2"><span style="s3">how</span> can we advertise<span style="s3"> this</span> person</p>
+<p begin="00:10:20.980" end="00:10:28.720" style="s2"><span style="s3">something</span> like<span style="s3"> that so in 2013 there</span> was</p>
+<p begin="00:10:24.670" end="00:10:29.620" style="s2"><span style="s3">a decision taking</span> down<span style="s3"> section</span> 5 of the</p>
+<p begin="00:10:28.720" end="00:10:31.870" style="s2"><span style="s3">Voting</span><span style="s4"> Rights</span> Act</p>
+<p begin="00:10:29.620" end="00:10:34.360" style="s2"><span style="s4">you</span> might ask<span style="s4"> so</span> what&#39;s wrong with<span style="s3"> the</span></p>
+<p begin="00:10:31.870" end="00:10:35.860" style="s2">Voting<span style="s4"> Rights</span> Act<span style="s3"> that</span> from the 1960s<span style="s3"> is</span></p>
+<p begin="00:10:34.360" end="00:10:39.220" style="s2">now being challenged in the Supreme</p>
+<p begin="00:10:35.860" end="00:10:42.279" style="s2"><span style="s4">Court</span> and what went wrong here is<span style="s3"> that</span></p>
+<p begin="00:10:39.220" end="00:10:45.250" style="s2">this particular<span style="s3"> section</span> is<span style="s3"> really</span></p>
+<p begin="00:10:42.279" end="00:10:48.040" style="s2">interesting it says<span style="s3"> that</span> districts<span style="s3"> and</span></p>
+<p begin="00:10:45.250" end="00:10:51.399" style="s2">areas that<span style="s3"> have</span> done discriminatory</p>
+<p begin="00:10:48.040" end="00:10:53.610" style="s2">voting practices in the past<span style="s3"> get</span> special</p>
+<p begin="00:10:51.399" end="00:10:57.310" style="s2">scrutiny<span style="s4"> so</span> they would<span style="s3"> have</span> need<span style="s4"> to</span></p>
+<p begin="00:10:53.610" end="00:11:00.130" style="s2">draft<span style="s3"> their</span> plan<span style="s3"> for</span> voting<span style="s3"> or</span></p>
+<p begin="00:10:57.310" end="00:11:03.070" style="s2">districting<span style="s3"> and</span> send it<span style="s3"> to</span> the<span style="s3"> US</span></p>
+<p begin="00:11:00.130" end="00:11:05.920" style="s2">Justice Department<span style="s3"> or</span> a DC<span style="s3"> district</span></p>
+<p begin="00:11:03.070" end="00:11:08.720" style="s2"><span style="s3">court</span> to get approved<span style="s3"> just to just if</span></p>
+<p begin="00:11:05.920" end="00:11:11.089" style="s2">you&#39;re<span style="s3"> on</span> the naughty list<span style="s3"> basically</span></p>
+<p begin="00:11:08.720" end="00:11:13.459" style="s2"><span style="s4">a</span> real historical record<span style="s3"> than</span> you get on</p>
+<p begin="00:11:11.089" end="00:11:16.339" style="s2">this and so there were several districts</p>
+<p begin="00:11:13.459" end="00:11:20.360" style="s2">that were doing this for<span style="s4"> since</span> the<span style="s3"> 1960s</span></p>
+<p begin="00:11:16.339" end="00:11:23.269" style="s2"><span style="s4">and</span> when the Supreme<span style="s4"> Court</span> ruled against</p>
+<p begin="00:11:20.360" end="00:11:26.810" style="s2">it within hours<span style="s3"> some</span> states were</p>
+<p begin="00:11:23.269" end="00:11:28.730" style="s2">initiating voting ID laws and<span style="s4"> such</span> that</p>
+<p begin="00:11:26.810" end="00:11:33.290" style="s2"><span style="s3">previously</span> they were sort of<span style="s3"> afraid</span><span style="s4"> to</span></p>
+<p begin="00:11:28.730" end="00:11:35.509" style="s2">send through the<span style="s4"> Justice</span> Department<span style="s4"> now</span></p>
+<p begin="00:11:33.290" end="00:11:37.879" style="s2">I read one<span style="s3"> book</span> about<span style="s3"> this</span> that was sort</p>
+<p begin="00:11:35.509" end="00:11:41.569" style="s2">of<span style="s3"> saying</span> not to worry<span style="s4"> about</span> this and</p>
+<p begin="00:11:37.879" end="00:11:44.120" style="s2">that<span style="s3"> in</span> recent<span style="s4"> history only</span><span style="s3"> 0.1% of</span></p>
+<p begin="00:11:41.569" end="00:11:46.459" style="s2">voting plans have been rejected by<span style="s3"> the</span></p>
+<p begin="00:11:44.120" end="00:11:49.790" style="s2">Justice<span style="s4"> Department</span> but that&#39;s a<span style="s4"> little</span></p>
+<p begin="00:11:46.459" end="00:11:53.060" style="s2"><span style="s3">bit</span> like saying<span style="s4"> oh</span> there&#39;s no<span style="s3"> problem</span></p>
+<p begin="00:11:49.790" end="00:11:55.250" style="s2">with<span style="s3"> corruption</span> on Wall<span style="s3"> Street</span> let&#39;s get</p>
+<p begin="00:11:53.060" end="00:11:57.170" style="s2">rid of the<span style="s4"> SEC</span> we don&#39;t<span style="s3"> need</span> it anymore</p>
+<p begin="00:11:55.250" end="00:12:00.019" style="s2">right it&#39;s sort<span style="s4"> of</span><span style="s3"> like</span><span style="s4"> saying</span> oh like</p>
+<p begin="00:11:57.170" end="00:12:02.839" style="s2">because only<span style="s3"> a small number of</span> people</p>
+<p begin="00:12:00.019" end="00:12:04.970" style="s2"><span style="s3">are</span> the proposals are<span style="s4"> being rejected</span><span style="s3"> now</span></p>
+<p begin="00:12:02.839" end="00:12:06.529" style="s2">we can take<span style="s3"> away</span> the regular there as</p>
+<p begin="00:12:04.970" end="00:12:08.959" style="s2"><span style="s3">soon</span> as they<span style="s3"> know</span> that regulator is gone</p>
+<p begin="00:12:06.529" end="00:12:10.639" style="s2"><span style="s3">there can be some really major</span> changes</p>
+<p begin="00:12:08.959" end="00:12:12.560" style="s2">made without<span style="s3"> that</span> kind<span style="s4"> of oversight and</span></p>
+<p begin="00:12:10.639" end="00:12:17.329" style="s2"><span style="s4">without</span> them wondering what&#39;s<span style="s3"> going</span> to</p>
+<p begin="00:12:12.560" end="00:12:18.589" style="s2">happen with their regulation so the</p>
+<p begin="00:12:17.329" end="00:12:21.079" style="s2">Supreme Court<span style="s4"> has been pretty strongly</span></p>
+<p begin="00:12:18.589" end="00:12:24.050" style="s2">against any sort<span style="s3"> of</span> gerrymandering<span style="s3"> and</span></p>
+<p begin="00:12:21.079" end="00:12:26.750" style="s2">redistricting that disenfranchises</p>
+<p begin="00:12:24.050" end="00:12:28.699" style="s2">minority groups<span style="s3"> and</span> does racial</p>
+<p begin="00:12:26.750" end="00:12:31.579" style="s2">gerrymandering<span style="s4"> but</span> one thing that<span style="s4"> people</span></p>
+<p begin="00:12:28.699" end="00:12:33.079" style="s2"><span style="s4">are</span><span style="s3"> talking</span><span style="s4"> about</span><span style="s3"> now</span> which<span style="s3"> is</span> part of</p>
+<p begin="00:12:31.579" end="00:12:35.360" style="s2">the red map<span style="s4"> initiative</span> and other things</p>
+<p begin="00:12:33.079" end="00:12:37.399" style="s2"><span style="s3">is</span> whether partisan gerrymandering</p>
+<p begin="00:12:35.360" end="00:12:40.250" style="s2">gerrymandering to benefit a particular</p>
+<p begin="00:12:37.399" end="00:12:41.779" style="s2">political party<span style="s3"> could</span> you do that</p>
+<p begin="00:12:40.250" end="00:12:44.360" style="s2"><span style="s3">seriously enough for it to be</span></p>
+<p begin="00:12:41.779" end="00:12:46.730" style="s2">unconstitutional<span style="s4"> this</span> is sort of an<span style="s4"> open</span></p>
+<p begin="00:12:44.360" end="00:12:51.740" style="s2"><span style="s4">question</span><span style="s3"> the</span> Supreme<span style="s3"> Court</span> has ruled</p>
+<p begin="00:12:46.730" end="00:12:53.870" style="s2"><span style="s4">that</span><span style="s3"> a</span> possibility<span style="s3"> before but put a lot</span></p>
+<p begin="00:12:51.740" end="00:12:55.970" style="s2">of conditions in place<span style="s3"> that</span> in recent</p>
+<p begin="00:12:53.870" end="00:12:57.529" style="s2"><span style="s3">years</span> it hasn&#39;t<span style="s3"> been</span> the<span style="s4"> case</span> they</p>
+<p begin="00:12:55.970" end="00:13:02.149" style="s2">haven&#39;t<span style="s4"> been</span><span style="s3"> able</span> to prove this case<span style="s3"> in</span></p>
+<p begin="00:12:57.529" end="00:13:03.620" style="s2">Supreme<span style="s3"> Court recently and</span> so far in the</p>
+<p begin="00:13:02.149" end="00:13:05.029" style="s2">past<span style="s3"> it wasn&#39;t as big an issue now</span></p>
+<p begin="00:13:03.620" end="00:13:07.250" style="s2">there&#39;s like<span style="s3"> a</span><span style="s4"> National</span> coordinated</p>
+<p begin="00:13:05.029" end="00:13:09.439" style="s2">effort now that it&#39;s much easier to</p>
+<p begin="00:13:07.250" end="00:13:11.360" style="s2">predict which people<span style="s3"> are</span> going to vote</p>
+<p begin="00:13:09.439" end="00:13:13.309" style="s2"><span style="s3">one</span><span style="s4"> way</span> or the<span style="s4"> other</span></p>
+<p begin="00:13:11.360" end="00:13:17.809" style="s2">partisan gerrymandering is becoming a</p>
+<p begin="00:13:13.309" end="00:13:19.130" style="s2">much more<span style="s3"> serious</span> issue<span style="s4"> and</span> so the</p>
+<p begin="00:13:17.809" end="00:13:21.709" style="s2"><span style="s3">Supreme</span> Court<span style="s3"> is</span> still<span style="s3"> very</span> cautious</p>
+<p begin="00:13:19.130" end="00:13:22.550" style="s2"><span style="s4">about</span> this this<span style="s3"> is</span> part<span style="s3"> of</span> what they&#39;re</p>
+<p begin="00:13:21.709" end="00:13:24.910" style="s2">going to be<span style="s3"> talking</span></p>
+<p begin="00:13:22.550" end="00:13:29.660" style="s2">about this year there&#39;s going to be a</p>
+<p begin="00:13:24.910" end="00:13:31.610" style="s2">Supreme<span style="s4"> Court</span> case<span style="s4"> with Wisconsin being</span></p>
+<p begin="00:13:29.660" end="00:13:34.670" style="s2"><span style="s4">decided</span><span style="s3"> this</span> year<span style="s4"> around</span><span style="s3"> partisan</span></p>
+<p begin="00:13:31.610" end="00:13:37.310" style="s2">gerrymandering issues<span style="s4"> and</span> the last time</p>
+<p begin="00:13:34.670" end="00:13:39.860" style="s2">this<span style="s3"> went Supreme Court</span> was in 2004</p>
+<p begin="00:13:37.310" end="00:13:43.310" style="s2"><span style="s3">Texas</span> redrew their districts in the</p>
+<p begin="00:13:39.860" end="00:13:44.779" style="s2">middle of the decade<span style="s3"> because some states</span></p>
+<p begin="00:13:43.310" end="00:13:47.060" style="s2">you can do that<span style="s3"> like</span><span style="s4"> you</span><span style="s3"> can</span> say I don&#39;t</p>
+<p begin="00:13:44.779" end="00:13:49.430" style="s2">like<span style="s4"> what</span> we did<span style="s3"> after the census let&#39;s</span></p>
+<p begin="00:13:47.060" end="00:13:52.910" style="s2">try<span style="s3"> again</span><span style="s4"> and</span> make<span style="s4"> it</span> a<span style="s3"> little</span> bit<span style="s3"> worn</span></p>
+<p begin="00:13:49.430" end="00:13:56.149" style="s2"><span style="s3">tweak</span> it a little<span style="s3"> bit</span> so in 2004 Justice</p>
+<p begin="00:13:52.910" end="00:13:58.760" style="s2">Kennedy looked at<span style="s3"> this</span> case is<span style="s3"> that okay</span></p>
+<p begin="00:13:56.149" end="00:14:00.980" style="s2">we&#39;re we&#39;re not<span style="s3"> telling</span><span style="s4"> you you can&#39;t do</span></p>
+<p begin="00:13:58.760" end="00:14:03.560" style="s2">partisan gerrymandering<span style="s3"> we</span> still think</p>
+<p begin="00:14:00.980" end="00:14:06.320" style="s2">partisan gerrymandering is wrong<span style="s3"> but how</span></p>
+<p begin="00:14:03.560" end="00:14:09.050" style="s2">is the<span style="s3"> supreme court supposed to create</span></p>
+<p begin="00:14:06.320" end="00:14:10.370" style="s2">a standard<span style="s3"> because</span> they don&#39;t want<span style="s3"> to</span></p>
+<p begin="00:14:09.050" end="00:14:12.410" style="s2"><span style="s3">just</span> look<span style="s3"> at a district</span><span style="s4"> and</span> say that</p>
+<p begin="00:14:10.370" end="00:14:14.600" style="s2">looks funny they want to have like an</p>
+<p begin="00:14:12.410" end="00:14:17.050" style="s2">objective standards they can apply and</p>
+<p begin="00:14:14.600" end="00:14:19.519" style="s2"><span style="s3">test</span> further on in<span style="s4"> the</span> judicial<span style="s3"> process</span></p>
+<p begin="00:14:17.050" end="00:14:21.560" style="s2"><span style="s3">so</span> I&#39;ll read part<span style="s3"> of the quote it</span></p>
+<p begin="00:14:19.519" end="00:14:23.480" style="s2"><span style="s3">definitely</span> sounds like<span style="s3"> a</span> hackathon pitch</p>
+<p begin="00:14:21.560" end="00:14:25.760" style="s2">I think<span style="s4"> when</span> I&#39;m looking at<span style="s3"> it</span> says</p>
+<p begin="00:14:23.480" end="00:14:29.510" style="s2">technology<span style="s3"> is</span> both a threat<span style="s4"> and</span> a</p>
+<p begin="00:14:25.760" end="00:14:31.670" style="s2"><span style="s3">promise</span><span style="s4"> it</span> may produce new methods<span style="s3"> of</span></p>
+<p begin="00:14:29.510" end="00:14:35.980" style="s2">analysis that<span style="s3"> make</span> more evidence the</p>
+<p begin="00:14:31.670" end="00:14:37.940" style="s2">precise nature<span style="s3"> of</span> gerrymanders and the</p>
+<p begin="00:14:35.980" end="00:14:41.089" style="s2">representational<span style="s4"> rights</span> of voters<span style="s3"> and</span></p>
+<p begin="00:14:37.940" end="00:14:43.190" style="s2">parties if suitable standards do emerge</p>
+<p begin="00:14:41.089" end="00:14:46.520" style="s2"><span style="s3">hindsight would show that the court</span></p>
+<p begin="00:14:43.190" end="00:14:48.020" style="s2">prematurely abandoned the field so if</p>
+<p begin="00:14:46.520" end="00:14:51.740" style="s2">you can come up<span style="s4"> with</span><span style="s3"> some</span> standards</p>
+<p begin="00:14:48.020" end="00:14:54.680" style="s2">we&#39;d like to see them so since then and</p>
+<p begin="00:14:51.740" end="00:14:57.020" style="s2">with this kind of hackathon or this kind</p>
+<p begin="00:14:54.680" end="00:14:58.850" style="s2"><span style="s4">of</span><span style="s3"> gerrymandering</span> summer school project</p>
+<p begin="00:14:57.020" end="00:15:01.450" style="s2"><span style="s3">they&#39;ve</span> been trying<span style="s3"> to</span> come<span style="s3"> up with some</span></p>
+<p begin="00:14:58.850" end="00:15:05.270" style="s2"><span style="s4">different</span> metrics or tools<span style="s4"> that</span> not only</p>
+<p begin="00:15:01.450" end="00:15:08.899" style="s2">are like an objective standard<span style="s3"> but</span> can</p>
+<p begin="00:15:05.270" end="00:15:11.449" style="s2">be explained<span style="s3"> to</span> a judge in<span style="s4"> a</span> bench trial</p>
+<p begin="00:15:08.899" end="00:15:13.010" style="s2">around<span style="s3"> redistricting</span> cases<span style="s3"> because</span> that</p>
+<p begin="00:15:11.449" end="00:15:15.709" style="s2">has its<span style="s3"> own set of problems</span> if you come</p>
+<p begin="00:15:13.010" end="00:15:17.480" style="s2">up<span style="s4"> with</span><span style="s3"> this</span> very elegant<span style="s4"> mathematical</span></p>
+<p begin="00:15:15.709" end="00:15:19.339" style="s2">proof but you<span style="s3"> can&#39;t</span> explain<span style="s3"> it</span> in court</p>
+<p begin="00:15:17.480" end="00:15:21.529" style="s2">then it&#39;s never<span style="s3"> going to get sent</span> back</p>
+<p begin="00:15:19.339" end="00:15:22.699" style="s2"><span style="s4">to</span> Justice Kennedy so you have to kind</p>
+<p begin="00:15:21.529" end="00:15:25.850" style="s2">of like come up<span style="s4"> with a really good</span></p>
+<p begin="00:15:22.699" end="00:15:28.910" style="s2"><span style="s3">system</span> of proving<span style="s3"> it</span> and then<span style="s3"> being</span> able</p>
+<p begin="00:15:25.850" end="00:15:31.070" style="s2">to explain<span style="s3"> it</span> so we&#39;re going<span style="s3"> to</span> try to</p>
+<p begin="00:15:28.910" end="00:15:32.990" style="s2">come<span style="s4"> up</span><span style="s3"> with we&#39;re</span><span style="s4"> tracing</span> this enemy</p>
+<p begin="00:15:31.070" end="00:15:34.370" style="s2"><span style="s3">we&#39;re going</span><span style="s4"> to</span> try to use and the</p>
+<p begin="00:15:32.990" end="00:15:35.720" style="s2">technology is making<span style="s3"> it</span> easier<span style="s4"> to</span></p>
+<p begin="00:15:34.370" end="00:15:36.230" style="s2">gerrymander<span style="s4"> so</span> we&#39;re<span style="s3"> going</span><span style="s4"> to</span> try to</p>
+<p begin="00:15:35.720" end="00:15:41.050" style="s2">come<span style="s4"> lipstick</span></p>
+<p begin="00:15:36.230" end="00:15:43.880" style="s2">that can counter it<span style="s3"> so</span> there&#39;s a really</p>
+<p begin="00:15:41.050" end="00:15:46.790" style="s2"><span style="s3">interesting</span> project<span style="s4"> this</span> interesting</p>
+<p begin="00:15:43.880" end="00:15:48.620" style="s2">project<span style="s4"> called</span><span style="s3"> be</span> districting<span style="s3"> where</span></p>
+<p begin="00:15:46.790" end="00:15:52.430" style="s2">they&#39;re trying<span style="s3"> to</span> draw the<span style="s3"> district&#39;s</span></p>
+<p begin="00:15:48.620" end="00:15:55.430" style="s2">entirely by algorithm so this is run by</p>
+<p begin="00:15:52.430" end="00:16:00.320" style="s2">Brian<span style="s4"> Olsen aye he&#39;s</span> done this for<span style="s3"> every</span></p>
+<p begin="00:15:55.430" end="00:16:02.900" style="s2">state legislature field that you can</p>
+<p begin="00:16:00.320" end="00:16:05.840" style="s2"><span style="s4">think</span><span style="s3"> of</span> and this<span style="s4"> is</span> so on<span style="s3"> the</span><span style="s4"> left</span></p>
+<p begin="00:16:02.900" end="00:16:08.090" style="s2"><span style="s3">you&#39;ll</span> see his proposal that&#39;s come up</p>
+<p begin="00:16:05.840" end="00:16:10.310" style="s2"><span style="s3">with a algorithm</span> that focuses on</p>
+<p begin="00:16:08.090" end="00:16:12.020" style="s2">compactness<span style="s4"> like</span> a<span style="s4"> geometry problem</span></p>
+<p begin="00:16:10.310" end="00:16:16.880" style="s2">trying<span style="s3"> to</span> fit the same number people</p>
+<p begin="00:16:12.020" end="00:16:17.960" style="s2">into the most regular district and the</p>
+<p begin="00:16:16.880" end="00:16:22.580" style="s2">one the right is the current one that</p>
+<p begin="00:16:17.960" end="00:16:24.440" style="s2"><span style="s4">you</span> live<span style="s4"> in</span> and this is<span style="s3"> interesting</span><span style="s4"> any</span></p>
+<p begin="00:16:22.580" end="00:16:27.920" style="s2">of some really interesting statistics<span style="s4"> on</span></p>
+<p begin="00:16:24.440" end="00:16:30.020" style="s2">it<span style="s3"> but</span> I really want to say<span style="s3"> please stop</span></p>
+<p begin="00:16:27.920" end="00:16:31.940" style="s2">trying to come up<span style="s4"> with</span> these computer</p>
+<p begin="00:16:30.020" end="00:16:34.880" style="s2">algorithms that solve gerrymandering</p>
+<p begin="00:16:31.940" end="00:16:37.510" style="s2">because I mean<span style="s3"> this</span> is<span style="s3"> drawn</span> just</p>
+<p begin="00:16:34.880" end="00:16:39.290" style="s2"><span style="s4">entirely</span> by computer without<span style="s3"> thought</span> to</p>
+<p begin="00:16:37.510" end="00:16:41.840" style="s2">individual<span style="s3"> people and how they&#39;re</span></p>
+<p begin="00:16:39.290" end="00:16:45.590" style="s2"><span style="s4">represented</span> in Congress<span style="s3"> there</span><span style="s4"> is</span> like</p>
+<p begin="00:16:41.840" end="00:16:47.390" style="s2"><span style="s4">some</span><span style="s3"> practice</span> and<span style="s3"> experience</span> where like</p>
+<p begin="00:16:45.590" end="00:16:50.540" style="s2">in Mexico<span style="s3"> there</span> is<span style="s3"> an</span> algorithm<span style="s4"> that</span></p>
+<p begin="00:16:47.390" end="00:16:52.760" style="s2"><span style="s3">they</span> use to start redistricting and then</p>
+<p begin="00:16:50.540" end="00:16:55.070" style="s2">if you<span style="s3"> propose changes</span><span style="s4"> they</span> have you</p>
+<p begin="00:16:52.760" end="00:16:57.380" style="s2"><span style="s3">have</span> to prove<span style="s4"> that</span> they there&#39;s like a</p>
+<p begin="00:16:55.070" end="00:16:59.900" style="s2">formula to<span style="s3"> shows that that</span> your changes</p>
+<p begin="00:16:57.380" end="00:17:02.720" style="s2">improve the fairness of<span style="s4"> the</span><span style="s3"> district</span> but</p>
+<p begin="00:16:59.900" end="00:17:05.630" style="s2"><span style="s4">in</span> general every district has<span style="s4"> a</span> story</p>
+<p begin="00:17:02.720" end="00:17:07.370" style="s2"><span style="s3">and</span><span style="s4"> this is one that I</span><span style="s3"> really</span> hope that</p>
+<p begin="00:17:05.630" end="00:17:10.430" style="s2">makes sense<span style="s4"> and that get a chance to</span></p>
+<p begin="00:17:07.370" end="00:17:12.230" style="s2">talk<span style="s3"> about so are</span> people<span style="s4"> seeing</span> this</p>
+<p begin="00:17:10.430" end="00:17:14.030" style="s2">district before<span style="s3"> familiar</span> with it because</p>
+<p begin="00:17:12.230" end="00:17:17.330" style="s2"><span style="s3">it</span> is<span style="s3"> here</span> in<span style="s4"> Chicago</span> the Illinois<span style="s4"> 4th</span></p>
+<p begin="00:17:14.030" end="00:17:18.440" style="s2"><span style="s3">district</span> and I&#39;m sorry<span style="s3"> I</span> did not<span style="s3"> take</span> a</p>
+<p begin="00:17:17.330" end="00:17:20.840" style="s2">political<span style="s3"> science</span> course</p>
+<p begin="00:17:18.440" end="00:17:22.970" style="s2"><span style="s4">so</span> like when someone says this is a</p>
+<p begin="00:17:20.840" end="00:17:26.120" style="s2">gerrymander<span style="s4"> I</span> look at this and<span style="s3"> say</span><span style="s4"> it&#39;s</span></p>
+<p begin="00:17:22.970" end="00:17:30.020" style="s2">a gerrymander<span style="s4"> and</span> has<span style="s3"> anyone</span> seen this</p>
+<p begin="00:17:26.120" end="00:17:32.600" style="s2">map<span style="s4"> before</span> few<span style="s3"> people</span> so<span style="s3"> this</span> the New</p>
+<p begin="00:17:30.020" end="00:17:34.670" style="s2">York Times has like<span style="s3"> a</span> population<span style="s4"> density</span></p>
+<p begin="00:17:32.600" end="00:17:37.040" style="s2">map<span style="s4"> which</span> they have<span style="s3"> color coded</span><span style="s4"> based</span> on</p>
+<p begin="00:17:34.670" end="00:17:42.710" style="s2">the race<span style="s3"> of</span> people<span style="s3"> who</span> are<span style="s4"> living</span><span style="s3"> in</span></p>
+<p begin="00:17:37.040" end="00:17:45.170" style="s2">that<span style="s3"> census</span> block and Chicago is<span style="s4"> the</span></p>
+<p begin="00:17:42.710" end="00:17:49.460" style="s2">housing segregated to an extent<span style="s3"> many</span></p>
+<p begin="00:17:45.170" end="00:17:51.980" style="s2">cities are most of these are I<span style="s3"> think</span> and</p>
+<p begin="00:17:49.460" end="00:17:55.340" style="s2">so when I put those<span style="s4"> two</span> maps on top of</p>
+<p begin="00:17:51.980" end="00:17:58.490" style="s2">each other<span style="s3"> you&#39;ll</span> see that it&#39;s<span style="s3"> not</span> it&#39;s</p>
+<p begin="00:17:55.340" end="00:17:59.870" style="s2">not<span style="s4"> just an accidental</span><span style="s3"> placement</span> of</p>
+<p begin="00:17:58.490" end="00:18:03.950" style="s2">those borders there is sort of an</p>
+<p begin="00:17:59.870" end="00:18:05.779" style="s2">intentional plan here and in creating</p>
+<p begin="00:18:03.950" end="00:18:10.429" style="s2"><span style="s4">those</span> borders<span style="s3"> it&#39;s</span> connecting two</p>
+<p begin="00:18:05.779" end="00:18:12.909" style="s2">separate<span style="s3"> Hispanic</span> communities that</p>
+<p begin="00:18:10.429" end="00:18:15.649" style="s2"><span style="s4">otherwise</span> would be<span style="s3"> sort of merged into</span></p>
+<p begin="00:18:12.909" end="00:18:17.630" style="s2">another district<span style="s3"> and</span> then the district</p>
+<p begin="00:18:15.649" end="00:18:18.679" style="s2">that kind of goes in between<span style="s3"> those</span> two</p>
+<p begin="00:18:17.630" end="00:18:20.450" style="s2">halves</p>
+<p begin="00:18:18.679" end="00:18:25.669" style="s2">goes further down<span style="s4"> into</span><span style="s3"> the</span> south side</p>
+<p begin="00:18:20.450" end="00:18:27.350" style="s2"><span style="s3">and is a black majority district so this</span></p>
+<p begin="00:18:25.669" end="00:18:32.149" style="s2">practice<span style="s4"> is</span> called<span style="s3"> majority</span> minority</p>
+<p begin="00:18:27.350" end="00:18:35.330" style="s2">district<span style="s4"> this is sort</span> of decided by the</p>
+<p begin="00:18:32.149" end="00:18:37.909" style="s2">Voting<span style="s4"> Rights</span> Act in the 1960s<span style="s3"> and</span> then</p>
+<p begin="00:18:35.330" end="00:18:40.520" style="s2">over<span style="s3"> time</span> the Supreme<span style="s4"> Court has defended</span></p>
+<p begin="00:18:37.909" end="00:18:43.520" style="s2"><span style="s3">it</span> and defined it using something<span style="s4"> that&#39;s</span></p>
+<p begin="00:18:40.520" end="00:18:45.260" style="s2">called the jingles<span style="s3"> conditions so they</span></p>
+<p begin="00:18:43.520" end="00:18:49.390" style="s2"><span style="s4">were</span><span style="s3"> trying</span><span style="s4"> to</span> come<span style="s3"> up</span><span style="s4"> with</span> what is<span style="s4"> a</span></p>
+<p begin="00:18:45.260" end="00:18:53.419" style="s2">good way to represent minority groups<span style="s3"> in</span></p>
+<p begin="00:18:49.390" end="00:18:55.730" style="s2">Congress and there are several<span style="s3"> ways</span> that</p>
+<p begin="00:18:53.419" end="00:18:58.279" style="s2"><span style="s3">you</span> could do<span style="s3"> this I don&#39;t particularly</span></p>
+<p begin="00:18:55.730" end="00:19:00.559" style="s2">know like the best way<span style="s4"> or</span> the right<span style="s4"> way</span></p>
+<p begin="00:18:58.279" end="00:19:03.500" style="s2"><span style="s4">but</span> in the 1960s<span style="s4"> they</span> wanted to come up</p>
+<p begin="00:19:00.559" end="00:19:05.990" style="s2"><span style="s3">with</span> a system that<span style="s3"> would logically</span></p>
+<p begin="00:19:03.500" end="00:19:08.600" style="s2">follow and create this sort<span style="s3"> of</span></p>
+<p begin="00:19:05.990" end="00:19:11.090" style="s2">representation<span style="s3"> in</span> Congress<span style="s3"> and</span> I think</p>
+<p begin="00:19:08.600" end="00:19:14.240" style="s2"><span style="s4">for</span><span style="s3"> me</span> what<span style="s4"> really</span> sells me on this is</p>
+<p begin="00:19:11.090" end="00:19:16.429" style="s2">that if you look at the house and<span style="s4"> you</span></p>
+<p begin="00:19:14.240" end="00:19:20.840" style="s2">look at the<span style="s3"> Senate</span> the Senate<span style="s4"> has</span> never</p>
+<p begin="00:19:16.429" end="00:19:22.490" style="s2">had like real<span style="s3"> diversity</span> in it like</p>
+<p begin="00:19:20.840" end="00:19:26.600" style="s2">there&#39;s several<span style="s4"> reasons</span> for that<span style="s4"> like</span></p>
+<p begin="00:19:22.490" end="00:19:28.220" style="s2">who was being nominated<span style="s3"> to</span> run<span style="s3"> this</span> sort</p>
+<p begin="00:19:26.600" end="00:19:29.390" style="s2">of like seniority within<span style="s3"> the</span> party</p>
+<p begin="00:19:28.220" end="00:19:32.570" style="s2">there&#39;s some different<span style="s3"> rules</span> like<span style="s4"> that</span></p>
+<p begin="00:19:29.390" end="00:19:33.890" style="s2"><span style="s3">but</span> you can definitely<span style="s4"> look</span> at what</p>
+<p begin="00:19:32.570" end="00:19:36.320" style="s2">happens when there&#39;s a statewide</p>
+<p begin="00:19:33.890" end="00:19:38.539" style="s2">election<span style="s4"> and</span> say you know what maybe<span style="s3"> it</span></p>
+<p begin="00:19:36.320" end="00:19:40.429" style="s2">makes sense<span style="s4"> if</span> there&#39;s a community<span style="s4"> of</span></p>
+<p begin="00:19:38.539" end="00:19:41.960" style="s2"><span style="s3">interest</span><span style="s4"> that&#39;s</span> the phrase they use it&#39;s</p>
+<p begin="00:19:40.429" end="00:19:45.350" style="s2">not<span style="s4"> it</span><span style="s3"> is</span> the phrase use of the</p>
+<p begin="00:19:41.960" end="00:19:48.380" style="s2">community<span style="s3"> of interest that needs</span><span style="s4"> to</span> want</p>
+<p begin="00:19:45.350" end="00:19:51.080" style="s2"><span style="s3">to</span> have a candidate<span style="s4"> of</span> their choice<span style="s4"> then</span></p>
+<p begin="00:19:48.380" end="00:19:54.289" style="s2">it is sort of discriminatory<span style="s4"> to</span> split up</p>
+<p begin="00:19:51.080" end="00:19:55.909" style="s2">that community into other<span style="s4"> areas</span> and sort</p>
+<p begin="00:19:54.289" end="00:19:58.909" style="s2"><span style="s3">of</span> disenfranchise them<span style="s3"> so</span> the Supreme</p>
+<p begin="00:19:55.909" end="00:20:00.230" style="s2">Court<span style="s4"> has</span> protected<span style="s3"> this in cases</span> of two</p>
+<p begin="00:19:58.909" end="00:20:03.130" style="s2">or three<span style="s4"> different</span><span style="s3"> minority</span><span style="s4"> groups</span></p>
+<p begin="00:20:00.230" end="00:20:03.130" style="s2">living<span style="s3"> close</span> together</p>
+<p begin="00:20:03.330" end="00:20:07.470" style="s2">so I think the benefits are<span style="s4"> clear</span> and</p>
+<p begin="00:20:05.730" end="00:20:10.139" style="s2">there<span style="s3"> are</span> some<span style="s4"> alternatives</span> have<span style="s3"> been</span></p>
+<p begin="00:20:07.470" end="00:20:12.360" style="s2">suggested one that I heard about the</p>
+<p begin="00:20:10.139" end="00:20:14.690" style="s2">conference is<span style="s4"> that</span> if<span style="s4"> there&#39;s</span><span style="s3"> a system</span></p>
+<p begin="00:20:12.360" end="00:20:17.429" style="s2">where each<span style="s4"> person</span> got<span style="s3"> five</span> votes<span style="s4"> and</span></p>
+<p begin="00:20:14.690" end="00:20:21.029" style="s2">each person you voted for<span style="s4"> you</span> can select</p>
+<p begin="00:20:17.429" end="00:20:22.799" style="s2">one<span style="s4"> to</span> five votes<span style="s4"> for</span> them then<span style="s3"> there</span></p>
+<p begin="00:20:21.029" end="00:20:24.389" style="s2">could be like a particular strong</p>
+<p begin="00:20:22.799" end="00:20:26.580" style="s2">interest on one candidate you can<span style="s3"> put</span></p>
+<p begin="00:20:24.389" end="00:20:28.169" style="s2">five votes<span style="s3"> for</span> example and<span style="s3"> there&#39;s</span></p>
+<p begin="00:20:26.580" end="00:20:30.840" style="s2">theoretically this<span style="s4"> would</span> be<span style="s3"> more</span></p>
+<p begin="00:20:28.169" end="00:20:32.850" style="s2">supportive but<span style="s3"> I</span> don&#39;t know<span style="s4"> of</span><span style="s3"> anyone</span> in</p>
+<p begin="00:20:30.840" end="00:20:35.450" style="s2"><span style="s3">the</span><span style="s4"> United</span> States that sort<span style="s3"> of</span> move</p>
+<p begin="00:20:32.850" end="00:20:38.429" style="s2">forward<span style="s4"> and</span> making<span style="s4"> the</span> system<span style="s3"> like</span> this</p>
+<p begin="00:20:35.450" end="00:20:39.980" style="s2">even this<span style="s3"> is</span> something that<span style="s3"> I really</span></p>
+<p begin="00:20:38.429" end="00:20:42.480" style="s2">appreciate hearing<span style="s4"> from</span> political</p>
+<p begin="00:20:39.980" end="00:20:44.940" style="s2">scientists<span style="s3"> and</span> lawyers at the<span style="s3"> conference</span></p>
+<p begin="00:20:42.480" end="00:20:48.330" style="s2"><span style="s3">even</span> having a<span style="s3"> citywide</span> election<span style="s3"> can</span></p>
+<p begin="00:20:44.940" end="00:20:50.460" style="s2">disenfranchise people<span style="s4"> so</span><span style="s3"> I&#39;m</span> from New</p>
+<p begin="00:20:48.330" end="00:20:52.259" style="s2">Hampshire<span style="s4"> this</span> conference<span style="s3"> was</span><span style="s4"> in</span></p>
+<p begin="00:20:50.460" end="00:20:54.869" style="s2">Massachusetts<span style="s4"> so</span> they spoke to<span style="s3"> people</span></p>
+<p begin="00:20:52.259" end="00:20:56.519" style="s2">who represented the city of Lowell<span style="s3"> or</span></p>
+<p begin="00:20:54.869" end="00:20:59.909" style="s2">challenged the city of Lowell I should</p>
+<p begin="00:20:56.519" end="00:21:04.379" style="s2">say<span style="s3"> so</span> has anyone<span style="s4"> been</span> to<span style="s4"> Lowell okay</span></p>
+<p begin="00:20:59.909" end="00:21:06.440" style="s2"><span style="s3">some</span> people<span style="s4"> okay so it&#39;s actually one of</span></p>
+<p begin="00:21:04.379" end="00:21:09.799" style="s2">the<span style="s3"> more</span> diverse<span style="s3"> places</span> in Massachusetts</p>
+<p begin="00:21:06.440" end="00:21:12.799" style="s2"><span style="s4">but</span> because all of<span style="s3"> the</span> positions<span style="s3"> for</span></p>
+<p begin="00:21:09.799" end="00:21:16.200" style="s2">City Council were citywide elected</p>
+<p begin="00:21:12.799" end="00:21:18.450" style="s2"><span style="s3">minority</span> groups were not even able<span style="s3"> to</span></p>
+<p begin="00:21:16.200" end="00:21:20.639" style="s2">select one candidate elect one candidate</p>
+<p begin="00:21:18.450" end="00:21:22.649" style="s2"><span style="s3">into</span> office<span style="s3"> without</span> kind of crossing</p>
+<p begin="00:21:20.639" end="00:21:24.749" style="s2"><span style="s3">over</span> and so they were asking<span style="s4"> is</span> it</p>
+<p begin="00:21:22.649" end="00:21:26.820" style="s2">possible<span style="s4"> that</span> you<span style="s3"> can</span> redistricted</p>
+<p begin="00:21:24.749" end="00:21:30.989" style="s2"><span style="s3">everyone</span> can be represented a little bit</p>
+<p begin="00:21:26.820" end="00:21:32.489" style="s2">more equally<span style="s3"> and</span> in Minneapolis<span style="s4"> this has</span></p>
+<p begin="00:21:30.989" end="00:21:36.419" style="s2">happened<span style="s3"> on a more successful level this</span></p>
+<p begin="00:21:32.489" end="00:21:38.759" style="s2"><span style="s4">is</span> 2013<span style="s3"> once there is community</span></p>
+<p begin="00:21:36.419" end="00:21:41.460" style="s2"><span style="s3">involvement</span> in setting the district</p>
+<p begin="00:21:38.759" end="00:21:43.859" style="s2">boundaries in one election<span style="s3"> you</span> get<span style="s3"> the</span></p>
+<p begin="00:21:41.460" end="00:21:46.859" style="s2">first Hmong Somali and Hispanic<span style="s4"> city</span></p>
+<p begin="00:21:43.859" end="00:21:48.869" style="s2"><span style="s4">council</span> members so this is more</p>
+<p begin="00:21:46.859" end="00:21:50.609" style="s2">happening<span style="s4"> on</span> the local level<span style="s4"> like</span> even</p>
+<p begin="00:21:48.869" end="00:21:53.909" style="s2"><span style="s3">like</span> school board and<span style="s3"> City</span> Council</p>
+<p begin="00:21:50.609" end="00:21:56.460" style="s2">decisions<span style="s3"> but</span> this is the case where you</p>
+<p begin="00:21:53.909" end="00:21:58.769" style="s2"><span style="s3">could</span> say I want ordinary people<span style="s4"> to</span> know</p>
+<p begin="00:21:56.460" end="00:22:01.259" style="s2">what&#39;s going<span style="s3"> on</span> with their district<span style="s4"> and</span></p>
+<p begin="00:21:58.769" end="00:22:04.049" style="s2"><span style="s3">be</span><span style="s4"> able</span><span style="s3"> to</span> say I want this district<span style="s4"> to</span></p>
+<p begin="00:22:01.259" end="00:22:06.179" style="s2">look like this<span style="s4"> or</span><span style="s3"> I</span> mean I think</p>
+<p begin="00:22:04.049" end="00:22:07.889" style="s2">everyone<span style="s4"> should</span><span style="s3"> have</span> an<span style="s4"> equal</span></p>
+<p begin="00:22:06.179" end="00:22:11.159" style="s2"><span style="s4">opportunity</span> to run for<span style="s4"> office</span><span style="s3"> and</span></p>
+<p begin="00:22:07.889" end="00:22:12.960" style="s2">represent their<span style="s4"> community</span> and there&#39;s</p>
+<p begin="00:22:11.159" end="00:22:15.350" style="s2"><span style="s3">sort</span> of like<span style="s4"> this</span> mathematical thing is</p>
+<p begin="00:22:12.960" end="00:22:18.770" style="s2">saying how do we<span style="s3"> quantify</span> that<span style="s3"> how</span> do we</p>
+<p begin="00:22:15.350" end="00:22:22.340" style="s2"><span style="s4">we</span> compensate for like<span style="s3"> something that we</span></p>
+<p begin="00:22:18.770" end="00:22:23.990" style="s2">calculated<span style="s4"> as</span> like a racist<span style="s3"> factor</span> right</p>
+<p begin="00:22:22.340" end="00:22:25.850" style="s2"><span style="s3">so</span> there&#39;s sort of<span style="s3"> building</span> up</p>
+<p begin="00:22:23.990" end="00:22:28.789" style="s2">experience in these different<span style="s3"> legal</span></p>
+<p begin="00:22:25.850" end="00:22:30.470" style="s2">cases and across the<span style="s4"> country</span><span style="s3"> to</span></p>
+<p begin="00:22:28.789" end="00:22:32.000" style="s2">understand what happens if you</p>
+<p begin="00:22:30.470" end="00:22:36.260" style="s2">redistrict in the right way or<span style="s3"> the</span><span style="s4"> wrong</span></p>
+<p begin="00:22:32.000" end="00:22:39.440" style="s2">way<span style="s4"> and</span> there&#39;s sort of<span style="s3"> this</span> complex</p>
+<p begin="00:22:36.260" end="00:22:41.059" style="s2"><span style="s4">twist</span> to this where<span style="s3"> what</span> you see in the</p>
+<p begin="00:22:39.440" end="00:22:44.419" style="s2"><span style="s4">middle</span> here you<span style="s3"> can</span> see it pretty<span style="s3"> well I</span></p>
+<p begin="00:22:41.059" end="00:22:47.000" style="s2">hope is<span style="s3"> that</span> orange<span style="s3"> district is North</span></p>
+<p begin="00:22:44.419" end="00:22:48.590" style="s2"><span style="s3">Carolina&#39;s 12th district it&#39;s not</span></p>
+<p begin="00:22:47.000" end="00:22:52.280" style="s2">following a river it&#39;s<span style="s4"> just</span> kind of</p>
+<p begin="00:22:48.590" end="00:22:55.360" style="s2">there<span style="s4"> and</span> this was struck down<span style="s4"> by</span> the</p>
+<p begin="00:22:52.280" end="00:22:58.010" style="s2">Supreme<span style="s4"> Court</span> fairly recently as</p>
+<p begin="00:22:55.360" end="00:23:00.440" style="s2">racially motivated gerrymandering<span style="s3"> and</span></p>
+<p begin="00:22:58.010" end="00:23:04.010" style="s2">the defense of people in North Carolina</p>
+<p begin="00:23:00.440" end="00:23:06.049" style="s2">the state legislature was that it was a</p>
+<p begin="00:23:04.010" end="00:23:09.080" style="s2"><span style="s3">partisan</span> gerrymander<span style="s3"> and</span> that it was</p>
+<p begin="00:23:06.049" end="00:23:12.530" style="s2"><span style="s4">therefore</span><span style="s3"> legal</span> so this is a weird space</p>
+<p begin="00:23:09.080" end="00:23:13.880" style="s2"><span style="s4">for you say well like is it possible</span></p>
+<p begin="00:23:12.530" end="00:23:15.490" style="s2"><span style="s4">that</span> they were<span style="s3"> just trying to</span> find</p>
+<p begin="00:23:13.880" end="00:23:18.320" style="s2">Democrats and not try to exclude</p>
+<p begin="00:23:15.490" end="00:23:20.419" style="s2">particular racial group<span style="s4"> and</span> the sort of</p>
+<p begin="00:23:18.320" end="00:23:23.720" style="s2">thing that you<span style="s4"> know you have to go into</span></p>
+<p begin="00:23:20.419" end="00:23:25.880" style="s2"><span style="s3">different legal</span><span style="s4"> cases</span> about<span style="s3"> it</span><span style="s4"> but</span> it&#39;s</p>
+<p begin="00:23:23.720" end="00:23:29.210" style="s2">definitely an unusual district it&#39;s the</p>
+<p begin="00:23:25.880" end="00:23:32.750" style="s2">sort of thing<span style="s4"> where</span> their intent is</p>
+<p begin="00:23:29.210" end="00:23:34.610" style="s2">being<span style="s4"> wave</span> and things<span style="s3"> like</span><span style="s4"> that</span><span style="s3"> so</span> it&#39;s</p>
+<p begin="00:23:32.750" end="00:23:37.250" style="s2">sort of<span style="s3"> an</span> ongoing process<span style="s4"> it</span> would<span style="s3"> be</span> a</p>
+<p begin="00:23:34.610" end="00:23:39.650" style="s2">lot easier<span style="s4"> if</span> there<span style="s3"> is</span> a<span style="s3"> test</span> for</p>
+<p begin="00:23:37.250" end="00:23:42.140" style="s2"><span style="s3">partisan</span> gerrymandering<span style="s3"> that</span><span style="s4"> said</span><span style="s3"> well</span></p>
+<p begin="00:23:39.650" end="00:23:43.880" style="s2"><span style="s3">even</span> if you were<span style="s3"> doing</span><span style="s4"> this</span><span style="s3"> to</span> make<span style="s4"> it</span></p>
+<p begin="00:23:42.140" end="00:23:45.890" style="s2"><span style="s4">impossible</span> for<span style="s3"> the</span><span style="s4"> other</span> districts to</p>
+<p begin="00:23:43.880" end="00:23:47.750" style="s2">vote Democrat it should be illegal</p>
+<p begin="00:23:45.890" end="00:23:51.169" style="s2"><span style="s4">because</span> you&#39;re<span style="s3"> you&#39;re</span> creating a</p>
+<p begin="00:23:47.750" end="00:23:52.100" style="s2">district<span style="s3"> that&#39;s</span> so abnormal so there&#39;s</p>
+<p begin="00:23:51.169" end="00:23:54.260" style="s2">several other ideas</p>
+<p begin="00:23:52.100" end="00:23:56.059" style="s2"><span style="s4">so</span><span style="s3"> I</span> mentioned<span style="s4"> there</span> was this like</p>
+<p begin="00:23:54.260" end="00:23:59.530" style="s2">hackathon pitch how are we going<span style="s3"> to do</span></p>
+<p begin="00:23:56.059" end="00:24:03.559" style="s2">this<span style="s3"> so</span> the organizer of this conference</p>
+<p begin="00:23:59.530" end="00:24:07.400" style="s2"><span style="s4">moon Duchin is a math professor</span> at Tufts</p>
+<p begin="00:24:03.559" end="00:24:09.130" style="s2">University<span style="s4"> and</span> she is proposing<span style="s4"> to</span><span style="s3"> use</span></p>
+<p begin="00:24:07.400" end="00:24:11.299" style="s2">some<span style="s4"> different</span> measures of<span style="s3"> curvature</span></p>
+<p begin="00:24:09.130" end="00:24:13.220" style="s2"><span style="s4">there&#39;s</span> some other mathematicians<span style="s3"> there</span></p>
+<p begin="00:24:11.299" end="00:24:15.500" style="s2">that we&#39;re<span style="s4"> doing</span> some graph theory I</p>
+<p begin="00:24:13.220" end="00:24:17.059" style="s2"><span style="s3">include</span> this diagram<span style="s3"> because</span> it makes</p>
+<p begin="00:24:15.500" end="00:24:19.460" style="s2">sense to me that<span style="s3"> you</span> would connect<span style="s3"> the</span></p>
+<p begin="00:24:17.059" end="00:24:21.860" style="s2">different<span style="s3"> districts</span> and<span style="s3"> nodes do we have</span></p>
+<p begin="00:24:19.460" end="00:24:23.630" style="s2"><span style="s3">like mathematician like</span> really up there</p>
+<p begin="00:24:21.860" end="00:24:24.760" style="s2">mathematician people here it&#39;s okay you</p>
+<p begin="00:24:23.630" end="00:24:27.460" style="s2">can<span style="s3"> say</span> you&#39;re up there</p>
+<p begin="00:24:24.760" end="00:24:31.510" style="s2"><span style="s3">okay</span> cool<span style="s3"> so</span><span style="s4"> I</span> have to have one<span style="s3"> of</span> you</p>
+<p begin="00:24:27.460" end="00:24:32.710" style="s2"><span style="s3">mask people do that thing where you ask</span></p>
+<p begin="00:24:31.510" end="00:24:37.150" style="s2">a<span style="s4"> question</span> but it&#39;s<span style="s4"> really</span><span style="s3"> more</span> of a</p>
+<p begin="00:24:32.710" end="00:24:40.020" style="s2">comment<span style="s3"> so</span> like you&#39;re here you were</p>
+<p begin="00:24:37.150" end="00:24:42.040" style="s2">totally excused<span style="s3"> for</span> that<span style="s4"> because</span> I</p>
+<p begin="00:24:40.020" end="00:24:44.770" style="s2">really tried to understand what<span style="s3"> the</span></p>
+<p begin="00:24:42.040" end="00:24:47.470" style="s2">curvature thing is but I mean<span style="s4"> I</span> thought</p>
+<p begin="00:24:44.770" end="00:24:49.090" style="s2">I took geometry<span style="s3"> at</span> some point but I<span style="s3"> mean</span></p>
+<p begin="00:24:47.470" end="00:24:52.660" style="s2">they&#39;re<span style="s3"> they&#39;re</span> like<span style="s3"> this</span> extra<span style="s3"> level</span> of</p>
+<p begin="00:24:49.090" end="00:24:55.270" style="s2">geometry<span style="s4"> there&#39;s</span> also this statistic</p>
+<p begin="00:24:52.660" end="00:24:56.740" style="s2">called ecological inference where I mean</p>
+<p begin="00:24:55.270" end="00:24:58.740" style="s2">you don&#39;t know how every individual</p>
+<p begin="00:24:56.740" end="00:25:01.630" style="s2">person voted but if you collect</p>
+<p begin="00:24:58.740" end="00:25:04.450" style="s2">demographics<span style="s4"> about</span> different<span style="s3"> polling</span></p>
+<p begin="00:25:01.630" end="00:25:06.460" style="s2">places and voting records from<span style="s3"> those</span></p>
+<p begin="00:25:04.450" end="00:25:10.450" style="s2">polling places<span style="s4"> you</span> could come up<span style="s3"> with a</span></p>
+<p begin="00:25:06.460" end="00:25:12.400" style="s2">like a band of probability about how</p>
+<p begin="00:25:10.450" end="00:25:14.820" style="s2">people are<span style="s4"> voting</span> and<span style="s3"> use</span> that to say</p>
+<p begin="00:25:12.400" end="00:25:17.350" style="s2"><span style="s3">like</span> whether the district has been</p>
+<p begin="00:25:14.820" end="00:25:20.880" style="s2"><span style="s3">gerrymandered</span> in a racial<span style="s3"> or</span> partisan</p>
+<p begin="00:25:17.350" end="00:25:24.400" style="s2"><span style="s3">way</span> maybe we<span style="s3"> could</span> use<span style="s3"> supercomputers</span></p>
+<p begin="00:25:20.880" end="00:25:26.049" style="s2"><span style="s3">these</span> two people I met<span style="s3"> and</span> Wendy Cho</p>
+<p begin="00:25:24.400" end="00:25:29.080" style="s2">spoke at the conference there&#39;s a video</p>
+<p begin="00:25:26.049" end="00:25:31.540" style="s2">on YouTube<span style="s3"> where</span> they&#39;re<span style="s3"> using</span></p>
+<p begin="00:25:29.080" end="00:25:36.549" style="s2">supercomputers<span style="s3"> to look at the district</span></p>
+<p begin="00:25:31.540" end="00:25:40.299" style="s2">map and it&#39;s not<span style="s3"> possible</span> to<span style="s3"> create</span> all</p>
+<p begin="00:25:36.549" end="00:25:42.370" style="s2"><span style="s4">of</span> the possible districts<span style="s3"> but</span> what they</p>
+<p begin="00:25:40.299" end="00:25:46.270" style="s2">do is<span style="s4"> they</span> create many millions<span style="s3"> of</span></p>
+<p begin="00:25:42.370" end="00:25:47.919" style="s2">districts<span style="s3"> and</span> maps<span style="s4"> and</span> there are</p>
+<p begin="00:25:46.270" end="00:25:50.380" style="s2">different approaches their approach is I</p>
+<p begin="00:25:47.919" end="00:25:52.710" style="s2">understand it is they come up with<span style="s3"> an</span></p>
+<p begin="00:25:50.380" end="00:25:56.260" style="s2">algorithm<span style="s4"> that&#39;s</span> random and unbiased<span style="s4"> and</span></p>
+<p begin="00:25:52.710" end="00:25:58.660" style="s2">follows the laws and regulations for</p>
+<p begin="00:25:56.260" end="00:26:01.090" style="s2">creating districts<span style="s3"> and</span> then they have a</p>
+<p begin="00:25:58.660" end="00:26:03.970" style="s2">second<span style="s4"> algorithm</span> that<span style="s3"> has</span><span style="s4"> a</span> partisan</p>
+<p begin="00:26:01.090" end="00:26:07.440" style="s2"><span style="s3">bias and the idea is if you made</span> like a</p>
+<p begin="00:26:03.970" end="00:26:10.990" style="s2">normal distribution<span style="s3"> of</span> computer<span style="s4"> maps</span></p>
+<p begin="00:26:07.440" end="00:26:13.809" style="s2"><span style="s4">where</span> would you<span style="s4"> find</span> the real world map</p>
+<p begin="00:26:10.990" end="00:26:17.020" style="s2">so think about<span style="s3"> if</span> you create a bunch of</p>
+<p begin="00:26:13.809" end="00:26:20.169" style="s2">random<span style="s4"> maps they should kind of follow</span></p>
+<p begin="00:26:17.020" end="00:26:22.450" style="s2">that like the average<span style="s4"> would be the most</span></p>
+<p begin="00:26:20.169" end="00:26:24.100" style="s2">fair<span style="s4"> and</span> what usually happens<span style="s3"> on these</span></p>
+<p begin="00:26:22.450" end="00:26:26.620" style="s2">graphs<span style="s3"> is</span> you see like a very<span style="s3"> normal</span></p>
+<p begin="00:26:24.100" end="00:26:29.650" style="s2">curve and then the<span style="s4"> state&#39;s</span> plan<span style="s4"> is</span> like</p>
+<p begin="00:26:26.620" end="00:26:32.410" style="s2">many standard<span style="s4"> deviations</span> out someplace</p>
+<p begin="00:26:29.650" end="00:26:34.780" style="s2"><span style="s3">else</span><span style="s4"> so</span> it&#39;s really<span style="s3"> powerful</span><span style="s4"> to</span> say like</p>
+<p begin="00:26:32.410" end="00:26:36.790" style="s2">this map<span style="s3"> clearly</span> was not<span style="s3"> just</span> drawn by</p>
+<p begin="00:26:34.780" end="00:26:38.350" style="s2">accident<span style="s3"> because</span> it is a very<span style="s3"> common</span></p>
+<p begin="00:26:36.790" end="00:26:41.340" style="s2">claim</p>
+<p begin="00:26:38.350" end="00:26:43.799" style="s2">by researchers is<span style="s4"> that</span> because<span style="s4"> of</span> these</p>
+<p begin="00:26:41.340" end="00:26:46.390" style="s2"><span style="s3">majority-minority</span> districts or because</p>
+<p begin="00:26:43.799" end="00:26:49.210" style="s2">Democrats<span style="s3"> tend</span> to<span style="s4"> concentrate</span> in cities</p>
+<p begin="00:26:46.390" end="00:26:51.250" style="s2"><span style="s3">they&#39;re</span> saying maybe Democrats<span style="s3"> just</span> live</p>
+<p begin="00:26:49.210" end="00:26:54.039" style="s2">in the wrong places and we accidentally</p>
+<p begin="00:26:51.250" end="00:26:56.530" style="s2"><span style="s4">put</span> them into a gerrymandered district</p>
+<p begin="00:26:54.039" end="00:26:58.539" style="s2"><span style="s3">so</span> it&#39;s an<span style="s3"> interesting</span> argument<span style="s3"> and</span> if a</p>
+<p begin="00:26:56.530" end="00:26:59.049" style="s2"><span style="s3">computer</span> does the same thing<span style="s3"> you</span> could</p>
+<p begin="00:26:58.539" end="00:27:01.419" style="s2">say so</p>
+<p begin="00:26:59.049" end="00:27:06.330" style="s2"><span style="s4">but</span> if a computer has a more fair</p>
+<p begin="00:27:01.419" end="00:27:08.830" style="s2"><span style="s3">selection then it seems more intentional</span></p>
+<p begin="00:27:06.330" end="00:27:11.440" style="s2"><span style="s3">and whatever we do with this like in</span></p>
+<p begin="00:27:08.830" end="00:27:13.960" style="s2">math and the court<span style="s3"> all</span> things<span style="s3"> like that</span></p>
+<p begin="00:27:11.440" end="00:27:15.159" style="s2">we need to have informed voters<span style="s3"> think</span></p>
+<p begin="00:27:13.960" end="00:27:20.500" style="s2">that makes the most sense<span style="s3"> it&#39;s</span> something</p>
+<p begin="00:27:15.159" end="00:27:21.610" style="s2">that all of<span style="s4"> us</span> can do<span style="s3"> and</span> so there were</p>
+<p begin="00:27:20.500" end="00:27:23.080" style="s2">these different<span style="s3"> groups</span> within<span style="s4"> the</span></p>
+<p begin="00:27:21.610" end="00:27:26.350" style="s2">conference<span style="s4"> the</span> group<span style="s3"> that</span> I was<span style="s3"> working</span></p>
+<p begin="00:27:23.080" end="00:27:30.299" style="s2"><span style="s3">with with sort of the GIS mapping group</span></p>
+<p begin="00:27:26.350" end="00:27:32.890" style="s2">and so the projects that were created on</p>
+<p begin="00:27:30.299" end="00:27:34.480" style="s2">one<span style="s4"> is</span> sort<span style="s4"> of a web app that I&#39;ll talk</span></p>
+<p begin="00:27:32.890" end="00:27:37.210" style="s2"><span style="s3">about</span> in a moment<span style="s3"> there&#39;s</span> another</p>
+<p begin="00:27:34.480" end="00:27:41.110" style="s2">project<span style="s3"> that&#39;s</span> like a Python library</p>
+<p begin="00:27:37.210" end="00:27:44.740" style="s2">that<span style="s3"> does</span> different<span style="s4"> curvature</span> metrics</p>
+<p begin="00:27:41.110" end="00:27:47.020" style="s2">maybe your mathematician<span style="s3"> representatives</span></p>
+<p begin="00:27:44.740" end="00:27:49.330" style="s2">can tell us what pulls<span style="s3"> be popper</span></p>
+<p begin="00:27:47.020" end="00:27:52.950" style="s2">Schwartzberg<span style="s4"> I</span> know what convex hole is</p>
+<p begin="00:27:49.330" end="00:27:56.440" style="s2">but I<span style="s4"> mean an Rioch</span> what those ones are</p>
+<p begin="00:27:52.950" end="00:27:59.620" style="s2"><span style="s3">so</span> there&#39;s some several<span style="s3"> repos</span> up there</p>
+<p begin="00:27:56.440" end="00:28:02.620" style="s2"><span style="s3">on</span> github and there&#39;s also like a QGIS</p>
+<p begin="00:27:59.620" end="00:28:04.210" style="s2">plug-in that uses<span style="s3"> this</span> Python script and</p>
+<p begin="00:28:02.620" end="00:28:06.159" style="s2">sort of<span style="s3"> things</span> that<span style="s4"> we&#39;ve</span> been building</p>
+<p begin="00:28:04.210" end="00:28:07.570" style="s2"><span style="s3">off</span> these different tools just in<span style="s3"> the</span></p>
+<p begin="00:28:06.159" end="00:28:09.850" style="s2">last two days of<span style="s3"> the</span><span style="s4"> conference</span> they</p>
+<p begin="00:28:07.570" end="00:28:11.770" style="s2">were<span style="s4"> starting</span> to set this up and it&#39;s</p>
+<p begin="00:28:09.850" end="00:28:15.400" style="s2">gerrymander with no<span style="s3"> e</span> at the ends just</p>
+<p begin="00:28:11.770" end="00:28:16.990" style="s2"><span style="s4">Jerry</span><span style="s3"> Mandar</span> like that</p>
+<p begin="00:28:15.400" end="00:28:19.179" style="s2">so the project that<span style="s4"> I</span> worked on for</p>
+<p begin="00:28:16.990" end="00:28:22.080" style="s2"><span style="s4">those</span> two days I&#39;m calling district</p>
+<p begin="00:28:19.179" end="00:28:25.480" style="s2">genius do we<span style="s3"> have</span> any rap genius fans<span style="s3"> a</span></p>
+<p begin="00:28:22.080" end="00:28:26.950" style="s2"><span style="s4">few</span> people let me tell<span style="s4"> you</span> when I go</p>
+<p begin="00:28:25.480" end="00:28:28.169" style="s2">into this room of mathematicians<span style="s4"> and</span></p>
+<p begin="00:28:26.950" end="00:28:35.140" style="s2">tell them it&#39;s gonna be like rap genius</p>
+<p begin="00:28:28.169" end="00:28:37.570" style="s2"><span style="s3">not</span> go over very<span style="s4"> well but the main idea</span></p>
+<p begin="00:28:35.140" end="00:28:40.770" style="s2"><span style="s4">behind</span> rap genius<span style="s4"> is</span><span style="s3"> that</span> you have the</p>
+<p begin="00:28:37.570" end="00:28:43.110" style="s2">lyrics<span style="s4"> and</span> then you just as you browse</p>
+<p begin="00:28:40.770" end="00:28:46.360" style="s2"><span style="s3">the</span> lyrics<span style="s3"> you&#39;re</span> getting like</p>
+<p begin="00:28:43.110" end="00:28:47.830" style="s2"><span style="s3">crowdsource</span><span style="s4"> annotations</span> and comments</p>
+<p begin="00:28:46.360" end="00:28:51.539" style="s2">that sort of explain what you&#39;re looking</p>
+<p begin="00:28:47.830" end="00:28:53.879" style="s2">at and what<span style="s4"> I</span> want<span style="s3"> to</span> do<span style="s3"> so</span></p>
+<p begin="00:28:51.539" end="00:28:56.159" style="s2"><span style="s4">at</span> screen<span style="s4"> Shawn</span><span style="s3"> left</span> is really</p>
+<p begin="00:28:53.879" end="00:28:58.590" style="s2"><span style="s3">interesting</span> things like<span style="s3"> this</span> in my</p>
+<p begin="00:28:56.159" end="00:29:00.419" style="s2">district border<span style="s4"> it</span> could be there on</p>
+<p begin="00:28:58.590" end="00:29:02.879" style="s2">purpose<span style="s3"> it could be like a school or a</span></p>
+<p begin="00:29:00.419" end="00:29:05.609" style="s2">park<span style="s4"> or</span> could<span style="s4"> just</span> be<span style="s3"> really</span> weird and</p>
+<p begin="00:29:02.879" end="00:29:07.979" style="s2">I&#39;m saying what is this and things like</p>
+<p begin="00:29:05.609" end="00:29:09.600" style="s2"><span style="s4">that I shouldn&#39;t</span><span style="s3"> just</span> be able<span style="s4"> to</span><span style="s3"> say oh</span></p>
+<p begin="00:29:07.979" end="00:29:11.669" style="s2">like my district looks really weird it</p>
+<p begin="00:29:09.600" end="00:29:15.509" style="s2">must be gerrymandered<span style="s4"> I</span> would like<span style="s3"> to</span></p>
+<p begin="00:29:11.669" end="00:29:17.369" style="s2">have this<span style="s3"> project</span> kind<span style="s3"> of</span> grow<span style="s3"> so</span><span style="s4"> that</span></p>
+<p begin="00:29:15.509" end="00:29:19.470" style="s2">there&#39;s sort<span style="s4"> of</span> some smart people<span style="s4"> can</span></p>
+<p begin="00:29:17.369" end="00:29:20.879" style="s2">come<span style="s3"> in and tell</span><span style="s4"> me</span> what&#39;s going<span style="s3"> on in</span></p>
+<p begin="00:29:19.470" end="00:29:23.849" style="s2">my<span style="s3"> district</span> why were<span style="s3"> these</span> borders</p>
+<p begin="00:29:20.879" end="00:29:26.009" style="s2">selected are these borders<span style="s3"> hurting me</span><span style="s4"> or</span></p>
+<p begin="00:29:23.849" end="00:29:27.989" style="s2">helping me in some way<span style="s4"> and</span> I&#39;m hoping</p>
+<p begin="00:29:26.009" end="00:29:29.909" style="s2"><span style="s4">that</span> we can<span style="s3"> have that kind</span><span style="s4"> of</span> like rap</p>
+<p begin="00:29:27.989" end="00:29:31.649" style="s2">genius interface<span style="s4"> if</span> you&#39;re not<span style="s3"> on</span> rap</p>
+<p begin="00:29:29.909" end="00:29:34.619" style="s2">genius<span style="s4"> someone else is</span><span style="s3"> I suggested it</span></p>
+<p begin="00:29:31.649" end="00:29:36.570" style="s2"><span style="s4">should</span> be like SoundCloud<span style="s3"> where</span> you know</p>
+<p begin="00:29:34.619" end="00:29:39.330" style="s2">there&#39;s<span style="s3"> like</span> a<span style="s3"> really</span> interesting<span style="s3"> point</span></p>
+<p begin="00:29:36.570" end="00:29:40.769" style="s2"><span style="s3">in</span><span style="s4"> the</span> soundtrack<span style="s4"> if</span> there&#39;s a bunch<span style="s3"> of</span></p>
+<p begin="00:29:39.330" end="00:29:43.889" style="s2">like comments clustered around there</p>
+<p begin="00:29:40.769" end="00:29:45.570" style="s2"><span style="s4">just tried to</span> show here so I<span style="s3"> don&#39;t have</span></p>
+<p begin="00:29:43.889" end="00:29:47.639" style="s2"><span style="s4">that</span> visualization like in place<span style="s3"> but</span> I</p>
+<p begin="00:29:45.570" end="00:29:50.639" style="s2">just have like<span style="s3"> the</span> basic<span style="s3"> mapping</span> in</p>
+<p begin="00:29:47.639" end="00:29:51.359" style="s2">place so there&#39;s a quote<span style="s4"> that</span> I came</p>
+<p begin="00:29:50.639" end="00:29:52.950" style="s2"><span style="s3">across</span></p>
+<p begin="00:29:51.359" end="00:29:55.109" style="s2"><span style="s4">once</span><span style="s3"> that really stuck</span> with me<span style="s3"> which</span> is</p>
+<p begin="00:29:52.950" end="00:29:58.470" style="s2"><span style="s4">the</span><span style="s3"> battle for our</span> tomorrow starts today</p>
+<p begin="00:29:55.109" end="00:30:00.450" style="s2"><span style="s3">and</span> the census is in 2020 so<span style="s3"> the</span></p>
+<p begin="00:29:58.470" end="00:30:03.359" style="s2">redistricting is not like<span style="s3"> going</span> to</p>
+<p begin="00:30:00.450" end="00:30:05.970" style="s2"><span style="s3">happen</span> like<span style="s3"> in</span> the immediate future<span style="s4"> but</span></p>
+<p begin="00:30:03.359" end="00:30:07.649" style="s2">this conference is really<span style="s3"> bringing</span> in a</p>
+<p begin="00:30:05.970" end="00:30:09.989" style="s2">lot of<span style="s3"> new information connecting a lot</span></p>
+<p begin="00:30:07.649" end="00:30:13.590" style="s2"><span style="s3">of different people and</span><span style="s4"> trying</span><span style="s3"> to</span> come</p>
+<p begin="00:30:09.989" end="00:30:15.749" style="s2"><span style="s4">up with</span><span style="s3"> a</span> strategy<span style="s3"> for</span> I mean it&#39;s run</p>
+<p begin="00:30:13.590" end="00:30:16.859" style="s2">by a non partisan group which is saying</p>
+<p begin="00:30:15.749" end="00:30:20.340" style="s2"><span style="s3">that</span> we should<span style="s3"> be</span> able to come up<span style="s3"> with</span></p>
+<p begin="00:30:16.859" end="00:30:22.169" style="s2"><span style="s3">standards that objectively tell you if</span></p>
+<p begin="00:30:20.340" end="00:30:24.840" style="s2">this district<span style="s4"> is</span> strange or not the</p>
+<p begin="00:30:22.169" end="00:30:26.700" style="s2">district as partisan or not and the</p>
+<p begin="00:30:24.840" end="00:30:29.450" style="s2">theory<span style="s4"> is</span> that<span style="s3"> that</span> will<span style="s3"> make</span> a real</p>
+<p begin="00:30:26.700" end="00:30:31.499" style="s2"><span style="s3">difference</span><span style="s4"> they&#39;ll</span><span style="s3"> make</span> it possible for</p>
+<p begin="00:30:29.450" end="00:30:35.129" style="s2">Congress to more accurately represent</p>
+<p begin="00:30:31.499" end="00:30:36.960" style="s2"><span style="s4">what</span><span style="s3"> people</span> believe<span style="s4"> so</span> even though it</p>
+<p begin="00:30:35.129" end="00:30:38.609" style="s2">turns out this quote when I googled it</p>
+<p begin="00:30:36.960" end="00:30:41.789" style="s2"><span style="s3">actually</span> I picked<span style="s3"> it</span> up<span style="s3"> from the</span></p>
+<p begin="00:30:38.609" end="00:30:46.169" style="s2">Terminator TV series<span style="s4"> I</span> think<span style="s4"> it</span> applies</p>
+<p begin="00:30:41.789" end="00:30:48.419" style="s2">to<span style="s4"> our democracy as well because what we</span></p>
+<p begin="00:30:46.169" end="00:30:49.979" style="s2">because<span style="s4"> you</span> can start planning<span style="s3"> we</span> know</p>
+<p begin="00:30:48.419" end="00:30:53.220" style="s2"><span style="s3">this</span> is<span style="s3"> going to happen we</span> know what&#39;s</p>
+<p begin="00:30:49.979" end="00:30:54.960" style="s2">happened<span style="s4"> before</span><span style="s3"> and</span> the things that we</p>
+<p begin="00:30:53.220" end="00:30:58.470" style="s2"><span style="s3">don&#39;t like about redistricting</span> in the</p>
+<p begin="00:30:54.960" end="00:31:00.629" style="s2">past we kind of totally saw and didn&#39;t</p>
+<p begin="00:30:58.470" end="00:31:02.609" style="s2">do anything about political scientists</p>
+<p begin="00:31:00.629" end="00:31:04.259" style="s2">used to believe<span style="s4"> that</span><span style="s3"> it</span> wasn&#39;t<span style="s3"> that</span></p>
+<p begin="00:31:02.609" end="00:31:04.950" style="s2">relevant<span style="s3"> that</span> it was just used<span style="s4"> to</span></p>
+<p begin="00:31:04.259" end="00:31:07.080" style="s2">protect</p>
+<p begin="00:31:04.950" end="00:31:09.600" style="s2"><span style="s3">people&#39;s</span> districts like it had been back</p>
+<p begin="00:31:07.080" end="00:31:12.690" style="s2">in 1812<span style="s4"> what</span> we&#39;ve seen that there&#39;s now</p>
+<p begin="00:31:09.600" end="00:31:17.190" style="s2">a national coordinated effort sometimes</p>
+<p begin="00:31:12.690" end="00:31:19.110" style="s2"><span style="s3">by</span><span style="s4"> people</span> from<span style="s3"> both parties</span><span style="s4"> to</span> change</p>
+<p begin="00:31:17.190" end="00:31:22.830" style="s2">how what this<span style="s3"> even</span> means to have<span style="s3"> a</span></p>
+<p begin="00:31:19.110" end="00:31:24.539" style="s2">legislature<span style="s3"> and</span> I think that if you get</p>
+<p begin="00:31:22.830" end="00:31:25.139" style="s2"><span style="s4">involved</span><span style="s3"> in</span> this project<span style="s4"> and</span> read more</p>
+<p begin="00:31:24.539" end="00:31:27.179" style="s2"><span style="s4">about</span> it</p>
+<p begin="00:31:25.139" end="00:31:30.870" style="s2"><span style="s3">you</span> can really<span style="s4"> make</span> a real difference</p>
+<p begin="00:31:27.179" end="00:31:35.130" style="s2"><span style="s3">and</span> so as a reminder<span style="s3"> this</span> group is</p>
+<p begin="00:31:30.870" end="00:31:37.940" style="s2">meeting<span style="s3"> in</span> October in Wisconsin<span style="s4"> there&#39;s</span></p>
+<p begin="00:31:35.130" end="00:31:41.070" style="s2">separate tracks for the math people</p>
+<p begin="00:31:37.940" end="00:31:45.600" style="s2"><span style="s3">educators expert witnesses</span> and mapping</p>
+<p begin="00:31:41.070" end="00:31:46.980" style="s2">GIS people if you&#39;re<span style="s3"> going</span> ask a friend</p>
+<p begin="00:31:45.600" end="00:31:48.870" style="s2"><span style="s4">if</span> they need help<span style="s4"> getting</span> there</p>
+<p begin="00:31:46.980" end="00:31:50.460" style="s2">kind<span style="s4"> of</span> a bit<span style="s4"> of</span> a ways over<span style="s3"> to</span></p>
+<p begin="00:31:48.870" end="00:31:52.679" style="s2">Wisconsin</p>
+<p begin="00:31:50.460" end="00:31:55.500" style="s2">I don&#39;t really know people<span style="s4"> personally</span></p>
+<p begin="00:31:52.679" end="00:31:57.210" style="s2"><span style="s4">core</span> there but I can help<span style="s3"> you get in</span></p>
+<p begin="00:31:55.500" end="00:31:58.980" style="s2"><span style="s3">touch</span> with<span style="s3"> people</span><span style="s4"> or</span> help you find the</p>
+<p begin="00:31:57.210" end="00:32:01.320" style="s2"><span style="s3">link</span><span style="s4"> to</span> register<span style="s3"> the</span> registration is</p>
+<p begin="00:31:58.980" end="00:32:04.110" style="s2">already open can do some<span style="s3"> research</span> into</p>
+<p begin="00:32:01.320" end="00:32:06.360" style="s2"><span style="s3">it that&#39;s what</span> I have<span style="s3"> for</span> right<span style="s3"> now</span></p>
+<p begin="00:32:04.110" end="00:32:10.340" style="s2"><span style="s4">Thanks</span></p>
+<p begin="00:32:06.360" end="00:32:13.210" style="s2">[Applause]</p>
+<p begin="00:32:10.340" end="00:32:16.030" style="s2">[Music]</p>
+<p begin="00:32:13.210" end="00:32:19.330" style="s2">are there any math majors who want to do</p>
+<p begin="00:32:16.030" end="00:32:21.280" style="s2">the comment as a<span style="s3"> question</span> thing</p>
+<p begin="00:32:19.330" end="00:32:24.610" style="s2">please<span style="s3"> be</span> now or forever hold your</p>
+<p begin="00:32:21.280" end="00:32:26.950" style="s2">calculators this will be like legendary</p>
+<p begin="00:32:24.610" end="00:32:28.840" style="s2"><span style="s3">little</span> to tell of your math people<span style="s3"> they</span></p>
+<p begin="00:32:26.950" end="00:32:33.850" style="s2">say we need<span style="s3"> a</span> mathematician<span style="s4"> if</span> they&#39;re a</p>
+<p begin="00:32:28.840" end="00:32:37.960" style="s2">mathematician<span style="s3"> in</span> the room<span style="s3"> you know could</span></p>
+<p begin="00:32:33.850" end="00:32:39.840" style="s2">you<span style="s3"> like riff on it</span><span style="s4"> a</span><span style="s3"> little bit is the</span></p>
+<p begin="00:32:37.960" end="00:32:42.370" style="s2">map<span style="s3"> that I</span><span style="s4"> showed</span> related to it or no</p>
+<p begin="00:32:39.840" end="00:32:44.320" style="s2">all right so<span style="s4"> well</span> there&#39;s one one of the</p>
+<p begin="00:32:42.370" end="00:32:46.360" style="s2">plot<span style="s4"> you</span> said earlier was about like the</p>
+<p begin="00:32:44.320" end="00:32:47.620" style="s2">average connectedness<span style="s3"> of</span> the center<span style="s3"> of</span> a</p>
+<p begin="00:32:46.360" end="00:32:48.910" style="s2">district versus the<span style="s3"> people</span> live in the</p>
+<p begin="00:32:47.620" end="00:32:51.550" style="s2">district<span style="s3"> so</span> that&#39;s really important of</p>
+<p begin="00:32:48.910" end="00:32:53.110" style="s2">you should have a district that actually</p>
+<p begin="00:32:51.550" end="00:32:55.000" style="s2">is<span style="s3"> close</span> to people in the extremities</p>
+<p begin="00:32:53.110" end="00:32:57.640" style="s2"><span style="s3">and</span> if you if you&#39;re some really really</p>
+<p begin="00:32:55.000" end="00:32:58.930" style="s2">stretched out windy district<span style="s3"> it</span> might</p>
+<p begin="00:32:57.640" end="00:33:01.270" style="s2">not make sense<span style="s3"> unless</span> there&#39;s some</p>
+<p begin="00:32:58.930" end="00:33:02.890" style="s2"><span style="s3">really</span> natural feature there but you</p>
+<p begin="00:33:01.270" end="00:33:04.480" style="s2"><span style="s3">didn&#39;t</span> want<span style="s3"> to</span> have<span style="s3"> connectivity</span> and I</p>
+<p begin="00:33:02.890" end="00:33:07.360" style="s2"><span style="s4">don&#39;t</span> know what<span style="s3"> those</span> nodes<span style="s3"> are</span> over</p>
+<p begin="00:33:04.480" end="00:33:09.760" style="s2">there exactly<span style="s4"> but you know</span><span style="s3"> other</span><span style="s4"> than</span></p>
+<p begin="00:33:07.360" end="00:33:11.200" style="s2">natural<span style="s3"> curvature</span> features you want to</p>
+<p begin="00:33:09.760" end="00:33:12.820" style="s2">have some<span style="s3"> sort</span> of like community</p>
+<p begin="00:33:11.200" end="00:33:14.200" style="s2"><span style="s3">probably you know it&#39;s</span> whatever<span style="s3"> metric</span></p>
+<p begin="00:33:12.820" end="00:33:17.590" style="s2">you<span style="s4"> want</span> to use is community important</p>
+<p begin="00:33:14.200" end="00:33:20.980" style="s2"><span style="s3">proximity</span> whatever<span style="s3"> so</span> it kind of depends</p>
+<p begin="00:33:17.590" end="00:33:25.930" style="s2">on<span style="s3"> the</span> metric and how you choose what&#39;s</p>
+<p begin="00:33:20.980" end="00:33:28.120" style="s2"><span style="s3">right</span><span style="s4"> or</span> fair I guess which<span style="s4"> is</span> hard no</p>
+<p begin="00:33:25.930" end="00:33:29.620" style="s2">yeah thanks for<span style="s4"> thanks</span> for<span style="s3"> talking about</span></p>
+<p begin="00:33:28.120" end="00:33:31.420" style="s2">that I<span style="s3"> mean</span> there&#39;s a lot<span style="s4"> a</span> bunch of</p>
+<p begin="00:33:29.620" end="00:33:35.170" style="s2">different<span style="s4"> metrics</span><span style="s3"> that</span> you<span style="s3"> can</span> look<span style="s3"> into</span></p>
+<p begin="00:33:31.420" end="00:33:37.390" style="s2"><span style="s3">more</span> detail they are specifically being</p>
+<p begin="00:33:35.170" end="00:33:39.670" style="s2">chosen<span style="s3"> not</span> to be too complex because</p>
+<p begin="00:33:37.390" end="00:33:41.110" style="s2">they do need<span style="s3"> to be explained</span><span style="s4"> in</span> a</p>
+<p begin="00:33:39.670" end="00:33:41.890" style="s2">courtroom<span style="s3"> setting</span> at some point if</p>
+<p begin="00:33:41.110" end="00:33:44.860" style="s2">they&#39;re being<span style="s4"> used</span> to challenge</p>
+<p begin="00:33:41.890" end="00:33:46.480" style="s2"><span style="s3">districts</span> it&#39;s just something<span style="s4"> where</span> with</p>
+<p begin="00:33:44.860" end="00:33:48.970" style="s2">no prior<span style="s4"> experience</span> it was just sort<span style="s4"> of</span></p>
+<p begin="00:33:46.480" end="00:33:51.820" style="s2">thinking like I didn&#39;t know where<span style="s4"> to</span></p>
+<p begin="00:33:48.970" end="00:33:53.830" style="s2">really start with that<span style="s3"> but</span> now we<span style="s3"> have</span></p>
+<p begin="00:33:51.820" end="00:33:55.210" style="s2">like are we going<span style="s3"> to</span> are<span style="s3"> going to like</span></p>
+<p begin="00:33:53.830" end="00:33:57.400" style="s2">real questions<span style="s3"> we&#39;re</span> going to go to real</p>
+<p begin="00:33:55.210" end="00:34:00.870" style="s2">questions<span style="s3"> okay</span> well what about<span style="s3"> a</span> round</p>
+<p begin="00:33:57.400" end="00:34:00.870" style="s2"><span style="s3">of</span> applause<span style="s3"> remarkably justice</span></p>
+<p begin="00:34:01.360" end="00:34:09.730" style="s2"><span style="s3">I</span> actually had a math explanation I<span style="s4"> can</span></p>
+<p begin="00:34:07.540" end="00:34:12.159" style="s2">explain the polls by<span style="s3"> popper one it&#39;s</span></p>
+<p begin="00:34:09.730" end="00:34:15.639" style="s2"><span style="s3">it&#39;s</span> just<span style="s3"> a</span> measure of compactness that</p>
+<p begin="00:34:12.159" end="00:34:21.700" style="s2">like if you<span style="s4"> have</span> a circle the ratio of</p>
+<p begin="00:34:15.639" end="00:34:25.060" style="s2">the service<span style="s3"> area</span> to<span style="s3"> the</span> to the<span style="s3"> perimeter</span></p>
+<p begin="00:34:21.700" end="00:34:28.240" style="s2">of the circle<span style="s3"> is one but if you</span> have</p>
+<p begin="00:34:25.060" end="00:34:31.119" style="s2">some<span style="s3"> other</span> shape it will be less<span style="s4"> than</span></p>
+<p begin="00:34:28.240" end="00:34:34.119" style="s2">one and<span style="s4"> so</span><span style="s3"> polls</span> by<span style="s3"> poppers</span> just</p>
+<p begin="00:34:31.119" end="00:34:36.580" style="s2"><span style="s3">measuring</span> that<span style="s3"> so</span> how close it is<span style="s3"> to</span> a</p>
+<p begin="00:34:34.119" end="00:34:37.929" style="s2">circle<span style="s3"> yeah</span> yeah<span style="s3"> but like so</span> if<span style="s3"> you</span></p>
+<p begin="00:34:36.580" end="00:34:39.190" style="s2">string something out really far<span style="s3"> it&#39;s</span></p>
+<p begin="00:34:37.929" end="00:34:44.669" style="s2"><span style="s3">going</span> to be really<span style="s3"> low</span> so you have a</p>
+<p begin="00:34:39.190" end="00:34:44.669" style="s2">really large perimeter<span style="s3"> but</span> same volume</p>
+<p begin="00:34:46.230" end="00:34:55.659" style="s2">questions so I&#39;ve been hearing<span style="s4"> people</span></p>
+<p begin="00:34:52.240" end="00:34:58.510" style="s2"><span style="s4">talk</span> about the governor races<span style="s3"> and</span> how</p>
+<p begin="00:34:55.659" end="00:34:59.470" style="s2">this will<span style="s3"> affect</span> redistricting and I was</p>
+<p begin="00:34:58.510" end="00:35:01.180" style="s2">kind of curious<span style="s3"> to get any comments</span></p>
+<p begin="00:34:59.470" end="00:35:03.490" style="s2"><span style="s4">about</span><span style="s3"> that</span> and what role the</p>
+<p begin="00:35:01.180" end="00:35:04.570" style="s2">specifically the elections and governor</p>
+<p begin="00:35:03.490" end="00:35:07.330" style="s2">elections play in this</p>
+<p begin="00:35:04.570" end="00:35:09.880" style="s2">so one of the<span style="s3"> other people who was</span> at</p>
+<p begin="00:35:07.330" end="00:35:12.190" style="s2">the conference<span style="s4"> in</span><span style="s3"> the</span><span style="s4"> gis</span><span style="s3"> track</span> is from</p>
+<p begin="00:35:09.880" end="00:35:13.960" style="s2">a group called<span style="s4"> flippable</span> they&#39;re</p>
+<p begin="00:35:12.190" end="00:35:17.380" style="s2">focusing more on the state legislature</p>
+<p begin="00:35:13.960" end="00:35:20.320" style="s2">of<span style="s3"> this</span> but really if you<span style="s4"> think</span><span style="s3"> about</span> it</p>
+<p begin="00:35:17.380" end="00:35:22.540" style="s2"><span style="s4">a</span> gerrymandering plan gets filed in two</p>
+<p begin="00:35:20.320" end="00:35:24.520" style="s2">separate state houses unless you&#39;re in</p>
+<p begin="00:35:22.540" end="00:35:26.890" style="s2"><span style="s3">Nebraska</span> which only has anyway but in</p>
+<p begin="00:35:24.520" end="00:35:29.260" style="s2">most<span style="s4"> cases</span> it has the two houses<span style="s3"> and</span></p>
+<p begin="00:35:26.890" end="00:35:31.270" style="s2">then it goes<span style="s4"> to</span> the governor<span style="s3"> so</span> with one</p>
+<p begin="00:35:29.260" end="00:35:35.170" style="s2">of those houses<span style="s4"> or</span> the governor is<span style="s3"> to a</span></p>
+<p begin="00:35:31.270" end="00:35:37.510" style="s2">different party they would speak<span style="s3"> up</span> if</p>
+<p begin="00:35:35.170" end="00:35:39.700" style="s2">they<span style="s3"> don&#39;t</span> like the plan so that<span style="s3"> sort</span> of</p>
+<p begin="00:35:37.510" end="00:35:42.100" style="s2">makes it<span style="s3"> a</span> little<span style="s4"> bit</span> more accurate<span style="s4"> or</span> a</p>
+<p begin="00:35:39.700" end="00:35:43.720" style="s2">little bit more<span style="s3"> fair</span> so definitely if</p>
+<p begin="00:35:42.100" end="00:35:47.410" style="s2">you could if this<span style="s3"> is a close governor&#39;s</span></p>
+<p begin="00:35:43.720" end="00:35:50.109" style="s2">race<span style="s3"> the close group of people that</span></p>
+<p begin="00:35:47.410" end="00:35:50.950" style="s2"><span style="s3">might flip in the</span><span style="s4"> state</span> legislatures and</p>
+<p begin="00:35:50.109" end="00:35:55.420" style="s2">that&#39;s<span style="s4"> something that</span><span style="s3"> people</span> are</p>
+<p begin="00:35:50.950" end="00:35:57.570" style="s2"><span style="s3">interested</span><span style="s4"> in</span><span style="s3"> I</span> read about a metric<span style="s3"> that</span></p>
+<p begin="00:35:55.420" end="00:35:59.950" style="s2">relates<span style="s3"> to</span> wasted votes</p>
+<p begin="00:35:57.570" end="00:36:01.390" style="s2">related to kind<span style="s3"> of cracking and packing</span></p>
+<p begin="00:35:59.950" end="00:36:04.510" style="s2">do you have any thoughts on that</p>
+<p begin="00:36:01.390" end="00:36:07.600" style="s2">yeah<span style="s3"> so</span> kind of the when<span style="s3"> you</span> see like a</p>
+<p begin="00:36:04.510" end="00:36:11.890" style="s2">let me switch over<span style="s4"> to</span> the partisan one</p>
+<p begin="00:36:07.600" end="00:36:12.880" style="s2">for this long time<span style="s3"> okay so when you see</span></p>
+<p begin="00:36:11.890" end="00:36:15.070" style="s2">something<span style="s4"> like</span><span style="s3"> this they&#39;re usually</span></p>
+<p begin="00:36:12.880" end="00:36:19.630" style="s2">talking about packing and cracking</p>
+<p begin="00:36:15.070" end="00:36:22.120" style="s2">so packing is<span style="s3"> district sort of</span> like the</p>
+<p begin="00:36:19.630" end="00:36:24.520" style="s2">one on the right here where you put<span style="s4"> all</span></p>
+<p begin="00:36:22.120" end="00:36:25.810" style="s2"><span style="s4">all</span> the Democrats<span style="s4"> together</span><span style="s3"> they&#39;re</span> blue</p>
+<p begin="00:36:24.520" end="00:36:27.520" style="s2"><span style="s4">so</span> we&#39;re<span style="s4"> gonna cite all the Democrats</span></p>
+<p begin="00:36:25.810" end="00:36:30.390" style="s2">together<span style="s3"> in</span> one district or two</p>
+<p begin="00:36:27.520" end="00:36:32.980" style="s2">districts and cracking is when you split</p>
+<p begin="00:36:30.390" end="00:36:38.890" style="s2">the Democrats up so that they have a</p>
+<p begin="00:36:32.980" end="00:36:41.620" style="s2">minority<span style="s4"> in</span> multiple districts<span style="s4"> so</span> what&#39;s</p>
+<p begin="00:36:38.890" end="00:36:42.820" style="s2">going on<span style="s3"> with this wasted vote or kind</span></p>
+<p begin="00:36:41.620" end="00:36:44.470" style="s2">of<span style="s3"> they</span><span style="s4"> don&#39;t</span> want to go to court<span style="s3"> and</span></p>
+<p begin="00:36:42.820" end="00:36:48.190" style="s2"><span style="s3">say</span> the vote was wasted say sometimes</p>
+<p begin="00:36:44.470" end="00:36:52.120" style="s2"><span style="s3">call an efficiency gap is saying every</span></p>
+<p begin="00:36:48.190" end="00:36:54.660" style="s2">vote above 50%<span style="s4"> was</span> like excess and every</p>
+<p begin="00:36:52.120" end="00:36:57.640" style="s2">vote of the losing candidate is</p>
+<p begin="00:36:54.660" end="00:37:01.150" style="s2">considered like you know failed votes</p>
+<p begin="00:36:57.640" end="00:37:04.900" style="s2"><span style="s3">and</span> so if you look<span style="s3"> at</span> that metric<span style="s3"> you&#39;ll</span></p>
+<p begin="00:37:01.150" end="00:37:06.460" style="s2">see<span style="s3"> sort</span> of<span style="s3"> the</span> same<span style="s4"> thing that like for</span></p>
+<p begin="00:37:04.900" end="00:37:08.800" style="s2">example<span style="s3"> in</span> Pennsylvania<span style="s4"> way</span> back at<span style="s3"> the</span></p>
+<p begin="00:37:06.460" end="00:37:12.700" style="s2"><span style="s3">beginning</span><span style="s4"> that a number</span><span style="s3"> of</span> these</p>
+<p begin="00:37:08.800" end="00:37:15.670" style="s2">districts were<span style="s3"> very</span> close<span style="s3"> and</span> the</p>
+<p begin="00:37:12.700" end="00:37:18.280" style="s2">Democrat percentage was kind of wasted</p>
+<p begin="00:37:15.670" end="00:37:19.660" style="s2">and then in like the major cities where</p>
+<p begin="00:37:18.280" end="00:37:23.290" style="s2">there&#39;s a higher concentration<span style="s4"> of</span></p>
+<p begin="00:37:19.660" end="00:37:25.120" style="s2">Democrats<span style="s3"> they</span> were well above 50%<span style="s3"> in</span></p>
+<p begin="00:37:23.290" end="00:37:27.550" style="s2">Pennsylvania though<span style="s4"> there are districts</span></p>
+<p begin="00:37:25.120" end="00:37:30.100" style="s2">both for Republicans<span style="s3"> and</span> Democrats where</p>
+<p begin="00:37:27.550" end="00:37:35.590" style="s2">they were running unchallenged<span style="s3"> even</span> so</p>
+<p begin="00:37:30.100" end="00:37:39.730" style="s2">it&#39;s sort of its multiple<span style="s3"> one is what I</span></p>
+<p begin="00:37:35.590" end="00:37:40.990" style="s2"><span style="s4">think</span> multi complicated<span style="s4"> so</span> you can</p>
+<p begin="00:37:39.730" end="00:37:42.910" style="s2">measure<span style="s3"> that</span> but they&#39;re sort of</p>
+<p begin="00:37:40.990" end="00:37:45.370" style="s2">predicting not<span style="s3"> that</span> we&#39;ve got</p>
+<p begin="00:37:42.910" end="00:37:47.740" style="s2">proportional representation but hyper</p>
+<p begin="00:37:45.370" end="00:37:50.950" style="s2">proportional if you&#39;re saying<span style="s3"> a</span> vote</p>
+<p begin="00:37:47.740" end="00:37:53.320" style="s2"><span style="s3">above</span><span style="s4"> 50%</span> is wasted<span style="s3"> and</span><span style="s4"> invoke</span><span style="s3"> lots</span> what</p>
+<p begin="00:37:50.950" end="00:37:56.680" style="s2">you&#39;re really calculating a<span style="s4"> thing</span><span style="s3"> as</span><span style="s4"> 50%</span></p>
+<p begin="00:37:53.320" end="00:37:57.820" style="s2"><span style="s4">it</span><span style="s3"> should</span> be evenly<span style="s3"> split if you have 55</span></p>
+<p begin="00:37:56.680" end="00:37:59.140" style="s2"><span style="s4">percent</span> of<span style="s3"> the</span> vote</p>
+<p begin="00:37:57.820" end="00:38:01.510" style="s2">you should have 60 percent<span style="s4"> of</span> the</p>
+<p begin="00:37:59.140" end="00:38:02.830" style="s2">candidates at<span style="s3"> 60</span><span style="s4"> percent</span> of<span style="s3"> the</span> vote</p>
+<p begin="00:38:01.510" end="00:38:04.180" style="s2">you should have 70 percent<span style="s4"> of</span> the</p>
+<p begin="00:38:02.830" end="00:38:07.060" style="s2">candidates<span style="s3"> like</span> they&#39;re building<span style="s4"> the</span></p>
+<p begin="00:38:04.180" end="00:38:09.760" style="s2">sort of curve with that metric which is</p>
+<p begin="00:38:07.060" end="00:38:11.830" style="s2">just<span style="s3"> kind of invented so it&#39;s not</span></p>
+<p begin="00:38:09.760" end="00:38:13.630" style="s2"><span style="s3">necessarily the ideal or</span> like a</p>
+<p begin="00:38:11.830" end="00:38:15.970" style="s2">historical precedent<span style="s4"> it&#39;s</span> more like</p>
+<p begin="00:38:13.630" end="00:38:18.640" style="s2">trying<span style="s3"> to come up with a</span><span style="s4"> number</span> just</p>
+<p begin="00:38:15.970" end="00:38:20.700" style="s2"><span style="s4">based</span><span style="s3"> on</span> the vote totals<span style="s3"> if</span> that makes</p>
+<p begin="00:38:18.640" end="00:38:20.700" style="s2">sense</p>
+<p begin="00:38:21.340" end="00:38:27.010" style="s2">what what&#39;s the general correlation</p>
+<p begin="00:38:23.020" end="00:38:28.180" style="s2"><span style="s4">between</span> like<span style="s3"> census you know districts</span></p>
+<p begin="00:38:27.010" end="00:38:30.730" style="s2">and</p>
+<p begin="00:38:28.180" end="00:38:32.380" style="s2"><span style="s3">rational</span> or legislative districts and is</p>
+<p begin="00:38:30.730" end="00:38:35.380" style="s2"><span style="s3">there</span> initiatives that are kind<span style="s4"> of</span></p>
+<p begin="00:38:32.380" end="00:38:38.920" style="s2"><span style="s3">running a parallel between census</span> sort</p>
+<p begin="00:38:35.380" end="00:38:40.540" style="s2"><span style="s3">of</span> process<span style="s3"> and this initiative so yeah</span></p>
+<p begin="00:38:38.920" end="00:38:44.170" style="s2">the sense it&#39;s a big part of this the</p>
+<p begin="00:38:40.540" end="00:38:46.390" style="s2">census<span style="s3"> blocks</span> is a small unit<span style="s3"> blocks</span> the</p>
+<p begin="00:38:44.170" end="00:38:48.640" style="s2">block groups<span style="s3"> block</span> groups<span style="s4"> to tracked</span></p>
+<p begin="00:38:46.390" end="00:38:52.530" style="s2"><span style="s3">tracks</span><span style="s4"> -</span> it<span style="s3"> just</span> kind<span style="s4"> of</span><span style="s3"> builds</span> up<span style="s4"> like</span></p>
+<p begin="00:38:48.640" end="00:38:54.640" style="s2">that<span style="s4"> so</span><span style="s3"> usually</span><span style="s4"> they</span> trying<span style="s3"> to</span> preserve</p>
+<p begin="00:38:52.530" end="00:38:56.290" style="s2"><span style="s3">like</span> things that make<span style="s3"> sense</span> like even</p>
+<p begin="00:38:54.640" end="00:38:57.670" style="s2"><span style="s3">like</span> whole<span style="s3"> towns</span> they try to preserve on</p>
+<p begin="00:38:56.290" end="00:39:01.780" style="s2">one side<span style="s3"> of</span> the district border or</p>
+<p begin="00:38:57.670" end="00:39:04.390" style="s2">another<span style="s4"> but</span> when<span style="s3"> it</span> comes down<span style="s4"> to</span><span style="s3"> you</span></p>
+<p begin="00:39:01.780" end="00:39:07.300" style="s2">have to make the districts within like</p>
+<p begin="00:39:04.390" end="00:39:09.099" style="s2">less than<span style="s3"> 1%</span> of<span style="s4"> the</span> same population<span style="s4"> of</span></p>
+<p begin="00:39:07.300" end="00:39:11.589" style="s2">each other<span style="s3"> so</span> if you have kind<span style="s3"> of</span> an</p>
+<p begin="00:39:09.099" end="00:39:13.900" style="s2">uneven population then you&#39;ll say ok</p>
+<p begin="00:39:11.589" end="00:39:15.520" style="s2">let&#39;s start shaving off blocks<span style="s3"> in</span> this</p>
+<p begin="00:39:13.900" end="00:39:17.980" style="s2">district and<span style="s3"> give</span> them to that one<span style="s4"> and</span></p>
+<p begin="00:39:15.520" end="00:39:21.280" style="s2">so those<span style="s4"> are</span> how the borders can get</p>
+<p begin="00:39:17.980" end="00:39:23.829" style="s2">really<span style="s3"> fuzzy</span> how they&#39;re defined<span style="s4"> but</span></p>
+<p begin="00:39:21.280" end="00:39:25.839" style="s2"><span style="s3">they</span> do really try to follow like the</p>
+<p begin="00:39:23.829" end="00:39:29.079" style="s2">town borders as much as possible<span style="s3"> if</span> they</p>
+<p begin="00:39:25.839" end="00:39:30.900" style="s2">can<span style="s3"> but</span> yeah I think<span style="s3"> that</span> you&#39;re<span style="s3"> not</span></p>
+<p begin="00:39:29.079" end="00:39:33.280" style="s2">really supposed<span style="s3"> to break up like a</span></p>
+<p begin="00:39:30.900" end="00:39:35.020" style="s2">census block because then how will<span style="s4"> you</span></p>
+<p begin="00:39:33.280" end="00:39:36.460" style="s2">know how many<span style="s3"> people</span> live<span style="s4"> in</span><span style="s3"> it all</span></p>
+<p begin="00:39:35.020" end="00:39:39.670" style="s2">right<span style="s3"> that&#39;s</span><span style="s4"> the</span> smallest unit of</p>
+<p begin="00:39:36.460" end="00:39:43.930" style="s2">control<span style="s3"> so</span> they can negotiate back and</p>
+<p begin="00:39:39.670" end="00:39:46.690" style="s2">forth I&#39;m curious<span style="s3"> if there if there</span><span style="s4"> it</span></p>
+<p begin="00:39:43.930" end="00:39:47.890" style="s2">has or is currently<span style="s3"> this</span> problem</p>
+<p begin="00:39:46.690" end="00:39:49.720" style="s2">anywhere else in the world<span style="s3"> and</span><span style="s4"> if</span></p>
+<p begin="00:39:47.890" end="00:39:52.270" style="s2">there&#39;s any lessons you can learn<span style="s3"> from</span></p>
+<p begin="00:39:49.720" end="00:39:54.790" style="s2">what&#39;s done elsewhere<span style="s3"> so</span> my</p>
+<p begin="00:39:52.270" end="00:39:58.780" style="s2">understanding<span style="s3"> is</span><span style="s4"> that</span> it happens but to</p>
+<p begin="00:39:54.790" end="00:40:00.880" style="s2">a lesser<span style="s4"> extent so if you are in the UK</span></p>
+<p begin="00:39:58.780" end="00:40:03.250" style="s2"><span style="s3">you</span> have<span style="s4"> the</span> proportional representation</p>
+<p begin="00:40:00.880" end="00:40:05.020" style="s2"><span style="s3">so</span> it&#39;s no<span style="s3"> problem</span></p>
+<p begin="00:40:03.250" end="00:40:08.589" style="s2"><span style="s4">I</span> mean there are<span style="s3"> regional</span> differences</p>
+<p begin="00:40:05.020" end="00:40:10.270" style="s2"><span style="s4">but</span> so there are other<span style="s4"> countries that</span></p>
+<p begin="00:40:08.589" end="00:40:12.579" style="s2">have this problem<span style="s4"> like</span> I<span style="s4"> mentioned</span> in</p>
+<p begin="00:40:10.270" end="00:40:17.170" style="s2">Mexico they have<span style="s3"> that</span> algorithm<span style="s3"> that</span></p>
+<p begin="00:40:12.579" end="00:40:18.970" style="s2">starts the process<span style="s4"> but</span> they don&#39;t have</p>
+<p begin="00:40:17.170" end="00:40:20.920" style="s2">the same<span style="s3"> legal</span> restrictions that<span style="s3"> we</span> do</p>
+<p begin="00:40:18.970" end="00:40:24.270" style="s2">and they might not have<span style="s4"> the same</span></p>
+<p begin="00:40:20.920" end="00:40:28.059" style="s2">political backgrounds that<span style="s3"> we</span> do<span style="s3"> so</span></p>
+<p begin="00:40:24.270" end="00:40:30.640" style="s2">really<span style="s3"> we</span> can&#39;t just sort<span style="s4"> of</span> I was<span style="s3"> going</span></p>
+<p begin="00:40:28.059" end="00:40:32.349" style="s2">to say<span style="s3"> something earlier</span><span style="s4"> about</span><span style="s3"> use</span> a</p>
+<p begin="00:40:30.640" end="00:40:35.619" style="s2">redistricting algorithm<span style="s4"> to</span><span style="s3"> make Mexico</span></p>
+<p begin="00:40:32.349" end="00:40:41.200" style="s2">pay for<span style="s3"> it</span> because they have<span style="s3"> developed</span></p>
+<p begin="00:40:35.619" end="00:40:41.920" style="s2"><span style="s3">it</span> already for<span style="s4"> us</span><span style="s3"> you</span> know<span style="s3"> but</span> we can&#39;t</p>
+<p begin="00:40:41.200" end="00:40:43.750" style="s2">so easily<span style="s3"> a</span></p>
+<p begin="00:40:41.920" end="00:40:46.210" style="s2"><span style="s3">quiet</span> here basically<span style="s3"> if</span> you did<span style="s4"> and</span></p>
+<p begin="00:40:43.750" end="00:40:47.799" style="s2">algorithmic redistricting here<span style="s3"> you</span> would</p>
+<p begin="00:40:46.210" end="00:40:50.799" style="s2">be taken<span style="s4"> to</span><span style="s3"> the</span><span style="s4"> Supreme Court</span><span style="s3"> and</span> lose</p>
+<p begin="00:40:47.799" end="00:40:53.020" style="s2">because<span style="s3"> you&#39;re</span> going<span style="s4"> to</span> have</p>
+<p begin="00:40:50.799" end="00:40:56.170" style="s2">consequences<span style="s3"> you&#39;re</span> going to take<span style="s3"> people</span></p>
+<p begin="00:40:53.020" end="00:40:58.540" style="s2">out<span style="s3"> of office and</span> say well<span style="s4"> computers</span></p>
+<p begin="00:40:56.170" end="00:41:02.250" style="s2">said that the smallest most circular</p>
+<p begin="00:40:58.540" end="00:41:05.140" style="s2"><span style="s3">district</span> was here and we can&#39;t really</p>
+<p begin="00:41:02.250" end="00:41:08.109" style="s2">propose that<span style="s3"> just</span> for<span style="s3"> the</span> sake of</p>
+<p begin="00:41:05.140" end="00:41:10.000" style="s2">geometry<span style="s3"> yeah so I don&#39;t</span> know I don&#39;t</p>
+<p begin="00:41:08.109" end="00:41:13.599" style="s2"><span style="s4">know</span><span style="s3"> how</span> we fix that<span style="s4"> I</span><span style="s3"> think</span> making</p>
+<p begin="00:41:10.000" end="00:41:17.069" style="s2"><span style="s3">there</span> be more awareness<span style="s3"> or</span> some of these</p>
+<p begin="00:41:13.599" end="00:41:20.140" style="s2"><span style="s4">mathematical</span> proposals could be like a</p>
+<p begin="00:41:17.069" end="00:41:21.849" style="s2">lot of<span style="s4"> say</span> like a watchdog<span style="s3"> that prevents</span></p>
+<p begin="00:41:20.140" end="00:41:24.309" style="s2">someone from just inventing whatever</p>
+<p begin="00:41:21.849" end="00:41:25.569" style="s2">they want<span style="s4"> County</span><span style="s3"> think</span> we have time for</p>
+<p begin="00:41:24.309" end="00:41:28.650" style="s2">one<span style="s4"> more</span> question</p>
+<p begin="00:41:25.569" end="00:41:31.270" style="s2"><span style="s4">Wow</span><span style="s3"> I</span> wanted to ask there was a</p>
+<p begin="00:41:28.650" end="00:41:32.589" style="s2">non-technical article in April in<span style="s4"> the</span></p>
+<p begin="00:41:31.270" end="00:41:34.440" style="s2"><span style="s3">Washington</span> Post<span style="s4"> that was talking about</span></p>
+<p begin="00:41:32.589" end="00:41:37.270" style="s2">gerrymandering<span style="s4"> and</span><span style="s3"> just</span> kind of like</p>
+<p begin="00:41:34.440" end="00:41:39.130" style="s2">migration of<span style="s4"> populous</span> and<span style="s3"> I</span> was</p>
+<p begin="00:41:37.270" end="00:41:41.410" style="s2">wondering if you<span style="s3"> could</span> kind<span style="s3"> of</span> comment</p>
+<p begin="00:41:39.130" end="00:41:43.270" style="s2">on how both<span style="s4"> of</span> things things are</p>
+<p begin="00:41:41.410" end="00:41:44.859" style="s2">occurring<span style="s4"> at</span> the same time and when I</p>
+<p begin="00:41:43.270" end="00:41:46.329" style="s2"><span style="s4">think</span> a lot of<span style="s3"> us</span><span style="s4"> probably</span> in<span style="s3"> this room</span></p>
+<p begin="00:41:44.859" end="00:41:52.450" style="s2">here gerrymandering we think like</p>
+<p begin="00:41:46.329" end="00:41:55.059" style="s2">rigging elections for partisan goals<span style="s4"> and</span></p>
+<p begin="00:41:52.450" end="00:41:56.530" style="s2">just<span style="s4"> kind</span> of how like<span style="s3"> I grew up in a</span></p>
+<p begin="00:41:55.059" end="00:41:59.859" style="s2">really<span style="s3"> rural</span> County and I live<span style="s3"> in</span> a</p>
+<p begin="00:41:56.530" end="00:42:02.319" style="s2">really metro area<span style="s3"> and</span> I vote differently</p>
+<p begin="00:41:59.859" end="00:42:07.420" style="s2">than my extended family<span style="s4"> but</span><span style="s3"> it&#39;s</span> not</p>
+<p begin="00:42:02.319" end="00:42:10.119" style="s2">because<span style="s4"> of</span> any redistricting well I mean</p>
+<p begin="00:42:07.420" end="00:42:13.119" style="s2">they sort<span style="s3"> of</span> have to make the plan based</p>
+<p begin="00:42:10.119" end="00:42:14.589" style="s2">on like historical boundaries and sort</p>
+<p begin="00:42:13.119" end="00:42:14.980" style="s2">of negotiation<span style="s4"> it</span> depends what state</p>
+<p begin="00:42:14.589" end="00:42:19.390" style="s2">you&#39;re in</p>
+<p begin="00:42:14.980" end="00:42:22.420" style="s2">also because like<span style="s3"> sometimes</span> there&#39;ll be</p>
+<p begin="00:42:19.390" end="00:42:24.450" style="s2">a bipartisan committee<span style="s3"> but</span> then they&#39;ll</p>
+<p begin="00:42:22.420" end="00:42:26.950" style="s2">agree to work to protect<span style="s3"> the</span> incumbent</p>
+<p begin="00:42:24.450" end="00:42:28.869" style="s2">legislators right<span style="s3"> because</span> Democrats</p>
+<p begin="00:42:26.950" end="00:42:31.900" style="s2">Republicans can agree<span style="s3"> we</span> want<span style="s3"> to</span> meet up</p>
+<p begin="00:42:28.869" end="00:42:33.579" style="s2">again tomorrow<span style="s4"> in</span> our same district<span style="s3"> so</span></p>
+<p begin="00:42:31.900" end="00:42:37.480" style="s2">they&#39;ll<span style="s3"> make</span><span style="s4"> that</span> kind<span style="s4"> of</span> agreement<span style="s4"> even</span></p>
+<p begin="00:42:33.579" end="00:42:39.099" style="s2"><span style="s4">if</span> there&#39;s a bipartisan<span style="s3"> committee</span><span style="s4"> I</span> mean</p>
+<p begin="00:42:37.480" end="00:42:41.500" style="s2">in terms<span style="s3"> of</span> migration<span style="s4"> it</span> is kind of</p>
+<p begin="00:42:39.099" end="00:42:44.500" style="s2"><span style="s3">interesting to think about like every</span></p>
+<p begin="00:42:41.500" end="00:42:46.960" style="s2"><span style="s4">ten</span><span style="s3"> years</span><span style="s4"> then</span> we do the<span style="s3"> census</span> and so</p>
+<p begin="00:42:44.500" end="00:42:49.000" style="s2">in that<span style="s4"> ten</span> years I mean are all<span style="s4"> of</span> us</p>
+<p begin="00:42:46.960" end="00:42:51.790" style="s2"><span style="s3">in</span> the<span style="s3"> same</span> place that<span style="s4"> we</span><span style="s3"> live</span><span style="s4"> 10</span><span style="s3"> years</span></p>
+<p begin="00:42:49.000" end="00:42:53.799" style="s2">ago<span style="s4"> I</span> mean<span style="s3"> are</span> the numbers<span style="s4"> of</span> people in</p>
+<p begin="00:42:51.790" end="00:42:55.069" style="s2">cities<span style="s3"> changing</span> in the population</p>
+<p begin="00:42:53.799" end="00:42:58.430" style="s2">distribution changing</p>
+<p begin="00:42:55.069" end="00:43:03.019" style="s2">and that&#39;s like five different elections</p>
+<p begin="00:42:58.430" end="00:43:04.309" style="s2">that happen in<span style="s3"> that</span> gap<span style="s4"> so</span> even if they</p>
+<p begin="00:43:03.019" end="00:43:06.829" style="s2">redistricted in the middle of the year</p>
+<p begin="00:43:04.309" end="00:43:10.249" style="s2">they&#39;re<span style="s3"> going</span> back to<span style="s4"> the</span> census<span style="s4"> numbers</span></p>
+<p begin="00:43:06.829" end="00:43:12.380" style="s2">from the beginning of the decade<span style="s4"> so</span></p>
+<p begin="00:43:10.249" end="00:43:15.589" style="s2">there isn&#39;t<span style="s3"> really</span><span style="s4"> that</span><span style="s3"> kind of</span><span style="s4"> direct</span></p>
+<p begin="00:43:12.380" end="00:43:17.809" style="s2">response<span style="s3"> to</span> migration<span style="s3"> is</span> more like once</p>
+<p begin="00:43:15.589" end="00:43:20.690" style="s2">the census happens we&#39;ll know a little</p>
+<p begin="00:43:17.809" end="00:43:22.579" style="s2"><span style="s3">bit</span> more about what&#39;s<span style="s4"> changed</span><span style="s3"> and</span> by the</p>
+<p begin="00:43:20.690" end="00:43:24.199" style="s2">way<span style="s3"> make</span> sure<span style="s4"> that</span> you fill out<span style="s3"> the</span></p>
+<p begin="00:43:22.579" end="00:43:27.140" style="s2">census for yourself<span style="s3"> and</span> make<span style="s4"> sure</span> people</p>
+<p begin="00:43:24.199" end="00:43:29.930" style="s2"><span style="s4">around</span> you fill out<span style="s3"> the</span> census<span style="s4"> there&#39;s</span></p>
+<p begin="00:43:27.140" end="00:43:31.369" style="s2">some like<span style="s3"> conspiracy</span><span style="s4"> theories</span><span style="s3"> about</span> I&#39;m</p>
+<p begin="00:43:29.930" end="00:43:34.190" style="s2">going<span style="s3"> to be harmed by</span> filling<span style="s3"> out the</span></p>
+<p begin="00:43:31.369" end="00:43:36.499" style="s2">census<span style="s3"> but</span> if you don&#39;t do it<span style="s3"> then</span></p>
+<p begin="00:43:34.190" end="00:43:38.869" style="s2">you&#39;re<span style="s3"> not counted and your state could</span></p>
+<p begin="00:43:36.499" end="00:43:40.249" style="s2"><span style="s3">lose</span> representation or your area<span style="s4"> could</span></p>
+<p begin="00:43:38.869" end="00:43:43.459" style="s2"><span style="s3">be moved from</span><span style="s4"> one</span> area<span style="s3"> to</span> another</p>
+<p begin="00:43:40.249" end="00:43:45.769" style="s2"><span style="s3">without</span> really being really counted in</p>
+<p begin="00:43:43.459" end="00:43:48.109" style="s2">this system<span style="s4"> so</span><span style="s3"> people</span> who are counted<span style="s3"> by</span></p>
+<p begin="00:43:45.769" end="00:43:51.319" style="s2"><span style="s3">the</span><span style="s4"> Census</span> who<span style="s3"> help</span> control where the</p>
+<p begin="00:43:48.109" end="00:43:53.059" style="s2">line is drawn if that makes sense<span style="s3"> okay</span></p>
+<p begin="00:43:51.319" end="00:43:55.549" style="s2">so you said we&#39;re<span style="s4"> done</span><span style="s3"> with</span> questions<span style="s4"> so</span></p>
+<p begin="00:43:53.059" end="00:43:57.799" style="s2">I&#39;ll gladly<span style="s4"> accept</span> more questions</p>
+<p begin="00:43:55.549" end="00:43:58.999" style="s2">afterward<span style="s3"> but</span> yeah I should<span style="s4"> like</span> hand</p>
+<p begin="00:43:57.799" end="00:44:01.560" style="s2"><span style="s4">this</span><span style="s3"> over so we can split up into the</span></p>
+<p begin="00:43:58.999" end="00:44:09.340" style="s2"><span style="s4">different</span> groups if<span style="s4"> you</span> do</p>
+<p begin="00:44:01.560" end="00:44:09.340" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

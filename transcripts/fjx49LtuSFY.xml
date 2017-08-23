@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.670" end="00:00:10.349" style="s2">the Grace<span style="s3"> Hopper</span> film<span style="s3"> I</span> got<span style="s4"> super</span></p>
+<p begin="00:00:08.550" end="00:00:12.960" style="s2">excited<span style="s3"> to</span> do this<span style="s4"> when</span> I was<span style="s4"> hanging</span></p>
+<p begin="00:00:10.349" end="00:00:16.470" style="s2"><span style="s4">out</span> online one<span style="s3"> day</span> with my<span style="s3"> friends</span></p>
+<p begin="00:00:12.960" end="00:00:19.859" style="s2">Vanessa<span style="s3"> Hirst</span><span style="s4"> and Dave Hoover the</span><span style="s3"> like</span></p>
+<p begin="00:00:16.470" end="00:00:24.420" style="s2"><span style="s4">nineteen</span><span style="s3"> hundreds</span> Steve Jobs movie<span style="s4"> had</span></p>
+<p begin="00:00:19.859" end="00:00:30.840" style="s2">come<span style="s3"> out</span><span style="s4"> and</span> you<span style="s4"> know</span> he was a product</p>
+<p begin="00:00:24.420" end="00:00:34.440" style="s2">guy and at the same<span style="s4"> time</span> at the<span style="s3"> same</span></p>
+<p begin="00:00:30.840" end="00:00:36.120" style="s2"><span style="s3">time</span> some startup guru who&#39;s always</p>
+<p begin="00:00:34.440" end="00:00:38.100" style="s2">making<span style="s3"> mistakes said if you wanted a</span></p>
+<p begin="00:00:36.120" end="00:00:39.600" style="s2"><span style="s3">good</span> programmer<span style="s4"> you</span> had to get someone</p>
+<p begin="00:00:38.100" end="00:00:42.719" style="s2">who had been<span style="s4"> programming</span> since they were</p>
+<p begin="00:00:39.600" end="00:00:45.930" style="s2">a teenage boy<span style="s3"> I</span> mean I got real<span style="s3"> mad</span></p>
+<p begin="00:00:42.719" end="00:00:48.510" style="s2">about that<span style="s4"> because</span> I ran Chicago women</p>
+<p begin="00:00:45.930" end="00:00:50.579" style="s2">developers and I taught women how to</p>
+<p begin="00:00:48.510" end="00:00:51.870" style="s2">program women<span style="s3"> who are in the middle of</span></p>
+<p begin="00:00:50.579" end="00:00:53.489" style="s2">their career who missed the<span style="s4"> first</span><span style="s3"> boat</span></p>
+<p begin="00:00:51.870" end="00:00:56.690" style="s2"><span style="s3">and</span> there were some<span style="s4"> really good</span></p>
+<p begin="00:00:53.489" end="00:00:58.739" style="s2">programmers<span style="s4"> and</span> then<span style="s3"> Dave</span> says you know</p>
+<p begin="00:00:56.690" end="00:01:01.370" style="s2"><span style="s4">Grace</span> Hopper didn&#39;t learn<span style="s4"> to</span> program</p>
+<p begin="00:00:58.739" end="00:01:03.870" style="s2"><span style="s4">until</span> she<span style="s4"> was</span> 37<span style="s4"> and</span> look what she did</p>
+<p begin="00:01:01.370" end="00:01:06.090" style="s2"><span style="s4">and</span> I was like<span style="s4"> Grace</span> Hopper who&#39;s that</p>
+<p begin="00:01:03.870" end="00:01:08.189" style="s2"><span style="s4">because</span> you know<span style="s4"> I</span> don&#39;t know<span style="s3"> everything</span></p>
+<p begin="00:01:06.090" end="00:01:10.229" style="s2"><span style="s4">and</span><span style="s3"> I</span> got<span style="s3"> super</span> excited<span style="s3"> about</span> this woman</p>
+<p begin="00:01:08.189" end="00:01:12.119" style="s2">cuz she seemed up amazing so it&#39;s like</p>
+<p begin="00:01:10.229" end="00:01:13.080" style="s2">you<span style="s4"> know</span> what that&#39;s<span style="s4"> my</span> next<span style="s4"> film</span><span style="s3"> that&#39;s</span></p>
+<p begin="00:01:12.119" end="00:01:15.750" style="s2">what I&#39;m going<span style="s3"> to</span><span style="s4"> do</span> is<span style="s4"> that&#39;s</span> what I&#39;m</p>
+<p begin="00:01:13.080" end="00:01:18.299" style="s2">going to<span style="s4"> make</span> and<span style="s3"> we</span> ran it<span style="s4"> an</span> IndieGoGo</p>
+<p begin="00:01:15.750" end="00:01:22.820" style="s2">campaign raised a lot of<span style="s3"> money</span><span style="s4"> which</span> is</p>
+<p begin="00:01:18.299" end="00:01:25.710" style="s2"><span style="s3">all</span> gone now<span style="s3"> so</span> you know real slow going</p>
+<p begin="00:01:22.820" end="00:01:27.869" style="s2"><span style="s4">and we&#39;re making a film</span> about Grace</p>
+<p begin="00:01:25.710" end="00:01:30.780" style="s2">Hopper<span style="s3"> and</span><span style="s4"> what</span> has been<span style="s4"> lovely</span> about</p>
+<p begin="00:01:27.869" end="00:01:32.430" style="s2"><span style="s4">this</span> film<span style="s3"> in</span><span style="s4"> the</span> making of it<span style="s4"> is</span> she&#39;s</p>
+<p begin="00:01:30.780" end="00:01:37.320" style="s2">opened up as a human<span style="s4"> being</span> because<span style="s4"> all</span></p>
+<p begin="00:01:32.430" end="00:01:40.259" style="s2"><span style="s3">of</span> you hear about her<span style="s4"> is</span> this legend</p>
+<p begin="00:01:37.320" end="00:01:43.920" style="s2">stuff<span style="s4"> you</span> know when we talk about women</p>
+<p begin="00:01:40.259" end="00:01:47.040" style="s2"><span style="s4">in</span> computing we never talk<span style="s3"> about</span> you</p>
+<p begin="00:01:43.920" end="00:01:49.290" style="s2">know the traits<span style="s4"> that</span> are not precious</p>
+<p begin="00:01:47.040" end="00:01:52.189" style="s2"><span style="s3">they&#39;re</span> always very nice<span style="s3"> they</span> always</p>
+<p begin="00:01:49.290" end="00:01:56.040" style="s2">achieved something amazing</p>
+<p begin="00:01:52.189" end="00:01:58.280" style="s2">we don&#39;t humanize<span style="s4"> women</span> so I got really</p>
+<p begin="00:01:56.040" end="00:02:00.630" style="s2"><span style="s3">excited</span> about<span style="s3"> making</span> this film<span style="s4"> and</span></p>
+<p begin="00:01:58.280" end="00:02:01.829" style="s2">humanizing her and turning her into a</p>
+<p begin="00:02:00.630" end="00:02:04.070" style="s2">real person that<span style="s3"> you</span> could<span style="s4"> actually</span></p>
+<p begin="00:02:01.829" end="00:02:08.429" style="s2">relate<span style="s3"> to</span> instead<span style="s3"> of</span><span style="s4"> this</span> superhuman</p>
+<p begin="00:02:04.070" end="00:02:10.259" style="s2"><span style="s4">that</span> you could not connect<span style="s3"> to</span> and you</p>
+<p begin="00:02:08.429" end="00:02:11.910" style="s2">you would<span style="s3"> think I could never be that</span></p>
+<p begin="00:02:10.259" end="00:02:13.170" style="s2"><span style="s3">woman</span> because<span style="s4"> she</span> really did<span style="s3"> I</span> mean she</p>
+<p begin="00:02:11.910" end="00:02:16.050" style="s2">really<span style="s3"> was</span></p>
+<p begin="00:02:13.170" end="00:02:19.290" style="s2">very smart<span style="s4"> genius</span><span style="s3"> you</span> had to be that</p>
+<p begin="00:02:16.050" end="00:02:21.690" style="s2">when she<span style="s4"> came</span> up but<span style="s4"> she</span> was<span style="s3"> also</span> just a</p>
+<p begin="00:02:19.290" end="00:02:24.420" style="s2">normal<span style="s4"> person</span> really passionate about</p>
+<p begin="00:02:21.690" end="00:02:25.410" style="s2"><span style="s3">something</span><span style="s4"> and</span> she<span style="s3"> went</span> for<span style="s3"> it</span><span style="s4"> just</span><span style="s3"> like</span></p>
+<p begin="00:02:24.420" end="00:02:32.040" style="s2"><span style="s3">the</span> rest<span style="s3"> of</span><span style="s4"> us</span></p>
+<p begin="00:02:25.410" end="00:02:40.860" style="s2">so here&#39;s<span style="s3"> grace</span><span style="s4"> born</span> in 1905<span style="s4"> died</span> in</p>
+<p begin="00:02:32.040" end="00:02:43.640" style="s2">1992 pretty old broad<span style="s4"> 1905</span> is when the</p>
+<p begin="00:02:40.860" end="00:02:46.110" style="s2">Titanic sank<span style="s3"> to</span> give you like reference</p>
+<p begin="00:02:43.640" end="00:02:48.230" style="s2"><span style="s4">one</span> of the first kids<span style="s4"> on</span> her block to</p>
+<p begin="00:02:46.110" end="00:02:55.980" style="s2"><span style="s4">get</span> electricity<span style="s3"> in</span> New York City</p>
+<p begin="00:02:48.230" end="00:02:57.840" style="s2">good to know<span style="s3"> one</span> of<span style="s4"> the</span> first<span style="s4"> women</span> who</p>
+<p begin="00:02:55.980" end="00:03:01.830" style="s2">could vote<span style="s4"> in the United States for the</span></p>
+<p begin="00:02:57.840" end="00:03:04.280" style="s2">president<span style="s4"> of</span> our country<span style="s4"> which is</span></p>
+<p begin="00:03:01.830" end="00:03:04.280" style="s2">amazing</p>
+<p begin="00:03:04.400" end="00:03:10.260" style="s2">she went to Vassar<span style="s3"> at</span> 17<span style="s3"> and</span> got a</p>
+<p begin="00:03:08.580" end="00:03:13.019" style="s2">degree<span style="s4"> in</span> mathematics<span style="s3"> later</span> began</p>
+<p begin="00:03:10.260" end="00:03:16.049" style="s2"><span style="s3">teaching</span> there<span style="s3"> I</span> think<span style="s3"> I</span> have a really</p>
+<p begin="00:03:13.019" end="00:03:18.299" style="s2"><span style="s4">sweet</span> picture of her as a kid<span style="s3"> you can</span></p>
+<p begin="00:03:16.049" end="00:03:21.959" style="s2">see this one up here<span style="s3"> this</span> is Grace at</p>
+<p begin="00:03:18.299" end="00:03:24.299" style="s2">Vassar<span style="s3"> I</span> think she&#39;s about<span style="s4"> 17</span> here there</p>
+<p begin="00:03:21.959" end="00:03:29.100" style="s2">are not a<span style="s4"> lot</span><span style="s3"> of</span> pictures<span style="s3"> of</span><span style="s4"> grace</span> as a</p>
+<p begin="00:03:24.299" end="00:03:31.380" style="s2">child<span style="s4"> just because</span><span style="s3"> of</span> the time<span style="s3"> she</span> later</p>
+<p begin="00:03:29.100" end="00:03:34.079" style="s2">went<span style="s4"> to</span> NYU to<span style="s3"> do</span> some graduate<span style="s3"> work</span> and</p>
+<p begin="00:03:31.380" end="00:03:36.480" style="s2">later went to<span style="s4"> Yale</span> where she was one<span style="s3"> of</span></p>
+<p begin="00:03:34.079" end="00:03:39.739" style="s2">the very first<span style="s4"> women</span> in<span style="s4"> the</span> United</p>
+<p begin="00:03:36.480" end="00:03:42.450" style="s2">States and in the<span style="s4"> world</span><span style="s3"> to</span> get a<span style="s4"> PhD</span><span style="s3"> in</span></p>
+<p begin="00:03:39.739" end="00:03:44.400" style="s2">mathematics<span style="s3"> actually</span> to get<span style="s4"> a</span> PhD</p>
+<p begin="00:03:42.450" end="00:03:48.390" style="s2"><span style="s4">anywhere</span> she was one<span style="s3"> of</span> 30 women<span style="s4"> that</span></p>
+<p begin="00:03:44.400" end="00:03:52.470" style="s2">year to<span style="s4"> get</span> a PhD<span style="s4"> Yale</span> did not<span style="s3"> actually</span></p>
+<p begin="00:03:48.390" end="00:03:55.769" style="s2">admit women<span style="s4"> until</span> 1969<span style="s4"> so</span> this was the</p>
+<p begin="00:03:52.470" end="00:03:56.790" style="s2">30s<span style="s3"> and</span> she got her degree there which</p>
+<p begin="00:03:55.769" end="00:04:01.440" style="s2">showed you a<span style="s4"> little bit of how</span></p>
+<p begin="00:03:56.790" end="00:04:04.049" style="s2">exceptional how to Riven she was<span style="s4"> grace</span></p>
+<p begin="00:04:01.440" end="00:04:05.760" style="s2">was married<span style="s4"> she</span> married in graduate</p>
+<p begin="00:04:04.049" end="00:04:08.670" style="s2">school<span style="s3"> she</span> had a<span style="s4"> commuter</span> marriage her</p>
+<p begin="00:04:05.760" end="00:04:10.680" style="s2">husband taught at NYU<span style="s4"> she</span> taught it</p>
+<p begin="00:04:08.670" end="00:04:12.660" style="s2">Vassar they met up on<span style="s4"> the</span> weekend at</p>
+<p begin="00:04:10.680" end="00:04:16.620" style="s2">their lake house<span style="s4"> she doesn&#39;t have any</span></p>
+<p begin="00:04:12.660" end="00:04:19.049" style="s2">children<span style="s3"> she</span> was<span style="s4"> later divorced she</span> kept</p>
+<p begin="00:04:16.620" end="00:04:20.729" style="s2">her ring on though<span style="s4"> and</span> never<span style="s4"> said</span></p>
+<p begin="00:04:19.049" end="00:04:22.289" style="s2">anything<span style="s3"> about</span> this<span style="s4"> divorce</span> she just let</p>
+<p begin="00:04:20.729" end="00:04:24.530" style="s2">people<span style="s4"> believe that her husband died in</span></p>
+<p begin="00:04:22.289" end="00:04:24.530" style="s2"><span style="s3">the war</span></p>
+<p begin="00:04:24.820" end="00:04:29.270" style="s2">you<span style="s3"> love</span> her<span style="s3"> for that but you also think</span></p>
+<p begin="00:04:27.350" end="00:04:30.890" style="s2"><span style="s3">about</span> the stigmatism attached to divorce</p>
+<p begin="00:04:29.270" end="00:04:36.890" style="s2">at the<span style="s4"> time</span><span style="s3"> she</span> got<span style="s3"> divorced</span> which was</p>
+<p begin="00:04:30.890" end="00:04:38.360" style="s2">the 40s<span style="s3"> and</span> right<span style="s4"> after</span> Pearl Harbor</p>
+<p begin="00:04:36.890" end="00:04:40.220" style="s2"><span style="s3">like</span> everyone else</p>
+<p begin="00:04:38.360" end="00:04:43.790" style="s2"><span style="s3">grace</span> decided that she wanted<span style="s3"> to</span> join</p>
+<p begin="00:04:40.220" end="00:04:44.630" style="s2">the military<span style="s3"> and she tried</span> to<span style="s4"> get</span> into</p>
+<p begin="00:04:43.790" end="00:04:48.680" style="s2"><span style="s4">the Navy</span></p>
+<p begin="00:04:44.630" end="00:04:53.000" style="s2">she tried three<span style="s3"> times</span> each time rejected</p>
+<p begin="00:04:48.680" end="00:04:55.220" style="s2"><span style="s3">she</span> was too<span style="s3"> old</span><span style="s4"> at</span> 36<span style="s3"> to</span><span style="s4"> join</span> the<span style="s4"> Navy</span></p>
+<p begin="00:04:53.000" end="00:04:57.260" style="s2">then she was too underweight because</p>
+<p begin="00:04:55.220" end="00:05:00.650" style="s2">she&#39;s like<span style="s3"> 5 2 and</span> less than<span style="s4"> a</span> hundred</p>
+<p begin="00:04:57.260" end="00:05:04.160" style="s2">pounds<span style="s4"> then</span> it was<span style="s4"> that</span> her job as a</p>
+<p begin="00:05:00.650" end="00:05:05.750" style="s2">mathematics professor<span style="s4"> was</span> important to</p>
+<p begin="00:05:04.160" end="00:05:07.910" style="s2"><span style="s3">national</span> security<span style="s4"> and</span><span style="s3"> they</span> could not</p>
+<p begin="00:05:05.750" end="00:05:09.410" style="s2">spare her and she<span style="s3"> just</span> pushed<span style="s4"> the</span></p>
+<p begin="00:05:07.910" end="00:05:11.630" style="s2">pushing pushing person got into the Navy</p>
+<p begin="00:05:09.410" end="00:05:14.150" style="s2">and this is a picture<span style="s3"> of</span><span style="s4"> grace</span> at</p>
+<p begin="00:05:11.630" end="00:05:17.840" style="s2"><span style="s3">midshipman</span> school this<span style="s4"> is</span><span style="s3"> her</span> at 37 she</p>
+<p begin="00:05:14.150" end="00:05:20.690" style="s2">graduated of course<span style="s4"> top</span> of her<span style="s4"> class</span> and</p>
+<p begin="00:05:17.840" end="00:05:23.900" style="s2">was<span style="s4"> really excited to</span> go do something</p>
+<p begin="00:05:20.690" end="00:05:25.340" style="s2"><span style="s4">great</span> for<span style="s3"> her</span> country which she was</p>
+<p begin="00:05:23.900" end="00:05:28.070" style="s2"><span style="s4">hoping</span> was<span style="s3"> going</span><span style="s4"> to</span> work<span style="s4"> with her old</span></p>
+<p begin="00:05:25.340" end="00:05:31.250" style="s2"><span style="s4">advisor</span> from<span style="s4"> NYU</span><span style="s3"> and</span><span style="s4"> do</span> some</p>
+<p begin="00:05:28.070" end="00:05:34.970" style="s2">cryptography instead she<span style="s4"> was</span> sent to a</p>
+<p begin="00:05:31.250" end="00:05:37.940" style="s2">hot stinky loud basement it was<span style="s4"> top</span></p>
+<p begin="00:05:34.970" end="00:05:39.530" style="s2">secret<span style="s3"> crust</span> laboratory at Harvard<span style="s4"> they</span></p>
+<p begin="00:05:37.940" end="00:05:41.840" style="s2">didn&#39;t tell her what<span style="s4"> it was</span><span style="s3"> she just had</span></p>
+<p begin="00:05:39.530" end="00:05:46.430" style="s2">to show<span style="s3"> up</span> in a basement</p>
+<p begin="00:05:41.840" end="00:05:51.110" style="s2"><span style="s3">at</span> Harvard<span style="s4"> so</span> this is a picture<span style="s3"> of</span> her</p>
+<p begin="00:05:46.430" end="00:05:54.500" style="s2">and<span style="s3"> her</span> commander Charles<span style="s3"> Aiken</span><span style="s4"> and</span> this</p>
+<p begin="00:05:51.110" end="00:05:56.180" style="s2">is<span style="s3"> parts</span> of the<span style="s3"> differential</span> engine what</p>
+<p begin="00:05:54.500" end="00:05:57.710" style="s2">is a<span style="s4"> machine</span> that<span style="s4"> she</span> worked on was</p>
+<p begin="00:05:56.180" end="00:06:00.220" style="s2">actually<span style="s3"> based</span> on<span style="s4"> the</span> analytics<span style="s3"> engine</span></p>
+<p begin="00:05:57.710" end="00:06:04.550" style="s2">which they actually<span style="s3"> had</span> a model of in</p>
+<p begin="00:06:00.220" end="00:06:06.710" style="s2"><span style="s4">Harvard</span> attic and when Charles Aiken was</p>
+<p begin="00:06:04.550" end="00:06:08.810" style="s2"><span style="s4">trying</span> to figure<span style="s3"> out</span> how his computer</p>
+<p begin="00:06:06.710" end="00:06:11.120" style="s2">was going to work<span style="s4"> he was stuck and</span></p>
+<p begin="00:06:08.810" end="00:06:13.730" style="s2">actually took<span style="s4"> a look at this model from</span></p>
+<p begin="00:06:11.120" end="00:06:15.350" style="s2">Babbage and figured<span style="s4"> out how to make his</span></p>
+<p begin="00:06:13.730" end="00:06:17.930" style="s2">machine work so that&#39;s<span style="s4"> that&#39;s</span><span style="s3"> kind</span> of a</p>
+<p begin="00:06:15.350" end="00:06:22.090" style="s2">really<span style="s3"> cool</span> thing this is what she</p>
+<p begin="00:06:17.930" end="00:06:27.110" style="s2">walked into this<span style="s3"> machine</span> is 51 feet long</p>
+<p begin="00:06:22.090" end="00:06:28.880" style="s2">it&#39;s 8 feet<span style="s3"> high</span> it weighs something</p>
+<p begin="00:06:27.110" end="00:06:32.060" style="s2"><span style="s4">like</span> 10,000 pounds</p>
+<p begin="00:06:28.880" end="00:06:35.660" style="s2">it runs on relays and electromechanical</p>
+<p begin="00:06:32.060" end="00:06:38.580" style="s2">switches<span style="s3"> you</span> can&#39;t see this<span style="s4"> because</span> it&#39;s</p>
+<p begin="00:06:35.660" end="00:06:41.820" style="s2">terrible I didn&#39;t<span style="s3"> think</span><span style="s4"> about how big</span></p>
+<p begin="00:06:38.580" end="00:06:43.890" style="s2">but<span style="s4"> this</span> is all paper tapes right<span style="s3"> beside</span></p>
+<p begin="00:06:41.820" end="00:06:47.670" style="s2">this is a typewriter<span style="s3"> where</span> you type in</p>
+<p begin="00:06:43.890" end="00:06:50.310" style="s2">like corrections to your<span style="s4"> code</span> this<span style="s4"> is</span></p>
+<p begin="00:06:47.670" end="00:06:53.670" style="s2">amazing<span style="s3"> they</span> use this<span style="s4"> to run ballistics</span></p>
+<p begin="00:06:50.310" end="00:06:55.320" style="s2"><span style="s3">so</span> you know if you wanted<span style="s4"> to</span> calculate</p>
+<p begin="00:06:53.670" end="00:06:57.150" style="s2"><span style="s4">some</span> ballistics like where<span style="s4"> things</span><span style="s3"> are</span></p>
+<p begin="00:06:55.320" end="00:07:00.240" style="s2"><span style="s3">going</span><span style="s4"> if</span> you wanted to calculate the</p>
+<p begin="00:06:57.150" end="00:07:02.310" style="s2"><span style="s4">probability</span><span style="s3"> of</span> oh this is<span style="s4"> this</span> is<span style="s4"> really</span></p>
+<p begin="00:07:00.240" end="00:07:03.960" style="s2">important at the very first one of very</p>
+<p begin="00:07:02.310" end="00:07:06.120" style="s2">first calculations done on this<span style="s3"> machine</span></p>
+<p begin="00:07:03.960" end="00:07:08.990" style="s2">was with John<span style="s3"> Van</span> Newman of the</p>
+<p begin="00:07:06.120" end="00:07:08.990" style="s2">Manhattan<span style="s3"> Project</span></p>
+<p begin="00:07:09.060" end="00:07:12.300" style="s2">you know calculating some probability</p>
+<p begin="00:07:10.680" end="00:07:13.710" style="s2">about what was going to happen<span style="s4"> with</span> an</p>
+<p begin="00:07:12.300" end="00:07:15.840" style="s2">atomic<span style="s4"> explosion</span> which<span style="s4"> is</span> kind of</p>
+<p begin="00:07:13.710" end="00:07:17.520" style="s2">amazing to<span style="s3"> think</span> that that<span style="s4"> was</span><span style="s3"> happening</span></p>
+<p begin="00:07:15.840" end="00:07:19.680" style="s2"><span style="s3">and</span> if you read up<span style="s4"> on</span> John<span style="s3"> 10</span> you like</p>
+<p begin="00:07:17.520" end="00:07:21.780" style="s2">he&#39;s the most interesting<span style="s3"> guy</span> he&#39;s like</p>
+<p begin="00:07:19.680" end="00:07:23.340" style="s2">the pollinator of<span style="s4"> all</span> of these<span style="s3"> ideas</span> all</p>
+<p begin="00:07:21.780" end="00:07:26.430" style="s2"><span style="s3">over</span> the country in<span style="s3"> every</span> academic</p>
+<p begin="00:07:23.340" end="00:07:33.440" style="s2"><span style="s4">circle during that time just as a side</span></p>
+<p begin="00:07:26.430" end="00:07:35.370" style="s2">note when when grace saw this machine</p>
+<p begin="00:07:33.440" end="00:07:38.220" style="s2"><span style="s4">she</span> thought it<span style="s4"> was the</span><span style="s3"> most</span> beautiful</p>
+<p begin="00:07:35.370" end="00:07:42.420" style="s2"><span style="s4">thing</span><span style="s3"> in</span> the<span style="s4"> world</span><span style="s3"> you</span> have<span style="s3"> to</span><span style="s4"> think</span></p>
+<p begin="00:07:38.220" end="00:07:44.970" style="s2">about<span style="s4"> that</span> she walked in<span style="s4"> it&#39;s</span> hella hot</p>
+<p begin="00:07:42.420" end="00:07:48.660" style="s2">the machine is running<span style="s4"> it&#39;s</span> really loud</p>
+<p begin="00:07:44.970" end="00:07:53.270" style="s2">it&#39;s all relays<span style="s3"> it</span> has a it<span style="s4"> has</span> like a</p>
+<p begin="00:07:48.660" end="00:07:57.200" style="s2">rotor motor that runs runs everything</p>
+<p begin="00:07:53.270" end="00:08:00.780" style="s2">it smells like cigarette smoke<span style="s3"> is</span><span style="s4"> a</span></p>
+<p begin="00:07:57.200" end="00:08:02.040" style="s2">really fun<span style="s4"> side note is when I</span> went<span style="s3"> to</span></p>
+<p begin="00:08:00.780" end="00:08:06.870" style="s2">visit<span style="s4"> this</span> machine which you can also</p>
+<p begin="00:08:02.040" end="00:08:09.120" style="s2">visit at Harvard and I got the tour<span style="s4"> and</span></p>
+<p begin="00:08:06.870" end="00:08:11.220" style="s2">when they when they first<span style="s3"> plugged</span> this</p>
+<p begin="00:08:09.120" end="00:08:13.110" style="s2">machine and after cleaning<span style="s4"> it up and</span></p>
+<p begin="00:08:11.220" end="00:08:16.500" style="s2">redoing it it smelled like cigarette</p>
+<p begin="00:08:13.110" end="00:08:18.630" style="s2">smoke<span style="s3"> and</span> I realized there was so much</p>
+<p begin="00:08:16.500" end="00:08:21.210" style="s2"><span style="s4">tobacco</span> from these cigarettes from<span style="s4"> the</span></p>
+<p begin="00:08:18.630" end="00:08:23.010" style="s2"><span style="s4">60s and</span><span style="s3"> 70s</span><span style="s4"> in</span> the bottom of<span style="s4"> this</span></p>
+<p begin="00:08:21.210" end="00:08:25.410" style="s2">machine<span style="s4"> that</span> they just<span style="s4"> thought someone</span></p>
+<p begin="00:08:23.010" end="00:08:27.030" style="s2">was smoking<span style="s3"> in</span> the building<span style="s4"> so</span> you can</p>
+<p begin="00:08:25.410" end="00:08:30.480" style="s2">just<span style="s4"> imagine this all of these sailors</span></p>
+<p begin="00:08:27.030" end="00:08:31.980" style="s2"><span style="s4">smoking</span> trying to run this machine<span style="s3"> but</span></p>
+<p begin="00:08:30.480" end="00:08:35.130" style="s2">it was still the most<span style="s3"> beautiful</span> thing</p>
+<p begin="00:08:31.980" end="00:08:37.169" style="s2">she had ever<span style="s4"> seen which is amazing</span></p>
+<p begin="00:08:35.130" end="00:08:40.860" style="s2"><span style="s4">because</span><span style="s3"> grease grease did</span><span style="s4"> not</span> get that</p>
+<p begin="00:08:37.169" end="00:08:42.750" style="s2">reception when she showed up<span style="s4"> these</span> men</p>
+<p begin="00:08:40.860" end="00:08:44.550" style="s2"><span style="s4">actually</span> drew straws to see who is going</p>
+<p begin="00:08:42.750" end="00:08:48.870" style="s2"><span style="s3">to</span> sit next to the old woman coming<span style="s4"> in</span></p>
+<p begin="00:08:44.550" end="00:08:50.670" style="s2">mind you she&#39;s only<span style="s4"> 37</span> right<span style="s4"> what&#39;s</span></p>
+<p begin="00:08:48.870" end="00:08:51.000" style="s2">great about this though<span style="s4"> is</span> she is second</p>
+<p begin="00:08:50.670" end="00:08:54.360" style="s2">in coming</p>
+<p begin="00:08:51.000" end="00:08:59.040" style="s2">and except<span style="s3"> for</span> this<span style="s4"> guy</span> all of these</p>
+<p begin="00:08:54.360" end="00:09:03.870" style="s2">mofos<span style="s4"> she&#39;s</span><span style="s3"> their</span> boss<span style="s4"> because</span> grace</p>
+<p begin="00:08:59.040" end="00:09:09.330" style="s2">does<span style="s3"> not</span> play she&#39;s very nice<span style="s3"> but</span> but</p>
+<p begin="00:09:03.870" end="00:09:12.660" style="s2"><span style="s3">she</span> is also one tough lady the mark 2 or</p>
+<p begin="00:09:09.330" end="00:09:16.020" style="s2">the mark 1 ran 24 hours a day<span style="s3"> seven</span> days</p>
+<p begin="00:09:12.660" end="00:09:18.780" style="s2"><span style="s3">a</span><span style="s4"> week</span> during<span style="s4"> the war they worked in</span></p>
+<p begin="00:09:16.020" end="00:09:20.460" style="s2">shift<span style="s4"> all</span> of<span style="s3"> these</span> people this<span style="s4"> is</span><span style="s3"> about</span></p>
+<p begin="00:09:18.780" end="00:09:23.880" style="s2">it<span style="s3"> for</span> the team I think<span style="s4"> there&#39;s one</span><span style="s3"> more</span></p>
+<p begin="00:09:20.460" end="00:09:25.110" style="s2">woman<span style="s4"> they</span> worked in shift 24 hours a</p>
+<p begin="00:09:23.880" end="00:09:31.310" style="s2">day<span style="s3"> seven</span> days<span style="s3"> a</span> week<span style="s4"> for</span> the<span style="s3"> duration</span></p>
+<p begin="00:09:25.110" end="00:09:34.640" style="s2"><span style="s4">of</span> the war<span style="s3"> I</span> love thinking about<span style="s4"> this</span></p>
+<p begin="00:09:31.310" end="00:09:37.320" style="s2">because every<span style="s4"> time</span> I see a bro coder</p>
+<p begin="00:09:34.640" end="00:09:40.260" style="s2"><span style="s4">talking about slamming his energy drink</span></p>
+<p begin="00:09:37.320" end="00:09:42.060" style="s2"><span style="s4">and</span> like cold or die so we can<span style="s4"> get</span> this</p>
+<p begin="00:09:40.260" end="00:09:46.050" style="s2">app out I&#39;m like<span style="s4"> motherfucker</span> they won</p>
+<p begin="00:09:42.060" end="00:09:49.290" style="s2">the war they did it first<span style="s3"> yes I get</span></p>
+<p begin="00:09:46.050" end="00:09:52.380" style="s2"><span style="s4">really</span><span style="s3"> excited about</span><span style="s4"> it</span> but<span style="s3"> before</span> they</p>
+<p begin="00:09:49.290" end="00:09:53.970" style="s2">could do that nobody had built a</p>
+<p begin="00:09:52.380" end="00:09:57.450" style="s2">computer for more<span style="s4"> this</span> was the first</p>
+<p begin="00:09:53.970" end="00:10:00.540" style="s2">electromagnetic computer<span style="s4"> grace</span> had to</p>
+<p begin="00:09:57.450" end="00:10:03.170" style="s2">write the manual<span style="s4"> for</span> how<span style="s4"> to</span> use<span style="s3"> this</span></p>
+<p begin="00:10:00.540" end="00:10:06.390" style="s2">machine<span style="s3"> she</span> had to learn the<span style="s4"> machine</span></p>
+<p begin="00:10:03.170" end="00:10:08.670" style="s2"><span style="s4">manage</span> all these people and write the</p>
+<p begin="00:10:06.390" end="00:10:12.060" style="s2"><span style="s4">manual this is</span> all she did she actually</p>
+<p begin="00:10:08.670" end="00:10:18.150" style="s2">wrote the<span style="s3"> first</span> computer manual<span style="s4"> it&#39;s</span> her</p>
+<p begin="00:10:12.060" end="00:10:21.140" style="s2">fault<span style="s4"> you</span> can see you can see her name</p>
+<p begin="00:10:18.150" end="00:10:24.900" style="s2">here everyone on this original<span style="s3"> team</span> here</p>
+<p begin="00:10:21.140" end="00:10:26.370" style="s2">here&#39;s<span style="s3"> Grace</span><span style="s4"> she&#39;s</span><span style="s3"> not</span><span style="s4"> listed</span> as<span style="s4"> a</span></p>
+<p begin="00:10:24.900" end="00:10:29.940" style="s2">person who<span style="s4"> wrote</span> this<span style="s4"> because</span> this<span style="s3"> is</span></p>
+<p begin="00:10:26.370" end="00:10:30.600" style="s2">the Navy<span style="s3"> that</span><span style="s4"> was</span> her first day<span style="s3"> her</span></p>
+<p begin="00:10:29.940" end="00:10:32.700" style="s2">first day</p>
+<p begin="00:10:30.600" end="00:10:34.050" style="s2"><span style="s3">Charles Lincoln said you&#39;re</span><span style="s4"> going to</span></p>
+<p begin="00:10:32.700" end="00:10:35.940" style="s2">write<span style="s4"> the</span> manual<span style="s4"> and</span> she says I&#39;ve<span style="s3"> never</span></p>
+<p begin="00:10:34.050" end="00:10:38.310" style="s2">written a book<span style="s4"> before</span><span style="s3"> and</span> he says you&#39;re</p>
+<p begin="00:10:35.940" end="00:10:44.790" style="s2"><span style="s4">in</span> the Navy<span style="s3"> now</span> and that&#39;s how<span style="s3"> that</span></p>
+<p begin="00:10:38.310" end="00:10:47.150" style="s2">happened so she<span style="s4"> wrote</span> that but<span style="s4"> I</span> posit</p>
+<p begin="00:10:44.790" end="00:10:50.640" style="s2"><span style="s4">that grace was</span> more than just<span style="s4"> a</span> you know</p>
+<p begin="00:10:47.150" end="00:10:54.690" style="s2">computer hacker she was one of<span style="s4"> the</span> very</p>
+<p begin="00:10:50.640" end="00:10:57.540" style="s2"><span style="s4">first</span> computer pirates did you need<span style="s4"> to</span></p>
+<p begin="00:10:54.690" end="00:11:00.300" style="s2">take that<span style="s4"> crap</span> we&#39;re going to get to</p>
+<p begin="00:10:57.540" end="00:11:04.670" style="s2"><span style="s4">that</span> but<span style="s4"> first</span><span style="s3"> I am going</span> to play the</p>
+<p begin="00:11:00.300" end="00:11:04.670" style="s2">trailer<span style="s4"> teaser from my film</span></p>
+<p begin="00:11:12.940" end="00:11:16.369" style="s2">[Music]</p>
+<p begin="00:11:21.740" end="00:11:26.300" style="s2">look at all that<span style="s3"> hate</span> yes we&#39;re leaving</p>
+<p begin="00:11:23.970" end="00:11:26.300" style="s2">away</p>
+<p begin="00:11:31.850" end="00:11:36.750" style="s2">how did you know so much about computers</p>
+<p begin="00:11:33.990" end="00:11:57.570" style="s2"><span style="s3">then</span> I didn&#39;t how<span style="s3"> does</span><span style="s4"> the</span> first<span style="s4"> one</span></p>
+<p begin="00:11:36.750" end="00:11:58.370" style="s2"><span style="s4">yeah</span> that&#39;s my daughter<span style="s3"> oh</span> she&#39;s</p>
+<p begin="00:11:57.570" end="00:12:03.020" style="s2"><span style="s4">adorable</span></p>
+<p begin="00:11:58.370" end="00:12:03.020" style="s2"><span style="s4">all right so we&#39;re</span><span style="s3"> back</span> to pirate grace</p>
+<p begin="00:12:04.160" end="00:12:10.710" style="s2">after<span style="s3"> all</span><span style="s4"> she invented</span><span style="s3"> the</span> patch<span style="s4"> you</span></p>
+<p begin="00:12:09.180" end="00:12:12.210" style="s2">think<span style="s4"> about</span> this is the patch<span style="s4"> this is</span></p>
+<p begin="00:12:10.710" end="00:12:14.490" style="s2">the original patch I know y&#39;all been</p>
+<p begin="00:12:12.210" end="00:12:19.020" style="s2"><span style="s4">getting</span> patches<span style="s4"> this is the original</span></p>
+<p begin="00:12:14.490" end="00:12:21.510" style="s2">patch<span style="s4"> this</span> comes from<span style="s4"> the</span> mark<span style="s3"> one</span> this</p>
+<p begin="00:12:19.020" end="00:12:25.100" style="s2">is where they would put<span style="s4"> little</span> pieces of</p>
+<p begin="00:12:21.510" end="00:12:27.960" style="s2"><span style="s4">tape</span> over<span style="s3"> the</span> wrong holes they punched</p>
+<p begin="00:12:25.100" end="00:12:30.180" style="s2"><span style="s3">grace</span> invented<span style="s4"> this</span> grace<span style="s3"> also</span> invented</p>
+<p begin="00:12:27.960" end="00:12:33.180" style="s2">hacking where she would take these</p>
+<p begin="00:12:30.180" end="00:12:34.770" style="s2">programs and delete things that she</p>
+<p begin="00:12:33.180" end="00:12:36.480" style="s2">didn&#39;t want she thought it could run</p>
+<p begin="00:12:34.770" end="00:12:38.190" style="s2">faster she could change<span style="s4"> things</span> Charles</p>
+<p begin="00:12:36.480" end="00:12:40.230" style="s2"><span style="s4">Aiken</span><span style="s3"> he did this he liked things</span> to<span style="s3"> run</span></p>
+<p begin="00:12:38.190" end="00:12:42.330" style="s2">exactly<span style="s3"> how</span> they were and<span style="s3"> grace lee</span></p>
+<p begin="00:12:40.230" end="00:12:43.710" style="s2">liked to be lazy and<span style="s4"> cut</span> a bunch<span style="s4"> of</span></p>
+<p begin="00:12:42.330" end="00:12:46.800" style="s2">stuff out<span style="s4"> if</span> she could come<span style="s4"> up</span> with the</p>
+<p begin="00:12:43.710" end="00:12:49.790" style="s2">same answer<span style="s4"> we</span> all<span style="s3"> identify</span> with<span style="s4"> that</span></p>
+<p begin="00:12:46.800" end="00:12:54.840" style="s2">so she invite and vented the first<span style="s3"> patch</span></p>
+<p begin="00:12:49.790" end="00:12:56.790" style="s2"><span style="s4">one</span> misconception<span style="s3"> fluid</span> Jolly Roger in</p>
+<p begin="00:12:54.840" end="00:12:58.830" style="s2"><span style="s4">her</span> office which is<span style="s4"> just</span> hilarious as</p>
+<p begin="00:12:56.790" end="00:13:02.400" style="s2">far as her like being a pirate as far as</p>
+<p begin="00:12:58.830" end="00:13:05.520" style="s2">that theory goes she believed<span style="s4"> that</span></p>
+<p begin="00:13:02.400" end="00:13:06.990" style="s2">asking permission<span style="s3"> was</span> not as easy as</p>
+<p begin="00:13:05.520" end="00:13:10.290" style="s2"><span style="s4">asking for forgiveness if you&#39;ve ever</span></p>
+<p begin="00:13:06.990" end="00:13:10.950" style="s2">heard<span style="s4"> that</span> that phrase<span style="s3"> that</span> comes<span style="s4"> from</span></p>
+<p begin="00:13:10.290" end="00:13:14.220" style="s2">Grace Hopper</p>
+<p begin="00:13:10.950" end="00:13:16.590" style="s2">she was actually<span style="s3"> talking</span> about following</p>
+<p begin="00:13:14.220" end="00:13:20.250" style="s2"><span style="s4">your</span><span style="s3"> dreams I think I have</span><span style="s4"> taken</span> that<span style="s4"> to</span></p>
+<p begin="00:13:16.590" end="00:13:22.230" style="s2"><span style="s3">the</span><span style="s4"> extreme</span> in a lot of<span style="s4"> ways but this</span></p>
+<p begin="00:13:20.250" end="00:13:23.820" style="s2">was about about<span style="s4"> following</span> your<span style="s3"> dreams</span></p>
+<p begin="00:13:22.230" end="00:13:25.440" style="s2">but she did<span style="s4"> have</span> this Jolly Roger she</p>
+<p begin="00:13:23.820" end="00:13:27.990" style="s2">also had a clock that<span style="s4"> ran</span><span style="s3"> backwards</span> in</p>
+<p begin="00:13:25.440" end="00:13:30.080" style="s2">her office<span style="s3"> just trying to just throw</span></p>
+<p begin="00:13:27.990" end="00:13:34.320" style="s2">people off who<span style="s3"> at first</span><span style="s4"> started</span> visiting</p>
+<p begin="00:13:30.080" end="00:13:36.150" style="s2"><span style="s4">she</span> also believed that<span style="s4"> anything</span> anything</p>
+<p begin="00:13:34.320" end="00:13:40.140" style="s2"><span style="s4">you needed could be liberated from</span></p>
+<p begin="00:13:36.150" end="00:13:43.290" style="s2">someone else<span style="s3"> for</span><span style="s4"> free</span> every piece<span style="s4"> of</span></p>
+<p begin="00:13:40.140" end="00:13:43.680" style="s2">furniture<span style="s4"> in</span> her office<span style="s4"> was</span> stolen from</p>
+<p begin="00:13:43.290" end="00:13:46.529" style="s2"><span style="s4">another</span></p>
+<p begin="00:13:43.680" end="00:13:48.870" style="s2">branch of the army<span style="s3"> or the military</span><span style="s4"> the</span></p>
+<p begin="00:13:46.529" end="00:13:50.880" style="s2">Army the Marines<span style="s3"> didn&#39;t</span> matter as long</p>
+<p begin="00:13:48.870" end="00:13:52.529" style="s2"><span style="s3">as it wasn&#39;t</span><span style="s4"> needing</span> everything that she</p>
+<p begin="00:13:50.880" end="00:13:55.890" style="s2">had was liberated<span style="s4"> from</span> someone else&#39;s</p>
+<p begin="00:13:52.529" end="00:13:58.680" style="s2"><span style="s3">office</span> she also she also<span style="s4"> firmly</span> believed</p>
+<p begin="00:13:55.890" end="00:14:00.450" style="s2"><span style="s4">that</span> software<span style="s4"> should</span><span style="s3"> be</span> free so you</p>
+<p begin="00:13:58.680" end="00:14:03.720" style="s2">think<span style="s4"> about</span> this<span style="s4"> and you think</span><span style="s3"> about</span> you</p>
+<p begin="00:14:00.450" end="00:14:05.790" style="s2">know<span style="s3"> that</span> the<span style="s4"> arc</span> of<span style="s3"> the</span> history of</p>
+<p begin="00:14:03.720" end="00:14:07.290" style="s2"><span style="s3">software</span> and grace was<span style="s3"> the</span> first person</p>
+<p begin="00:14:05.790" end="00:14:09.450" style="s2"><span style="s4">was</span> like no we should make<span style="s4"> the</span> software</p>
+<p begin="00:14:07.290" end="00:14:10.770" style="s2">for<span style="s3"> free</span> people<span style="s3"> to</span> pay<span style="s3"> for</span> support<span style="s4"> but</span></p>
+<p begin="00:14:09.450" end="00:14:12.690" style="s2"><span style="s3">the</span> software<span style="s4"> should</span> absolutely be<span style="s3"> free</span></p>
+<p begin="00:14:10.770" end="00:14:14.910" style="s2"><span style="s3">and</span> of<span style="s4"> course</span> you have to remember<span style="s3"> that</span></p>
+<p begin="00:14:12.690" end="00:14:16.980" style="s2">at<span style="s4"> this time a lot</span><span style="s3"> of</span> people weren&#39;t</p>
+<p begin="00:14:14.910" end="00:14:19.950" style="s2">using<span style="s4"> computers the software was being</span></p>
+<p begin="00:14:16.980" end="00:14:25.110" style="s2">used by not even enterprise military and</p>
+<p begin="00:14:19.950" end="00:14:27.410" style="s2">enterprise<span style="s4"> but</span> she really believed us so</p>
+<p begin="00:14:25.110" end="00:14:32.190" style="s2">what&#39;s this</p>
+<p begin="00:14:27.410" end="00:14:34.890" style="s2">it&#39;s a bug<span style="s4"> all</span> right<span style="s3"> a</span> lot<span style="s3"> of people a</span></p>
+<p begin="00:14:32.190" end="00:14:36.360" style="s2"><span style="s4">lot</span> of people misconstrue<span style="s3"> the</span> fact<span style="s4"> that</span></p>
+<p begin="00:14:34.890" end="00:14:40.410" style="s2">because<span style="s4"> this</span> exists the Grace Hopper</p>
+<p begin="00:14:36.360" end="00:14:43.529" style="s2">invented the bug<span style="s4"> she</span> did not<span style="s4"> bug</span> in the</p>
+<p begin="00:14:40.410" end="00:14:46.709" style="s2">machine is something<span style="s3"> that</span> has been been</p>
+<p begin="00:14:43.529" end="00:14:50.940" style="s2">in colloquial English<span style="s4"> for</span> quite some</p>
+<p begin="00:14:46.709" end="00:14:54.390" style="s2">time<span style="s3"> what</span> she did<span style="s4"> was</span> find the<span style="s4"> first</span></p>
+<p begin="00:14:50.940" end="00:14:59.520" style="s2">actual case<span style="s3"> of</span> a bug being found this</p>
+<p begin="00:14:54.390" end="00:15:01.830" style="s2">poor<span style="s4"> mom</span> was beaten to<span style="s4"> death between</span><span style="s3"> the</span></p>
+<p begin="00:14:59.520" end="00:15:05.300" style="s2">relays of the mark<span style="s3"> 2</span> which was<span style="s4"> the</span></p>
+<p begin="00:15:01.830" end="00:15:08.130" style="s2">second version of Charles<span style="s3"> Aikens</span><span style="s4"> machine</span></p>
+<p begin="00:15:05.300" end="00:15:10.650" style="s2">what she did which was brilliant<span style="s3"> is</span></p>
+<p begin="00:15:08.130" end="00:15:12.779" style="s2">later on<span style="s3"> in</span> her<span style="s4"> career</span> when she<span style="s4"> became</span></p>
+<p begin="00:15:10.650" end="00:15:17.160" style="s2">an advocate<span style="s4"> for</span> computing she really</p>
+<p begin="00:15:12.779" end="00:15:19.709" style="s2">wanted everyone to<span style="s4"> adopt</span> computing was</p>
+<p begin="00:15:17.160" end="00:15:21.630" style="s2">she told and retold<span style="s4"> and</span> retold this</p>
+<p begin="00:15:19.709" end="00:15:24.959" style="s2">story and<span style="s3"> this</span> became part of her<span style="s4"> legacy</span></p>
+<p begin="00:15:21.630" end="00:15:28.500" style="s2">this bug idea so she did not<span style="s4"> invent</span> the</p>
+<p begin="00:15:24.959" end="00:15:30.930" style="s2">bug but she did popularize it<span style="s4"> and</span> she</p>
+<p begin="00:15:28.500" end="00:15:33.209" style="s2">did<span style="s3"> find</span> the very first bug<span style="s4"> a</span> really</p>
+<p begin="00:15:30.930" end="00:15:36.510" style="s2">funny story<span style="s3"> that</span> not a lot<span style="s3"> of</span><span style="s4"> people</span></p>
+<p begin="00:15:33.209" end="00:15:39.750" style="s2"><span style="s3">know</span> about<span style="s4"> Grace</span> Hopper<span style="s4"> is</span> that later<span style="s4"> on</span></p>
+<p begin="00:15:36.510" end="00:15:43.110" style="s2">because of<span style="s4"> that</span> bug thing one day when</p>
+<p begin="00:15:39.750" end="00:15:46.500" style="s2"><span style="s3">she</span> did not<span style="s3"> want</span><span style="s4"> to</span> work anymore<span style="s4"> she</span></p>
+<p begin="00:15:43.110" end="00:15:48.930" style="s2">went to the<span style="s4"> local</span> joke stop shop<span style="s3"> grace</span></p>
+<p begin="00:15:46.500" end="00:15:50.279" style="s2">will tell you<span style="s4"> someone</span> did<span style="s3"> it</span> like every</p>
+<p begin="00:15:48.930" end="00:15:53.670" style="s2">all<span style="s3"> of</span> the footage about<span style="s4"> grace says</span></p>
+<p begin="00:15:50.279" end="00:15:56.950" style="s2">someone someone went<span style="s4"> to</span> this<span style="s4"> local</span> joke</p>
+<p begin="00:15:53.670" end="00:15:58.780" style="s2">shop in<span style="s3"> Boston</span> where<span style="s4"> US Navy</span></p>
+<p begin="00:15:56.950" end="00:16:00.750" style="s2">they&#39;re not allowed to<span style="s4"> go and bought all</span></p>
+<p begin="00:15:58.780" end="00:16:05.530" style="s2"><span style="s4">these</span> bedbugs and<span style="s4"> put</span> them<span style="s3"> into</span> machine</p>
+<p begin="00:16:00.750" end="00:16:07.420" style="s2"><span style="s4">now</span> she actually dumped all<span style="s4"> of</span> these not</p>
+<p begin="00:16:05.530" end="00:16:09.820" style="s2">just<span style="s3"> this but several</span><span style="s4"> several</span> of them</p>
+<p begin="00:16:07.420" end="00:16:11.470" style="s2">into the mark<span style="s3"> -</span> between<span style="s4"> those</span> relays</p>
+<p begin="00:16:09.820" end="00:16:17.110" style="s2">because she thought<span style="s4"> it would be hella</span></p>
+<p begin="00:16:11.470" end="00:16:18.880" style="s2">funny<span style="s4"> which</span> of course made the<span style="s3"> machine</span></p>
+<p begin="00:16:17.110" end="00:16:19.090" style="s2"><span style="s3">stop</span> working and everyone got the day</p>
+<p begin="00:16:18.880" end="00:16:22.150" style="s2">off</p>
+<p begin="00:16:19.090" end="00:16:25.480" style="s2"><span style="s3">but</span> Charles<span style="s3"> Aiken</span> being who he was<span style="s4"> got</span></p>
+<p begin="00:16:22.150" end="00:16:28.120" style="s2">all<span style="s4"> of</span> the best vacuums<span style="s3"> that</span> he could to</p>
+<p begin="00:16:25.480" end="00:16:29.680" style="s2"><span style="s4">clean</span> out the mark<span style="s3"> one</span> does anyone know</p>
+<p begin="00:16:28.120" end="00:16:33.610" style="s2">what happens<span style="s4"> when</span> you get all of the</p>
+<p begin="00:16:29.680" end="00:16:37.180" style="s2">dust<span style="s4"> out</span> of<span style="s4"> a relay machine does not</span></p>
+<p begin="00:16:33.610" end="00:16:39.040" style="s2"><span style="s4">work there&#39;s not enough contact to make</span></p>
+<p begin="00:16:37.180" end="00:16:40.870" style="s2">it work<span style="s3"> so the relays are</span> hitting<span style="s4"> each</span></p>
+<p begin="00:16:39.040" end="00:16:44.400" style="s2">other<span style="s4"> and</span> they&#39;re not<span style="s3"> firing</span> it took two</p>
+<p begin="00:16:40.870" end="00:16:47.200" style="s2"><span style="s3">weeks</span> for<span style="s4"> the</span> machine<span style="s3"> to</span><span style="s4"> start</span> so<span style="s3"> that&#39;s</span></p>
+<p begin="00:16:44.400" end="00:16:49.270" style="s2">that&#39;s<span style="s4"> you</span> know<span style="s4"> that&#39;s</span> your lesson there</p>
+<p begin="00:16:47.200" end="00:16:52.360" style="s2">is grace<span style="s4"> wanted</span> a day off and<span style="s3"> she</span><span style="s4"> got</span></p>
+<p begin="00:16:49.270" end="00:16:54.430" style="s2">two weeks off<span style="s3"> and</span><span style="s4"> this is why</span><span style="s3"> she</span> can&#39;t</p>
+<p begin="00:16:52.360" end="00:16:56.680" style="s2">own up to<span style="s4"> the</span> story ever but now that</p>
+<p begin="00:16:54.430" end="00:16:57.940" style="s2">she&#39;s dead<span style="s4"> her</span> co-workers have all</p>
+<p begin="00:16:56.680" end="00:16:59.890" style="s2">fenced up and they&#39;re like<span style="s4"> yeah</span> that<span style="s4"> was</span></p>
+<p begin="00:16:57.940" end="00:17:02.500" style="s2">grace<span style="s4"> that</span> was<span style="s3"> Grace&#39;s</span> sense of humor</p>
+<p begin="00:16:59.890" end="00:17:04.209" style="s2">that&#39;s what happened<span style="s3"> so that&#39;s that&#39;s a</span></p>
+<p begin="00:17:02.500" end="00:17:08.050" style="s2"><span style="s4">really</span> nice<span style="s3"> one</span><span style="s4"> she</span> introduced bugs on</p>
+<p begin="00:17:04.209" end="00:17:12.760" style="s2">purpose<span style="s3"> another</span><span style="s4"> misconception</span> is<span style="s4"> that</span></p>
+<p begin="00:17:08.050" end="00:17:15.790" style="s2"><span style="s4">grace</span> invented<span style="s4"> COBOL</span> so you will see</p>
+<p begin="00:17:12.760" end="00:17:17.650" style="s2">this on every<span style="s3"> website</span> here&#39;s this</p>
+<p begin="00:17:15.790" end="00:17:21.730" style="s2">picture<span style="s4"> everyone&#39;s</span> super familiar<span style="s3"> with</span></p>
+<p begin="00:17:17.650" end="00:17:23.890" style="s2">it there&#39;s grace she&#39;s super old now</p>
+<p begin="00:17:21.730" end="00:17:29.850" style="s2"><span style="s4">holding this COBOL</span> thing because this<span style="s3"> is</span></p>
+<p begin="00:17:23.890" end="00:17:34.990" style="s2"><span style="s4">her</span><span style="s3"> this</span> is her<span style="s4"> legacy</span><span style="s3"> and</span> every COBOL</p>
+<p begin="00:17:29.850" end="00:17:37.810" style="s2"><span style="s4">it</span> still exists every every COBOL</p>
+<p begin="00:17:34.990" end="00:17:41.290" style="s2">website<span style="s4"> has</span> this picture<span style="s4"> of</span> grace<span style="s3"> and</span></p>
+<p begin="00:17:37.810" end="00:17:43.180" style="s2"><span style="s4">talk about Grace Hopper non-stop</span> Grace</p>
+<p begin="00:17:41.290" end="00:17:45.730" style="s2">Hopper didn&#39;t invent COBOL this was</p>
+<p begin="00:17:43.180" end="00:17:48.940" style="s2">invented<span style="s3"> by</span> a committee COBOL<span style="s3"> was</span></p>
+<p begin="00:17:45.730" end="00:17:51.340" style="s2">actually a<span style="s4"> short term programming</span></p>
+<p begin="00:17:48.940" end="00:17:53.200" style="s2">solution<span style="s4"> by</span> the way you know this was</p>
+<p begin="00:17:51.340" end="00:17:56.350" style="s2"><span style="s4">supposed</span> to be<span style="s4"> like</span> a three<span style="s4"> three</span><span style="s3"> tiered</span></p>
+<p begin="00:17:53.200" end="00:17:58.780" style="s2">solution<span style="s4"> to figure this stuff</span> out and</p>
+<p begin="00:17:56.350" end="00:18:00.280" style="s2">COBOL<span style="s3"> was</span> a<span style="s3"> short term solution and</span> they</p>
+<p begin="00:17:58.780" end="00:18:02.680" style="s2">never got<span style="s4"> to</span><span style="s3"> the</span><span style="s4"> mid term or the long</span></p>
+<p begin="00:18:00.280" end="00:18:06.580" style="s2">term<span style="s4"> solution</span> because COBOL just worked</p>
+<p begin="00:18:02.680" end="00:18:09.950" style="s2"><span style="s4">so</span> well now it&#39;s what<span style="s3"> seventy-five</span> years</p>
+<p begin="00:18:06.580" end="00:18:14.090" style="s2"><span style="s3">old</span><span style="s4"> is</span> still<span style="s4"> working</span></p>
+<p begin="00:18:09.950" end="00:18:16.950" style="s2">but she did<span style="s4"> not</span> invent<span style="s4"> this</span> what she did</p>
+<p begin="00:18:14.090" end="00:18:18.840" style="s2">what we<span style="s4"> should</span> credit<span style="s4"> her</span><span style="s3"> for</span> is</p>
+<p begin="00:18:16.950" end="00:18:23.270" style="s2">inventing the very first compiler<span style="s4"> this</span></p>
+<p begin="00:18:18.840" end="00:18:26.340" style="s2"><span style="s4">is</span> the 800 compiler you know grace</p>
+<p begin="00:18:23.270" end="00:18:30.300" style="s2"><span style="s4">really</span><span style="s3"> thought</span> that<span style="s4"> computers</span> could<span style="s4"> do</span></p>
+<p begin="00:18:26.340" end="00:18:32.070" style="s2">more<span style="s4"> than</span><span style="s3"> mathematics you know and she&#39;s</span></p>
+<p begin="00:18:30.300" end="00:18:33.750" style="s2">got this<span style="s4"> great</span> quote she&#39;s like I had a</p>
+<p begin="00:18:32.070" end="00:18:35.730" style="s2">working compiler<span style="s4"> and</span> no one would<span style="s4"> touch</span></p>
+<p begin="00:18:33.750" end="00:18:37.910" style="s2">it<span style="s4"> no</span> one believed<span style="s4"> me</span> they thought all</p>
+<p begin="00:18:35.730" end="00:18:41.850" style="s2">computers could do were mathematics<span style="s3"> and</span></p>
+<p begin="00:18:37.910" end="00:18:43.950" style="s2">she<span style="s4"> invented</span> this<span style="s4"> 800</span> compiler which</p>
+<p begin="00:18:41.850" end="00:18:47.070" style="s2">basically changed everything<span style="s3"> this</span><span style="s4"> is</span></p>
+<p begin="00:18:43.950" end="00:18:49.800" style="s2">what she should<span style="s3"> be</span> the most famous<span style="s4"> for</span></p>
+<p begin="00:18:47.070" end="00:18:53.580" style="s2">and isn&#39;t because compilers are<span style="s4"> really</span></p>
+<p begin="00:18:49.800" end="00:18:59.280" style="s2">hard to<span style="s3"> explain</span><span style="s4"> to</span> the<span style="s4"> public</span> bugs are</p>
+<p begin="00:18:53.580" end="00:19:05.070" style="s2">super easy<span style="s4"> but this kind of changed</span></p>
+<p begin="00:18:59.280" end="00:19:08.520" style="s2"><span style="s4">everything</span> so what happened with<span style="s4"> COBOL</span></p>
+<p begin="00:19:05.070" end="00:19:10.170" style="s2"><span style="s4">was that she was</span><span style="s3"> on the committee</span><span style="s4"> not</span></p>
+<p begin="00:19:08.520" end="00:19:12.720" style="s2">necessarily the programmers that<span style="s4"> built</span></p>
+<p begin="00:19:10.170" end="00:19:16.320" style="s2">it<span style="s3"> but what they</span><span style="s4"> faced COBOL off of was</span></p>
+<p begin="00:19:12.720" end="00:19:19.190" style="s2">a program she wrote called flow-matic<span style="s4"> so</span></p>
+<p begin="00:19:16.320" end="00:19:24.050" style="s2">flow-matic was like the counterpart to</p>
+<p begin="00:19:19.190" end="00:19:26.730" style="s2">Mathematica<span style="s4"> which</span> was which was Fortran</p>
+<p begin="00:19:24.050" end="00:19:28.770" style="s2"><span style="s3">she</span> wrote this code flow-matic again</p>
+<p begin="00:19:26.730" end="00:19:31.760" style="s2"><span style="s4">small</span> picture small screen I didn&#39;t</p>
+<p begin="00:19:28.770" end="00:19:34.730" style="s2">think<span style="s4"> about</span><span style="s3"> your</span><span style="s4"> giant screens</span></p>
+<p begin="00:19:31.760" end="00:19:39.090" style="s2"><span style="s3">she</span> wrote the precursor to<span style="s3"> it</span> and</p>
+<p begin="00:19:34.730" end="00:19:42.300" style="s2">everyone<span style="s4"> that I talked to that was on</span></p>
+<p begin="00:19:39.090" end="00:19:45.930" style="s2">that<span style="s4"> committee</span> of developers that that</p>
+<p begin="00:19:42.300" end="00:19:49.620" style="s2">made COBOL talks<span style="s4"> about</span> how instrumental</p>
+<p begin="00:19:45.930" end="00:19:52.920" style="s2">flow-matic was and that Grace Hopper is</p>
+<p begin="00:19:49.620" end="00:19:57.720" style="s2">the grandmother<span style="s4"> of</span> COBOL not not the</p>
+<p begin="00:19:52.920" end="00:20:00.990" style="s2">inventor of<span style="s4"> it</span> this<span style="s3"> is where grace gets</span></p>
+<p begin="00:19:57.720" end="00:20:06.140" style="s2">famous<span style="s4"> does</span> does anybody know what<span style="s4"> these</span></p>
+<p begin="00:20:00.990" end="00:20:10.080" style="s2">are no they&#39;re actually<span style="s4"> telephone</span> wires</p>
+<p begin="00:20:06.140" end="00:20:13.320" style="s2">they represent nanoseconds this is not a</p>
+<p begin="00:20:10.080" end="00:20:15.750" style="s2">table<span style="s4"> this is not a pipe</span><span style="s3"> so</span> these are</p>
+<p begin="00:20:13.320" end="00:20:19.470" style="s2">actually telephone wires<span style="s4"> they&#39;re</span> cut of</p>
+<p begin="00:20:15.750" end="00:20:22.830" style="s2"><span style="s3">oh</span> like this long<span style="s4"> I</span> meant to bring some</p>
+<p begin="00:20:19.470" end="00:20:23.320" style="s2">but I forgot them<span style="s3"> and</span> they represented</p>
+<p begin="00:20:22.830" end="00:20:27.700" style="s2">nanos</p>
+<p begin="00:20:23.320" end="00:20:29.680" style="s2">and grace grace<span style="s4"> went</span> into<span style="s4"> the Navy and</span></p>
+<p begin="00:20:27.700" end="00:20:32.140" style="s2">retired<span style="s3"> several</span> times<span style="s4"> and</span> during her</p>
+<p begin="00:20:29.680" end="00:20:36.310" style="s2">third stint in the Navy<span style="s3"> she</span> did become</p>
+<p begin="00:20:32.140" end="00:20:38.380" style="s2"><span style="s4">this person who was</span><span style="s3"> primarily</span> there just</p>
+<p begin="00:20:36.310" end="00:20:40.030" style="s2">to promote computing and one way she did</p>
+<p begin="00:20:38.380" end="00:20:42.310" style="s2">this<span style="s4"> where</span> she walked<span style="s4"> around</span> with these</p>
+<p begin="00:20:40.030" end="00:20:47.710" style="s2">nanoseconds<span style="s3"> and</span> she explained to<span style="s3"> people</span></p>
+<p begin="00:20:42.310" end="00:20:48.940" style="s2">how long it took<span style="s4"> energy</span> to<span style="s4"> travel</span> how</p>
+<p begin="00:20:47.710" end="00:20:50.620" style="s2">long it would<span style="s3"> take</span><span style="s4"> a</span> piece<span style="s3"> of</span></p>
+<p begin="00:20:48.940" end="00:20:52.660" style="s2"><span style="s4">information to travel from here</span><span style="s3"> to</span> the</p>
+<p begin="00:20:50.620" end="00:20:53.970" style="s2">moon<span style="s4"> and you can actually find these and</span></p>
+<p begin="00:20:52.660" end="00:20:56.980" style="s2">I should have I should have found<span style="s4"> this</span></p>
+<p begin="00:20:53.970" end="00:20:59.680" style="s2">earlier but you can<span style="s3"> actually</span> find<span style="s4"> these</span></p>
+<p begin="00:20:56.980" end="00:21:01.810" style="s2">talks<span style="s3"> online</span> of grace talking<span style="s3"> about</span> neon</p>
+<p begin="00:20:59.680" end="00:21:03.250" style="s2">sockets<span style="s4"> and</span> explaining<span style="s4"> to you know</span></p>
+<p begin="00:21:01.810" end="00:21:05.280" style="s2">she&#39;ll be<span style="s3"> like</span> and I have<span style="s4"> to</span> explain<span style="s3"> it</span></p>
+<p begin="00:21:03.250" end="00:21:07.750" style="s2">to<span style="s3"> the</span> generals<span style="s3"> it</span> takes a whole<span style="s3"> lot</span> of</p>
+<p begin="00:21:05.280" end="00:21:09.940" style="s2"><span style="s4">nanoseconds</span> and<span style="s4"> she&#39;s</span> quite old at<span style="s3"> this</span></p>
+<p begin="00:21:07.750" end="00:21:12.160" style="s2"><span style="s3">time</span> she&#39;s in her you<span style="s4"> know</span> late</p>
+<p begin="00:21:09.940" end="00:21:13.690" style="s2"><span style="s4">seventies</span> whole lot of nanoseconds<span style="s3"> to</span></p>
+<p begin="00:21:12.160" end="00:21:15.400" style="s2"><span style="s4">get</span> the information from here<span style="s4"> to</span> the</p>
+<p begin="00:21:13.690" end="00:21:20.350" style="s2">moon and she&#39;s<span style="s4"> adorable and it&#39;s very</span></p>
+<p begin="00:21:15.400" end="00:21:26.170" style="s2">funny<span style="s4"> but this is where she she gets</span></p>
+<p begin="00:21:20.350" end="00:21:28.750" style="s2">very famous<span style="s3"> as</span> giving these talks<span style="s4"> she</span></p>
+<p begin="00:21:26.170" end="00:21:30.880" style="s2">has a<span style="s4"> battleship</span> named after her this is</p>
+<p begin="00:21:28.750" end="00:21:32.290" style="s2">it&#39;s<span style="s3"> not</span> a battleship I got schooled by</p>
+<p begin="00:21:30.880" end="00:21:34.420" style="s2">someone in the Navy this<span style="s4"> is this is a</span></p>
+<p begin="00:21:32.290" end="00:21:38.950" style="s2">warship they stopped making battleships</p>
+<p begin="00:21:34.420" end="00:21:40.210" style="s2">in the 50s<span style="s4"> okay</span> so she<span style="s4"> had</span> a warship</p>
+<p begin="00:21:38.950" end="00:21:43.180" style="s2">named after her she actually has a</p>
+<p begin="00:21:40.210" end="00:21:44.800" style="s2">retirement party on this<span style="s4"> on</span> this boat by</p>
+<p begin="00:21:43.180" end="00:21:47.590" style="s2"><span style="s3">the</span> way the woman<span style="s4"> who</span> planned this<span style="s4"> party</span></p>
+<p begin="00:21:44.800" end="00:21:51.190" style="s2"><span style="s3">I</span> talked<span style="s4"> to</span> her name is<span style="s4"> Brenda</span> Sullivan</p>
+<p begin="00:21:47.590" end="00:21:53.230" style="s2">the woman who planned this party wrote</p>
+<p begin="00:21:51.190" end="00:21:57.430" style="s2"><span style="s4">the</span> code that detects space junk so we</p>
+<p begin="00:21:53.230" end="00:21:58.720" style="s2">all don&#39;t die she was just she<span style="s3"> was just</span></p>
+<p begin="00:21:57.430" end="00:22:00.930" style="s2">like talking<span style="s4"> about this party</span> like it</p>
+<p begin="00:21:58.720" end="00:22:04.810" style="s2">was a big thing<span style="s3"> and</span> then<span style="s4"> she</span> says and</p>
+<p begin="00:22:00.930" end="00:22:06.100" style="s2"><span style="s3">novels now</span><span style="s4"> I</span> did<span style="s4"> this</span> and I got<span style="s4"> COBOL</span> to</p>
+<p begin="00:22:04.810" end="00:22:07.630" style="s2">work on microcomputers when they didn&#39;t</p>
+<p begin="00:22:06.100" end="00:22:09.400" style="s2"><span style="s4">have</span> enough<span style="s4"> memory blah blah blah she&#39;s</span></p>
+<p begin="00:22:07.630" end="00:22:13.450" style="s2">just just you know<span style="s3"> badass</span> who planned</p>
+<p begin="00:22:09.400" end="00:22:16.950" style="s2">this giant<span style="s4"> party</span> on a warship<span style="s3"> and</span><span style="s4"> hung</span></p>
+<p begin="00:22:13.450" end="00:22:19.600" style="s2"><span style="s4">out</span> with Walter Cronkite it was amazing</p>
+<p begin="00:22:16.950" end="00:22:21.730" style="s2"><span style="s3">so</span> great have a warship named after her</p>
+<p begin="00:22:19.600" end="00:22:23.770" style="s2"><span style="s3">right</span><span style="s4"> now</span> this<span style="s4"> is</span> out in<span style="s3"> the middle east</span></p>
+<p begin="00:22:21.730" end="00:22:25.630" style="s2"><span style="s4">I</span> I really can&#39;t<span style="s3"> wait</span> for the<span style="s3"> ship</span> to</p>
+<p begin="00:22:23.770" end="00:22:28.210" style="s2"><span style="s4">come</span> back so I<span style="s3"> can</span> tour<span style="s3"> it</span> so I can see</p>
+<p begin="00:22:25.630" end="00:22:30.040" style="s2">it a really<span style="s4"> interesting</span> thing<span style="s3"> about</span><span style="s4"> this</span></p>
+<p begin="00:22:28.210" end="00:22:34.140" style="s2">ship is they only put one<span style="s3"> women&#39;s</span></p>
+<p begin="00:22:30.040" end="00:22:36.220" style="s2"><span style="s4">restroom</span> in it and so many service women</p>
+<p begin="00:22:34.140" end="00:22:36.760" style="s2">wanted to work<span style="s4"> on</span> that ship</p>
+<p begin="00:22:36.220" end="00:22:38.170" style="s2"><span style="s4">and Rick</span></p>
+<p begin="00:22:36.760" end="00:22:40.300" style="s2">I stood<span style="s4"> to</span> work on that ship that<span style="s4"> they</span></p>
+<p begin="00:22:38.170" end="00:22:42.640" style="s2">had to put more women&#39;s restrooms in it</p>
+<p begin="00:22:40.300" end="00:22:45.010" style="s2"><span style="s4">and</span> it made them go<span style="s3"> over-budget because</span></p>
+<p begin="00:22:42.640" end="00:22:49.660" style="s2">they hadn&#39;t<span style="s3"> thought</span> about<span style="s3"> that</span> in their</p>
+<p begin="00:22:45.010" end="00:22:52.720" style="s2">design<span style="s3"> this</span><span style="s4"> is</span> why it&#39;s<span style="s4"> called</span> like this</p>
+<p begin="00:22:49.660" end="00:22:55.000" style="s2">ship it is known to have golden toilets</p>
+<p begin="00:22:52.720" end="00:22:57.520" style="s2"><span style="s3">and</span> this is what they mean<span style="s4"> by</span> it<span style="s4"> is</span></p>
+<p begin="00:22:55.000" end="00:22:59.500" style="s2">because they had to put more like female</p>
+<p begin="00:22:57.520" end="00:23:01.510" style="s2">restrooms and shower rooms<span style="s4"> in</span> the ship</p>
+<p begin="00:22:59.500" end="00:23:05.340" style="s2">gets know many women requested to be on</p>
+<p begin="00:23:01.510" end="00:23:08.260" style="s2">this boat<span style="s4"> which</span> is<span style="s4"> amazing</span></p>
+<p begin="00:23:05.340" end="00:23:12.340" style="s2">another<span style="s4"> misconception</span> about<span style="s4"> Grace</span> Hopper</p>
+<p begin="00:23:08.260" end="00:23:14.290" style="s2"><span style="s3">is</span> that she was a feminist<span style="s3"> that</span> she was</p>
+<p begin="00:23:12.340" end="00:23:19.090" style="s2">all<span style="s4"> for</span> women&#39;s rights<span style="s3"> we</span> really up hold</p>
+<p begin="00:23:14.290" end="00:23:21.010" style="s2">that a lot Grace Hopper got hers<span style="s4"> Grace</span></p>
+<p begin="00:23:19.090" end="00:23:22.480" style="s2">Hopper believed in the meritocracy<span style="s4"> even</span></p>
+<p begin="00:23:21.010" end="00:23:25.810" style="s2">while upholding<span style="s4"> the</span> same double</p>
+<p begin="00:23:22.480" end="00:23:29.770" style="s2">standards of gender<span style="s3"> that</span> a lot of<span style="s4"> women</span></p>
+<p begin="00:23:25.810" end="00:23:31.570" style="s2"><span style="s3">did</span> you<span style="s3"> know</span> she chose her career<span style="s3"> over</span> a</p>
+<p begin="00:23:29.770" end="00:23:33.840" style="s2"><span style="s4">family</span> she had<span style="s4"> to</span> those<span style="s3"> were</span><span style="s4"> the</span> only</p>
+<p begin="00:23:31.570" end="00:23:33.840" style="s2"><span style="s4">two</span> choices</p>
+<p begin="00:23:33.930" end="00:23:39.610" style="s2">she was a staunch<span style="s3"> Republican</span><span style="s4"> this</span></p>
+<p begin="00:23:37.810" end="00:23:40.840" style="s2">meritocracy did not believe<span style="s4"> that</span> she</p>
+<p begin="00:23:39.610" end="00:23:43.090" style="s2">thought<span style="s4"> women shouldn&#39;t do things</span></p>
+<p begin="00:23:40.840" end="00:23:44.440" style="s2">certainly<span style="s4"> one</span> of<span style="s4"> the</span><span style="s3"> programmers</span><span style="s4"> best</span></p>
+<p begin="00:23:43.090" end="00:23:46.990" style="s2">programmers she ever met</p>
+<p begin="00:23:44.440" end="00:23:48.760" style="s2"><span style="s3">bedding</span> Hogarth<span style="s4"> there&#39;s</span> not a<span style="s4"> lot</span><span style="s3"> on</span> her</p>
+<p begin="00:23:46.990" end="00:23:53.200" style="s2">but everything<span style="s4"> about</span> her you should<span style="s3"> read</span></p>
+<p begin="00:23:48.760" end="00:23:55.570" style="s2">about<span style="s4"> you</span> know she made sure<span style="s3"> that</span> even</p>
+<p begin="00:23:53.200" end="00:23:57.340" style="s2">after<span style="s3"> Betty</span> got married and had<span style="s4"> a</span> baby</p>
+<p begin="00:23:55.570" end="00:24:01.990" style="s2"><span style="s4">normally</span> you know once<span style="s4"> you</span> get married</p>
+<p begin="00:23:57.340" end="00:24:03.600" style="s2"><span style="s4">you</span> get fired<span style="s3"> up</span><span style="s4"> until</span> the<span style="s4"> 70s</span> she made</p>
+<p begin="00:24:01.990" end="00:24:06.430" style="s2"><span style="s4">sure</span> that<span style="s3"> she could program</span> some home</p>
+<p begin="00:24:03.600" end="00:24:09.130" style="s2"><span style="s4">this</span> is before<span style="s4"> the Internet to</span> think</p>
+<p begin="00:24:06.430" end="00:24:11.710" style="s2"><span style="s4">about</span> it think<span style="s3"> about what this</span><span style="s4"> meant</span></p>
+<p begin="00:24:09.130" end="00:24:17.620" style="s2">like<span style="s3"> carting</span> back and forth programs</p>
+<p begin="00:24:11.710" end="00:24:19.660" style="s2"><span style="s4">while</span> you have a baby<span style="s4"> at</span><span style="s3"> home</span><span style="s4"> so</span> some</p>
+<p begin="00:24:17.620" end="00:24:24.130" style="s2">some really<span style="s4"> interesting</span> things<span style="s3"> about</span></p>
+<p begin="00:24:19.660" end="00:24:26.230" style="s2">grace that make her more palpable<span style="s3"> or</span> at</p>
+<p begin="00:24:24.130" end="00:24:29.860" style="s2"><span style="s4">least</span> more salacious<span style="s3"> I</span> think is<span style="s4"> that</span></p>
+<p begin="00:24:26.230" end="00:24:33.070" style="s2">grace<span style="s4"> smokes</span> like a chimney right<span style="s3"> and</span></p>
+<p begin="00:24:29.860" end="00:24:37.870" style="s2">once once she<span style="s4"> got</span> to the point<span style="s4"> where</span> she</p>
+<p begin="00:24:33.070" end="00:24:41.200" style="s2">was<span style="s3"> Rear Admiral if</span> you if you wanted to</p>
+<p begin="00:24:37.870" end="00:24:44.140" style="s2">employ grace you had to make<span style="s3"> sure she</span></p>
+<p begin="00:24:41.200" end="00:24:45.940" style="s2">had a smoking office<span style="s4"> so</span> often and this</p>
+<p begin="00:24:44.140" end="00:24:47.190" style="s2">is true also<span style="s3"> of</span> Einstein<span style="s4"> with</span> who you</p>
+<p begin="00:24:45.940" end="00:24:49.740" style="s2">probably<span style="s4"> didn&#39;t</span> know was a smoker either</p>
+<p begin="00:24:47.190" end="00:24:51.840" style="s2">is they<span style="s4"> both</span> demanded</p>
+<p begin="00:24:49.740" end="00:24:53.070" style="s2">the<span style="s4"> companies</span> in the<span style="s4"> institution&#39;s</span> they</p>
+<p begin="00:24:51.840" end="00:24:55.200" style="s2">worked for<span style="s3"> that</span><span style="s4"> their</span> offices were</p>
+<p begin="00:24:53.070" end="00:24:57.450" style="s2">smoking offices and they would not work</p>
+<p begin="00:24:55.200" end="00:25:00.179" style="s2">there if that<span style="s4"> wasn&#39;t true</span><span style="s3"> so</span> often both</p>
+<p begin="00:24:57.450" end="00:25:02.100" style="s2">both Einstein and<span style="s4"> grace they were like</span></p>
+<p begin="00:25:00.179" end="00:25:03.929" style="s2">the smokers lounge<span style="s4"> in</span> their offices and</p>
+<p begin="00:25:02.100" end="00:25:09.240" style="s2"><span style="s4">smoked</span> often<span style="s3"> so</span> later in Grace&#39;s life</p>
+<p begin="00:25:03.929" end="00:25:12.240" style="s2"><span style="s4">when</span> she was hospitalized<span style="s3"> often</span> etc she</p>
+<p begin="00:25:09.240" end="00:25:15.450" style="s2">would hide packs of cigarettes<span style="s3"> all</span><span style="s4"> over</span></p>
+<p begin="00:25:12.240" end="00:25:18.480" style="s2">the place under her bed<span style="s4"> behind the</span></p>
+<p begin="00:25:15.450" end="00:25:20.250" style="s2">toilet<span style="s4"> she was just</span> like I&#39;m old it</p>
+<p begin="00:25:18.480" end="00:25:25.050" style="s2"><span style="s4">doesn&#39;t</span> matter<span style="s4"> I&#39;m</span> going<span style="s3"> to</span> like this</p>
+<p begin="00:25:20.250" end="00:25:26.580" style="s2"><span style="s4">was</span><span style="s3"> just</span><span style="s4"> her thing</span><span style="s3"> that&#39;s</span> it<span style="s3"> that&#39;s</span><span style="s4"> all</span></p>
+<p begin="00:25:25.050" end="00:25:29.520" style="s2"><span style="s4">we</span> have time for really I think<span style="s3"> I</span><span style="s4"> went</span></p>
+<p begin="00:25:26.580" end="00:25:31.320" style="s2">over I&#39;m sorry<span style="s4"> but</span> if you have questions</p>
+<p begin="00:25:29.520" end="00:25:33.150" style="s2"><span style="s4">about</span> grace my mind is full<span style="s4"> of</span></p>
+<p begin="00:25:31.320" end="00:25:36.240" style="s2"><span style="s3">information</span> I&#39;ve<span style="s3"> been making a stone</span><span style="s4"> for</span></p>
+<p begin="00:25:33.150" end="00:25:40.110" style="s2">three years now<span style="s4"> so</span> I&#39;m ready to<span style="s3"> answer</span></p>
+<p begin="00:25:36.240" end="00:25:42.630" style="s2">them I&#39;m interested in<span style="s3"> your</span> comment</p>
+<p begin="00:25:40.110" end="00:25:44.970" style="s2"><span style="s3">about</span> her not<span style="s4"> being</span><span style="s3"> a</span> feminist<span style="s4"> did</span> she</p>
+<p begin="00:25:42.630" end="00:25:46.740" style="s2">say that<span style="s3"> she sure did and</span> you have<span style="s3"> it</span> I</p>
+<p begin="00:25:44.970" end="00:25:48.990" style="s2"><span style="s4">am</span> NOT I am<span style="s4"> NOT</span> of them you have<span style="s4"> to</span></p>
+<p begin="00:25:46.740" end="00:25:50.370" style="s2">think about<span style="s4"> that</span> time right you have<span style="s4"> to</span></p>
+<p begin="00:25:48.990" end="00:25:52.230" style="s2">think about<span style="s3"> the</span> time when feminism<span style="s3"> would</span></p>
+<p begin="00:25:50.370" end="00:25:55.140" style="s2">like that was the<span style="s3"> thing</span> I mean<span style="s4"> you</span> had</p>
+<p begin="00:25:52.230" end="00:25:57.150" style="s2">radical<span style="s4"> feminists and you had</span><span style="s3"> nothing</span></p>
+<p begin="00:25:55.140" end="00:25:59.730" style="s2">else<span style="s3"> I</span> mean<span style="s4"> there</span> wasn&#39;t<span style="s3"> a</span> lot<span style="s3"> of</span> there</p>
+<p begin="00:25:57.150" end="00:26:02.460" style="s2"><span style="s4">was</span> like Betty Ford and<span style="s3"> feminists</span> which</p>
+<p begin="00:25:59.730" end="00:26:03.750" style="s2">was you<span style="s3"> know</span> pill<span style="s4"> pop and mamas</span> and then</p>
+<p begin="00:26:02.460" end="00:26:07.950" style="s2">you had you know what we&#39;re going<span style="s3"> to</span></p>
+<p begin="00:26:03.750" end="00:26:11.100" style="s2"><span style="s4">break</span> this<span style="s4"> shit</span> down but<span style="s3"> grace was a</span></p>
+<p begin="00:26:07.950" end="00:26:14.370" style="s2"><span style="s4">Republican</span><span style="s3"> grace</span><span style="s4"> also</span> had built her</p>
+<p begin="00:26:11.100" end="00:26:17.220" style="s2">entire reputation<span style="s3"> on</span> following<span style="s3"> the</span> rules</p>
+<p begin="00:26:14.370" end="00:26:20.730" style="s2">enough and subverting them just enough</p>
+<p begin="00:26:17.220" end="00:26:23.190" style="s2">so she rode that line so as much as<span style="s4"> I</span></p>
+<p begin="00:26:20.730" end="00:26:25.050" style="s2"><span style="s3">would</span> love to claim her in like being</p>
+<p begin="00:26:23.190" end="00:26:26.460" style="s2">one of<span style="s4"> those</span> people<span style="s4"> who</span> broke boundaries</p>
+<p begin="00:26:25.050" end="00:26:29.900" style="s2">for<span style="s4"> the sake of breaking boundaries</span></p>
+<p begin="00:26:26.460" end="00:26:33.300" style="s2">she broke them because<span style="s3"> she</span> loved math</p>
+<p begin="00:26:29.900" end="00:26:35.670" style="s2">she broke them because<span style="s3"> she loved to code</span></p>
+<p begin="00:26:33.300" end="00:26:39.750" style="s2">she&#39;s broken<span style="s4"> because</span> she loved to teach</p>
+<p begin="00:26:35.670" end="00:26:42.179" style="s2">young people about math and coding she</p>
+<p begin="00:26:39.750" end="00:26:45.390" style="s2"><span style="s4">did</span> not break them<span style="s4"> for</span> us she broke them</p>
+<p begin="00:26:42.179" end="00:26:47.309" style="s2">for her and for<span style="s4"> home</span> her own<span style="s3"> passion and</span></p>
+<p begin="00:26:45.390" end="00:26:49.320" style="s2">it takes all kinds to make a world<span style="s3"> but</span></p>
+<p begin="00:26:47.309" end="00:26:51.540" style="s2"><span style="s4">that&#39;s</span> like a hard thing for<span style="s4"> me too</span></p>
+<p begin="00:26:49.320" end="00:26:53.760" style="s2">because I want<span style="s3"> to</span> hold her up<span style="s4"> there</span> and</p>
+<p begin="00:26:51.540" end="00:26:56.460" style="s2">I can I<span style="s4"> could</span> be like this<span style="s4"> woman</span> did</p>
+<p begin="00:26:53.760" end="00:27:00.040" style="s2">things for<span style="s3"> us</span><span style="s4"> but</span> that&#39;s<span style="s4"> not</span> what was<span style="s4"> in</span></p>
+<p begin="00:26:56.460" end="00:27:05.020" style="s2">her heart she just wanted<span style="s4"> to</span> do<span style="s4"> things</span></p>
+<p begin="00:27:00.040" end="00:27:09.130" style="s2">yes I have a<span style="s4"> question</span> from<span style="s4"> the internet</span></p>
+<p begin="00:27:05.020" end="00:27:13.360" style="s2"><span style="s3">I&#39;ve</span> been tweeting<span style="s3"> and</span> someone said</p>
+<p begin="00:27:09.130" end="00:27:16.580" style="s2">about the the<span style="s3"> IDO</span></p>
+<p begin="00:27:13.360" end="00:27:20.030" style="s2">compiler<span style="s3"> it</span> Cole<span style="s4"> but</span> that drawing<span style="s3"> rip</span></p>
+<p begin="00:27:16.580" end="00:27:28.280" style="s2">depicts<span style="s4"> operations</span> on a stack that&#39;s</p>
+<p begin="00:27:20.030" end="00:27:29.600" style="s2"><span style="s4">probably</span> true but they can look<span style="s4"> up</span> the</p>
+<p begin="00:27:28.280" end="00:27:32.140" style="s2">800 compiler<span style="s4"> and</span> get it off of</p>
+<p begin="00:27:29.600" end="00:27:34.940" style="s2">archive.org<span style="s3"> okay</span></p>
+<p begin="00:27:32.140" end="00:27:37.400" style="s2">I&#39;m just curious if she did any<span style="s4"> work</span> in</p>
+<p begin="00:27:34.940" end="00:27:40.100" style="s2">the<span style="s4"> non-military commercial or</span> otherwise</p>
+<p begin="00:27:37.400" end="00:27:42.590" style="s2"><span style="s3">non-military</span><span style="s4"> software</span> world<span style="s3"> I</span> totally</p>
+<p begin="00:27:40.100" end="00:27:44.900" style="s2">glossed over<span style="s4"> that but yes she did so she</span></p>
+<p begin="00:27:42.590" end="00:27:47.420" style="s2">worked<span style="s4"> at</span> ENIAC<span style="s3"> an</span> interesting thing</p>
+<p begin="00:27:44.900" end="00:27:49.100" style="s2"><span style="s4">about</span> this<span style="s4"> is</span> if you<span style="s4"> read</span> another great</p>
+<p begin="00:27:47.420" end="00:27:52.220" style="s2">programmer who wrote<span style="s4"> an</span> autobiography</p>
+<p begin="00:27:49.100" end="00:27:56.390" style="s2"><span style="s3">Jean Bartok&#39;s book shouldn&#39;t talk about</span></p>
+<p begin="00:27:52.220" end="00:27:57.980" style="s2">grace a lot working<span style="s4"> there</span> as but<span style="s4"> Jean</span></p>
+<p begin="00:27:56.390" end="00:28:00.200" style="s2"><span style="s3">and</span> grace did<span style="s3"> not</span> get along<span style="s3"> but</span><span style="s4"> there&#39;s</span></p>
+<p begin="00:27:57.980" end="00:28:02.960" style="s2"><span style="s4">some great stuff</span><span style="s3"> about</span> her<span style="s4"> working</span><span style="s3"> with</span></p>
+<p begin="00:28:00.200" end="00:28:04.910" style="s2">ENIAC<span style="s4"> sometimes</span> she was in the military</p>
+<p begin="00:28:02.960" end="00:28:06.680" style="s2"><span style="s4">during that sometimes she wasn&#39;t she was</span></p>
+<p begin="00:28:04.910" end="00:28:08.390" style="s2">often<span style="s3"> working</span> on<span style="s3"> military</span> contracts at</p>
+<p begin="00:28:06.680" end="00:28:10.490" style="s2">that time and<span style="s4"> still</span> had servicemen under</p>
+<p begin="00:28:08.390" end="00:28:13.760" style="s2">her even when she wasn&#39;t with<span style="s3"> the</span><span style="s4"> Navy</span></p>
+<p begin="00:28:10.490" end="00:28:15.500" style="s2"><span style="s3">it</span> gets complicated<span style="s3"> but</span><span style="s4"> you</span><span style="s3"> know</span> when</p>
+<p begin="00:28:13.760" end="00:28:17.570" style="s2">she did that Letterman piece she</p>
+<p begin="00:28:15.500" end="00:28:22.250" style="s2">actually<span style="s4"> worked</span> and worked for<span style="s3"> Digital</span></p>
+<p begin="00:28:17.570" end="00:28:24.340" style="s2"><span style="s3">Equipment</span><span style="s4"> company</span><span style="s3"> and</span> so she did she did</p>
+<p begin="00:28:22.250" end="00:28:26.750" style="s2">a lot of<span style="s4"> consulting</span><span style="s3"> she</span> did a lot with</p>
+<p begin="00:28:24.340" end="00:28:28.280" style="s2"><span style="s4">outside</span> of<span style="s4"> the</span> Navy<span style="s3"> you</span> know the first</p>
+<p begin="00:28:26.750" end="00:28:30.440" style="s2"><span style="s4">time</span> she<span style="s4"> was</span> let go from the<span style="s4"> Navy</span> it was</p>
+<p begin="00:28:28.280" end="00:28:32.360" style="s2">crushing to her she had found her</p>
+<p begin="00:28:30.440" end="00:28:34.520" style="s2">purpose her job<span style="s4"> she</span> had<span style="s3"> found</span> a place</p>
+<p begin="00:28:32.360" end="00:28:35.930" style="s2"><span style="s3">where</span><span style="s4"> people</span> respected her<span style="s4"> and</span> she was</p>
+<p begin="00:28:34.520" end="00:28:37.040" style="s2"><span style="s4">absolutely</span> crushed when they&#39;re like you</p>
+<p begin="00:28:35.930" end="00:28:37.580" style="s2">know what<span style="s4"> you&#39;re</span> a woman we don&#39;t<span style="s4"> need</span></p>
+<p begin="00:28:37.040" end="00:28:40.490" style="s2">you anymore</p>
+<p begin="00:28:37.580" end="00:28:42.830" style="s2">and she was able<span style="s4"> to</span> work<span style="s4"> at</span> Harvard</p>
+<p begin="00:28:40.490" end="00:28:45.020" style="s2">instead still within<span style="s4"> the</span> same<span style="s4"> community</span></p>
+<p begin="00:28:42.830" end="00:28:46.760" style="s2">working in faculty at Harvard<span style="s3"> for a</span></p>
+<p begin="00:28:45.020" end="00:28:51.500" style="s2">while<span style="s3"> so</span> that that kind<span style="s3"> of</span> see<span style="s4"> through</span></p>
+<p begin="00:28:46.760" end="00:28:53.120" style="s2">there<span style="s4"> as</span> a former math teacher I&#39;m</p>
+<p begin="00:28:51.500" end="00:28:55.040" style="s2">interested to<span style="s3"> know</span> if there was<span style="s4"> anything</span></p>
+<p begin="00:28:53.120" end="00:28:57.020" style="s2"><span style="s4">written</span> about like how she became<span style="s4"> so</span></p>
+<p begin="00:28:55.040" end="00:29:00.770" style="s2">interested in math in the first place at</p>
+<p begin="00:28:57.020" end="00:29:03.110" style="s2">a young age<span style="s4"> so</span> her father was an insurer</p>
+<p begin="00:29:00.770" end="00:29:06.800" style="s2">and insurance<span style="s4"> so</span> he had one of<span style="s4"> those</span></p>
+<p begin="00:29:03.110" end="00:29:08.870" style="s2"><span style="s4">first</span> adding machines<span style="s4"> her</span> mother loved</p>
+<p begin="00:29:06.800" end="00:29:10.210" style="s2"><span style="s4">mathematics</span><span style="s3"> now</span> her<span style="s4"> mother</span> went<span style="s3"> to</span></p>
+<p begin="00:29:08.870" end="00:29:12.690" style="s2">school at a time<span style="s4"> where</span> they didn&#39;t teach</p>
+<p begin="00:29:10.210" end="00:29:15.540" style="s2">anything<span style="s3"> passed</span> algebra<span style="s3"> 2 when</span></p>
+<p begin="00:29:12.690" end="00:29:16.650" style="s2">so she really<span style="s3"> clumsy</span> at helping her</p>
+<p begin="00:29:15.540" end="00:29:19.890" style="s2"><span style="s3">daughter&#39;s</span> with<span style="s3"> her</span><span style="s4"> homework</span><span style="s3"> could</span><span style="s4"> they</span></p>
+<p begin="00:29:16.650" end="00:29:21.990" style="s2"><span style="s3">advance</span><span style="s4"> past</span> that so she had a family</p>
+<p begin="00:29:19.890" end="00:29:23.430" style="s2">that also loved math<span style="s4"> and</span> that really</p>
+<p begin="00:29:21.990" end="00:29:25.650" style="s2"><span style="s4">fostered</span> it for her she<span style="s3"> was</span><span style="s4"> also</span></p>
+<p begin="00:29:23.430" end="00:29:27.600" style="s2">intensely curious<span style="s4"> you</span> know<span style="s4"> she</span> took she</p>
+<p begin="00:29:25.650" end="00:29:29.340" style="s2">tells the<span style="s3"> story</span> of taking apart<span style="s3"> seven</span></p>
+<p begin="00:29:27.600" end="00:29:32.430" style="s2">alarm clocks<span style="s3"> and</span> a<span style="s3"> night as a</span></p>
+<p begin="00:29:29.340" end="00:29:34.770" style="s2"><span style="s4">six-year-old</span><span style="s3"> I</span> actually tried to<span style="s4"> have</span> my</p>
+<p begin="00:29:32.430" end="00:29:36.450" style="s2"><span style="s4">six-year-old do this and if this</span> is</p>
+<p begin="00:29:34.770" end="00:29:38.400" style="s2">impossible</p>
+<p begin="00:29:36.450" end="00:29:40.710" style="s2">so<span style="s3"> however</span><span style="s4"> many</span> she took apart it wasn&#39;t</p>
+<p begin="00:29:38.400" end="00:29:42.900" style="s2">six<span style="s4"> but</span><span style="s3"> a</span> story got I<span style="s3"> assumed</span> bigger and</p>
+<p begin="00:29:40.710" end="00:29:44.610" style="s2">bigger but<span style="s4"> she</span> did take apart<span style="s3"> an</span> alarm</p>
+<p begin="00:29:42.900" end="00:29:46.530" style="s2">clock<span style="s3"> we</span> took one apart and put it<span style="s4"> back</span></p>
+<p begin="00:29:44.610" end="00:29:49.050" style="s2"><span style="s4">together</span> it was<span style="s4"> very</span> fun I had to find</p>
+<p begin="00:29:46.530" end="00:29:51.330" style="s2">one from 1905<span style="s4"> and</span><span style="s3"> BLK was destroying it</span></p>
+<p begin="00:29:49.050" end="00:29:56.550" style="s2">or from 1910 which is when they started</p>
+<p begin="00:29:51.330" end="00:29:58.710" style="s2"><span style="s4">coming out commercially so yeah you</span></p>
+<p begin="00:29:56.550" end="00:30:00.960" style="s2">mentioned<span style="s4"> that</span> the fact that<span style="s4"> she</span></p>
+<p begin="00:29:58.710" end="00:30:02.880" style="s2">invented<span style="s3"> the</span><span style="s4"> compiler</span> didn&#39;t really</p>
+<p begin="00:30:00.960" end="00:30:05.040" style="s2">penetrate popular culture because it&#39;s</p>
+<p begin="00:30:02.880" end="00:30:07.320" style="s2">hard<span style="s4"> to</span> explain I&#39;m curious<span style="s4"> do</span> you<span style="s4"> try</span></p>
+<p begin="00:30:05.040" end="00:30:08.760" style="s2"><span style="s4">to</span> explain it in the movie and if so how</p>
+<p begin="00:30:07.320" end="00:30:11.610" style="s2">do you try<span style="s3"> to</span><span style="s4"> make</span><span style="s3"> it</span> an<span style="s4"> accessible</span></p>
+<p begin="00:30:08.760" end="00:30:14.900" style="s2">concept for people<span style="s4"> right</span> now we&#39;re just</p>
+<p begin="00:30:11.610" end="00:30:19.530" style="s2"><span style="s4">saying</span><span style="s3"> we</span> she helped turn mathematical</p>
+<p begin="00:30:14.900" end="00:30:22.710" style="s2">computations into human language<span style="s3"> trying</span></p>
+<p begin="00:30:19.530" end="00:30:25.800" style="s2"><span style="s4">to</span> explain<span style="s4"> more than that we</span><span style="s3"> are</span> really</p>
+<p begin="00:30:22.710" end="00:30:29.970" style="s2">we<span style="s4"> are</span> really wrestling with not<span style="s3"> in</span></p>
+<p begin="00:30:25.800" end="00:30:31.500" style="s2">fantasizing our our audience<span style="s4"> and</span> how to</p>
+<p begin="00:30:29.970" end="00:30:34.200" style="s2">make that<span style="s3"> a</span> concept<span style="s4"> that</span> they really</p>
+<p begin="00:30:31.500" end="00:30:36.180" style="s2"><span style="s3">guess</span> if anyone has any suggestions</p>
+<p begin="00:30:34.200" end="00:30:38.580" style="s2"><span style="s3">about</span><span style="s4"> that you know if you can</span></p>
+<p begin="00:30:36.180" end="00:30:40.920" style="s2">graphically explain explain<span style="s4"> a</span> compiler</p>
+<p begin="00:30:38.580" end="00:30:42.960" style="s2">and<span style="s3"> how</span> it actually<span style="s4"> works</span> by the way you</p>
+<p begin="00:30:40.920" end="00:30:44.970" style="s2">know grace was actually hired<span style="s4"> a</span> second</p>
+<p begin="00:30:42.960" end="00:30:46.620" style="s2">time by the Navy because<span style="s4"> she</span> was the</p>
+<p begin="00:30:44.970" end="00:30:48.810" style="s2">only one<span style="s4"> who</span> could check a<span style="s3"> compilers</span></p>
+<p begin="00:30:46.620" end="00:30:51.870" style="s2">compiling<span style="s4"> she</span> was the only one<span style="s4"> who</span> knew</p>
+<p begin="00:30:48.810" end="00:30:53.520" style="s2"><span style="s3">how to do that</span><span style="s4"> that&#39;s</span> amazing<span style="s3"> right you</span></p>
+<p begin="00:30:51.870" end="00:30:55.200" style="s2"><span style="s4">just look at the the</span> product at the<span style="s3"> end</span></p>
+<p begin="00:30:53.520" end="00:30:56.580" style="s2"><span style="s4">and</span> that&#39;s<span style="s4"> how</span> you know it works<span style="s3"> but</span> she</p>
+<p begin="00:30:55.200" end="00:30:57.660" style="s2">actually had to check all<span style="s3"> of</span> that stuff</p>
+<p begin="00:30:56.580" end="00:30:59.010" style="s2"><span style="s4">and</span> she<span style="s4"> was</span> the<span style="s4"> only</span> person<span style="s3"> on</span> the</p>
+<p begin="00:30:57.660" end="00:31:01.350" style="s2">planet<span style="s4"> who</span> still knew how to do<span style="s4"> that</span></p>
+<p begin="00:30:59.010" end="00:31:05.370" style="s2">because<span style="s4"> she</span> invented<span style="s3"> the</span> thing so<span style="s4"> that&#39;s</span></p>
+<p begin="00:31:01.350" end="00:31:06.420" style="s2">something about<span style="s4"> I&#39;m</span> curious<span style="s3"> if</span> you</p>
+<p begin="00:31:05.370" end="00:31:08.310" style="s2">mentioned that she didn&#39;t consider</p>
+<p begin="00:31:06.420" end="00:31:10.530" style="s2">herself a<span style="s3"> feminist</span> but you also</p>
+<p begin="00:31:08.310" end="00:31:12.060" style="s2"><span style="s4">mentioned</span> several<span style="s4"> roadblocks</span> that she</p>
+<p begin="00:31:10.530" end="00:31:14.130" style="s2">ran<span style="s4"> into</span> in her personal<span style="s4"> life</span><span style="s3"> that</span> at</p>
+<p begin="00:31:12.060" end="00:31:16.560" style="s2">least you attribute somewhat to</p>
+<p begin="00:31:14.130" end="00:31:18.990" style="s2">patriarchy or<span style="s4"> to</span> sexism and so I&#39;m</p>
+<p begin="00:31:16.560" end="00:31:22.590" style="s2">curious what her interpretation was of</p>
+<p begin="00:31:18.990" end="00:31:24.840" style="s2">those obstacles<span style="s4"> that</span> she experienced<span style="s4"> and</span></p>
+<p begin="00:31:22.590" end="00:31:27.750" style="s2">what<span style="s4"> her</span> perspective was on</p>
+<p begin="00:31:24.840" end="00:31:31.110" style="s2">what it<span style="s4"> took</span> for her to<span style="s4"> maintain</span><span style="s3"> the</span></p>
+<p begin="00:31:27.750" end="00:31:33.090" style="s2">positions that<span style="s3"> she</span><span style="s4"> did</span> if if this was</p>
+<p begin="00:31:31.110" end="00:31:35.309" style="s2">something<span style="s4"> that she attributed</span> to being<span style="s4"> a</span></p>
+<p begin="00:31:33.090" end="00:31:39.360" style="s2"><span style="s4">woman</span> and<span style="s4"> felt like she needed a change</span></p>
+<p begin="00:31:35.309" end="00:31:41.070" style="s2"><span style="s3">she never talked about</span><span style="s4"> it</span><span style="s3"> if</span> it was a</p>
+<p begin="00:31:39.360" end="00:31:42.779" style="s2"><span style="s4">roadblock</span><span style="s3"> that</span> she ran up against and</p>
+<p begin="00:31:41.070" end="00:31:46.559" style="s2">she wanted<span style="s4"> it</span><span style="s3"> she</span> would find a way<span style="s3"> to</span></p>
+<p begin="00:31:42.779" end="00:31:48.299" style="s2">subvert<span style="s4"> the</span> system right<span style="s3"> I</span> think<span style="s4"> I</span> think</p>
+<p begin="00:31:46.559" end="00:31:50.669" style="s2">anyone<span style="s4"> in</span> any position<span style="s4"> would</span> do that<span style="s3"> but</span></p>
+<p begin="00:31:48.299" end="00:31:53.490" style="s2"><span style="s4">grace</span><span style="s3"> was</span> especially<span style="s3"> adept at it she was</span></p>
+<p begin="00:31:50.669" end="00:31:58.620" style="s2">not<span style="s3"> just</span> a<span style="s4"> computer</span> programmer<span style="s3"> she</span> was</p>
+<p begin="00:31:53.490" end="00:32:00.650" style="s2">an excellent<span style="s4"> social</span> engineer all right</p>
+<p begin="00:31:58.620" end="00:32:10.839" style="s2">well thank you Melissa</p>
+<p begin="00:32:00.650" end="00:32:10.839" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

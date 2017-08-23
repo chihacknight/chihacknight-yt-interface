@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.930" end="00:00:12.420" style="s2"><span style="s3">okay</span> so this is uh<span style="s4"> my</span> building doesn&#39;t</p>
+<p begin="00:00:09.719" end="00:00:14.820" style="s2">recycle designing for policy change and</p>
+<p begin="00:00:12.420" end="00:00:17.340" style="s2">it&#39;s about<span style="s3"> if</span><span style="s4"> anybody</span> doesn&#39;t know it&#39;s</p>
+<p begin="00:00:14.820" end="00:00:20.010" style="s2">about<span style="s3"> an</span> app<span style="s4"> that</span> I helped make at hack</p>
+<p begin="00:00:17.340" end="00:00:22.170" style="s2">night and actually<span style="s3"> ended</span> up having<span style="s4"> the</span></p>
+<p begin="00:00:20.010" end="00:00:26.970" style="s2">influence on<span style="s4"> a</span> policy<span style="s4"> change</span> in<span style="s3"> the</span> city</p>
+<p begin="00:00:22.170" end="00:00:28.710" style="s2">specifically our recycling law so first</p>
+<p begin="00:00:26.970" end="00:00:31.380" style="s2">just for<span style="s3"> people</span> who don&#39;t<span style="s3"> know</span> this is</p>
+<p begin="00:00:28.710" end="00:00:33.540" style="s2"><span style="s3">my</span> building doesn&#39;t recycle this is it&#39;s</p>
+<p begin="00:00:31.380" end="00:00:35.640" style="s2">a<span style="s4"> website</span> that allows people in</p>
+<p begin="00:00:33.540" end="00:00:39.000" style="s2">buildings with five or more units in</p>
+<p begin="00:00:35.640" end="00:00:40.500" style="s2">Chicago to report that their landlord or</p>
+<p begin="00:00:39.000" end="00:00:42.450" style="s2">building management isn&#39;t providing</p>
+<p begin="00:00:40.500" end="00:00:47.100" style="s2">recycling services so you can see there</p>
+<p begin="00:00:42.450" end="00:00:48.989" style="s2">are<span style="s3"> a</span> lot of data points<span style="s4"> on</span> the map ok</p>
+<p begin="00:00:47.100" end="00:00:51.899" style="s2">so what problem was<span style="s3"> I</span> trying to<span style="s4"> solve</span></p>
+<p begin="00:00:48.989" end="00:00:54.059" style="s2">when we made this app so there<span style="s3"> is</span> a</p>
+<p begin="00:00:51.899" end="00:00:57.750" style="s2">basically very has been a law in effect</p>
+<p begin="00:00:54.059" end="00:00:59.250" style="s2">since in 1993 that says that these</p>
+<p begin="00:00:57.750" end="00:01:01.320" style="s2">buildings with<span style="s4"> five</span> or<span style="s3"> more</span> units</p>
+<p begin="00:00:59.250" end="00:01:02.940" style="s2"><span style="s3">actually</span> have to provide recycling</p>
+<p begin="00:01:01.320" end="00:01:04.589" style="s2">services they have to a contract<span style="s3"> with</span> a</p>
+<p begin="00:01:02.940" end="00:01:06.600" style="s2">private hauler so they&#39;re actually</p>
+<p begin="00:01:04.589" end="00:01:08.430" style="s2"><span style="s3">supposed</span> to<span style="s3"> provide</span> recycling services</p>
+<p begin="00:01:06.600" end="00:01:10.290" style="s2">but the problem was that the law was not</p>
+<p begin="00:01:08.430" end="00:01:12.390" style="s2"><span style="s3">enforce Alyss as you can see on</span><span style="s4"> the</span> map</p>
+<p begin="00:01:10.290" end="00:01:15.420" style="s2">this led a lot of building owners to not</p>
+<p begin="00:01:12.390" end="00:01:17.460" style="s2">provide recycling services and there&#39;s</p>
+<p begin="00:01:15.420" end="00:01:19.229" style="s2">really<span style="s3"> since</span> the<span style="s3"> law</span> is not enforced</p>
+<p begin="00:01:17.460" end="00:01:21.060" style="s2">there&#39;s really no way<span style="s4"> for</span> residents to</p>
+<p begin="00:01:19.229" end="00:01:27.020" style="s2">report this because it&#39;s not<span style="s4"> going</span> to go</p>
+<p begin="00:01:21.060" end="00:01:29.759" style="s2">anywhere so it made this app and then</p>
+<p begin="00:01:27.020" end="00:01:31.560" style="s2">one and a half years<span style="s4"> later</span> what happened</p>
+<p begin="00:01:29.759" end="00:01:37.439" style="s2">there&#39;s a lot between but I&#39;ll get to</p>
+<p begin="00:01:31.560" end="00:01:40.170" style="s2">that later<span style="s3"> okay</span> so this is a 20 second</p>
+<p begin="00:01:37.439" end="00:01:42.240" style="s2">of june and Rahm Emanuel announces that</p>
+<p begin="00:01:40.170" end="00:01:44.399" style="s2">he wants to<span style="s3"> crack</span> down and high-rise</p>
+<p begin="00:01:42.240" end="00:01:46.500" style="s2">recycling scofflaws was from the</p>
+<p begin="00:01:44.399" end="00:01:49.590" style="s2">sun-times and basically the so this was</p>
+<p begin="00:01:46.500" end="00:01:51.270" style="s2">a new<span style="s3"> ordinance</span> was introduced<span style="s4"> at to</span></p>
+<p begin="00:01:49.590" end="00:01:54.180" style="s2"><span style="s4">City Council though that&#39;s that&#39;s the</span></p>
+<p begin="00:01:51.270" end="00:01:57.450" style="s2">date of<span style="s4"> the</span><span style="s3"> introduction</span> and then we see</p>
+<p begin="00:01:54.180" end="00:01:59.670" style="s2">on July twentieth he they wrote to crack</p>
+<p begin="00:01:57.450" end="00:02:02.670" style="s2">the whip on high rises so<span style="s3"> basically</span><span style="s4"> that</span></p>
+<p begin="00:01:59.670" end="00:02:05.340" style="s2">means that the law the new ordinance was</p>
+<p begin="00:02:02.670" end="00:02:06.930" style="s2">passed so now in this talk I&#39;m really</p>
+<p begin="00:02:05.340" end="00:02:08.489" style="s2">going to talk about how did we get there</p>
+<p begin="00:02:06.930" end="00:02:11.420" style="s2">because<span style="s3"> I</span> skipped a lot of steps but</p>
+<p begin="00:02:08.489" end="00:02:11.420" style="s2">this was<span style="s4"> the</span> end result</p>
+<p begin="00:02:11.630" end="00:02:20.610" style="s2"><span style="s3">okay</span> so how did<span style="s4"> that</span><span style="s3"> happen</span> so I in this</p>
+<p begin="00:02:17.130" end="00:02:22.740" style="s2">process that I followed a triac knit was</p>
+<p begin="00:02:20.610" end="00:02:24.780" style="s2">really it<span style="s3"> was</span> more of<span style="s3"> a</span> kind of<span style="s3"> a</span> design</p>
+<p begin="00:02:22.740" end="00:02:27.420" style="s2">process I would call it<span style="s4"> there</span><span style="s3"> was</span> it<span style="s3"> was</span></p>
+<p begin="00:02:24.780" end="00:02:30.090" style="s2"><span style="s3">heavy</span> on discovery and definition not</p>
+<p begin="00:02:27.420" end="00:02:32.040" style="s2">I&#39;m<span style="s4"> not</span><span style="s3"> a</span> programmer so I&#39;m<span style="s3"> not going to</span></p>
+<p begin="00:02:30.090" end="00:02:35.160" style="s2">talk about<span style="s3"> that</span> part of<span style="s3"> the</span> app as much</p>
+<p begin="00:02:32.040" end="00:02:37.410" style="s2">it&#39;s more about to me that one of the</p>
+<p begin="00:02:35.160" end="00:02:38.730" style="s2">key parts was really the the<span style="s3"> planning</span></p>
+<p begin="00:02:37.410" end="00:02:40.980" style="s2">and the strategy which is<span style="s3"> I</span> think</p>
+<p begin="00:02:38.730" end="00:02:44.670" style="s2">sometimes the less glamorous part</p>
+<p begin="00:02:40.980" end="00:02:46.830" style="s2">because you can&#39;t exactly see it so in</p>
+<p begin="00:02:44.670" end="00:02:49.350" style="s2">the first<span style="s3"> place</span> I did a ton of research</p>
+<p begin="00:02:46.830" end="00:02:51.330" style="s2">really<span style="s3"> did</span> kind<span style="s3"> of</span> identify the problem</p>
+<p begin="00:02:49.350" end="00:02:53.250" style="s2">like it&#39;s actually it&#39;s fairly</p>
+<p begin="00:02:51.330" end="00:02:56.190" style="s2">complicated there&#39;s a long history of</p>
+<p begin="00:02:53.250" end="00:02:57.660" style="s2">these these building owners not</p>
+<p begin="00:02:56.190" end="00:02:59.850" style="s2">providing recycling and there is even</p>
+<p begin="00:02:57.660" end="00:03:02.190" style="s2"><span style="s3">trouble</span> getting like a<span style="s3"> basic</span> blue bin</p>
+<p begin="00:02:59.850" end="00:03:03.960" style="s2">program to come to the whole city and</p>
+<p begin="00:03:02.190" end="00:03:07.320" style="s2">that<span style="s3"> was</span> fairly recently that that was</p>
+<p begin="00:03:03.960" end="00:03:08.430" style="s2">citywide but still like five years<span style="s4"> or</span></p>
+<p begin="00:03:07.320" end="00:03:11.030" style="s2">more apartment buildings were lagging</p>
+<p begin="00:03:08.430" end="00:03:13.770" style="s2">behind so<span style="s3"> I</span> also looked at the ordinance</p>
+<p begin="00:03:11.030" end="00:03:15.420" style="s2">made some partnerships with the<span style="s3"> Chicago</span></p>
+<p begin="00:03:13.770" end="00:03:17.490" style="s2"><span style="s3">recycling</span> coalition does because they</p>
+<p begin="00:03:15.420" end="00:03:19.230" style="s2">they&#39;ve<span style="s4"> been</span> through this with the whole</p>
+<p begin="00:03:17.490" end="00:03:21.000" style="s2"><span style="s4">history</span> and I think they helped write</p>
+<p begin="00:03:19.230" end="00:03:24.540" style="s2">the original recycling ordinance that</p>
+<p begin="00:03:21.000" end="00:03:27.600" style="s2">was not enforced so this<span style="s4"> is</span> really a</p>
+<p begin="00:03:24.540" end="00:03:29.550" style="s2">problem framing and I to boil everything</p>
+<p begin="00:03:27.600" end="00:03:31.110" style="s2">down I really figured out that non</p>
+<p begin="00:03:29.550" end="00:03:32.430" style="s2">enforcement of the law<span style="s4"> that</span> was really</p>
+<p begin="00:03:31.110" end="00:03:34.230" style="s2">the main problem that&#39;s why these</p>
+<p begin="00:03:32.430" end="00:03:35.970" style="s2">buildings were not providing recycling</p>
+<p begin="00:03:34.230" end="00:03:40.920" style="s2">services and I thought any solution</p>
+<p begin="00:03:35.970" end="00:03:42.780" style="s2">should really address enforcement so we</p>
+<p begin="00:03:40.920" end="00:03:44.190" style="s2"><span style="s3">thought about like a concept but I</span></p>
+<p begin="00:03:42.780" end="00:03:45.960" style="s2"><span style="s3">thought</span> well what about if<span style="s3"> this</span> were</p>
+<p begin="00:03:44.190" end="00:03:47.730" style="s2">like let&#39;s say this law<span style="s3"> weren&#39;t</span> for us</p>
+<p begin="00:03:45.960" end="00:03:49.860" style="s2">wouldn&#39;t wouldn&#39;t residents have a way</p>
+<p begin="00:03:47.730" end="00:03:51.900" style="s2">to report that they&#39;re not<span style="s3"> receiving</span> the</p>
+<p begin="00:03:49.860" end="00:03:54.030" style="s2">recycling services<span style="s3"> just</span> like other 311</p>
+<p begin="00:03:51.900" end="00:03:55.890" style="s2">reports so<span style="s3"> I thought of making like a</span></p>
+<p begin="00:03:54.030" end="00:03:57.330" style="s2">reporting Channel sort of a virtual</p>
+<p begin="00:03:55.890" end="00:04:01.230" style="s2">reporting that doesn&#39;t go anywhere</p>
+<p begin="00:03:57.330" end="00:04:03.150" style="s2">except on the internet for<span style="s3"> everybody</span> so</p>
+<p begin="00:04:01.230" end="00:04:05.400" style="s2">I think<span style="s3"> a</span> really important part is is</p>
+<p begin="00:04:03.150" end="00:04:07.230" style="s2">storytelling and is that&#39;s kind of key</p>
+<p begin="00:04:05.400" end="00:04:08.970" style="s2">to catch people to<span style="s3"> tell</span> a story<span style="s3"> don&#39;t</span></p>
+<p begin="00:04:07.230" end="00:04:11.790" style="s2">just kind of put points on a map<span style="s3"> but</span></p>
+<p begin="00:04:08.970" end="00:04:13.320" style="s2">give contacts so besides<span style="s3"> mapping</span> the</p>
+<p begin="00:04:11.790" end="00:04:15.990" style="s2">resident reports which are sort of a</p>
+<p begin="00:04:13.320" end="00:04:17.549" style="s2">story in<span style="s3"> there</span><span style="s4"> themselves</span><span style="s3"> I</span> also</p>
+<p begin="00:04:15.990" end="00:04:19.590" style="s2">collected and displayed resonant</p>
+<p begin="00:04:17.549" end="00:04:21.239" style="s2">comments on the site so you can see not</p>
+<p begin="00:04:19.590" end="00:04:23.580" style="s2"><span style="s3">only</span> does this<span style="s3"> building</span> out recycle</p>
+<p begin="00:04:21.239" end="00:04:25.860" style="s2">somebody might say oh my landlord says I</p>
+<p begin="00:04:23.580" end="00:04:28.080" style="s2">can just use a blue bag or they don&#39;t</p>
+<p begin="00:04:25.860" end="00:04:29.669" style="s2"><span style="s3">want</span> to pay for<span style="s4"> it</span> or they&#39;ll separate</p>
+<p begin="00:04:28.080" end="00:04:31.320" style="s2">it from the trash later all those sorts</p>
+<p begin="00:04:29.669" end="00:04:34.860" style="s2">of things are kind of misinformation</p>
+<p begin="00:04:31.320" end="00:04:37.380" style="s2">people have and also just storytelling</p>
+<p begin="00:04:34.860" end="00:04:39.960" style="s2">gives I think it&#39;s important to to give</p>
+<p begin="00:04:37.380" end="00:04:41.880" style="s2">context I tell this story in the<span style="s4"> site</span></p>
+<p begin="00:04:39.960" end="00:04:43.740" style="s2">like on the front page and then also in</p>
+<p begin="00:04:41.880" end="00:04:46.979" style="s2">the About section and then tell people</p>
+<p begin="00:04:43.740" end="00:04:49.020" style="s2">ways<span style="s4"> to</span> get involved further so the</p>
+<p begin="00:04:46.979" end="00:04:50.610" style="s2">strategy was really like to show with</p>
+<p begin="00:04:49.020" end="00:04:52.530" style="s2">all these<span style="s3"> points</span> on the map to show that</p>
+<p begin="00:04:50.610" end="00:04:54.240" style="s2">residents want recycling it&#39;s sort of if</p>
+<p begin="00:04:52.530" end="00:04:55.560" style="s2">somebody&#39;s taking the<span style="s3"> trouble</span> to log</p>
+<p begin="00:04:54.240" end="00:04:57.660" style="s2">this on the site they are clearly</p>
+<p begin="00:04:55.560" end="00:05:00.300" style="s2">passionate about recycling and want it</p>
+<p begin="00:04:57.660" end="00:05:01.919" style="s2">also to show that the current policy is</p>
+<p begin="00:05:00.300" end="00:05:03.720" style="s2">not<span style="s3"> effective</span> if you can see<span style="s4"> all</span> these</p>
+<p begin="00:05:01.919" end="00:05:04.919" style="s2"><span style="s3">points</span> on that map then you can you can</p>
+<p begin="00:05:03.720" end="00:05:06.750" style="s2">tell that whatever you&#39;re doing is not</p>
+<p begin="00:05:04.919" end="00:05:08.729" style="s2"><span style="s3">working</span> and it&#39;s very visible you can&#39;t</p>
+<p begin="00:05:06.750" end="00:05:10.290" style="s2">say oh<span style="s3"> it</span> might be working<span style="s3"> or</span> just start</p>
+<p begin="00:05:08.729" end="00:05:13.470" style="s2">your own recycling program that&#39;s that&#39;s</p>
+<p begin="00:05:10.290" end="00:05:15.600" style="s2"><span style="s4">not</span> working<span style="s3"> I</span> also gave options that</p>
+<p begin="00:05:13.470" end="00:05:18.870" style="s2">take further action so there&#39;s a get</p>
+<p begin="00:05:15.600" end="00:05:20.220" style="s2">involved page that show that has a</p>
+<p begin="00:05:18.870" end="00:05:22.620" style="s2">letter that people can write to their</p>
+<p begin="00:05:20.220" end="00:05:25.020" style="s2"><span style="s3">alderman</span> so it&#39;s sort of funneling them</p>
+<p begin="00:05:22.620" end="00:05:27.660" style="s2">down report your building learn<span style="s4"> more</span> and</p>
+<p begin="00:05:25.020" end="00:05:28.680" style="s2">then get involved contact your older</p>
+<p begin="00:05:27.660" end="00:05:30.990" style="s2"><span style="s4">mink so I want to</span><span style="s3"> make</span><span style="s4"> sure</span> it wasn&#39;t</p>
+<p begin="00:05:28.680" end="00:05:34.350" style="s2"><span style="s4">just</span> drop your point<span style="s3"> on</span> the map<span style="s3"> and</span> then</p>
+<p begin="00:05:30.990" end="00:05:36.810" style="s2">go about<span style="s3"> your</span> business so<span style="s3"> definitely</span></p>
+<p begin="00:05:34.350" end="00:05:38.400" style="s2">having a clear goal I think is key but I</p>
+<p begin="00:05:36.810" end="00:05:41.250" style="s2">didn&#39;t<span style="s3"> get</span> something that you</p>
+<p begin="00:05:38.400" end="00:05:42.720" style="s2">underestimate<span style="s4"> the</span> value of its really if</p>
+<p begin="00:05:41.250" end="00:05:44.580" style="s2">you have that goal if get the city to</p>
+<p begin="00:05:42.720" end="00:05:46.860" style="s2">enforce the law you<span style="s4"> can</span><span style="s3"> kind</span> of check</p>
+<p begin="00:05:44.580" end="00:05:48.750" style="s2">every feature suggestion every input</p>
+<p begin="00:05:46.860" end="00:05:50.490" style="s2">against that to say does<span style="s4"> that</span> meet the</p>
+<p begin="00:05:48.750" end="00:05:54.840" style="s2">goal does that help further it and if</p>
+<p begin="00:05:50.490" end="00:05:57.419" style="s2">not<span style="s3"> what&#39;s</span> not put in that feature so</p>
+<p begin="00:05:54.840" end="00:05:59.610" style="s2">then we move to incubation this is me I</p>
+<p begin="00:05:57.419" end="00:06:00.870" style="s2">think presenting or making an</p>
+<p begin="00:05:59.610" end="00:06:04.169" style="s2">announcement about<span style="s3"> my</span> building doesn&#39;t</p>
+<p begin="00:06:00.870" end="00:06:06.840" style="s2">recycle to hack night so I want to<span style="s4"> talk</span></p>
+<p begin="00:06:04.169" end="00:06:10.919" style="s2">about core team members so of course</p>
+<p begin="00:06:06.840" end="00:06:12.720" style="s2"><span style="s3">that</span> is me with longer hair there&#39;s been</p>
+<p begin="00:06:10.919" end="00:06:14.729" style="s2">Wilhelm who was a developer who worked</p>
+<p begin="00:06:12.720" end="00:06:16.530" style="s2">on it pretty consistently and<span style="s4"> then</span> also</p>
+<p begin="00:06:14.729" end="00:06:18.060" style="s2"><span style="s4">Alex</span> cons loser Lou who&#39;s also</p>
+<p begin="00:06:16.530" end="00:06:20.160" style="s2">developers these are the three people</p>
+<p begin="00:06:18.060" end="00:06:22.020" style="s2"><span style="s4">that</span><span style="s3"> really</span> contributed the most</p>
+<p begin="00:06:20.160" end="00:06:23.940" style="s2">consistently although there are a lot of</p>
+<p begin="00:06:22.020" end="00:06:25.919" style="s2">other people<span style="s4"> who</span> came<span style="s3"> and</span> went and you</p>
+<p begin="00:06:23.940" end="00:06:28.830" style="s2">know helps with content helped a little</p>
+<p begin="00:06:25.919" end="00:06:32.310" style="s2">bit with coding too so we very much in</p>
+<p begin="00:06:28.830" end="00:06:33.979" style="s2">the hack night model one thing<span style="s3"> that&#39;ll</span></p>
+<p begin="00:06:32.310" end="00:06:36.300" style="s2">happen when<span style="s3"> you&#39;re</span> in a large<span style="s4"> group</span> of</p>
+<p begin="00:06:33.979" end="00:06:37.620" style="s2">volunteers or maybe just any large group</p>
+<p begin="00:06:36.300" end="00:06:39.510" style="s2">with people<span style="s3"> coming</span> in and out</p>
+<p begin="00:06:37.620" end="00:06:41.400" style="s2">have an open and treated groups if you</p>
+<p begin="00:06:39.510" end="00:06:43.020" style="s2">get a lot<span style="s4"> of</span> feedback about what you</p>
+<p begin="00:06:41.400" end="00:06:46.139" style="s2">should include what people think is the</p>
+<p begin="00:06:43.020" end="00:06:48.389" style="s2">right thing to do some<span style="s3"> of</span> the feedback I</p>
+<p begin="00:06:46.139" end="00:06:49.919" style="s2">got was like<span style="s3"> include</span> yes answers like</p>
+<p begin="00:06:48.389" end="00:06:53.580" style="s2">yes<span style="s4"> my</span> building recycles and I&#39;m going</p>
+<p begin="00:06:49.919" end="00:06:55.290" style="s2"><span style="s3">to</span> report<span style="s3"> it</span> and I think<span style="s3"> that</span> for me I</p>
+<p begin="00:06:53.580" end="00:06:57.389" style="s2"><span style="s3">was</span> like how<span style="s4"> does</span> how does that help</p>
+<p begin="00:06:55.290" end="00:06:59.430" style="s2">achieve the goal because I think<span style="s3"> for</span> a</p>
+<p begin="00:06:57.389" end="00:07:01.380" style="s2">policy<span style="s3"> people</span> if it&#39;s if<span style="s4"> you</span> want it to</p>
+<p begin="00:06:59.430" end="00:07:02.790" style="s2">change you probably want to show what&#39;s</p>
+<p begin="00:07:01.380" end="00:07:04.350" style="s2">not working but I think some people</p>
+<p begin="00:07:02.790" end="00:07:07.470" style="s2">thought oh that&#39;s that&#39;s shaming and</p>
+<p begin="00:07:04.350" end="00:07:09.510" style="s2">shaming number works also<span style="s4"> they</span> said like</p>
+<p begin="00:07:07.470" end="00:07:10.979" style="s2">partner with apartment finding apps kind</p>
+<p begin="00:07:09.510" end="00:07:13.440" style="s2">of make<span style="s4"> it</span> more of a market-driven thing</p>
+<p begin="00:07:10.979" end="00:07:15.180" style="s2">like people will you<span style="s4"> know</span> want<span style="s3"> to</span> live</p>
+<p begin="00:07:13.440" end="00:07:16.620" style="s2">in apartments with recycling and then</p>
+<p begin="00:07:15.180" end="00:07:17.910" style="s2">landlords who don&#39;t offer it would be</p>
+<p begin="00:07:16.620" end="00:07:20.190" style="s2">like oh I should offer that everyone&#39;s</p>
+<p begin="00:07:17.910" end="00:07:22.650" style="s2">moving there so that<span style="s4"> was</span> another idea</p>
+<p begin="00:07:20.190" end="00:07:25.590" style="s2">the third one was collect lots of data</p>
+<p begin="00:07:22.650" end="00:07:27.030" style="s2">like just get it get really granular ask</p>
+<p begin="00:07:25.590" end="00:07:29.039" style="s2">a lot of questions but I thought<span style="s3"> that</span></p>
+<p begin="00:07:27.030" end="00:07:31.669" style="s2">would just<span style="s4"> Wade</span> people from you know</p>
+<p begin="00:07:29.039" end="00:07:33.720" style="s2"><span style="s3">just</span> doing<span style="s3"> the</span> basic thing which is<span style="s3"> to</span></p>
+<p begin="00:07:31.669" end="00:07:35.039" style="s2">enter that<span style="s4"> your</span> building<span style="s3"> doesn&#39;t</span> recycle</p>
+<p begin="00:07:33.720" end="00:07:36.449" style="s2">I don&#39;t want to make the barrier to</p>
+<p begin="00:07:35.039" end="00:07:40.139" style="s2">entry too high or ask people questions</p>
+<p begin="00:07:36.449" end="00:07:45.090" style="s2">they didn&#39;t know so it&#39;ll test and</p>
+<p begin="00:07:40.139" end="00:07:46.500" style="s2">launch um<span style="s4"> it&#39;s</span> a recycling rocket and so</p>
+<p begin="00:07:45.090" end="00:07:48.360" style="s2"><span style="s3">this</span><span style="s4"> is</span> I<span style="s3"> think</span> this<span style="s3"> is something that</span></p>
+<p begin="00:07:46.500" end="00:07:52.500" style="s2"><span style="s4">people</span> here all know how to do</p>
+<p begin="00:07:48.360" end="00:07:54.210" style="s2">especially<span style="s3"> build</span> and we did do I did do</p>
+<p begin="00:07:52.500" end="00:07:55.919" style="s2">some usability testing with people here</p>
+<p begin="00:07:54.210" end="00:07:57.270" style="s2">at hak nine i think i did test some</p>
+<p begin="00:07:55.919" end="00:07:59.490" style="s2">basic assumptions like do people</p>
+<p begin="00:07:57.270" end="00:08:01.169" style="s2">understand what<span style="s3"> this</span> app is and some</p>
+<p begin="00:07:59.490" end="00:08:03.090" style="s2"><span style="s3">people</span> didn&#39;t used to be called where is</p>
+<p begin="00:08:01.169" end="00:08:04.940" style="s2">my recycling and people were like what&#39;s</p>
+<p begin="00:08:03.090" end="00:08:07.560" style="s2">that<span style="s3"> helped</span> me find my recycling bin or</p>
+<p begin="00:08:04.940" end="00:08:10.050" style="s2">so things like<span style="s3"> that i change the name to</span></p>
+<p begin="00:08:07.560" end="00:08:15.240" style="s2">make<span style="s4"> it</span> extremely literal so after</p>
+<p begin="00:08:10.050" end="00:08:18.870" style="s2">launch impact oh there there was a lot</p>
+<p begin="00:08:15.240" end="00:08:21.919" style="s2">of impact so it got the right out of the</p>
+<p begin="00:08:18.870" end="00:08:24.810" style="s2">gate it got some media coverage<span style="s4"> I</span> think</p>
+<p begin="00:08:21.919" end="00:08:26.940" style="s2">the first one<span style="s3"> was</span> on tech shift which is</p>
+<p begin="00:08:24.810" end="00:08:29.990" style="s2">on WBEZ which is a<span style="s3"> program</span> that no</p>
+<p begin="00:08:26.940" end="00:08:33.110" style="s2">longer exists but that and actually I</p>
+<p begin="00:08:29.990" end="00:08:35.610" style="s2">can&#39;t think<span style="s3"> of</span> his name but<span style="s3"> chris from</span></p>
+<p begin="00:08:33.110" end="00:08:37.110" style="s2">WBZ actually comes<span style="s3"> to</span> hack night so</p>
+<p begin="00:08:35.610" end="00:08:38.909" style="s2"><span style="s3">that&#39;s</span> how he found<span style="s3"> out</span> about it so it&#39;s</p>
+<p begin="00:08:37.110" end="00:08:41.219" style="s2">sort of like an easy in to get<span style="s3"> your</span></p>
+<p begin="00:08:38.909" end="00:08:45.330" style="s2">first<span style="s3"> media</span> coverage really after<span style="s3"> that</span></p>
+<p begin="00:08:41.219" end="00:08:47.130" style="s2">it just came to us like we the media it</p>
+<p begin="00:08:45.330" end="00:08:48.510" style="s2">kind of the app spoke for itself or</p>
+<p begin="00:08:47.130" end="00:08:51.390" style="s2">people heard the coverage and it really</p>
+<p begin="00:08:48.510" end="00:08:53.430" style="s2">just<span style="s4"> it</span> just happened</p>
+<p begin="00:08:51.390" end="00:08:56.460" style="s2">I I was not<span style="s3"> really</span><span style="s4"> that</span> successful when</p>
+<p begin="00:08:53.430" end="00:08:58.140" style="s2">i solicited media coverage when<span style="s4"> i</span> tried</p>
+<p begin="00:08:56.460" end="00:08:59.730" style="s2">to<span style="s4"> send</span> a press release nothing really</p>
+<p begin="00:08:58.140" end="00:09:04.650" style="s2">happened got some really small coverage</p>
+<p begin="00:08:59.730" end="00:09:07.070" style="s2">but mostly it was just<span style="s3"> coming</span> to me so</p>
+<p begin="00:09:04.650" end="00:09:10.200" style="s2"><span style="s4">i&#39;m</span> going<span style="s3"> to</span> fast-forward to April of</p>
+<p begin="00:09:07.070" end="00:09:11.700" style="s2">2015 so there was a tribune article that</p>
+<p begin="00:09:10.200" end="00:09:14.190" style="s2">came out about my building doesn&#39;t</p>
+<p begin="00:09:11.700" end="00:09:17.840" style="s2">recycle and so this<span style="s3"> is kind of the first</span></p>
+<p begin="00:09:14.190" end="00:09:20.760" style="s2">like mainstream very mainstream a media</p>
+<p begin="00:09:17.840" end="00:09:23.340" style="s2">coverage so after after that article the</p>
+<p begin="00:09:20.760" end="00:09:27.150" style="s2">city did ask for<span style="s3"> our</span> data they so just</p>
+<p begin="00:09:23.340" end="00:09:28.620" style="s2">can you just email it to us I mean I</p>
+<p begin="00:09:27.150" end="00:09:30.810" style="s2">said well how about<span style="s3"> we</span> have a meeting</p>
+<p begin="00:09:28.620" end="00:09:32.910" style="s2">and we<span style="s3"> talked</span><span style="s4"> about</span> you know my findings</p>
+<p begin="00:09:30.810" end="00:09:34.290" style="s2">or the you know just what the data means</p>
+<p begin="00:09:32.910" end="00:09:35.580" style="s2">or what we&#39;ve learned and they weren&#39;t</p>
+<p begin="00:09:34.290" end="00:09:38.010" style="s2">really they weren&#39;t ready<span style="s3"> to</span> do at that</p>
+<p begin="00:09:35.580" end="00:09:39.060" style="s2">time<span style="s3"> and</span> they weren&#39;t weren&#39;t really</p>
+<p begin="00:09:38.010" end="00:09:40.260" style="s2">clear about what they were going to do</p>
+<p begin="00:09:39.060" end="00:09:42.930" style="s2">with the data<span style="s3"> I</span> think they were still</p>
+<p begin="00:09:40.260" end="00:09:46.170" style="s2">figuring it out so<span style="s4"> that</span> was streets and</p>
+<p begin="00:09:42.930" end="00:09:48.630" style="s2">sanitation and so we Soria was just left</p>
+<p begin="00:09:46.170" end="00:09:51.960" style="s2">that I&#39;m not going to send the data and</p>
+<p begin="00:09:48.630" end="00:09:53.820" style="s2">I<span style="s3"> just sort of moved on agreed so in the</span></p>
+<p begin="00:09:51.960" end="00:09:57.810" style="s2"><span style="s3">meantime</span> I wanted to kind<span style="s4"> of</span> keep the</p>
+<p begin="00:09:53.820" end="00:09:59.670" style="s2">momentum going<span style="s3"> so</span> I met<span style="s4"> with</span> I went with</p>
+<p begin="00:09:57.810" end="00:10:01.680" style="s2">Jen walling of the Illinois</p>
+<p begin="00:09:59.670" end="00:10:03.480" style="s2">Environmental Council to meet with four</p>
+<p begin="00:10:01.680" end="00:10:05.880" style="s2">different alderman who had very high</p>
+<p begin="00:10:03.480" end="00:10:07.260" style="s2">report counts in their wards to<span style="s3"> try</span> to</p>
+<p begin="00:10:05.880" end="00:10:10.530" style="s2">see if they would be willing to champion</p>
+<p begin="00:10:07.260" end="00:10:12.360" style="s2">a change in the<span style="s4"> recycling</span> law um no one</p>
+<p begin="00:10:10.530" end="00:10:13.710" style="s2">I can<span style="s3"> say</span> honestly nobody was<span style="s3"> that</span></p>
+<p begin="00:10:12.360" end="00:10:16.140" style="s2">responsive I don&#39;t think they</p>
+<p begin="00:10:13.710" end="00:10:18.420" style="s2">necessarily took us seriously just</p>
+<p begin="00:10:16.140" end="00:10:21.330" style="s2">because it wasn&#39;t on their radar that</p>
+<p begin="00:10:18.420" end="00:10:22.890" style="s2"><span style="s4">what</span> they didn&#39;t have any idea that this</p>
+<p begin="00:10:21.330" end="00:10:24.810" style="s2"><span style="s4">was</span> going to be a change<span style="s3"> and</span> maybe they</p>
+<p begin="00:10:22.890" end="00:10:26.070" style="s2">hadn&#39;t come about yet so mostly people</p>
+<p begin="00:10:24.810" end="00:10:27.870" style="s2">were kind of like<span style="s4"> ooh</span> but what<span style="s3"> about</span></p>
+<p begin="00:10:26.070" end="00:10:30.840" style="s2">hunter properties and you know like sort</p>
+<p begin="00:10:27.870" end="00:10:32.970" style="s2"><span style="s3">of</span> not wanting the big building owners</p>
+<p begin="00:10:30.840" end="00:10:38.070" style="s2">to be<span style="s3"> offended</span> who are also their</p>
+<p begin="00:10:32.970" end="00:10:39.510" style="s2">constituents I also kind<span style="s3"> of</span> kept it on</p>
+<p begin="00:10:38.070" end="00:10:41.370" style="s2">people&#39;s minds by doing lots of</p>
+<p begin="00:10:39.510" end="00:10:43.700" style="s2">presentations mostly things that people</p>
+<p begin="00:10:41.370" end="00:10:45.660" style="s2">asked me to do just kind of</p>
+<p begin="00:10:43.700" end="00:10:47.490" style="s2">presentations and various places and</p>
+<p begin="00:10:45.660" end="00:10:50.250" style="s2">that always gets social media attention</p>
+<p begin="00:10:47.490" end="00:10:52.110" style="s2"><span style="s4">to</span> and I<span style="s4"> think</span> it<span style="s4"> also</span> shows everybody</p>
+<p begin="00:10:50.250" end="00:10:53.760" style="s2">like policymakers journalists other</p>
+<p begin="00:10:52.110" end="00:10:55.290" style="s2">people<span style="s3"> that</span> were keeping up the site we</p>
+<p begin="00:10:53.760" end="00:11:00.660" style="s2">haven&#39;t forgot about<span style="s4"> it</span> we didn&#39;t give</p>
+<p begin="00:10:55.290" end="00:11:04.620" style="s2"><span style="s4">up</span><span style="s3"> okay</span> so progress<span style="s3"> so</span> this was December</p>
+<p begin="00:11:00.660" end="00:11:06.690" style="s2">2015 we got a call from NBC</p>
+<p begin="00:11:04.620" end="00:11:09.620" style="s2"><span style="s3">see</span> 5 investigates who wanted to do a</p>
+<p begin="00:11:06.690" end="00:11:12.330" style="s2">story and my building doesn&#39;t recycle</p>
+<p begin="00:11:09.620" end="00:11:16.560" style="s2">and so this<span style="s3"> is sort of this was a</span></p>
+<p begin="00:11:12.330" end="00:11:19.650" style="s2">milestone because the city actually</p>
+<p begin="00:11:16.560" end="00:11:21.300" style="s2">responded and said not to me but to them</p>
+<p begin="00:11:19.650" end="00:11:22.980" style="s2">like in there when they were asked for<span style="s4"> a</span></p>
+<p begin="00:11:21.300" end="00:11:25.170" style="s2">comment they said hey we&#39;re working<span style="s3"> on</span></p>
+<p begin="00:11:22.980" end="00:11:26.940" style="s2">strengthening and rewriting the law and</p>
+<p begin="00:11:25.170" end="00:11:28.730" style="s2">there was the first<span style="s3"> time</span> wherever was</p>
+<p begin="00:11:26.940" end="00:11:32.100" style="s2">like a<span style="s3"> direct</span> response and I think</p>
+<p begin="00:11:28.730" end="00:11:33.870" style="s2">perhaps it was because NBC 5 is kind of</p>
+<p begin="00:11:32.100" end="00:11:39.900" style="s2">major<span style="s4"> it&#39;s</span> TV a lot of people<span style="s4"> watch</span> it</p>
+<p begin="00:11:33.870" end="00:11:42.890" style="s2"><span style="s3">so</span> there was some progress so may 2016</p>
+<p begin="00:11:39.900" end="00:11:44.760" style="s2">finally collaboration so the city</p>
+<p begin="00:11:42.890" end="00:11:46.590" style="s2">emailed me and said would<span style="s3"> you</span> be</p>
+<p begin="00:11:44.760" end="00:11:48.900" style="s2"><span style="s3">interested</span> in coming into a meeting at</p>
+<p begin="00:11:46.590" end="00:11:50.640" style="s2">streets<span style="s3"> and</span> sanitation here is a summary</p>
+<p begin="00:11:48.900" end="00:11:53.580" style="s2">of a new ordinance<span style="s4"> that</span> we&#39;re writing</p>
+<p begin="00:11:50.640" end="00:11:54.900" style="s2">and so I did end up coming in and</p>
+<p begin="00:11:53.580" end="00:11:57.420" style="s2">talking<span style="s3"> with</span> them they wanted to know</p>
+<p begin="00:11:54.900" end="00:11:59.100" style="s2">about like<span style="s3"> resident</span> comments like what</p>
+<p begin="00:11:57.420" end="00:12:01.110" style="s2">were people saying about not having</p>
+<p begin="00:11:59.100" end="00:12:02.070" style="s2">recycling and like you<span style="s4"> know</span> what what</p>
+<p begin="00:12:01.110" end="00:12:03.660" style="s2">are they saying about what their</p>
+<p begin="00:12:02.070" end="00:12:06.930" style="s2">landlords say so I was able to<span style="s3"> kind of</span></p>
+<p begin="00:12:03.660" end="00:12:09.060" style="s2">give them the rundown I also released</p>
+<p begin="00:12:06.930" end="00:12:11.400" style="s2">the word count feature where it&#39;s like</p>
+<p begin="00:12:09.060" end="00:12:13.680" style="s2"><span style="s3">you</span> can see the broken<span style="s3"> down</span> by<span style="s4"> awards</span></p>
+<p begin="00:12:11.400" end="00:12:14.880" style="s2">who has the most reports and so I<span style="s3"> think</span></p>
+<p begin="00:12:13.680" end="00:12:17.340" style="s2"><span style="s3">that</span> was something that was helpful to</p>
+<p begin="00:12:14.880" end="00:12:19.290" style="s2"><span style="s3">them</span> and then finally I gave them the</p>
+<p begin="00:12:17.340" end="00:12:21.120" style="s2">data i was there was really no reason to</p>
+<p begin="00:12:19.290" end="00:12:23.190" style="s2"><span style="s3">hold</span> back at this<span style="s3"> point</span> because did</p>
+<p begin="00:12:21.120" end="00:12:25.170" style="s2">achieve a collaboration and one that I</p>
+<p begin="00:12:23.190" end="00:12:30.150" style="s2">would consider meaningful I was you know</p>
+<p begin="00:12:25.170" end="00:12:33.210" style="s2"><span style="s3">invited</span> into<span style="s4"> the</span> process so this<span style="s4"> is</span> this</p>
+<p begin="00:12:30.150" end="00:12:35.370" style="s2">is me at City Council is kind of the</p>
+<p begin="00:12:33.210" end="00:12:37.470" style="s2">collaboration picture I pay the city</p>
+<p begin="00:12:35.370" end="00:12:39.030" style="s2">actually asked me to testify in front of</p>
+<p begin="00:12:37.470" end="00:12:41.190" style="s2">the the Health and Environmental</p>
+<p begin="00:12:39.030" end="00:12:43.500" style="s2">Protection Committee on on July</p>
+<p begin="00:12:41.190" end="00:12:44.820" style="s2">eighteenth it was two days before the</p>
+<p begin="00:12:43.500" end="00:12:46.920" style="s2">ordinance was going to go to City</p>
+<p begin="00:12:44.820" end="00:12:50.580" style="s2">Council so they wanted<span style="s3"> to</span> kind of have</p>
+<p begin="00:12:46.920" end="00:12:51.810" style="s2">people testify in support in support of</p>
+<p begin="00:12:50.580" end="00:12:55.290" style="s2">the new ordinance they just wanted<span style="s3"> to</span></p>
+<p begin="00:12:51.810" end="00:12:56.760" style="s2">ask me about<span style="s3"> or</span> made it talk<span style="s4"> about</span> my</p>
+<p begin="00:12:55.290" end="00:13:01.050" style="s2">building doesn&#39;t recycle what residents</p>
+<p begin="00:12:56.760" end="00:13:03.000" style="s2">were saying the success of the site so</p>
+<p begin="00:13:01.050" end="00:13:06.030" style="s2">things move really quickly on the</p>
+<p begin="00:13:03.000" end="00:13:09.270" style="s2">twenty-second of July<span style="s3"> are</span> of June the</p>
+<p begin="00:13:06.030" end="00:13:10.740" style="s2">ordinance was introduced and then it</p>
+<p begin="00:13:09.270" end="00:13:12.270" style="s2">went in front of the Health and</p>
+<p begin="00:13:10.740" end="00:13:14.550" style="s2">Environmental Protection Committee and</p>
+<p begin="00:13:12.270" end="00:13:16.380" style="s2">then on July twentieth<span style="s3"> the</span> ordinance</p>
+<p begin="00:13:14.550" end="00:13:18.270" style="s2">passed so this was this ordinance was</p>
+<p begin="00:13:16.380" end="00:13:22.590" style="s2">actually it was introduced by the mayor</p>
+<p begin="00:13:18.270" end="00:13:24.810" style="s2">it could be why it went so quickly so</p>
+<p begin="00:13:22.590" end="00:13:28.230" style="s2">about the updated ordinance it takes</p>
+<p begin="00:13:24.810" end="00:13:29.790" style="s2">effect in<span style="s3"> January</span> 27 it<span style="s3"> mandates</span></p>
+<p begin="00:13:28.230" end="00:13:32.790" style="s2"><span style="s4">single-stream recycling it&#39;s something</span></p>
+<p begin="00:13:29.790" end="00:13:35.550" style="s2">that<span style="s3"> blew</span> so it&#39;s what you do in blue</p>
+<p begin="00:13:32.790" end="00:13:37.860" style="s2">bins basically one you know separate it</p>
+<p begin="00:13:35.550" end="00:13:40.410" style="s2">raises the<span style="s3"> fines</span> or<span style="s3"> non-compliance</span> they</p>
+<p begin="00:13:37.860" end="00:13:44.160" style="s2">used to be 25 to a hundred dollars per</p>
+<p begin="00:13:40.410" end="00:13:46.140" style="s2">day a violation and now it&#39;s I think</p>
+<p begin="00:13:44.160" end="00:13:49.100" style="s2">depending<span style="s4"> on</span> which violation you&#39;re on</p>
+<p begin="00:13:46.140" end="00:13:52.820" style="s2">it&#39;s like 500 25 thousand so it&#39;s a huge</p>
+<p begin="00:13:49.100" end="00:13:54.840" style="s2">increase their<span style="s4"> also</span> i just<span style="s4"> found</span> out the</p>
+<p begin="00:13:52.820" end="00:13:57.390" style="s2">streets and<span style="s3"> sanitation</span> the city is going</p>
+<p begin="00:13:54.840" end="00:13:59.700" style="s2"><span style="s3">to</span> create a<span style="s4"> new</span> 311 request to so<span style="s4"> that</span></p>
+<p begin="00:13:57.390" end="00:14:02.550" style="s2">you can actually report officially that</p>
+<p begin="00:13:59.700" end="00:14:05.210" style="s2">you&#39;re<span style="s3"> not</span> receiving recycling getting</p>
+<p begin="00:14:02.550" end="00:14:08.070" style="s2">to impact<span style="s3"> how</span> do we<span style="s3"> get</span> to impact<span style="s4"> i</span></p>
+<p begin="00:14:05.210" end="00:14:10.620" style="s2">would say do your research like really<span style="s4"> i</span></p>
+<p begin="00:14:08.070" end="00:14:12.750" style="s2">took it<span style="s4"> upon</span><span style="s3"> myself</span> to become the<span style="s3"> expert</span></p>
+<p begin="00:14:10.620" end="00:14:14.850" style="s2">in this area as much as i could and i</p>
+<p begin="00:14:12.750" end="00:14:18.890" style="s2">think that involves relying on on</p>
+<p begin="00:14:14.850" end="00:14:22.530" style="s2">community partners on reading a lot</p>
+<p begin="00:14:18.890" end="00:14:24.720" style="s2">really just being<span style="s4"> able</span> to<span style="s3"> speak</span> to<span style="s3"> speak</span></p>
+<p begin="00:14:22.530" end="00:14:27.210" style="s2">to<span style="s3"> the</span> issue both on your site and into</p>
+<p begin="00:14:24.720" end="00:14:29.220" style="s2">the media they are both important and<span style="s3"> i</span></p>
+<p begin="00:14:27.210" end="00:14:30.750" style="s2">think also in framing really framing</p>
+<p begin="00:14:29.220" end="00:14:34.890" style="s2">what problem you want to solve so i</p>
+<p begin="00:14:30.750" end="00:14:37.110" style="s2">think that<span style="s3"> choice</span> is crucial um<span style="s3"> engaged</span></p>
+<p begin="00:14:34.890" end="00:14:38.820" style="s2">community partners is also really</p>
+<p begin="00:14:37.110" end="00:14:41.520" style="s2">important i made an alliance with<span style="s3"> the</span></p>
+<p begin="00:14:38.820" end="00:14:43.440" style="s2">the<span style="s3"> chicago</span> recycling coalition pretty</p>
+<p begin="00:14:41.520" end="00:14:45.630" style="s2">early on and i think they&#39;ve been</p>
+<p begin="00:14:43.440" end="00:14:48.000" style="s2"><span style="s4">they&#39;ve</span> just been a good resource about</p>
+<p begin="00:14:45.630" end="00:14:49.890" style="s2">the history of the ordinance how they&#39;ve</p>
+<p begin="00:14:48.000" end="00:14:51.600" style="s2">you know their past interactions with</p>
+<p begin="00:14:49.890" end="00:14:53.700" style="s2">the city<span style="s4"> and</span> then they were also brought</p>
+<p begin="00:14:51.600" end="00:14:55.200" style="s2">in to help rewrite the ordinance and</p>
+<p begin="00:14:53.700" end="00:14:56.460" style="s2">they have like legal people<span style="s3"> on</span> their</p>
+<p begin="00:14:55.200" end="00:15:01.830" style="s2">team so that<span style="s3"> was</span> really helpful because</p>
+<p begin="00:14:56.460" end="00:15:03.660" style="s2"><span style="s3">that&#39;s</span> that&#39;s<span style="s3"> not</span> my specialty so you</p>
+<p begin="00:15:01.830" end="00:15:05.790" style="s2">define your goals and audiences that</p>
+<p begin="00:15:03.660" end="00:15:07.800" style="s2">might seem obvious<span style="s3"> but</span> really like</p>
+<p begin="00:15:05.790" end="00:15:09.600" style="s2">having a clear goal like the<span style="s3"> gold</span> the</p>
+<p begin="00:15:07.800" end="00:15:12.560" style="s2">goal is like<span style="s3"> not</span> to make something but</p>
+<p begin="00:15:09.600" end="00:15:15.120" style="s2">like why why am I making this like I</p>
+<p begin="00:15:12.560" end="00:15:16.650" style="s2">want the ordinance to be enforced and</p>
+<p begin="00:15:15.120" end="00:15:18.900" style="s2">that will kind of then<span style="s3"> you</span> can ask</p>
+<p begin="00:15:16.650" end="00:15:20.820" style="s2">yourself how do I do that I think</p>
+<p begin="00:15:18.900" end="00:15:23.460" style="s2">audiences are also important the site</p>
+<p begin="00:15:20.820" end="00:15:26.550" style="s2">really has a couple<span style="s4"> different</span> audiences</p>
+<p begin="00:15:23.460" end="00:15:28.800" style="s2">its residents who report journalists who</p>
+<p begin="00:15:26.550" end="00:15:31.170" style="s2">can say the story and then<span style="s4"> policy makers</span></p>
+<p begin="00:15:28.800" end="00:15:31.620" style="s2">who can see how their policy is<span style="s4"> not</span></p>
+<p begin="00:15:31.170" end="00:15:33.779" style="s2">working</p>
+<p begin="00:15:31.620" end="00:15:38.339" style="s2">so you<span style="s3"> kind</span> of incorporate those all I</p>
+<p begin="00:15:33.779" end="00:15:40.680" style="s2">think you&#39;re onto<span style="s4"> a</span> good thing yeah but</p>
+<p begin="00:15:38.339" end="00:15:42.660" style="s2">also to educate and tell a story i think</p>
+<p begin="00:15:40.680" end="00:15:44.820" style="s2">is really<span style="s3"> important</span> if you can get</p>
+<p begin="00:15:42.660" end="00:15:47.580" style="s2"><span style="s3">people</span> to understand the issue in a way</p>
+<p begin="00:15:44.820" end="00:15:49.710" style="s2">that&#39;s understandable for most people</p>
+<p begin="00:15:47.580" end="00:15:51.420" style="s2">and there&#39;s a story like oh the laws</p>
+<p begin="00:15:49.710" end="00:15:54.330" style="s2">that enforced and people really<span style="s3"> want</span></p>
+<p begin="00:15:51.420" end="00:15:56.339" style="s2">this and why does<span style="s3"> this</span> happen what can<span style="s4"> I</span></p>
+<p begin="00:15:54.330" end="00:16:00.180" style="s2">do<span style="s4"> I</span> think<span style="s4"> that</span> giving people something</p>
+<p begin="00:15:56.339" end="00:16:02.130" style="s2">to latch on to makes makes your app more</p>
+<p begin="00:16:00.180" end="00:16:05.580" style="s2">shareable and it makes it more palatable</p>
+<p begin="00:16:02.130" end="00:16:07.200" style="s2">to people who might want to cover it and</p>
+<p begin="00:16:05.580" end="00:16:09.510" style="s2"><span style="s3">also I think to policymakers because</span></p>
+<p begin="00:16:07.200" end="00:16:13.920" style="s2">they see the media coverage so it&#39;s sort</p>
+<p begin="00:16:09.510" end="00:16:16.920" style="s2">of a kind<span style="s3"> of</span> self feeding clear calls to</p>
+<p begin="00:16:13.920" end="00:16:18.630" style="s2">action I think are important that<span style="s4"> call</span></p>
+<p begin="00:16:16.920" end="00:16:21.089" style="s2"><span style="s4">to</span><span style="s3"> action</span> for<span style="s4"> residences</span> report your</p>
+<p begin="00:16:18.630" end="00:16:24.870" style="s2">building<span style="s4"> policymakers it&#39;s change your</span></p>
+<p begin="00:16:21.089" end="00:16:26.580" style="s2">policy journalists I think it&#39;s look at</p>
+<p begin="00:16:24.870" end="00:16:28.650" style="s2">this story and it was really it&#39;s really</p>
+<p begin="00:16:26.580" end="00:16:30.360" style="s2"><span style="s3">easy</span> to pick up so I think you&#39;re</p>
+<p begin="00:16:28.650" end="00:16:32.310" style="s2"><span style="s3">telling</span> people very clearly what to do</p>
+<p begin="00:16:30.360" end="00:16:34.830" style="s2">and I mean as a user experience designer</p>
+<p begin="00:16:32.310" end="00:16:36.870" style="s2">I always believe you can I think you</p>
+<p begin="00:16:34.830" end="00:16:39.480" style="s2">should lead horses to water<span style="s3"> don&#39;t</span> kind</p>
+<p begin="00:16:36.870" end="00:16:43.020" style="s2">of funnel people into what you want them</p>
+<p begin="00:16:39.480" end="00:16:45.089" style="s2">to<span style="s3"> do</span> keep everything simple I try to</p>
+<p begin="00:16:43.020" end="00:16:46.680" style="s2">keep the site very simple<span style="s3"> i</span> know there</p>
+<p begin="00:16:45.089" end="00:16:49.110" style="s2">are people wanted<span style="s4"> to</span> represent more</p>
+<p begin="00:16:46.680" end="00:16:51.209" style="s2">things on the map I didn&#39;t really<span style="s3"> want</span></p>
+<p begin="00:16:49.110" end="00:16:53.250" style="s2">to<span style="s3"> do</span><span style="s4"> that</span> because even adding a yes</p>
+<p begin="00:16:51.209" end="00:16:56.190" style="s2">answer<span style="s3"> its</span> what if you have dueling yes</p>
+<p begin="00:16:53.250" end="00:16:58.589" style="s2">and no answers how do you represent how</p>
+<p begin="00:16:56.190" end="00:16:59.640" style="s2">do you represent those and just I<span style="s3"> think</span></p>
+<p begin="00:16:58.589" end="00:17:02.279" style="s2">it just<span style="s4"> makes</span> things more complicated</p>
+<p begin="00:16:59.640" end="00:17:05.309" style="s2">when you have when you don&#39;t filter a</p>
+<p begin="00:17:02.279" end="00:17:07.709" style="s2">map down to the essentials and I think</p>
+<p begin="00:17:05.309" end="00:17:09.179" style="s2">and when you you know message is the</p>
+<p begin="00:17:07.709" end="00:17:11.130" style="s2">same thing<span style="s4"> like</span> it&#39;s a very<span style="s3"> simple</span></p>
+<p begin="00:17:09.179" end="00:17:13.620" style="s2">message enforce the law report your</p>
+<p begin="00:17:11.130" end="00:17:21.089" style="s2">building I try to keep the function very</p>
+<p begin="00:17:13.620" end="00:17:23.610" style="s2">simple to keep it civil I think when you</p>
+<p begin="00:17:21.089" end="00:17:25.410" style="s2">want to eventually engage policymakers I</p>
+<p begin="00:17:23.610" end="00:17:26.760" style="s2">you know you<span style="s3"> don&#39;t</span> want to editorialize</p>
+<p begin="00:17:25.410" end="00:17:28.260" style="s2">you don&#39;t<span style="s3"> to</span> say all the cities in</p>
+<p begin="00:17:26.760" end="00:17:30.510" style="s2">accomplishing what&#39;s wrong with you like</p>
+<p begin="00:17:28.260" end="00:17:31.920" style="s2">why isn&#39;t this happening like more just</p>
+<p begin="00:17:30.510" end="00:17:35.700" style="s2">like these are the facts like they are</p>
+<p begin="00:17:31.920" end="00:17:37.440" style="s2">not enforcing the law so therefore all</p>
+<p begin="00:17:35.700" end="00:17:39.179" style="s2">these buildings<span style="s3"> are</span> not providing</p>
+<p begin="00:17:37.440" end="00:17:40.740" style="s2">recycling services there&#39;s not really a</p>
+<p begin="00:17:39.179" end="00:17:43.500" style="s2">whole lot more you<span style="s3"> need</span> to say and if</p>
+<p begin="00:17:40.740" end="00:17:45.020" style="s2">you want to be brought into the process</p>
+<p begin="00:17:43.500" end="00:17:47.840" style="s2">it&#39;s probably</p>
+<p begin="00:17:45.020" end="00:17:49.640" style="s2">good to keep the editorializing out of</p>
+<p begin="00:17:47.840" end="00:17:51.470" style="s2">it and<span style="s3"> really</span> just focus on stating</p>
+<p begin="00:17:49.640" end="00:17:53.480" style="s2">facts because those are irrefutable I</p>
+<p begin="00:17:51.470" end="00:17:55.130" style="s2">mean that&#39;s it&#39;s it&#39;s just<span style="s4"> true</span> look<span style="s3"> at</span></p>
+<p begin="00:17:53.480" end="00:17:56.780" style="s2">look at the people reporting you can&#39;t</p>
+<p begin="00:17:55.130" end="00:18:00.410" style="s2">really<span style="s3"> say</span> less I don&#39;t know those</p>
+<p begin="00:17:56.780" end="00:18:02.510" style="s2"><span style="s3">people</span> it&#39;s really happening i would say</p>
+<p begin="00:18:00.410" end="00:18:05.120" style="s2">wait for collaboration is probably I</p>
+<p begin="00:18:02.510" end="00:18:06.320" style="s2">mean I think<span style="s3"> I</span> sort<span style="s4"> of</span> went back and</p>
+<p begin="00:18:05.120" end="00:18:10.550" style="s2">forth about whether i should give<span style="s3"> them</span></p>
+<p begin="00:18:06.320" end="00:18:12.380" style="s2">the data that first time but I i think</p>
+<p begin="00:18:10.550" end="00:18:13.970" style="s2">i&#39;m<span style="s3"> glad</span> i waited because I didn&#39;t<span style="s4"> know</span></p>
+<p begin="00:18:12.380" end="00:18:15.560" style="s2">what what they were going to do with<span style="s4"> it</span></p>
+<p begin="00:18:13.970" end="00:18:17.180" style="s2">if I would have just kind<span style="s3"> of</span> want tossed</p>
+<p begin="00:18:15.560" end="00:18:21.980" style="s2">it over the wall on the men like success</p>
+<p begin="00:18:17.180" end="00:18:23.810" style="s2">who I think<span style="s4"> that</span> that probably it may</p>
+<p begin="00:18:21.980" end="00:18:25.700" style="s2">they<span style="s4"> MIT</span> they<span style="s3"> may not have invited me</span></p>
+<p begin="00:18:23.810" end="00:18:27.890" style="s2">again in again for collaboration and I</p>
+<p begin="00:18:25.700" end="00:18:31.190" style="s2">really I like being part of the process</p>
+<p begin="00:18:27.890" end="00:18:32.570" style="s2">I like being<span style="s3"> able</span> to email somebody at</p>
+<p begin="00:18:31.190" end="00:18:34.100" style="s2">streets and sanitation and ask a</p>
+<p begin="00:18:32.570" end="00:18:35.840" style="s2">question<span style="s3"> about</span><span style="s4"> like</span> what&#39;s<span style="s4"> happening</span></p>
+<p begin="00:18:34.100" end="00:18:37.940" style="s2">with the ordinance and I do that and</p>
+<p begin="00:18:35.840" end="00:18:39.770" style="s2">they you know help me with what you know</p>
+<p begin="00:18:37.940" end="00:18:41.990" style="s2">details about the ordinance tonight for</p>
+<p begin="00:18:39.770" end="00:18:43.520" style="s2">the presentation so<span style="s3"> I</span> think<span style="s4"> that</span></p>
+<p begin="00:18:41.990" end="00:18:46.040" style="s2">relationship is important and I think</p>
+<p begin="00:18:43.520" end="00:18:50.240" style="s2">you<span style="s3"> can</span> wait<span style="s3"> for it it&#39;s</span> sign of a</p>
+<p begin="00:18:46.040" end="00:18:52.250" style="s2">gamble but last but not least aim high I</p>
+<p begin="00:18:50.240" end="00:18:53.780" style="s2">think policy change is possible I mean I</p>
+<p begin="00:18:52.250" end="00:18:55.970" style="s2">think it depends on what policy you&#39;re</p>
+<p begin="00:18:53.780" end="00:18:57.590" style="s2">kind you&#39;re trying to change<span style="s3"> I&#39;m</span> not</p>
+<p begin="00:18:55.970" end="00:19:00.620" style="s2">saying this kind<span style="s3"> of</span> app will work for</p>
+<p begin="00:18:57.590" end="00:19:02.210" style="s2">every issue<span style="s3"> I&#39;m not sure</span> it would but I</p>
+<p begin="00:19:00.620" end="00:19:05.090" style="s2">do think like sometimes people<span style="s4"> want</span> to</p>
+<p begin="00:19:02.210" end="00:19:07.400" style="s2">solve the easier problem like let&#39;s what</p>
+<p begin="00:19:05.090" end="00:19:08.810" style="s2">I think is would be somewhat easier as</p>
+<p begin="00:19:07.400" end="00:19:10.280" style="s2">you know let&#39;s<span style="s4"> just</span> let&#39;s collect yes</p>
+<p begin="00:19:08.810" end="00:19:12.980" style="s2">answers let&#39;s integrate with a parting</p>
+<p begin="00:19:10.280" end="00:19:14.840" style="s2">partment finding apps we&#39;re done<span style="s3"> I</span> was</p>
+<p begin="00:19:12.980" end="00:19:16.910" style="s2">no i mean i think the policy is what</p>
+<p begin="00:19:14.840" end="00:19:20.780" style="s2"><span style="s3">that</span> is what<span style="s3"> is</span> governing and what makes</p>
+<p begin="00:19:16.910" end="00:19:22.460" style="s2">people not provide recycling because</p>
+<p begin="00:19:20.780" end="00:19:23.960" style="s2">they&#39;re not getting fine like that that</p>
+<p begin="00:19:22.460" end="00:19:27.590" style="s2">is the problem to solve it seems</p>
+<p begin="00:19:23.960" end="00:19:29.990" style="s2"><span style="s4">impossible</span> but why not go for it I think</p>
+<p begin="00:19:27.590" end="00:19:30.860" style="s2">it&#39;s<span style="s4"> you</span> have<span style="s4"> to</span> be willing to wait like</p>
+<p begin="00:19:29.990" end="00:19:33.140" style="s2">you&#39;re not going to get immediate</p>
+<p begin="00:19:30.860" end="00:19:34.970" style="s2"><span style="s4">gratification</span> you may actually never get</p>
+<p begin="00:19:33.140" end="00:19:36.740" style="s2">gratification but if it&#39;s something if</p>
+<p begin="00:19:34.970" end="00:19:38.960" style="s2">it&#39;s an issue that you care about<span style="s3"> I</span></p>
+<p begin="00:19:36.740" end="00:19:41.090" style="s2">would encourage you<span style="s4"> to</span> do it I think it</p>
+<p begin="00:19:38.960" end="00:19:42.830" style="s2">just<span style="s3"> it</span> depends<span style="s3"> on</span> your goals and<span style="s4"> I</span></p>
+<p begin="00:19:41.090" end="00:19:48.380" style="s2">think policy change that&#39;s a difficult</p>
+<p begin="00:19:42.830" end="00:19:50.000" style="s2">it can be a difficult goal so what now i</p>
+<p begin="00:19:48.380" end="00:19:52.490" style="s2">would say report your building<span style="s4"> there</span></p>
+<p begin="00:19:50.000" end="00:19:54.800" style="s2">still we run collecting the site we&#39;re</p>
+<p begin="00:19:52.490" end="00:19:56.630" style="s2">collecting reports<span style="s3"> i</span> continue to send</p>
+<p begin="00:19:54.800" end="00:19:58.550" style="s2">them to the streets<span style="s3"> and</span> sanitation when</p>
+<p begin="00:19:56.630" end="00:20:01.490" style="s2">we we get enough<span style="s4"> i</span> send them</p>
+<p begin="00:19:58.550" end="00:20:03.080" style="s2">a new excel file so I&#39;m encourage you to</p>
+<p begin="00:20:01.490" end="00:20:05.150" style="s2">report your building eventually there</p>
+<p begin="00:20:03.080" end="00:20:07.130" style="s2">will be the 311 report but they don&#39;t</p>
+<p begin="00:20:05.150" end="00:20:09.560" style="s2">that&#39;s not open running yet so you can</p>
+<p begin="00:20:07.130" end="00:20:12.050" style="s2">still report educate other people about</p>
+<p begin="00:20:09.560" end="00:20:13.730" style="s2"><span style="s3">the</span> new law sometimes<span style="s3"> i</span> go on<span style="s4"> Reddit</span> and</p>
+<p begin="00:20:12.050" end="00:20:15.050" style="s2">like<span style="s3"> i&#39;ll</span><span style="s4"> see</span> it in the google analytics</p>
+<p begin="00:20:13.730" end="00:20:17.120" style="s2">and just go in there as people<span style="s3"> are</span> like</p>
+<p begin="00:20:15.050" end="00:20:18.410" style="s2">people<span style="s3"> have</span> linked<span style="s4"> to</span> my building</p>
+<p begin="00:20:17.120" end="00:20:19.580" style="s2">doesn&#39;t recycle they don&#39;t know<span style="s4"> that</span></p>
+<p begin="00:20:18.410" end="00:20:21.200" style="s2">there&#39;s a new ordinance so they have</p>
+<p begin="00:20:19.580" end="00:20:22.640" style="s2">misinformation and<span style="s4"> i&#39;ll</span> go in<span style="s3"> there</span> and</p>
+<p begin="00:20:21.200" end="00:20:23.540" style="s2">you know actually<span style="s4"> this</span> is the<span style="s3"> way</span> it<span style="s3"> is</span></p>
+<p begin="00:20:22.640" end="00:20:25.670" style="s2">and you should still report your</p>
+<p begin="00:20:23.540" end="00:20:27.080" style="s2">building so if you guys could do that</p>
+<p begin="00:20:25.670" end="00:20:31.790" style="s2">too not<span style="s3"> saying</span> if you do it on reddit</p>
+<p begin="00:20:27.080" end="00:20:36.290" style="s2">but somewhere also<span style="s3"> submit</span> an issue if</p>
+<p begin="00:20:31.790" end="00:20:38.150" style="s2"><span style="s4">you</span> were on the Open City repository so</p>
+<p begin="00:20:36.290" end="00:20:40.430" style="s2">if you want<span style="s3"> to</span> think we&#39;d<span style="s4"> so</span> used last</p>
+<p begin="00:20:38.150" end="00:20:42.170" style="s2">recycling so feel free<span style="s3"> to</span> submit an</p>
+<p begin="00:20:40.430" end="00:20:46.850" style="s2">issue if<span style="s4"> you</span> see something that<span style="s4"> you</span></p>
+<p begin="00:20:42.170" end="00:20:49.420" style="s2">think could be improved and that is all</p>
+<p begin="00:20:46.850" end="00:20:49.420" style="s2">thank you</p>
+<p begin="00:20:57.460" end="00:21:07.520" style="s2">OOP questions um I well I&#39;ll just go</p>
+<p begin="00:21:04.580" end="00:21:13.750" style="s2">with front row welcome back<span style="s4"> Ben</span> she said</p>
+<p begin="00:21:07.520" end="00:21:21.830" style="s2"><span style="s4">that</span> you work with<span style="s4"> inclusive vision</span></p>
+<p begin="00:21:13.750" end="00:21:22.970" style="s2"><span style="s4">Jordan&#39;s</span> yeah I think they knew it</p>
+<p begin="00:21:21.830" end="00:21:24.740" style="s2">wasn&#39;t working<span style="s4"> and</span> they were really</p>
+<p begin="00:21:22.970" end="00:21:26.090" style="s2">frustrated i think it was you know they</p>
+<p begin="00:21:24.740" end="00:21:27.679" style="s2">had high hopes for it when it<span style="s4"> was</span></p>
+<p begin="00:21:26.090" end="00:21:30.230" style="s2">written and then it was just I think</p>
+<p begin="00:21:27.679" end="00:21:32.330" style="s2"><span style="s3">this</span> the city kind of pulled back and</p>
+<p begin="00:21:30.230" end="00:21:33.830" style="s2">just didn&#39;t didn&#39;t enforce it i think</p>
+<p begin="00:21:32.330" end="00:21:37.760" style="s2"><span style="s3">they</span> but they I think they really hope</p>
+<p begin="00:21:33.830" end="00:21:40.330" style="s2">that it would be something good my</p>
+<p begin="00:21:37.760" end="00:21:40.330" style="s2">question Oh</p>
+<p begin="00:21:46.429" end="00:21:49.419" style="s2">how</p>
+<p begin="00:21:54.680" end="00:22:03.660" style="s2">um so I used I was a lot of just like</p>
+<p begin="00:22:00.080" end="00:22:05.730" style="s2">looking at internet articles so I looked</p>
+<p begin="00:22:03.660" end="00:22:08.040" style="s2">at this article in the<span style="s3"> Chicago</span> Reader</p>
+<p begin="00:22:05.730" end="00:22:09.900" style="s2">that&#39;s like why why can&#39;t<span style="s3"> she</span><span style="s4"> cago</span></p>
+<p begin="00:22:08.040" end="00:22:11.580" style="s2">recycle and that was a lot to wave</p>
+<p begin="00:22:09.900" end="00:22:13.380" style="s2">through it was very confusing about why</p>
+<p begin="00:22:11.580" end="00:22:17.330" style="s2">there wasn&#39;t recycling but the one thing</p>
+<p begin="00:22:13.380" end="00:22:19.530" style="s2">I think I came away with<span style="s4"> it&#39;s</span> like<span style="s3"> that</span></p>
+<p begin="00:22:17.330" end="00:22:21.210" style="s2">there&#39;s not enforcement I think I just</p>
+<p begin="00:22:19.530" end="00:22:24.240" style="s2">identified that problem and I think I</p>
+<p begin="00:22:21.210" end="00:22:25.890" style="s2">also kind of had honest I mean in my</p>
+<p begin="00:22:24.240" end="00:22:28.770" style="s2">head<span style="s4"> I</span> mostly kind of had the idea that</p>
+<p begin="00:22:25.890" end="00:22:30.510" style="s2">like wouldn&#39;t it be cool to have people</p>
+<p begin="00:22:28.770" end="00:22:32.070" style="s2">be able<span style="s4"> to</span> report this because I felt</p>
+<p begin="00:22:30.510" end="00:22:33.420" style="s2"><span style="s3">like</span> one of the other problems I didn&#39;t</p>
+<p begin="00:22:32.070" end="00:22:34.860" style="s2">talk<span style="s3"> about</span> that identified is that the</p>
+<p begin="00:22:33.420" end="00:22:36.120" style="s2">city was kind of saying no it&#39;s working</p>
+<p begin="00:22:34.860" end="00:22:38.100" style="s2">fine people start their own recycling</p>
+<p begin="00:22:36.120" end="00:22:40.740" style="s2">programs everything&#39;s fine but like</p>
+<p begin="00:22:38.100" end="00:22:42.750" style="s2">showing something that&#39;s clear let like</p>
+<p begin="00:22:40.740" end="00:22:45.450" style="s2">people creating their own data to show</p>
+<p begin="00:22:42.750" end="00:22:47.340" style="s2">that something is it&#39;s not effective</p>
+<p begin="00:22:45.450" end="00:22:59.790" style="s2">it&#39;s very<span style="s3"> I</span> think<span style="s3"> it&#39;s it&#39;s very</span></p>
+<p begin="00:22:47.340" end="00:23:03.270" style="s2">convincing yeah yes yeah actually it was</p>
+<p begin="00:22:59.790" end="00:23:05.700" style="s2">I so I&#39;ve lived in Chicago for like like</p>
+<p begin="00:23:03.270" end="00:23:08.130" style="s2">13 years now and I&#39;ve never been in a</p>
+<p begin="00:23:05.700" end="00:23:10.080" style="s2">building that recycles and<span style="s3"> I</span> was i think</p>
+<p begin="00:23:08.130" end="00:23:12.810" style="s2">i just i think<span style="s4"> it</span> just started<span style="s4"> to</span> annoy</p>
+<p begin="00:23:10.080" end="00:23:14.610" style="s2">me so much that I felt like I wanted to</p>
+<p begin="00:23:12.810" end="00:23:17.040" style="s2"><span style="s3">do</span> something and I was<span style="s3"> just</span> so tired of</p>
+<p begin="00:23:14.610" end="00:23:18.810" style="s2">like having to sneak around and put</p>
+<p begin="00:23:17.040" end="00:23:22.650" style="s2">stuff and people blue bins or put it<span style="s3"> in</span></p>
+<p begin="00:23:18.810" end="00:23:25.920" style="s2">the condo next door&#39;s recycling mouth i</p>
+<p begin="00:23:22.650" end="00:23:27.030" style="s2">think that was that yeah and<span style="s3"> i</span> think<span style="s3"> i&#39;m</span></p>
+<p begin="00:23:25.920" end="00:23:28.830" style="s2"><span style="s3">just tired of it then</span><span style="s4"> i</span> was<span style="s3"> like</span><span style="s4"> i&#39;m</span></p>
+<p begin="00:23:27.030" end="00:23:31.020" style="s2">gonna<span style="s3"> do</span> research<span style="s3"> i</span> think there could be</p>
+<p begin="00:23:28.830" end="00:23:33.090" style="s2">a way to<span style="s3"> solve this but i</span> want<span style="s3"> to</span> do</p>
+<p begin="00:23:31.020" end="00:23:38.190" style="s2">more you know kind<span style="s4"> of</span> more research</p>
+<p begin="00:23:33.090" end="00:23:42.530" style="s2">until I decide on how to do it yeah</p>
+<p begin="00:23:38.190" end="00:23:42.530" style="s2"><span style="s4">uh-oh</span> go to you yeah</p>
+<p begin="00:23:53.549" end="00:23:58.750" style="s2">yeah<span style="s3"> I</span> mean<span style="s3"> I</span> think that&#39;s a common</p>
+<p begin="00:23:56.559" end="00:24:01.240" style="s2">perception i might be partially true<span style="s4"> i</span></p>
+<p begin="00:23:58.750" end="00:24:03.010" style="s2">mean<span style="s3"> if</span> you look on her I my<span style="s3"> building</span></p>
+<p begin="00:24:01.240" end="00:24:06.789" style="s2">doesn&#39;t recycle there&#39;s a link to a</p>
+<p begin="00:24:03.010" end="00:24:09.370" style="s2">curious<span style="s4"> City</span> piece that talks about all</p>
+<p begin="00:24:06.789" end="00:24:12.580" style="s2"><span style="s3">about</span> what what what what happens with</p>
+<p begin="00:24:09.370" end="00:24:14.950" style="s2">the recycling that&#39;s collected so that</p>
+<p begin="00:24:12.580" end="00:24:16.510" style="s2">would<span style="s3"> probably</span> be an answer<span style="s3"> but</span> yeah I</p>
+<p begin="00:24:14.950" end="00:24:17.740" style="s2"><span style="s3">think</span> that there&#39;s a lot of a perception</p>
+<p begin="00:24:16.510" end="00:24:19.270" style="s2">that there&#39;s a lot of<span style="s3"> things</span> aren&#39;t</p>
+<p begin="00:24:17.740" end="00:24:20.850" style="s2">recycled and then there&#39;s a whole thing</p>
+<p begin="00:24:19.270" end="00:24:23.440" style="s2">look like the commodities having really</p>
+<p begin="00:24:20.850" end="00:24:30.580" style="s2">low prices and it not being worth<span style="s3"> to</span></p>
+<p begin="00:24:23.440" end="00:24:32.130" style="s2">worth it to recycle so ah yes the</p>
+<p begin="00:24:30.580" end="00:24:34.570" style="s2">penalties have increased substantially</p>
+<p begin="00:24:32.130" end="00:24:38.289" style="s2">yeah<span style="s4"> ordinance</span> you think they&#39;re high</p>
+<p begin="00:24:34.570" end="00:24:41.169" style="s2">enough now to convince buildings to over</p>
+<p begin="00:24:38.289" end="00:24:44.620" style="s2">open<span style="s4"> holding</span> out I mean they are</p>
+<p begin="00:24:41.169" end="00:24:45.550" style="s2">extremely<span style="s3"> high</span> exactly so<span style="s3"> you</span> mentioned</p>
+<p begin="00:24:44.620" end="00:24:48.200" style="s2">you know</p>
+<p begin="00:24:45.550" end="00:24:51.590" style="s2"><span style="s4">$2,000</span><span style="s3"> actually</span> have no<span style="s4"> idea</span> how much</p>
+<p begin="00:24:48.200" end="00:24:54.920" style="s2">common sense it is all<span style="s3"> excited</span> to</p>
+<p begin="00:24:51.590" end="00:24:57.740" style="s2">contract to get a contract for recycling</p>
+<p begin="00:24:54.920" end="00:25:02.000" style="s2">services so at some point if that</p>
+<p begin="00:24:57.740" end="00:25:05.390" style="s2"><span style="s3">penalty is still too low yeah I think if</span></p>
+<p begin="00:25:02.000" end="00:25:07.070" style="s2">I mean yeah I<span style="s4"> think</span> it&#39;s probably going</p>
+<p begin="00:25:05.390" end="00:25:08.720" style="s2">to be at most and really depends on<span style="s3"> the</span></p>
+<p begin="00:25:07.070" end="00:25:11.720" style="s2"><span style="s3">size</span> of<span style="s3"> the</span> building i think at most</p>
+<p begin="00:25:08.720" end="00:25:13.580" style="s2">it&#39;s going to be I mean I think<span style="s4"> like</span></p>
+<p begin="00:25:11.720" end="00:25:14.660" style="s2">when we really depends<span style="s4"> on</span><span style="s3"> the</span> size of</p>
+<p begin="00:25:13.580" end="00:25:16.310" style="s2"><span style="s3">the</span> building I think you&#39;d be a low is</p>
+<p begin="00:25:14.660" end="00:25:19.150" style="s2">low it&#39;s like it the lowest i think i</p>
+<p begin="00:25:16.310" end="00:25:23.470" style="s2">got got a 90 gallon or something is like</p>
+<p begin="00:25:19.150" end="00:25:38.690" style="s2">$45 per month yeah so<span style="s3"> i</span> think it is</p>
+<p begin="00:25:23.470" end="00:25:40.720" style="s2">worth it to recycle at this point yeah<span style="s3"> i</span></p>
+<p begin="00:25:38.690" end="00:25:43.100" style="s2">think the city is we try to make it</p>
+<p begin="00:25:40.720" end="00:25:44.540" style="s2">smoother<span style="s3"> who</span> people is<span style="s4"> what</span> i understand</p>
+<p begin="00:25:43.100" end="00:25:47.540" style="s2">i mean there are a lot of its all</p>
+<p begin="00:25:44.540" end="00:25:49.610" style="s2">private haulers so you have there&#39;s no</p>
+<p begin="00:25:47.540" end="00:25:52.270" style="s2">real transparency or standardization of</p>
+<p begin="00:25:49.610" end="00:25:52.270" style="s2">pricing</p>
+<p begin="00:25:59.410" end="00:26:03.350" style="s2">no one has<span style="s3"> asked</span> me<span style="s4"> I</span> bet they&#39;re</p>
+<p begin="00:26:01.730" end="00:26:05.150" style="s2">they&#39;re probably asking streets and</p>
+<p begin="00:26:03.350" end="00:26:06.740" style="s2">sanitation I know that<span style="s4"> I</span> mean the city</p>
+<p begin="00:26:05.150" end="00:26:08.600" style="s2">of<span style="s4"> Chicago</span> does have stuff on their</p>
+<p begin="00:26:06.740" end="00:26:10.580" style="s2">website about I<span style="s3"> don&#39;t know if it&#39;s up to</span></p>
+<p begin="00:26:08.600" end="00:26:12.170" style="s2">date or<span style="s4"> not</span> but<span style="s3"> about</span> like who the</p>
+<p begin="00:26:10.580" end="00:26:13.310" style="s2">private haulers are and the phone</p>
+<p begin="00:26:12.170" end="00:26:15.170" style="s2">numbers they don&#39;t have anything</p>
+<p begin="00:26:13.310" end="00:26:17.120" style="s2">advanced like you know they don&#39;t<span style="s3"> I</span></p>
+<p begin="00:26:15.170" end="00:26:18.800" style="s2">don&#39;t think they help negotiate or</p>
+<p begin="00:26:17.120" end="00:26:25.460" style="s2">provide any support but they do have the</p>
+<p begin="00:26:18.800" end="00:26:27.860" style="s2">numbers yeah i<span style="s3"> mean</span> i don&#39;t know if i</p>
+<p begin="00:26:25.460" end="00:26:29.330" style="s2">would<span style="s4"> be</span> overlapping with the city or</p>
+<p begin="00:26:27.860" end="00:26:31.100" style="s2">not that&#39;s the thing<span style="s3"> i</span> think<span style="s3"> they</span><span style="s4"> i</span></p>
+<p begin="00:26:29.330" end="00:26:34.160" style="s2">would hope that they would provide that</p>
+<p begin="00:26:31.100" end="00:26:35.780" style="s2">because<span style="s4"> i</span> my my bias is to try to get</p>
+<p begin="00:26:34.160" end="00:26:37.190" style="s2">the city to provide services<span style="s4"> that</span><span style="s3"> i</span></p>
+<p begin="00:26:35.780" end="00:26:38.930" style="s2"><span style="s4">think</span> they should provide<span style="s3"> or</span> at least</p>
+<p begin="00:26:37.190" end="00:26:40.970" style="s2">oversee them since this is actually</p>
+<p begin="00:26:38.930" end="00:26:42.650" style="s2">private haulers that do this but<span style="s4"> i</span></p>
+<p begin="00:26:40.970" end="00:26:48.650" style="s2">wouldn&#39;t<span style="s4"> i</span> don&#39;t exactly want<span style="s3"> to</span> do</p>
+<p begin="00:26:42.650" end="00:26:51.490" style="s2">their job for them over here it&#39;ll come</p>
+<p begin="00:26:48.650" end="00:26:51.490" style="s2">back yeah</p>
+<p begin="00:26:56.920" end="00:27:16.270" style="s2">oh<span style="s3"> okay</span> yeah what so the new ordinance</p>
+<p begin="00:27:14.380" end="00:27:18.880" style="s2">does specify what has to be<span style="s3"> recycled</span></p>
+<p begin="00:27:16.270" end="00:27:20.170" style="s2">they have<span style="s3"> I</span> can give you a link to<span style="s4"> it</span></p>
+<p begin="00:27:18.880" end="00:27:22.510" style="s2">but it&#39;s I mean there are a ton of</p>
+<p begin="00:27:20.170" end="00:27:24.070" style="s2">materials<span style="s3"> that</span> it<span style="s3"> lists</span> now that that</p>
+<p begin="00:27:22.510" end="00:27:25.540" style="s2">have to be recycled so that&#39;s another</p>
+<p begin="00:27:24.070" end="00:27:26.710" style="s2">part that&#39;s been modernized because in</p>
+<p begin="00:27:25.540" end="00:27:29.350" style="s2">that I think the ordinance from the</p>
+<p begin="00:27:26.710" end="00:27:31.450" style="s2">nineteen nineties is like paper glass</p>
+<p begin="00:27:29.350" end="00:27:33.370" style="s2">and anything else like it&#39;s very<span style="s3"> it&#39;s</span></p>
+<p begin="00:27:31.450" end="00:27:35.140" style="s2">like three things like cuz it&#39;s like 90</p>
+<p begin="00:27:33.370" end="00:27:36.580" style="s2">s recycling but now I think they&#39;re</p>
+<p begin="00:27:35.140" end="00:27:38.560" style="s2">trying<span style="s4"> to</span> modernize it to end that<span style="s3"> you</span></p>
+<p begin="00:27:36.580" end="00:27:40.270" style="s2">you have<span style="s3"> to accept all these these</span></p>
+<p begin="00:27:38.560" end="00:27:42.100" style="s2">different materials and every I think</p>
+<p begin="00:27:40.270" end="00:27:43.840" style="s2">every hauler does but I think there<span style="s4"> are</span></p>
+<p begin="00:27:42.100" end="00:27:45.100" style="s2">yeah there are definitely nuances and<span style="s4"> i</span></p>
+<p begin="00:27:43.840" end="00:27:46.990" style="s2">don&#39;t know<span style="s4"> if</span><span style="s3"> i</span> don&#39;t think the</p>
+<p begin="00:27:45.100" end="00:27:48.940" style="s2">reporting system will be nuanced enough</p>
+<p begin="00:27:46.990" end="00:27:53.260" style="s2">for that but i think<span style="s4"> that</span><span style="s3"> is</span> also</p>
+<p begin="00:27:48.940" end="00:27:55.290" style="s2"><span style="s3">covered</span> by the law<span style="s3"> okay</span> I<span style="s3"> will</span> how come</p>
+<p begin="00:27:53.260" end="00:27:55.290" style="s2">you</p>
+<p begin="00:28:02.500" end="00:28:07.240" style="s2">uh you know no because<span style="s3"> I think they were</span></p>
+<p begin="00:28:05.230" end="00:28:09.130" style="s2"><span style="s3">going</span> to once they actually start going</p>
+<p begin="00:28:07.240" end="00:28:10.510" style="s2">once they send the inspectors out to the</p>
+<p begin="00:28:09.130" end="00:28:13.630" style="s2">building&#39;s I think they are<span style="s4"> going</span> to</p>
+<p begin="00:28:10.510" end="00:28:16.150" style="s2"><span style="s3">verify</span> whether it&#39;s there so i won&#39;t i</p>
+<p begin="00:28:13.630" end="00:28:19.000" style="s2">don&#39;t think they&#39;ll<span style="s3"> just</span> take it on<span style="s4"> the</span></p>
+<p begin="00:28:16.150" end="00:28:20.440" style="s2">reports on the site I think they will</p>
+<p begin="00:28:19.000" end="00:28:22.570" style="s2">verify it and then they give they have</p>
+<p begin="00:28:20.440" end="00:28:24.070" style="s2">to give a<span style="s3"> 30-day</span> warning so they won&#39;t</p>
+<p begin="00:28:22.570" end="00:28:28.080" style="s2">get a fine<span style="s3"> I</span> mean<span style="s3"> II</span> lean hopefully</p>
+<p begin="00:28:24.070" end="00:28:39.370" style="s2">somebody can find<span style="s4"> a</span> holler in 30 days oh</p>
+<p begin="00:28:28.080" end="00:28:43.210" style="s2">ok Oh back thank levitation my landlord</p>
+<p begin="00:28:39.370" end="00:28:44.860" style="s2">said oh yeah definitely cycle I just put</p>
+<p begin="00:28:43.210" end="00:28:48.310" style="s2">it all on one bag and<span style="s4"> no</span> it&#39;s likely</p>
+<p begin="00:28:44.860" end="00:28:51.460" style="s2">that way oh yeah<span style="s4"> okay</span> as far as i know</p>
+<p begin="00:28:48.310" end="00:28:57.160" style="s2">that&#39;s valid but you have cyber me that</p>
+<p begin="00:28:51.460" end="00:28:59.530" style="s2">qualifies yeah<span style="s4"> i</span> think<span style="s3"> that</span> you&#39;re</p>
+<p begin="00:28:57.160" end="00:29:02.110" style="s2">supposed to have an actual dumpster that</p>
+<p begin="00:28:59.530" end="00:29:05.080" style="s2">is specified for recycling<span style="s3"> i</span> think that</p>
+<p begin="00:29:02.110" end="00:29:07.330" style="s2">that&#39;s um<span style="s3"> I</span> think they I think the</p>
+<p begin="00:29:05.080" end="00:29:09.190" style="s2">ordinance says that that saying doing</p>
+<p begin="00:29:07.330" end="00:29:10.390" style="s2">that is no longer valid is what I&#39;m</p>
+<p begin="00:29:09.190" end="00:29:12.310" style="s2">understanding that you have to have</p>
+<p begin="00:29:10.390" end="00:29:13.750" style="s2">single stream yeah because I<span style="s4"> think</span></p>
+<p begin="00:29:12.310" end="00:29:15.100" style="s2">that&#39;s called like post collection</p>
+<p begin="00:29:13.750" end="00:29:16.900" style="s2">separation or something that<span style="s3"> like</span></p>
+<p begin="00:29:15.100" end="00:29:18.550" style="s2">supposedly just because there are<span style="s3"> really</span></p>
+<p begin="00:29:16.900" end="00:29:19.900" style="s2">there<span style="s3"> are</span> facilities that do<span style="s4"> that</span> but</p>
+<p begin="00:29:18.550" end="00:29:22.380" style="s2">they they&#39;re going to get fewer</p>
+<p begin="00:29:19.900" end="00:29:22.380" style="s2">recyclables</p>
+<p begin="00:29:33.080" end="00:29:51.180" style="s2">um I don&#39;t know how many yeah yeah I</p>
+<p begin="00:29:47.850" end="00:29:52.650" style="s2">mean I think<span style="s3"> before</span> I mean the app is</p>
+<p begin="00:29:51.180" end="00:29:54.000" style="s2"><span style="s3">not</span> the definitive source of who</p>
+<p begin="00:29:52.650" end="00:29:55.830" style="s2">recycles and who doesn&#39;t because it&#39;s</p>
+<p begin="00:29:54.000" end="00:29:57.450" style="s2">it&#39;s self-reported and it&#39;s no one&#39;s</p>
+<p begin="00:29:55.830" end="00:30:00.600" style="s2">bent no one&#39;s inspected I<span style="s3"> think</span> before</p>
+<p begin="00:29:57.450" end="00:30:03.360" style="s2"><span style="s4">the</span> app maybe or before it kind of got</p>
+<p begin="00:30:00.600" end="00:30:05.520" style="s2">traction people were saying oh we help</p>
+<p begin="00:30:03.360" end="00:30:07.440" style="s2">we&#39;re happy to help building owners or</p>
+<p begin="00:30:05.520" end="00:30:09.480" style="s2">residents and building owners start</p>
+<p begin="00:30:07.440" end="00:30:12.060" style="s2">their own recycling programs and if it&#39;s</p>
+<p begin="00:30:09.480" end="00:30:14.130" style="s2">kind of saying like that&#39;s it&#39;s up to</p>
+<p begin="00:30:12.060" end="00:30:16.620" style="s2">it&#39;s up to<span style="s3"> them</span> and<span style="s4"> it&#39;s</span> happening<span style="s4"> it&#39;s</span></p>
+<p begin="00:30:14.130" end="00:30:20.990" style="s2">just not it&#39;s just<span style="s3"> not</span> formal and<span style="s3"> I</span></p>
+<p begin="00:30:16.620" end="00:30:23.730" style="s2">think that that that wasn&#39;t a fact so</p>
+<p begin="00:30:20.990" end="00:30:25.170" style="s2">that<span style="s3"> every</span> think<span style="s3"> that</span> would be one one</p>
+<p begin="00:30:23.730" end="00:30:27.990" style="s2">area where there&#39;s sort of a discrepancy</p>
+<p begin="00:30:25.170" end="00:30:30.000" style="s2">but with people were<span style="s4"> no</span> surprisingly</p>
+<p begin="00:30:27.990" end="00:30:38.960" style="s2">convinced by the site once it really</p>
+<p begin="00:30:30.000" end="00:30:38.960" style="s2">gained enough reports and coverage jewel</p>
+<p begin="00:30:43.770" end="00:30:51.450" style="s2">video<span style="s3"> oh</span> by that</p>
+<p begin="00:30:47.549" end="00:30:55.470" style="s2">uh you like stolen blue<span style="s3"> pens</span> or like</p>
+<p begin="00:30:51.450" end="00:30:57.330" style="s2"><span style="s4">staring</span> oh I mean the blubins like thus</p>
+<p begin="00:30:55.470" end="00:30:59.100" style="s2">the app doesn&#39;t really deal with those</p>
+<p begin="00:30:57.330" end="00:31:01.499" style="s2">because it&#39;s like buildings with like</p>
+<p begin="00:30:59.100" end="00:31:03.149" style="s2">five units or more so they have to have</p>
+<p begin="00:31:01.499" end="00:31:04.590" style="s2">they would have<span style="s4"> to</span> contract privately I</p>
+<p begin="00:31:03.149" end="00:31:06.330" style="s2">don&#39;t think it&#39;d<span style="s4"> be</span> hard<span style="s4"> to</span> steal those</p>
+<p begin="00:31:04.590" end="00:31:07.529" style="s2">dumpsters because they&#39;re like usually</p>
+<p begin="00:31:06.330" end="00:31:12.929" style="s2">they&#39;re not like plastic they&#39;re like</p>
+<p begin="00:31:07.529" end="00:31:17.850" style="s2">steel but I mean yeah recycling stealing</p>
+<p begin="00:31:12.929" end="00:31:21.259" style="s2">I don&#39;t know yeah that&#39;s that&#39;s the next</p>
+<p begin="00:31:17.850" end="00:31:21.259" style="s2">step yes</p>
+<p begin="00:31:27.890" end="00:31:33.470" style="s2">uh you know i&#39;m not<span style="s3"> sure</span> if that&#39;s</p>
+<p begin="00:31:30.190" end="00:31:36.290" style="s2">stipulated in the law<span style="s4"> i</span> actually did see</p>
+<p begin="00:31:33.470" end="00:31:39.380" style="s2">sort<span style="s3"> of</span> like a real building<span style="s4"> association</span></p>
+<p begin="00:31:36.290" end="00:31:41.390" style="s2">like trade kind of site saying like hey</p>
+<p begin="00:31:39.380" end="00:31:42.830" style="s2">so this new law mandates recycling but</p>
+<p begin="00:31:41.390" end="00:31:44.480" style="s2">they don&#39;t say that you have to have</p>
+<p begin="00:31:42.830" end="00:31:46.550" style="s2">basically like you don&#39;t have<span style="s3"> to</span> have</p>
+<p begin="00:31:44.480" end="00:31:48.080" style="s2"><span style="s3">enough</span> bins for the recycling and</p>
+<p begin="00:31:46.550" end="00:31:51.110" style="s2">they&#39;re like just get the lowest get</p>
+<p begin="00:31:48.080" end="00:31:52.580" style="s2">just get the<span style="s3"> smallest</span> thing and so<span style="s3"> I</span></p>
+<p begin="00:31:51.110" end="00:31:54.380" style="s2">don&#39;t know<span style="s3"> if</span> it&#39;s I<span style="s4"> don&#39;t</span> know if they</p>
+<p begin="00:31:52.580" end="00:31:56.860" style="s2">misinterpreted the ordinance but that is</p>
+<p begin="00:31:54.380" end="00:31:59.840" style="s2">it&#39;s it&#39;s interesting that I saw that oh</p>
+<p begin="00:31:56.860" end="00:32:03.040" style="s2">it&#39;s you&#39;d hope it would be like</p>
+<p begin="00:31:59.840" end="00:32:03.040" style="s2">adequate for the recycling</p>
+<p begin="00:32:09.929" end="00:32:24.720" style="s2">all the questions are out I think you</p>
+<p begin="00:32:22.470" end="00:32:25.950" style="s2">should also leave them on actually yeah</p>
+<p begin="00:32:24.720" end="00:32:29.629" style="s2">you don&#39;t want to separate the<span style="s4"> cap</span></p>
+<p begin="00:32:25.950" end="00:32:31.590" style="s2">that&#39;s what I&#39;ve heard where would he</p>
+<p begin="00:32:29.629" end="00:32:33.950" style="s2">know I think<span style="s3"> you&#39;re</span> supposed<span style="s3"> to leave it</span></p>
+<p begin="00:32:31.590" end="00:32:33.950" style="s2">on actually</p>
+<p begin="00:32:44.640" end="00:32:46.700" style="s2">you</p>
+</div>
+</body>
+</tt>

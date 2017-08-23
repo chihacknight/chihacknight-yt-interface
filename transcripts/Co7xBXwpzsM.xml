@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.730" end="00:00:09.330" style="s2">so recently I went to a party for</p>
+<p begin="00:00:07.379" end="00:00:10.830" style="s2">Vanderbilt University to be like invited</p>
+<p begin="00:00:09.330" end="00:00:13.530" style="s2">as a new member class of<span style="s3"> twenty twenty</span></p>
+<p begin="00:00:10.830" end="00:00:17.070" style="s2"><span style="s3">as</span><span style="s4"> at</span> this beautiful house and this</p>
+<p begin="00:00:13.530" end="00:00:18.930" style="s2">house had valet service they had<span style="s3"> 250</span></p>
+<p begin="00:00:17.070" end="00:00:22.140" style="s2">thousand dollars in gardens ie my</p>
+<p begin="00:00:18.930" end="00:00:24.300" style="s2">college tuition and they had like an</p>
+<p begin="00:00:22.140" end="00:00:26.730" style="s2">incredible pool incredible food in these</p>
+<p begin="00:00:24.300" end="00:00:28.170" style="s2">dainty little cucumber sandwiches and as</p>
+<p begin="00:00:26.730" end="00:00:30.900" style="s2">I<span style="s4"> was</span> there eating those sandwiches I</p>
+<p begin="00:00:28.170" end="00:00:34.350" style="s2">hated them<span style="s4"> by</span> the<span style="s4"> way</span> I had one feeling</p>
+<p begin="00:00:30.900" end="00:00:36.090" style="s2">I didn&#39;t belong here I&#39;m a staunchly</p>
+<p begin="00:00:34.350" end="00:00:37.410" style="s2"><span style="s4">middle class I&#39;m like his middle classes</span></p>
+<p begin="00:00:36.090" end="00:00:40.410" style="s2">you come average income for middle-class</p>
+<p begin="00:00:37.410" end="00:00:41.550" style="s2">80,000 my parents make a t-1000 and I</p>
+<p begin="00:00:40.410" end="00:00:44.010" style="s2">felt the I didn&#39;t belong<span style="s4"> in</span> this</p>
+<p begin="00:00:41.550" end="00:00:46.350" style="s2">high-class rich place and I got me</p>
+<p begin="00:00:44.010" end="00:00:48.270" style="s2">thinking about<span style="s4"> privilege</span> and privilege</p>
+<p begin="00:00:46.350" end="00:00:50.039" style="s2">is a pretty nebulous turned so it&#39;s used</p>
+<p begin="00:00:48.270" end="00:00:52.440" style="s2">by politicians all the time either to</p>
+<p begin="00:00:50.039" end="00:00:54.840" style="s2">mean like mean like you have too much</p>
+<p begin="00:00:52.440" end="00:00:56.670" style="s2">money<span style="s4"> should</span> be taxed more or some sort</p>
+<p begin="00:00:54.840" end="00:00:58.260" style="s2">of racial implication but there&#39;s also</p>
+<p begin="00:00:56.670" end="00:01:00.539" style="s2">much more insidious type of privilege</p>
+<p begin="00:00:58.260" end="00:01:01.890" style="s2">and privilege I&#39;ve had like my parents</p>
+<p begin="00:01:00.539" end="00:01:04.199" style="s2">are able to take<span style="s3"> me</span> to extracurricular</p>
+<p begin="00:01:01.890" end="00:01:07.020" style="s2">activities I was able<span style="s4"> to</span> go to taekwondo</p>
+<p begin="00:01:04.199" end="00:01:08.400" style="s2">I was able to<span style="s4"> debate</span> and I didn&#39;t<span style="s4"> have</span></p>
+<p begin="00:01:07.020" end="00:01:10.530" style="s2">to worry about the police<span style="s4"> and</span> stuff like</p>
+<p begin="00:01:08.400" end="00:01:12.900" style="s2">that so<span style="s3"> it&#39;s</span> not really the privilege a</p>
+<p begin="00:01:10.530" end="00:01:16.560" style="s2">very rich man or very powerful man<span style="s4"> and</span></p>
+<p begin="00:01:12.900" end="00:01:21.090" style="s2">there are many<span style="s4"> of</span> those many many rich</p>
+<p begin="00:01:16.560" end="00:01:22.290" style="s2">and powerful men but the<span style="s3"> thing</span> is is</p>
+<p begin="00:01:21.090" end="00:01:24.090" style="s2">that beyond these rich and powerful</p>
+<p begin="00:01:22.290" end="00:01:25.560" style="s2">madness in CID you aside for privilege</p>
+<p begin="00:01:24.090" end="00:01:27.479" style="s2">the type that I would bet that most of</p>
+<p begin="00:01:25.560" end="00:01:31.650" style="s2"><span style="s4">us</span> have experienced where we get to talk</p>
+<p begin="00:01:27.479" end="00:01:33.659" style="s2">ninety-four percent of the time that&#39;s</p>
+<p begin="00:01:31.650" end="00:01:35.850" style="s2"><span style="s4">something</span> that&#39;s also very worrying and</p>
+<p begin="00:01:33.659" end="00:01:38.220" style="s2">me and my comrades at<span style="s3"> him</span> so over the</p>
+<p begin="00:01:35.850" end="00:01:39.840" style="s2">past<span style="s4"> two</span> or three years develop various</p>
+<p begin="00:01:38.220" end="00:01:42.630" style="s2">solutions for this as part of a working</p>
+<p begin="00:01:39.840" end="00:01:44.759" style="s2">into student council and this was to</p>
+<p begin="00:01:42.630" end="00:01:46.530" style="s2">serve the anti Trump&#39;s in a way the</p>
+<p begin="00:01:44.759" end="00:01:50.700" style="s2"><span style="s3">people</span> who<span style="s4"> don&#39;t</span> have<span style="s4"> that</span> privilege the</p>
+<p begin="00:01:46.530" end="00:01:52.170" style="s2">people who are left behind by what the</p>
+<p begin="00:01:50.700" end="00:01:53.880" style="s2">establishment or whatever you want to</p>
+<p begin="00:01:52.170" end="00:01:55.439" style="s2"><span style="s4">call</span> it and the technique was<span style="s4"> called</span></p>
+<p begin="00:01:53.880" end="00:01:57.570" style="s2">listening and learning so ostensibly</p>
+<p begin="00:01:55.439" end="00:02:00.360" style="s2">it&#39;s a very simple<span style="s3"> technique</span> go out and</p>
+<p begin="00:01:57.570" end="00:02:02.430" style="s2">talk to people but it&#39;s a<span style="s3"> very</span> powerful</p>
+<p begin="00:02:00.360" end="00:02:04.229" style="s2">technique imagic you do one of<span style="s4"> those</span></p>
+<p begin="00:02:02.430" end="00:02:06.630" style="s2"><span style="s4">like</span> Vulcan mind melds or whatever<span style="s3"> I&#39;m</span></p>
+<p begin="00:02:04.229" end="00:02:08.640" style="s2"><span style="s3">not</span> sci-fi fan with your user group for</p>
+<p begin="00:02:06.630" end="00:02:10.590" style="s2">a few seconds<span style="s4"> and</span> you can learn exactly</p>
+<p begin="00:02:08.640" end="00:02:12.480" style="s2">what they wanted how they want it</p>
+<p begin="00:02:10.590" end="00:02:13.920" style="s2">delivered all of it that&#39;s what</p>
+<p begin="00:02:12.480" end="00:02:15.540" style="s2">listening and learning lets you do</p>
+<p begin="00:02:13.920" end="00:02:18.000" style="s2">he shut up for a few seconds<span style="s4"> and</span> listen</p>
+<p begin="00:02:15.540" end="00:02:20.550" style="s2">to your user group and understand their</p>
+<p begin="00:02:18.000" end="00:02:23.220" style="s2">concerns and understand what they want</p>
+<p begin="00:02:20.550" end="00:02:25.319" style="s2">from you and also<span style="s4"> understood</span> what led</p>
+<p begin="00:02:23.220" end="00:02:27.209" style="s2">them to this<span style="s3"> point</span> when you have that</p>
+<p begin="00:02:25.319" end="00:02:28.950" style="s2">empathy with them well then you have<span style="s3"> the</span></p>
+<p begin="00:02:27.209" end="00:02:30.900" style="s2">power<span style="s4"> to</span> create a great Civic app or</p>
+<p begin="00:02:28.950" end="00:02:33.600" style="s2">develop something<span style="s4"> that</span> they want and</p>
+<p begin="00:02:30.900" end="00:02:34.920" style="s2">that they&#39;ll<span style="s3"> actually</span> use unless you&#39;re</p>
+<p begin="00:02:33.600" end="00:02:36.600" style="s2">learning of course is one element in</p>
+<p begin="00:02:34.920" end="00:02:38.160" style="s2"><span style="s3">that</span> but<span style="s4"> something</span> that<span style="s4"> we&#39;ve</span><span style="s3"> found</span></p>
+<p begin="00:02:36.600" end="00:02:41.120" style="s2">useful I thought I&#39;d share it with you</p>
+<p begin="00:02:38.160" end="00:02:41.120" style="s2">guys<span style="s4"> thanks</span></p>
+</div>
+</body>
+</tt>

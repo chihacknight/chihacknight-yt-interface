@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.700" end="00:00:12.269" style="s2">interesting I&#39;m going<span style="s3"> to</span><span style="s4"> start</span> off by</p>
+<p begin="00:00:06.450" end="00:00:15.210" style="s2"><span style="s4">saying</span> this<span style="s4"> there&#39;s</span> been<span style="s3"> a</span> lot of talk</p>
+<p begin="00:00:12.269" end="00:00:19.109" style="s2">in<span style="s4"> this</span> race<span style="s4"> lately</span> about a lack of</p>
+<p begin="00:00:15.210" end="00:00:21.869" style="s2">minority<span style="s4"> representation and I&#39;m</span> kind of</p>
+<p begin="00:00:19.109" end="00:00:23.130" style="s2">like<span style="s4"> and I saw</span> one of<span style="s4"> the</span> one of<span style="s4"> the</span></p>
+<p begin="00:00:21.869" end="00:00:25.320" style="s2"><span style="s3">people</span> who was about<span style="s4"> to</span> jump into<span style="s4"> the</span></p>
+<p begin="00:00:23.130" end="00:00:27.029" style="s2"><span style="s4">race Kurt Summers</span> who I<span style="s3"> liked</span> he&#39;s he&#39;s</p>
+<p begin="00:00:25.320" end="00:00:31.619" style="s2">a friend<span style="s4"> mentioned</span><span style="s3"> in</span> an article</p>
+<p begin="00:00:27.029" end="00:00:34.350" style="s2"><span style="s4">recently</span> that<span style="s3"> that</span> there aren&#39;t<span style="s3"> any</span></p>
+<p begin="00:00:31.619" end="00:00:35.640" style="s2">minorities in the race<span style="s4"> and</span> I remember</p>
+<p begin="00:00:34.350" end="00:00:37.140" style="s2">reading<span style="s4"> that</span><span style="s3"> I</span> was kind of taken aback</p>
+<p begin="00:00:35.640" end="00:00:42.030" style="s2">by<span style="s3"> that</span><span style="s4"> because I like</span> the last time<span style="s4"> I</span></p>
+<p begin="00:00:37.140" end="00:00:44.280" style="s2"><span style="s4">looked</span> in the mirror<span style="s4"> I&#39;m</span><span style="s3"> brown</span><span style="s4"> I&#39;m</span> not</p>
+<p begin="00:00:42.030" end="00:00:48.300" style="s2">african-american I&#39;m not<span style="s4"> Latino</span> but<span style="s4"> the</span></p>
+<p begin="00:00:44.280" end="00:00:51.660" style="s2">reason I<span style="s4"> say</span> this<span style="s4"> is I was taken aback</span></p>
+<p begin="00:00:48.300" end="00:00:54.930" style="s2"><span style="s3">by</span> that<span style="s4"> comment because I</span> think</p>
+<p begin="00:00:51.660" end="00:00:58.559" style="s2"><span style="s3">oftentimes</span> what ends up happening with</p>
+<p begin="00:00:54.930" end="00:01:00.090" style="s2">my story<span style="s4"> is</span> that<span style="s3"> people</span> assume a that I</p>
+<p begin="00:00:58.559" end="00:01:04.199" style="s2">went<span style="s4"> to</span> Northwestern<span style="s3"> which</span> I didn&#39;t I</p>
+<p begin="00:01:00.090" end="00:01:05.970" style="s2">was on<span style="s4"> staff</span> there B that I<span style="s4"> have</span> a</p>
+<p begin="00:01:04.199" end="00:01:08.729" style="s2"><span style="s4">background</span> in technology<span style="s3"> or</span><span style="s4"> that</span> I</p>
+<p begin="00:01:05.970" end="00:01:11.310" style="s2">worked in<span style="s3"> iti</span> didn&#39;t<span style="s3"> I</span> have a background</p>
+<p begin="00:01:08.729" end="00:01:15.240" style="s2"><span style="s4">in</span> emergency<span style="s3"> management</span> and disaster</p>
+<p begin="00:01:11.310" end="00:01:17.070" style="s2"><span style="s4">planning</span><span style="s3"> see</span> that I must<span style="s4"> have</span> grown up</p>
+<p begin="00:01:15.240" end="00:01:18.930" style="s2">in some<span style="s4"> sort</span> of privileged household</p>
+<p begin="00:01:17.070" end="00:01:20.759" style="s2"><span style="s4">because</span> I see where I did go<span style="s4"> to</span> graduate</p>
+<p begin="00:01:18.930" end="00:01:22.830" style="s2">school which is<span style="s4"> University of Chicago I</span></p>
+<p begin="00:01:20.759" end="00:01:26.180" style="s2">didn&#39;t I grew up in a very blue-collar</p>
+<p begin="00:01:22.830" end="00:01:27.900" style="s2">household<span style="s3"> and</span> what ends up happening is</p>
+<p begin="00:01:26.180" end="00:01:29.700" style="s2"><span style="s4">and</span> it<span style="s3"> doesn&#39;t to be an interesting</span></p>
+<p begin="00:01:27.900" end="00:01:32.700" style="s2"><span style="s4">audience</span> to talk<span style="s3"> about</span> this<span style="s4"> for</span> the</p>
+<p begin="00:01:29.700" end="00:01:35.610" style="s2">first<span style="s3"> time</span><span style="s4"> is</span> that this<span style="s4"> model</span> minority</p>
+<p begin="00:01:32.700" end="00:01:37.860" style="s2">myth<span style="s3"> that</span> exists<span style="s3"> about</span> Asian<span style="s4"> Americans</span></p>
+<p begin="00:01:35.610" end="00:01:40.020" style="s2"><span style="s3">about</span><span style="s4"> Indians</span></p>
+<p begin="00:01:37.860" end="00:01:43.649" style="s2">South Asians Korean Japanese that</p>
+<p begin="00:01:40.020" end="00:01:46.229" style="s2">somehow<span style="s4"> everyone</span> lives a very<span style="s3"> privileged</span></p>
+<p begin="00:01:43.649" end="00:01:49.560" style="s2">life goes<span style="s4"> to</span> Ivy League<span style="s3"> schools</span><span style="s4"> and</span><span style="s3"> and</span></p>
+<p begin="00:01:46.229" end="00:01:51.210" style="s2">comes from families<span style="s4"> who</span> can provide<span style="s4"> you</span></p>
+<p begin="00:01:49.560" end="00:01:53.579" style="s2"><span style="s3">know</span> just<span style="s4"> about</span> everything<span style="s4"> they</span> need</p>
+<p begin="00:01:51.210" end="00:01:55.350" style="s2">without<span style="s4"> actually</span><span style="s3"> thinking</span> about<span style="s4"> you</span> know</p>
+<p begin="00:01:53.579" end="00:01:58.530" style="s2">one&#39;s experience and then you get your</p>
+<p begin="00:01:55.350" end="00:02:00.719" style="s2">whole experience appropriated by other</p>
+<p begin="00:01:58.530" end="00:02:02.759" style="s2">people and<span style="s3"> I think that&#39;s something</span></p>
+<p begin="00:02:00.719" end="00:02:04.560" style="s2">that&#39;s<span style="s4"> interesting something</span><span style="s3"> that</span> I&#39;ve</p>
+<p begin="00:02:02.759" end="00:02:08.099" style="s2">been thinking<span style="s3"> about</span> talking<span style="s3"> about</span> in</p>
+<p begin="00:02:04.560" end="00:02:09.599" style="s2">this race because again<span style="s3"> I&#39;m</span> the<span style="s3"> only</span></p>
+<p begin="00:02:08.099" end="00:02:11.640" style="s2"><span style="s4">minority in this race I don&#39;t</span> think that</p>
+<p begin="00:02:09.599" end="00:02:13.380" style="s2">defines<span style="s3"> me I don&#39;t get up in</span><span style="s4"> the</span> morning</p>
+<p begin="00:02:11.640" end="00:02:14.370" style="s2"><span style="s4">and think I&#39;m in Indian American</span></p>
+<p begin="00:02:13.380" end="00:02:16.350" style="s2">and that&#39;s why I&#39;m running<span style="s3"> for governor</span></p>
+<p begin="00:02:14.370" end="00:02:19.050" style="s2"><span style="s4">or</span> that&#39;s<span style="s4"> certainly not why I ran for</span></p>
+<p begin="00:02:16.350" end="00:02:22.080" style="s2"><span style="s3">alderman</span> and certainly not why I<span style="s4"> think</span> I</p>
+<p begin="00:02:19.050" end="00:02:24.450" style="s2">won in<span style="s4"> the</span> 47th<span style="s3"> Ward</span> given that<span style="s3"> 90%</span> plus</p>
+<p begin="00:02:22.080" end="00:02:25.980" style="s2">of the Ward<span style="s4"> that</span> I represent doesn&#39;t</p>
+<p begin="00:02:24.450" end="00:02:29.280" style="s2">look like me</p>
+<p begin="00:02:25.980" end="00:02:33.960" style="s2">so anyways I<span style="s4"> thought of I kick off by</span></p>
+<p begin="00:02:29.280" end="00:02:36.570" style="s2">saying that<span style="s3"> because</span> I often<span style="s4"> don&#39;t get to</span></p>
+<p begin="00:02:33.960" end="00:02:37.770" style="s2">tell<span style="s3"> people</span><span style="s4"> about</span> my<span style="s4"> actual</span> story<span style="s3"> and</span></p>
+<p begin="00:02:36.570" end="00:02:40.530" style="s2">I&#39;m not really good at<span style="s3"> talking about</span></p>
+<p begin="00:02:37.770" end="00:02:42.870" style="s2"><span style="s3">myself I&#39;m good at</span><span style="s4"> talking about my</span></p>
+<p begin="00:02:40.530" end="00:02:44.670" style="s2">politics<span style="s4"> but</span> I&#39;m<span style="s4"> not</span> really good at</p>
+<p begin="00:02:42.870" end="00:02:45.540" style="s2"><span style="s3">opening</span> up<span style="s3"> of</span> my<span style="s4"> own</span> personal<span style="s4"> life</span> it&#39;s</p>
+<p begin="00:02:44.670" end="00:02:48.810" style="s2">something<span style="s3"> that</span> I&#39;ve<span style="s3"> always</span> struggled</p>
+<p begin="00:02:45.540" end="00:02:50.850" style="s2"><span style="s4">with but I</span> wanted<span style="s3"> to</span><span style="s4"> share</span> that<span style="s4"> with</span><span style="s3"> you</span></p>
+<p begin="00:02:48.810" end="00:02:54.360" style="s2">tonight<span style="s4"> because</span> I am talking<span style="s4"> in</span> front<span style="s4"> a</span></p>
+<p begin="00:02:50.850" end="00:02:55.530" style="s2">very tech-savvy crowd<span style="s3"> and</span> I have to</p>
+<p begin="00:02:54.360" end="00:02:58.500" style="s2">admit<span style="s3"> to you that</span> I&#39;m not<span style="s3"> a</span> tech person</p>
+<p begin="00:02:55.530" end="00:03:03.540" style="s2">so<span style="s4"> I</span> am good at recommending the reboot</p>
+<p begin="00:02:58.500" end="00:03:05.790" style="s2"><span style="s3">any time something</span><span style="s4"> goes</span> wrong but one</p>
+<p begin="00:03:03.540" end="00:03:09.000" style="s2">thing I<span style="s4"> did</span> do<span style="s4"> when</span> I was<span style="s4"> running for</span></p>
+<p begin="00:03:05.790" end="00:03:14.480" style="s2">office<span style="s4"> as</span> we were trying<span style="s4"> to</span> distinguish</p>
+<p begin="00:03:09.000" end="00:03:17.910" style="s2">ourselves in the race and in 2011<span style="s3"> and</span></p>
+<p begin="00:03:14.480" end="00:03:19.890" style="s2">make some news<span style="s4"> but</span> also<span style="s3"> do</span> some<span style="s4"> good</span> was</p>
+<p begin="00:03:17.910" end="00:03:22.260" style="s2">so my background is in disaster planning</p>
+<p begin="00:03:19.890" end="00:03:24.360" style="s2"><span style="s4">and</span> the connection<span style="s4"> between</span> disasters and</p>
+<p begin="00:03:22.260" end="00:03:27.080" style="s2"><span style="s4">poverty and some of the work and the</span></p>
+<p begin="00:03:24.360" end="00:03:32.430" style="s2">research<span style="s3"> that</span> I did looked at how</p>
+<p begin="00:03:27.080" end="00:03:35.580" style="s2">various trends<span style="s3"> data</span> points<span style="s3"> qualitative</span></p>
+<p begin="00:03:32.430" end="00:03:38.160" style="s2">and quantitative emerged during<span style="s4"> an</span> after</p>
+<p begin="00:03:35.580" end="00:03:40.800" style="s2">disaster and yet no one<span style="s3"> seems</span> to<span style="s4"> take</span></p>
+<p begin="00:03:38.160" end="00:03:43.200" style="s2">those<span style="s4"> things</span><span style="s3"> into</span> account<span style="s3"> when</span> during</p>
+<p begin="00:03:40.800" end="00:03:44.550" style="s2">response and recovery<span style="s4"> so</span> for me</p>
+<p begin="00:03:43.200" end="00:03:47.240" style="s2">Hurricane<span style="s4"> Katrina</span></p>
+<p begin="00:03:44.550" end="00:03:50.820" style="s2">changed the trajectory of my<span style="s3"> life</span></p>
+<p begin="00:03:47.240" end="00:03:53.130" style="s2"><span style="s4">because</span><span style="s3"> I was thinking</span><span style="s4"> about</span> what I was</p>
+<p begin="00:03:50.820" end="00:03:54.960" style="s2">going<span style="s3"> to</span> do in graduate school who I</p>
+<p begin="00:03:53.130" end="00:04:01.410" style="s2">wanted<span style="s4"> to</span><span style="s3"> be</span><span style="s4"> what</span> I wanted to end<span style="s4"> up</span></p>
+<p begin="00:03:54.960" end="00:04:04.770" style="s2"><span style="s4">doing</span> and I was watching<span style="s4"> politicians get</span></p>
+<p begin="00:04:01.410" end="00:04:07.470" style="s2">on<span style="s3"> TV</span> during<span style="s3"> and</span><span style="s4"> after</span> the response and</p>
+<p begin="00:04:04.770" end="00:04:09.990" style="s2"><span style="s3">recovery to Katrina and blame poor</span></p>
+<p begin="00:04:07.470" end="00:04:14.010" style="s2">people for<span style="s4"> poverty</span> without<span style="s3"> thinking</span> that</p>
+<p begin="00:04:09.990" end="00:04:18.030" style="s2">if for example<span style="s4"> if</span> you&#39;re asking someone</p>
+<p begin="00:04:14.010" end="00:04:20.790" style="s2"><span style="s3">to</span> evacuate at a moment&#39;s notice<span style="s4"> that</span></p>
+<p begin="00:04:18.030" end="00:04:23.280" style="s2">perhaps<span style="s4"> having</span> access to<span style="s3"> traditional</span></p>
+<p begin="00:04:20.790" end="00:04:25.440" style="s2">financial instruments might be<span style="s3"> necessary</span></p>
+<p begin="00:04:23.280" end="00:04:26.970" style="s2"><span style="s4">right</span> that you know<span style="s4"> if</span> you need<span style="s4"> to</span> get a</p>
+<p begin="00:04:25.440" end="00:04:27.210" style="s2">hotel room<span style="s3"> somewhere</span> you need<span style="s4"> a credit</span></p>
+<p begin="00:04:26.970" end="00:04:28.800" style="s2"><span style="s4">card</span></p>
+<p begin="00:04:27.210" end="00:04:31.050" style="s2"><span style="s4">you</span> need to get on a plane<span style="s4"> and</span> you don&#39;t</p>
+<p begin="00:04:28.800" end="00:04:32.610" style="s2">have a checking<span style="s3"> account</span> that<span style="s4"> could</span> be a</p>
+<p begin="00:04:31.050" end="00:04:34.470" style="s2">problem<span style="s3"> same</span> thing with the rental car</p>
+<p begin="00:04:32.610" end="00:04:37.949" style="s2"><span style="s4">or</span><span style="s3"> that if</span><span style="s4"> you</span> rely<span style="s4"> on</span> a<span style="s4"> currency</span></p>
+<p begin="00:04:34.470" end="00:04:39.139" style="s2">exchange<span style="s3"> to</span><span style="s4"> cash</span><span style="s3"> your</span> checks<span style="s3"> that</span> means</p>
+<p begin="00:04:37.949" end="00:04:42.479" style="s2">you may not have<span style="s4"> access to traditional</span></p>
+<p begin="00:04:39.139" end="00:04:44.509" style="s2"><span style="s4">financial institutions and so all</span><span style="s3"> of</span></p>
+<p begin="00:04:42.479" end="00:04:47.130" style="s2">these things combined<span style="s4"> that&#39;s</span> just on</p>
+<p begin="00:04:44.509" end="00:04:48.419" style="s2">evacuation but there are a<span style="s4"> lot</span> of things</p>
+<p begin="00:04:47.130" end="00:04:50.699" style="s2"><span style="s4">that</span> happen in<span style="s3"> communities</span> the day to</p>
+<p begin="00:04:48.419" end="00:04:52.199" style="s2">day disasters that impact people<span style="s4"> and</span> one</p>
+<p begin="00:04:50.699" end="00:04:54.419" style="s2">thing that<span style="s3"> I</span> always talk<span style="s3"> about</span> is if</p>
+<p begin="00:04:52.199" end="00:04:57.030" style="s2">you&#39;re poor<span style="s3"> you</span><span style="s4"> often have to</span> be rich</p>
+<p begin="00:04:54.419" end="00:04:59.910" style="s2"><span style="s3">meaning</span> being poor<span style="s3"> cost</span><span style="s4"> a</span> lot of<span style="s4"> money</span></p>
+<p begin="00:04:57.030" end="00:05:01.770" style="s2"><span style="s4">you</span> don&#39;t<span style="s3"> have access to</span> fresh food you</p>
+<p begin="00:04:59.910" end="00:05:04.080" style="s2">don&#39;t<span style="s3"> normally</span><span style="s4"> have</span> access to<span style="s4"> mass</span></p>
+<p begin="00:05:01.770" end="00:05:05.849" style="s2">transit<span style="s3"> you</span> don&#39;t have<span style="s4"> access</span> to<span style="s4"> the</span></p>
+<p begin="00:05:04.080" end="00:05:07.889" style="s2">same kinds of resource say for example</p>
+<p begin="00:05:05.849" end="00:05:10.889" style="s2"><span style="s3">then</span> my community<span style="s3"> that</span> I represent<span style="s3"> has</span></p>
+<p begin="00:05:07.889" end="00:05:12.300" style="s2">access to<span style="s4"> and</span> so these things<span style="s4"> these</span></p>
+<p begin="00:05:10.889" end="00:05:14.070" style="s2">trends exist</p>
+<p begin="00:05:12.300" end="00:05:17.880" style="s2">they&#39;re called what we call pre-existing</p>
+<p begin="00:05:14.070" end="00:05:19.860" style="s2">conditions<span style="s4"> in</span> disaster<span style="s4"> preparation</span> and</p>
+<p begin="00:05:17.880" end="00:05:21.750" style="s2">disaster management<span style="s3"> emergency</span><span style="s4"> management</span></p>
+<p begin="00:05:19.860" end="00:05:23.820" style="s2">and yet every time<span style="s4"> something goes wrong</span></p>
+<p begin="00:05:21.750" end="00:05:25.889" style="s2">with disaster everyone throws<span style="s3"> our</span> hands</p>
+<p begin="00:05:23.820" end="00:05:27.300" style="s2">up and says<span style="s4"> well</span> this<span style="s4"> is not our job</span><span style="s3"> our</span></p>
+<p begin="00:05:25.889" end="00:05:30.180" style="s2">job<span style="s3"> isn&#39;t</span> to worry about social problems</p>
+<p begin="00:05:27.300" end="00:05:31.820" style="s2"><span style="s3">or</span> solve them or do<span style="s3"> anything</span><span style="s4"> about it</span></p>
+<p begin="00:05:30.180" end="00:05:35.520" style="s2"><span style="s4">and so when I was running for office</span></p>
+<p begin="00:05:31.820" end="00:05:37.409" style="s2"><span style="s4">that</span> was part of<span style="s3"> my</span> original<span style="s4"> campaign</span></p>
+<p begin="00:05:35.520" end="00:05:39.570" style="s2">which is there are all these<span style="s4"> things</span><span style="s3"> that</span></p>
+<p begin="00:05:37.409" end="00:05:41.250" style="s2"><span style="s3">make</span><span style="s4"> communities</span> resilient<span style="s4"> there</span> are all</p>
+<p begin="00:05:39.570" end="00:05:43.560" style="s2">these factors<span style="s3"> that</span> make them less</p>
+<p begin="00:05:41.250" end="00:05:46.650" style="s2"><span style="s4">resilient or make it hard for</span><span style="s3"> people to</span></p>
+<p begin="00:05:43.560" end="00:05:48.030" style="s2">get by let alone get ahead<span style="s3"> and</span> what can</p>
+<p begin="00:05:46.650" end="00:05:50.580" style="s2">we do as part of an old romantic</p>
+<p begin="00:05:48.030" end="00:05:52.560" style="s2">campaign<span style="s4"> at</span> a very hyper<span style="s3"> local</span> level</p>
+<p begin="00:05:50.580" end="00:05:54.599" style="s2">make it easier for<span style="s4"> people to connect</span></p>
+<p begin="00:05:52.560" end="00:05:57.270" style="s2">with<span style="s4"> their</span> government<span style="s4"> my</span> name is 2010</p>
+<p begin="00:05:54.599" end="00:06:01.500" style="s2"><span style="s3">and so the first version</span> of Chicago</p>
+<p begin="00:05:57.270" end="00:06:03.840" style="s2"><span style="s3">Works</span> was really bad<span style="s3"> although no</span><span style="s4"> one</span></p>
+<p begin="00:06:01.500" end="00:06:05.210" style="s2">else<span style="s4"> was doing</span><span style="s3"> anything</span> like it<span style="s3"> so</span> we</p>
+<p begin="00:06:03.840" end="00:06:08.789" style="s2"><span style="s4">thought it would</span> be<span style="s3"> really</span><span style="s4"> interesting</span></p>
+<p begin="00:06:05.210" end="00:06:10.620" style="s2"><span style="s3">what</span> we thought was<span style="s4"> okay</span><span style="s3"> there&#39;s</span> Google</p>
+<p begin="00:06:08.789" end="00:06:14.400" style="s2">Maps<span style="s4"> we</span> know people<span style="s4"> make</span> service</p>
+<p begin="00:06:10.620" end="00:06:17.280" style="s2">requests<span style="s4"> and is anyone connecting trends</span></p>
+<p begin="00:06:14.400" end="00:06:18.810" style="s2"><span style="s3">related</span> to service requests and is there</p>
+<p begin="00:06:17.280" end="00:06:21.750" style="s2">a way that<span style="s4"> you can connect service</span></p>
+<p begin="00:06:18.810" end="00:06:23.520" style="s2">requests to the Chicago&#39;s<span style="s3"> 3-1-1</span> system</p>
+<p begin="00:06:21.750" end="00:06:25.169" style="s2"><span style="s4">and</span> doing<span style="s3"> away</span> without<span style="s4"> having</span><span style="s3"> to</span><span style="s4"> pick</span><span style="s3"> up</span></p>
+<p begin="00:06:23.520" end="00:06:27.449" style="s2"><span style="s4">the</span> phone<span style="s4"> and</span> call your<span style="s3"> aldrin</span> get</p>
+<p begin="00:06:25.169" end="00:06:29.280" style="s2">involved in the local necessarily feel</p>
+<p begin="00:06:27.449" end="00:06:32.610" style="s2">like<span style="s3"> you</span> have to<span style="s3"> ask</span> your<span style="s3"> alderman</span> for</p>
+<p begin="00:06:29.280" end="00:06:33.990" style="s2">something or get around calling<span style="s3"> 3-1-1</span></p>
+<p begin="00:06:32.610" end="00:06:37.349" style="s2"><span style="s4">now</span> I know a lot<span style="s3"> of</span> these things<span style="s4"> have</span></p>
+<p begin="00:06:33.990" end="00:06:39.270" style="s2"><span style="s4">evolved</span> and<span style="s4"> I</span> think we&#39;re in<span style="s3"> a</span> totally</p>
+<p begin="00:06:37.349" end="00:06:41.150" style="s2"><span style="s3">different</span> place we have the<span style="s3"> O</span> that open</p>
+<p begin="00:06:39.270" end="00:06:43.550" style="s2">data portal lots of people building<span style="s4"> apps</span></p>
+<p begin="00:06:41.150" end="00:06:48.200" style="s2">around<span style="s4"> connecting with 3-1-1</span> the city</p>
+<p begin="00:06:43.550" end="00:06:51.410" style="s2"><span style="s4">today</span> is looking<span style="s4"> at</span> purchasing a new</p>
+<p begin="00:06:48.200" end="00:06:54.920" style="s2"><span style="s3">3-1-1</span> system to<span style="s4"> move</span> away<span style="s3"> from</span><span style="s4"> our</span> old</p>
+<p begin="00:06:51.410" end="00:06:57.110" style="s2">motorola<span style="s4"> legacy</span> system<span style="s3"> so</span> that it<span style="s4"> is</span></p>
+<p begin="00:06:54.920" end="00:06:58.790" style="s2">more<span style="s4"> interactive</span> it&#39;s easier to use<span style="s4"> but</span></p>
+<p begin="00:06:57.110" end="00:07:02.260" style="s2">one<span style="s3"> of</span> the things that we worked on<span style="s4"> in</span></p>
+<p begin="00:06:58.790" end="00:07:06.230" style="s2">2010 was how do we use<span style="s4"> Google</span><span style="s3"> Maps</span><span style="s4"> and</span></p>
+<p begin="00:07:02.260" end="00:07:09.650" style="s2">cameras on phones to take pictures<span style="s3"> of</span> a</p>
+<p begin="00:07:06.230" end="00:07:12.050" style="s2">service request link it to where it is</p>
+<p begin="00:07:09.650" end="00:07:13.760" style="s2"><span style="s3">on Google</span><span style="s4"> Maps</span><span style="s3"> and</span> then connect that<span style="s3"> to</span></p>
+<p begin="00:07:12.050" end="00:07:15.950" style="s2"><span style="s4">the</span> Alderman&#39;s office<span style="s4"> because</span> we<span style="s3"> didn&#39;t</span></p>
+<p begin="00:07:13.760" end="00:07:17.570" style="s2"><span style="s3">have</span><span style="s4"> the</span><span style="s3"> ability</span> at that time and<span style="s4"> I&#39;m</span> to</p>
+<p begin="00:07:15.950" end="00:07:20.240" style="s2">connect with the<span style="s3"> three-on-one</span><span style="s4"> system</span> and</p>
+<p begin="00:07:17.570" end="00:07:23.030" style="s2">so we<span style="s4"> launched</span> a very rudimentary<span style="s4"> app</span></p>
+<p begin="00:07:20.240" end="00:07:27.200" style="s2">called Chicago<span style="s4"> works which got picked up</span></p>
+<p begin="00:07:23.030" end="00:07:29.390" style="s2">by a couple outlets<span style="s4"> and</span> helped us<span style="s4"> talk</span></p>
+<p begin="00:07:27.200" end="00:07:32.420" style="s2"><span style="s3">about</span> making government smarter and</p>
+<p begin="00:07:29.390" end="00:07:37.940" style="s2">removing politics from service delivery</p>
+<p begin="00:07:32.420" end="00:07:39.830" style="s2"><span style="s4">etc</span> so if to the<span style="s3"> extent</span> that I<span style="s4"> am that</span></p>
+<p begin="00:07:37.940" end="00:07:44.150" style="s2">you think I&#39;m tech savvy<span style="s4"> this</span> is this<span style="s4"> is</span></p>
+<p begin="00:07:39.830" end="00:07:47.240" style="s2">it<span style="s3"> and</span> it&#39;s and<span style="s4"> it&#39;s</span> a friend of<span style="s4"> mine</span></p>
+<p begin="00:07:44.150" end="00:07:50.210" style="s2">who developed it<span style="s3"> it&#39;s</span> still<span style="s3"> available I</span></p>
+<p begin="00:07:47.240" end="00:07:51.920" style="s2">think<span style="s3"> people</span> are<span style="s4"> still using it</span><span style="s3"> I</span> think</p>
+<p begin="00:07:50.210" end="00:07:53.180" style="s2">it&#39;s still<span style="s4"> pretty</span> cool<span style="s4"> and</span> I know there</p>
+<p begin="00:07:51.920" end="00:07:56.210" style="s2">are lots<span style="s3"> of</span> other kinds<span style="s3"> of</span> apps like</p>
+<p begin="00:07:53.180" end="00:07:58.760" style="s2"><span style="s4">this</span><span style="s3"> but</span> I<span style="s4"> think</span> what&#39;s interesting<span style="s4"> is</span></p>
+<p begin="00:07:56.210" end="00:08:00.920" style="s2">one<span style="s4"> it solves problems it&#39;s</span> efficient it</p>
+<p begin="00:07:58.760" end="00:08:02.750" style="s2">provides<span style="s4"> data</span> it&#39;s transparent<span style="s3"> I</span> think</p>
+<p begin="00:08:00.920" end="00:08:04.870" style="s2">it was an innovation at the<span style="s4"> time</span> and</p>
+<p begin="00:08:02.750" end="00:08:08.030" style="s2">certainly<span style="s4"> while</span><span style="s3"> they were SeeClickFix</span></p>
+<p begin="00:08:04.870" end="00:08:10.130" style="s2">was available<span style="s3"> I</span><span style="s4"> think</span> we were<span style="s4"> the first</span></p>
+<p begin="00:08:08.030" end="00:08:13.790" style="s2">campaign to actually launch an app a</p>
+<p begin="00:08:10.130" end="00:08:15.800" style="s2"><span style="s4">smartphone app</span><span style="s3"> and</span><span style="s4"> this</span> was in late 2010</p>
+<p begin="00:08:13.790" end="00:08:18.770" style="s2"><span style="s3">so</span> I think<span style="s4"> it</span> was<span style="s4"> an</span> innovation at the</p>
+<p begin="00:08:15.800" end="00:08:20.210" style="s2"><span style="s4">time</span><span style="s3"> but</span> I can&#39;t take all<span style="s4"> the</span> credit<span style="s3"> for</span></p>
+<p begin="00:08:18.770" end="00:08:21.800" style="s2">because<span style="s3"> it</span> was<span style="s4"> just</span> I said<span style="s4"> hey</span> we should</p>
+<p begin="00:08:20.210" end="00:08:23.300" style="s2">do<span style="s4"> this and my friend</span><span style="s3"> said</span> I know how to</p>
+<p begin="00:08:21.800" end="00:08:30.680" style="s2">do it and<span style="s4"> that was the</span><span style="s3"> extent</span> of<span style="s4"> my</span></p>
+<p begin="00:08:23.300" end="00:08:32.960" style="s2">project<span style="s4"> management</span><span style="s3"> what&#39;s</span> interesting</p>
+<p begin="00:08:30.680" end="00:08:34.820" style="s2">about government<span style="s4"> and</span> open<span style="s4"> data</span> right<span style="s3"> now</span></p>
+<p begin="00:08:32.960" end="00:08:37.070" style="s2">is there&#39;s I<span style="s3"> think</span><span style="s4"> there&#39;s</span> some really</p>
+<p begin="00:08:34.820" end="00:08:39.020" style="s2"><span style="s4">cool</span> things<span style="s4"> happening in California</span><span style="s3"> with</span></p>
+<p begin="00:08:37.070" end="00:08:40.400" style="s2">people being able to<span style="s3"> access</span> services<span style="s3"> New</span></p>
+<p begin="00:08:39.020" end="00:08:42.170" style="s2"><span style="s3">York&#39;s</span> doing some great things<span style="s3"> in</span> open</p>
+<p begin="00:08:40.400" end="00:08:43.040" style="s2">data<span style="s3"> I</span> think the state<span style="s3"> of</span> Illinois is as</p>
+<p begin="00:08:42.170" end="00:08:47.360" style="s2">well</p>
+<p begin="00:08:43.040" end="00:08:49.990" style="s2">I&#39;ll give<span style="s4"> governor</span> rauner a credit<span style="s4"> not</span></p>
+<p begin="00:08:47.360" end="00:08:51.910" style="s2">on a lot<span style="s3"> of</span> things but</p>
+<p begin="00:08:49.990" end="00:08:53.800" style="s2">but<span style="s4"> I&#39;m</span> do it on the<span style="s3"> Department</span> of</p>
+<p begin="00:08:51.910" end="00:08:55.060" style="s2"><span style="s4">Information</span><span style="s3"> and Technology</span><span style="s4"> that&#39;s</span> not</p>
+<p begin="00:08:53.800" end="00:08:57.910" style="s2">the<span style="s4"> idea</span> of bringing<span style="s4"> people together</span></p>
+<p begin="00:08:55.060" end="00:08:59.950" style="s2"><span style="s4">creating</span> one consolidated<span style="s4"> department</span> but</p>
+<p begin="00:08:57.910" end="00:09:02.530" style="s2"><span style="s4">also</span> making<span style="s4"> data</span> available<span style="s3"> I</span> think<span style="s3"> he&#39;s</span></p>
+<p begin="00:08:59.950" end="00:09:05.260" style="s2">done a good job<span style="s4"> on</span> that<span style="s3"> other</span> states</p>
+<p begin="00:09:02.530" end="00:09:07.510" style="s2">have<span style="s3"> done</span><span style="s4"> a</span> pretty good job and you can</p>
+<p begin="00:09:05.260" end="00:09:11.110" style="s2">see that<span style="s4"> this</span> is you know<span style="s4"> useful monitor</span></p>
+<p begin="00:09:07.510" end="00:09:13.000" style="s2">modernizes<span style="s4"> our</span> state infrastructure</p>
+<p begin="00:09:11.110" end="00:09:14.500" style="s2">it helps<span style="s3"> update</span> systems that sort of</p>
+<p begin="00:09:13.000" end="00:09:18.670" style="s2">thing<span style="s4"> I</span> don&#39;t<span style="s3"> want to bore</span> you<span style="s3"> with</span><span style="s4"> that</span></p>
+<p begin="00:09:14.500" end="00:09:20.650" style="s2">what I am interested<span style="s4"> in</span> in technology</p>
+<p begin="00:09:18.670" end="00:09:24.430" style="s2">and in<span style="s4"> government</span> and sort<span style="s4"> of</span> the</p>
+<p begin="00:09:20.650" end="00:09:26.530" style="s2">interplay between the<span style="s3"> two is I see a lot</span></p>
+<p begin="00:09:24.430" end="00:09:28.540" style="s2">of automation coming to various</p>
+<p begin="00:09:26.530" end="00:09:31.360" style="s2"><span style="s4">industries</span> and one<span style="s4"> of</span> the things I talk</p>
+<p begin="00:09:28.540" end="00:09:34.510" style="s2"><span style="s3">about</span> on the stump<span style="s4"> is</span> automation</p>
+<p begin="00:09:31.360" end="00:09:37.120" style="s2"><span style="s4">two-trucking is anyone working</span> on that</p>
+<p begin="00:09:34.510" end="00:09:39.520" style="s2"><span style="s3">technology</span> on<span style="s4"> the</span> mapping<span style="s4"> or</span> automating</p>
+<p begin="00:09:37.120" end="00:09:42.820" style="s2">trucks or self-driving cars anyone in</p>
+<p begin="00:09:39.520" end="00:09:44.670" style="s2"><span style="s4">here okay</span><span style="s3"> no</span><span style="s4"> all</span> right<span style="s4"> maybe</span> it&#39;s a</p>
+<p begin="00:09:42.820" end="00:09:47.590" style="s2">secret<span style="s4"> I</span> don&#39;t<span style="s3"> know</span></p>
+<p begin="00:09:44.670" end="00:09:48.520" style="s2">but what<span style="s4"> worries</span> me<span style="s3"> is</span> like so there&#39;s</p>
+<p begin="00:09:47.590" end="00:09:49.780" style="s2">some cool<span style="s3"> things</span> that<span style="s4"> I</span> think<span style="s4"> there&#39;s</span></p>
+<p begin="00:09:48.520" end="00:09:51.670" style="s2">going<span style="s4"> to</span> happen with self-driving cars</p>
+<p begin="00:09:49.780" end="00:09:54.100" style="s2">right I<span style="s4"> think we&#39;ll be able to</span> build</p>
+<p begin="00:09:51.670" end="00:09:55.900" style="s2"><span style="s4">more</span> affordable<span style="s4"> housing</span><span style="s3"> and</span> stop<span style="s4"> having</span></p>
+<p begin="00:09:54.100" end="00:09:59.640" style="s2">this broken conversation at the local</p>
+<p begin="00:09:55.900" end="00:10:02.530" style="s2">level<span style="s3"> about</span> building neighborhoods<span style="s4"> and</span></p>
+<p begin="00:09:59.640" end="00:10:05.410" style="s2">communities around machines instead of</p>
+<p begin="00:10:02.530" end="00:10:06.790" style="s2"><span style="s4">people</span><span style="s3"> and</span> I<span style="s4"> think</span> we&#39;re going<span style="s4"> to be</span></p>
+<p begin="00:10:05.410" end="00:10:09.580" style="s2">able<span style="s4"> to</span> get<span style="s3"> away</span> from<span style="s4"> that</span> in the<span style="s4"> next</span></p>
+<p begin="00:10:06.790" end="00:10:11.890" style="s2"><span style="s3">seven to ten years on the other side</span><span style="s4"> of</span></p>
+<p begin="00:10:09.580" end="00:10:14.920" style="s2">it what worries me<span style="s4"> with</span> self-driving</p>
+<p begin="00:10:11.890" end="00:10:17.680" style="s2"><span style="s3">cars</span> or self-driving trucks<span style="s3"> because</span> as</p>
+<p begin="00:10:14.920" end="00:10:20.260" style="s2">we go around<span style="s4"> the</span><span style="s3"> state and talk to</span></p>
+<p begin="00:10:17.680" end="00:10:23.100" style="s2">people<span style="s4"> in communities that have</span><span style="s3"> been</span></p>
+<p begin="00:10:20.260" end="00:10:25.390" style="s2"><span style="s3">left</span> behind<span style="s3"> white</span> black and<span style="s4"> brown</span></p>
+<p begin="00:10:23.100" end="00:10:28.180" style="s2">there&#39;s sort of this consistent theme</p>
+<p begin="00:10:25.390" end="00:10:30.160" style="s2">and I&#39;ll give you one example<span style="s4"> we</span> were in</p>
+<p begin="00:10:28.180" end="00:10:32.650" style="s2">Jasper County<span style="s4"> about</span><span style="s3"> a</span> month month ago is</p>
+<p begin="00:10:30.160" end="00:10:37.720" style="s2">anyone<span style="s4"> from</span> Jasper County<span style="s4"> Newton</span> or</p>
+<p begin="00:10:32.650" end="00:10:41.620" style="s2">Olney near Charleston<span style="s3"> ok we were</span><span style="s4"> driving</span></p>
+<p begin="00:10:37.720" end="00:10:43.600" style="s2">through<span style="s4"> town</span><span style="s3"> with</span> our<span style="s4"> guide</span> and we drove</p>
+<p begin="00:10:41.620" end="00:10:46.780" style="s2">past this factory<span style="s3"> that</span> was<span style="s4"> like</span> three</p>
+<p begin="00:10:43.600" end="00:10:48.700" style="s2">blocks<span style="s4"> long and you know look</span> like it</p>
+<p begin="00:10:46.780" end="00:10:50.860" style="s2">was you know<span style="s4"> doing</span> well and<span style="s3"> there</span> let</p>
+<p begin="00:10:48.700" end="00:10:56.050" style="s2">employed a lot of<span style="s3"> people</span><span style="s4"> so</span> the back</p>
+<p begin="00:10:50.860" end="00:10:58.900" style="s2">story<span style="s4"> is</span><span style="s3"> that</span> is where Roadmaster they</p>
+<p begin="00:10:56.050" end="00:11:00.610" style="s2">manufacture bikes<span style="s4"> they</span> still have<span style="s4"> some</span></p>
+<p begin="00:10:58.900" end="00:11:03.320" style="s2">operations there but about<span style="s4"> 20</span> years ago</p>
+<p begin="00:11:00.610" end="00:11:07.670" style="s2"><span style="s4">there</span> were a thousand people</p>
+<p begin="00:11:03.320" end="00:11:11.000" style="s2">that plant<span style="s3"> there</span> are<span style="s4"> 50</span> there today so</p>
+<p begin="00:11:07.670" end="00:11:13.130" style="s2"><span style="s4">some</span><span style="s3"> of</span><span style="s4"> those jobs are</span> automated<span style="s4"> and</span> a</p>
+<p begin="00:11:11.000" end="00:11:15.530" style="s2">lot<span style="s3"> of</span> them a big chunk of<span style="s4"> them</span> when</p>
+<p begin="00:11:13.130" end="00:11:17.630" style="s2"><span style="s4">south of the border after NAFTA</span><span style="s3"> but</span></p>
+<p begin="00:11:15.530" end="00:11:21.920" style="s2">that&#39;s not the whole<span style="s3"> story</span> when<span style="s3"> we talk</span></p>
+<p begin="00:11:17.630" end="00:11:23.450" style="s2"><span style="s3">to</span> corn and soy<span style="s4"> farmers</span> not<span style="s4"> just</span> in</p>
+<p begin="00:11:21.920" end="00:11:25.400" style="s2">Jasper<span style="s3"> County</span> Borough around the state</p>
+<p begin="00:11:23.450" end="00:11:26.810" style="s2">what they&#39;ll tell you<span style="s4"> is they love NAFTA</span></p>
+<p begin="00:11:25.400" end="00:11:31.280" style="s2">because now they have<span style="s4"> increased</span> market</p>
+<p begin="00:11:26.810" end="00:11:34.250" style="s2"><span style="s3">access</span> to sell soy and corn<span style="s4"> the</span> mistake</p>
+<p begin="00:11:31.280" end="00:11:36.200" style="s2">in Jasper<span style="s3"> County</span> and in communities all</p>
+<p begin="00:11:34.250" end="00:11:38.390" style="s2"><span style="s4">over the state</span><span style="s3"> including</span> communities in</p>
+<p begin="00:11:36.200" end="00:11:40.790" style="s2">the city<span style="s3"> was</span> that when those jobs left</p>
+<p begin="00:11:38.390" end="00:11:42.200" style="s2"><span style="s3">or</span> were automated there were promises</p>
+<p begin="00:11:40.790" end="00:11:45.440" style="s2"><span style="s3">that</span> were made to<span style="s3"> people</span> in those</p>
+<p begin="00:11:42.200" end="00:11:49.010" style="s2"><span style="s3">communities</span> about investment about</p>
+<p begin="00:11:45.440" end="00:11:52.310" style="s2">training<span style="s4"> and</span> then a<span style="s4"> solid</span> middle-class</p>
+<p begin="00:11:49.010" end="00:11:56.420" style="s2"><span style="s4">job</span> not a job that<span style="s3"> was</span> automated<span style="s3"> that</span></p>
+<p begin="00:11:52.310" end="00:11:59.240" style="s2">paid a living wage that<span style="s3"> then</span> they had a</p>
+<p begin="00:11:56.420" end="00:12:00.860" style="s2">minimum wage or slightly above minimum</p>
+<p begin="00:11:59.240" end="00:12:03.320" style="s2">wage<span style="s3"> getting</span> job<span style="s4"> in</span> the<span style="s4"> service</span> sector</p>
+<p begin="00:12:00.860" end="00:12:05.930" style="s2">without<span style="s4"> any</span> real benefits<span style="s4"> a</span> job that</p>
+<p begin="00:12:03.320" end="00:12:08.120" style="s2">once paid benefits<span style="s3"> and</span> a solid wage was</p>
+<p begin="00:12:05.930" end="00:12:12.050" style="s2">replaced with<span style="s3"> a</span> lower wage job with low</p>
+<p begin="00:12:08.120" end="00:12:16.100" style="s2">benefits or no benefits that is not a</p>
+<p begin="00:12:12.050" end="00:12:17.660" style="s2">good way<span style="s3"> to</span> sell people on any sort<span style="s3"> of</span></p>
+<p begin="00:12:16.100" end="00:12:21.080" style="s2">trade deal that&#39;s certainly<span style="s4"> not</span> any way</p>
+<p begin="00:12:17.660" end="00:12:23.750" style="s2">to lift all communities but<span style="s4"> this</span> is a</p>
+<p begin="00:12:21.080" end="00:12:25.880" style="s2">story that&#39;s<span style="s3"> been</span><span style="s4"> repeated</span> over and<span style="s4"> over</span></p>
+<p begin="00:12:23.750" end="00:12:28.550" style="s2">and over<span style="s4"> across</span> this state<span style="s4"> and</span> across</p>
+<p begin="00:12:25.880" end="00:12:29.930" style="s2"><span style="s4">our</span> country<span style="s4"> so</span> if you imagine<span style="s4"> where</span></p>
+<p begin="00:12:28.550" end="00:12:31.490" style="s2">those<span style="s4"> folks</span> who are<span style="s4"> twenty-five</span><span style="s3"> years</span></p>
+<p begin="00:12:29.930" end="00:12:34.130" style="s2">ago<span style="s4"> when</span> they<span style="s4"> lost</span> their jobs and<span style="s3"> their</span></p>
+<p begin="00:12:31.490" end="00:12:36.050" style="s2"><span style="s4">promised</span> investment and here as a</p>
+<p begin="00:12:34.130" end="00:12:38.720" style="s2">Democratic candidate<span style="s4"> for governor</span><span style="s3"> I</span> go</p>
+<p begin="00:12:36.050" end="00:12:40.280" style="s2"><span style="s4">visit</span> them today<span style="s3"> I</span> need to go talk<span style="s3"> to</span></p>
+<p begin="00:12:38.720" end="00:12:42.560" style="s2">the same people that were<span style="s4"> promised about</span></p>
+<p begin="00:12:40.280" end="00:12:44.540" style="s2">investment about<span style="s4"> a</span><span style="s3"> generation</span> ago or</p>
+<p begin="00:12:42.560" end="00:12:46.880" style="s2">making solid wages of generation ago who</p>
+<p begin="00:12:44.540" end="00:12:48.650" style="s2">are making<span style="s3"> less</span><span style="s4"> minimum wage or barely</span></p>
+<p begin="00:12:46.880" end="00:12:51.950" style="s2"><span style="s4">getting</span> by today where do you think</p>
+<p begin="00:12:48.650" end="00:12:55.610" style="s2"><span style="s4">their</span> temperature<span style="s4"> is</span> it&#39;s here<span style="s4"> right and</span></p>
+<p begin="00:12:51.950" end="00:12:57.860" style="s2">so my job as someone who&#39;s running<span style="s3"> for</span></p>
+<p begin="00:12:55.610" end="00:12:59.330" style="s2">the highest office in Illinois<span style="s4"> is</span> to go</p>
+<p begin="00:12:57.860" end="00:13:03.680" style="s2">and<span style="s3"> listen to them</span><span style="s4"> and</span> these<span style="s4"> are</span> places</p>
+<p begin="00:12:59.330" end="00:13:06.410" style="s2"><span style="s3">that</span> are<span style="s3"> 70/30</span><span style="s4"> Trump</span> Clinton<span style="s3"> right</span> this</p>
+<p begin="00:13:03.680" end="00:13:07.970" style="s2">is Trump country but it&#39;s important for</p>
+<p begin="00:13:06.410" end="00:13:09.920" style="s2"><span style="s3">me to show up</span> but the one thing I&#39;m</p>
+<p begin="00:13:07.970" end="00:13:12.260" style="s2">learning<span style="s4"> as</span> we show up and<span style="s4"> have</span> these</p>
+<p begin="00:13:09.920" end="00:13:16.130" style="s2"><span style="s4">conversations</span><span style="s3"> is</span><span style="s4"> that</span> the<span style="s4"> investment</span></p>
+<p begin="00:13:12.260" end="00:13:17.220" style="s2">never came and when jobs that are solid</p>
+<p begin="00:13:16.130" end="00:13:19.529" style="s2">jobs get</p>
+<p begin="00:13:17.220" end="00:13:22.050" style="s2">place with terrible jobs<span style="s4"> you</span> can&#39;t</p>
+<p begin="00:13:19.529" end="00:13:25.110" style="s2"><span style="s4">declare</span> victory<span style="s3"> you&#39;re</span> not helping</p>
+<p begin="00:13:22.050" end="00:13:29.040" style="s2">anybody<span style="s4"> and</span> so<span style="s3"> i</span> looping<span style="s4"> back to</span></p>
+<p begin="00:13:25.110" end="00:13:30.990" style="s2"><span style="s4">automation</span> we see this<span style="s4"> next</span> wave coming</p>
+<p begin="00:13:29.040" end="00:13:33.569" style="s2">and<span style="s4"> trucking and these are</span><span style="s3"> people</span></p>
+<p begin="00:13:30.990" end="00:13:36.089" style="s2">primarily<span style="s4"> men</span> lots of them are</p>
+<p begin="00:13:33.569" end="00:13:40.490" style="s2"><span style="s4">middle-aged who are</span><span style="s3"> making</span> solid</p>
+<p begin="00:13:36.089" end="00:13:43.500" style="s2"><span style="s4">middle-class</span><span style="s3"> wages 60 70 $80,000 a year</span></p>
+<p begin="00:13:40.490" end="00:13:46.079" style="s2"><span style="s4">driving</span> trucks<span style="s3"> cross-country</span> across<span style="s4"> the</span></p>
+<p begin="00:13:43.500" end="00:13:49.699" style="s2">state or in<span style="s4"> the</span> city now if those jobs</p>
+<p begin="00:13:46.079" end="00:13:53.550" style="s2">are automated and you replace that</p>
+<p begin="00:13:49.699" end="00:13:56.610" style="s2">$70,000 a year trucker<span style="s4"> with</span> a human</p>
+<p begin="00:13:53.550" end="00:13:58.199" style="s2">being in the cab<span style="s4"> making</span> 10<span style="s3"> to</span> 12 bucks</p>
+<p begin="00:13:56.610" end="00:14:01.290" style="s2">an hour<span style="s4"> but</span> the<span style="s3"> computers doing the rest</span></p>
+<p begin="00:13:58.199" end="00:14:04.350" style="s2">of the work we<span style="s3"> are in for some serious</span></p>
+<p begin="00:14:01.290" end="00:14:07.319" style="s2"><span style="s3">issues</span> as a nation because if you<span style="s4"> think</span></p>
+<p begin="00:14:04.350" end="00:14:09.509" style="s2">the<span style="s3"> rhetoric</span> not<span style="s4"> right</span> now is ugly it&#39;s</p>
+<p begin="00:14:07.319" end="00:14:13.019" style="s2">going to<span style="s4"> get</span> even nastier and<span style="s4"> uglier and</span></p>
+<p begin="00:14:09.509" end="00:14:15.959" style="s2">it&#39;s not enough for<span style="s3"> us</span><span style="s4"> to</span><span style="s3"> say</span> that</p>
+<p begin="00:14:13.019" end="00:14:19.110" style="s2"><span style="s3">technology</span> and automation<span style="s3"> makes</span> things</p>
+<p begin="00:14:15.959" end="00:14:20.610" style="s2">more efficient because<span style="s3"> as</span><span style="s4"> a</span> society<span style="s3"> at</span></p>
+<p begin="00:14:19.110" end="00:14:24.059" style="s2">some point we<span style="s3"> need</span> to<span style="s4"> have</span> a</p>
+<p begin="00:14:20.610" end="00:14:27.259" style="s2"><span style="s4">conversation</span> about do<span style="s4"> we</span> simply value</p>
+<p begin="00:14:24.059" end="00:14:30.209" style="s2">cheap products<span style="s3"> or</span> do we actually<span style="s3"> value</span></p>
+<p begin="00:14:27.259" end="00:14:32.040" style="s2"><span style="s3">productivity</span> for<span style="s4"> all</span> human<span style="s3"> beings</span> and<span style="s4"> so</span></p>
+<p begin="00:14:30.209" end="00:14:33.480" style="s2">people<span style="s4"> feel</span> productive<span style="s3"> and</span> feel<span style="s4"> like</span></p>
+<p begin="00:14:32.040" end="00:14:36.149" style="s2">they can provide<span style="s4"> for</span><span style="s3"> the</span> families<span style="s4"> and</span></p>
+<p begin="00:14:33.480" end="00:14:38.279" style="s2"><span style="s4">actually</span> get ahead<span style="s4"> and</span> this<span style="s4"> is</span> a</p>
+<p begin="00:14:36.149" end="00:14:40.920" style="s2"><span style="s3">conversation that I see that&#39;s going</span><span style="s4"> to</span></p>
+<p begin="00:14:38.279" end="00:14:42.959" style="s2"><span style="s4">play out not just in trucking but that I</span></p>
+<p begin="00:14:40.920" end="00:14:46.379" style="s2">use<span style="s4"> that</span> one as an<span style="s3"> example</span><span style="s4"> because it is</span></p>
+<p begin="00:14:42.959" end="00:14:50.879" style="s2">truly a<span style="s4"> middle class job we see it&#39;s</span></p>
+<p begin="00:14:46.379" end="00:14:52.740" style="s2"><span style="s4">coming to fast food right Wendy&#39;s</span><span style="s3"> talked</span></p>
+<p begin="00:14:50.879" end="00:14:55.019" style="s2">about fully automating<span style="s4"> their</span> restaurants</p>
+<p begin="00:14:52.740" end="00:14:57.319" style="s2">right and I get it<span style="s4"> there&#39;s</span> a push for</p>
+<p begin="00:14:55.019" end="00:15:00.300" style="s2"><span style="s3">the</span> fight<span style="s4"> for</span> 15 which<span style="s4"> I fully support</span></p>
+<p begin="00:14:57.319" end="00:15:03.870" style="s2"><span style="s4">but</span> I also know that<span style="s4"> as</span> we do<span style="s3"> that</span><span style="s4"> it&#39;ll</span></p>
+<p begin="00:15:00.300" end="00:15:06.000" style="s2"><span style="s3">probably</span> accelerate<span style="s4"> automation</span> for the</p>
+<p begin="00:15:03.870" end="00:15:07.920" style="s2">for the folks<span style="s4"> that</span> can that<span style="s3"> can</span> afford</p>
+<p begin="00:15:06.000" end="00:15:09.899" style="s2">the investment on the front<span style="s4"> end</span> and it</p>
+<p begin="00:15:07.920" end="00:15:12.089" style="s2"><span style="s3">probably</span> puts<span style="s4"> the</span> small mom and pops<span style="s3"> at</span></p>
+<p begin="00:15:09.899" end="00:15:13.559" style="s2">a disadvantage<span style="s3"> because</span> they&#39;re not<span style="s4"> going</span></p>
+<p begin="00:15:12.089" end="00:15:15.600" style="s2"><span style="s4">to</span> be able<span style="s3"> to</span> put the kind<span style="s4"> of</span> investment</p>
+<p begin="00:15:13.559" end="00:15:19.649" style="s2">into automation<span style="s4"> that say</span><span style="s3"> a</span> Wendy&#39;s or</p>
+<p begin="00:15:15.600" end="00:15:21.870" style="s2">McDonald&#39;s can but again<span style="s4"> we&#39;re</span> seeing</p>
+<p begin="00:15:19.649" end="00:15:25.589" style="s2"><span style="s4">this move up the food</span><span style="s3"> chain in terms of</span></p>
+<p begin="00:15:21.870" end="00:15:29.220" style="s2">jobs<span style="s3"> is</span> anyone in<span style="s4"> here</span> a lawyer<span style="s4"> no</span></p>
+<p begin="00:15:25.589" end="00:15:32.300" style="s2">lawyers either<span style="s3"> okay</span> one lawyer we&#39;re</p>
+<p begin="00:15:29.220" end="00:15:35.819" style="s2">seeing automation coming to<span style="s3"> Discovery</span></p>
+<p begin="00:15:32.300" end="00:15:38.130" style="s2">right you have OCR technology<span style="s3"> and</span></p>
+<p begin="00:15:35.819" end="00:15:40.790" style="s2">discovery is used right during major</p>
+<p begin="00:15:38.130" end="00:15:42.870" style="s2">lawsuits where someone subpoenas</p>
+<p begin="00:15:40.790" end="00:15:45.569" style="s2"><span style="s4">thousands</span> or sometimes<span style="s4"> millions</span> of</p>
+<p begin="00:15:42.870" end="00:15:48.240" style="s2">documents<span style="s3"> that</span> usually a contract</p>
+<p begin="00:15:45.569" end="00:15:50.250" style="s2"><span style="s3">attorney</span> or attorney starting out is</p>
+<p begin="00:15:48.240" end="00:15:52.860" style="s2"><span style="s4">going</span> through and highlighting relevant</p>
+<p begin="00:15:50.250" end="00:15:56.269" style="s2">sections right now<span style="s4"> we</span> can automate<span style="s4"> that</span></p>
+<p begin="00:15:52.860" end="00:15:59.720" style="s2">and we<span style="s3"> our society is automating that</span></p>
+<p begin="00:15:56.269" end="00:16:03.059" style="s2">but<span style="s3"> again</span><span style="s4"> if</span> someone<span style="s3"> went</span><span style="s4"> to</span> law school</p>
+<p begin="00:15:59.720" end="00:16:04.769" style="s2"><span style="s3">took</span><span style="s4"> out</span> loans<span style="s4"> has</span> a good<span style="s4"> job</span></p>
+<p begin="00:16:03.059" end="00:16:06.509" style="s2">is able<span style="s3"> to</span><span style="s4"> provide</span> for themselves<span style="s3"> in</span></p>
+<p begin="00:16:04.769" end="00:16:08.550" style="s2"><span style="s4">their</span> family<span style="s4"> and</span> their job will<span style="s4"> be</span></p>
+<p begin="00:16:06.509" end="00:16:10.259" style="s2">automated<span style="s4"> because of technology we have</span></p>
+<p begin="00:16:08.550" end="00:16:14.550" style="s2">to have a serious<span style="s3"> conversation</span> about</p>
+<p begin="00:16:10.259" end="00:16:18.059" style="s2"><span style="s4">what</span> our limits are where we want<span style="s3"> people</span></p>
+<p begin="00:16:14.550" end="00:16:20.040" style="s2">to be<span style="s3"> and</span> and then have<span style="s4"> another</span></p>
+<p begin="00:16:18.059" end="00:16:22.740" style="s2">conversation<span style="s4"> about</span> are we headed<span style="s3"> towards</span></p>
+<p begin="00:16:20.040" end="00:16:24.179" style="s2"><span style="s3">a</span> universal basic<span style="s3"> income</span> because</p>
+<p begin="00:16:22.740" end="00:16:27.720" style="s2"><span style="s4">otherwise basically what we have to do</span></p>
+<p begin="00:16:24.179" end="00:16:29.250" style="s2">is pay people not to work<span style="s4"> and so I</span></p>
+<p begin="00:16:27.720" end="00:16:32.009" style="s2">wanted<span style="s4"> to talk to you about this today</span></p>
+<p begin="00:16:29.250" end="00:16:36.449" style="s2"><span style="s3">because</span> I&#39;m frankly interested in your</p>
+<p begin="00:16:32.009" end="00:16:37.949" style="s2">perspectives because<span style="s4"> as</span> someone who&#39;s</p>
+<p begin="00:16:36.449" end="00:16:40.319" style="s2"><span style="s4">running</span><span style="s3"> for</span> governor one thing that I</p>
+<p begin="00:16:37.949" end="00:16:43.589" style="s2">see is we<span style="s3"> have</span> we have<span style="s4"> someone in place</span></p>
+<p begin="00:16:40.319" end="00:16:45.600" style="s2">who believes that<span style="s4"> the</span> best<span style="s4"> way</span> to hurt</p>
+<p begin="00:16:43.589" end="00:16:47.639" style="s2"><span style="s3">working people</span><span style="s4"> is</span> to remove their</p>
+<p begin="00:16:45.600" end="00:16:49.529" style="s2">bargaining rights or the best way to</p>
+<p begin="00:16:47.639" end="00:16:51.179" style="s2">help<span style="s4"> working people</span><span style="s3"> is</span> to cut their</p>
+<p begin="00:16:49.529" end="00:16:53.699" style="s2">wages<span style="s4"> and</span> benefits and I can&#39;t think<span style="s4"> of</span></p>
+<p begin="00:16:51.179" end="00:16:56.069" style="s2">a single<span style="s3"> time</span> in<span style="s3"> history</span><span style="s4"> where</span> hurting</p>
+<p begin="00:16:53.699" end="00:16:59.160" style="s2">working people helped working people<span style="s4"> and</span></p>
+<p begin="00:16:56.069" end="00:17:00.329" style="s2">if you can<span style="s4"> find that if you can</span><span style="s3"> find</span> me</p>
+<p begin="00:16:59.160" end="00:17:02.879" style="s2">an example<span style="s3"> that</span> I&#39;ll drop<span style="s4"> out</span><span style="s3"> of</span> the</p>
+<p begin="00:17:00.329" end="00:17:04.500" style="s2">race<span style="s4"> right</span><span style="s3"> now</span> but the thing about the</p>
+<p begin="00:17:02.879" end="00:17:06.659" style="s2">current governor&#39;s agenda<span style="s4"> and</span> kind<span style="s4"> of</span></p>
+<p begin="00:17:04.500" end="00:17:08.579" style="s2">the<span style="s4"> agenda</span> that<span style="s4"> I</span> see across<span style="s3"> the</span> country</p>
+<p begin="00:17:06.659" end="00:17:11.399" style="s2">is these issues that are seriously</p>
+<p begin="00:17:08.579" end="00:17:14.429" style="s2"><span style="s4">there&#39;s their small ball</span><span style="s3"> they</span> mean</p>
+<p begin="00:17:11.399" end="00:17:19.409" style="s2">nothing<span style="s4"> term limits</span><span style="s3"> workmen&#39;s</span><span style="s4"> comp</span></p>
+<p begin="00:17:14.429" end="00:17:22.649" style="s2">reform even busting unions all these</p>
+<p begin="00:17:19.409" end="00:17:23.939" style="s2">issues<span style="s3"> impact</span> working people<span style="s4"> now</span> term</p>
+<p begin="00:17:22.649" end="00:17:26.250" style="s2">limits fine we can<span style="s4"> have</span> a<span style="s4"> conversation</span></p>
+<p begin="00:17:23.939" end="00:17:27.870" style="s2">about whether we value powerful</p>
+<p begin="00:17:26.250" end="00:17:30.030" style="s2">politicians or do you all powerful</p>
+<p begin="00:17:27.870" end="00:17:31.919" style="s2">bureaucrats whichever<span style="s3"> ones</span><span style="s4"> fine</span> with me</p>
+<p begin="00:17:30.030" end="00:17:34.169" style="s2">I have<span style="s3"> term-limited</span><span style="s4"> myself but it</span></p>
+<p begin="00:17:31.919" end="00:17:35.820" style="s2">doesn&#39;t it&#39;s no panacea<span style="s3"> none of these</span></p>
+<p begin="00:17:34.169" end="00:17:37.889" style="s2">things create<span style="s4"> jobs</span> none of these things</p>
+<p begin="00:17:35.820" end="00:17:41.100" style="s2"><span style="s4">prepares for the future and certainly</span></p>
+<p begin="00:17:37.889" end="00:17:42.420" style="s2">none of<span style="s4"> the</span> governor&#39;s agenda<span style="s3"> does</span></p>
+<p begin="00:17:41.100" end="00:17:44.790" style="s2"><span style="s4">anything</span></p>
+<p begin="00:17:42.420" end="00:17:48.140" style="s2">to<span style="s4"> address</span> the economic forces<span style="s4"> that are</span></p>
+<p begin="00:17:44.790" end="00:17:53.100" style="s2">coming our way<span style="s3"> with</span> automation</p>
+<p begin="00:17:48.140" end="00:17:55.170" style="s2"><span style="s4">globalization</span> and trade<span style="s4"> and</span> so I&#39;m</p>
+<p begin="00:17:53.100" end="00:17:57.570" style="s2"><span style="s3">generous</span><span style="s4"> I&#39;m really interested in what</span></p>
+<p begin="00:17:55.170" end="00:18:02.850" style="s2"><span style="s3">you</span> guys have to say<span style="s4"> about</span> this but</p>
+<p begin="00:17:57.570" end="00:18:06.050" style="s2"><span style="s3">before</span> I go on<span style="s3"> I</span> wanted<span style="s4"> to</span> talk a little</p>
+<p begin="00:18:02.850" end="00:18:11.610" style="s2"><span style="s4">bit</span><span style="s3"> about</span> why I&#39;m running<span style="s4"> um</span><span style="s3"> and</span> kind<span style="s3"> of</span></p>
+<p begin="00:18:06.050" end="00:18:15.420" style="s2">where I&#39;m<span style="s3"> coming</span> from<span style="s3"> I</span> feel<span style="s3"> like we</span></p>
+<p begin="00:18:11.610" end="00:18:17.370" style="s2">have a tax<span style="s4"> code</span> that<span style="s4"> is based on an</span></p>
+<p begin="00:18:15.420" end="00:18:19.650" style="s2"><span style="s4">industrial</span> economy that<span style="s4"> doesn&#39;t exist</span></p>
+<p begin="00:18:17.370" end="00:18:21.540" style="s2">anymore<span style="s4"> and</span> we&#39;ve been replaced with the</p>
+<p begin="00:18:19.650" end="00:18:24.300" style="s2">financial services and services economy</p>
+<p begin="00:18:21.540" end="00:18:27.930" style="s2"><span style="s3">so</span> that&#39;s why we see these massive</p>
+<p begin="00:18:24.300" end="00:18:30.180" style="s2">inequities where you see resources</p>
+<p begin="00:18:27.930" end="00:18:32.430" style="s2">concentrated at<span style="s4"> the</span> very top<span style="s3"> and</span> no</p>
+<p begin="00:18:30.180" end="00:18:34.260" style="s2">matter<span style="s4"> what we do at the bottom by</span></p>
+<p begin="00:18:32.430" end="00:18:35.850" style="s2">nipping and tucking and cutting and</p>
+<p begin="00:18:34.260" end="00:18:37.950" style="s2">changing things<span style="s3"> around</span> the fringes</p>
+<p begin="00:18:35.850" end="00:18:40.200" style="s2">people seem can&#39;t seem to get ahead<span style="s4"> and</span></p>
+<p begin="00:18:37.950" end="00:18:42.150" style="s2">the other trend that I&#39;m worried about</p>
+<p begin="00:18:40.200" end="00:18:44.970" style="s2"><span style="s4">especially</span><span style="s3"> in</span> cities<span style="s4"> like</span> Chicago and</p>
+<p begin="00:18:42.150" end="00:18:47.400" style="s2"><span style="s4">big</span> cities around the country<span style="s3"> is</span> I&#39;m</p>
+<p begin="00:18:44.970" end="00:18:49.140" style="s2">watching young people make all these</p>
+<p begin="00:18:47.400" end="00:18:51.240" style="s2">decisions<span style="s3"> about</span> their life they go to</p>
+<p begin="00:18:49.140" end="00:18:52.940" style="s2">they go to<span style="s4"> college they go to graduate</span></p>
+<p begin="00:18:51.240" end="00:18:55.140" style="s2">school<span style="s3"> they</span> take on a ton of debt</p>
+<p begin="00:18:52.940" end="00:18:58.800" style="s2"><span style="s4">they&#39;re</span> renting longer because of</p>
+<p begin="00:18:55.140" end="00:19:01.680" style="s2">housing costs<span style="s3"> and</span><span style="s4"> that</span><span style="s3"> might</span><span style="s4"> be</span> also</p>
+<p begin="00:18:58.800" end="00:19:02.910" style="s2"><span style="s4">because</span> of flexibility<span style="s4"> but if we run</span></p>
+<p begin="00:19:01.680" end="00:19:05.370" style="s2"><span style="s3">into</span> an issue where<span style="s4"> we</span> have a highly</p>
+<p begin="00:19:02.910" end="00:19:07.560" style="s2"><span style="s3">educated</span> population<span style="s4"> with</span> a ton of debt</p>
+<p begin="00:19:05.370" end="00:19:09.720" style="s2">delaying life decisions not settling</p>
+<p begin="00:19:07.560" end="00:19:12.120" style="s2">down if that&#39;s<span style="s4"> what</span> they choose<span style="s3"> to</span> do we</p>
+<p begin="00:19:09.720" end="00:19:13.560" style="s2">end up<span style="s4"> with</span> a problem<span style="s4"> like Japan right</span></p>
+<p begin="00:19:12.120" end="00:19:15.990" style="s2">where you<span style="s4"> have</span> an educated population</p>
+<p begin="00:19:13.560" end="00:19:18.450" style="s2">that&#39;s not replacing themselves<span style="s3"> and</span><span style="s4"> I</span></p>
+<p begin="00:19:15.990" end="00:19:20.460" style="s2">believe that<span style="s3"> the</span> best<span style="s4"> way</span> to make sure</p>
+<p begin="00:19:18.450" end="00:19:21.870" style="s2"><span style="s3">that</span> Illinois<span style="s4"> is</span> competitive going</p>
+<p begin="00:19:20.460" end="00:19:23.580" style="s2"><span style="s4">forward is</span><span style="s3"> to actually grow the</span></p>
+<p begin="00:19:21.870" end="00:19:25.140" style="s2">population<span style="s3"> and</span> the way you grow the</p>
+<p begin="00:19:23.580" end="00:19:28.550" style="s2">population<span style="s4"> is</span> to invest in<span style="s3"> public</span></p>
+<p begin="00:19:25.140" end="00:19:31.920" style="s2"><span style="s3">institutions</span> because most normal people</p>
+<p begin="00:19:28.550" end="00:19:35.040" style="s2"><span style="s3">rely</span> on<span style="s4"> public</span> institutions<span style="s4"> every day in</span></p>
+<p begin="00:19:31.920" end="00:19:36.930" style="s2">their life<span style="s4"> and one example</span> that I can</p>
+<p begin="00:19:35.040" end="00:19:39.330" style="s2"><span style="s3">point</span> to<span style="s3"> where</span> we invested in<span style="s4"> public</span></p>
+<p begin="00:19:36.930" end="00:19:42.390" style="s2"><span style="s3">institutions</span> and<span style="s4"> were</span> resulted and the</p>
+<p begin="00:19:39.330" end="00:19:44.130" style="s2">resulting investment netted us the</p>
+<p begin="00:19:42.390" end="00:19:47.130" style="s2"><span style="s4">biggest</span> middle class this country seen</p>
+<p begin="00:19:44.130" end="00:19:50.670" style="s2">in the original<span style="s3"> New</span> Deal<span style="s3"> a</span> time in this</p>
+<p begin="00:19:47.130" end="00:19:53.580" style="s2">country after<span style="s4"> the depression</span><span style="s3"> where</span> in</p>
+<p begin="00:19:50.670" end="00:19:55.770" style="s2">states<span style="s4"> like</span> Illinois<span style="s3"> 30%</span> of our</p>
+<p begin="00:19:53.580" end="00:19:57.330" style="s2">population<span style="s4"> was</span> unemployed</p>
+<p begin="00:19:55.770" end="00:20:00.420" style="s2">90% of kids<span style="s4"> who</span> grew up in rural</p>
+<p begin="00:19:57.330" end="00:20:03.420" style="s2">counties<span style="s3"> were</span> malnourished<span style="s3"> the</span> response</p>
+<p begin="00:20:00.420" end="00:20:05.130" style="s2">to<span style="s3"> that</span><span style="s4"> was</span> in a time<span style="s4"> where</span> the economy</p>
+<p begin="00:20:03.420" end="00:20:07.380" style="s2">was<span style="s4"> totally</span> stacked against the average</p>
+<p begin="00:20:05.130" end="00:20:09.780" style="s2"><span style="s3">person</span> from the<span style="s3"> upper-middle</span> class and</p>
+<p begin="00:20:07.380" end="00:20:11.370" style="s2">all the way<span style="s4"> down and everything</span><span style="s3"> was</span></p>
+<p begin="00:20:09.780" end="00:20:15.450" style="s2">totally<span style="s3"> out</span> of whack the response was</p>
+<p begin="00:20:11.370" end="00:20:18.390" style="s2">how do we rebalance<span style="s4"> our</span> economy<span style="s4"> and</span> the</p>
+<p begin="00:20:15.450" end="00:20:24.060" style="s2">solution was to<span style="s4"> make</span> massive<span style="s4"> public</span></p>
+<p begin="00:20:18.390" end="00:20:26.460" style="s2">investments using<span style="s4"> public</span><span style="s3"> dollars</span> using</p>
+<p begin="00:20:24.060" end="00:20:29.610" style="s2"><span style="s3">the</span><span style="s4"> public to build those investments</span></p>
+<p begin="00:20:26.460" end="00:20:31.920" style="s2"><span style="s4">and</span> going big on things<span style="s3"> like</span> our</p>
+<p begin="00:20:29.610" end="00:20:34.590" style="s2">national<span style="s4"> parks because those drive</span></p>
+<p begin="00:20:31.920" end="00:20:36.420" style="s2">tourism<span style="s3"> in</span> rural communities the rural</p>
+<p begin="00:20:34.590" end="00:20:39.420" style="s2"><span style="s3">electrification</span> administration<span style="s4"> brought</span></p>
+<p begin="00:20:36.420" end="00:20:42.870" style="s2"><span style="s4">power and water to</span> small towns<span style="s4"> the</span></p>
+<p begin="00:20:39.420" end="00:20:45.300" style="s2">federal art administration hired artists</p>
+<p begin="00:20:42.870" end="00:20:46.890" style="s2">because there was this<span style="s3"> belief</span> that the</p>
+<p begin="00:20:45.300" end="00:20:49.260" style="s2">basic infrastructure<span style="s4"> of</span> a community</p>
+<p begin="00:20:46.890" end="00:20:51.150" style="s2"><span style="s4">wasn&#39;t</span> just a public school<span style="s4"> wasn&#39;t</span><span style="s3"> just</span></p>
+<p begin="00:20:49.260" end="00:20:53.400" style="s2">roads and bridges<span style="s4"> and</span> it wasn&#39;t just</p>
+<p begin="00:20:51.150" end="00:20:56.970" style="s2"><span style="s4">health</span> clinics or post offices<span style="s3"> but</span><span style="s4"> it</span></p>
+<p begin="00:20:53.400" end="00:21:00.090" style="s2">was also community art and investing in</p>
+<p begin="00:20:56.970" end="00:21:02.130" style="s2">painters and in sculptors<span style="s4"> this</span> idea that</p>
+<p begin="00:21:00.090" end="00:21:04.230" style="s2">we invest in<span style="s3"> people and if you invest in</span></p>
+<p begin="00:21:02.130" end="00:21:05.550" style="s2"><span style="s3">people</span> you create opportunity<span style="s3"> for</span> them</p>
+<p begin="00:21:04.230" end="00:21:06.810" style="s2">and if you create opportunity for<span style="s4"> them</span></p>
+<p begin="00:21:05.550" end="00:21:10.050" style="s2">you actually<span style="s3"> end</span> up with the<span style="s4"> middle</span></p>
+<p begin="00:21:06.810" end="00:21:12.270" style="s2"><span style="s3">class</span> and so what we&#39;re proposing<span style="s4"> is</span></p>
+<p begin="00:21:10.050" end="00:21:14.340" style="s2">loosely based off the<span style="s3"> original</span> New Deal</p>
+<p begin="00:21:12.270" end="00:21:16.050" style="s2">is a new deal<span style="s3"> for</span><span style="s4"> the</span> 21st century</p>
+<p begin="00:21:14.340" end="00:21:18.300" style="s2">between your state<span style="s3"> government</span> and you</p>
+<p begin="00:21:16.050" end="00:21:19.980" style="s2">one that<span style="s4"> addresses</span> the<span style="s3"> challenges</span> that</p>
+<p begin="00:21:18.300" end="00:21:22.110" style="s2"><span style="s4">we&#39;re</span> seeing from a<span style="s3"> demographic</span></p>
+<p begin="00:21:19.980" end="00:21:25.520" style="s2">perspective<span style="s3"> head-on</span><span style="s4"> so</span> for example for</p>
+<p begin="00:21:22.110" end="00:21:27.630" style="s2">young people you take<span style="s4"> on</span> all this debt</p>
+<p begin="00:21:25.520" end="00:21:29.160" style="s2">we want to make it possible for people</p>
+<p begin="00:21:27.630" end="00:21:32.460" style="s2"><span style="s4">to settle down in the state</span><span style="s3"> of</span> Illinois</p>
+<p begin="00:21:29.160" end="00:21:33.690" style="s2"><span style="s4">so</span> we&#39;re proposing using the bonding</p>
+<p begin="00:21:32.460" end="00:21:36.270" style="s2"><span style="s3">authority</span><span style="s4"> to</span> Illinois Student Assistance</p>
+<p begin="00:21:33.690" end="00:21:39.270" style="s2">Commission<span style="s4"> to</span> refinance<span style="s4"> your</span> student</p>
+<p begin="00:21:36.270" end="00:21:40.560" style="s2">loans<span style="s3"> at</span> a discount<span style="s4"> on a deeper discount</span></p>
+<p begin="00:21:39.270" end="00:21:42.240" style="s2"><span style="s3">that</span> what the feds will give you in</p>
+<p begin="00:21:40.560" end="00:21:44.760" style="s2"><span style="s3">exchange</span> for<span style="s3"> 10</span> years of residency in</p>
+<p begin="00:21:42.240" end="00:21:47.580" style="s2"><span style="s3">the</span><span style="s4"> state</span> of Illinois<span style="s4"> my</span> thought<span style="s3"> is</span> if I</p>
+<p begin="00:21:44.760" end="00:21:50.250" style="s2"><span style="s3">get</span> you at 22 or<span style="s4"> 23 or after graduate</span></p>
+<p begin="00:21:47.580" end="00:21:53.070" style="s2"><span style="s3">school</span> at 25<span style="s3"> or</span> 26 and I have you for 10</p>
+<p begin="00:21:50.250" end="00:21:55.980" style="s2">years<span style="s4"> we</span> probably<span style="s4"> have</span> you for good the</p>
+<p begin="00:21:53.070" end="00:21:58.650" style="s2">second piece of that<span style="s4"> is</span> universal</p>
+<p begin="00:21:55.980" end="00:22:00.120" style="s2"><span style="s3">childcare and the idea</span> is that<span style="s3"> if you</span></p>
+<p begin="00:21:58.650" end="00:22:01.710" style="s2">put more<span style="s4"> money</span><span style="s3"> back</span> in the pockets of</p>
+<p begin="00:22:00.120" end="00:22:04.080" style="s2">young people by refinancing their</p>
+<p begin="00:22:01.710" end="00:22:06.780" style="s2">student loans<span style="s3"> they</span> might<span style="s4"> decide</span> to</p>
+<p begin="00:22:04.080" end="00:22:09.140" style="s2"><span style="s4">settle</span> down<span style="s4"> whether</span> with a partner<span style="s3"> or</span></p>
+<p begin="00:22:06.780" end="00:22:11.030" style="s2">not<span style="s4"> but</span> if they do</p>
+<p begin="00:22:09.140" end="00:22:13.730" style="s2">they might want to have<span style="s3"> a</span> child<span style="s3"> and</span> if</p>
+<p begin="00:22:11.030" end="00:22:16.610" style="s2">they do<span style="s4"> the</span> cost of<span style="s4"> child</span><span style="s3"> care</span> should</p>
+<p begin="00:22:13.730" end="00:22:19.250" style="s2">force<span style="s4"> the</span> first or second income<span style="s4"> out</span> of</p>
+<p begin="00:22:16.610" end="00:22:21.950" style="s2"><span style="s3">the</span> workplace<span style="s4"> and</span><span style="s3"> that means we</span><span style="s4"> believe</span></p>
+<p begin="00:22:19.250" end="00:22:23.960" style="s2">that if you<span style="s3"> make</span><span style="s4"> $75,000</span><span style="s3"> or</span><span style="s4"> less</span> that</p>
+<p begin="00:22:21.950" end="00:22:25.760" style="s2"><span style="s4">there</span> is a subsidy available for you<span style="s4"> so</span></p>
+<p begin="00:22:23.960" end="00:22:27.020" style="s2">that<span style="s4"> you can afford</span><span style="s3"> childcare</span><span style="s4"> but also</span></p>
+<p begin="00:22:25.760" end="00:22:29.660" style="s2"><span style="s4">put more money back</span> in your<span style="s4"> pocket</span></p>
+<p begin="00:22:27.020" end="00:22:31.010" style="s2"><span style="s4">because</span><span style="s3"> childcare is</span><span style="s4"> often</span> more</p>
+<p begin="00:22:29.660" end="00:22:33.020" style="s2">expensive<span style="s4"> for</span> a lot<span style="s4"> of</span> people than it is</p>
+<p begin="00:22:31.010" end="00:22:36.080" style="s2">to go<span style="s4"> to</span> work and that&#39;s a<span style="s4"> problem</span></p>
+<p begin="00:22:33.020" end="00:22:38.330" style="s2">so our<span style="s4"> New Deal rests on four key</span> planks</p>
+<p begin="00:22:36.080" end="00:22:40.840" style="s2"><span style="s3">and its really will</span> stop relying on</p>
+<p begin="00:22:38.330" end="00:22:44.480" style="s2">property taxes to<span style="s3"> pay for public schools</span></p>
+<p begin="00:22:40.840" end="00:22:45.980" style="s2">go big on public infrastructure that</p>
+<p begin="00:22:44.480" end="00:22:47.570" style="s2">creates<span style="s3"> jobs</span><span style="s4"> because</span> I<span style="s3"> think</span> we need a</p>
+<p begin="00:22:45.980" end="00:22:50.090" style="s2">bridge between the<span style="s4"> jobs that are</span><span style="s3"> going</span></p>
+<p begin="00:22:47.570" end="00:22:52.790" style="s2"><span style="s4">to</span> be lost<span style="s4"> today to automation and the</span></p>
+<p begin="00:22:50.090" end="00:22:55.280" style="s2"><span style="s4">jobs</span> of<span style="s3"> the</span> future<span style="s4"> and if you ask a 50</span></p>
+<p begin="00:22:52.790" end="00:22:58.580" style="s2">year<span style="s4"> old</span> truck driver<span style="s4"> who&#39;s</span> going to</p>
+<p begin="00:22:55.280" end="00:23:00.169" style="s2">lose his or<span style="s4"> her</span> job<span style="s4"> to</span> automation<span style="s4"> to</span> go</p>
+<p begin="00:22:58.580" end="00:23:01.460" style="s2">to Community<span style="s3"> College</span> to be<span style="s3"> a</span> coder</p>
+<p begin="00:23:00.169" end="00:23:04.190" style="s2"><span style="s4">because</span> that&#39;s what we<span style="s4"> believe</span> is that</p>
+<p begin="00:23:01.460" end="00:23:06.200" style="s2"><span style="s4">the</span> next<span style="s3"> blue-collar</span> job we&#39;re mistaken</p>
+<p begin="00:23:04.190" end="00:23:08.059" style="s2">this is not going<span style="s4"> to</span><span style="s3"> happen</span><span style="s4"> there</span> needs</p>
+<p begin="00:23:06.200" end="00:23:10.309" style="s2"><span style="s3">to be a bridge between</span><span style="s4"> the</span> jobs that are</p>
+<p begin="00:23:08.059" end="00:23:12.290" style="s2"><span style="s3">going</span> to change today and<span style="s4"> the</span> jobs of</p>
+<p begin="00:23:10.309" end="00:23:13.910" style="s2">tomorrow<span style="s4"> and the only way</span> to do<span style="s3"> that</span> is</p>
+<p begin="00:23:12.290" end="00:23:15.799" style="s2">to make<span style="s3"> massive</span> public investments in</p>
+<p begin="00:23:13.910" end="00:23:17.900" style="s2">our infrastructure<span style="s4"> that</span> serve as a</p>
+<p begin="00:23:15.799" end="00:23:20.330" style="s2"><span style="s4">bridge</span> that<span style="s4"> pay</span> a<span style="s4"> living</span> wage<span style="s4"> and</span><span style="s3"> that</span></p>
+<p begin="00:23:17.900" end="00:23:25.900" style="s2">have real dignity<span style="s4"> to</span> them the<span style="s4"> third</span></p>
+<p begin="00:23:20.330" end="00:23:28.040" style="s2">plank<span style="s4"> is</span> criminal justice<span style="s4"> reform</span><span style="s3"> I</span> mean</p>
+<p begin="00:23:25.900" end="00:23:30.440" style="s2">the reason<span style="s3"> why</span> we have<span style="s4"> to</span> keep<span style="s3"> talking</span></p>
+<p begin="00:23:28.040" end="00:23:32.780" style="s2"><span style="s4">about</span> this<span style="s4"> from</span> a reactive<span style="s4"> posture</span> is</p>
+<p begin="00:23:30.440" end="00:23:34.250" style="s2">that we<span style="s4"> haven&#39;t</span> invested in schools<span style="s4"> we</span></p>
+<p begin="00:23:32.780" end="00:23:36.410" style="s2">haven&#39;t invested in<span style="s3"> childcare</span><span style="s4"> and</span></p>
+<p begin="00:23:34.250" end="00:23:38.299" style="s2">invested in<span style="s3"> working families</span><span style="s4"> and</span> we</p>
+<p begin="00:23:36.410" end="00:23:39.500" style="s2">haven&#39;t<span style="s3"> done</span><span style="s4"> enough on jobs and so we</span></p>
+<p begin="00:23:38.299" end="00:23:41.450" style="s2">have to<span style="s4"> keep</span> talking<span style="s4"> about</span><span style="s3"> criminal</span></p>
+<p begin="00:23:39.500" end="00:23:44.570" style="s2">justice<span style="s3"> reform</span><span style="s4"> and</span> it begins with a</p>
+<p begin="00:23:41.450" end="00:23:48.590" style="s2">couple things<span style="s4"> one</span> legalizing and taxing</p>
+<p begin="00:23:44.570" end="00:23:50.000" style="s2">and regulating marijuana<span style="s3"> -</span><span style="s4"> we</span> have to</p>
+<p begin="00:23:48.590" end="00:23:52.330" style="s2">stop<span style="s3"> sending</span><span style="s4"> so</span> many<span style="s4"> black</span> and<span style="s4"> brown</span></p>
+<p begin="00:23:50.000" end="00:23:55.340" style="s2"><span style="s4">kids</span> to jail for low-level<span style="s4"> drug</span> offenses</p>
+<p begin="00:23:52.330" end="00:23:58.850" style="s2"><span style="s4">three</span> we need adult diversion programs</p>
+<p begin="00:23:55.340" end="00:24:01.580" style="s2">and re-entry programs and actually do</p>
+<p begin="00:23:58.850" end="00:24:05.419" style="s2">something<span style="s3"> about</span> communities that have</p>
+<p begin="00:24:01.580" end="00:24:08.630" style="s2">high levels<span style="s3"> of</span><span style="s4"> lead</span><span style="s3"> in</span><span style="s4"> their water lead</span></p>
+<p begin="00:24:05.419" end="00:24:11.360" style="s2">in paint<span style="s3"> and</span> recognize that<span style="s4"> from</span> the</p>
+<p begin="00:24:08.630" end="00:24:12.799" style="s2"><span style="s4">very beginning if</span> we want<span style="s4"> to</span> actually</p>
+<p begin="00:24:11.360" end="00:24:15.440" style="s2"><span style="s4">stop</span> talking about<span style="s3"> criminal</span> justice</p>
+<p begin="00:24:12.799" end="00:24:16.970" style="s2">reform<span style="s3"> then</span> it goes<span style="s4"> back</span> to opportunity</p>
+<p begin="00:24:15.440" end="00:24:18.650" style="s2">and investing in communities that have</p>
+<p begin="00:24:16.970" end="00:24:20.990" style="s2"><span style="s3">been left behind and making that the</span></p>
+<p begin="00:24:18.650" end="00:24:21.950" style="s2">priority<span style="s4"> so</span> all this this new deal</p>
+<p begin="00:24:20.990" end="00:24:26.510" style="s2">hinges<span style="s4"> on</span></p>
+<p begin="00:24:21.950" end="00:24:29.450" style="s2">one<span style="s3"> keyword and</span><span style="s4"> that&#39;s</span> equity equity</p>
+<p begin="00:24:26.510" end="00:24:30.980" style="s2">doesn&#39;t<span style="s3"> mean</span> equal equity means you</p>
+<p begin="00:24:29.450" end="00:24:33.919" style="s2">invest<span style="s3"> resources</span> where they&#39;re needed</p>
+<p begin="00:24:30.980" end="00:24:36.529" style="s2"><span style="s4">the</span> most<span style="s4"> and</span> that&#39;s<span style="s4"> we&#39;re</span> proposing<span style="s4"> as</span></p>
+<p begin="00:24:33.919" end="00:24:40.880" style="s2">our<span style="s4"> new deal between your</span> state</p>
+<p begin="00:24:36.529" end="00:24:53.840" style="s2"><span style="s3">government and you I</span> think that&#39;s it and</p>
+<p begin="00:24:40.880" end="00:24:57.340" style="s2">we<span style="s4"> can</span><span style="s3"> open</span> up for<span style="s4"> questions</span> all right</p>
+<p begin="00:24:53.840" end="00:24:59.779" style="s2">who<span style="s3"> wants</span><span style="s4"> to</span> ask<span style="s3"> the</span><span style="s4"> first</span> question<span style="s3"> I</span></p>
+<p begin="00:24:57.340" end="00:25:00.440" style="s2">didn&#39;t<span style="s4"> expect</span> that<span style="s4"> to</span><span style="s3"> work</span><span style="s4"> in</span> the front</p>
+<p begin="00:24:59.779" end="00:25:03.019" style="s2"><span style="s4">row</span></p>
+<p begin="00:25:00.440" end="00:25:05.149" style="s2">if Illinois<span style="s4"> grows</span> its population<span style="s4"> and</span></p>
+<p begin="00:25:03.019" end="00:25:07.580" style="s2"><span style="s4">Iran</span> grows its population<span style="s4"> and</span> Equatorial</p>
+<p begin="00:25:05.149" end="00:25:09.620" style="s2">Guinea grows its<span style="s4"> population</span> how do you</p>
+<p begin="00:25:07.580" end="00:25:12.230" style="s2">square that with<span style="s3"> the</span> environmental</p>
+<p begin="00:25:09.620" end="00:25:14.600" style="s2">problems that&#39;s going to cause yeah I</p>
+<p begin="00:25:12.230" end="00:25:17.000" style="s2">mean look<span style="s4"> I just</span><span style="s3"> read</span><span style="s4"> something today</span></p>
+<p begin="00:25:14.600" end="00:25:19.070" style="s2">they were<span style="s4"> did</span> the Earth&#39;s population is</p>
+<p begin="00:25:17.000" end="00:25:23.690" style="s2"><span style="s3">projected</span> to<span style="s4"> grow</span><span style="s3"> two</span> billion<span style="s4"> right</span> over</p>
+<p begin="00:25:19.070" end="00:25:26.720" style="s2">the next few decades<span style="s3"> right I think again</span></p>
+<p begin="00:25:23.690" end="00:25:29.330" style="s2"><span style="s3">it</span> comes back<span style="s3"> to</span> recognizing<span style="s3"> that</span> the</p>
+<p begin="00:25:26.720" end="00:25:31.639" style="s2">jobs of<span style="s4"> the</span> future are<span style="s3"> in</span> industries</p>
+<p begin="00:25:29.330" end="00:25:36.139" style="s2"><span style="s4">like</span> renewables and clean<span style="s3"> energy</span><span style="s4"> and in</span></p>
+<p begin="00:25:31.639" end="00:25:38.120" style="s2">the<span style="s3"> environment in Illinois</span><span style="s4"> someone</span></p>
+<p begin="00:25:36.139" end="00:25:40.460" style="s2">who&#39;s studied<span style="s4"> climate</span> change and</p>
+<p begin="00:25:38.120" end="00:25:41.779" style="s2">disaster and<span style="s4"> poverty</span> like one thing<span style="s3"> will</span></p>
+<p begin="00:25:40.460" end="00:25:43.850" style="s2"><span style="s4">see</span> in<span style="s3"> Illinois is we&#39;re poised to</span><span style="s4"> grow</span></p>
+<p begin="00:25:41.779" end="00:25:46.220" style="s2"><span style="s4">all</span> the<span style="s3"> Great Lakes</span><span style="s4"> cities</span> are poised to</p>
+<p begin="00:25:43.850" end="00:25:47.750" style="s2">grow<span style="s4"> in</span> the next<span style="s4"> half</span> century<span style="s4"> because</span></p>
+<p begin="00:25:46.220" end="00:25:50.630" style="s2">we&#39;re<span style="s4"> going to see water refugees right</span></p>
+<p begin="00:25:47.750" end="00:25:52.490" style="s2">if things continue so Chicago will grow</p>
+<p begin="00:25:50.630" end="00:25:54.409" style="s2"><span style="s4">the</span> question is are we<span style="s4"> going to be</span></p>
+<p begin="00:25:52.490" end="00:25:56.480" style="s2">affordable<span style="s3"> for</span> people<span style="s4"> as</span> they move<span style="s4"> here</span></p>
+<p begin="00:25:54.409" end="00:25:57.799" style="s2"><span style="s4">are</span> we going to have opportunity here</p>
+<p begin="00:25:56.480" end="00:26:00.549" style="s2"><span style="s4">and</span> are we<span style="s4"> going</span> to have enough housing</p>
+<p begin="00:25:57.799" end="00:26:03.649" style="s2"><span style="s3">for</span> people<span style="s4"> workforce</span> housing not<span style="s4"> just</span></p>
+<p begin="00:26:00.549" end="00:26:06.830" style="s2"><span style="s4">$3500 a month&#39;s</span> luxury apartments right</p>
+<p begin="00:26:03.649" end="00:26:08.840" style="s2"><span style="s4">we</span> need<span style="s3"> housing</span> for all people<span style="s3"> I</span><span style="s4"> don&#39;t</span></p>
+<p begin="00:26:06.830" end="00:26:11.389" style="s2">have a good answer<span style="s3"> for</span> you on what</p>
+<p begin="00:26:08.840" end="00:26:14.409" style="s2">happens in<span style="s4"> the</span> aggregate what I can tell</p>
+<p begin="00:26:11.389" end="00:26:17.000" style="s2"><span style="s4">you</span> is Illinois should be a leader<span style="s4"> I&#39;m</span></p>
+<p begin="00:26:14.409" end="00:26:19.039" style="s2">creating a bridge between the<span style="s4"> jobs</span> are</p>
+<p begin="00:26:17.000" end="00:26:20.510" style="s2"><span style="s4">going to being automated</span> and the jobs of</p>
+<p begin="00:26:19.039" end="00:26:22.130" style="s2">tomorrow which are<span style="s4"> going to be in the</span></p>
+<p begin="00:26:20.510" end="00:26:24.080" style="s2"><span style="s3">environment</span><span style="s4"> which</span> are going<span style="s4"> to be</span></p>
+<p begin="00:26:22.130" end="00:26:24.710" style="s2">managing our resources<span style="s3"> better</span> and in</p>
+<p begin="00:26:24.080" end="00:26:26.570" style="s2"><span style="s4">renew</span></p>
+<p begin="00:26:24.710" end="00:26:28.790" style="s2">I also think<span style="s4"> there are things</span> we can do</p>
+<p begin="00:26:26.570" end="00:26:32.390" style="s2">with public<span style="s3"> works</span> projects that also</p>
+<p begin="00:26:28.790" end="00:26:35.240" style="s2">help us manage our<span style="s3"> resources</span> better we</p>
+<p begin="00:26:32.390" end="00:26:37.280" style="s2">have lots of river towns in the<span style="s4"> state</span><span style="s3"> of</span></p>
+<p begin="00:26:35.240" end="00:26:39.590" style="s2">Illinois<span style="s4"> basically</span> our entire<span style="s4"> western</span></p>
+<p begin="00:26:37.280" end="00:26:42.230" style="s2">border is the<span style="s4"> Mississippi</span><span style="s3"> and</span> yet we&#39;ve</p>
+<p begin="00:26:39.590" end="00:26:43.880" style="s2">done<span style="s3"> nothing</span> to connect our<span style="s3"> River</span> towns</p>
+<p begin="00:26:42.230" end="00:26:46.330" style="s2"><span style="s4">to</span> a broader state tourism</p>
+<p begin="00:26:43.880" end="00:26:48.650" style="s2"><span style="s4">infrastructure which by the</span> way</p>
+<p begin="00:26:46.330" end="00:26:51.850" style="s2">infrastructure<span style="s3"> I&#39;m sorry tourism is the</span></p>
+<p begin="00:26:48.650" end="00:26:54.950" style="s2"><span style="s4">biggest driver of any States</span><span style="s3"> GDP</span><span style="s4"> and</span></p>
+<p begin="00:26:51.850" end="00:26:56.990" style="s2">we&#39;ve got Cairo<span style="s4"> with</span> the confluence of</p>
+<p begin="00:26:54.950" end="00:26:59.330" style="s2"><span style="s3">two</span><span style="s4"> rivers</span><span style="s3"> Peoria</span> with the Illinois</p>
+<p begin="00:26:56.990" end="00:27:01.340" style="s2"><span style="s4">River and then every River</span> town on our</p>
+<p begin="00:26:59.330" end="00:27:03.020" style="s2">western border and we&#39;ve done<span style="s3"> nothing</span></p>
+<p begin="00:27:01.340" end="00:27:06.290" style="s2"><span style="s3">about</span> that<span style="s3"> other</span><span style="s4"> than</span><span style="s3"> sort</span><span style="s4"> of</span> let them</p>
+<p begin="00:27:03.020" end="00:27:07.940" style="s2">fall<span style="s4"> right</span> and leave them<span style="s4"> to</span> make the</p>
+<p begin="00:27:06.290" end="00:27:10.360" style="s2"><span style="s4">best</span> investments they possibly can</p>
+<p begin="00:27:07.940" end="00:27:13.610" style="s2">relying just on local sources of revenue</p>
+<p begin="00:27:10.360" end="00:27:17.000" style="s2"><span style="s4">survival we thought that if you want to</span></p>
+<p begin="00:27:13.610" end="00:27:19.690" style="s2">make<span style="s4"> Illinois</span> an economic<span style="s4"> engine</span><span style="s3"> across</span></p>
+<p begin="00:27:17.000" end="00:27:22.460" style="s2">the<span style="s4"> entire</span> state tourism can&#39;t just be</p>
+<p begin="00:27:19.690" end="00:27:25.310" style="s2">centralized in Chicago we&#39;ve got a lot</p>
+<p begin="00:27:22.460" end="00:27:26.510" style="s2"><span style="s3">to</span> see<span style="s4"> around</span> the state of<span style="s4"> Illinois we</span></p>
+<p begin="00:27:25.310" end="00:27:28.460" style="s2">shouldn&#39;t<span style="s4"> be</span> sending<span style="s4"> everyone to</span></p>
+<p begin="00:27:26.510" end="00:27:31.130" style="s2">Michiana<span style="s3"> and</span> Door<span style="s4"> County</span> on<span style="s3"> the</span> weekends</p>
+<p begin="00:27:28.460" end="00:27:33.260" style="s2">if that&#39;s where people<span style="s4"> go</span> we&#39;ve got<span style="s3"> a</span></p>
+<p begin="00:27:31.130" end="00:27:34.430" style="s2">lot of<span style="s4"> River</span> tongues<span style="s3"> that we can send</span></p>
+<p begin="00:27:33.260" end="00:27:36.350" style="s2"><span style="s3">people to if we just make some</span></p>
+<p begin="00:27:34.430" end="00:27:37.910" style="s2">thoughtful investments and that means</p>
+<p begin="00:27:36.350" end="00:27:40.310" style="s2">the environment<span style="s3"> doesn&#39;t</span><span style="s4"> have</span> to be an</p>
+<p begin="00:27:37.910" end="00:27:42.350" style="s2">either/or<span style="s4"> there</span> we have to do better</p>
+<p begin="00:27:40.310" end="00:27:44.240" style="s2">watershed management<span style="s4"> manage</span> our rivers</p>
+<p begin="00:27:42.350" end="00:27:48.070" style="s2">better<span style="s4"> and</span> ecological and wildlife</p>
+<p begin="00:27:44.240" end="00:27:51.140" style="s2">restoration along with locks and dams</p>
+<p begin="00:27:48.070" end="00:27:52.820" style="s2"><span style="s3">that</span> have<span style="s4"> not</span> been repaired or seen any</p>
+<p begin="00:27:51.140" end="00:27:54.590" style="s2">investment over the<span style="s4"> last 4050 years</span></p>
+<p begin="00:27:52.820" end="00:27:56.060" style="s2"><span style="s3">those</span> two<span style="s4"> things</span> don&#39;t<span style="s4"> have</span> to<span style="s3"> be</span></p>
+<p begin="00:27:54.590" end="00:27:59.000" style="s2"><span style="s3">mutually exclusive</span></p>
+<p begin="00:27:56.060" end="00:28:01.850" style="s2">and our<span style="s3"> River</span> towns are poised for a</p>
+<p begin="00:27:59.000" end="00:28:03.440" style="s2"><span style="s4">renaissance for economic growth</span> if we</p>
+<p begin="00:28:01.850" end="00:28:06.730" style="s2">just<span style="s4"> take the time to invest in them and</span></p>
+<p begin="00:28:03.440" end="00:28:09.620" style="s2">this goes<span style="s3"> back</span> again<span style="s3"> to</span> addressing</p>
+<p begin="00:28:06.730" end="00:28:13.670" style="s2">inequity and making<span style="s4"> investments more</span></p>
+<p begin="00:28:09.620" end="00:28:15.890" style="s2">equitable I&#39;ll tell you we don&#39;t<span style="s4"> talk</span> a</p>
+<p begin="00:28:13.670" end="00:28:19.250" style="s2">lot<span style="s3"> about</span> white poverty but<span style="s4"> there&#39;s</span> a</p>
+<p begin="00:28:15.890" end="00:28:21.380" style="s2">lot of<span style="s3"> it</span> and when<span style="s3"> we</span> go to<span style="s4"> small</span> towns</p>
+<p begin="00:28:19.250" end="00:28:22.790" style="s2">in<span style="s3"> central</span> and southern Illinois<span style="s4"> the</span></p>
+<p begin="00:28:21.380" end="00:28:24.880" style="s2">thing is it&#39;s okay<span style="s4"> to</span> make<span style="s4"> fun</span><span style="s3"> of</span> poor</p>
+<p begin="00:28:22.790" end="00:28:29.450" style="s2">white people<span style="s4"> for the most part people do</span></p>
+<p begin="00:28:24.880" end="00:28:31.280" style="s2">and our<span style="s3"> strategy&#39;s</span> always<span style="s4"> been</span> let&#39;s</p>
+<p begin="00:28:29.450" end="00:28:32.660" style="s2">talk about the inequities<span style="s3"> that</span> tie all</p>
+<p begin="00:28:31.280" end="00:28:34.520" style="s2">these<span style="s3"> communities</span> together white black</p>
+<p begin="00:28:32.660" end="00:28:35.090" style="s2"><span style="s3">and</span> brown<span style="s4"> and</span> show<span style="s4"> that</span> all we&#39;re doing</p>
+<p begin="00:28:34.520" end="00:28:37.010" style="s2">is<span style="s4"> slight</span></p>
+<p begin="00:28:35.090" end="00:28:38.570" style="s2"><span style="s4">over</span> scraps<span style="s3"> and</span> so we<span style="s4"> don&#39;t have to make</span></p>
+<p begin="00:28:37.010" end="00:28:40.940" style="s2">this as<span style="s4"> an</span><span style="s3"> either/or</span> whether<span style="s3"> its</span></p>
+<p begin="00:28:38.570" end="00:28:43.720" style="s2">investment or<span style="s4"> the</span> environment<span style="s4"> or</span> jobs</p>
+<p begin="00:28:40.940" end="00:28:46.070" style="s2">those two things are a false choice</p>
+<p begin="00:28:43.720" end="00:28:47.540" style="s2"><span style="s4">investing</span> in communities and doing<span style="s4"> it in</span></p>
+<p begin="00:28:46.070" end="00:28:50.270" style="s2">a<span style="s4"> thoughtful way managing our water</span></p>
+<p begin="00:28:47.540" end="00:28:53.180" style="s2"><span style="s4">better removing lead from our water</span></p>
+<p begin="00:28:50.270" end="00:28:54.740" style="s2">systems<span style="s3"> these</span><span style="s4"> things</span> are better for the</p>
+<p begin="00:28:53.180" end="00:28:56.930" style="s2"><span style="s3">environment</span><span style="s4"> better</span><span style="s3"> for</span> people</p>
+<p begin="00:28:54.740" end="00:28:58.790" style="s2">you have better cognitive<span style="s4"> impacts</span> or</p>
+<p begin="00:28:56.930" end="00:29:00.800" style="s2">development for young people<span style="s3"> you&#39;ll</span> see</p>
+<p begin="00:28:58.790" end="00:29:09.110" style="s2"><span style="s4">less</span> violence<span style="s4"> and</span> I can keep going<span style="s3"> on</span></p>
+<p begin="00:29:00.800" end="00:29:11.870" style="s2">and on next<span style="s4"> question</span> how do you balance</p>
+<p begin="00:29:09.110" end="00:29:13.730" style="s2">the values of making<span style="s3"> childcare</span></p>
+<p begin="00:29:11.870" end="00:29:16.100" style="s2"><span style="s4">accessible</span> and also<span style="s4"> providing</span> a living</p>
+<p begin="00:29:13.730" end="00:29:17.840" style="s2"><span style="s4">wage</span> for<span style="s3"> childcare</span> workers<span style="s4"> those</span> two</p>
+<p begin="00:29:16.100" end="00:29:20.990" style="s2">things<span style="s4"> don&#39;t aren&#39;t mutually exclusive</span><span style="s3"> I</span></p>
+<p begin="00:29:17.840" end="00:29:22.850" style="s2">think what we pay<span style="s4"> child</span><span style="s3"> care</span> providers</p>
+<p begin="00:29:20.990" end="00:29:26.510" style="s2"><span style="s4">the</span> people<span style="s4"> who</span> take<span style="s3"> care</span> about<span style="s3"> Joe I</span></p>
+<p begin="00:29:22.850" end="00:29:29.450" style="s2">mean<span style="s4"> it&#39;s</span> an abomination<span style="s3"> we</span> should have</p>
+<p begin="00:29:26.510" end="00:29:33.470" style="s2">a $15 an<span style="s3"> hour</span> minimum<span style="s4"> wage and that&#39;s</span></p>
+<p begin="00:29:29.450" end="00:29:35.120" style="s2">that should be the floor and so we need</p>
+<p begin="00:29:33.470" end="00:29:36.590" style="s2"><span style="s4">to</span> pay<span style="s3"> childcare</span><span style="s4"> providers</span> a living wage</p>
+<p begin="00:29:35.120" end="00:29:38.660" style="s2"><span style="s4">I</span> think<span style="s3"> the</span> best way to do that is</p>
+<p begin="00:29:36.590" end="00:29:40.820" style="s2">through<span style="s4"> organizing</span> them I know there are</p>
+<p begin="00:29:38.660" end="00:29:41.870" style="s2">groups<span style="s3"> that</span> are SEIU for example<span style="s3"> is</span></p>
+<p begin="00:29:40.820" end="00:29:44.510" style="s2">organizing them and I<span style="s4"> think</span> they&#39;re</p>
+<p begin="00:29:41.870" end="00:29:47.510" style="s2">doing<span style="s4"> a</span> good job<span style="s3"> you</span><span style="s4"> think</span> about unions</p>
+<p begin="00:29:44.510" end="00:29:49.820" style="s2"><span style="s4">and they&#39;re just</span> people<span style="s4"> just</span><span style="s3"> like</span></p>
+<p begin="00:29:47.510" end="00:29:52.490" style="s2"><span style="s4">government it&#39;s just people people</span></p>
+<p begin="00:29:49.820" end="00:29:53.360" style="s2">coming together working<span style="s4"> together</span> they&#39;re</p>
+<p begin="00:29:52.490" end="00:29:53.960" style="s2">trying to<span style="s4"> make</span> a better<span style="s4"> life</span> for</p>
+<p begin="00:29:53.360" end="00:29:59.650" style="s2">themselves</p>
+<p begin="00:29:53.960" end="00:29:59.650" style="s2">that&#39;s all you means<span style="s4"> our</span> next question</p>
+<p begin="00:30:00.910" end="00:30:06.290" style="s2">so<span style="s4"> recently</span><span style="s3"> in</span><span style="s4"> some</span> of the publications</p>
+<p begin="00:30:04.130" end="00:30:09.610" style="s2"><span style="s4">that</span><span style="s3"> I</span> follow mostly like tech pundits</p>
+<p begin="00:30:06.290" end="00:30:12.320" style="s2"><span style="s4">they&#39;ve</span> debated whether or<span style="s4"> not</span><span style="s3"> having</span></p>
+<p begin="00:30:09.610" end="00:30:16.360" style="s2">access<span style="s3"> to</span> like a single-payer health</p>
+<p begin="00:30:12.320" end="00:30:19.340" style="s2"><span style="s3">care</span><span style="s4"> model</span> encourages<span style="s3"> people</span> to<span style="s4"> start</span></p>
+<p begin="00:30:16.360" end="00:30:21.290" style="s2">small independence and take<span style="s4"> risks that</span></p>
+<p begin="00:30:19.340" end="00:30:22.910" style="s2">mean that if something does<span style="s3"> happen</span></p>
+<p begin="00:30:21.290" end="00:30:24.950" style="s2">though you know basic would be safe so</p>
+<p begin="00:30:22.910" end="00:30:28.280" style="s2"><span style="s4">basically</span> there there&#39;s an argument<span style="s3"> of</span></p>
+<p begin="00:30:24.950" end="00:30:30.860" style="s2">like providing<span style="s4"> health care enables</span> small</p>
+<p begin="00:30:28.280" end="00:30:32.720" style="s2"><span style="s4">businesses</span> by providing<span style="s4"> like</span> less risk</p>
+<p begin="00:30:30.860" end="00:30:34.490" style="s2"><span style="s4">for</span> them and then some people<span style="s4"> say well</span></p>
+<p begin="00:30:32.720" end="00:30:37.010" style="s2">America<span style="s3"> is</span> one of the<span style="s4"> biggest</span> places</p>
+<p begin="00:30:34.490" end="00:30:38.570" style="s2">that doesn&#39;t have a single<span style="s4"> health care</span></p>
+<p begin="00:30:37.010" end="00:30:40.190" style="s2">payer health care model and it seems<span style="s3"> to</span></p>
+<p begin="00:30:38.570" end="00:30:41.960" style="s2"><span style="s4">be</span> working<span style="s4"> out</span> like I&#39;m<span style="s4"> just</span> going to</p>
+<p begin="00:30:40.190" end="00:30:45.410" style="s2"><span style="s4">curious</span> what your<span style="s3"> thoughts</span> are on that</p>
+<p begin="00:30:41.960" end="00:30:47.870" style="s2">I agree<span style="s4"> with</span> you I mean so then how many</p>
+<p begin="00:30:45.410" end="00:30:50.330" style="s2"><span style="s3">of</span> you had startups in here</p>
+<p begin="00:30:47.870" end="00:30:53.420" style="s2">my guess is<span style="s4"> if</span> you&#39;re offering health</p>
+<p begin="00:30:50.330" end="00:30:55.309" style="s2">care you&#39;re adding<span style="s3"> 35 percent right</span></p>
+<p begin="00:30:53.420" end="00:30:58.400" style="s2"><span style="s3">health care plus benefits that&#39;s 35</span></p>
+<p begin="00:30:55.309" end="00:31:01.520" style="s2"><span style="s4">percent</span> to the salary roughly right and</p>
+<p begin="00:30:58.400" end="00:31:04.160" style="s2">I think<span style="s4"> that&#39;s</span><span style="s3"> insane</span><span style="s4"> right</span> and so I</p>
+<p begin="00:31:01.520" end="00:31:05.930" style="s2">believe in<span style="s3"> single-payer</span> because I<span style="s4"> think</span></p>
+<p begin="00:31:04.160" end="00:31:08.300" style="s2"><span style="s4">you bring that cost down in the</span></p>
+<p begin="00:31:05.930" end="00:31:10.670" style="s2">aggregate<span style="s4"> so</span> maybe on one side<span style="s4"> your</span> your</p>
+<p begin="00:31:08.300" end="00:31:12.650" style="s2">taxes are a little<span style="s4"> bit</span> higher but<span style="s4"> then</span></p>
+<p begin="00:31:10.670" end="00:31:14.510" style="s2">your fringe or the<span style="s3"> 35</span><span style="s4"> percent that you</span></p>
+<p begin="00:31:12.650" end="00:31:16.360" style="s2">would pay goes down and I<span style="s3"> don&#39;t</span> know I</p>
+<p begin="00:31:14.510" end="00:31:19.040" style="s2">think<span style="s4"> there&#39;s</span> a lot more<span style="s4"> room</span> for</p>
+<p begin="00:31:16.360" end="00:31:21.530" style="s2"><span style="s3">innovation</span> there<span style="s4"> and</span> a<span style="s4"> lot</span> more<span style="s3"> people</span></p>
+<p begin="00:31:19.040" end="00:31:24.170" style="s2"><span style="s4">will</span> be entrepreneurial<span style="s3"> if</span> that part of</p>
+<p begin="00:31:21.530" end="00:31:25.850" style="s2">your cost had better controls<span style="s3"> around</span> it</p>
+<p begin="00:31:24.170" end="00:31:28.070" style="s2">but<span style="s4"> that</span> means<span style="s4"> we</span> have to do it at the</p>
+<p begin="00:31:25.850" end="00:31:31.700" style="s2">global level<span style="s4"> meaning</span> at the<span style="s4"> national</span></p>
+<p begin="00:31:28.070" end="00:31:34.700" style="s2">level<span style="s3"> even</span> if the look<span style="s4"> I&#39;m</span> watching what</p>
+<p begin="00:31:31.700" end="00:31:36.559" style="s2">California is doing with single-payer</p>
+<p begin="00:31:34.700" end="00:31:38.210" style="s2">and I think it&#39;s a<span style="s4"> good</span> model<span style="s3"> to</span> follow</p>
+<p begin="00:31:36.559" end="00:31:41.809" style="s2"><span style="s4">California</span> has also taken<span style="s3"> the</span> lead</p>
+<p begin="00:31:38.210" end="00:31:43.580" style="s2"><span style="s4">another</span><span style="s3"> what</span> I believe<span style="s4"> are</span> socially</p>
+<p begin="00:31:41.809" end="00:31:46.550" style="s2">responsible family-friendly public</p>
+<p begin="00:31:43.580" end="00:31:49.610" style="s2">policies like having a temporary</p>
+<p begin="00:31:46.550" end="00:31:53.120" style="s2"><span style="s3">disability</span> system where through a</p>
+<p begin="00:31:49.610" end="00:31:55.010" style="s2">payroll tax<span style="s4"> employees</span> pay into a fund<span style="s4"> so</span></p>
+<p begin="00:31:53.120" end="00:31:57.350" style="s2">that<span style="s3"> if</span> they<span style="s4"> get</span> you<span style="s3"> know</span><span style="s4"> they</span> have a</p>
+<p begin="00:31:55.010" end="00:31:59.660" style="s2">child or<span style="s4"> their</span> spouse as a child<span style="s4"> that</span></p>
+<p begin="00:31:57.350" end="00:32:01.160" style="s2">they can take time off<span style="s4"> and</span> receive a</p>
+<p begin="00:31:59.660" end="00:32:03.380" style="s2">benefit that they&#39;ve paid into just<span style="s4"> like</span></p>
+<p begin="00:32:01.160" end="00:32:05.120" style="s2">unemployment<span style="s4"> San Francisco is taking</span></p>
+<p begin="00:32:03.380" end="00:32:06.860" style="s2"><span style="s4">that</span> a little bit further by requiring</p>
+<p begin="00:32:05.120" end="00:32:08.300" style="s2"><span style="s4">the</span> employers paying but again all of</p>
+<p begin="00:32:06.860" end="00:32:10.059" style="s2"><span style="s4">these things</span><span style="s3"> are</span> very<span style="s3"> family-friendly</span></p>
+<p begin="00:32:08.300" end="00:32:12.620" style="s2"><span style="s3">and</span> I don&#39;t<span style="s3"> believe that</span><span style="s4"> being</span></p>
+<p begin="00:32:10.059" end="00:32:14.210" style="s2"><span style="s4">family-friendly</span> and being<span style="s3"> pro</span> employee</p>
+<p begin="00:32:12.620" end="00:32:17.110" style="s2">means<span style="s4"> your</span><span style="s3"> anti-business I</span><span style="s4"> think</span> those</p>
+<p begin="00:32:14.210" end="00:32:17.110" style="s2">two<span style="s3"> things</span> go<span style="s3"> hand</span> in hand</p>
+<p begin="00:32:22.840" end="00:32:30.410" style="s2"><span style="s3">hey</span> so I grew up in central<span style="s4"> Illinois</span> and</p>
+<p begin="00:32:26.920" end="00:32:33.290" style="s2"><span style="s3">after</span> moving<span style="s3"> to</span> Chicago notice there are</p>
+<p begin="00:32:30.410" end="00:32:35.480" style="s2">two very different places<span style="s4"> this new deal</span></p>
+<p begin="00:32:33.290" end="00:32:38.179" style="s2">that<span style="s4"> you</span> spoke about<span style="s3"> obviously</span> you&#39;re an</p>
+<p begin="00:32:35.480" end="00:32:41.080" style="s2">advocate<span style="s4"> for</span> technology as well<span style="s4"> how</span> are</p>
+<p begin="00:32:38.179" end="00:32:43.910" style="s2">we<span style="s3"> going to</span><span style="s4"> allow</span> for<span style="s4"> flexibility</span> in</p>
+<p begin="00:32:41.080" end="00:32:49.420" style="s2"><span style="s4">making</span> it so<span style="s3"> that</span> the value<span style="s3"> of</span> these</p>
+<p begin="00:32:43.910" end="00:32:52.420" style="s2">communities<span style="s3"> hold are respected yeah so</span></p>
+<p begin="00:32:49.420" end="00:32:52.420" style="s2">first</p>
+<p begin="00:32:52.800" end="00:32:55.470" style="s2">I don&#39;t believe<span style="s3"> people</span><span style="s4"> get</span> up in<span style="s4"> the</span></p>
+<p begin="00:32:54.420" end="00:32:57.450" style="s2">morning and look in<span style="s3"> the mirror and</span><span style="s4"> see</span></p>
+<p begin="00:32:55.470" end="00:32:59.190" style="s2">democrat or republican<span style="s3"> right</span> I just</p>
+<p begin="00:32:57.450" end="00:33:01.320" style="s2"><span style="s3">don&#39;t</span> think that<span style="s4"> people</span><span style="s3"> like</span> me<span style="s3"> forced</span></p>
+<p begin="00:32:59.190" end="00:33:03.150" style="s2"><span style="s3">you</span> to choose<span style="s4"> and</span> that&#39;s<span style="s4"> okay</span><span style="s3"> that&#39;s</span></p>
+<p begin="00:33:01.320" end="00:33:05.400" style="s2">that&#39;s<span style="s4"> what</span> elections are<span style="s3"> about</span> but<span style="s3"> I</span></p>
+<p begin="00:33:03.150" end="00:33:07.200" style="s2">don&#39;t<span style="s3"> think</span><span style="s4"> people maybe more recently</span></p>
+<p begin="00:33:05.400" end="00:33:09.950" style="s2">they do but<span style="s3"> I</span><span style="s4"> don&#39;t</span> think<span style="s4"> most</span><span style="s3"> people</span></p>
+<p begin="00:33:07.200" end="00:33:15.210" style="s2">think<span style="s3"> about</span> things that way</p>
+<p begin="00:33:09.950" end="00:33:16.800" style="s2">investment<span style="s4"> smart</span> investment creates jobs</p>
+<p begin="00:33:15.210" end="00:33:18.630" style="s2">and<span style="s4"> has</span> a multiplier<span style="s3"> effect I&#39;ll give</span></p>
+<p begin="00:33:16.800" end="00:33:21.929" style="s2"><span style="s4">you</span> an<span style="s4"> example we were in Carbondale</span></p>
+<p begin="00:33:18.630" end="00:33:23.370" style="s2">recently right and in Carbondale<span style="s3"> it blew</span></p>
+<p begin="00:33:21.929" end="00:33:25.980" style="s2"><span style="s3">because</span> there are a<span style="s4"> lot</span> of college<span style="s3"> kids</span></p>
+<p begin="00:33:23.370" end="00:33:28.860" style="s2">there it&#39;s<span style="s4"> SIU</span> right<span style="s4"> but</span> everything</p>
+<p begin="00:33:25.980" end="00:33:32.610" style="s2">around Carbondale is red<span style="s4"> you</span> take the</p>
+<p begin="00:33:28.860" end="00:33:37.910" style="s2">colors away<span style="s4"> SIU</span> is<span style="s3"> the</span> economic engine</p>
+<p begin="00:33:32.610" end="00:33:42.240" style="s2"><span style="s4">of southern Illinois</span><span style="s3"> so</span> when I see an</p>
+<p begin="00:33:37.910" end="00:33:46.020" style="s2">administration got higher ed or make</p>
+<p begin="00:33:42.240" end="00:33:48.570" style="s2">proposals<span style="s3"> and</span> say you know we shouldn&#39;t</p>
+<p begin="00:33:46.020" end="00:33:51.179" style="s2">have philosophy majors at SIU or Eastern</p>
+<p begin="00:33:48.570" end="00:33:54.150" style="s2">and Western<span style="s4"> we</span> should just have<span style="s4"> one</span></p>
+<p begin="00:33:51.179" end="00:33:56.420" style="s2">school<span style="s3"> that</span> has philosophy<span style="s4"> so</span> we can get</p>
+<p begin="00:33:54.150" end="00:33:59.610" style="s2"><span style="s4">rid</span><span style="s3"> of</span><span style="s4"> all</span> the<span style="s3"> professor&#39;s</span> and cut costs</p>
+<p begin="00:33:56.420" end="00:34:02.880" style="s2"><span style="s4">I&#39;m</span> one not<span style="s4"> only</span> is<span style="s3"> that</span> incredibly</p>
+<p begin="00:33:59.610" end="00:34:05.820" style="s2">elitist<span style="s3"> and this is</span><span style="s4"> coming</span><span style="s3"> from</span> a guy</p>
+<p begin="00:34:02.880" end="00:34:07.830" style="s2">who went<span style="s4"> to</span><span style="s3"> Harvard</span> and Dartmouth and</p>
+<p begin="00:34:05.820" end="00:34:10.230" style="s2"><span style="s4">the</span> look I went<span style="s4"> to</span><span style="s3"> UC</span> is for grad<span style="s3"> school</span></p>
+<p begin="00:34:07.830" end="00:34:13.050" style="s2">I get the you<span style="s4"> know</span> going to<span style="s4"> the</span> elite</p>
+<p begin="00:34:10.230" end="00:34:15.960" style="s2"><span style="s4">schools piece but I don&#39;t think</span> that I</p>
+<p begin="00:34:13.050" end="00:34:17.460" style="s2">also went to<span style="s4"> a</span> tiny school<span style="s4"> for</span> undergrad</p>
+<p begin="00:34:15.960" end="00:34:19.649" style="s2">Missouri Valley College in Central</p>
+<p begin="00:34:17.460" end="00:34:21.060" style="s2"><span style="s4">Missouri because I basically</span><span style="s3"> failed</span> out</p>
+<p begin="00:34:19.649" end="00:34:22.980" style="s2"><span style="s3">of</span> high school<span style="s3"> and</span> I<span style="s3"> don&#39;t</span><span style="s4"> have</span> any</p>
+<p begin="00:34:21.060" end="00:34:24.899" style="s2"><span style="s4">options</span> on what the<span style="s4"> Community College</span></p>
+<p begin="00:34:22.980" end="00:34:27.119" style="s2">failed out and<span style="s4"> had</span><span style="s3"> to</span> kind<span style="s4"> of</span> stumble my</p>
+<p begin="00:34:24.899" end="00:34:31.830" style="s2"><span style="s4">way</span> through<span style="s3"> before</span> I got my<span style="s3"> master</span></p>
+<p begin="00:34:27.119" end="00:34:35.790" style="s2">bachelor&#39;s degree if Missouri<span style="s4"> Valley</span></p>
+<p begin="00:34:31.830" end="00:34:37.619" style="s2"><span style="s4">College</span> didn&#39;t exist<span style="s3"> if</span> any<span style="s4"> a</span> you didn&#39;t</p>
+<p begin="00:34:35.790" end="00:34:39.540" style="s2">exist<span style="s3"> there</span> are lots of<span style="s4"> people</span> who</p>
+<p begin="00:34:37.619" end="00:34:41.340" style="s2">wouldn&#39;t have access<span style="s4"> to</span><span style="s3"> a</span> college degree</p>
+<p begin="00:34:39.540" end="00:34:45.480" style="s2"><span style="s4">because</span> otherwise we&#39;re<span style="s3"> just</span> asking</p>
+<p begin="00:34:41.340" end="00:34:47.669" style="s2"><span style="s4">people to go to U of I</span><span style="s3"> UIC</span> or one of the</p>
+<p begin="00:34:45.480" end="00:34:51.210" style="s2">elite schools or elite private schools I</p>
+<p begin="00:34:47.669" end="00:34:53.520" style="s2">should say<span style="s3"> I</span> mean you have people<span style="s3"> who</span></p>
+<p begin="00:34:51.210" end="00:34:56.190" style="s2">need to<span style="s4"> have</span><span style="s3"> access to a university</span> or</p>
+<p begin="00:34:53.520" end="00:34:57.720" style="s2">college<span style="s3"> that for a variety</span> of reasons</p>
+<p begin="00:34:56.190" end="00:35:00.060" style="s2">they<span style="s4"> might</span> have a child they<span style="s3"> may</span> need<span style="s3"> to</span></p>
+<p begin="00:34:57.720" end="00:35:02.130" style="s2"><span style="s3">work</span> one or two jobs<span style="s3"> maybe</span><span style="s4"> they</span> didn&#39;t</p>
+<p begin="00:35:00.060" end="00:35:05.070" style="s2">do so great in high school like I did</p>
+<p begin="00:35:02.130" end="00:35:06.099" style="s2">but<span style="s4"> they</span> need<span style="s3"> a</span><span style="s4"> they</span><span style="s3"> need</span> they need a an</p>
+<p begin="00:35:05.070" end="00:35:07.569" style="s2">opportunity my</p>
+<p begin="00:35:06.099" end="00:35:09.489" style="s2">about saying<span style="s4"> this</span> is so when we&#39;re in</p>
+<p begin="00:35:07.569" end="00:35:12.489" style="s2">Carbondale<span style="s4"> and</span> you&#39;re<span style="s3"> watching</span><span style="s4"> a</span></p>
+<p begin="00:35:09.489" end="00:35:15.299" style="s2">university<span style="s3"> that</span> lost<span style="s3"> 20% of their</span></p>
+<p begin="00:35:12.489" end="00:35:18.789" style="s2">students from<span style="s4"> last</span> year to this<span style="s3"> year</span></p>
+<p begin="00:35:15.299" end="00:35:20.410" style="s2"><span style="s4">because</span><span style="s3"> of</span> a state<span style="s4"> budget</span> impasse that&#39;s</p>
+<p begin="00:35:18.789" end="00:35:22.869" style="s2">immoral<span style="s4"> and I&#39;ll tell you why</span></p>
+<p begin="00:35:20.410" end="00:35:24.460" style="s2">SIU<span style="s3"> is</span> not only an institution that</p>
+<p begin="00:35:22.869" end="00:35:27.009" style="s2"><span style="s4">serves</span> undergraduates<span style="s3"> they</span> also have a</p>
+<p begin="00:35:24.460" end="00:35:29.619" style="s2"><span style="s4">medical school there so</span><span style="s3"> when</span> I<span style="s4"> think</span></p>
+<p begin="00:35:27.009" end="00:35:32.619" style="s2">about<span style="s3"> investing</span> in Carbondale there&#39;s</p>
+<p begin="00:35:29.619" end="00:35:34.269" style="s2"><span style="s3">the</span><span style="s4"> one</span> easy<span style="s3"> thing</span> we can do if someone</p>
+<p begin="00:35:32.619" end="00:35:36.729" style="s2"><span style="s4">gets</span> into<span style="s4"> an accident in</span><span style="s3"> southern</span></p>
+<p begin="00:35:34.269" end="00:35:39.069" style="s2">Illinois<span style="s3"> and</span><span style="s4"> you</span> need<span style="s4"> to</span> be<span style="s3"> airlifted</span></p>
+<p begin="00:35:36.729" end="00:35:41.799" style="s2"><span style="s4">there</span> is no trauma center in southern</p>
+<p begin="00:35:39.069" end="00:35:47.109" style="s2"><span style="s4">Illinois</span><span style="s3"> you</span> get<span style="s3"> airlifted</span> to global or</p>
+<p begin="00:35:41.799" end="00:35:48.999" style="s2">st. Louis yet we have SIU which has a</p>
+<p begin="00:35:47.109" end="00:35:51.309" style="s2"><span style="s3">medical</span><span style="s4"> school so when I think</span><span style="s3"> about</span> an</p>
+<p begin="00:35:48.999" end="00:35:53.319" style="s2"><span style="s3">economic</span> driver<span style="s3"> if</span> you build a trauma</p>
+<p begin="00:35:51.309" end="00:35:55.839" style="s2">center<span style="s3"> you&#39;re</span> building you&#39;re creating</p>
+<p begin="00:35:53.319" end="00:35:57.759" style="s2"><span style="s3">trade</span> jobs<span style="s4"> right</span> for the building trades</p>
+<p begin="00:35:55.839" end="00:35:58.930" style="s2">those are great<span style="s3"> Union</span> jobs<span style="s4"> but once you</span></p>
+<p begin="00:35:57.759" end="00:36:00.190" style="s2">build that thing<span style="s4"> you&#39;re going</span><span style="s3"> to</span><span style="s4"> have</span></p>
+<p begin="00:35:58.930" end="00:36:02.049" style="s2">faculty<span style="s4"> that</span> you&#39;re going<span style="s4"> to</span> need to</p>
+<p begin="00:36:00.190" end="00:36:02.979" style="s2">train people up<span style="s4"> and</span> most importantly</p>
+<p begin="00:36:02.049" end="00:36:05.319" style="s2">you&#39;re<span style="s4"> going</span> to have<span style="s4"> those</span> trauma</p>
+<p begin="00:36:02.979" end="00:36:07.809" style="s2">surgeons and doctors and nurses<span style="s3"> that</span> go</p>
+<p begin="00:36:05.319" end="00:36:10.900" style="s2">along<span style="s3"> with</span> the trauma center who also</p>
+<p begin="00:36:07.809" end="00:36:13.029" style="s2"><span style="s4">bring their you know</span> in some<span style="s4"> cases</span></p>
+<p begin="00:36:10.900" end="00:36:15.069" style="s2"><span style="s3">sizable</span> salaries with them<span style="s3"> to</span> the</p>
+<p begin="00:36:13.029" end="00:36:17.619" style="s2"><span style="s4">community</span> which by the way helps their</p>
+<p begin="00:36:15.069" end="00:36:19.719" style="s2">tax base<span style="s4"> sales</span> tax base<span style="s4"> and</span> property</p>
+<p begin="00:36:17.619" end="00:36:22.690" style="s2">taxes<span style="s4"> so</span> when I<span style="s4"> think</span><span style="s3"> about</span> an economic</p>
+<p begin="00:36:19.719" end="00:36:24.819" style="s2"><span style="s3">stimulus I don&#39;t think about</span> starving</p>
+<p begin="00:36:22.690" end="00:36:27.729" style="s2">public institutions<span style="s3"> I</span> think<span style="s3"> you</span> double</p>
+<p begin="00:36:24.819" end="00:36:29.799" style="s2">down on<span style="s4"> them and you figure out what&#39;s</span></p>
+<p begin="00:36:27.729" end="00:36:32.589" style="s2"><span style="s3">missing</span><span style="s4"> and</span> there&#39;s a lot of<span style="s3"> low-hanging</span></p>
+<p begin="00:36:29.799" end="00:36:34.599" style="s2">fruit like this<span style="s4"> around</span> the state so<span style="s4"> that</span></p>
+<p begin="00:36:32.589" end="00:36:35.979" style="s2">is what I when we go around<span style="s4"> to central</span></p>
+<p begin="00:36:34.599" end="00:36:37.630" style="s2"><span style="s4">in southern</span><span style="s3"> Illinois</span> these are the</p>
+<p begin="00:36:35.979" end="00:36:38.829" style="s2">conversations<span style="s3"> we</span> have and it&#39;s the<span style="s4"> same</span></p>
+<p begin="00:36:37.630" end="00:36:40.690" style="s2"><span style="s4">one</span><span style="s3"> that</span> I&#39;m<span style="s3"> having</span> you tonight<span style="s4"> it&#39;s</span></p>
+<p begin="00:36:38.829" end="00:36:41.979" style="s2">unapologetic which is these are</p>
+<p begin="00:36:40.690" end="00:36:45.880" style="s2">investments<span style="s4"> that</span> we should be making<span style="s4"> in</span></p>
+<p begin="00:36:41.979" end="00:36:47.619" style="s2">one another<span style="s3"> because</span> if SIU has a trauma</p>
+<p begin="00:36:45.880" end="00:36:49.569" style="s2">center attached to it and if one of<span style="s3"> us</span></p>
+<p begin="00:36:47.619" end="00:36:50.589" style="s2">you know<span style="s3"> God</span> forbid<span style="s3"> has</span> something</p>
+<p begin="00:36:49.569" end="00:36:52.569" style="s2">happened<span style="s4"> to</span><span style="s3"> us</span> where we need to<span style="s4"> be</span> a</p>
+<p begin="00:36:50.589" end="00:36:56.529" style="s2">trauma<span style="s3"> sir</span> not only<span style="s3"> do</span><span style="s4"> we have access</span><span style="s3"> as</span></p>
+<p begin="00:36:52.569" end="00:36:58.779" style="s2">a<span style="s4"> Illinoisan</span> but we&#39;ve also then helped</p>
+<p begin="00:36:56.529" end="00:37:01.450" style="s2">build up a<span style="s4"> community and by</span><span style="s3"> the</span> way to</p>
+<p begin="00:36:58.779" end="00:37:04.630" style="s2">attract<span style="s4"> more</span> students not starve them</p>
+<p begin="00:37:01.450" end="00:37:06.960" style="s2">not consolidate programs<span style="s4"> double</span> down on</p>
+<p begin="00:37:04.630" end="00:37:06.960" style="s2"><span style="s4">them</span></p>
+<p begin="00:37:09.619" end="00:37:16.560" style="s2">so I guess in your time is the ultimate</p>
+<p begin="00:37:13.410" end="00:37:18.390" style="s2">of<span style="s3"> 40-some Ford</span><span style="s4"> what</span> did you learn and</p>
+<p begin="00:37:16.560" end="00:37:22.440" style="s2"><span style="s4">and every time</span> is<span style="s4"> the</span> public official</p>
+<p begin="00:37:18.390" end="00:37:24.300" style="s2">that makes you feel<span style="s4"> as</span><span style="s3"> though you&#39;re</span></p>
+<p begin="00:37:22.440" end="00:37:27.359" style="s2">qualified<span style="s3"> to</span> be<span style="s4"> the</span> governor<span style="s3"> of</span> the</p>
+<p begin="00:37:24.300" end="00:37:30.150" style="s2">state<span style="s4"> and</span> what can someone from the</p>
+<p begin="00:37:27.359" end="00:37:32.910" style="s2">force on Ford learn about the rest<span style="s3"> of</span></p>
+<p begin="00:37:30.150" end="00:37:38.430" style="s2"><span style="s4">the</span> state that is<span style="s4"> that</span> is different from</p>
+<p begin="00:37:32.910" end="00:37:42.150" style="s2"><span style="s3">what</span> we<span style="s3"> experience</span><span style="s4"> so</span> a couple things</p>
+<p begin="00:37:38.430" end="00:37:44.849" style="s2"><span style="s4">let</span> me<span style="s4"> first</span> by<span style="s4"> saying</span> maybe it&#39;s a</p>
+<p begin="00:37:42.150" end="00:37:46.050" style="s2">little<span style="s4"> cute</span> but I think I&#39;m qualified to</p>
+<p begin="00:37:44.849" end="00:37:49.020" style="s2"><span style="s4">be</span> governor in the same way that a</p>
+<p begin="00:37:46.050" end="00:37:52.500" style="s2"><span style="s4">billionaire</span> is<span style="s4"> I&#39;m</span> registered to vote</p>
+<p begin="00:37:49.020" end="00:37:56.220" style="s2"><span style="s4">you</span> know I believe<span style="s3"> in</span> the state I&#39;m old</p>
+<p begin="00:37:52.500" end="00:37:59.400" style="s2">enough<span style="s4"> and</span> I believe and I believe<span style="s4"> in</span></p>
+<p begin="00:37:56.220" end="00:38:08.599" style="s2">public<span style="s4"> service let me say that first</span></p>
+<p begin="00:37:59.400" end="00:38:10.619" style="s2">second thank you second I think<span style="s4"> what</span></p>
+<p begin="00:38:08.599" end="00:38:12.570" style="s2"><span style="s3">what&#39;s</span> interesting about<span style="s4"> being</span> an<span style="s3"> all</span></p>
+<p begin="00:38:10.619" end="00:38:13.589" style="s2"><span style="s3">around</span><span style="s4"> is that I have to get in front of</span></p>
+<p begin="00:38:12.570" end="00:38:15.330" style="s2">crowds like<span style="s3"> this</span> all the<span style="s3"> time</span> I&#39;ll</p>
+<p begin="00:38:13.589" end="00:38:17.760" style="s2">accept a lot<span style="s4"> of</span> times they<span style="s4"> can</span> be</p>
+<p begin="00:38:15.330" end="00:38:19.650" style="s2">hostile right and because you&#39;re<span style="s3"> making</span></p>
+<p begin="00:38:17.760" end="00:38:23.190" style="s2">decisions<span style="s3"> about</span> zoning<span style="s4"> you&#39;re</span> making</p>
+<p begin="00:38:19.650" end="00:38:26.849" style="s2">decisions<span style="s3"> about</span> services about<span style="s3"> land-use</span></p>
+<p begin="00:38:23.190" end="00:38:30.270" style="s2">about any host of issues<span style="s4"> at</span> a local</p>
+<p begin="00:38:26.849" end="00:38:32.369" style="s2">level<span style="s4"> that</span> often require us to<span style="s3"> get</span> in</p>
+<p begin="00:38:30.270" end="00:38:34.680" style="s2">front<span style="s4"> of</span> the<span style="s4"> community take feedback and</span></p>
+<p begin="00:38:32.369" end="00:38:37.080" style="s2">many times also<span style="s4"> make</span><span style="s3"> decisions</span> that you</p>
+<p begin="00:38:34.680" end="00:38:39.150" style="s2">know you&#39;re not making<span style="s3"> people</span> happy</p>
+<p begin="00:38:37.080" end="00:38:40.770" style="s2">today<span style="s4"> but</span> you&#39;re doing<span style="s3"> them</span> to help</p>
+<p begin="00:38:39.150" end="00:38:43.500" style="s2">hopefully prepare the community<span style="s3"> for the</span></p>
+<p begin="00:38:40.770" end="00:38:45.930" style="s2">future<span style="s3"> and</span> I<span style="s3"> think</span> making<span style="s3"> sure</span> that we</p>
+<p begin="00:38:43.500" end="00:38:47.820" style="s2">have<span style="s3"> that</span> two-way dialogue<span style="s4"> making</span><span style="s3"> sure</span></p>
+<p begin="00:38:45.930" end="00:38:49.560" style="s2">that we&#39;re<span style="s3"> talking to our constituents</span></p>
+<p begin="00:38:47.820" end="00:38:51.000" style="s2">we live in the<span style="s4"> community</span> that we</p>
+<p begin="00:38:49.560" end="00:38:53.250" style="s2">represent</p>
+<p begin="00:38:51.000" end="00:38:55.500" style="s2">we are<span style="s4"> ever-present it&#39;s kind of like</span></p>
+<p begin="00:38:53.250" end="00:38:56.550" style="s2">being a d-list celebrity<span style="s4"> right</span> everyone</p>
+<p begin="00:38:55.500" end="00:38:59.420" style="s2">knows who<span style="s4"> you</span> are</p>
+<p begin="00:38:56.550" end="00:39:02.839" style="s2"><span style="s3">to</span> kind of<span style="s4"> like</span><span style="s3"> you</span> I<span style="s3"> think</span> hopefully</p>
+<p begin="00:38:59.420" end="00:39:05.700" style="s2"><span style="s4">but the thing about being</span><span style="s3"> an</span> alderman is</p>
+<p begin="00:39:02.839" end="00:39:07.200" style="s2">you have to talk<span style="s4"> to people you</span><span style="s3"> have</span><span style="s4"> to</span></p>
+<p begin="00:39:05.700" end="00:39:09.690" style="s2">get in<span style="s3"> front</span><span style="s4"> of</span> them<span style="s3"> I</span> can&#39;t just go on</p>
+<p begin="00:39:07.200" end="00:39:11.580" style="s2"><span style="s4">and</span> get<span style="s4"> it</span> run a commercial<span style="s4"> or</span> stay<span style="s4"> on</span></p>
+<p begin="00:39:09.690" end="00:39:13.619" style="s2">social media<span style="s4"> I&#39;ve</span> got to live in the</p>
+<p begin="00:39:11.580" end="00:39:15.480" style="s2">community<span style="s3"> talk</span> to my neighbors<span style="s4"> and</span> then</p>
+<p begin="00:39:13.619" end="00:39:17.220" style="s2">work with<span style="s3"> them</span><span style="s4"> on</span> the<span style="s4"> issues</span> that<span style="s4"> impact</span></p>
+<p begin="00:39:15.480" end="00:39:19.559" style="s2">them<span style="s4"> and</span> the decisions I make today<span style="s4"> are</span></p>
+<p begin="00:39:17.220" end="00:39:21.180" style="s2">almost always felt</p>
+<p begin="00:39:19.559" end="00:39:24.539" style="s2">my community<span style="s4"> the</span> next<span style="s4"> day</span> or the</p>
+<p begin="00:39:21.180" end="00:39:28.289" style="s2"><span style="s4">following week and</span> so building consensus</p>
+<p begin="00:39:24.539" end="00:39:31.680" style="s2">having a two-way conversation<span style="s4"> in</span> many</p>
+<p begin="00:39:28.289" end="00:39:33.779" style="s2">cases having the tough conversation and</p>
+<p begin="00:39:31.680" end="00:39:36.199" style="s2"><span style="s4">having</span> to<span style="s3"> explain</span> my<span style="s3"> votes</span><span style="s4"> and</span> having to</p>
+<p begin="00:39:33.779" end="00:39:36.199" style="s2">do<span style="s4"> it</span> often</p>
+<p begin="00:39:45.049" end="00:39:47.279" style="s2">first of all thank you for<span style="s3"> coming</span></p>
+<p begin="00:39:46.619" end="00:39:48.689" style="s2"><span style="s3">tonight</span></p>
+<p begin="00:39:47.279" end="00:39:52.079" style="s2">second of<span style="s4"> all</span> I didn&#39;t<span style="s4"> know</span> your</p>
+<p begin="00:39:48.689" end="00:39:54.059" style="s2">background<span style="s3"> was</span> in<span style="s4"> disaster</span><span style="s3"> management</span><span style="s4"> we</span></p>
+<p begin="00:39:52.079" end="00:39:55.799" style="s2">very many will need that in the state of</p>
+<p begin="00:39:54.059" end="00:39:59.759" style="s2"><span style="s4">Illinois</span> so I think<span style="s3"> that&#39;s</span> gold star by</p>
+<p begin="00:39:55.799" end="00:40:02.130" style="s2">your name<span style="s3"> second</span><span style="s4"> point</span> is<span style="s4"> I&#39;m</span> a</p>
+<p begin="00:39:59.759" end="00:40:04.529" style="s2">progressive<span style="s4"> and</span> I&#39;m just enfranchised</p>
+<p begin="00:40:02.130" end="00:40:06.089" style="s2">with the way the state<span style="s4"> namely Democrats</span></p>
+<p begin="00:40:04.529" end="00:40:08.279" style="s2">to be<span style="s4"> honest with you have</span> run the state</p>
+<p begin="00:40:06.089" end="00:40:10.019" style="s2"><span style="s3">I</span> don&#39;t<span style="s4"> think</span> we can<span style="s3"> subset ourselves</span><span style="s4"> up</span></p>
+<p begin="00:40:08.279" end="00:40:12.989" style="s2">as a<span style="s3"> National Party we can&#39;t</span> even<span style="s3"> run</span></p>
+<p begin="00:40:10.019" end="00:40:16.529" style="s2">our state<span style="s4"> so</span> in my question<span style="s4"> to you is</span></p>
+<p begin="00:40:12.989" end="00:40:20.130" style="s2">what specifically do<span style="s3"> you</span> have in plan to</p>
+<p begin="00:40:16.529" end="00:40:22.079" style="s2">get us<span style="s4"> back in order in</span> the<span style="s3"> state</span> with</p>
+<p begin="00:40:20.130" end="00:40:24.299" style="s2"><span style="s3">all</span><span style="s4"> the</span> powers of because<span style="s4"> like</span> it<span style="s3"> or</span> not</p>
+<p begin="00:40:22.079" end="00:40:26.400" style="s2">the<span style="s4"> machine</span> is<span style="s4"> machine</span> and we really</p>
+<p begin="00:40:24.299" end="00:40:29.759" style="s2">need somebody<span style="s4"> to come in there</span> and have</p>
+<p begin="00:40:26.400" end="00:40:31.829" style="s2"><span style="s3">a</span> really<span style="s4"> set</span> plan and execute it<span style="s3"> so</span> I&#39;m</p>
+<p begin="00:40:29.759" end="00:40:34.559" style="s2">really<span style="s3"> looking</span> forward<span style="s4"> seeing</span> with what</p>
+<p begin="00:40:31.829" end="00:40:35.699" style="s2">you have in<span style="s3"> mind</span> for<span style="s3"> that so everything</span></p>
+<p begin="00:40:34.559" end="00:40:37.170" style="s2"><span style="s4">that&#39;s a great question everything</span><span style="s3"> that</span></p>
+<p begin="00:40:35.699" end="00:40:39.989" style="s2">I<span style="s3"> outlined</span> with the<span style="s3"> New Deal takes</span></p>
+<p begin="00:40:37.170" end="00:40:41.999" style="s2">revenue<span style="s4"> and</span> it requires taxes I&#39;m not</p>
+<p begin="00:40:39.989" end="00:40:44.369" style="s2">scared to use<span style="s3"> a t</span><span style="s4"> word it is something</span></p>
+<p begin="00:40:41.999" end="00:40:45.959" style="s2">we have<span style="s4"> to</span> do it is but we have<span style="s3"> to do it</span></p>
+<p begin="00:40:44.369" end="00:40:47.369" style="s2">fairly<span style="s4"> see</span> what our<span style="s3"> governors</span> talked</p>
+<p begin="00:40:45.959" end="00:40:51.059" style="s2">about raising<span style="s4"> taxes but he wants to</span></p>
+<p begin="00:40:47.369" end="00:40:52.439" style="s2"><span style="s4">raise</span> it and on the flat tax basis<span style="s4"> we</span></p>
+<p begin="00:40:51.059" end="00:40:55.289" style="s2">are<span style="s4"> one</span> of<span style="s3"> the</span> few<span style="s3"> states</span> in<span style="s4"> the</span><span style="s3"> entire</span></p>
+<p begin="00:40:52.439" end="00:40:57.539" style="s2">Union the taxes on a flat right and that</p>
+<p begin="00:40:55.289" end="00:40:59.939" style="s2"><span style="s4">makes</span> everything inequitable<span style="s3"> that&#39;s</span> why</p>
+<p begin="00:40:57.539" end="00:41:02.339" style="s2">we<span style="s3"> are</span> so it starts<span style="s3"> out</span> recognizing this</p>
+<p begin="00:40:59.939" end="00:41:04.229" style="s2">state is not<span style="s4"> broke</span> we are the fifth</p>
+<p begin="00:41:02.339" end="00:41:06.089" style="s2">largest<span style="s3"> economy</span> in<span style="s4"> the</span> country<span style="s4"> it&#39;s</span> a</p>
+<p begin="00:41:04.229" end="00:41:07.709" style="s2">seven hundred<span style="s4"> billion</span><span style="s3"> dollar</span> economy<span style="s3"> it</span></p>
+<p begin="00:41:06.089" end="00:41:10.499" style="s2">is<span style="s3"> an</span><span style="s4"> economy</span> that&#39;s bigger than<span style="s4"> most</span></p>
+<p begin="00:41:07.709" end="00:41:12.599" style="s2">states<span style="s4"> we</span> have<span style="s3"> the</span> money we<span style="s3"> don&#39;t</span><span style="s4"> have</span></p>
+<p begin="00:41:10.499" end="00:41:14.429" style="s2"><span style="s4">the</span> political<span style="s3"> will</span><span style="s4"> and</span> we haven&#39;t<span style="s4"> had</span></p>
+<p begin="00:41:12.599" end="00:41:16.109" style="s2">the political<span style="s4"> will</span><span style="s3"> to</span> tax fairly so that</p>
+<p begin="00:41:14.429" end="00:41:16.469" style="s2">everyone pays<span style="s4"> their</span> fair share<span style="s4"> that&#39;s</span></p>
+<p begin="00:41:16.109" end="00:41:18.539" style="s2">first</p>
+<p begin="00:41:16.469" end="00:41:20.400" style="s2">second there<span style="s4"> is</span> a narrative that<span style="s3"> we</span> all</p>
+<p begin="00:41:18.539" end="00:41:22.589" style="s2">have to combat and<span style="s4"> that</span> is that we<span style="s3"> are</span></p>
+<p begin="00:41:20.400" end="00:41:24.390" style="s2">all<span style="s3"> fighting</span> over<span style="s4"> scraps</span><span style="s3"> see</span> the thing</p>
+<p begin="00:41:22.589" end="00:41:26.819" style="s2">is<span style="s4"> our</span> governor goes<span style="s3"> downstate</span><span style="s4"> and</span> says</p>
+<p begin="00:41:24.390" end="00:41:29.400" style="s2">let&#39;s run against<span style="s4"> the</span><span style="s3"> Chicago</span> machine he</p>
+<p begin="00:41:26.819" end="00:41:31.859" style="s2"><span style="s3">called</span> Chicago<span style="s4"> schools</span> prisons<span style="s4"> it&#39;s</span> a</p>
+<p begin="00:41:29.400" end="00:41:33.030" style="s2">very smart tactic<span style="s4"> because</span> it<span style="s4"> keeps</span> us</p>
+<p begin="00:41:31.859" end="00:41:35.970" style="s2">divided</p>
+<p begin="00:41:33.030" end="00:41:38.190" style="s2">and it doesn&#39;t<span style="s4"> allow</span> people who<span style="s4"> have</span></p>
+<p begin="00:41:35.970" end="00:41:40.740" style="s2">common interests or more importantly</p>
+<p begin="00:41:38.190" end="00:41:43.380" style="s2">impacted by common inequities<span style="s4"> to</span> unite</p>
+<p begin="00:41:40.740" end="00:41:46.020" style="s2"><span style="s4">around</span><span style="s3"> issues</span> so I didn&#39;t give<span style="s3"> you</span><span style="s4"> my</span></p>
+<p begin="00:41:43.380" end="00:41:48.330" style="s2"><span style="s4">stump</span> tonight<span style="s3"> because</span><span style="s4"> we</span> were one of the</p>
+<p begin="00:41:46.020" end="00:41:50.670" style="s2"><span style="s4">top</span><span style="s3"> left technology but what I do say</span></p>
+<p begin="00:41:48.330" end="00:41:54.450" style="s2"><span style="s4">when</span> I go and talk<span style="s3"> to people in town</span></p>
+<p begin="00:41:50.670" end="00:41:57.360" style="s2">halls or in meetings<span style="s4"> like</span> this is divide</p>
+<p begin="00:41:54.450" end="00:42:00.090" style="s2"><span style="s3">and</span> rule<span style="s4"> a</span> tactic that<span style="s4"> governor</span> rauner</p>
+<p begin="00:41:57.360" end="00:42:02.130" style="s2">uses is a common tactic it&#39;s what the</p>
+<p begin="00:42:00.090" end="00:42:03.840" style="s2"><span style="s3">president</span> did<span style="s4"> at</span> the national level</p>
+<p begin="00:42:02.130" end="00:42:04.500" style="s2"><span style="s4">divide</span><span style="s3"> orbing</span> communities<span style="s3"> in</span><span style="s4"> rural</span></p>
+<p begin="00:42:03.840" end="00:42:07.260" style="s2"><span style="s4">communities</span></p>
+<p begin="00:42:04.500" end="00:42:11.310" style="s2">based on these false dichotomies around</p>
+<p begin="00:42:07.260" end="00:42:13.350" style="s2">culture<span style="s4"> or</span> class<span style="s3"> and</span> the thing is it is</p>
+<p begin="00:42:11.310" end="00:42:17.430" style="s2">a common tactic and I use my family&#39;s</p>
+<p begin="00:42:13.350" end="00:42:20.490" style="s2">example<span style="s4"> when</span> I talk<span style="s4"> about</span> this if you</p>
+<p begin="00:42:17.430" end="00:42:22.470" style="s2">allow<span style="s3"> me</span><span style="s4"> to give you</span> this example<span style="s4"> so</span> my</p>
+<p begin="00:42:20.490" end="00:42:24.930" style="s2">dad came here<span style="s4"> from India</span></p>
+<p begin="00:42:22.470" end="00:42:27.870" style="s2"><span style="s3">my</span> dad<span style="s4"> was</span> born<span style="s3"> in</span> India<span style="s3"> under</span> British</p>
+<p begin="00:42:24.930" end="00:42:30.810" style="s2">rule<span style="s4"> and</span> I<span style="s4"> used that example because</span></p>
+<p begin="00:42:27.870" end="00:42:32.610" style="s2"><span style="s3">what</span><span style="s4"> the</span> British did is they divided and</p>
+<p begin="00:42:30.810" end="00:42:35.400" style="s2"><span style="s4">they&#39;re ruled because</span><span style="s3"> the</span> British were</p>
+<p begin="00:42:32.610" end="00:42:38.580" style="s2">few and wealthy<span style="s4"> and</span> the Indians<span style="s4"> were</span></p>
+<p begin="00:42:35.400" end="00:42:40.140" style="s2">many and were kept poor and what&#39;s</p>
+<p begin="00:42:38.580" end="00:42:42.720" style="s2">important about that<span style="s4"> is</span> the way the</p>
+<p begin="00:42:40.140" end="00:42:46.470" style="s2">British held<span style="s4"> on</span><span style="s3"> to power</span><span style="s4"> was</span> a divided</p>
+<p begin="00:42:42.720" end="00:42:49.170" style="s2"><span style="s4">Indians based on where they lived based</span></p>
+<p begin="00:42:46.470" end="00:42:51.990" style="s2"><span style="s4">on</span> what they did<span style="s4"> for</span> a living<span style="s4"> based on</span></p>
+<p begin="00:42:49.170" end="00:42:55.950" style="s2">their religion<span style="s3"> and</span> based on other sort</p>
+<p begin="00:42:51.990" end="00:42:57.840" style="s2"><span style="s4">of</span> ethnic or geographical divides that&#39;s</p>
+<p begin="00:42:55.950" end="00:42:59.640" style="s2">how they kept<span style="s3"> Indians</span> starving<span style="s4"> and</span></p>
+<p begin="00:42:57.840" end="00:43:02.970" style="s2">literally fighting<span style="s4"> one</span><span style="s3"> another</span> over</p>
+<p begin="00:42:59.640" end="00:43:05.790" style="s2">scraps<span style="s4"> so</span> that a minority<span style="s4"> could</span> rule the</p>
+<p begin="00:43:02.970" end="00:43:07.050" style="s2"><span style="s3">majority</span> now when I<span style="s4"> think</span><span style="s3"> about</span> what&#39;s</p>
+<p begin="00:43:05.790" end="00:43:10.020" style="s2">happening<span style="s4"> in</span> this<span style="s3"> country</span><span style="s4"> and</span> in this</p>
+<p begin="00:43:07.050" end="00:43:12.270" style="s2">state<span style="s3"> I</span> don&#39;t see any<span style="s4"> difference</span><span style="s3"> so the</span></p>
+<p begin="00:43:10.020" end="00:43:15.990" style="s2">British used<span style="s4"> physical</span> violence over the</p>
+<p begin="00:43:12.270" end="00:43:17.610" style="s2"><span style="s4">Indians but</span><span style="s3"> what</span> I see happening<span style="s3"> between</span></p>
+<p begin="00:43:15.990" end="00:43:20.640" style="s2">those who have and<span style="s3"> those</span> who<span style="s4"> don&#39;t</span><span style="s3"> and</span></p>
+<p begin="00:43:17.610" end="00:43:23.450" style="s2">more specifically<span style="s4"> the</span> politics of divide</p>
+<p begin="00:43:20.640" end="00:43:27.360" style="s2">and<span style="s4"> rule is its economic violence</span></p>
+<p begin="00:43:23.450" end="00:43:28.530" style="s2"><span style="s4">there&#39;s</span> no reason why<span style="s4"> people</span> in central</p>
+<p begin="00:43:27.360" end="00:43:30.080" style="s2">and southern Illinois<span style="s3"> should</span> be</p>
+<p begin="00:43:28.530" end="00:43:32.970" style="s2">threatened<span style="s3"> by</span> the city of<span style="s4"> Chicago</span> and</p>
+<p begin="00:43:30.080" end="00:43:35.250" style="s2">our response that should be well<span style="s4"> we are</span></p>
+<p begin="00:43:32.970" end="00:43:37.170" style="s2">the population center<span style="s4"> we</span> pay a ton<span style="s4"> of</span></p>
+<p begin="00:43:35.250" end="00:43:39.420" style="s2">taxes<span style="s3"> so</span> of course we<span style="s3"> should</span> get the</p>
+<p begin="00:43:37.170" end="00:43:42.810" style="s2"><span style="s4">billion</span> dollars for<span style="s4"> the</span> CTA<span style="s4"> the</span> thing is</p>
+<p begin="00:43:39.420" end="00:43:46.080" style="s2">that<span style="s3"> conversation</span> is it easy one<span style="s4"> to</span> win</p>
+<p begin="00:43:42.810" end="00:43:46.960" style="s2"><span style="s4">one</span> elections to say blame them blame</p>
+<p begin="00:43:46.080" end="00:43:49.869" style="s2">those people up</p>
+<p begin="00:43:46.960" end="00:43:52.000" style="s2">Chicago or<span style="s3"> Blaine</span><span style="s4"> you</span> know<span style="s4"> we&#39;ll</span> say</p>
+<p begin="00:43:49.869" end="00:43:54.849" style="s2">blame the<span style="s3"> hail</span><span style="s4"> Billy&#39;s</span> over there right</p>
+<p begin="00:43:52.000" end="00:43:55.960" style="s2"><span style="s4">that&#39;s</span> easy to do it&#39;s easy to pit</p>
+<p begin="00:43:54.849" end="00:43:58.510" style="s2">people<span style="s4"> against</span> so that&#39;s why it&#39;s easy</p>
+<p begin="00:43:55.960" end="00:44:00.490" style="s2">to<span style="s4"> pit</span> people<span style="s3"> even</span> white poverty<span style="s4"> is</span> so</p>
+<p begin="00:43:58.510" end="00:44:05.260" style="s2">hard to talk about<span style="s4"> because</span> people laugh</p>
+<p begin="00:44:00.490" end="00:44:07.630" style="s2">at what poor white people the<span style="s4"> issues</span> on</p>
+<p begin="00:44:05.260" end="00:44:10.080" style="s2">school<span style="s4"> funding touch every</span><span style="s3"> single</span></p>
+<p begin="00:44:07.630" end="00:44:14.440" style="s2">community<span style="s4"> unless you live in Wilmette or</span></p>
+<p begin="00:44:10.080" end="00:44:18.280" style="s2">Kenilworth every community experiences</p>
+<p begin="00:44:14.440" end="00:44:19.930" style="s2">inequity every working family<span style="s4"> from the</span></p>
+<p begin="00:44:18.280" end="00:44:22.240" style="s2"><span style="s4">upper-middle</span> class and all the way<span style="s4"> down</span></p>
+<p begin="00:44:19.930" end="00:44:25.060" style="s2"><span style="s4">has</span> to<span style="s3"> figure</span><span style="s4"> out how to make</span> childcare</p>
+<p begin="00:44:22.240" end="00:44:27.970" style="s2">work<span style="s4"> these</span><span style="s3"> are</span><span style="s4"> common</span><span style="s3"> issues</span><span style="s4"> and</span> so</p>
+<p begin="00:44:25.060" end="00:44:30.550" style="s2"><span style="s3">might</span> we<span style="s4"> call</span> our campaign<span style="s3"> a new deal</span></p>
+<p begin="00:44:27.970" end="00:44:34.869" style="s2"><span style="s3">because</span><span style="s4"> the beauty of the</span> original New</p>
+<p begin="00:44:30.550" end="00:44:36.640" style="s2">Deal wasn&#39;t the spending it was that we</p>
+<p begin="00:44:34.869" end="00:44:38.920" style="s2">brought together a coalition of<span style="s4"> people</span></p>
+<p begin="00:44:36.640" end="00:44:41.080" style="s2"><span style="s4">that</span> didn&#39;t exist before<span style="s3"> they</span> couldn&#39;t</p>
+<p begin="00:44:38.920" end="00:44:43.060" style="s2">work together<span style="s4"> but</span> they did to invest in</p>
+<p begin="00:44:41.080" end="00:44:44.650" style="s2"><span style="s3">themselves</span><span style="s4"> farmers and factory</span><span style="s3"> workers</span></p>
+<p begin="00:44:43.060" end="00:44:46.780" style="s2"><span style="s4">rural</span><span style="s3"> communities</span><span style="s4"> and</span><span style="s3"> urban</span> communities</p>
+<p begin="00:44:44.650" end="00:44:49.240" style="s2"><span style="s4">around</span> this idea<span style="s4"> that</span> we<span style="s4"> need</span> to invest</p>
+<p begin="00:44:46.780" end="00:44:52.119" style="s2"><span style="s4">in</span> one another<span style="s4"> and</span> so my point<span style="s4"> to</span><span style="s3"> you</span></p>
+<p begin="00:44:49.240" end="00:44:53.890" style="s2"><span style="s4">I&#39;m</span> saying all this is the party the</p>
+<p begin="00:44:52.119" end="00:44:57.580" style="s2"><span style="s4">Democratic Party is part of</span> the<span style="s4"> problem</span></p>
+<p begin="00:44:53.890" end="00:45:00.400" style="s2">I acknowledge<span style="s3"> that</span> but the only<span style="s4"> way to</span></p>
+<p begin="00:44:57.580" end="00:45:03.730" style="s2">move beyond<span style="s4"> these</span> we can&#39;t focus on</p>
+<p begin="00:45:00.400" end="00:45:07.930" style="s2">personalities<span style="s4"> it&#39;s</span> it&#39;s cheap<span style="s4"> it&#39;s</span> again</p>
+<p begin="00:45:03.730" end="00:45:09.190" style="s2">the<span style="s3"> same</span><span style="s4"> kind of divide and</span><span style="s3"> rule</span> tactics</p>
+<p begin="00:45:07.930" end="00:45:12.640" style="s2">that are<span style="s3"> used</span> make it about<span style="s4"> that</span> one</p>
+<p begin="00:45:09.190" end="00:45:15.280" style="s2"><span style="s4">person that&#39;s that doesn&#39;t</span> work it has</p>
+<p begin="00:45:12.640" end="00:45:16.839" style="s2"><span style="s4">to</span> be<span style="s4"> focused on how</span> we bring<span style="s4"> people</span></p>
+<p begin="00:45:15.280" end="00:45:18.310" style="s2"><span style="s4">together on the common inequities and</span></p>
+<p begin="00:45:16.839" end="00:45:20.320" style="s2"><span style="s4">that</span> means that wealth is<span style="s4"> not</span> a bad</p>
+<p begin="00:45:18.310" end="00:45:22.359" style="s2"><span style="s4">thing I just</span><span style="s3"> don&#39;t</span> think we need to</p>
+<p begin="00:45:20.320" end="00:45:24.430" style="s2"><span style="s3">worship</span><span style="s4"> it</span><span style="s3"> and</span> if we stop<span style="s4"> worshipping</span></p>
+<p begin="00:45:22.359" end="00:45:27.940" style="s2">wealth we can make it<span style="s3"> possible</span><span style="s4"> to make</span></p>
+<p begin="00:45:24.430" end="00:45:32.830" style="s2"><span style="s4">the</span><span style="s3"> society</span> more just and not make this</p>
+<p begin="00:45:27.940" end="00:45:34.720" style="s2">blue or red or<span style="s4"> urban</span> or rural so that&#39;s</p>
+<p begin="00:45:32.830" end="00:45:39.160" style="s2">all the<span style="s3"> time</span> we have we<span style="s4"> want</span> to give a</p>
+<p begin="00:45:34.720" end="00:45:41.220" style="s2">big<span style="s3"> round</span> of applause<span style="s3"> to</span> all<span style="s4"> to</span> run<span style="s4"> for</span></p>
+<p begin="00:45:39.160" end="00:45:41.220" style="s2"><span style="s4">you</span></p>
+</div>
+</body>
+</tt>

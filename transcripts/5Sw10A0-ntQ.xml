@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.850" end="00:00:12.090" style="s2">thanks<span style="s3"> everybody</span> so I feel a<span style="s3"> lot of</span></p>
+<p begin="00:00:10.800" end="00:00:13.530" style="s2">pressure<span style="s4"> live</span><span style="s3"> up</span> to this definition<span style="s3"> of</span></p>
+<p begin="00:00:12.090" end="00:00:15.240" style="s2">hack and I<span style="s3"> think</span> it&#39;s<span style="s3"> going</span> to be<span style="s3"> really</span></p>
+<p begin="00:00:13.530" end="00:00:18.210" style="s2">interesting<span style="s4"> because</span> you&#39;re<span style="s3"> going to find</span></p>
+<p begin="00:00:15.240" end="00:00:19.770" style="s2">out that<span style="s3"> it&#39;s</span><span style="s4"> not</span> super clever other</p>
+<p begin="00:00:18.210" end="00:00:21.510" style="s2">than being extremely simple and</p>
+<p begin="00:00:19.770" end="00:00:23.400" style="s2">straightforward people are in the jail</p>
+<p begin="00:00:21.510" end="00:00:25.260" style="s2">because<span style="s3"> they</span> don&#39;t have<span style="s3"> money</span> we use</p>
+<p begin="00:00:23.400" end="00:00:27.180" style="s2">money to buy their freedom and get them</p>
+<p begin="00:00:25.260" end="00:00:28.890" style="s2">out of the jail and there&#39;s a lot<span style="s4"> of</span></p>
+<p begin="00:00:27.180" end="00:00:30.599" style="s2">stuff that<span style="s3"> goes</span> into that<span style="s3"> and</span> a lot of</p>
+<p begin="00:00:28.890" end="00:00:32.790" style="s2">reasons why that&#39;s the case that we&#39;ll</p>
+<p begin="00:00:30.599" end="00:00:34.290" style="s2">talk about in a lot<span style="s4"> of</span> stuff you&#39;re</p>
+<p begin="00:00:32.790" end="00:00:35.880" style="s2">probably familiar with from looking at</p>
+<p begin="00:00:34.290" end="00:00:38.340" style="s2"><span style="s4">City</span> data about who&#39;s impacted by</p>
+<p begin="00:00:35.880" end="00:00:43.649" style="s2">different policies we have who&#39;s in the</p>
+<p begin="00:00:38.340" end="00:00:45.690" style="s2">jail it&#39;s not equal obviously and<span style="s3"> I</span><span style="s4"> want</span></p>
+<p begin="00:00:43.649" end="00:00:48.690" style="s2"><span style="s4">to</span><span style="s3"> start</span><span style="s4"> with</span> a caveat that Micah and I</p>
+<p begin="00:00:45.690" end="00:00:50.430" style="s2">are two of about<span style="s4"> 12</span> people who are</p>
+<p begin="00:00:48.690" end="00:00:52.800" style="s2">co-founders of the bond fund so we&#39;re</p>
+<p begin="00:00:50.430" end="00:00:55.020" style="s2">here tonight<span style="s3"> but</span> we&#39;re not the</p>
+<p begin="00:00:52.800" end="00:00:57.840" style="s2"><span style="s3">co-founders</span> we were part of a group so</p>
+<p begin="00:00:55.020" end="00:01:03.870" style="s2">anything<span style="s4"> you</span> want to say I also want<span style="s4"> to</span></p>
+<p begin="00:00:57.840" end="00:01:08.220" style="s2"><span style="s4">say</span> I go by she hurt her well you can</p>
+<p begin="00:01:03.870" end="00:01:10.799" style="s2">use<span style="s3"> he</span> and him for me so the<span style="s3"> chicago</span></p>
+<p begin="00:01:08.220" end="00:01:12.210" style="s2">pune bond fund started informally as a</p>
+<p begin="00:01:10.799" end="00:01:14.729" style="s2">group of people<span style="s4"> that</span> was raising money</p>
+<p begin="00:01:12.210" end="00:01:16.439" style="s2">to bond out people who are arrested at a</p>
+<p begin="00:01:14.729" end="00:01:18.689" style="s2">community vigil for<span style="s4"> desean</span> Pittman</p>
+<p begin="00:01:16.439" end="00:01:20.159" style="s2"><span style="s3">Deshawn</span> finmin it&#39;s a 17 year old young</p>
+<p begin="00:01:18.689" end="00:01:21.960" style="s2">black man who lived on the city&#39;s south</p>
+<p begin="00:01:20.159" end="00:01:25.170" style="s2">side he was killed by Chicago<span style="s4"> police</span> in</p>
+<p begin="00:01:21.960" end="00:01:28.409" style="s2">August<span style="s4"> a</span> 2014 and CPD arrested eight</p>
+<p begin="00:01:25.170" end="00:01:30.329" style="s2">people at a vigil for<span style="s4"> him</span> including and</p>
+<p begin="00:01:28.409" end="00:01:33.780" style="s2">five people they charged<span style="s4"> with</span> serious</p>
+<p begin="00:01:30.329" end="00:01:36.060" style="s2">felonies including his mother so a group</p>
+<p begin="00:01:33.780" end="00:01:38.310" style="s2">of<span style="s3"> people</span> including<span style="s3"> the</span> mothers of some</p>
+<p begin="00:01:36.060" end="00:01:39.780" style="s2">of those arrested<span style="s3"> some</span> activists who</p>
+<p begin="00:01:38.310" end="00:01:43.680" style="s2">generally work against criminalisation</p>
+<p begin="00:01:39.780" end="00:01:45.630" style="s2">mass incarceration and attorneys with</p>
+<p begin="00:01:43.680" end="00:01:48.299" style="s2">the National Lawyers Guild were<span style="s3"> crowd</span></p>
+<p begin="00:01:45.630" end="00:01:49.829" style="s2"><span style="s3">sourcing</span> the funds to<span style="s3"> get</span> them out it</p>
+<p begin="00:01:48.299" end="00:01:52.560" style="s2">was almost thirty thousand dollars in</p>
+<p begin="00:01:49.829" end="00:01:54.720" style="s2">total for all five people we were able</p>
+<p begin="00:01:52.560" end="00:01:56.700" style="s2"><span style="s3">to</span> get to Sean&#39;s mother out the day</p>
+<p begin="00:01:54.720" end="00:01:59.130" style="s2">before his funeral so that she was able</p>
+<p begin="00:01:56.700" end="00:02:01.520" style="s2"><span style="s3">to</span> attend his funeral but it took us</p>
+<p begin="00:01:59.130" end="00:02:04.409" style="s2">four months to get the last person out</p>
+<p begin="00:02:01.520" end="00:02:06.960" style="s2">so we didn&#39;t get the fifth person out</p>
+<p begin="00:02:04.409" end="00:02:09.030" style="s2">until December of 2014 at which point</p>
+<p begin="00:02:06.960" end="00:02:11.430" style="s2"><span style="s3">his</span> mother who&#39;ve been working with<span style="s4"> us</span></p>
+<p begin="00:02:09.030" end="00:02:13.650" style="s2"><span style="s4">to</span> hold house parties and fish fries and</p>
+<p begin="00:02:11.430" end="00:02:15.870" style="s2">do these online fundraisers</p>
+<p begin="00:02:13.650" end="00:02:18.390" style="s2">said this is great he&#39;s out this is</p>
+<p begin="00:02:15.870" end="00:02:19.170" style="s2">terrible that<span style="s3"> it</span> took four<span style="s3"> months</span> no one</p>
+<p begin="00:02:18.390" end="00:02:22.319" style="s2"><span style="s3">should</span> have to be in<span style="s3"> that</span> situation</p>
+<p begin="00:02:19.170" end="00:02:24.659" style="s2">again so what are<span style="s3"> we</span> going to do next</p>
+<p begin="00:02:22.319" end="00:02:26.250" style="s2"><span style="s3">time</span> we should<span style="s3"> start revolving funds</span></p>
+<p begin="00:02:24.659" end="00:02:29.640" style="s2">that the funds<span style="s3"> are</span> there<span style="s3"> and</span> they&#39;re</p>
+<p begin="00:02:26.250" end="00:02:30.900" style="s2">ready<span style="s3"> and</span> we<span style="s3"> don&#39;t</span> have to let my kid or</p>
+<p begin="00:02:29.640" end="00:02:32.760" style="s2">someone else&#39;s kids sit in cook county</p>
+<p begin="00:02:30.900" end="00:02:37.890" style="s2">jail for four months because i don&#39;t</p>
+<p begin="00:02:32.760" end="00:02:39.599" style="s2">have<span style="s3"> eight</span> thousand dollars this is our</p>
+<p begin="00:02:37.890" end="00:02:42.239" style="s2">mission it&#39;s on<span style="s4"> our</span> website<span style="s4"> you</span> can read</p>
+<p begin="00:02:39.599" end="00:02:44.970" style="s2">it<span style="s3"> essentially</span> what we do is we post</p>
+<p begin="00:02:42.239" end="00:02:47.459" style="s2">bond<span style="s3"> for</span> people and we also advocate for</p>
+<p begin="00:02:44.970" end="00:02:50.609" style="s2">the end of money bail and a dramatic</p>
+<p begin="00:02:47.459" end="00:02:52.590" style="s2">reduction and pretrial detention our</p>
+<p begin="00:02:50.609" end="00:02:54.659" style="s2"><span style="s3">website</span> is<span style="s4"> Chicago bun or get anything</span></p>
+<p begin="00:02:52.590" end="00:03:00.629" style="s2">that<span style="s3"> was</span><span style="s4"> on</span> the first<span style="s3"> slide</span> no<span style="s4"> that&#39;s</span></p>
+<p begin="00:02:54.659" end="00:03:02.250" style="s2">not so obviously there are more people</p>
+<p begin="00:03:00.629" end="00:03:06.120" style="s2">in Cook County Jail who need help then</p>
+<p begin="00:03:02.250" end="00:03:08.670" style="s2">we can help we use a set of<span style="s4"> 11</span></p>
+<p begin="00:03:06.120" end="00:03:11.220" style="s2">interactive factors to evaluate requests</p>
+<p begin="00:03:08.670" end="00:03:12.930" style="s2">for help this is some<span style="s3"> of</span> them not all<span style="s3"> of</span></p>
+<p begin="00:03:11.220" end="00:03:15.480" style="s2">them they&#39;re<span style="s4"> all</span> on our website if you</p>
+<p begin="00:03:12.930" end="00:03:17.310" style="s2">want<span style="s3"> to</span> look for<span style="s4"> them</span> essentially we try</p>
+<p begin="00:03:15.480" end="00:03:19.349" style="s2">to recognize<span style="s3"> that</span><span style="s4"> incarceration</span> is</p>
+<p begin="00:03:17.310" end="00:03:22.109" style="s2">violence<span style="s4"> its</span> violence against everyone</p>
+<p begin="00:03:19.349" end="00:03:25.019" style="s2">who is being kept in a cage but it does</p>
+<p begin="00:03:22.109" end="00:03:28.319" style="s2">impact people differently so there are</p>
+<p begin="00:03:25.019" end="00:03:30.930" style="s2">people who face unique threats or risks</p>
+<p begin="00:03:28.319" end="00:03:32.340" style="s2">or consequences of being in<span style="s4"> the</span> jail and</p>
+<p begin="00:03:30.930" end="00:03:33.690" style="s2">when we get to<span style="s3"> the</span> part<span style="s3"> about</span> telling</p>
+<p begin="00:03:32.340" end="00:03:35.250" style="s2">some stories and people who have bonded</p>
+<p begin="00:03:33.690" end="00:03:37.620" style="s2">out you&#39;ll hear more about some of<span style="s3"> the</span></p>
+<p begin="00:03:35.250" end="00:03:41.040" style="s2">specific ways that being incarcerated</p>
+<p begin="00:03:37.620" end="00:03:44.750" style="s2">pretrial impacted them and why we posted</p>
+<p begin="00:03:41.040" end="00:03:48.479" style="s2">bond for them the way these factors</p>
+<p begin="00:03:44.750" end="00:03:51.840" style="s2">workout is interesting and creates a<span style="s3"> lot</span></p>
+<p begin="00:03:48.479" end="00:03:53.609" style="s2"><span style="s4">of</span> important intersections so the second</p>
+<p begin="00:03:51.840" end="00:03:55.799" style="s2">person<span style="s4"> that</span><span style="s3"> we</span> ever posted bond for as</p>
+<p begin="00:03:53.609" end="00:03:58.620" style="s2">an organization this was<span style="s4"> in</span><span style="s3"> December</span> of</p>
+<p begin="00:03:55.799" end="00:04:00.959" style="s2">2015 was Naomi Freeman<span style="s3"> and yomi Freeman</span></p>
+<p begin="00:03:58.620" end="00:04:02.879" style="s2">was a 23 year old mother of two who<span style="s3"> was</span></p>
+<p begin="00:04:00.959" end="00:04:05.040" style="s2">also six months<span style="s4"> pregnant</span> by the time</p>
+<p begin="00:04:02.879" end="00:04:07.620" style="s2">that<span style="s3"> we</span> posted<span style="s3"> bond</span> for her in<span style="s3"> the</span></p>
+<p begin="00:04:05.040" end="00:04:09.840" style="s2">middle<span style="s3"> of</span> an attack by an abusive</p>
+<p begin="00:04:07.620" end="00:04:11.940" style="s2">partner she defended herself and she was</p>
+<p begin="00:04:09.840" end="00:04:14.159" style="s2">charged with first-degree murder we</p>
+<p begin="00:04:11.940" end="00:04:16.859" style="s2">partnered with 16 other national and</p>
+<p begin="00:04:14.159" end="00:04:19.190" style="s2">local<span style="s4"> organizations</span> that work on issues</p>
+<p begin="00:04:16.859" end="00:04:21.329" style="s2">of domestic violence and<span style="s3"> issues</span> of</p>
+<p begin="00:04:19.190" end="00:04:23.250" style="s2">criminalization of self-defense which</p>
+<p begin="00:04:21.329" end="00:04:25.710" style="s2">disproportionately impacts black women</p>
+<p begin="00:04:23.250" end="00:04:26.780" style="s2">to post her<span style="s4"> thirty-five</span> thousand dollar</p>
+<p begin="00:04:25.710" end="00:04:29.840" style="s2">bond</p>
+<p begin="00:04:26.780" end="00:04:31.460" style="s2">and she was bonded out december twenty</p>
+<p begin="00:04:29.840" end="00:04:34.370" style="s2">third two days<span style="s3"> before christmas</span><span style="s4"> and</span> she</p>
+<p begin="00:04:31.460" end="00:04:36.560" style="s2"><span style="s3">gave birth and early</span><span style="s4"> March</span> to a healthy</p>
+<p begin="00:04:34.370" end="00:04:38.450" style="s2">baby<span style="s3"> and</span> she is still out and fighting</p>
+<p begin="00:04:36.560" end="00:04:42.260" style="s2">her case and taking<span style="s3"> care</span> of her three</p>
+<p begin="00:04:38.450" end="00:04:43.820" style="s2">three young kids<span style="s4"> and</span> this is I start</p>
+<p begin="00:04:42.260" end="00:04:45.260" style="s2"><span style="s4">with</span><span style="s3"> this</span> because she was charged with</p>
+<p begin="00:04:43.820" end="00:04:47.000" style="s2">first-degree murder and<span style="s4"> she</span> had a high</p>
+<p begin="00:04:45.260" end="00:04:48.590" style="s2">bond and she&#39;s not someone you think<span style="s3"> of</span></p>
+<p begin="00:04:47.000" end="00:04:50.600" style="s2"><span style="s3">when</span> you think these people starting a</p>
+<p begin="00:04:48.590" end="00:04:52.820" style="s2">bond fund they&#39;re going to bond out the</p>
+<p begin="00:04:50.600" end="00:04:54.080" style="s2">sympathetic cases and the nice cases or</p>
+<p begin="00:04:52.820" end="00:04:56.720" style="s2">the misdemeanors or something like that</p>
+<p begin="00:04:54.080" end="00:04:58.190" style="s2">but what we want<span style="s4"> to</span><span style="s3"> do</span> in part is bring</p>
+<p begin="00:04:56.720" end="00:04:59.990" style="s2">these conversations together so the</p>
+<p begin="00:04:58.190" end="00:05:02.510" style="s2"><span style="s4">conversation</span> about<span style="s3"> the</span> criminalization</p>
+<p begin="00:04:59.990" end="00:05:05.180" style="s2">of<span style="s4"> self-defense</span> and its impact on black</p>
+<p begin="00:05:02.510" end="00:05:07.669" style="s2">women<span style="s4"> in</span> the fact that naomi was locked</p>
+<p begin="00:05:05.180" end="00:05:10.610" style="s2">up for surviving an attack against her</p>
+<p begin="00:05:07.669" end="00:05:11.960" style="s2">and linking with these other activist</p>
+<p begin="00:05:10.610" end="00:05:14.120" style="s2">groups who<span style="s4"> are</span> working in a variety of</p>
+<p begin="00:05:11.960" end="00:05:20.330" style="s2"><span style="s4">different</span> issues<span style="s4"> and</span> also<span style="s3"> getting</span><span style="s4"> naomi</span></p>
+<p begin="00:05:14.120" end="00:05:21.940" style="s2">out so because a lot of this is legal</p>
+<p begin="00:05:20.330" end="00:05:25.130" style="s2">technicalities<span style="s4"> I</span> just wanted to<span style="s3"> give</span> a</p>
+<p begin="00:05:21.940" end="00:05:26.419" style="s2">brief overview<span style="s3"> of</span> how someone gets to</p>
+<p begin="00:05:25.130" end="00:05:28.400" style="s2">the point where<span style="s3"> they</span> have a money bond</p>
+<p begin="00:05:26.419" end="00:05:30.830" style="s2">and they get to the jail someone&#39;s</p>
+<p begin="00:05:28.400" end="00:05:32.960" style="s2">arrested they&#39;re sent to bond<span style="s4"> court</span> if</p>
+<p begin="00:05:30.830" end="00:05:34.850" style="s2">they have a felony<span style="s3"> everyone</span> goes to bond</p>
+<p begin="00:05:32.960" end="00:05:37.400" style="s2">court misdemeanors most people get</p>
+<p begin="00:05:34.850" end="00:05:39.500" style="s2">released from<span style="s3"> the police</span><span style="s4"> station</span> most</p>
+<p begin="00:05:37.400" end="00:05:41.840" style="s2">people in bond<span style="s4"> court</span> are then given a<span style="s4"> D</span></p>
+<p begin="00:05:39.500" end="00:05:43.160" style="s2">bond which is a money bond it means that</p>
+<p begin="00:05:41.840" end="00:05:44.960" style="s2"><span style="s3">they</span> have<span style="s3"> to</span> pay ten percent of the</p>
+<p begin="00:05:43.160" end="00:05:45.830" style="s2"><span style="s3">amount</span> that the judge sets so if the</p>
+<p begin="00:05:44.960" end="00:05:47.750" style="s2">judge says you have a</p>
+<p begin="00:05:45.830" end="00:05:49.520" style="s2">ten-thousand-dollar d bond they have to</p>
+<p begin="00:05:47.750" end="00:05:51.890" style="s2">post a thousand dollars to get out at</p>
+<p begin="00:05:49.520" end="00:05:56.570" style="s2">that<span style="s4"> point</span><span style="s3"> the</span> sorting mechanism goes</p>
+<p begin="00:05:51.890" end="00:05:58.370" style="s2">from charges background other mitigating</p>
+<p begin="00:05:56.570" end="00:05:59.990" style="s2">factors that a defense attorney or</p>
+<p begin="00:05:58.370" end="00:06:02.720" style="s2">public defender can raise in court to</p>
+<p begin="00:05:59.990" end="00:06:05.000" style="s2">money and access<span style="s4"> to</span> money<span style="s3"> either</span> someone</p>
+<p begin="00:06:02.720" end="00:06:06.950" style="s2"><span style="s4">is</span> able to pay or someone is not<span style="s3"> able to</span></p>
+<p begin="00:06:05.000" end="00:06:09.530" style="s2">pay and that&#39;s how we sort who&#39;s in Cook</p>
+<p begin="00:06:06.950" end="00:06:11.600" style="s2">County Jail for the most part in this</p>
+<p begin="00:06:09.530" end="00:06:16.820" style="s2">statistic this<span style="s4"> 9</span> and<span style="s4"> 10</span> statistic that&#39;s</p>
+<p begin="00:06:11.600" end="00:06:19.520" style="s2">a national statistic and when someone</p>
+<p begin="00:06:16.820" end="00:06:22.039" style="s2">can&#39;t tape on here they go to cook</p>
+<p begin="00:06:19.520" end="00:06:24.289" style="s2">county jail which is the largest</p>
+<p begin="00:06:22.039" end="00:06:25.640" style="s2"><span style="s3">single-site</span> jail in the<span style="s3"> country so</span><span style="s4"> there</span></p>
+<p begin="00:06:24.289" end="00:06:28.760" style="s2"><span style="s4">are</span> technically more people in jail and</p>
+<p begin="00:06:25.640" end="00:06:30.590" style="s2">cook kena<span style="s3"> Los Angeles and New York but</span></p>
+<p begin="00:06:28.760" end="00:06:32.810" style="s2"><span style="s3">they</span> have different<span style="s3"> jails</span> we&#39;re the</p>
+<p begin="00:06:30.590" end="00:06:35.150" style="s2">largest single one right now there are</p>
+<p begin="00:06:32.810" end="00:06:36.890" style="s2">about 7,500 people in Cook County Jail</p>
+<p begin="00:06:35.150" end="00:06:38.630" style="s2"><span style="s4">and</span> ninety-five percent of them are</p>
+<p begin="00:06:36.890" end="00:06:39.639" style="s2">pretrial which means they&#39;re supposed to</p>
+<p begin="00:06:38.630" end="00:06:41.889" style="s2">be presumed in a</p>
+<p begin="00:06:39.639" end="00:06:43.330" style="s2"><span style="s3">in</span> the vast<span style="s3"> majority</span> of those people</p>
+<p begin="00:06:41.889" end="00:06:45.189" style="s2">about two-thirds<span style="s4"> of</span> the<span style="s3"> pretrial</span></p>
+<p begin="00:06:43.330" end="00:06:49.569" style="s2">detainees have a money bond that they</p>
+<p begin="00:06:45.189" end="00:06:51.159" style="s2">just can&#39;t pay<span style="s3"> and</span> as<span style="s3"> of</span> two weeks ago</p>
+<p begin="00:06:49.569" end="00:06:52.900" style="s2"><span style="s4">on</span> the fifteenth there were three</p>
+<p begin="00:06:51.159" end="00:06:54.729" style="s2">hundred and<span style="s3"> forty four people who were</span></p>
+<p begin="00:06:52.900" end="00:06:56.590" style="s2">detained on bonds of ten thousand</p>
+<p begin="00:06:54.729" end="00:06:58.900" style="s2">dollars or less which means they only</p>
+<p begin="00:06:56.590" end="00:07:00.340" style="s2">needed someone to<span style="s3"> post</span> a thousand</p>
+<p begin="00:06:58.900" end="00:07:06.370" style="s2">dollars on their behalf and they would</p>
+<p begin="00:07:00.340" end="00:07:08.499" style="s2">get out I mentioned this at the</p>
+<p begin="00:07:06.370" end="00:07:11.050" style="s2">beginning because it&#39;s a civic hack</p>
+<p begin="00:07:08.499" end="00:07:14.409" style="s2">night and issues of<span style="s3"> equality</span> and equity</p>
+<p begin="00:07:11.050" end="00:07:17.219" style="s2"><span style="s3">in our city are so pronounced but the</span></p>
+<p begin="00:07:14.409" end="00:07:19.689" style="s2"><span style="s3">jail</span> is overwhelmingly<span style="s4"> african-american</span></p>
+<p begin="00:07:17.219" end="00:07:20.949" style="s2">especially compared to the<span style="s3"> population</span> of</p>
+<p begin="00:07:19.689" end="00:07:24.370" style="s2">Cook County because it&#39;s the Cook County</p>
+<p begin="00:07:20.949" end="00:07:30.849" style="s2">Jail and<span style="s4"> not</span> just the Chicago jail so it</p>
+<p begin="00:07:24.370" end="00:07:33.909" style="s2">is<span style="s4"> eighty eight percent black and brown</span></p>
+<p begin="00:07:30.849" end="00:07:35.589" style="s2">people inside Cook County Jail even</p>
+<p begin="00:07:33.909" end="00:07:37.150" style="s2">though the percentage especially for</p>
+<p begin="00:07:35.589" end="00:07:43.060" style="s2">black residents of Cook County is much</p>
+<p begin="00:07:37.150" end="00:07:44.409" style="s2">lower we&#39;re the Chicago<span style="s4"> community</span> bond</p>
+<p begin="00:07:43.060" end="00:07:45.699" style="s2">fund and we<span style="s3"> talk</span> a lot<span style="s3"> about</span> ending</p>
+<p begin="00:07:44.409" end="00:07:47.919" style="s2">money bail because it&#39;s a really easy</p>
+<p begin="00:07:45.699" end="00:07:49.449" style="s2"><span style="s3">way</span> to introduce<span style="s4"> the</span><span style="s3"> subject</span> i think</p>
+<p begin="00:07:47.919" end="00:07:51.430" style="s2">everyone sort of understands when we get</p>
+<p begin="00:07:49.449" end="00:07:53.050" style="s2">to<span style="s4"> that</span> point<span style="s3"> and that flow chart i</span> had</p>
+<p begin="00:07:51.430" end="00:07:55.060" style="s2">where it splits between people<span style="s4"> who</span> can</p>
+<p begin="00:07:53.050" end="00:07:57.789" style="s2">pay and people who can&#39;t pay why that&#39;s</p>
+<p begin="00:07:55.060" end="00:08:00.699" style="s2">fundamentally unfair and why we&#39;re using</p>
+<p begin="00:07:57.789" end="00:08:03.159" style="s2"><span style="s3">money</span> as a sorter for who&#39;s in a cage</p>
+<p begin="00:08:00.699" end="00:08:04.509" style="s2">and who&#39;s free but when we talk about</p>
+<p begin="00:08:03.159" end="00:08:06.520" style="s2">the harms of money bill we&#39;re really</p>
+<p begin="00:08:04.509" end="00:08:08.500" style="s2">talking<span style="s3"> about</span> the harms of pretrial</p>
+<p begin="00:08:06.520" end="00:08:10.060" style="s2">detention so we&#39;re talking<span style="s3"> about</span> the</p>
+<p begin="00:08:08.500" end="00:08:14.589" style="s2">consequence of someone not paying and</p>
+<p begin="00:08:10.060" end="00:08:17.199" style="s2">then being kept in jail and it&#39;s<span style="s4"> really</span></p>
+<p begin="00:08:14.589" end="00:08:19.089" style="s2">a mechanism at the beginning of</p>
+<p begin="00:08:17.199" end="00:08:21.610" style="s2">someone&#39;s involvement in the criminal</p>
+<p begin="00:08:19.089" end="00:08:23.680" style="s2">legal system that sends them further and</p>
+<p begin="00:08:21.610" end="00:08:26.500" style="s2">it has repercussions throughout the</p>
+<p begin="00:08:23.680" end="00:08:30.189" style="s2">entire case and it just sends people in</p>
+<p begin="00:08:26.500" end="00:08:33.219" style="s2">deeper so compared to<span style="s3"> similarly</span> situated</p>
+<p begin="00:08:30.189" end="00:08:35.529" style="s2">people who are not detained people who</p>
+<p begin="00:08:33.219" end="00:08:37.750" style="s2">are in jail awaiting trial have a</p>
+<p begin="00:08:35.529" end="00:08:39.579" style="s2">greater<span style="s4"> chance</span> of pleading guilty and of</p>
+<p begin="00:08:37.750" end="00:08:41.740" style="s2">being<span style="s3"> found</span> guilty by a jury<span style="s3"> and</span> they&#39;re</p>
+<p begin="00:08:39.579" end="00:08:43.029" style="s2">also going to receive longer sentences</p>
+<p begin="00:08:41.740" end="00:08:46.029" style="s2">and they&#39;re more likely to receive</p>
+<p begin="00:08:43.029" end="00:08:47.860" style="s2">sentences that have them the result in</p>
+<p begin="00:08:46.029" end="00:08:50.800" style="s2">them being<span style="s3"> incarcerated</span> as opposed to</p>
+<p begin="00:08:47.860" end="00:08:53.170" style="s2">community sentences like probation or</p>
+<p begin="00:08:50.800" end="00:08:56.290" style="s2">other sorts of sentences it</p>
+<p begin="00:08:53.170" end="00:08:59.310" style="s2">also causes lost jobs and housing lost</p>
+<p begin="00:08:56.290" end="00:09:03.250" style="s2">custody of children it can<span style="s3"> cause</span></p>
+<p begin="00:08:59.310" end="00:09:06.250" style="s2">disruption of services or access to</p>
+<p begin="00:09:03.250" end="00:09:08.920" style="s2">basic supports like Medicaid<span style="s3"> and</span> Social</p>
+<p begin="00:09:06.250" end="00:09:11.380" style="s2">Security essentially what<span style="s3"> we&#39;re</span> doing is</p>
+<p begin="00:09:08.920" end="00:09:13.420" style="s2">we&#39;re taking away the few things that</p>
+<p begin="00:09:11.380" end="00:09:15.730" style="s2">people have that are supporting them and</p>
+<p begin="00:09:13.420" end="00:09:17.649" style="s2">enabling them to possibly succeed or</p>
+<p begin="00:09:15.730" end="00:09:19.089" style="s2">connections to the<span style="s3"> legal</span> economy and</p>
+<p begin="00:09:17.649" end="00:09:20.680" style="s2">we&#39;re making<span style="s4"> sure</span><span style="s3"> they</span><span style="s4"> don&#39;t</span> have<span style="s3"> those</span></p>
+<p begin="00:09:19.089" end="00:09:22.149" style="s2">anymore by the time their case is over</p>
+<p begin="00:09:20.680" end="00:09:24.670" style="s2">and they&#39;re going<span style="s3"> to</span> be an even worse</p>
+<p begin="00:09:22.149" end="00:09:27.730" style="s2">position after this period of</p>
+<p begin="00:09:24.670" end="00:09:29.139" style="s2">incarceration and I think I<span style="s3"> get</span> to this</p>
+<p begin="00:09:27.730" end="00:09:30.760" style="s2">on the later slide but that&#39;s one of the</p>
+<p begin="00:09:29.139" end="00:09:33.579" style="s2">reasons why detaining people pretrial</p>
+<p begin="00:09:30.760" end="00:09:36.190" style="s2">actually increases recidivism so when</p>
+<p begin="00:09:33.579" end="00:09:38.380" style="s2">you detain people before they&#39;re</p>
+<p begin="00:09:36.190" end="00:09:39.699" style="s2">convicted you&#39;re actually making it more</p>
+<p begin="00:09:38.380" end="00:09:44.199" style="s2">likely that they&#39;re<span style="s3"> going to be arrested</span></p>
+<p begin="00:09:39.699" end="00:09:46.690" style="s2"><span style="s4">for</span> something in the<span style="s4"> future</span> oh here that</p>
+<p begin="00:09:44.199" end="00:09:49.300" style="s2">is I<span style="s3"> think</span> we covered this longer</p>
+<p begin="00:09:46.690" end="00:09:51.190" style="s2">sentences more likelihood of being</p>
+<p begin="00:09:49.300" end="00:09:55.839" style="s2">sentenced being convicted and being</p>
+<p begin="00:09:51.190" end="00:09:57.850" style="s2">sentenced in increasing recidivism the</p>
+<p begin="00:09:55.839" end="00:09:59.560" style="s2">way this fits into the<span style="s4"> national</span><span style="s3"> picture</span></p>
+<p begin="00:09:57.850" end="00:10:02.589" style="s2">the larger picture<span style="s3"> of</span> criminal justice</p>
+<p begin="00:09:59.560" end="00:10:05.500" style="s2"><span style="s3">reform</span> is that people are<span style="s4"> more</span> likely<span style="s3"> to</span></p>
+<p begin="00:10:02.589" end="00:10:07.089" style="s2">plead guilty because they&#39;re taking plea</p>
+<p begin="00:10:05.500" end="00:10:09.910" style="s2">deals to get out of a cage<span style="s4"> that</span> they&#39;re</p>
+<p begin="00:10:07.089" end="00:10:11.680" style="s2">in and if you haven&#39;t<span style="s3"> read</span> the bail trap</p>
+<p begin="00:10:09.910" end="00:10:13.750" style="s2">by the<span style="s4"> New York Times</span><span style="s3"> i</span> highly recommend</p>
+<p begin="00:10:11.680" end="00:10:15.820" style="s2">this article it&#39;s a really great</p>
+<p begin="00:10:13.750" end="00:10:18.449" style="s2">overview of the problem with pretrial</p>
+<p begin="00:10:15.820" end="00:10:21.160" style="s2">detention and money bail in particular</p>
+<p begin="00:10:18.449" end="00:10:23.260" style="s2">it&#39;s pretty well-known fact among</p>
+<p begin="00:10:21.160" end="00:10:25.420" style="s2">defense counsel that there are judges in</p>
+<p begin="00:10:23.260" end="00:10:26.890" style="s2">Cook County that prefer more people more</p>
+<p begin="00:10:25.420" end="00:10:29.050" style="s2">defendants in front of<span style="s3"> them</span> are in</p>
+<p begin="00:10:26.890" end="00:10:30.190" style="s2"><span style="s3">custody</span> because<span style="s3"> it</span> means their cases</p>
+<p begin="00:10:29.050" end="00:10:33.339" style="s2">move faster and they&#39;re under pressure</p>
+<p begin="00:10:30.190" end="00:10:35.320" style="s2"><span style="s3">to</span> keep their docket numbers low so if</p>
+<p begin="00:10:33.339" end="00:10:36.970" style="s2">someone&#39;s going<span style="s3"> to</span> in their case faster</p>
+<p begin="00:10:35.320" end="00:10:39.730" style="s2">because they&#39;re in custody then that</p>
+<p begin="00:10:36.970" end="00:10:41.829" style="s2">works<span style="s3"> better</span> for the<span style="s3"> system</span> because we</p>
+<p begin="00:10:39.730" end="00:10:45.130" style="s2">all<span style="s4"> know</span> that the number of cases the</p>
+<p begin="00:10:41.829" end="00:10:49.300" style="s2">number of prosecutions has gone up</p>
+<p begin="00:10:45.130" end="00:10:51.370" style="s2">tremendously over the last 30 years this</p>
+<p begin="00:10:49.300" end="00:10:53.019" style="s2">is just<span style="s3"> a great graphic that</span> we don&#39;t</p>
+<p begin="00:10:51.370" end="00:10:54.760" style="s2"><span style="s3">have time to spend time on but hopefully</span></p>
+<p begin="00:10:53.019" end="00:10:57.279" style="s2"><span style="s3">it&#39;ll</span> go up later you can find it from</p>
+<p begin="00:10:54.760" end="00:11:01.180" style="s2">Vera Institute of Justice about the way</p>
+<p begin="00:10:57.279" end="00:11:03.640" style="s2">that jails are used nationally and I</p>
+<p begin="00:11:01.180" end="00:11:06.100" style="s2">also really recommend prison policy</p>
+<p begin="00:11:03.640" end="00:11:07.059" style="s2">initiatives website which has state</p>
+<p begin="00:11:06.100" end="00:11:09.879" style="s2">profiles on every</p>
+<p begin="00:11:07.059" end="00:11:12.849" style="s2">state so it has information about trends</p>
+<p begin="00:11:09.879" end="00:11:15.759" style="s2">in Illinois you can see the rise of mass</p>
+<p begin="00:11:12.849" end="00:11:18.339" style="s2">incarceration<span style="s3"> the</span> tough-on-crime social</p>
+<p begin="00:11:15.759" end="00:11:20.859" style="s2">rhetoric and its impact you can see how</p>
+<p begin="00:11:18.339" end="00:11:23.109" style="s2">disproportionately we incarcerate black</p>
+<p begin="00:11:20.859" end="00:11:25.599" style="s2">people in Illinois<span style="s4"> overall</span> other groups</p>
+<p begin="00:11:23.109" end="00:11:27.939" style="s2">this is the incarceration rate so it&#39;s</p>
+<p begin="00:11:25.599" end="00:11:30.249" style="s2">per 100,000 people all these graphs</p>
+<p begin="00:11:27.939" end="00:11:34.269" style="s2">around prison policy initiatives website</p>
+<p begin="00:11:30.249" end="00:11:40.119" style="s2">and this shows<span style="s4"> how</span> many<span style="s4"> how</span> jails relate</p>
+<p begin="00:11:34.269" end="00:11:41.829" style="s2">to state prisons so there are<span style="s4"> 21</span></p>
+<p begin="00:11:40.119" end="00:11:45.789" style="s2">thousand people in local jails this is</p>
+<p begin="00:11:41.829" end="00:11:47.109" style="s2">from 2010 and at that<span style="s4"> time</span> Cook County</p>
+<p begin="00:11:45.789" end="00:11:49.179" style="s2">Jail was about half of<span style="s3"> that</span> number it</p>
+<p begin="00:11:47.109" end="00:11:50.679" style="s2">was closer to<span style="s4"> 10,000</span><span style="s3"> people</span> so we have</p>
+<p begin="00:11:49.179" end="00:11:54.639" style="s2">decreased the population of Cook County</p>
+<p begin="00:11:50.679" end="00:11:56.259" style="s2">Jail some i should say we also have one</p>
+<p begin="00:11:54.639" end="00:11:59.679" style="s2"><span style="s3">of</span> the largest<span style="s3"> state</span> prison populations</p>
+<p begin="00:11:56.259" end="00:12:04.839" style="s2">in the country which is<span style="s3"> people</span> who<span style="s3"> are</span></p>
+<p begin="00:11:59.679" end="00:12:07.719" style="s2">sentenced for longer than a year in that</p>
+<p begin="00:12:04.839" end="00:12:09.939" style="s2">said jails and prisons are still overall</p>
+<p begin="00:12:07.719" end="00:12:12.129" style="s2"><span style="s3">a</span> relatively small<span style="s3"> percentage of people</span></p>
+<p begin="00:12:09.939" end="00:12:14.559" style="s2"><span style="s4">who</span> are under state<span style="s3"> control or</span></p>
+<p begin="00:12:12.129" end="00:12:16.779" style="s2">surveillance<span style="s3"> so</span> nationally and in</p>
+<p begin="00:12:14.559" end="00:12:18.459" style="s2"><span style="s3">illinois</span> people were<span style="s4"> actually</span> in custody</p>
+<p begin="00:12:16.779" end="00:12:20.409" style="s2"><span style="s4">and</span> jail or prison make up about<span style="s4"> a</span> third</p>
+<p begin="00:12:18.459" end="00:12:22.209" style="s2">of people<span style="s3"> who</span> are under correctional</p>
+<p begin="00:12:20.409" end="00:12:25.839" style="s2">control and<span style="s4"> two thirds of</span><span style="s3"> people</span> are in</p>
+<p begin="00:12:22.209" end="00:12:28.029" style="s2">some other form of<span style="s3"> community corrections</span></p>
+<p begin="00:12:25.839" end="00:12:33.089" style="s2">or community control like probation or</p>
+<p begin="00:12:28.029" end="00:12:35.799" style="s2">parole<span style="s3"> all right so Tyler</span> is one of the</p>
+<p begin="00:12:33.089" end="00:12:38.469" style="s2">first<span style="s3"> few</span> people<span style="s4"> that</span> we posted bond for</p>
+<p begin="00:12:35.799" end="00:12:41.859" style="s2">and we actually<span style="s3"> posted</span> bond for Tyler to</p>
+<p begin="00:12:38.469" end="00:12:44.109" style="s2">get off of electronic monitoring and not</p>
+<p begin="00:12:41.859" end="00:12:46.569" style="s2">to get<span style="s3"> out</span><span style="s4"> of</span> Cook County<span style="s4"> Jail</span> and<span style="s3"> the</span></p>
+<p begin="00:12:44.109" end="00:12:47.919" style="s2"><span style="s3">reason</span> was is because<span style="s3"> the</span> electronic</p>
+<p begin="00:12:46.569" end="00:12:50.799" style="s2">monitoring that<span style="s3"> he</span> was on which is</p>
+<p begin="00:12:47.919" end="00:12:52.509" style="s2">supposed to be seen as a kinder</p>
+<p begin="00:12:50.799" end="00:12:53.889" style="s2">alternative to the jail something more</p>
+<p begin="00:12:52.509" end="00:12:56.049" style="s2">flexible it was something he<span style="s3"> was</span></p>
+<p begin="00:12:53.889" end="00:12:58.899" style="s2">probably given by the judge precisely</p>
+<p begin="00:12:56.049" end="00:13:00.819" style="s2"><span style="s3">because</span> he was working two jobs but</p>
+<p begin="00:12:58.899" end="00:13:02.579" style="s2"><span style="s3">being</span> on electronic monitoring got him</p>
+<p begin="00:13:00.819" end="00:13:05.109" style="s2">fired from those jobs it&#39;s very</p>
+<p begin="00:13:02.579" end="00:13:06.759" style="s2">irregular the system for getting</p>
+<p begin="00:13:05.109" end="00:13:08.829" style="s2">permission to leave your<span style="s3"> home</span><span style="s4"> it&#39;s</span></p>
+<p begin="00:13:06.759" end="00:13:10.839" style="s2">essentially home incarceration then you</p>
+<p begin="00:13:08.829" end="00:13:13.329" style="s2"><span style="s4">are</span> given permission<span style="s3"> to</span> leave but it can</p>
+<p begin="00:13:10.839" end="00:13:14.919" style="s2"><span style="s3">vary day to day it&#39;s very erratic</span> it</p>
+<p begin="00:13:13.329" end="00:13:16.899" style="s2">makes it hard to hold down a job for</p>
+<p begin="00:13:14.919" end="00:13:18.669" style="s2">most people he was fired specifically</p>
+<p begin="00:13:16.899" end="00:13:20.800" style="s2">because sheriff&#39;s deputies came to his</p>
+<p begin="00:13:18.669" end="00:13:22.360" style="s2">jobs which is an employer</p>
+<p begin="00:13:20.800" end="00:13:24.790" style="s2">didn&#39;t like even though they liked him</p>
+<p begin="00:13:22.360" end="00:13:26.019" style="s2">and after<span style="s4"> we</span> posted two thousand five</p>
+<p begin="00:13:24.790" end="00:13:27.730" style="s2">hundred dollars to<span style="s3"> get</span> him off</p>
+<p begin="00:13:26.019" end="00:13:30.160" style="s2">electronic monitoring he was working</p>
+<p begin="00:13:27.730" end="00:13:32.890" style="s2">again the next<span style="s3"> week</span> at the<span style="s3"> job</span> that<span style="s3"> he</span></p>
+<p begin="00:13:30.160" end="00:13:37.930" style="s2">previously had and his case is actually</p>
+<p begin="00:13:32.890" end="00:13:39.250" style="s2">about<span style="s3"> to</span> resolve and 2400 of those</p>
+<p begin="00:13:37.930" end="00:13:44.260" style="s2">dollars will come back into<span style="s3"> the</span></p>
+<p begin="00:13:39.250" end="00:13:45.899" style="s2">revolving bond fund and of<span style="s4"> course</span> Tyler</p>
+<p begin="00:13:44.260" end="00:13:50.170" style="s2">and his mom still have a<span style="s3"> place</span> to live</p>
+<p begin="00:13:45.899" end="00:13:52.420" style="s2">and Leon&#39;s story is a really good one I</p>
+<p begin="00:13:50.170" end="00:13:55.480" style="s2">like to tell because it shows the</p>
+<p begin="00:13:52.420" end="00:13:57.730" style="s2">difference in outcomes between when</p>
+<p begin="00:13:55.480" end="00:13:59.260" style="s2">someone has money and<span style="s3"> when</span> they don&#39;t<span style="s3"> or</span></p>
+<p begin="00:13:57.730" end="00:14:01.360" style="s2">when someone<span style="s3"> comes to us and</span> we&#39;re able</p>
+<p begin="00:13:59.260" end="00:14:04.060" style="s2">to post bond for them versus everyone</p>
+<p begin="00:14:01.360" end="00:14:06.910" style="s2">else was in a similar<span style="s3"> situation</span><span style="s4"> Leon</span> was</p>
+<p begin="00:14:04.060" end="00:14:09.070" style="s2">in growing homes urban farm job training</p>
+<p begin="00:14:06.910" end="00:14:12.100" style="s2">program in<span style="s3"> Inglewood</span> a great program</p>
+<p begin="00:14:09.070" end="00:14:14.649" style="s2">they only have 36 weeks sessions per</p>
+<p begin="00:14:12.100" end="00:14:16.420" style="s2">year relatively close to the<span style="s4"> beginning</span></p>
+<p begin="00:14:14.649" end="00:14:19.440" style="s2">of<span style="s3"> the</span> session Leon was arrested for</p>
+<p begin="00:14:16.420" end="00:14:21.430" style="s2"><span style="s3">stealing</span> toiletries and he was given a</p>
+<p begin="00:14:19.440" end="00:14:22.779" style="s2">twenty-five-thousand-dollar<span style="s3"> d</span> bond also</p>
+<p begin="00:14:21.430" end="00:14:25.660" style="s2">requiring two thousand five hundred</p>
+<p begin="00:14:22.779" end="00:14:27.579" style="s2">dollars to<span style="s3"> get</span> out we posted bond for</p>
+<p begin="00:14:25.660" end="00:14:29.800" style="s2">him because his growing home case</p>
+<p begin="00:14:27.579" end="00:14:32.230" style="s2">managers knew about us<span style="s3"> and</span> contacted us</p>
+<p begin="00:14:29.800" end="00:14:33.820" style="s2">and asked us to and because<span style="s4"> we</span> posted</p>
+<p begin="00:14:32.230" end="00:14:36.100" style="s2">bond he was<span style="s4"> able</span><span style="s3"> to</span> complete growing</p>
+<p begin="00:14:33.820" end="00:14:38.290" style="s2">homes training program his case was</p>
+<p begin="00:14:36.100" end="00:14:39.550" style="s2">dismissed two weeks<span style="s3"> later he would</span> have</p>
+<p begin="00:14:38.290" end="00:14:41.470" style="s2">been<span style="s3"> in custody for those two weeks</span></p>
+<p begin="00:14:39.550" end="00:14:43.660" style="s2"><span style="s3">though</span> and those two weeks in custody</p>
+<p begin="00:14:41.470" end="00:14:46.450" style="s2">would have prevented him from finishing</p>
+<p begin="00:14:43.660" end="00:14:49.360" style="s2">the program and he&#39;s currently<span style="s4"> working</span></p>
+<p begin="00:14:46.450" end="00:14:51.370" style="s2">at eataly Chicago he has a<span style="s3"> full-time</span><span style="s4"> job</span></p>
+<p begin="00:14:49.360" end="00:14:53.800" style="s2">he&#39;s a success story from going home</p>
+<p begin="00:14:51.370" end="00:14:55.060" style="s2">standpoint<span style="s3"> from</span> our standpoint and he</p>
+<p begin="00:14:53.800" end="00:14:58.089" style="s2">would be in a completely<span style="s4"> different</span></p>
+<p begin="00:14:55.060" end="00:15:03.220" style="s2">situation if he<span style="s3"> hadn&#39;t</span> had our help</p>
+<p begin="00:14:58.089" end="00:15:04.720" style="s2">posting that bomb so so<span style="s3"> far</span> we have</p>
+<p begin="00:15:03.220" end="00:15:07.540" style="s2">posted<span style="s4"> one hundred and seventy-five</span></p>
+<p begin="00:15:04.720" end="00:15:10.750" style="s2"><span style="s4">thousand</span> dollars we are bonding out</p>
+<p begin="00:15:07.540" end="00:15:14.260" style="s2">around seven-thirty p.m. our 40th person</p>
+<p begin="00:15:10.750" end="00:15:16.300" style="s2">and the lowest bond we&#39;ve posted is two</p>
+<p begin="00:15:14.260" end="00:15:17.740" style="s2">hundred dollars we&#39;ve posted two months</p>
+<p begin="00:15:16.300" end="00:15:20.920" style="s2">that were<span style="s4"> thirty five thousand dollars</span></p>
+<p begin="00:15:17.740" end="00:15:25.120" style="s2">Naomi&#39;s bond and activist Jamal greens</p>
+<p begin="00:15:20.920" end="00:15:27.190" style="s2">bond we have had six<span style="s3"> bonds</span> return so far</p>
+<p begin="00:15:25.120" end="00:15:29.410" style="s2">we haven&#39;t lost any money other than the</p>
+<p begin="00:15:27.190" end="00:15:33.540" style="s2">hundred-dollar<span style="s4"> clerks</span> fees and we&#39;ve had</p>
+<p begin="00:15:29.410" end="00:15:36.959" style="s2">three babies born<span style="s3"> to</span> bond fund</p>
+<p begin="00:15:33.540" end="00:15:39.880" style="s2"><span style="s3">client</span> so<span style="s4"> including</span> Morgan&#39;s daughter</p>
+<p begin="00:15:36.959" end="00:15:41.320" style="s2">which was born<span style="s4"> she</span> was born about two</p>
+<p begin="00:15:39.880" end="00:15:44.800" style="s2">weeks<span style="s3"> after</span> that photo was taken that</p>
+<p begin="00:15:41.320" end="00:15:46.870" style="s2">photo was taken like across<span style="s3"> the street</span></p>
+<p begin="00:15:44.800" end="00:15:50.320" style="s2">from the jail right when she got out and</p>
+<p begin="00:15:46.870" end="00:15:51.790" style="s2">that&#39;s her mother and her godmother so</p>
+<p begin="00:15:50.320" end="00:15:53.020" style="s2">the other thing we want to do in telling</p>
+<p begin="00:15:51.790" end="00:15:54.490" style="s2">these personal stories we want to tell</p>
+<p begin="00:15:53.020" end="00:15:56.860" style="s2">the personal narratives and we want to</p>
+<p begin="00:15:54.490" end="00:15:58.120" style="s2">shift the public perception<span style="s4"> of</span> people</p>
+<p begin="00:15:56.860" end="00:16:00.940" style="s2">who are charged<span style="s3"> with crimes because</span></p>
+<p begin="00:15:58.120" end="00:16:02.680" style="s2">right now there&#39;s a lot of comfort<span style="s4"> with</span></p>
+<p begin="00:16:00.940" end="00:16:03.820" style="s2">locking people up we don&#39;t<span style="s3"> know</span> who&#39;s</p>
+<p begin="00:16:02.680" end="00:16:06.250" style="s2">locked up we<span style="s3"> don&#39;t</span> know what being</p>
+<p begin="00:16:03.820" end="00:16:08.470" style="s2">locked up is doing to them is doing to</p>
+<p begin="00:16:06.250" end="00:16:11.050" style="s2">their families we also want to use</p>
+<p begin="00:16:08.470" end="00:16:14.290" style="s2">statistics and we want to say look Leon</p>
+<p begin="00:16:11.050" end="00:16:16.420" style="s2">would have been in the<span style="s3"> jail</span> he didn&#39;t he</p>
+<p begin="00:16:14.290" end="00:16:18.930" style="s2">was there&#39;s no public safety risk to</p>
+<p begin="00:16:16.420" end="00:16:21.610" style="s2">having our folks out no one is getting</p>
+<p begin="00:16:18.930" end="00:16:23.620" style="s2">reading their Court dates they<span style="s3"> just</span></p>
+<p begin="00:16:21.610" end="00:16:26.320" style="s2">didn&#39;t have money that&#39;s not an</p>
+<p begin="00:16:23.620" end="00:16:29.490" style="s2">acceptable<span style="s4"> way</span> to make<span style="s4"> decisions</span> about</p>
+<p begin="00:16:26.320" end="00:16:31.720" style="s2">incarceration the<span style="s4"> two</span> most well-known</p>
+<p begin="00:16:29.490" end="00:16:33.670" style="s2">bond funds are in new york the bronx</p>
+<p begin="00:16:31.720" end="00:16:35.830" style="s2">freedom fund and the brooklyn community</p>
+<p begin="00:16:33.670" end="00:16:37.930" style="s2">bail fund and what they<span style="s4"> found</span> is</p>
+<p begin="00:16:35.830" end="00:16:40.180" style="s2">essentially that their clients who they</p>
+<p begin="00:16:37.930" end="00:16:41.890" style="s2">post bond<span style="s4"> for</span> come to court at a higher</p>
+<p begin="00:16:40.180" end="00:16:44.770" style="s2">rate than people who put their<span style="s4"> own</span> money</p>
+<p begin="00:16:41.890" end="00:16:47.500" style="s2">up for bail so it&#39;s not<span style="s4"> about</span><span style="s3"> the</span> money</p>
+<p begin="00:16:44.770" end="00:16:49.270" style="s2">and there<span style="s3"> is</span> no real evidence based</p>
+<p begin="00:16:47.500" end="00:16:50.680" style="s2">reason why we use money they&#39;re also</p>
+<p begin="00:16:49.270" end="00:16:52.270" style="s2">finding that when their clients are out</p>
+<p begin="00:16:50.680" end="00:16:54.490" style="s2">and they&#39;re free and<span style="s4"> they</span> can fight</p>
+<p begin="00:16:52.270" end="00:17:01.570" style="s2">their cases they&#39;re getting different</p>
+<p begin="00:16:54.490" end="00:17:05.170" style="s2">and better results all right what do<span style="s3"> we</span></p>
+<p begin="00:17:01.570" end="00:17:07.420" style="s2">do if we aren&#39;t<span style="s3"> doing</span> money bail well</p>
+<p begin="00:17:05.170" end="00:17:11.020" style="s2">the one thing we can do it&#39;s really easy</p>
+<p begin="00:17:07.420" end="00:17:14.949" style="s2">as we can mandate non-monetary release</p>
+<p begin="00:17:11.020" end="00:17:17.530" style="s2">for as many people<span style="s3"> as</span> feasible so a lot</p>
+<p begin="00:17:14.949" end="00:17:19.360" style="s2">of judges is sort of a cya move to use</p>
+<p begin="00:17:17.530" end="00:17:21.339" style="s2">money bail because you<span style="s3"> set</span> bail and then</p>
+<p begin="00:17:19.360" end="00:17:25.630" style="s2">if they pay that you know it&#39;s not</p>
+<p begin="00:17:21.339" end="00:17:27.850" style="s2">really<span style="s3"> on</span> you but when<span style="s4"> someone</span> comes</p>
+<p begin="00:17:25.630" end="00:17:32.080" style="s2">into contact with the court system for</p>
+<p begin="00:17:27.850" end="00:17:33.730" style="s2">retail theft there&#39;s not<span style="s3"> really</span> a good</p>
+<p begin="00:17:32.080" end="00:17:35.350" style="s2">reason why we<span style="s3"> should</span> immediately put</p>
+<p begin="00:17:33.730" end="00:17:37.840" style="s2">them in a cage in fact they should just</p>
+<p begin="00:17:35.350" end="00:17:38.890" style="s2"><span style="s3">get</span><span style="s4"> out</span> and most people are when they&#39;re</p>
+<p begin="00:17:37.840" end="00:17:41.200" style="s2">charged with retail stuff but not</p>
+<p begin="00:17:38.890" end="00:17:42.760" style="s2">everyone we<span style="s3"> need to expand the range of</span></p>
+<p begin="00:17:41.200" end="00:17:45.760" style="s2">charges where people are just<span style="s3"> getting</span></p>
+<p begin="00:17:42.760" end="00:17:47.200" style="s2">out immediately<span style="s4"> and</span> judges don&#39;t feel</p>
+<p begin="00:17:45.760" end="00:17:49.059" style="s2">that they are</p>
+<p begin="00:17:47.200" end="00:17:50.519" style="s2">to be on the<span style="s4"> hook</span> if something<span style="s3"> happens</span></p>
+<p begin="00:17:49.059" end="00:17:52.779" style="s2">that<span style="s3"> there is going</span> to be some sort of</p>
+<p begin="00:17:50.519" end="00:17:53.980" style="s2">Willie Horton moment and they&#39;re<span style="s3"> going</span></p>
+<p begin="00:17:52.779" end="00:17:57.549" style="s2"><span style="s3">to</span> be vilified they&#39;re going to be hung</p>
+<p begin="00:17:53.980" end="00:18:00.220" style="s2">out to<span style="s4"> dry</span> we also need<span style="s4"> to</span> use verified</p>
+<p begin="00:17:57.549" end="00:18:02.200" style="s2">race-neutral risk assessment tool so</p>
+<p begin="00:18:00.220" end="00:18:05.049" style="s2">what we know what<span style="s4"> we</span> all know is that</p>
+<p begin="00:18:02.200" end="00:18:07.389" style="s2">humans we have implicit biases and those</p>
+<p begin="00:18:05.049" end="00:18:09.970" style="s2">impacts our discretionary decision</p>
+<p begin="00:18:07.389" end="00:18:10.809" style="s2">making and risk assessment tools when</p>
+<p begin="00:18:09.970" end="00:18:14.049" style="s2">they&#39;ve been used in other jurisdictions</p>
+<p begin="00:18:10.809" end="00:18:15.580" style="s2">have shown that they can reduce the</p>
+<p begin="00:18:14.049" end="00:18:17.320" style="s2">racial disparity and pretrial release</p>
+<p begin="00:18:15.580" end="00:18:18.970" style="s2">essentially they let more people have</p>
+<p begin="00:18:17.320" end="00:18:21.370" style="s2">caller out than judges who<span style="s4"> are</span> just</p>
+<p begin="00:18:18.970" end="00:18:22.360" style="s2">using their discretion they&#39;re still</p>
+<p begin="00:18:21.370" end="00:18:23.649" style="s2">based on fundamentally flawed</p>
+<p begin="00:18:22.360" end="00:18:25.659" style="s2">information because they&#39;re essentially</p>
+<p begin="00:18:23.649" end="00:18:28.510" style="s2">looking at arrest records which are not</p>
+<p begin="00:18:25.659" end="00:18:30.580" style="s2">race neutral and we can also use less</p>
+<p begin="00:18:28.510" end="00:18:31.809" style="s2">restrictive more supportive means to</p>
+<p begin="00:18:30.580" end="00:18:33.909" style="s2">make sure that<span style="s3"> people are making their</span></p>
+<p begin="00:18:31.809" end="00:18:35.740" style="s2">Court dates we need to shift the risk</p>
+<p begin="00:18:33.909" end="00:18:38.200" style="s2">that we&#39;re willing to<span style="s3"> accept</span> so we&#39;re</p>
+<p begin="00:18:35.740" end="00:18:39.970" style="s2"><span style="s3">not</span> putting people in a cage for weeks</p>
+<p begin="00:18:38.200" end="00:18:41.380" style="s2">months and potentially years because</p>
+<p begin="00:18:39.970" end="00:18:43.299" style="s2"><span style="s3">we&#39;re</span> worried about<span style="s3"> them</span> missing a court</p>
+<p begin="00:18:41.380" end="00:18:46.179" style="s2">date that&#39;s not a good<span style="s3"> enough</span> reason to</p>
+<p begin="00:18:43.299" end="00:18:47.320" style="s2">do that to incarcerate someone and we&#39;re</p>
+<p begin="00:18:46.179" end="00:18:49.539" style="s2"><span style="s3">not talking</span><span style="s4"> about</span> fleeing the country</p>
+<p begin="00:18:47.320" end="00:18:51.370" style="s2">and evading justice we&#39;re<span style="s3"> just</span> talking</p>
+<p begin="00:18:49.539" end="00:18:54.159" style="s2">about missing an appointment for most</p>
+<p begin="00:18:51.370" end="00:18:56.740" style="s2">people we can do a lot<span style="s3"> of</span> good by</p>
+<p begin="00:18:54.159" end="00:18:58.779" style="s2">providing text message reminders phone</p>
+<p begin="00:18:56.740" end="00:19:00.399" style="s2">call reminders bus cards offering</p>
+<p begin="00:18:58.779" end="00:19:02.019" style="s2"><span style="s4">childcare</span><span style="s3"> something</span> they&#39;re doing in New</p>
+<p begin="00:19:00.399" end="00:19:03.789" style="s2">York is expanding the hours so<span style="s4"> that</span></p>
+<p begin="00:19:02.019" end="00:19:05.559" style="s2">people<span style="s4"> who</span> can&#39;t get off work or don&#39;t</p>
+<p begin="00:19:03.789" end="00:19:08.620" style="s2"><span style="s4">have</span> childcare are able to come in the</p>
+<p begin="00:19:05.559" end="00:19:10.029" style="s2">evening to their Court dates and we can</p>
+<p begin="00:19:08.620" end="00:19:12.760" style="s2"><span style="s4">continue</span> to support things that just</p>
+<p begin="00:19:10.029" end="00:19:14.889" style="s2">divert people away from the criminal</p>
+<p begin="00:19:12.760" end="00:19:18.460" style="s2"><span style="s4">justice</span> system entirely and keep people</p>
+<p begin="00:19:14.889" end="00:19:20.139" style="s2"><span style="s4">out</span> of coming into the system<span style="s3"> okay</span> i&#39;m</p>
+<p begin="00:19:18.460" end="00:19:22.720" style="s2"><span style="s3">going to talk really quick about the</span></p>
+<p begin="00:19:20.139" end="00:19:27.190" style="s2">tech part of the Chicago<span style="s4"> community</span> bond</p>
+<p begin="00:19:22.720" end="00:19:28.630" style="s2">fund which is<span style="s3"> meager</span> and strange but I</p>
+<p begin="00:19:27.190" end="00:19:30.429" style="s2">think it shares a lot<span style="s3"> of things that</span><span style="s4"> a</span></p>
+<p begin="00:19:28.630" end="00:19:32.740" style="s2">lot<span style="s4"> of</span><span style="s3"> small</span> community organizations</p>
+<p begin="00:19:30.429" end="00:19:34.120" style="s2">really have<span style="s4"> problems</span> with you need</p>
+<p begin="00:19:32.740" end="00:19:36.279" style="s2"><span style="s3">basically</span> three things to start<span style="s3"> an</span></p>
+<p begin="00:19:34.120" end="00:19:37.809" style="s2">organization you need a website you need</p>
+<p begin="00:19:36.279" end="00:19:39.820" style="s2"><span style="s4">a</span> way to take people&#39;s money and<span style="s3"> you</span></p>
+<p begin="00:19:37.809" end="00:19:42.309" style="s2">need a way<span style="s4"> to</span> talk<span style="s4"> to</span> them and all three</p>
+<p begin="00:19:39.820" end="00:19:44.889" style="s2">of these things<span style="s3"> are still either</span> hard or</p>
+<p begin="00:19:42.309" end="00:19:46.960" style="s2">pretty expensive um the bond fund is</p>
+<p begin="00:19:44.889" end="00:19:48.370" style="s2">like uniquely price sensitive because if</p>
+<p begin="00:19:46.960" end="00:19:50.320" style="s2">we spent a thousand dollars a year on</p>
+<p begin="00:19:48.370" end="00:19:53.139" style="s2">tech that is a person who&#39;s going to be</p>
+<p begin="00:19:50.320" end="00:19:54.850" style="s2">in<span style="s3"> a</span> cage who wouldn&#39;t otherwise be so</p>
+<p begin="00:19:53.139" end="00:19:58.480" style="s2">we really really try hard to<span style="s3"> keep</span> our</p>
+<p begin="00:19:54.850" end="00:20:00.290" style="s2">overhead low um email<span style="s3"> fifteen</span> years<span style="s4"> ago</span></p>
+<p begin="00:19:58.480" end="00:20:05.540" style="s2">was like really easy and now it&#39;s our</p>
+<p begin="00:20:00.290" end="00:20:07.670" style="s2">because of spammers so you know<span style="s4"> Google</span></p>
+<p begin="00:20:05.540" end="00:20:10.640" style="s2">used to let you host your domain names</p>
+<p begin="00:20:07.670" end="00:20:12.980" style="s2">there and it was great now you can&#39;t we</p>
+<p begin="00:20:10.640" end="00:20:15.050" style="s2">use nearly free speech which is one of</p>
+<p begin="00:20:12.980" end="00:20:18.440" style="s2"><span style="s3">the</span> oldest<span style="s4"> internet</span> service providers</p>
+<p begin="00:20:15.050" end="00:20:21.170" style="s2">they&#39;re<span style="s3"> great</span> they&#39;re cheap it works to</p>
+<p begin="00:20:18.440" end="00:20:23.330" style="s2">forward email to people&#39;s personal gmail</p>
+<p begin="00:20:21.170" end="00:20:25.130" style="s2">addresses because gmail is the only</p>
+<p begin="00:20:23.330" end="00:20:27.850" style="s2">thing that anybody wants to use for</p>
+<p begin="00:20:25.130" end="00:20:31.340" style="s2">email I have tried<span style="s4"> to</span> get people to use</p>
+<p begin="00:20:27.850" end="00:20:36.230" style="s2">anything else<span style="s3"> and</span> everybody just<span style="s3"> wants</span></p>
+<p begin="00:20:31.340" end="00:20:38.720" style="s2">to use their their email list we also</p>
+<p begin="00:20:36.230" end="00:20:41.300" style="s2">use SES to send<span style="s3"> email</span> through<span style="s3"> Gmail</span></p>
+<p begin="00:20:38.720" end="00:20:43.490" style="s2">which is free and MailChimp which is</p>
+<p begin="00:20:41.300" end="00:20:46.670" style="s2">really<span style="s3"> expensive</span> all of these things</p>
+<p begin="00:20:43.490" end="00:20:48.920" style="s2"><span style="s3">work</span> they are all extremely annoying to</p>
+<p begin="00:20:46.670" end="00:20:50.570" style="s2">set up and like probably beyond the</p>
+<p begin="00:20:48.920" end="00:20:52.780" style="s2">reach of most people who are stuck</p>
+<p begin="00:20:50.570" end="00:20:57.370" style="s2">paying fifty dollars per year<span style="s3"> per</span> person</p>
+<p begin="00:20:52.780" end="00:21:01.550" style="s2">per email address amazon or Microsoft or</p>
+<p begin="00:20:57.370" end="00:21:03.590" style="s2">whoever else um it would be<span style="s3"> like</span><span style="s4"> really</span></p>
+<p begin="00:21:01.550" end="00:21:07.160" style="s2"><span style="s3">nice</span> if there were better solutions to</p>
+<p begin="00:21:03.590" end="00:21:08.210" style="s2">this and there aren&#39;t<span style="s3"> uh</span> I&#39;m going to go</p>
+<p begin="00:21:07.160" end="00:21:14.420" style="s2">really fast because<span style="s3"> we&#39;re</span> running<span style="s4"> short</span></p>
+<p begin="00:21:08.210" end="00:21:17.170" style="s2">on time but I think yes<span style="s3"> um</span> so lots of</p>
+<p begin="00:21:14.420" end="00:21:20.510" style="s2">people take money<span style="s3"> Braintree</span> included</p>
+<p begin="00:21:17.170" end="00:21:26.300" style="s2">almost every sort<span style="s3"> of</span> non profit oriented</p>
+<p begin="00:21:20.510" end="00:21:30.980" style="s2">site is either really annoying for users</p>
+<p begin="00:21:26.300" end="00:21:32.570" style="s2">to use or really expensive an extra five</p>
+<p begin="00:21:30.980" end="00:21:36.500" style="s2">percent or more on top of interchange</p>
+<p begin="00:21:32.570" end="00:21:38.930" style="s2">fees we use paypal<span style="s3"> for</span> the parent</p>
+<p begin="00:21:36.500" end="00:21:41.810" style="s2">company of Braintree for our reoccurring</p>
+<p begin="00:21:38.930" end="00:21:46.220" style="s2">payments and a unnamed other payment</p>
+<p begin="00:21:41.810" end="00:21:49.070" style="s2">processor for our website where we have</p>
+<p begin="00:21:46.220" end="00:21:51.140" style="s2">a very large donate button with a number</p>
+<p begin="00:21:49.070" end="00:21:54.890" style="s2"><span style="s3">in</span> it that you<span style="s3"> can change and it works</span></p>
+<p begin="00:21:51.140" end="00:21:56.240" style="s2">really really well we have I don&#39;t<span style="s3"> have</span></p>
+<p begin="00:21:54.890" end="00:21:59.120" style="s2">the numbers with me but we have<span style="s3"> like</span></p>
+<p begin="00:21:56.240" end="00:22:01.490" style="s2">quite good conversion rates we have like</p>
+<p begin="00:21:59.120" end="00:22:02.840" style="s2">a really low overhead I&#39;ve seen</p>
+<p begin="00:22:01.490" end="00:22:05.300" style="s2">organizations have really bad luck</p>
+<p begin="00:22:02.840" end="00:22:08.000" style="s2">trying<span style="s4"> to</span> serve like send people to your</p>
+<p begin="00:22:05.300" end="00:22:10.430" style="s2">page where you have to fill out a lot of</p>
+<p begin="00:22:08.000" end="00:22:14.119" style="s2">information we have like the minimal</p>
+<p begin="00:22:10.430" end="00:22:19.719" style="s2">amount of information and it works great</p>
+<p begin="00:22:14.119" end="00:22:22.999" style="s2">and it is basically<span style="s3"> free</span> it&#39;s a</p>
+<p begin="00:22:19.719" end="00:22:26.659" style="s2">client-side JavaScript and AWS lambda</p>
+<p begin="00:22:22.999" end="00:22:31.879" style="s2">function that way that&#39;s most of it</p>
+<p begin="00:22:26.659" end="00:22:34.099" style="s2">that&#39;s about<span style="s4"> 20</span> lines long it</p>
+<p begin="00:22:31.879" end="00:22:37.219" style="s2">unfortunately sends pretty ugly emails</p>
+<p begin="00:22:34.099" end="00:22:38.749" style="s2">it is this is a<span style="s3"> little</span><span style="s4"> better</span> I<span style="s3"> don&#39;t</span></p>
+<p begin="00:22:37.219" end="00:22:41.149" style="s2">know how many<span style="s4"> people</span> have used lambda</p>
+<p begin="00:22:38.749" end="00:22:43.549" style="s2">much it used to be like much harder to</p>
+<p begin="00:22:41.149" end="00:22:45.769" style="s2">set up and now it&#39;s a lot easier there&#39;s</p>
+<p begin="00:22:43.549" end="00:22:48.739" style="s2"><span style="s3">like</span> almost no one<span style="s3"> in</span> the world who</p>
+<p begin="00:22:45.769" end="00:22:51.649" style="s2">manages to set up cloud front and lambda</p>
+<p begin="00:22:48.739" end="00:22:56.779" style="s2">and everything else in such a way that</p>
+<p begin="00:22:51.649" end="00:22:58.099" style="s2">it works well and easily I think there&#39;s</p>
+<p begin="00:22:56.779" end="00:23:02.209" style="s2">like<span style="s3"> several</span> people in the world who</p>
+<p begin="00:22:58.099" end="00:23:03.919" style="s2">have i am<span style="s3"> not</span> yet one<span style="s4"> of</span> them and our</p>
+<p begin="00:23:02.209" end="00:23:05.419" style="s2">way and<span style="s3"> it&#39;s</span> you know you don&#39;t<span style="s4"> get a</span></p>
+<p begin="00:23:03.919" end="00:23:08.449" style="s2">lot<span style="s4"> of</span> fancy stuff you could do if<span style="s4"> you</span></p>
+<p begin="00:23:05.419" end="00:23:09.649" style="s2">are<span style="s3"> hosting</span> your own website<span style="s3"> i</span> think<span style="s3"> i</span></p>
+<p begin="00:23:08.449" end="00:23:13.699" style="s2">put these in<span style="s3"> the</span> wrong order because</p>
+<p begin="00:23:09.649" end="00:23:15.469" style="s2">i&#39;ll talk about<span style="s3"> that</span> later this should</p>
+<p begin="00:23:13.699" end="00:23:17.749" style="s2">be<span style="s4"> like a script right like you should</span></p>
+<p begin="00:23:15.469" end="00:23:20.629" style="s2">be able to say like<span style="s4"> i</span> want a donation</p>
+<p begin="00:23:17.749" end="00:23:23.149" style="s2">widget and have your little<span style="s3"> scripts</span></p>
+<p begin="00:23:20.629" end="00:23:25.339" style="s2">scatter to the wind and take your<span style="s4"> api</span></p>
+<p begin="00:23:23.149" end="00:23:27.589" style="s2">keys and make you a donation widget that</p>
+<p begin="00:23:25.339" end="00:23:29.599" style="s2">works and that&#39;s free and it really</p>
+<p begin="00:23:27.589" end="00:23:32.509" style="s2"><span style="s4">really</span> importantly doesn&#39;t get shut down</p>
+<p begin="00:23:29.599" end="00:23:35.689" style="s2">by third parties trying to cover their</p>
+<p begin="00:23:32.509" end="00:23:38.649" style="s2">butts um a lot of crowdfunding places</p>
+<p begin="00:23:35.689" end="00:23:41.959" style="s2">are very very quick to shut<span style="s4"> down</span></p>
+<p begin="00:23:38.649" end="00:23:44.089" style="s2">fundraisers that have the merest whiff</p>
+<p begin="00:23:41.959" end="00:23:46.759" style="s2">of anything having to do with the</p>
+<p begin="00:23:44.089" end="00:23:49.309" style="s2"><span style="s4">criminal</span> justice system it&#39;s incredibly</p>
+<p begin="00:23:46.759" end="00:23:52.459" style="s2">common for bail fund fundraisers to get</p>
+<p begin="00:23:49.309" end="00:23:54.109" style="s2">shut down almost immediately whether or</p>
+<p begin="00:23:52.459" end="00:23:56.299" style="s2">not they are against the terms of</p>
+<p begin="00:23:54.109" end="00:23:58.909" style="s2">service of the provider so like we</p>
+<p begin="00:23:56.299" end="00:24:03.969" style="s2">really wanted<span style="s4"> to</span> minimize the number of</p>
+<p begin="00:23:58.909" end="00:24:10.839" style="s2">places in between our money and our</p>
+<p begin="00:24:03.969" end="00:24:13.189" style="s2">ability to<span style="s3"> get</span> it um so yeah so I think</p>
+<p begin="00:24:10.839" end="00:24:14.659" style="s2"><span style="s3">there</span> is like a lot of room in<span style="s3"> the</span> world</p>
+<p begin="00:24:13.189" end="00:24:17.989" style="s2">for a solution<span style="s3"> to</span> take people&#39;s money</p>
+<p begin="00:24:14.659" end="00:24:20.539" style="s2">that lets it hosts itself there&#39;s like</p>
+<p begin="00:24:17.989" end="00:24:22.549" style="s2">great tools in the world that work way</p>
+<p begin="00:24:20.539" end="00:24:25.399" style="s2">better than almost every sort of like</p>
+<p begin="00:24:22.549" end="00:24:26.959" style="s2">heavyweight donation site and it&#39;s still</p>
+<p begin="00:24:25.399" end="00:24:27.860" style="s2">really annoying to set up and that&#39;s</p>
+<p begin="00:24:26.959" end="00:24:33.640" style="s2">something that I</p>
+<p begin="00:24:27.860" end="00:24:36.290" style="s2">working on our website it&#39;s also a</p>
+<p begin="00:24:33.640" end="00:24:38.299" style="s2"><span style="s3">really</span> frustrating<span style="s3"> and</span> expensive just</p>
+<p begin="00:24:36.290" end="00:24:42.670" style="s2">set up a cheap website that uses your</p>
+<p begin="00:24:38.299" end="00:24:47.299" style="s2">own domain that supports https that is a</p>
+<p begin="00:24:42.670" end="00:24:49.970" style="s2">easy for people to use<span style="s3"> to</span> update we have</p>
+<p begin="00:24:47.299" end="00:24:52.549" style="s2">three out of four<span style="s4"> of</span> those it&#39;s jackal</p>
+<p begin="00:24:49.970" end="00:24:57.020" style="s2">which is a static site generator hosted</p>
+<p begin="00:24:52.549" end="00:25:02.000" style="s2">on<span style="s4"> amazon</span> s3 it costs<span style="s3"> about</span> a dollar and</p>
+<p begin="00:24:57.020" end="00:25:04.700" style="s2">a half a month to host except when<span style="s4"> we</span></p>
+<p begin="00:25:02.000" end="00:25:07.130" style="s2">went from<span style="s3"> five</span> hundred hits a week to</p>
+<p begin="00:25:04.700" end="00:25:10.850" style="s2">about 30,000 then it<span style="s4"> cost</span> I think what</p>
+<p begin="00:25:07.130" end="00:25:12.830" style="s2"><span style="s3">did</span> I say they&#39;re like six dollars it&#39;s</p>
+<p begin="00:25:10.850" end="00:25:15.020" style="s2">really great like I&#39;ve seen plenty of</p>
+<p begin="00:25:12.830" end="00:25:16.549" style="s2"><span style="s3">organizations</span> knocked off the web when</p>
+<p begin="00:25:15.020" end="00:25:18.770" style="s2">they get a little<span style="s3"> bit</span> of national media</p>
+<p begin="00:25:16.549" end="00:25:23.059" style="s2">coverage like we did<span style="s3"> after</span> the Trump</p>
+<p begin="00:25:18.770" end="00:25:24.470" style="s2">rally and I&#39;ve<span style="s3"> also</span> seen a lot of and I</p>
+<p begin="00:25:23.059" end="00:25:28.970" style="s2">think<span style="s4"> everybody</span> here is probably seeing</p>
+<p begin="00:25:24.470" end="00:25:31.820" style="s2">a lot of WordPress blogs that are like</p>
+<p begin="00:25:28.970" end="00:25:34.700" style="s2">now serving as spam conduits or hosting</p>
+<p begin="00:25:31.820" end="00:25:36.590" style="s2">malware and the second that happens you</p>
+<p begin="00:25:34.700" end="00:25:39.290" style="s2">get<span style="s3"> knocked</span> out of<span style="s3"> Google</span> and it&#39;s a</p>
+<p begin="00:25:36.590" end="00:25:41.510" style="s2"><span style="s3">huge</span> mess and so<span style="s3"> again</span> we were stuck</p>
+<p begin="00:25:39.290" end="00:25:44.690" style="s2">talking about paying perhaps a thousand</p>
+<p begin="00:25:41.510" end="00:25:47.179" style="s2">dollars a year or doing itself it<span style="s3"> is</span></p>
+<p begin="00:25:44.690" end="00:25:54.440" style="s2">unfortunately very frustrating to use I</p>
+<p begin="00:25:47.179" end="00:25:57.919" style="s2">have a plan<span style="s4"> someday</span> plan for a sort<span style="s3"> of</span></p>
+<p begin="00:25:54.440" end="00:26:02.510" style="s2">like static site tool that&#39;s backed by</p>
+<p begin="00:25:57.919" end="00:26:07.429" style="s2">s3 that is editable by people who people</p>
+<p begin="00:26:02.510" end="00:26:09.410" style="s2">like me right which is<span style="s3"> like</span><span style="s4"> the</span> you know</p>
+<p begin="00:26:07.429" end="00:26:13.669" style="s2"><span style="s4">charlaine</span> knows HTML and she&#39;s like</p>
+<p begin="00:26:09.410" end="00:26:15.919" style="s2">competent at making web pages but is not</p>
+<p begin="00:26:13.669" end="00:26:18.470" style="s2">a programmer who is<span style="s3"> comfortable</span></p>
+<p begin="00:26:15.919" end="00:26:22.970" style="s2">navigating the bizarre idiosyncrasies<span style="s4"> of</span></p>
+<p begin="00:26:18.470" end="00:26:26.809" style="s2">Amazon Web Services so anyway work in</p>
+<p begin="00:26:22.970" end="00:26:28.669" style="s2"><span style="s4">progress</span> these are all like really basic</p>
+<p begin="00:26:26.809" end="00:26:30.049" style="s2">things that almost every organization</p>
+<p begin="00:26:28.669" end="00:26:32.929" style="s2">which is<span style="s3"> trying to get</span><span style="s4"> a</span> presence<span style="s3"> on</span> the</p>
+<p begin="00:26:30.049" end="00:26:36.650" style="s2">web needs and almost all<span style="s4"> of them end up</span></p>
+<p begin="00:26:32.929" end="00:26:38.660" style="s2">looking less than professional in one</p>
+<p begin="00:26:36.650" end="00:26:41.929" style="s2">way<span style="s4"> or</span> another either<span style="s3"> they&#39;re</span> running<span style="s3"> on</span></p>
+<p begin="00:26:38.660" end="00:26:45.730" style="s2">like a sort of free web</p>
+<p begin="00:26:41.929" end="00:26:48.860" style="s2">Hosting program that puts ads on or<span style="s4"> they</span></p>
+<p begin="00:26:45.730" end="00:26:50.690" style="s2">are like email my personal email address</p>
+<p begin="00:26:48.860" end="00:26:54.649" style="s2">are like a number of things that<span style="s4"> really</span></p>
+<p begin="00:26:50.690" end="00:26:58.669" style="s2">don&#39;t broadcast like serious business</p>
+<p begin="00:26:54.649" end="00:27:01.850" style="s2">nonprofit which we think especially for</p>
+<p begin="00:26:58.669" end="00:27:03.139" style="s2"><span style="s4">us</span> is really important or not you know</p>
+<p begin="00:27:01.850" end="00:27:06.080" style="s2">we&#39;re an organization which i think is</p>
+<p begin="00:27:03.139" end="00:27:08.059" style="s2">like struggling to be legitimate<span style="s4"> and</span> has</p>
+<p begin="00:27:06.080" end="00:27:10.850" style="s2">a lot of interactions with like very</p>
+<p begin="00:27:08.059" end="00:27:13.429" style="s2">formal parts of the legal<span style="s3"> system</span> and the</p>
+<p begin="00:27:10.850" end="00:27:16.610" style="s2">nonprofit community and I think<span style="s3"> it&#39;s</span></p>
+<p begin="00:27:13.429" end="00:27:19.490" style="s2">like really important for<span style="s3"> us</span> to be sort</p>
+<p begin="00:27:16.610" end="00:27:22.669" style="s2">of give the<span style="s3"> impression</span> of a like serious</p>
+<p begin="00:27:19.490" end="00:27:27.379" style="s2">well funded organization in spite of our</p>
+<p begin="00:27:22.669" end="00:27:29.720" style="s2">actual slight scrappiness um anyway<span style="s3"> so</span></p>
+<p begin="00:27:27.379" end="00:27:34.460" style="s2">that&#39;s our tech stack there&#39;s a<span style="s3"> lot</span> of</p>
+<p begin="00:27:29.720" end="00:27:36.740" style="s2">work on<span style="s3"> it</span> it&#39;s small and weird and<span style="s3"> I</span></p>
+<p begin="00:27:34.460" end="00:27:39.529" style="s2">think it<span style="s4"> is</span> possible<span style="s4"> for</span><span style="s3"> this</span> to be an</p>
+<p begin="00:27:36.740" end="00:27:43.730" style="s2">easy thing like we live in an era of</p>
+<p begin="00:27:39.529" end="00:27:45.559" style="s2"><span style="s3">great</span> access to computing services and</p>
+<p begin="00:27:43.730" end="00:27:48.710" style="s2">we are still<span style="s3"> sort</span> of at<span style="s4"> the</span> cusp<span style="s4"> of</span></p>
+<p begin="00:27:45.559" end="00:27:55.269" style="s2">being able to<span style="s3"> enable</span> everybody to use</p>
+<p begin="00:27:48.710" end="00:27:55.269" style="s2">them in a reasonable way that&#39;s it<span style="s4"> ok</span></p>
+<p begin="00:28:01.630" end="00:28:08.500" style="s2">oh right questions sorry you guys see</p>
+<p begin="00:28:06.100" end="00:28:11.350" style="s2">like as far as a<span style="s4"> long-term change in</span></p>
+<p begin="00:28:08.500" end="00:28:16.650" style="s2">what what seems more possible<span style="s3"> to</span> you</p>
+<p begin="00:28:11.350" end="00:28:16.650" style="s2">like a policy of legislative change or</p>
+<p begin="00:28:17.220" end="00:28:26.560" style="s2">increasing the reach of an organization</p>
+<p begin="00:28:19.510" end="00:28:29.040" style="s2">like this and we&#39;re we&#39;re definitely</p>
+<p begin="00:28:26.560" end="00:28:31.900" style="s2">like really focused on the first one</p>
+<p begin="00:28:29.040" end="00:28:33.790" style="s2"><span style="s3">yeah</span> you don&#39;t want to exist right wait</p>
+<p begin="00:28:31.900" end="00:28:36.310" style="s2">we shouldn&#39;t<span style="s3"> have</span><span style="s4"> to</span> exist we don&#39;t want</p>
+<p begin="00:28:33.790" end="00:28:38.860" style="s2">to exist at some point we&#39;re not<span style="s3"> going</span></p>
+<p begin="00:28:36.310" end="00:28:40.390" style="s2">to be a novelty or there won&#39;t be most</p>
+<p begin="00:28:38.860" end="00:28:43.210" style="s2">of the money that<span style="s4"> we&#39;ve</span> Reyes has come</p>
+<p begin="00:28:40.390" end="00:28:44.830" style="s2">through raising bond money from<span style="s3"> protests</span></p>
+<p begin="00:28:43.210" end="00:28:46.780" style="s2">when there were national there was</p>
+<p begin="00:28:44.830" end="00:28:49.060" style="s2">national media focused on Chicago so the</p>
+<p begin="00:28:46.780" end="00:28:51.370" style="s2">night that the laQuan McDonald video was</p>
+<p begin="00:28:49.060" end="00:28:52.870" style="s2">released we did the bond fund raising</p>
+<p begin="00:28:51.370" end="00:28:55.750" style="s2">for that and they&#39;re ultimately wasn&#39;t</p>
+<p begin="00:28:52.870" end="00:28:57.370" style="s2">any bond needed for Malcolm London or</p>
+<p begin="00:28:55.750" end="00:28:59.110" style="s2">the other people arrested that night and</p>
+<p begin="00:28:57.370" end="00:29:00.820" style="s2">we also did the bond fund raising for</p>
+<p begin="00:28:59.110" end="00:29:02.770" style="s2">the Trump rally and raised over<span style="s3"> fifty</span></p>
+<p begin="00:29:00.820" end="00:29:04.480" style="s2">thousand dollars only<span style="s4"> ten</span> thousand of</p>
+<p begin="00:29:02.770" end="00:29:06.220" style="s2">dollars<span style="s3"> of</span> which was needed to bond out</p>
+<p begin="00:29:04.480" end="00:29:08.020" style="s2">protesters arrested that night so what</p>
+<p begin="00:29:06.220" end="00:29:10.540" style="s2"><span style="s3">we&#39;ve</span> done<span style="s3"> is</span> take that money and then</p>
+<p begin="00:29:08.020" end="00:29:14.020" style="s2">use it to bond out non protesters and</p>
+<p begin="00:29:10.540" end="00:29:15.940" style="s2">other protesters<span style="s3"> but</span> people arrested not</p>
+<p begin="00:29:14.020" end="00:29:17.380" style="s2"><span style="s3">in</span> moments of national attention<span style="s3"> when</span></p>
+<p begin="00:29:15.940" end="00:29:19.120" style="s2">everyone wants to whip out their wallet</p>
+<p begin="00:29:17.380" end="00:29:22.510" style="s2">and support people who kept Trump out<span style="s3"> of</span></p>
+<p begin="00:29:19.120" end="00:29:25.600" style="s2">Chicago and<span style="s3"> what</span> we write might really</p>
+<p begin="00:29:22.510" end="00:29:27.670" style="s2">need the money<span style="s3"> like</span> we there&#39;s it&#39;s</p>
+<p begin="00:29:25.600" end="00:29:29.500" style="s2">basically impossible to tell how much</p>
+<p begin="00:29:27.670" end="00:29:31.750" style="s2">bond is going to get once people have</p>
+<p begin="00:29:29.500" end="00:29:34.210" style="s2">felony charges it could be anywhere</p>
+<p begin="00:29:31.750" end="00:29:36.640" style="s2"><span style="s3">between</span> you know ten or a hundred</p>
+<p begin="00:29:34.210" end="00:29:39.760" style="s2">thousand dollars<span style="s3"> and</span> so we have to</p>
+<p begin="00:29:36.640" end="00:29:42.040" style="s2">collect the money when we can but so we</p>
+<p begin="00:29:39.760" end="00:29:44.200" style="s2">are we are working with<span style="s3"> coalition</span> of</p>
+<p begin="00:29:42.040" end="00:29:49.060" style="s2">organizations that&#39;s working<span style="s3"> on</span> some</p>
+<p begin="00:29:44.200" end="00:29:53.440" style="s2">legislative solutions there are also a</p>
+<p begin="00:29:49.060" end="00:29:55.120" style="s2">lot<span style="s4"> of</span> policy like local policy changes</p>
+<p begin="00:29:53.440" end="00:29:57.700" style="s2"><span style="s4">that</span> could be made in Cook County in</p>
+<p begin="00:29:55.120" end="00:29:59.620" style="s2">terms of bond court judges in terms of</p>
+<p begin="00:29:57.700" end="00:30:02.830" style="s2">the risk assessment that is in place now</p>
+<p begin="00:29:59.620" end="00:30:04.990" style="s2">but is arguably not being honored by</p>
+<p begin="00:30:02.830" end="00:30:07.360" style="s2">judges are factored into judicial</p>
+<p begin="00:30:04.990" end="00:30:09.700" style="s2"><span style="s4">decision-making that&#39;s saying people</span></p>
+<p begin="00:30:07.360" end="00:30:13.260" style="s2">should<span style="s4"> be</span> released and they&#39;re not</p>
+<p begin="00:30:09.700" end="00:30:13.260" style="s2">released any way</p>
+<p begin="00:30:13.730" end="00:30:17.610" style="s2">know what else to say well we don&#39;t<span style="s3"> want</span></p>
+<p begin="00:30:16.050" end="00:30:19.680" style="s2">to see is like a proliferation<span style="s3"> of</span> bond</p>
+<p begin="00:30:17.610" end="00:30:21.930" style="s2">funds especially<span style="s3"> because</span> not everyone is</p>
+<p begin="00:30:19.680" end="00:30:24.090" style="s2">going<span style="s4"> to</span> be on the page of yeah<span style="s3"> let&#39;s</span></p>
+<p begin="00:30:21.930" end="00:30:27.180" style="s2">bond out that lady with the<span style="s4"> first-degree</span></p>
+<p begin="00:30:24.090" end="00:30:30.480" style="s2"><span style="s4">murder</span> charge a lot of bond funds are</p>
+<p begin="00:30:27.180" end="00:30:33.750" style="s2">like let&#39;s go now people wore 18 to 24</p>
+<p begin="00:30:30.480" end="00:30:35.490" style="s2">and they have misdemeanors nonviolent</p>
+<p begin="00:30:33.750" end="00:30:36.960" style="s2">misdemeanors there&#39;s like immediately</p>
+<p begin="00:30:35.490" end="00:30:38.280" style="s2">just see a sorting of who should be in</p>
+<p begin="00:30:36.960" end="00:30:40.320" style="s2">the jail and who shouldn&#39;t even though</p>
+<p begin="00:30:38.280" end="00:30:43.680" style="s2">there&#39;s no public policy or safety</p>
+<p begin="00:30:40.320" end="00:30:45.660" style="s2">reasons to keep people incarcerated one</p>
+<p begin="00:30:43.680" end="00:30:46.980" style="s2">of the things<span style="s3"> we</span> try<span style="s3"> really</span> hard to</p>
+<p begin="00:30:45.660" end="00:30:48.690" style="s2">avoid and this is a long answer a</p>
+<p begin="00:30:46.980" end="00:30:51.120" style="s2">question of<span style="s3"> course</span> but<span style="s3"> is</span> to be<span style="s4"> a</span> like</p>
+<p begin="00:30:48.690" end="00:30:53.640" style="s2">sort of<span style="s4"> half-assed</span> bond court that goes</p>
+<p begin="00:30:51.120" end="00:30:55.710" style="s2">after normal bond court where they plead</p>
+<p begin="00:30:53.640" end="00:30:59.190" style="s2">their case to<span style="s3"> the</span> normal bond court and</p>
+<p begin="00:30:55.710" end="00:31:02.070" style="s2">then if that doesn&#39;t<span style="s4"> work</span> they try us we</p>
+<p begin="00:30:59.190" end="00:31:06.170" style="s2">are definitely focused on you know<span style="s3"> the</span></p>
+<p begin="00:31:02.070" end="00:31:06.170" style="s2">policy<span style="s3"> systems</span> change yeah</p>
+<p begin="00:31:17.459" end="00:31:22.779" style="s2">so right now<span style="s3"> it&#39;s mo people are mostly</span></p>
+<p begin="00:31:20.409" end="00:31:24.999" style="s2">coming<span style="s3"> to</span> us through partners that we</p>
+<p begin="00:31:22.779" end="00:31:27.099" style="s2">have so cabrini-green legal aid or</p>
+<p begin="00:31:24.999" end="00:31:29.979" style="s2"><span style="s3">Lawndale</span> Christian Legal Center the</p>
+<p begin="00:31:27.099" end="00:31:33.069" style="s2">public defender&#39;s office growing home is</p>
+<p begin="00:31:29.979" end="00:31:36.279" style="s2">an example of someone who we consider a</p>
+<p begin="00:31:33.069" end="00:31:39.009" style="s2">partner we did have open general intakes</p>
+<p begin="00:31:36.279" end="00:31:41.469" style="s2">for three or<span style="s4"> four</span> months<span style="s3"> in</span> the spring</p>
+<p begin="00:31:39.009" end="00:31:43.719" style="s2">and our phone number was up on<span style="s3"> the wall</span></p>
+<p begin="00:31:41.469" end="00:31:45.849" style="s2">in the jail in at least a couple</p>
+<p begin="00:31:43.719" end="00:31:47.949" style="s2">divisions we were getting<span style="s3"> five</span> to<span style="s4"> ten</span></p>
+<p begin="00:31:45.849" end="00:31:49.899" style="s2">calls a day from people who needed help</p>
+<p begin="00:31:47.949" end="00:31:52.089" style="s2">from the family members of people who</p>
+<p begin="00:31:49.899" end="00:31:53.649" style="s2">needed help paying bond and as an</p>
+<p begin="00:31:52.089" end="00:31:56.349" style="s2">all-volunteer organization that was not</p>
+<p begin="00:31:53.649" end="00:31:58.209" style="s2"><span style="s3">sustainable</span> and also we spent<span style="s4"> the</span> vast</p>
+<p begin="00:31:56.349" end="00:31:59.859" style="s2">majority of the<span style="s3"> money</span> that<span style="s4"> we</span> have and</p>
+<p begin="00:31:58.209" end="00:32:01.269" style="s2">we&#39;re down<span style="s4"> to</span> just an emergency fund so</p>
+<p begin="00:31:59.859" end="00:32:06.639" style="s2"><span style="s4">we</span> don&#39;t<span style="s3"> have</span> the ability<span style="s4"> to</span> take in</p>
+<p begin="00:32:01.269" end="00:32:08.969" style="s2">general intakes like that right<span style="s3"> now</span> what</p>
+<p begin="00:32:06.639" end="00:32:08.969" style="s2">advice</p>
+<p begin="00:32:10.950" end="00:32:17.590" style="s2">so we get a lot<span style="s3"> of</span> questions like that</p>
+<p begin="00:32:14.470" end="00:32:21.790" style="s2">there&#39;s some documents<span style="s3"> that</span> the Bronx</p>
+<p begin="00:32:17.590" end="00:32:24.280" style="s2">people have put<span style="s4"> out</span> there are some new</p>
+<p begin="00:32:21.790" end="00:32:26.710" style="s2">york specific because the<span style="s3"> new york funds</span></p>
+<p begin="00:32:24.280" end="00:32:28.270" style="s2">had to get a special statutory exception</p>
+<p begin="00:32:26.710" end="00:32:30.550" style="s2">to allow them to operate because unlike</p>
+<p begin="00:32:28.270" end="00:32:32.620" style="s2"><span style="s3">illinois</span> most states in the country have</p>
+<p begin="00:32:30.550" end="00:32:35.440" style="s2">private bail bonds<span style="s3"> industries</span> so in</p>
+<p begin="00:32:32.620" end="00:32:37.900" style="s2">those states nonprofit bond fund might</p>
+<p begin="00:32:35.440" end="00:32:39.820" style="s2">have to become a licensed bail bondsman</p>
+<p begin="00:32:37.900" end="00:32:41.440" style="s2">or otherwise register get insurance</p>
+<p begin="00:32:39.820" end="00:32:42.490" style="s2">things like that we didn&#39;t<span style="s3"> have</span> to<span style="s3"> do</span></p>
+<p begin="00:32:41.440" end="00:32:45.070" style="s2">any of<span style="s4"> that</span> because we don&#39;t<span style="s4"> have</span> that</p>
+<p begin="00:32:42.490" end="00:32:46.630" style="s2">industry here thank goodness it&#39;s also</p>
+<p begin="00:32:45.070" end="00:32:48.220" style="s2">going<span style="s3"> to</span> make the legislative changes</p>
+<p begin="00:32:46.630" end="00:32:51.150" style="s2">much easier because we don&#39;t have<span style="s3"> an</span></p>
+<p begin="00:32:48.220" end="00:32:53.830" style="s2">entity<span style="s3"> its</span> profiting off of people&#39;s</p>
+<p begin="00:32:51.150" end="00:32:57.270" style="s2">need for money to avoid being<span style="s3"> in</span> a cage</p>
+<p begin="00:32:53.830" end="00:33:00.550" style="s2">fighting that change so the<span style="s4"> New York</span></p>
+<p begin="00:32:57.270" end="00:33:06.750" style="s2">there&#39;s a framework available for people</p>
+<p begin="00:33:00.550" end="00:33:09.250" style="s2">there elsewhere we<span style="s4"> mostly</span> tell people if</p>
+<p begin="00:33:06.750" end="00:33:11.620" style="s2">you want to bond people out that&#39;s great</p>
+<p begin="00:33:09.250" end="00:33:13.660" style="s2">like let&#39;s get people out now let&#39;s show</p>
+<p begin="00:33:11.620" end="00:33:15.640" style="s2">people they can<span style="s4"> succeed</span> let&#39;s tell their</p>
+<p begin="00:33:13.660" end="00:33:17.920" style="s2">stories let&#39;s engage in harm reduction</p>
+<p begin="00:33:15.640" end="00:33:19.630" style="s2">take care<span style="s3"> of each other but</span> this is not</p>
+<p begin="00:33:17.920" end="00:33:21.520" style="s2"><span style="s3">a</span> solution we&#39;re never going to get</p>
+<p begin="00:33:19.630" end="00:33:24.160" style="s2"><span style="s3">everyone</span> out this way like you need<span style="s4"> to</span></p>
+<p begin="00:33:21.520" end="00:33:26.290" style="s2">also engage in advocacy efforts that are</p>
+<p begin="00:33:24.160" end="00:33:27.490" style="s2">designed<span style="s4"> to</span> get everyone<span style="s4"> out</span> who</p>
+<p begin="00:33:26.290" end="00:33:29.890" style="s2">shouldn&#39;t be there we&#39;re also</p>
+<p begin="00:33:27.490" end="00:33:32.080" style="s2">particularly well placed to have a</p>
+<p begin="00:33:29.890" end="00:33:34.450" style="s2">revolving bond fund because<span style="s3"> unlike</span> in</p>
+<p begin="00:33:32.080" end="00:33:36.220" style="s2">other municipalities where you have to</p>
+<p begin="00:33:34.450" end="00:33:39.280" style="s2">pay the whole amount or forfeit ten</p>
+<p begin="00:33:36.220" end="00:33:41.410" style="s2">percent to a bondsman we get all<span style="s4"> of</span> the</p>
+<p begin="00:33:39.280" end="00:33:43.810" style="s2">bond back except<span style="s4"> for</span> a small fee which</p>
+<p begin="00:33:41.410" end="00:33:45.550" style="s2">means that<span style="s3"> the</span> you know<span style="s3"> money</span> that we</p>
+<p begin="00:33:43.810" end="00:33:47.380" style="s2">have gets get used over and over again</p>
+<p begin="00:33:45.550" end="00:33:48.700" style="s2">which makes it a lot more</p>
+<p begin="00:33:47.380" end="00:33:55.510" style="s2">straightforward than in most other</p>
+<p begin="00:33:48.700" end="00:34:00.530" style="s2">places expensive is</p>
+<p begin="00:33:55.510" end="00:34:03.080" style="s2">yourself to<span style="s4"> ten maintain 501c3 status um</span></p>
+<p begin="00:34:00.530" end="00:34:06.140" style="s2">that wasn&#39;t<span style="s4"> that bad we actually did the</span></p>
+<p begin="00:34:03.080" end="00:34:08.419" style="s2">expedited application when we have</p>
+<p begin="00:34:06.140" end="00:34:10.130" style="s2">several lawyers who work with us who</p>
+<p begin="00:34:08.419" end="00:34:12.200" style="s2">gave us free help in applying and</p>
+<p begin="00:34:10.130" end="00:34:14.360" style="s2">drafting bylaws incorporating<span style="s3"> is</span> a state</p>
+<p begin="00:34:12.200" end="00:34:16.520" style="s2">nonprofit first and then filing the IRS</p>
+<p begin="00:34:14.360" end="00:34:18.140" style="s2">paperwork to become a 501 C 3 and we</p>
+<p begin="00:34:16.520" end="00:34:19.880" style="s2">thought well<span style="s3"> we&#39;re</span> not<span style="s3"> going</span> to raise</p>
+<p begin="00:34:18.140" end="00:34:21.560" style="s2">more<span style="s4"> than</span> forty thousand dollars this</p>
+<p begin="00:34:19.880" end="00:34:23.330" style="s2">year so we&#39;ll<span style="s4"> just</span> do<span style="s4"> the</span> expedited</p>
+<p begin="00:34:21.560" end="00:34:25.760" style="s2">application which I think has about half</p>
+<p begin="00:34:23.330" end="00:34:29.480" style="s2">the fee of the full 501c3 application</p>
+<p begin="00:34:25.760" end="00:34:33.080" style="s2">and then the annual fees it&#39;s not that</p>
+<p begin="00:34:29.480" end="00:34:35.899" style="s2"><span style="s4">much</span> yeah that was not the hurdle it the</p>
+<p begin="00:34:33.080" end="00:34:37.580" style="s2">I mean I think<span style="s3"> a</span> big part of that though</p>
+<p begin="00:34:35.899" end="00:34:40.610" style="s2">is we had a lot of experts who have done</p>
+<p begin="00:34:37.580" end="00:34:42.770" style="s2"><span style="s3">this</span><span style="s4"> before</span> help us out if anybody&#39;s</p>
+<p begin="00:34:40.610" end="00:34:45.980" style="s2">looking for a project a like fill in the</p>
+<p begin="00:34:42.770" end="00:34:48.470" style="s2">blank 501c3 application generator would</p>
+<p begin="00:34:45.980" end="00:34:49.280" style="s2">be great I&#39;ve talked to I mean I&#39;m sit</p>
+<p begin="00:34:48.470" end="00:34:51.890" style="s2">like I&#39;ve talked to a lot of</p>
+<p begin="00:34:49.280" end="00:34:53.990" style="s2">organizations who just like don&#39;t have</p>
+<p begin="00:34:51.890" end="00:34:56.419" style="s2">the connections and don&#39;t have the sort</p>
+<p begin="00:34:53.990" end="00:35:01.580" style="s2"><span style="s3">of</span> legal expertise and it is either</p>
+<p begin="00:34:56.419" end="00:35:03.920" style="s2">really imposing or really expensive so</p>
+<p begin="00:35:01.580" end="00:35:06.980" style="s2">for us we<span style="s3"> looked</span> out<span style="s3"> for</span><span style="s4"> a</span> lot of places</p>
+<p begin="00:35:03.920" end="00:35:08.960" style="s2">I&#39;ve<span style="s3"> no</span> organizations with like you know</p>
+<p begin="00:35:06.980" end="00:35:11.090" style="s2">tens or hundreds of thousands of dollars</p>
+<p begin="00:35:08.960" end="00:35:13.490" style="s2"><span style="s3">in</span> annual budget who have been around</p>
+<p begin="00:35:11.090" end="00:35:15.440" style="s2">for<span style="s4"> years</span> who like just I no one in</p>
+<p begin="00:35:13.490" end="00:35:17.600" style="s2">particular who just got their 501c3</p>
+<p begin="00:35:15.440" end="00:35:20.410" style="s2">status because it&#39;s not easy for</p>
+<p begin="00:35:17.600" end="00:35:20.410" style="s2">non-experts</p>
+<p begin="00:35:31.680" end="00:35:40.590" style="s2">looking at microfinance a way to make</p>
+<p begin="00:35:38.080" end="00:35:52.510" style="s2">money and this seems we<span style="s4"> remember planets</span></p>
+<p begin="00:35:40.590" end="00:35:55.000" style="s2">scheme it away and that<span style="s3"> you</span> have you</p>
+<p begin="00:35:52.510" end="00:36:01.510" style="s2">ever thought about trying to sort of</p>
+<p begin="00:35:55.000" end="00:36:04.140" style="s2">scale our justice system so yeah we</p>
+<p begin="00:36:01.510" end="00:36:06.520" style="s2"><span style="s3">don&#39;t</span> want to become a giant entity that</p>
+<p begin="00:36:04.140" end="00:36:08.170" style="s2">takes the responsibility off of</p>
+<p begin="00:36:06.520" end="00:36:11.290" style="s2">policymakers for actually making good</p>
+<p begin="00:36:08.170" end="00:36:13.810" style="s2">social policy and there are actually I</p>
+<p begin="00:36:11.290" end="00:36:15.370" style="s2">find it kind of terrifying like</p>
+<p begin="00:36:13.810" end="00:36:17.110" style="s2">ninety-five percent terrifying and five</p>
+<p begin="00:36:15.370" end="00:36:18.970" style="s2">percent exciting there are sort of</p>
+<p begin="00:36:17.110" end="00:36:21.180" style="s2">philanthropists from the tech world</p>
+<p begin="00:36:18.970" end="00:36:23.170" style="s2">based in California who have been</p>
+<p begin="00:36:21.180" end="00:36:25.030" style="s2">suggesting to others like we should</p>
+<p begin="00:36:23.170" end="00:36:26.200" style="s2">start a national bail fund and will</p>
+<p begin="00:36:25.030" end="00:36:30.100" style="s2">parachute in and<span style="s4"> we&#39;ll</span> loan the money</p>
+<p begin="00:36:26.200" end="00:36:33.280" style="s2">and we&#39;ll<span style="s3"> get</span> it back and show the chat</p>
+<p begin="00:36:30.100" end="00:36:35.710" style="s2">rest&#39; there other people<span style="s3"> have</span> yeah</p>
+<p begin="00:36:33.280" end="00:36:39.730" style="s2">talked<span style="s3"> about</span> that as well<span style="s4"> so</span> we&#39;re</p>
+<p begin="00:36:35.710" end="00:36:42.130" style="s2"><span style="s3">really</span> trying to<span style="s4"> push</span> back on any models</p>
+<p begin="00:36:39.730" end="00:36:45.700" style="s2">that reintroduce<span style="s3"> profit</span> the way that the</p>
+<p begin="00:36:42.130" end="00:36:49.480" style="s2">private bail bonds industry does or that</p>
+<p begin="00:36:45.700" end="00:36:55.720" style="s2">places a premium on<span style="s4"> mmm</span> secure</p>
+<p begin="00:36:49.480" end="00:36:59.800" style="s2">investments above human freedom so<span style="s3"> yeah</span></p>
+<p begin="00:36:55.720" end="00:37:03.220" style="s2">can<span style="s4"> you identify judges and bond court</span></p>
+<p begin="00:36:59.800" end="00:37:05.310" style="s2">who are meting out<span style="s3"> bail</span> above the</p>
+<p begin="00:37:03.220" end="00:37:09.240" style="s2">average for a particular</p>
+<p begin="00:37:05.310" end="00:37:14.310" style="s2">arrest and can they be<span style="s3"> unelected</span> or</p>
+<p begin="00:37:09.240" end="00:37:17.220" style="s2">point yes we<span style="s4"> can</span> do that and some people</p>
+<p begin="00:37:14.310" end="00:37:19.020" style="s2">have done<span style="s3"> that</span> I don&#39;t<span style="s3"> think</span> that<span style="s3"> I</span></p>
+<p begin="00:37:17.220" end="00:37:21.030" style="s2"><span style="s3">don&#39;t</span> think there&#39;s a public campaign</p>
+<p begin="00:37:19.020" end="00:37:22.050" style="s2">around those judges right now but I</p>
+<p begin="00:37:21.030" end="00:37:24.480" style="s2"><span style="s4">think</span> part<span style="s3"> of</span> what you&#39;re saying is that</p>
+<p begin="00:37:22.050" end="00:37:25.950" style="s2">judges are afraid of letting someone out</p>
+<p begin="00:37:24.480" end="00:37:28.020" style="s2">and<span style="s3"> something</span> bad happening but we need</p>
+<p begin="00:37:25.950" end="00:37:29.640" style="s2">to make judges feel accountable for</p>
+<p begin="00:37:28.020" end="00:37:31.470" style="s2">keeping people in cages unnecessarily</p>
+<p begin="00:37:29.640" end="00:37:33.180" style="s2">because that&#39;s<span style="s3"> also</span> a bad outcome that</p>
+<p begin="00:37:31.470" end="00:37:34.830" style="s2">judges can be responsible<span style="s4"> for</span> the</p>
+<p begin="00:37:33.180" end="00:37:38.460" style="s2">problem is judicial elections are not</p>
+<p begin="00:37:34.830" end="00:37:40.940" style="s2">very widely watched and it&#39;s it was the</p>
+<p begin="00:37:38.460" end="00:37:43.680" style="s2"><span style="s4">early</span> 90s the last time a judge was</p>
+<p begin="00:37:40.940" end="00:37:45.150" style="s2">voted out and that was<span style="s3"> because</span> the<span style="s3"> FOP</span></p>
+<p begin="00:37:43.680" end="00:37:47.130" style="s2">organized the Fraternal Order of Police</p>
+<p begin="00:37:45.150" end="00:37:48.990" style="s2">organized against that edge so you can</p>
+<p begin="00:37:47.130" end="00:37:52.680" style="s2">get<span style="s3"> a</span> sense of where they were coming</p>
+<p begin="00:37:48.990" end="00:37:54.720" style="s2">from work and how well funded campaign</p>
+<p begin="00:37:52.680" end="00:37:57.510" style="s2">was so I<span style="s3"> definitely</span> think that judicial</p>
+<p begin="00:37:54.720" end="00:38:00.060" style="s2">accountability is a very real thing that</p>
+<p begin="00:37:57.510" end="00:38:02.640" style="s2">we mean and there are people talking</p>
+<p begin="00:38:00.060" end="00:38:05.700" style="s2">about what that looks like whether</p>
+<p begin="00:38:02.640" end="00:38:08.580" style="s2">that&#39;s more internal to the judiciary or</p>
+<p begin="00:38:05.700" end="00:38:10.830" style="s2">whether it is sort of public campaign</p>
+<p begin="00:38:08.580" end="00:38:13.320" style="s2">led by community groups wherever<span style="s3"> would</span></p>
+<p begin="00:38:10.830" end="00:38:15.120" style="s2">be around specific judges and<span style="s3"> their</span></p>
+<p begin="00:38:13.320" end="00:38:19.260" style="s2">pretrial their<span style="s3"> bond</span> court decisions</p>
+<p begin="00:38:15.120" end="00:38:21.210" style="s2">there is also open<span style="s3"> source</span> project which</p>
+<p begin="00:38:19.260" end="00:38:22.940" style="s2"><span style="s3">I don&#39;t think was developed here I think</span></p>
+<p begin="00:38:21.210" end="00:38:27.330" style="s2">it was<span style="s3"> developed</span><span style="s4"> as</span> part of a free geek</p>
+<p begin="00:38:22.940" end="00:38:29.690" style="s2">offshoot but of scraping the Cook County</p>
+<p begin="00:38:27.330" end="00:38:33.260" style="s2">Sheriff&#39;s like collecting information on</p>
+<p begin="00:38:29.690" end="00:38:35.520" style="s2">charges and demographics unfortunately</p>
+<p begin="00:38:33.260" end="00:38:38.310" style="s2">it&#39;s really easy to<span style="s3"> get that information</span></p>
+<p begin="00:38:35.520" end="00:38:41.100" style="s2">it&#39;s really hard to get the presiding</p>
+<p begin="00:38:38.310" end="00:38:43.320" style="s2"><span style="s4">judge</span> information you either have to</p>
+<p begin="00:38:41.100" end="00:38:45.060" style="s2"><span style="s3">file</span> photo requests or go<span style="s3"> down</span> to a</p>
+<p begin="00:38:43.320" end="00:38:46.680" style="s2">courthouse and spend hours typing it</p>
+<p begin="00:38:45.060" end="00:38:49.200" style="s2">into a special<span style="s3"> terminal</span> over and over</p>
+<p begin="00:38:46.680" end="00:39:17.490" style="s2">again but<span style="s3"> there are people who</span> are</p>
+<p begin="00:38:49.200" end="00:39:21.120" style="s2">working on that that was a incarceration</p>
+<p begin="00:39:17.490" end="00:39:24.210" style="s2">in Illinois so that&#39;s on prison policy</p>
+<p begin="00:39:21.120" end="00:39:25.920" style="s2">initiatives website I mean basically</p>
+<p begin="00:39:24.210" end="00:39:28.410" style="s2"><span style="s3">what</span> that is is the rise of mass</p>
+<p begin="00:39:25.920" end="00:39:30.900" style="s2">incarceration it&#39;s the rise of the drug</p>
+<p begin="00:39:28.410" end="00:39:32.760" style="s2">war<span style="s3"> mandatory</span> minimums and it&#39;s the</p>
+<p begin="00:39:30.900" end="00:39:34.470" style="s2">thing that<span style="s3"> makes</span> the<span style="s3"> u.s.</span> a global</p>
+<p begin="00:39:32.760" end="00:39:37.830" style="s2">outlier<span style="s4"> and</span> how many<span style="s3"> people</span> we keep in</p>
+<p begin="00:39:34.470" end="00:39:39.510" style="s2">cages right like we&#39;ve all seen this the</p>
+<p begin="00:39:37.830" end="00:39:40.800" style="s2">statistics<span style="s4"> that</span> we have five percent of</p>
+<p begin="00:39:39.510" end="00:39:42.570" style="s2">the world&#39;s population<span style="s4"> twenty five</span></p>
+<p begin="00:39:40.800" end="00:39:45.000" style="s2">percent of the world&#39;s prisoners 2.2</p>
+<p begin="00:39:42.570" end="00:39:47.670" style="s2">million people incarcerated most of</p>
+<p begin="00:39:45.000" end="00:39:50.940" style="s2">those people<span style="s3"> are</span> in state prisons just</p>
+<p begin="00:39:47.670" end="00:39:55.590" style="s2">the way they are in Illinois<span style="s3"> and</span> this is</p>
+<p begin="00:39:50.940" end="00:39:57.630" style="s2"><span style="s3">basically</span> 1978 to 2011 and the number is</p>
+<p begin="00:39:55.590" end="00:39:59.880" style="s2">either gone up or been mostly steady</p>
+<p begin="00:39:57.630" end="00:40:04.100" style="s2">across the country with slight declines</p>
+<p begin="00:39:59.880" end="00:40:08.070" style="s2">in certain states in the last five<span style="s4"> years</span></p>
+<p begin="00:40:04.100" end="00:40:10.500" style="s2">does that answer the question yeah and</p>
+<p begin="00:40:08.070" end="00:40:12.330" style="s2"><span style="s4">we&#39;ll</span> be around<span style="s3"> for</span> a few minutes if</p>
+<p begin="00:40:10.500" end="00:40:15.920" style="s2">anybody is pressing questions I&#39;d like</p>
+<p begin="00:40:12.330" end="00:40:15.920" style="s2">to ask us off camera</p>
+</div>
+</body>
+</tt>

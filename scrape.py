@@ -70,7 +70,7 @@ def get_upload_playlist_id(youtube, channel_id):
       part="contentDetails"
     ).execute()
     upload_playlist_id = results["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
-    print(upload_playlist_id)
+    # print(upload_playlist_id)
     return upload_playlist_id
 
 def get_playlist_video_id(youtube, playlist_id, **kwargs):
@@ -86,19 +86,19 @@ def get_playlist_video_id(youtube, playlist_id, **kwargs):
 
 def collect_all_pages():
     playlist_videos = get_playlist_video_id(youtube, upload_playlist_id)
-    print(playlist_videos["nextPageToken"])
+    # print(playlist_videos["nextPageToken"])
     next_page_token =  playlist_videos["nextPageToken"]
 
     while ('nextPageToken' in playlist_videos):
-        print(next_page_token)
+        # print(next_page_token)
         next_page = get_playlist_video_id(youtube, upload_playlist_id, pageToken=next_page_token)
         playlist_videos['items'] = playlist_videos['items'] + next_page['items']
         if 'nextPageToken' not in next_page:
             playlist_videos.pop('nextPageToken', None)
         else:
             next_page_token = next_page['nextPageToken']
-    for i in playlist_videos["items"]:
-        print(i["contentDetails"]["videoId"])
+    # for i in playlist_videos["items"]:
+        # print(i["contentDetails"]["videoId"])
     return playlist_videos
 
 
@@ -111,7 +111,7 @@ def get_caption_id(youtube, video_id):
     ).execute()
     try:
         caption_id = results["items"][0]["id"]
-        print(caption_id)
+        # print(caption_id)
         return caption_id
     except:
         print("IndexError %s" % video_id)
@@ -124,10 +124,9 @@ def get_caption_id(youtube, video_id):
 
 # Call the API's captions.download method to download an existing caption track.
 def download_caption(youtube, caption_id, tfmt):
+
     if caption_id is not None:
-
-
-
+        
         subtitle = youtube.captions().download(
             id=caption_id,
             tfmt=tfmt
@@ -146,11 +145,13 @@ if __name__ == "__main__":
         upload_playlist_id = get_upload_playlist_id(youtube, channel_id)
         pages = collect_all_pages()
         for i in pages["items"]:
-            print(i["contentDetails"]["videoId"])
+            # print(i["contentDetails"]["videoId"])
             video_id = i["contentDetails"]["videoId"]
             transcript = download_caption(youtube, get_caption_id(youtube, video_id), 'ttml')
-            write_caption("./transcripts/%s.xml" % video_id , transcript)
-
+            write_caption("./transcripts/%s.xml" % video_id, transcript)
+    except TypeError:
+        print("error")
+        pass
 
     #playlist_videos = get_playlist_video_id(youtube, upload_playlist_id)
 
@@ -159,7 +160,7 @@ if __name__ == "__main__":
     #write_caption("scraped_file1", transcript)
     # download_caption(youtube, args.captionid, 'ttml') # sbv (plaintext) or ttml (xml)
       # use ttml (xml): parse it and get text + time start/end for each line
-  except HttpError as e:
-    print("An HTTP error %d occurred:\n%s" % (e.resp.status, e.content))
-  else:
-    print("done")
+    except HttpError as e:
+        print("An HTTP error %d occurred:\n%s" % (e.resp.status, e.content))
+    else:
+        print("done")

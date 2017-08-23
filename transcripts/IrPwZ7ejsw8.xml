@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.549" end="00:00:11.360" style="s2">hi good<span style="s3"> evening</span> everyone I&#39;m<span style="s4"> very</span></p>
+<p begin="00:00:07.740" end="00:00:13.860" style="s2">honored to be<span style="s3"> here</span> at Shai hack night<span style="s3"> I</span></p>
+<p begin="00:00:11.360" end="00:00:15.599" style="s2">am Peter<span style="s3"> alter</span> I work at the Chicago</p>
+<p begin="00:00:13.860" end="00:00:19.410" style="s2"><span style="s4">History Museum I&#39;ve been there for about</span></p>
+<p begin="00:00:15.599" end="00:00:22.199" style="s2"><span style="s4">18</span> years<span style="s4"> and</span> I am the director<span style="s3"> of</span> our</p>
+<p begin="00:00:19.410" end="00:00:23.670" style="s2">study circle<span style="s4"> Center</span> for oral history I&#39;m</p>
+<p begin="00:00:22.199" end="00:00:26.070" style="s2">going to talk<span style="s4"> about</span> a couple<span style="s4"> of</span></p>
+<p begin="00:00:23.670" end="00:00:28.470" style="s2">community-based<span style="s4"> oral</span> history projects</p>
+<p begin="00:00:26.070" end="00:00:31.830" style="s2">that we&#39;ve<span style="s3"> been working on at the Museum</span></p>
+<p begin="00:00:28.470" end="00:00:33.360" style="s2"><span style="s4">last</span> year and this year<span style="s3"> a</span> little bit</p>
+<p begin="00:00:31.830" end="00:00:35.520" style="s2">about the Chicago<span style="s3"> History</span><span style="s4"> Museum</span> we&#39;re</p>
+<p begin="00:00:33.360" end="00:00:38.040" style="s2">an<span style="s4"> independent</span> nonprofit organization</p>
+<p begin="00:00:35.520" end="00:00:41.059" style="s2">based in the southern edge of Lincoln</p>
+<p begin="00:00:38.040" end="00:00:43.980" style="s2"><span style="s3">Park</span> at 1601 North Clark Street we</p>
+<p begin="00:00:41.059" end="00:00:45.570" style="s2">unfortunately<span style="s3"> are</span> one of those<span style="s4"> people</span></p>
+<p begin="00:00:43.980" end="00:00:47.070" style="s2">say oh you&#39;re<span style="s4"> that one of the</span><span style="s3"> best-kept</span></p>
+<p begin="00:00:45.570" end="00:00:49.430" style="s2"><span style="s3">secrets</span> so of course you don&#39;t<span style="s4"> want</span> to</p>
+<p begin="00:00:47.070" end="00:00:52.350" style="s2">be a<span style="s3"> best-kept</span> secret if you&#39;re a museum</p>
+<p begin="00:00:49.430" end="00:00:53.640" style="s2">but we have been around<span style="s3"> for over</span><span style="s4"> 150</span></p>
+<p begin="00:00:52.350" end="00:00:56.550" style="s2">years<span style="s3"> we&#39;re</span> the oldest cultural</p>
+<p begin="00:00:53.640" end="00:00:58.739" style="s2">institution in<span style="s4"> the</span> city<span style="s4"> we</span> interpret<span style="s4"> US</span></p>
+<p begin="00:00:56.550" end="00:01:01.500" style="s2"><span style="s3">history</span> from the revolution to</p>
+<p begin="00:00:58.739" end="00:01:05.640" style="s2"><span style="s4">reconstruction</span> and Chicago history<span style="s3"> the</span></p>
+<p begin="00:01:01.500" end="00:01:10.490" style="s2">grand sweep<span style="s4"> from</span> early times till the</p>
+<p begin="00:01:05.640" end="00:01:13.260" style="s2">present we have galleries we have</p>
+<p begin="00:01:10.490" end="00:01:15.259" style="s2">research collections we have many</p>
+<p begin="00:01:13.260" end="00:01:18.509" style="s2">millions<span style="s3"> of</span> photographs<span style="s3"> we</span> have about<span style="s3"> 5</span></p>
+<p begin="00:01:15.259" end="00:01:21.630" style="s2">miles of linear feet in linear feet<span style="s3"> of</span></p>
+<p begin="00:01:18.509" end="00:01:24.060" style="s2">archives which document again the</p>
+<p begin="00:01:21.630" end="00:01:26.790" style="s2"><span style="s4">history</span> of Chicago<span style="s3"> but</span> as you&#39;ll see<span style="s3"> in</span></p>
+<p begin="00:01:24.060" end="00:01:29.070" style="s2">my<span style="s4"> presentation not not the complete</span></p>
+<p begin="00:01:26.790" end="00:01:31.470" style="s2">sweep and scope of<span style="s4"> the</span> history of</p>
+<p begin="00:01:29.070" end="00:01:34.259" style="s2">Chicago<span style="s3"> so</span><span style="s4"> Studs Terkel</span></p>
+<p begin="00:01:31.470" end="00:01:36.509" style="s2"><span style="s4">many</span> of you may know who he is<span style="s3"> for</span> those</p>
+<p begin="00:01:34.259" end="00:01:37.920" style="s2"><span style="s3">of you who don&#39;t he is in my title</span><span style="s4"> and</span></p>
+<p begin="00:01:36.509" end="00:01:41.759" style="s2">the director of<span style="s4"> the</span><span style="s3"> stone circle Center</span></p>
+<p begin="00:01:37.920" end="00:01:44.159" style="s2">for oral history he for about 50 years</p>
+<p begin="00:01:41.759" end="00:01:48.990" style="s2"><span style="s4">was</span> a self-described</p>
+<p begin="00:01:44.159" end="00:01:52.500" style="s2">DJ<span style="s4"> he</span> was a radio<span style="s4"> actor</span> a TV actor<span style="s4"> and</span></p>
+<p begin="00:01:48.990" end="00:01:56.009" style="s2">most famously had<span style="s4"> radio</span> and interview</p>
+<p begin="00:01:52.500" end="00:02:00.689" style="s2">radio program on WFMU<span style="s3"> T</span> the local radio</p>
+<p begin="00:01:56.009" end="00:02:04.049" style="s2">station<span style="s4"> and</span> he interviewed a lot<span style="s3"> of</span></p>
+<p begin="00:02:00.689" end="00:02:07.500" style="s2">famous<span style="s4"> people one of</span><span style="s3"> my</span> favorite</p>
+<p begin="00:02:04.049" end="00:02:09.929" style="s2">interviews<span style="s4"> of</span> his was of Martin Luther</p>
+<p begin="00:02:07.500" end="00:02:13.349" style="s2">King jr. right after he won<span style="s3"> the</span> Nobel</p>
+<p begin="00:02:09.929" end="00:02:14.250" style="s2">Peace<span style="s3"> Prize</span> and<span style="s4"> the</span> interview<span style="s4"> happened</span></p>
+<p begin="00:02:13.349" end="00:02:16.390" style="s2">to be<span style="s4"> taking</span> clay</p>
+<p begin="00:02:14.250" end="00:02:18.489" style="s2"><span style="s4">mahalia</span> Jackson&#39;s house on the south</p>
+<p begin="00:02:16.390" end="00:02:20.860" style="s2"><span style="s4">side</span> Mahalia Jackson<span style="s4"> wasn&#39;t</span> feeling very</p>
+<p begin="00:02:18.489" end="00:02:24.220" style="s2"><span style="s3">well</span> that day so<span style="s4"> Studs</span> Terkel was</p>
+<p begin="00:02:20.860" end="00:02:26.650" style="s2">sitting at the foot of<span style="s4"> mahalia</span> Jackson&#39;s</p>
+<p begin="00:02:24.220" end="00:02:30.129" style="s2">bed and Martin Luther<span style="s4"> King</span><span style="s3"> jr.</span> was</p>
+<p begin="00:02:26.650" end="00:02:32.410" style="s2">sitting to her<span style="s4"> left I believe so</span><span style="s3"> he</span></p>
+<p begin="00:02:30.129" end="00:02:34.450" style="s2"><span style="s4">interviewed</span> a lot<span style="s4"> of</span><span style="s3"> famous</span><span style="s4"> people</span><span style="s3"> when</span></p>
+<p begin="00:02:32.410" end="00:02:37.209" style="s2">he<span style="s4"> came</span><span style="s3"> to</span> the<span style="s3"> museum</span> we received<span style="s4"> about</span></p>
+<p begin="00:02:34.450" end="00:02:40.840" style="s2">7,000 of his open real tapes and</p>
+<p begin="00:02:37.209" end="00:02:43.000" style="s2">cassette tapes<span style="s4"> all</span> audio<span style="s3"> those</span> are</p>
+<p begin="00:02:40.840" end="00:02:46.690" style="s2">slowly being digitized by the Library of</p>
+<p begin="00:02:43.000" end="00:02:49.720" style="s2">Congress<span style="s4"> and</span> are slowly being made ready</p>
+<p begin="00:02:46.690" end="00:02:53.769" style="s2">by the staff at w FM t<span style="s3"> as</span><span style="s4"> Studs Terkel</span></p>
+<p begin="00:02:49.720" end="00:02:56.560" style="s2"><span style="s4">org</span><span style="s3"> so</span> that&#39;s who Studs Terkel<span style="s3"> is I</span></p>
+<p begin="00:02:53.769" end="00:02:59.620" style="s2">actually<span style="s4"> don&#39;t</span> do much related to Studs</p>
+<p begin="00:02:56.560" end="00:03:03.459" style="s2">Terkel<span style="s4"> what</span> I think of my job is really</p>
+<p begin="00:02:59.620" end="00:03:07.599" style="s2">caring for the<span style="s4"> legacy</span> of Studs Terkel<span style="s4"> he</span></p>
+<p begin="00:03:03.459" end="00:03:09.910" style="s2">kind of made his name on interviewing</p>
+<p begin="00:03:07.599" end="00:03:12.160" style="s2">ordinary people everyday people besides</p>
+<p begin="00:03:09.910" end="00:03:15.519" style="s2"><span style="s4">Martin Luther King</span> jr. and Mahalia</p>
+<p begin="00:03:12.160" end="00:03:17.560" style="s2">Jackson<span style="s4"> so</span> really the only<span style="s4"> thing</span> that</p>
+<p begin="00:03:15.519" end="00:03:20.530" style="s2"><span style="s4">that</span> I do is<span style="s4"> kind</span> of<span style="s4"> a</span> nod to him</p>
+<p begin="00:03:17.560" end="00:03:23.380" style="s2">besides<span style="s4"> caring for</span><span style="s3"> forth</span> his legacy is I</p>
+<p begin="00:03:20.530" end="00:03:24.130" style="s2">do wear red socks<span style="s4"> he</span> was known<span style="s3"> for</span><span style="s4"> his</span></p>
+<p begin="00:03:23.380" end="00:03:27.430" style="s2">red socks</p>
+<p begin="00:03:24.130" end="00:03:29.650" style="s2">so<span style="s4"> five</span> days a week<span style="s4"> I</span> wear red<span style="s4"> socks</span> to</p>
+<p begin="00:03:27.430" end="00:03:33.250" style="s2">work<span style="s4"> we</span><span style="s3"> actually</span> have his red socks in</p>
+<p begin="00:03:29.650" end="00:03:36.730" style="s2">our costume collection<span style="s4"> so</span> this is Studs</p>
+<p begin="00:03:33.250" end="00:03:39.340" style="s2">Terkel here<span style="s4"> so</span> the<span style="s3"> flood</span><span style="s4"> circle Center</span></p>
+<p begin="00:03:36.730" end="00:03:43.030" style="s2">for oral history has existed for<span style="s3"> about</span></p>
+<p begin="00:03:39.340" end="00:03:44.590" style="s2">two years<span style="s4"> at</span> the<span style="s3"> Museum</span><span style="s4"> our</span> mission</p>
+<p begin="00:03:43.030" end="00:03:47.410" style="s2"><span style="s4">statement</span> essentially<span style="s4"> for</span> the oral</p>
+<p begin="00:03:44.590" end="00:03:51.280" style="s2"><span style="s4">history Center is to use oral history</span></p>
+<p begin="00:03:47.410" end="00:03:55.060" style="s2">and<span style="s4"> history as tools of civil rights and</span></p>
+<p begin="00:03:51.280" end="00:03:57.639" style="s2">social justice<span style="s3"> to</span> work with communities</p>
+<p begin="00:03:55.060" end="00:03:59.950" style="s2">in<span style="s3"> a</span> collaborative<span style="s4"> way</span> to tell<span style="s4"> stories</span></p>
+<p begin="00:03:57.639" end="00:04:03.000" style="s2">of<span style="s4"> Chicago</span> typically untold stories</p>
+<p begin="00:03:59.950" end="00:04:07.120" style="s2">stories of undocumented communities or</p>
+<p begin="00:04:03.000" end="00:04:08.859" style="s2">sometimes under documented communities</p>
+<p begin="00:04:07.120" end="00:04:10.230" style="s2">and certainly both of the communities</p>
+<p begin="00:04:08.859" end="00:04:16.030" style="s2">that<span style="s4"> were</span> I&#39;m going to talk about<span style="s4"> today</span></p>
+<p begin="00:04:10.230" end="00:04:18.910" style="s2"><span style="s4">fall</span> in that category<span style="s4"> so</span> this next slide</p>
+<p begin="00:04:16.030" end="00:04:20.799" style="s2"><span style="s4">is a group of us at</span><span style="s3"> breakthrough Urban</span></p>
+<p begin="00:04:18.910" end="00:04:22.599" style="s2"><span style="s3">Ministries in East</span><span style="s4"> Garfield</span> Park</p>
+<p begin="00:04:20.799" end="00:04:24.490" style="s2">breakthrough is a<span style="s3"> human resources</span></p>
+<p begin="00:04:22.599" end="00:04:26.790" style="s2">provider they have a beautiful</p>
+<p begin="00:04:24.490" end="00:04:30.540" style="s2"><span style="s4">relatively</span> new<span style="s3"> building</span> at Carolyn</p>
+<p begin="00:04:26.790" end="00:04:33.530" style="s2"><span style="s3">Z</span> in East Garfield Park so just a little</p>
+<p begin="00:04:30.540" end="00:04:36.690" style="s2"><span style="s4">bit north of Lake Street and Kedzie</span></p>
+<p begin="00:04:33.530" end="00:04:41.190" style="s2"><span style="s3">they&#39;re</span> in the<span style="s4"> middle of the</span><span style="s3"> Westside if</span></p>
+<p begin="00:04:36.690" end="00:04:42.660" style="s2">you&#39;ve ever been<span style="s4"> exasperated</span> and<span style="s4"> stuck</span></p>
+<p begin="00:04:41.190" end="00:04:45.090" style="s2">in<span style="s4"> traffic</span> on<span style="s4"> the</span> Eisenhower<span style="s3"> Expressway</span></p>
+<p begin="00:04:42.660" end="00:04:47.280" style="s2">you&#39;ve probably been<span style="s4"> through</span> East</p>
+<p begin="00:04:45.090" end="00:04:49.170" style="s2">Garfield Park<span style="s4"> and</span> also<span style="s3"> the</span> other</p>
+<p begin="00:04:47.280" end="00:04:52.830" style="s2">community diamonds<span style="s3"> talked</span> about a<span style="s4"> little</span></p>
+<p begin="00:04:49.170" end="00:04:54.810" style="s2"><span style="s4">bit</span> North Lawndale<span style="s3"> so</span> when I started at</p>
+<p begin="00:04:52.830" end="00:04:57.210" style="s2">the<span style="s3"> Museum</span> I was looking for an oral</p>
+<p begin="00:04:54.810" end="00:04:59.220" style="s2"><span style="s3">history</span> project<span style="s4"> met</span> the staff at</p>
+<p begin="00:04:57.210" end="00:05:02.660" style="s2"><span style="s4">breakthrough and was really</span> enamored of</p>
+<p begin="00:04:59.220" end="00:05:06.840" style="s2">a youth program that they have called</p>
+<p begin="00:05:02.660" end="00:05:09.780" style="s2"><span style="s3">the</span> film crew<span style="s3"> so</span> they have professional</p>
+<p begin="00:05:06.840" end="00:05:14.100" style="s2">documentary filmmakers and sound<span style="s4"> people</span></p>
+<p begin="00:05:09.780" end="00:05:15.750" style="s2">come work with<span style="s4"> usually</span> around<span style="s3"> ten</span><span style="s4"> middle</span></p>
+<p begin="00:05:14.100" end="00:05:19.140" style="s2"><span style="s4">and</span> high school students<span style="s3"> to</span> create</p>
+<p begin="00:05:15.750" end="00:05:22.470" style="s2">documentary films<span style="s3"> those</span> documentary</p>
+<p begin="00:05:19.140" end="00:05:24.420" style="s2">films were typically about them the</p>
+<p begin="00:05:22.470" end="00:05:27.840" style="s2">students themselves and<span style="s3"> what</span> their lives</p>
+<p begin="00:05:24.420" end="00:05:30.150" style="s2">are like<span style="s4"> in</span> East Garfield Park<span style="s4"> and</span> the</p>
+<p begin="00:05:27.840" end="00:05:32.370" style="s2">West Side in general<span style="s4"> and</span> I thought<span style="s4"> was</span></p>
+<p begin="00:05:30.150" end="00:05:34.590" style="s2">talking<span style="s3"> about</span> this project<span style="s4"> yesterday to</span></p>
+<p begin="00:05:32.370" end="00:05:37.080" style="s2">a group of<span style="s4"> high</span> school<span style="s4"> students</span> and<span style="s4"> just</span></p>
+<p begin="00:05:34.590" end="00:05:39.870" style="s2">looking<span style="s4"> at</span> the group<span style="s3"> we</span> have the</p>
+<p begin="00:05:37.080" end="00:05:42.240" style="s2">documentarians we have volunteers we</p>
+<p begin="00:05:39.870" end="00:05:44.640" style="s2"><span style="s3">have</span> myself<span style="s4"> we</span> have my interns<span style="s4"> and</span> then</p>
+<p begin="00:05:42.240" end="00:05:46.410" style="s2">we have the students who are<span style="s3"> from</span> all</p>
+<p begin="00:05:44.640" end="00:05:48.750" style="s2">from the<span style="s3"> West Side Humboldt Park East</span></p>
+<p begin="00:05:46.410" end="00:05:51.390" style="s2">Garfield Park Austin and North Lawndale</p>
+<p begin="00:05:48.750" end="00:05:52.950" style="s2"><span style="s4">the</span> students were not<span style="s4"> necessarily all</span></p>
+<p begin="00:05:51.390" end="00:05:56.780" style="s2">from East Garfield Park but were from</p>
+<p begin="00:05:52.950" end="00:06:02.010" style="s2">all from the<span style="s4"> west side we worked with</span></p>
+<p begin="00:05:56.780" end="00:06:05.850" style="s2">the film<span style="s4"> crew</span><span style="s3"> in</span> most of early 2016</p>
+<p begin="00:06:02.010" end="00:06:07.950" style="s2">to create the 40 blocks<span style="s4"> documentary</span> film</p>
+<p begin="00:06:05.850" end="00:06:12.830" style="s2"><span style="s4">and we&#39;ll see a</span> trailer for<span style="s3"> it</span> in a</p>
+<p begin="00:06:07.950" end="00:06:15.660" style="s2"><span style="s4">moment</span> we worked<span style="s4"> with</span> the students on</p>
+<p begin="00:06:12.830" end="00:06:20.600" style="s2"><span style="s4">oral</span> history skills in<span style="s4"> terms</span> of</p>
+<p begin="00:06:15.660" end="00:06:25.830" style="s2"><span style="s4">interviewing</span> people we they worked this</p>
+<p begin="00:06:20.600" end="00:06:27.930" style="s2"><span style="s4">thank you this</span> this<span style="s4"> process</span> is<span style="s4"> very much</span></p>
+<p begin="00:06:25.830" end="00:06:30.120" style="s2">an intergenerational process<span style="s4"> so</span> these</p>
+<p begin="00:06:27.930" end="00:06:32.820" style="s2">are they were<span style="s4"> middle</span> school students</p>
+<p begin="00:06:30.120" end="00:06:36.660" style="s2"><span style="s3">from</span><span style="s4"> the</span> ages actually<span style="s4"> as</span> young as sixth</p>
+<p begin="00:06:32.820" end="00:06:39.750" style="s2"><span style="s4">grade</span> to ninth grade so<span style="s3"> we</span> had one high</p>
+<p begin="00:06:36.660" end="00:06:40.270" style="s2">school<span style="s4"> freshman</span> and they are learning</p>
+<p begin="00:06:39.750" end="00:06:41.980" style="s2"><span style="s3">Reese</span></p>
+<p begin="00:06:40.270" end="00:06:43.890" style="s2">skills they are<span style="s3"> learning</span> interview</p>
+<p begin="00:06:41.980" end="00:06:46.600" style="s2">skills and<span style="s4"> they&#39;re</span> learning a lot<span style="s3"> of</span></p>
+<p begin="00:06:43.890" end="00:06:49.510" style="s2">skills that<span style="s4"> they&#39;ll</span> need<span style="s3"> as</span> they move</p>
+<p begin="00:06:46.600" end="00:06:52.150" style="s2">through<span style="s3"> life</span> in<span style="s4"> middle</span> school in high</p>
+<p begin="00:06:49.510" end="00:06:53.290" style="s2">school<span style="s4"> college and so forth</span><span style="s3"> in</span> terms of</p>
+<p begin="00:06:52.150" end="00:06:56.160" style="s2">explaining<span style="s4"> the</span> projects<span style="s3"> that</span> they&#39;re</p>
+<p begin="00:06:53.290" end="00:06:59.470" style="s2">working<span style="s4"> on in</span><span style="s3"> terms</span> of understanding</p>
+<p begin="00:06:56.160" end="00:07:03.670" style="s2"><span style="s4">their</span> the world around them<span style="s4"> and</span> why for</p>
+<p begin="00:06:59.470" end="00:07:05.350" style="s2"><span style="s3">example</span> are<span style="s3"> there</span> open<span style="s4"> lots</span> in East</p>
+<p begin="00:07:03.670" end="00:07:08.890" style="s2"><span style="s3">Garfield</span> Park that seemingly have been</p>
+<p begin="00:07:05.350" end="00:07:11.830" style="s2">there for<span style="s4"> decades</span> and decades<span style="s3"> so</span> we</p>
+<p begin="00:07:08.890" end="00:07:15.570" style="s2">really explored the<span style="s4"> history</span> of the</p>
+<p begin="00:07:11.830" end="00:07:17.800" style="s2">communities<span style="s3"> in</span> getting ready<span style="s4"> for</span><span style="s3"> our</span></p>
+<p begin="00:07:15.570" end="00:07:21.490" style="s2"><span style="s4">interview</span> day which was marked March</p>
+<p begin="00:07:17.800" end="00:07:25.240" style="s2">26th 2016 and our nine students in</p>
+<p begin="00:07:21.490" end="00:07:28.210" style="s2">groups of three interviewed<span style="s4"> 23</span> people in</p>
+<p begin="00:07:25.240" end="00:07:31.180" style="s2">22 interviews and then created a</p>
+<p begin="00:07:28.210" end="00:07:34.570" style="s2"><span style="s4">documentary</span> film over the course of</p>
+<p begin="00:07:31.180" end="00:07:37.140" style="s2">March to July that documentary<span style="s4"> film</span> then</p>
+<p begin="00:07:34.570" end="00:07:39.610" style="s2">debuted at<span style="s4"> the</span> Chicago<span style="s3"> History</span> Museum</p>
+<p begin="00:07:37.140" end="00:07:42.130" style="s2"><span style="s3">just</span><span style="s4"> about</span> a year<span style="s3"> ago</span><span style="s4"> now and then</span></p>
+<p begin="00:07:39.610" end="00:07:44.380" style="s2">debuted again at breakthroughs<span style="s3"> Family</span></p>
+<p begin="00:07:42.130" end="00:07:48.610" style="s2"><span style="s3">Plex</span> building in East Garfield<span style="s4"> Park</span> in</p>
+<p begin="00:07:44.380" end="00:07:50.410" style="s2">September for sort<span style="s4"> of</span> just a basic</p>
+<p begin="00:07:48.610" end="00:07:52.180" style="s2">understanding of East<span style="s3"> Garfield</span> Park it</p>
+<p begin="00:07:50.410" end="00:07:56.730" style="s2">is a West Side<span style="s4"> community</span> as I mentioned</p>
+<p begin="00:07:52.180" end="00:07:59.580" style="s2">it&#39;s primarily residential<span style="s3"> it&#39;s</span> a saw</p>
+<p begin="00:07:56.730" end="00:08:01.570" style="s2"><span style="s4">settlement</span> of northern and<span style="s3"> western</span></p>
+<p begin="00:07:59.580" end="00:08:03.850" style="s2">European immigrants and<span style="s4"> Southern</span> and</p>
+<p begin="00:08:01.570" end="00:08:05.530" style="s2">Eastern European immigrants people</p>
+<p begin="00:08:03.850" end="00:08:08.950" style="s2">settled there<span style="s3"> especially</span> after<span style="s4"> the</span> Great</p>
+<p begin="00:08:05.530" end="00:08:11.640" style="s2">Chicago Fire of 1871<span style="s3"> starting</span> during<span style="s3"> the</span></p>
+<p begin="00:08:08.950" end="00:08:16.540" style="s2">Great Depression<span style="s4"> in</span> the 1930s there was</p>
+<p begin="00:08:11.640" end="00:08:18.640" style="s2">an ongoing<span style="s3"> you</span> know by 2030 will be will</p>
+<p begin="00:08:16.540" end="00:08:24.000" style="s2">mark the probably<span style="s3"> the</span> century of</p>
+<p begin="00:08:18.640" end="00:08:27.820" style="s2">disinvestment<span style="s3"> in</span> East Garfield<span style="s4"> Park</span><span style="s3"> so</span></p>
+<p begin="00:08:24.000" end="00:08:31.110" style="s2">housing stock especially was disinvested</p>
+<p begin="00:08:27.820" end="00:08:33.370" style="s2">and slowly from<span style="s3"> the</span> Great Depression<span style="s4"> on</span></p>
+<p begin="00:08:31.110" end="00:08:35.710" style="s2"><span style="s4">businesses</span> started to move out<span style="s3"> of</span> the</p>
+<p begin="00:08:33.370" end="00:08:38.440" style="s2"><span style="s4">community it&#39;s one of those communities</span></p>
+<p begin="00:08:35.710" end="00:08:41.490" style="s2">on the<span style="s4"> west</span> side<span style="s4"> in</span> the 1950s<span style="s4"> and</span> 60s</p>
+<p begin="00:08:38.440" end="00:08:46.180" style="s2">where there was a great<span style="s4"> racial</span> change</p>
+<p begin="00:08:41.490" end="00:08:49.720" style="s2">from<span style="s4"> whites</span><span style="s3"> african-american</span> when<span style="s4"> whites</span></p>
+<p begin="00:08:46.180" end="00:08:51.580" style="s2"><span style="s4">typically</span> fled communities like East</p>
+<p begin="00:08:49.720" end="00:08:53.530" style="s2">Garfield<span style="s4"> Park</span> there&#39;s of course a whole</p>
+<p begin="00:08:51.580" end="00:08:54.140" style="s2">story<span style="s3"> there</span> are<span style="s3"> many</span> stories<span style="s4"> some</span> of</p>
+<p begin="00:08:53.530" end="00:08:58.910" style="s2"><span style="s4">which we</span></p>
+<p begin="00:08:54.140" end="00:09:02.120" style="s2">in the longer<span style="s4"> 17-minute</span> film<span style="s3"> in</span> terms of</p>
+<p begin="00:08:58.910" end="00:09:03.800" style="s2">sort<span style="s4"> of</span> one of<span style="s4"> the</span> most notable aspects</p>
+<p begin="00:09:02.120" end="00:09:06.440" style="s2">of<span style="s4"> East Garfield</span><span style="s3"> parks</span> history<span style="s4"> is</span><span style="s3"> that</span></p>
+<p begin="00:09:03.800" end="00:09:08.920" style="s2">Martin<span style="s3"> Luther</span><span style="s4"> King</span><span style="s3"> jr.</span> lived nearby in</p>
+<p begin="00:09:06.440" end="00:09:11.480" style="s2">North Lawndale at 1550 South Hamlin</p>
+<p begin="00:09:08.920" end="00:09:15.279" style="s2"><span style="s3">temporarily</span> and enrolled his kids in</p>
+<p begin="00:09:11.480" end="00:09:18.019" style="s2"><span style="s4">Chicago</span> Public<span style="s4"> Schools</span> and<span style="s4"> lived</span> in</p>
+<p begin="00:09:15.279" end="00:09:22.040" style="s2">essentially a slum conditions<span style="s4"> he</span></p>
+<p begin="00:09:18.019" end="00:09:25.899" style="s2">advocated<span style="s3"> for</span> equal access<span style="s3"> to</span> education</p>
+<p begin="00:09:22.040" end="00:09:29.209" style="s2">to jobs<span style="s4"> and</span> other simple<span style="s3"> things</span> like</p>
+<p begin="00:09:25.899" end="00:09:33.290" style="s2"><span style="s4">advocating</span> against lead-based paints and</p>
+<p begin="00:09:29.209" end="00:09:35.240" style="s2">slum conditions<span style="s3"> and</span> so he<span style="s4"> spoke</span> in many</p>
+<p begin="00:09:33.290" end="00:09:36.589" style="s2"><span style="s4">of</span> the churches<span style="s3"> in</span> North LA and East</p>
+<p begin="00:09:35.240" end="00:09:38.540" style="s2">Garfield Park and lived in<span style="s4"> the</span></p>
+<p begin="00:09:36.589" end="00:09:41.630" style="s2">neighboring<span style="s4"> West</span><span style="s3"> Side</span> community<span style="s3"> of</span><span style="s4"> North</span></p>
+<p begin="00:09:38.540" end="00:09:45.320" style="s2">Lawndale<span style="s3"> so</span> I&#39;m just going<span style="s3"> to</span> show the</p>
+<p begin="00:09:41.630" end="00:09:48.440" style="s2"><span style="s3">brief</span> it&#39;s about<span style="s4"> a</span> 90 second clip it&#39;s</p>
+<p begin="00:09:45.320" end="00:09:51.820" style="s2">actually the trailer<span style="s3"> that</span> we that<span style="s3"> our</span></p>
+<p begin="00:09:48.440" end="00:09:54.769" style="s2"><span style="s4">filmmakers</span> from<span style="s3"> breakthrough</span> developed</p>
+<p begin="00:09:51.820" end="00:09:57.470" style="s2">for<span style="s3"> us</span> to use at various events</p>
+<p begin="00:09:54.769" end="00:10:01.040" style="s2">including this<span style="s4"> one</span> then we&#39;ll transition</p>
+<p begin="00:09:57.470" end="00:10:06.769" style="s2">to the North Lawndale community which is</p>
+<p begin="00:10:01.040" end="00:10:09.050" style="s2">our<span style="s4"> current</span><span style="s3"> ongoing</span> project<span style="s3"> this</span> is part</p>
+<p begin="00:10:06.769" end="00:10:10.670" style="s2">of our documentary film<span style="s3"> okay</span> here and</p>
+<p begin="00:10:09.050" end="00:10:13.760" style="s2">then the folks interviewing you are</p>
+<p begin="00:10:10.670" end="00:10:16.459" style="s2">right in here<span style="s4"> well</span> there<span style="s3"> yeah</span><span style="s4"> go</span> ahead</p>
+<p begin="00:10:13.760" end="00:10:21.829" style="s2"><span style="s4">sir</span><span style="s3"> we&#39;re</span> going<span style="s3"> to</span> do all the work<span style="s4"> I&#39;m</span></p>
+<p begin="00:10:16.459" end="00:10:23.959" style="s2">on<span style="s4"> that</span><span style="s3"> Alright</span> hi I&#39;m well<span style="s4"> hurry</span><span style="s3"> oh</span></p>
+<p begin="00:10:21.829" end="00:10:26.510" style="s2"><span style="s4">this</span><span style="s3"> isn&#39;t</span> an interview<span style="s4"> and</span> Reverend</p>
+<p begin="00:10:23.959" end="00:10:28.370" style="s2"><span style="s4">Willy</span> Morris<span style="s4"> jr.</span> as a part of our 40</p>
+<p begin="00:10:26.510" end="00:10:30.760" style="s2"><span style="s4">blocks the East Garfield Park oral</span></p>
+<p begin="00:10:28.370" end="00:10:30.760" style="s2"><span style="s4">history</span></p>
+<p begin="00:10:32.380" end="00:10:40.040" style="s2">an oral<span style="s3"> history</span> is basically<span style="s3"> a</span> long-form</p>
+<p begin="00:10:36.560" end="00:10:42.620" style="s2"><span style="s4">interview</span> of people&#39;s lives<span style="s4"> in</span> our case</p>
+<p begin="00:10:40.040" end="00:10:48.260" style="s2">what they think about<span style="s4"> living</span> working</p>
+<p begin="00:10:42.620" end="00:10:53.620" style="s2"><span style="s4">being</span><span style="s3"> perfectly</span><span style="s4"> you</span> know what I feel</p>
+<p begin="00:10:48.260" end="00:10:53.620" style="s2">this<span style="s4"> everybody</span> should<span style="s3"> run</span> everything</p>
+<p begin="00:10:55.270" end="00:11:01.190" style="s2"><span style="s3">great</span> me to see<span style="s3"> community</span> we&#39;re<span style="s3"> going</span></p>
+<p begin="00:10:58.130" end="00:11:03.860" style="s2">down of the riot<span style="s4"> of</span><span style="s3"> the</span><span style="s4"> sixties</span><span style="s3"> to</span> be</p>
+<p begin="00:11:01.190" end="00:11:06.589" style="s2">refurbished and to be redeveloped<span style="s4"> and</span></p>
+<p begin="00:11:03.860" end="00:11:09.440" style="s2"><span style="s4">its own positive</span><span style="s3"> thing</span><span style="s4"> and</span><span style="s3"> the</span> greatest</p>
+<p begin="00:11:06.589" end="00:11:14.300" style="s2">piece of<span style="s4"> that that</span><span style="s3"> all</span><span style="s4"> cultures</span> are</p>
+<p begin="00:11:09.440" end="00:11:16.310" style="s2"><span style="s3">going</span> together confirm around I remember</p>
+<p begin="00:11:14.300" end="00:11:19.070" style="s2">the channel<span style="s3"> department</span> we didn&#39;t come in</p>
+<p begin="00:11:16.310" end="00:11:21.650" style="s2">unless we get a<span style="s4"> local</span><span style="s3"> Division</span> who has</p>
+<p begin="00:11:19.070" end="00:11:25.720" style="s2"><span style="s3">children&#39;s and you go in the air and run</span></p>
+<p begin="00:11:21.650" end="00:11:25.720" style="s2">around<span style="s4"> but</span> it was just<span style="s4"> just what</span></p>
+<p begin="00:11:28.420" end="00:11:33.850" style="s2">and the stuff that<span style="s4"> you&#39;ll</span> be doing</p>
+<p begin="00:11:30.570" end="00:11:36.390" style="s2"><span style="s3">actually</span><span style="s4"> no</span><span style="s3"> other</span> historians<span style="s4"> have</span> done</p>
+<p begin="00:11:33.850" end="00:11:36.390" style="s2"><span style="s4">before</span></p>
+<p begin="00:11:43.360" end="00:11:49.389" style="s2"><span style="s3">alright</span> let&#39;s just<span style="s3"> our</span> 90 second trailer</p>
+<p begin="00:11:45.879" end="00:11:51.699" style="s2">that we use<span style="s3"> so</span> this full film which is</p>
+<p begin="00:11:49.389" end="00:11:54.910" style="s2"><span style="s3">about</span><span style="s4"> 17 maybe a</span> little<span style="s4"> over 17 minutes</span></p>
+<p begin="00:11:51.699" end="00:11:57.730" style="s2"><span style="s4">long</span> is available on<span style="s4"> vimeo</span><span style="s3"> and</span> it&#39;s</p>
+<p begin="00:11:54.910" end="00:12:00.189" style="s2">called 40 blocks<span style="s4"> so we did a lot</span><span style="s3"> of</span></p>
+<p begin="00:11:57.730" end="00:12:02.949" style="s2"><span style="s4">other</span> fun stuff<span style="s4"> along with this</span><span style="s3"> for</span></p>
+<p begin="00:12:00.189" end="00:12:04.869" style="s2"><span style="s3">example we were one of</span> the students<span style="s4"> and</span></p>
+<p begin="00:12:02.949" end="00:12:07.269" style="s2">I were on<span style="s4"> WBEZ</span></p>
+<p begin="00:12:04.869" end="00:12:10.329" style="s2">talking about this project<span style="s3"> which</span> was<span style="s3"> a</span></p>
+<p begin="00:12:07.269" end="00:12:12.399" style="s2">lot<span style="s3"> of</span> fun<span style="s3"> we</span> did<span style="s4"> some</span> other<span style="s3"> things that</span></p>
+<p begin="00:12:10.329" end="00:12:15.989" style="s2"><span style="s4">helped us not only promote the project</span></p>
+<p begin="00:12:12.399" end="00:12:19.600" style="s2">but kind<span style="s4"> of just build a sense of</span></p>
+<p begin="00:12:15.989" end="00:12:23.049" style="s2">camaraderie amongst the group<span style="s4"> and</span><span style="s3"> also</span> a</p>
+<p begin="00:12:19.600" end="00:12:27.279" style="s2">sense of<span style="s4"> sort of meaning and</span> that<span style="s3"> we</span> had</p>
+<p begin="00:12:23.049" end="00:12:30.309" style="s2">a<span style="s4"> destination</span> in mind<span style="s3"> just</span> a few more</p>
+<p begin="00:12:27.279" end="00:12:33.549" style="s2"><span style="s4">things</span><span style="s3"> we</span> we did<span style="s4"> fund</span> this project</p>
+<p begin="00:12:30.309" end="00:12:36.970" style="s2"><span style="s3">through</span> Kickstarter we received<span style="s4"> about</span></p>
+<p begin="00:12:33.549" end="00:12:38.799" style="s2"><span style="s3">150% of</span><span style="s4"> our funding and</span> all of the oral</p>
+<p begin="00:12:36.970" end="00:12:42.369" style="s2">histories are available online through</p>
+<p begin="00:12:38.799" end="00:12:46.209" style="s2"><span style="s4">our website Chicago</span><span style="s3"> history</span> org<span style="s4"> full</span> mp3</p>
+<p begin="00:12:42.369" end="00:12:49.269" style="s2">files and full transcriptions in PDF</p>
+<p begin="00:12:46.209" end="00:12:53.949" style="s2">files<span style="s4"> of</span> course the film is 17<span style="s4"> minutes</span></p>
+<p begin="00:12:49.269" end="00:12:57.759" style="s2">long<span style="s4"> there&#39;s</span> probably about 12 or 15</p>
+<p begin="00:12:53.949" end="00:12:59.249" style="s2"><span style="s4">hours</span><span style="s3"> of</span> audio<span style="s4"> so</span> this is where the full</p>
+<p begin="00:12:57.759" end="00:13:01.779" style="s2">stuff lives</p>
+<p begin="00:12:59.249" end="00:13:05.230" style="s2"><span style="s3">alright</span> so<span style="s4"> that&#39;s</span> East<span style="s4"> Garfield</span> Park</p>
+<p begin="00:13:01.779" end="00:13:07.869" style="s2"><span style="s4">that&#39;s</span> last year&#39;s project<span style="s3"> this year</span></p>
+<p begin="00:13:05.230" end="00:13:10.660" style="s2"><span style="s3">were working</span><span style="s4"> collaboratively</span><span style="s3"> again</span> with</p>
+<p begin="00:13:07.869" end="00:13:12.669" style="s2">an organization in North Lawndale<span style="s4"> called</span></p>
+<p begin="00:13:10.660" end="00:13:14.980" style="s2">the k-town historic district Association</p>
+<p begin="00:13:12.669" end="00:13:18.939" style="s2">incorporated<span style="s4"> North</span> Lawndale again<span style="s3"> is</span> a</p>
+<p begin="00:13:14.980" end="00:13:20.769" style="s2"><span style="s3">website</span><span style="s4"> community k-town is</span> a on the</p>
+<p begin="00:13:18.939" end="00:13:24.369" style="s2">National Register of Historic<span style="s3"> Places</span> was</p>
+<p begin="00:13:20.769" end="00:13:25.809" style="s2">placed there<span style="s3"> in</span> 2010 and is in the</p>
+<p begin="00:13:24.369" end="00:13:28.720" style="s2">southwestern<span style="s3"> corner</span> of North Lawndale</p>
+<p begin="00:13:25.809" end="00:13:30.069" style="s2"><span style="s4">about</span> a year ago<span style="s4"> I</span> met with<span style="s4"> the</span></p>
+<p begin="00:13:28.720" end="00:13:32.290" style="s2"><span style="s3">president</span> and<span style="s3"> founder</span> of<span style="s4"> that</span></p>
+<p begin="00:13:30.069" end="00:13:34.749" style="s2">organization<span style="s4"> Paul</span> Norrington who&#39;s a</p>
+<p begin="00:13:32.290" end="00:13:37.449" style="s2">lifelong North Lawndale resident and he</p>
+<p begin="00:13:34.749" end="00:13:40.809" style="s2">mentioned that<span style="s3"> he</span><span style="s4"> had wanted to get off</span></p>
+<p begin="00:13:37.449" end="00:13:42.999" style="s2">the<span style="s4"> ground</span><span style="s3"> a</span> project<span style="s3"> working with high</span></p>
+<p begin="00:13:40.809" end="00:13:47.589" style="s2">school students in North Lawndale</p>
+<p begin="00:13:42.999" end="00:13:49.989" style="s2"><span style="s4">schools</span> on rewriting<span style="s4"> expanding</span> and</p>
+<p begin="00:13:47.589" end="00:13:55.149" style="s2">editing editing Wikipedia pages related</p>
+<p begin="00:13:49.989" end="00:13:57.009" style="s2">to North<span style="s4"> Lawndale</span><span style="s3"> so</span> his common speech</p>
+<p begin="00:13:55.149" end="00:13:59.649" style="s2">that I&#39;ve heard many times<span style="s4"> and</span> if he</p>
+<p begin="00:13:57.009" end="00:14:01.240" style="s2">were here<span style="s3"> he</span> would say for<span style="s3"> example</span> Riot</p>
+<p begin="00:13:59.649" end="00:14:03.339" style="s2">Fest which is<span style="s4"> coming up in a couple</span><span style="s3"> of</span></p>
+<p begin="00:14:01.240" end="00:14:07.509" style="s2"><span style="s4">months is in Douglas Park</span><span style="s3"> Douglas Park</span></p>
+<p begin="00:14:03.339" end="00:14:09.850" style="s2"><span style="s4">is</span> in the heart<span style="s4"> of</span> North Lawndale<span style="s3"> but</span></p>
+<p begin="00:14:07.509" end="00:14:11.860" style="s2">there are tens of thousands of<span style="s4"> people</span></p>
+<p begin="00:14:09.850" end="00:14:13.959" style="s2">who come to Rio<span style="s4"> fest and don&#39;t know</span></p>
+<p begin="00:14:11.860" end="00:14:16.029" style="s2">anything<span style="s3"> about</span><span style="s4"> North</span> Lawndale if they</p>
+<p begin="00:14:13.959" end="00:14:19.019" style="s2">want<span style="s4"> to</span> learn something<span style="s4"> of</span><span style="s3"> course</span></p>
+<p begin="00:14:16.029" end="00:14:20.319" style="s2"><span style="s4">they&#39;re</span> googling and the first hits are</p>
+<p begin="00:14:19.019" end="00:14:21.970" style="s2"><span style="s4">Wikipedia</span></p>
+<p begin="00:14:20.319" end="00:14:23.559" style="s2">fortunately<span style="s4"> up</span> towards the<span style="s3"> top</span> of<span style="s4"> the</span></p>
+<p begin="00:14:21.970" end="00:14:28.869" style="s2">encyclopedia of<span style="s4"> Chicago</span> which<span style="s3"> is</span> one of</p>
+<p begin="00:14:23.559" end="00:14:30.819" style="s2"><span style="s4">one</span> of<span style="s3"> our</span> products but the the</p>
+<p begin="00:14:28.869" end="00:14:34.089" style="s2"><span style="s3">Wikipedia</span> pages are incomplete</p>
+<p begin="00:14:30.819" end="00:14:35.919" style="s2">inaccurate<span style="s4"> and</span> focus on<span style="s4"> purely</span> pretty</p>
+<p begin="00:14:34.089" end="00:14:38.410" style="s2">much the negative and are<span style="s4"> clearly</span></p>
+<p begin="00:14:35.919" end="00:14:40.749" style="s2"><span style="s4">written by people</span><span style="s3"> who</span> don&#39;t really</p>
+<p begin="00:14:38.410" end="00:14:43.539" style="s2">understand the historic scope of the</p>
+<p begin="00:14:40.749" end="00:14:46.209" style="s2">neighborhood<span style="s4"> and</span> don&#39;t either<span style="s4"> choose</span> to</p>
+<p begin="00:14:43.539" end="00:14:48.819" style="s2"><span style="s3">have</span> access<span style="s3"> to</span> certain sources or look</p>
+<p begin="00:14:46.209" end="00:14:51.549" style="s2">at certain kinds of<span style="s3"> sources</span><span style="s4"> so</span> over the</p>
+<p begin="00:14:48.819" end="00:14:53.470" style="s2">course<span style="s4"> of</span> from January to June we worked</p>
+<p begin="00:14:51.549" end="00:14:56.980" style="s2">with<span style="s4"> about</span> a<span style="s3"> hundred</span> and seventy</p>
+<p begin="00:14:53.470" end="00:14:59.559" style="s2">students on oral history projects as</p>
+<p begin="00:14:56.980" end="00:15:02.499" style="s2">well as Wikipedia researching and</p>
+<p begin="00:14:59.559" end="00:15:05.199" style="s2">rewriting and<span style="s4"> expanding</span> projects at</p>
+<p begin="00:15:02.499" end="00:15:07.269" style="s2">North Lawndale college prep<span style="s3"> high</span> school</p>
+<p begin="00:15:05.199" end="00:15:09.399" style="s2">and<span style="s3"> drw</span> college prep<span style="s3"> high</span> school both</p>
+<p begin="00:15:07.269" end="00:15:12.419" style="s2">charter schools in two different<span style="s3"> systems</span></p>
+<p begin="00:15:09.399" end="00:15:19.079" style="s2"><span style="s4">in North Lawndale this</span> actually is a</p>
+<p begin="00:15:12.419" end="00:15:22.329" style="s2">shot of a freshman<span style="s3"> at drw college prep</span></p>
+<p begin="00:15:19.079" end="00:15:25.149" style="s2">interviewing<span style="s4"> the</span> one adult<span style="s3"> there</span><span style="s4"> Jemile</span></p>
+<p begin="00:15:22.329" end="00:15:29.289" style="s2">cannon who is their PE teacher also</p>
+<p begin="00:15:25.149" end="00:15:32.589" style="s2">boxing coach<span style="s4"> and</span> also an NCAA<span style="s4"> Division</span></p>
+<p begin="00:15:29.289" end="00:15:35.079" style="s2"><span style="s4">one boxing champion he is</span> the originator</p>
+<p begin="00:15:32.589" end="00:15:38.350" style="s2">of<span style="s4"> a</span> group called<span style="s3"> the</span> block which works</p>
+<p begin="00:15:35.079" end="00:15:43.569" style="s2">with North Lawndale kids<span style="s3"> boys and girls</span></p>
+<p begin="00:15:38.350" end="00:15:48.279" style="s2"><span style="s4">in</span> boxing skills but<span style="s3"> also</span> in life skills</p>
+<p begin="00:15:43.569" end="00:15:51.129" style="s2"><span style="s3">they have a</span> study table and he&#39;s had a</p>
+<p begin="00:15:48.279" end="00:15:54.429" style="s2">couple<span style="s4"> of</span><span style="s3"> goggle</span><span style="s4"> of Champions whom we</span></p>
+<p begin="00:15:51.129" end="00:15:55.509" style="s2">whom these<span style="s4"> freshmen</span> also interviewed in</p>
+<p begin="00:15:54.429" end="00:15:57.600" style="s2">the classroom setting</p>
+<p begin="00:15:55.509" end="00:15:59.910" style="s2">so like the East<span style="s3"> Garfield</span><span style="s4"> Park</span> project</p>
+<p begin="00:15:57.600" end="00:16:04.740" style="s2">we<span style="s3"> lend</span></p>
+<p begin="00:15:59.910" end="00:16:06.750" style="s2">with some basic technology and some</p>
+<p begin="00:16:04.740" end="00:16:09.800" style="s2">basic<span style="s4"> oral</span> history<span style="s3"> and</span> history training</p>
+<p begin="00:16:06.750" end="00:16:14.010" style="s2"><span style="s3">so</span> what we like to<span style="s4"> do always is to</span></p>
+<p begin="00:16:09.800" end="00:16:16.230" style="s2">collaborate<span style="s4"> and</span> look for ways to<span style="s3"> work</span></p>
+<p begin="00:16:14.010" end="00:16:19.530" style="s2"><span style="s3">with</span> community<span style="s3"> organizations</span><span style="s4"> and</span> build</p>
+<p begin="00:16:16.230" end="00:16:22.680" style="s2">off<span style="s3"> typically</span> what&#39;s already happening</p>
+<p begin="00:16:19.530" end="00:16:24.780" style="s2">or ideas<span style="s3"> that</span><span style="s4"> are</span> already<span style="s4"> there</span><span style="s3"> we</span> also</p>
+<p begin="00:16:22.680" end="00:16:27.000" style="s2">worked these last few slides<span style="s4"> are</span><span style="s3"> just</span></p>
+<p begin="00:16:24.780" end="00:16:28.320" style="s2">fun<span style="s4"> we</span> also worked at an elementary</p>
+<p begin="00:16:27.000" end="00:16:31.470" style="s2">school<span style="s4"> with</span> kids<span style="s4"> as</span> young as</p>
+<p begin="00:16:28.320" end="00:16:33.720" style="s2">kindergarten<span style="s4"> around</span> the corner from this</p>
+<p begin="00:16:31.470" end="00:16:35.970" style="s2"><span style="s3">fountain</span> was<span style="s3"> 1550</span><span style="s4"> South</span> Hamlin where</p>
+<p begin="00:16:33.720" end="00:16:39.180" style="s2">Martin Luther<span style="s3"> King</span> jr. lived and that&#39;s</p>
+<p begin="00:16:35.970" end="00:16:41.550" style="s2">Paul<span style="s3"> -</span> my<span style="s4"> well</span> to my right</p>
+<p begin="00:16:39.180" end="00:16:44.490" style="s2">Paul Norrington the whose brainchild</p>
+<p begin="00:16:41.550" end="00:16:46.080" style="s2">this project is and that&#39;s a fountain</p>
+<p begin="00:16:44.490" end="00:16:49.290" style="s2">that<span style="s3"> we</span> would like to<span style="s4"> get</span> turned back<span style="s3"> on</span></p>
+<p begin="00:16:46.080" end="00:16:51.600" style="s2">it&#39;s called<span style="s4"> it&#39;s</span> an Independence Day</p>
+<p begin="00:16:49.290" end="00:16:53.610" style="s2">fountain<span style="s4"> in</span> North Lawndale<span style="s4"> right</span> outside</p>
+<p begin="00:16:51.600" end="00:16:57.420" style="s2"><span style="s4">these</span> kids school that&#39;s their students</p>
+<p begin="00:16:53.610" end="00:16:59.550" style="s2">of<span style="s4"> Theodore Herzl</span><span style="s3"> elementary</span><span style="s4"> and</span> this</p>
+<p begin="00:16:57.420" end="00:17:04.110" style="s2">young woman standing up her name is</p>
+<p begin="00:16:59.550" end="00:17:07.980" style="s2"><span style="s3">Queen</span><span style="s4"> she</span> was one<span style="s3"> of</span> the<span style="s3"> drw</span><span style="s4"> college</span></p>
+<p begin="00:17:04.110" end="00:17:11.400" style="s2"><span style="s4">prep</span> students who took<span style="s4"> 22</span> different</p>
+<p begin="00:17:07.980" end="00:17:13.800" style="s2"><span style="s4">topics</span> in groups<span style="s4"> of three to four to</span></p>
+<p begin="00:17:11.400" end="00:17:16.310" style="s2">research topics related<span style="s3"> to</span> North</p>
+<p begin="00:17:13.800" end="00:17:20.400" style="s2">Lawndale history that will then go<span style="s3"> into</span></p>
+<p begin="00:17:16.310" end="00:17:22.380" style="s2">expand and change<span style="s3"> the</span> face of Wikipedia</p>
+<p begin="00:17:20.400" end="00:17:25.380" style="s2">as it relates to North Lawndale<span style="s4"> her</span></p>
+<p begin="00:17:22.380" end="00:17:27.810" style="s2">group had the Jewish history<span style="s4"> of</span> North</p>
+<p begin="00:17:25.380" end="00:17:32.670" style="s2">Lawndale North Lawndale was one of until</p>
+<p begin="00:17:27.810" end="00:17:34.230" style="s2">the late 50s early 60s<span style="s4"> from</span> the<span style="s3"> 19-teens</span></p>
+<p begin="00:17:32.670" end="00:17:38.010" style="s2">was one of the largest Jewish</p>
+<p begin="00:17:34.230" end="00:17:40.800" style="s2">communities in<span style="s3"> the country</span><span style="s4"> and</span> there&#39;s a</p>
+<p begin="00:17:38.010" end="00:17:47.520" style="s2">lot<span style="s4"> of</span> still well-known<span style="s4"> in</span> landmarked</p>
+<p begin="00:17:40.800" end="00:17:51.770" style="s2"><span style="s4">synagogues</span> in that community<span style="s3"> that</span> is the</p>
+<p begin="00:17:47.520" end="00:17:54.750" style="s2">kind of the full<span style="s4"> extent of</span><span style="s3"> my</span> comments</p>
+<p begin="00:17:51.770" end="00:17:57.090" style="s2"><span style="s4">the</span> some of<span style="s4"> the</span> other<span style="s3"> things that we try</span></p>
+<p begin="00:17:54.750" end="00:17:58.560" style="s2"><span style="s3">and</span> do the uncle a berate<span style="s3"> is</span><span style="s4"> that</span> we try</p>
+<p begin="00:17:57.090" end="00:18:00.680" style="s2">and<span style="s3"> get</span> to know<span style="s3"> community</span> in<span style="s4"> different</span></p>
+<p begin="00:17:58.560" end="00:18:04.049" style="s2">ways<span style="s4"> in</span> part through that collaboration</p>
+<p begin="00:18:00.680" end="00:18:06.240" style="s2"><span style="s3">what</span> we&#39;ve also learned is to<span style="s4"> kind of</span></p>
+<p begin="00:18:04.049" end="00:18:08.369" style="s2">equip ourselves<span style="s4"> with</span> some tools<span style="s4"> that</span><span style="s3"> we</span></p>
+<p begin="00:18:06.240" end="00:18:10.080" style="s2">didn&#39;t have already so both North</p>
+<p begin="00:18:08.369" end="00:18:15.210" style="s2">Lawndale<span style="s4"> in East Garfield Park</span><span style="s3"> our</span></p>
+<p begin="00:18:10.080" end="00:18:18.960" style="s2">communities<span style="s4"> that</span> do that<span style="s3"> do</span> experience</p>
+<p begin="00:18:15.210" end="00:18:20.610" style="s2">poverty<span style="s4"> and</span><span style="s3"> violence</span> and so there<span style="s3"> are</span> a</p>
+<p begin="00:18:18.960" end="00:18:24.450" style="s2">lot<span style="s3"> of</span> young people whom were working</p>
+<p begin="00:18:20.610" end="00:18:26.159" style="s2"><span style="s3">with</span> when you work with 170<span style="s4"> students we</span></p>
+<p begin="00:18:24.450" end="00:18:28.740" style="s2">do know<span style="s3"> that</span> there are many of those</p>
+<p begin="00:18:26.159" end="00:18:32.369" style="s2">students<span style="s4"> have</span> experienced trauma<span style="s3"> so</span> one</p>
+<p begin="00:18:28.740" end="00:18:35.570" style="s2">thing that<span style="s4"> we</span> sought<span style="s3"> out</span> through human</p>
+<p begin="00:18:32.369" end="00:18:38.190" style="s2">service provider in North Lawndale<span style="s4"> was</span></p>
+<p begin="00:18:35.570" end="00:18:39.869" style="s2">trauma-informed<span style="s4"> training</span> which is</p>
+<p begin="00:18:38.190" end="00:18:45.389" style="s2">becoming<span style="s4"> kind</span> of<span style="s4"> more</span> and more<span style="s4"> common</span> I</p>
+<p begin="00:18:39.869" end="00:18:47.669" style="s2">heard a story on<span style="s3"> WBEZ</span> recently about the</p>
+<p begin="00:18:45.389" end="00:18:49.619" style="s2"><span style="s4">Cleveland</span> public schools that<span style="s4"> are</span></p>
+<p begin="00:18:47.669" end="00:18:50.999" style="s2"><span style="s3">getting</span> trauma-informed training so this</p>
+<p begin="00:18:49.619" end="00:18:52.559" style="s2"><span style="s4">isn&#39;t something that&#39;s</span><span style="s3"> universal</span> but</p>
+<p begin="00:18:50.999" end="00:18:57.330" style="s2">it&#39;s something<span style="s3"> that&#39;s</span> very<span style="s4"> helpful</span> for</p>
+<p begin="00:18:52.559" end="00:19:01.190" style="s2"><span style="s4">us</span> to<span style="s4"> understand sort</span><span style="s3"> of</span><span style="s4"> the</span> context<span style="s4"> in</span></p>
+<p begin="00:18:57.330" end="00:19:04.860" style="s2"><span style="s3">which</span> these students are operating and</p>
+<p begin="00:19:01.190" end="00:19:05.850" style="s2"><span style="s4">that</span> is the<span style="s4"> full</span><span style="s3"> extent</span> of<span style="s3"> my</span><span style="s4"> comments</span></p>
+<p begin="00:19:04.860" end="00:19:22.950" style="s2">so I understand there&#39;s going to be a</p>
+<p begin="00:19:05.850" end="00:19:24.600" style="s2">Q&amp;A<span style="s4"> now</span> thank you hi my name is<span style="s3"> Beth</span><span style="s4"> I</span></p>
+<p begin="00:19:22.950" end="00:19:26.340" style="s2">wanted to say thank<span style="s4"> you</span> for what<span style="s4"> you&#39;re</span></p>
+<p begin="00:19:24.600" end="00:19:29.039" style="s2"><span style="s4">doing</span><span style="s3"> I think</span><span style="s4"> it&#39;s</span> really<span style="s4"> really great</span></p>
+<p begin="00:19:26.340" end="00:19:31.679" style="s2"><span style="s4">work</span><span style="s3"> I</span> have a<span style="s4"> couple</span> questions I&#39;ll try</p>
+<p begin="00:19:29.039" end="00:19:33.179" style="s2"><span style="s4">to keep them brief one</span> is how much</p>
+<p begin="00:19:31.679" end="00:19:35.549" style="s2"><span style="s3">longer</span> you&#39;re<span style="s4"> going to be working</span><span style="s3"> in</span> the</p>
+<p begin="00:19:33.179" end="00:19:37.049" style="s2">North Lawndale neighborhood<span style="s3"> and</span> the</p>
+<p begin="00:19:35.549" end="00:19:38.519" style="s2">second<span style="s4"> question that&#39;s somewhat related</span></p>
+<p begin="00:19:37.049" end="00:19:40.139" style="s2"><span style="s4">to that was when I heard you talking</span></p>
+<p begin="00:19:38.519" end="00:19:40.950" style="s2"><span style="s4">about</span> Wikipedia<span style="s3"> I</span> was<span style="s4"> very excited</span></p>
+<p begin="00:19:40.139" end="00:19:42.869" style="s2">because<span style="s4"> that&#39;s</span> what I was<span style="s4"> wondering</span></p>
+<p begin="00:19:40.950" end="00:19:45.019" style="s2"><span style="s3">about</span> in the first<span style="s4"> case</span> was there any</p>
+<p begin="00:19:42.869" end="00:19:47.759" style="s2">other<span style="s4"> social</span><span style="s3"> media</span> or any<span style="s4"> other</span> way for</p>
+<p begin="00:19:45.019" end="00:19:49.499" style="s2"><span style="s4">information</span> to be added<span style="s4"> so</span> my second</p>
+<p begin="00:19:47.759" end="00:19:50.909" style="s2"><span style="s4">question</span> has to do<span style="s4"> with</span> are you thinking</p>
+<p begin="00:19:49.499" end="00:19:53.879" style="s2">about<span style="s4"> introducing</span><span style="s3"> any</span> kind of mapping</p>
+<p begin="00:19:50.909" end="00:19:56.220" style="s2"><span style="s4">technologies that kids could then add in</span></p>
+<p begin="00:19:53.879" end="00:20:00.240" style="s2">and document some<span style="s3"> of</span> what&#39;s<span style="s4"> available</span> in</p>
+<p begin="00:19:56.220" end="00:20:03.149" style="s2">North Lawndale<span style="s3"> okay</span><span style="s4"> so</span> thank you two</p>
+<p begin="00:20:00.240" end="00:20:04.649" style="s2">good<span style="s3"> questions</span> but so the first one we</p>
+<p begin="00:20:03.149" end="00:20:08.100" style="s2">will<span style="s3"> actually</span><span style="s4"> be</span><span style="s3"> working</span><span style="s4"> in</span> North</p>
+<p begin="00:20:04.649" end="00:20:10.210" style="s2"><span style="s3">Lawndale</span> schools through 2019 2019 is</p>
+<p begin="00:20:08.100" end="00:20:15.190" style="s2">the sesquicentennial<span style="s4"> of</span><span style="s3"> north</span></p>
+<p begin="00:20:10.210" end="00:20:17.260" style="s2">annexation to<span style="s4"> the city 1869 to 2019</span><span style="s3"> and</span></p>
+<p begin="00:20:15.190" end="00:20:18.910" style="s2"><span style="s4">so actually all</span><span style="s3"> of</span> this North Lawndale</p>
+<p begin="00:20:17.260" end="00:20:21.520" style="s2">history project is feeding into<span style="s3"> that</span></p>
+<p begin="00:20:18.910" end="00:20:22.780" style="s2"><span style="s4">celebration</span><span style="s3"> that</span> Paul and Paul</p>
+<p begin="00:20:21.520" end="00:20:24.250" style="s2">Norrington<span style="s3"> the</span> head of the k-town</p>
+<p begin="00:20:22.780" end="00:20:25.720" style="s2">historic district<span style="s3"> Association</span> is the</p>
+<p begin="00:20:24.250" end="00:20:29.050" style="s2"><span style="s4">chair</span><span style="s3"> of</span><span style="s4"> the North Lawndale</span></p>
+<p begin="00:20:25.720" end="00:20:33.510" style="s2">sesquicentennial<span style="s4"> committee so the</span></p>
+<p begin="00:20:29.050" end="00:20:37.240" style="s2">mapping<span style="s4"> we</span> it certainly crossed my mind</p>
+<p begin="00:20:33.510" end="00:20:41.800" style="s2"><span style="s3">it&#39;s</span> we are<span style="s3"> very</span> much<span style="s4"> a</span> bootstrap type</p>
+<p begin="00:20:37.240" end="00:20:44.410" style="s2">of organization so we kind<span style="s4"> of</span><span style="s3"> rely</span> on</p>
+<p begin="00:20:41.800" end="00:20:46.120" style="s2"><span style="s4">whatever skills we have or</span> whatever</p>
+<p begin="00:20:44.410" end="00:20:49.240" style="s2">skills people<span style="s4"> are</span> willing to<span style="s4"> come</span> with</p>
+<p begin="00:20:46.120" end="00:20:54.670" style="s2"><span style="s3">us</span><span style="s4"> as</span> volunteers or<span style="s3"> interns</span> to<span style="s4"> help</span> us</p>
+<p begin="00:20:49.240" end="00:20:57.420" style="s2">out<span style="s3"> so</span><span style="s4"> mapping would be awesome</span><span style="s3"> there</span> is</p>
+<p begin="00:20:54.670" end="00:21:02.560" style="s2">in<span style="s3"> terms</span><span style="s4"> of</span> certain sites<span style="s4"> a</span> pre-existing</p>
+<p begin="00:20:57.420" end="00:21:05.320" style="s2"><span style="s3">web site called the</span><span style="s4"> labor trail which</span></p>
+<p begin="00:21:02.560" end="00:21:07.480" style="s2">does map actually<span style="s3"> a</span> lot of<span style="s3"> Labor</span> history</p>
+<p begin="00:21:05.320" end="00:21:09.610" style="s2">related sites in North Lawndale<span style="s4"> already</span></p>
+<p begin="00:21:07.480" end="00:21:13.750" style="s2">but there&#39;s many other sites and<span style="s4"> sites</span></p>
+<p begin="00:21:09.610" end="00:21:15.790" style="s2">that are there that<span style="s4"> we&#39;re</span> learning about</p>
+<p begin="00:21:13.750" end="00:21:17.800" style="s2">as a<span style="s4"> result</span> of our<span style="s3"> research</span> and<span style="s3"> the</span> oral</p>
+<p begin="00:21:15.790" end="00:21:19.420" style="s2"><span style="s4">histories that were doing so yeah a</span></p>
+<p begin="00:21:17.800" end="00:21:21.160" style="s2">great<span style="s4"> question</span> I wish we were<span style="s3"> doing</span></p>
+<p begin="00:21:19.420" end="00:21:23.050" style="s2"><span style="s3">mapping</span> and that could be<span style="s3"> something</span></p>
+<p begin="00:21:21.160" end="00:21:27.820" style="s2">maybe in<span style="s4"> the long run but</span> not right now</p>
+<p begin="00:21:23.050" end="00:21:30.820" style="s2">yes<span style="s3"> I</span> heard he mentioned Kickstarter<span style="s4"> I</span></p>
+<p begin="00:21:27.820" end="00:21:33.130" style="s2">was kind of curious<span style="s3"> uh</span> how do you fund</p>
+<p begin="00:21:30.820" end="00:21:34.600" style="s2">the projects you<span style="s3"> approach</span> in what new</p>
+<p begin="00:21:33.130" end="00:21:37.660" style="s2">projects are you doing<span style="s4"> and</span> do you need</p>
+<p begin="00:21:34.600" end="00:21:41.860" style="s2"><span style="s4">help</span> we<span style="s3"> always</span><span style="s4"> we</span> always<span style="s4"> need</span> help<span style="s3"> yes</span></p>
+<p begin="00:21:37.660" end="00:21:44.230" style="s2">so<span style="s4"> the</span> Kickstarter was an experiment for</p>
+<p begin="00:21:41.860" end="00:21:45.970" style="s2">the Chicago History<span style="s4"> Museum</span><span style="s3"> you know</span></p>
+<p begin="00:21:44.230" end="00:21:47.380" style="s2">typically like a lot of<span style="s4"> cultural</span></p>
+<p begin="00:21:45.970" end="00:21:51.070" style="s2"><span style="s4">institutions</span><span style="s3"> that</span> have been<span style="s4"> around</span> for a</p>
+<p begin="00:21:47.380" end="00:21:56.620" style="s2">long<span style="s3"> time</span> we go for<span style="s4"> private</span> foundation</p>
+<p begin="00:21:51.070" end="00:21:57.910" style="s2">and government grants<span style="s3"> and</span> so we the</p>
+<p begin="00:21:56.620" end="00:21:59.140" style="s2"><span style="s4">reason</span> I use Kickstarter<span style="s4"> for</span> this</p>
+<p begin="00:21:57.910" end="00:22:00.640" style="s2">project<span style="s4"> was</span> so we<span style="s3"> could</span> get something</p>
+<p begin="00:21:59.140" end="00:22:02.950" style="s2"><span style="s4">off</span><span style="s3"> the</span> ground very quickly<span style="s3"> we</span> didn&#39;t</p>
+<p begin="00:22:00.640" end="00:22:04.750" style="s2">have equipment<span style="s3"> the</span> students who</p>
+<p begin="00:22:02.950" end="00:22:07.840" style="s2">participate<span style="s3"> in</span> the project<span style="s3"> also</span> were</p>
+<p begin="00:22:04.750" end="00:22:10.150" style="s2">paid a wage and<span style="s3"> so</span> while we were</p>
+<p begin="00:22:07.840" end="00:22:15.070" style="s2"><span style="s4">involved</span> we had to assume the wage of</p>
+<p begin="00:22:10.150" end="00:22:18.560" style="s2"><span style="s3">the</span> students the wages<span style="s3"> so</span><span style="s4"> yes</span> we do need</p>
+<p begin="00:22:15.070" end="00:22:21.470" style="s2">help of all kinds<span style="s4"> monetary</span> and otherwise</p>
+<p begin="00:22:18.560" end="00:22:26.450" style="s2">we we were fortunate enough<span style="s3"> to</span> get</p>
+<p begin="00:22:21.470" end="00:22:29.030" style="s2">recently<span style="s4"> an</span> neh grant to support<span style="s4"> the</span></p>
+<p begin="00:22:26.450" end="00:22:31.130" style="s2">whole sweep of<span style="s3"> the</span><span style="s4"> oral history program</span></p>
+<p begin="00:22:29.030" end="00:22:33.380" style="s2">projects at the Chicago<span style="s3"> History</span><span style="s4"> Museum</span></p>
+<p begin="00:22:31.130" end="00:22:35.570" style="s2">so North Lawndale is our current project</p>
+<p begin="00:22:33.380" end="00:22:38.270" style="s2"><span style="s4">and</span> then our other current project in</p>
+<p begin="00:22:35.570" end="00:22:41.330" style="s2">terms of<span style="s4"> oral</span> history is Muslim Chicago</p>
+<p begin="00:22:38.270" end="00:22:45.890" style="s2">which will<span style="s4"> actually</span> become<span style="s4"> an</span> exhibit</p>
+<p begin="00:22:41.330" end="00:22:48.490" style="s2">hopefully in 2019 so we have collected</p>
+<p begin="00:22:45.890" end="00:22:51.860" style="s2">maybe<span style="s4"> about</span> a dozen oral histories</p>
+<p begin="00:22:48.490" end="00:22:54.860" style="s2"><span style="s4">documenting</span> Muslim Americans<span style="s4"> in</span> the city</p>
+<p begin="00:22:51.860" end="00:22:58.000" style="s2">and suburbs<span style="s3"> the</span> exhibit we hope will<span style="s3"> be</span></p>
+<p begin="00:22:54.860" end="00:23:00.410" style="s2">an<span style="s4"> object</span><span style="s3"> theater</span> we also hope to<span style="s4"> have</span></p>
+<p begin="00:22:58.000" end="00:23:02.630" style="s2">extensive<span style="s4"> programming and actually</span></p>
+<p begin="00:23:00.410" end="00:23:05.450" style="s2"><span style="s3">hypetrain recruit hire and train young</span></p>
+<p begin="00:23:02.630" end="00:23:08.480" style="s2">people<span style="s4"> to</span> do the oral histories that</p>
+<p begin="00:23:05.450" end="00:23:11.810" style="s2"><span style="s3">seeped into that</span> project<span style="s4"> so</span> yeah we we</p>
+<p begin="00:23:08.480" end="00:23:14.660" style="s2">need help so if people<span style="s4"> are interested at</span></p>
+<p begin="00:23:11.810" end="00:23:17.060" style="s2">the end I&#39;m going<span style="s4"> to</span> leave out<span style="s4"> pamphlets</span></p>
+<p begin="00:23:14.660" end="00:23:19.460" style="s2">from<span style="s4"> the</span> museum<span style="s4"> and</span> my business<span style="s3"> card</span> and</p>
+<p begin="00:23:17.060" end="00:23:21.950" style="s2">please feel free to get in<span style="s4"> touch with me</span></p>
+<p begin="00:23:19.460" end="00:23:25.130" style="s2"><span style="s3">if</span> you want to<span style="s4"> know</span> more you<span style="s4"> want to</span></p>
+<p begin="00:23:21.950" end="00:23:30.800" style="s2">argue<span style="s4"> with</span> me<span style="s4"> or whatever all right</span></p>
+<p begin="00:23:25.130" end="00:23:34.820" style="s2">right<span style="s4"> right</span><span style="s3"> over</span><span style="s4"> here hi I was just</span></p>
+<p begin="00:23:30.800" end="00:23:38.780" style="s2"><span style="s3">wondering</span> if there was some time you<span style="s3"> can</span></p>
+<p begin="00:23:34.820" end="00:23:41.030" style="s2">recall or in<span style="s4"> general</span> but I was kind of</p>
+<p begin="00:23:38.780" end="00:23:43.210" style="s2">looking<span style="s4"> for</span> the kids reaction to the</p>
+<p begin="00:23:41.030" end="00:23:45.410" style="s2">information<span style="s3"> they</span> uncovered<span style="s4"> did</span> they<span style="s4"> ever</span></p>
+<p begin="00:23:43.210" end="00:23:47.720" style="s2">find something that really surprised</p>
+<p begin="00:23:45.410" end="00:23:50.720" style="s2">them or changed their view of<span style="s3"> their</span></p>
+<p begin="00:23:47.720" end="00:23:52.660" style="s2">community<span style="s4"> or right I think actually</span></p>
+<p begin="00:23:50.720" end="00:23:55.310" style="s2">what&#39;s interesting<span style="s3"> about</span> that is<span style="s4"> yes</span></p>
+<p begin="00:23:52.660" end="00:23:59.540" style="s2"><span style="s3">there</span> were<span style="s4"> things</span> and one<span style="s4"> of</span> the</p>
+<p begin="00:23:55.310" end="00:24:01.670" style="s2"><span style="s3">specific</span> things<span style="s3"> that</span><span style="s4"> I</span> always tell<span style="s4"> is</span></p>
+<p begin="00:23:59.540" end="00:24:03.820" style="s2"><span style="s4">that</span> one of<span style="s3"> the</span> young<span style="s3"> men</span><span style="s4"> involved</span> in</p>
+<p begin="00:24:01.670" end="00:24:08.630" style="s2"><span style="s4">the</span> project his name was Elijah<span style="s4"> and</span> he</p>
+<p begin="00:24:03.820" end="00:24:11.450" style="s2">lives<span style="s4"> on</span> Washington<span style="s3"> and</span> the next block</p>
+<p begin="00:24:08.630" end="00:24:13.550" style="s2">just south of<span style="s4"> his</span> house<span style="s4"> is</span> Warren Avenue</p>
+<p begin="00:24:11.450" end="00:24:15.440" style="s2"><span style="s4">and</span> the Warren Avenue Congregational</p>
+<p begin="00:24:13.550" end="00:24:18.140" style="s2">Church was a church where Martin Luther</p>
+<p begin="00:24:15.440" end="00:24:19.610" style="s2"><span style="s4">King</span> jr.<span style="s3"> spoke</span><span style="s4"> we</span> went into that<span style="s4"> church</span></p>
+<p begin="00:24:18.140" end="00:24:21.200" style="s2">we actually<span style="s4"> interviewed</span> a couple<span style="s4"> of</span></p>
+<p begin="00:24:19.610" end="00:24:23.540" style="s2">members<span style="s4"> of</span> the<span style="s3"> congregation</span> that<span style="s3"> you</span> can</p>
+<p begin="00:24:21.200" end="00:24:25.100" style="s2">see in the longer film<span style="s4"> they were just</span></p>
+<p begin="00:24:23.540" end="00:24:25.520" style="s2">themselves learning about the Martin</p>
+<p begin="00:24:25.100" end="00:24:29.510" style="s2"><span style="s3">Luther</span><span style="s4"> King</span></p>
+<p begin="00:24:25.520" end="00:24:31.790" style="s2"><span style="s3">Junior</span> connection to their church<span style="s3"> so</span> yes</p>
+<p begin="00:24:29.510" end="00:24:34.040" style="s2">there are<span style="s4"> a</span> lot of positive light bulb</p>
+<p begin="00:24:31.790" end="00:24:36.410" style="s2">moments like that<span style="s4"> there&#39;s</span> also a lot of</p>
+<p begin="00:24:34.040" end="00:24:40.280" style="s2">light bulb moments for<span style="s3"> example</span> when we</p>
+<p begin="00:24:36.410" end="00:24:42.530" style="s2">look<span style="s3"> at</span> the uprisings after Martin</p>
+<p begin="00:24:40.280" end="00:24:45.200" style="s2"><span style="s3">Luther</span> King Jr&#39;s assassination in 1968</p>
+<p begin="00:24:42.530" end="00:24:48.140" style="s2"><span style="s4">and</span> sort of how<span style="s4"> that</span> accelerated</p>
+<p begin="00:24:45.200" end="00:24:51.050" style="s2">disinvestment in<span style="s4"> both</span> North Lawndale and</p>
+<p begin="00:24:48.140" end="00:24:52.850" style="s2"><span style="s3">East</span> Garfield<span style="s4"> Park on how the part of</span></p>
+<p begin="00:24:51.050" end="00:24:55.640" style="s2"><span style="s4">that</span> legacy is those empty lots that<span style="s4"> I</span></p>
+<p begin="00:24:52.850" end="00:24:58.730" style="s2">mentioned<span style="s3"> so</span> that&#39;s there&#39;s all<span style="s3"> that</span></p>
+<p begin="00:24:55.640" end="00:25:00.050" style="s2"><span style="s3">fall so a light bulb</span><span style="s4"> moment one of</span><span style="s3"> the</span></p>
+<p begin="00:24:58.730" end="00:25:03.110" style="s2">interesting things especially<span style="s4"> for</span><span style="s3"> the</span></p>
+<p begin="00:25:00.050" end="00:25:04.910" style="s2">East Garfield<span style="s3"> Park</span> project was<span style="s4"> something</span></p>
+<p begin="00:25:03.110" end="00:25:09.080" style="s2">I was in my notes but I didn&#39;t mention</p>
+<p begin="00:25:04.910" end="00:25:11.420" style="s2">what we found in our<span style="s4"> up</span> leading<span style="s3"> up</span> to</p>
+<p begin="00:25:09.080" end="00:25:14.690" style="s2">that research was that<span style="s4"> really</span> from<span style="s4"> about</span></p>
+<p begin="00:25:11.420" end="00:25:16.670" style="s2">the<span style="s3"> time</span> of 1968 to the present there</p>
+<p begin="00:25:14.690" end="00:25:19.220" style="s2">was<span style="s4"> just</span> a<span style="s4"> kind</span> of a black<span style="s3"> hole</span> in terms</p>
+<p begin="00:25:16.670" end="00:25:22.190" style="s2">of documentation<span style="s4"> of</span> East<span style="s4"> Garfield</span> Park</p>
+<p begin="00:25:19.220" end="00:25:23.750" style="s2">especially<span style="s4"> so</span> one of<span style="s4"> the</span> one<span style="s3"> of</span><span style="s4"> the</span></p>
+<p begin="00:25:22.190" end="00:25:26.030" style="s2">students in<span style="s3"> particular</span> but<span style="s4"> a</span> lot<span style="s3"> of</span> the</p>
+<p begin="00:25:23.750" end="00:25:28.190" style="s2">students<span style="s4"> really took that as</span> their</p>
+<p begin="00:25:26.030" end="00:25:29.960" style="s2">charge<span style="s4"> and</span> although<span style="s4"> it</span><span style="s3"> wasn&#39;t</span> something</p>
+<p begin="00:25:28.190" end="00:25:31.940" style="s2">that we prepared when they got<span style="s4"> into</span></p>
+<p begin="00:25:29.960" end="00:25:34.160" style="s2"><span style="s4">doing</span> the oral histories they asked<span style="s4"> the</span></p>
+<p begin="00:25:31.940" end="00:25:35.930" style="s2">oral history narrators you know why do</p>
+<p begin="00:25:34.160" end="00:25:38.690" style="s2"><span style="s4">you think that there&#39;s this 40 years of</span></p>
+<p begin="00:25:35.930" end="00:25:41.870" style="s2"><span style="s4">undocumented</span> history you know and the</p>
+<p begin="00:25:38.690" end="00:25:42.830" style="s2"><span style="s4">the older folk who were being</span></p>
+<p begin="00:25:41.870" end="00:25:46.310" style="s2">interviewed<span style="s3"> had</span> some really interesting</p>
+<p begin="00:25:42.830" end="00:25:49.100" style="s2">answers<span style="s4"> and</span> and you know you think might</p>
+<p begin="00:25:46.310" end="00:25:51.170" style="s2">think that older<span style="s3"> people</span> in<span style="s4"> that</span> setting</p>
+<p begin="00:25:49.100" end="00:25:52.970" style="s2">might sugarcoat things<span style="s4"> but</span> they didn&#39;t</p>
+<p begin="00:25:51.170" end="00:25:54.640" style="s2">necessarily sugarcoat<span style="s3"> things</span> which was a</p>
+<p begin="00:25:52.970" end="00:26:02.450" style="s2">good part of that<span style="s3"> intergenerational</span></p>
+<p begin="00:25:54.640" end="00:26:04.640" style="s2">interaction so thank you thanks so<span style="s4"> much</span></p>
+<p begin="00:26:02.450" end="00:26:07.490" style="s2">for your<span style="s4"> talk</span> and<span style="s4"> for all this work it</span></p>
+<p begin="00:26:04.640" end="00:26:10.220" style="s2"><span style="s4">looks</span><span style="s3"> fantastic so I&#39;m</span> curious<span style="s4"> about</span></p>
+<p begin="00:26:07.490" end="00:26:12.980" style="s2"><span style="s4">sort</span> of digital<span style="s4"> tools overall and first</span></p>
+<p begin="00:26:10.220" end="00:26:15.890" style="s2">well first quickly on Kickstarter beyond</p>
+<p begin="00:26:12.980" end="00:26:18.440" style="s2">just the actual utility<span style="s3"> of</span> the</p>
+<p begin="00:26:15.890" end="00:26:20.390" style="s2">fundraising were there added publicity</p>
+<p begin="00:26:18.440" end="00:26:24.440" style="s2">benefits of going<span style="s4"> with</span> a<span style="s4"> platform</span><span style="s3"> like</span></p>
+<p begin="00:26:20.390" end="00:26:26.330" style="s2">Kickstarter<span style="s3"> yes</span><span style="s4"> absolutely</span><span style="s3"> and</span> because</p>
+<p begin="00:26:24.440" end="00:26:28.520" style="s2">our<span style="s4"> museum</span> had not used Kickstarter</p>
+<p begin="00:26:26.330" end="00:26:33.050" style="s2">before it was all kind<span style="s4"> of</span> news to the</p>
+<p begin="00:26:28.520" end="00:26:34.290" style="s2">entire staff<span style="s3"> so</span> yes we one<span style="s3"> of</span><span style="s4"> the</span></p>
+<p begin="00:26:33.050" end="00:26:36.870" style="s2">coolest things</p>
+<p begin="00:26:34.290" end="00:26:39.060" style="s2">you know obviously the aspects of<span style="s4"> a</span></p>
+<p begin="00:26:36.870" end="00:26:41.760" style="s2">social<span style="s4"> media</span> platform<span style="s3"> so</span> for<span style="s4"> example</span></p>
+<p begin="00:26:39.060" end="00:26:45.360" style="s2">there was<span style="s4"> a</span> woman in Pittsburgh who runs</p>
+<p begin="00:26:41.760" end="00:26:48.960" style="s2">kind of a similar program for elementary</p>
+<p begin="00:26:45.360" end="00:26:52.610" style="s2"><span style="s4">school boys the kind of</span> a self-esteem</p>
+<p begin="00:26:48.960" end="00:26:56.880" style="s2">building program and they partner<span style="s3"> with</span> a</p>
+<p begin="00:26:52.610" end="00:27:00.270" style="s2">radio<span style="s3"> station</span><span style="s4"> in</span> Pittsburgh<span style="s3"> to</span> do short</p>
+<p begin="00:26:56.880" end="00:27:02.850" style="s2"><span style="s4">almost like podcasts</span><span style="s3"> of</span> history segments</p>
+<p begin="00:27:00.270" end="00:27:04.910" style="s2">of<span style="s4"> Pittsburgh and so I ended up having</span> a</p>
+<p begin="00:27:02.850" end="00:27:09.570" style="s2">phone conversation<span style="s4"> with</span> her about<span style="s3"> that</span></p>
+<p begin="00:27:04.910" end="00:27:13.320" style="s2"><span style="s4">and</span> I think also what a<span style="s4"> God</span> had<span style="s3"> just</span> got</p>
+<p begin="00:27:09.570" end="00:27:14.940" style="s2">us a whole different demographic<span style="s3"> I</span> mean</p>
+<p begin="00:27:13.320" end="00:27:16.860" style="s2">and of course<span style="s3"> they&#39;re</span> like a lot of</p>
+<p begin="00:27:14.940" end="00:27:19.680" style="s2"><span style="s3">Kickstarter&#39;s</span><span style="s4"> you</span> know my mom<span style="s4"> was</span> a big</p>
+<p begin="00:27:16.860" end="00:27:22.230" style="s2"><span style="s4">donor</span> and my brother and you know my</p>
+<p begin="00:27:19.680" end="00:27:24.150" style="s2">friends and<span style="s4"> all</span> of<span style="s3"> that</span><span style="s4"> right but a lot</span></p>
+<p begin="00:27:22.230" end="00:27:28.020" style="s2"><span style="s3">of people who would never</span><span style="s4"> even think</span></p>
+<p begin="00:27:24.150" end="00:27:29.940" style="s2">about the<span style="s4"> Chicago</span> History<span style="s4"> Museum</span><span style="s3"> and</span> not</p>
+<p begin="00:27:28.020" end="00:27:31.470" style="s2">necessarily donors but also you know</p>
+<p begin="00:27:29.940" end="00:27:33.420" style="s2">through<span style="s4"> Google</span><span style="s3"> Analytics</span> we could see</p>
+<p begin="00:27:31.470" end="00:27:35.400" style="s2"><span style="s3">people</span> all over<span style="s4"> the</span><span style="s3"> world</span> were at<span style="s4"> least</span></p>
+<p begin="00:27:33.420" end="00:27:36.900" style="s2">you know bouncing off<span style="s4"> our</span> page maybe</p>
+<p begin="00:27:35.400" end="00:27:39.570" style="s2"><span style="s4">watching</span> the video<span style="s4"> and</span> things like<span style="s4"> that</span></p>
+<p begin="00:27:36.900" end="00:27:41.820" style="s2"><span style="s4">so that was kind</span><span style="s3"> of</span> rewarding<span style="s4"> and</span> for us</p>
+<p begin="00:27:39.570" end="00:27:44.910" style="s2"><span style="s4">you know as a 150 year old institution</span><span style="s3"> I</span></p>
+<p begin="00:27:41.820" end="00:27:46.170" style="s2">think edifying<span style="s3"> and eye-opening</span><span style="s4"> that&#39;s</span></p>
+<p begin="00:27:44.910" end="00:27:48.300" style="s2">that&#39;s really<span style="s3"> interesting</span><span style="s4"> and</span> then</p>
+<p begin="00:27:46.170" end="00:27:50.850" style="s2">beyond<span style="s4"> that for the actual sort</span> of</p>
+<p begin="00:27:48.300" end="00:27:55.500" style="s2">recording and then archiving of these</p>
+<p begin="00:27:50.850" end="00:27:58.440" style="s2">materials how big of a<span style="s4"> are</span> there any</p>
+<p begin="00:27:55.500" end="00:28:00.510" style="s2">particular tools that sort of shine or</p>
+<p begin="00:27:58.440" end="00:28:02.520" style="s2">particularly<span style="s4"> useful</span> in the course of</p>
+<p begin="00:28:00.510" end="00:28:04.890" style="s2">creating<span style="s4"> these</span> recordings or is it</p>
+<p begin="00:28:02.520" end="00:28:06.840" style="s2"><span style="s4">pretty</span> straightforward<span style="s4"> and</span> then<span style="s4"> also</span> how</p>
+<p begin="00:28:04.890" end="00:28:09.690" style="s2">big of<span style="s4"> a pain is maintaining all that</span></p>
+<p begin="00:28:06.840" end="00:28:13.680" style="s2">digital data<span style="s3"> the</span> last<span style="s4"> one first that is</span></p>
+<p begin="00:28:09.690" end="00:28:15.900" style="s2">a pretty big<span style="s4"> pain</span> so some when<span style="s3"> we</span> come</p>
+<p begin="00:28:13.680" end="00:28:19.490" style="s2">in and<span style="s3"> we talk</span><span style="s4"> to community groups about</span></p>
+<p begin="00:28:15.900" end="00:28:21.420" style="s2"><span style="s4">what</span> we like<span style="s4"> to</span> do<span style="s4"> excuse</span> me<span style="s3"> a</span> lot of</p>
+<p begin="00:28:19.490" end="00:28:23.910" style="s2">organizations<span style="s4"> assume</span> that we&#39;re<span style="s4"> going to</span></p>
+<p begin="00:28:21.420" end="00:28:27.780" style="s2">bring bring it video<span style="s3"> course</span><span style="s4"> video</span> files</p>
+<p begin="00:28:23.910" end="00:28:30.210" style="s2">are much harder<span style="s3"> and</span> harder to to<span style="s4"> manage</span></p>
+<p begin="00:28:27.780" end="00:28:31.860" style="s2">so organizations like the<span style="s3"> Chicago</span></p>
+<p begin="00:28:30.210" end="00:28:33.990" style="s2">History<span style="s4"> Museum</span><span style="s3"> you know we know what to</span></p>
+<p begin="00:28:31.860" end="00:28:35.450" style="s2">do with Lincoln&#39;s<span style="s4"> deathbed we know what</span></p>
+<p begin="00:28:33.990" end="00:28:37.970" style="s2">to do with hats and<span style="s4"> try</span></p>
+<p begin="00:28:35.450" end="00:28:40.399" style="s2">and<span style="s4"> coats we still haven&#39;t</span> quite figured</p>
+<p begin="00:28:37.970" end="00:28:42.590" style="s2">out<span style="s4"> what</span><span style="s3"> to</span> do with<span style="s3"> WAV</span> files and<span style="s3"> mp3s</span></p>
+<p begin="00:28:40.399" end="00:28:46.940" style="s2"><span style="s4">and</span><span style="s3"> we&#39;re</span> not the only<span style="s3"> ones</span> it&#39;s a lot</p>
+<p begin="00:28:42.590" end="00:28:49.760" style="s2">of<span style="s4"> institutions</span> like<span style="s4"> us</span><span style="s3"> so</span> from<span style="s4"> my</span> end</p>
+<p begin="00:28:46.940" end="00:28:51.529" style="s2"><span style="s3">it&#39;s</span> fairly<span style="s4"> straightforward</span><span style="s3"> I</span> used to</p>
+<p begin="00:28:49.760" end="00:28:53.480" style="s2">work in archives at<span style="s3"> the Museum I&#39;m not</span></p>
+<p begin="00:28:51.529" end="00:28:56.840" style="s2">the archivist anymore so I get to</p>
+<p begin="00:28:53.480" end="00:28:59.179" style="s2">fortunately<span style="s4"> hint</span> that<span style="s4"> stuff</span> off<span style="s3"> kind</span> of</p>
+<p begin="00:28:56.840" end="00:29:01.399" style="s2"><span style="s4">the</span> the<span style="s4"> basic</span> tools you know are the</p>
+<p begin="00:28:59.179" end="00:29:03.559" style="s2"><span style="s3">same</span> basic tools<span style="s4"> and</span> I&#39;m sure some<span style="s3"> of</span></p>
+<p begin="00:29:01.399" end="00:29:06.679" style="s2">you<span style="s3"> will</span> scoff but just using<span style="s4"> things</span></p>
+<p begin="00:29:03.559" end="00:29:08.539" style="s2">like<span style="s4"> audacity</span> to you know make a</p>
+<p begin="00:29:06.679" end="00:29:11.389" style="s2">30-second clip<span style="s3"> that</span> then we can when we</p>
+<p begin="00:29:08.539" end="00:29:13.460" style="s2"><span style="s4">were</span> able<span style="s4"> to</span> use Kickstarter<span style="s3"> as</span> the blog</p>
+<p begin="00:29:11.389" end="00:29:15.409" style="s2">once we got funded then we could show</p>
+<p begin="00:29:13.460" end="00:29:18.019" style="s2">hey look at these great<span style="s4"> videos</span><span style="s3"> that</span> we</p>
+<p begin="00:29:15.409" end="00:29:20.029" style="s2">were<span style="s4"> doing</span> what was<span style="s4"> nice for us too</span> is</p>
+<p begin="00:29:18.019" end="00:29:22.370" style="s2">that we didn&#39;t have<span style="s4"> to already go</span></p>
+<p begin="00:29:20.029" end="00:29:24.620" style="s2">through<span style="s3"> our</span><span style="s4"> own</span> social media staff which</p>
+<p begin="00:29:22.370" end="00:29:26.960" style="s2">is small and overburdened<span style="s4"> so</span> we could</p>
+<p begin="00:29:24.620" end="00:29:30.380" style="s2">push that stuff out<span style="s4"> as</span> soon as<span style="s4"> we</span><span style="s3"> were</span></p>
+<p begin="00:29:26.960" end="00:29:33.860" style="s2">ready<span style="s3"> so</span> that was another aspect<span style="s4"> but</span> yes</p>
+<p begin="00:29:30.380" end="00:29:38.659" style="s2">it&#39;s a large pain<span style="s4"> and</span> we&#39;re actually<span style="s4"> we</span></p>
+<p begin="00:29:33.860" end="00:29:41.149" style="s2">are part of<span style="s4"> a</span> study<span style="s4"> that an outside</span></p>
+<p begin="00:29:38.659" end="00:29:43.340" style="s2">organization<span style="s4"> received</span> a grant to<span style="s3"> study</span></p>
+<p begin="00:29:41.149" end="00:29:45.529" style="s2">institutions like<span style="s4"> ours</span><span style="s3"> to come</span><span style="s4"> up</span> with</p>
+<p begin="00:29:43.340" end="00:29:52.039" style="s2">sort<span style="s4"> of</span> an action plan<span style="s3"> and action steps</span></p>
+<p begin="00:29:45.529" end="00:29:55.639" style="s2"><span style="s4">for</span><span style="s3"> us</span><span style="s4"> moving</span><span style="s3"> forward</span> right<span style="s4"> behind</span> me</p>
+<p begin="00:29:52.039" end="00:29:57.500" style="s2"><span style="s4">right there</span><span style="s3"> you guys so</span> oral histories</p>
+<p begin="00:29:55.639" end="00:29:59.690" style="s2">are really important<span style="s3"> for</span> archives and</p>
+<p begin="00:29:57.500" end="00:30:01.789" style="s2">our research but they&#39;re also<span style="s3"> very</span> long</p>
+<p begin="00:29:59.690" end="00:30:04.730" style="s2">and hard<span style="s3"> to</span> listen<span style="s4"> to</span> so I wonder about</p>
+<p begin="00:30:01.789" end="00:30:06.740" style="s2">how you serve mention the processing</p>
+<p begin="00:30:04.730" end="00:30:08.750" style="s2">files<span style="s4"> for</span> public consumption but also</p>
+<p begin="00:30:06.740" end="00:30:11.080" style="s2"><span style="s4">how</span> you&#39;re<span style="s4"> curating</span> these stories for</p>
+<p begin="00:30:08.750" end="00:30:13.549" style="s2">public consumption and making them</p>
+<p begin="00:30:11.080" end="00:30:16.190" style="s2">enjoyable<span style="s3"> all</span> right or how<span style="s3"> that&#39;s</span> maybe</p>
+<p begin="00:30:13.549" end="00:30:18.860" style="s2">shifting the production models as you</p>
+<p begin="00:30:16.190" end="00:30:21.260" style="s2"><span style="s3">start</span> to get<span style="s3"> more of an</span><span style="s4"> audience for the</span></p>
+<p begin="00:30:18.860" end="00:30:23.029" style="s2">content right yeah I<span style="s4"> think</span> though the</p>
+<p begin="00:30:21.260" end="00:30:24.830" style="s2"><span style="s3">last</span> point is a good<span style="s3"> one in terms of</span></p>
+<p begin="00:30:23.029" end="00:30:26.659" style="s2">more of an audience<span style="s3"> you</span> know right now</p>
+<p begin="00:30:24.830" end="00:30:32.720" style="s2">our audience is<span style="s4"> still pretty small and</span></p>
+<p begin="00:30:26.659" end="00:30:35.970" style="s2">hopefully growing<span style="s4"> in terms of the way we</span></p>
+<p begin="00:30:32.720" end="00:30:39.510" style="s2">sort<span style="s4"> of</span> curate the material that</p>
+<p begin="00:30:35.970" end="00:30:41.670" style="s2">we create through<span style="s4"> these</span> projects<span style="s3"> it&#39;s</span> a</p>
+<p begin="00:30:39.510" end="00:30:44.160" style="s2">collaborative process<span style="s3"> with</span><span style="s4"> our</span> community</p>
+<p begin="00:30:41.670" end="00:30:46.560" style="s2"><span style="s3">partners</span> so<span style="s3"> our</span><span style="s4"> community</span> partner in the</p>
+<p begin="00:30:44.160" end="00:30:48.450" style="s2">East Garfield<span style="s3"> Park they</span><span style="s4"> were</span> really</p>
+<p begin="00:30:46.560" end="00:30:51.480" style="s2">honestly<span style="s4"> the</span> curators<span style="s3"> of the material to</span></p>
+<p begin="00:30:48.450" end="00:30:53.790" style="s2"><span style="s3">create</span><span style="s4"> a</span> 17<span style="s3"> minute</span> documentary<span style="s4"> film we</span></p>
+<p begin="00:30:51.480" end="00:30:57.600" style="s2">created a<span style="s4"> little bit in terms</span> of<span style="s4"> social</span></p>
+<p begin="00:30:53.790" end="00:30:58.950" style="s2"><span style="s3">media</span><span style="s4"> platforms</span><span style="s3"> in</span> terms of the North</p>
+<p begin="00:30:57.600" end="00:31:03.330" style="s2">Lawndale project that we&#39;re<span style="s4"> working on</span></p>
+<p begin="00:30:58.950" end="00:31:05.190" style="s2"><span style="s3">right now</span><span style="s4"> that</span><span style="s3"> is</span> again will be a</p>
+<p begin="00:31:03.330" end="00:31:07.560" style="s2">collaborative process<span style="s4"> probably</span> will</p>
+<p begin="00:31:05.190" end="00:31:09.180" style="s2">result in a film<span style="s4"> working</span> with<span style="s3"> free</span></p>
+<p begin="00:31:07.560" end="00:31:10.500" style="s2"><span style="s4">spirit media some of</span> you might be</p>
+<p begin="00:31:09.180" end="00:31:12.420" style="s2"><span style="s4">familiar with them they&#39;re a</span> great</p>
+<p begin="00:31:10.500" end="00:31:14.910" style="s2">organization they&#39;re actually<span style="s4"> based</span> in</p>
+<p begin="00:31:12.420" end="00:31:18.840" style="s2">North Lawndale<span style="s4"> in</span> the original Sears</p>
+<p begin="00:31:14.910" end="00:31:21.600" style="s2">Tower<span style="s4"> which</span><span style="s3"> was</span> featured in in the film</p>
+<p begin="00:31:18.840" end="00:31:24.450" style="s2"><span style="s4">it&#39;s</span> a 15 story<span style="s4"> structure</span> the largest</p>
+<p begin="00:31:21.600" end="00:31:26.490" style="s2">building outside<span style="s4"> of</span><span style="s3"> the loop</span><span style="s4"> it&#39;s</span> a</p>
+<p begin="00:31:24.450" end="00:31:28.980" style="s2">great view and it&#39;s been one of those</p>
+<p begin="00:31:26.490" end="00:31:33.990" style="s2"><span style="s4">few</span><span style="s3"> buildings</span> that&#39;s been<span style="s4"> saved</span> in North</p>
+<p begin="00:31:28.980" end="00:31:37.560" style="s2">Lawndale<span style="s3"> so</span> we try we try<span style="s4"> and</span> curate in</p>
+<p begin="00:31:33.990" end="00:31:40.700" style="s2">different ways however<span style="s4"> sort of being the</span></p>
+<p begin="00:31:37.560" end="00:31:44.070" style="s2">institution we<span style="s3"> are</span> we also look for</p>
+<p begin="00:31:40.700" end="00:31:46.140" style="s2">historians<span style="s3"> history</span> fair students from</p>
+<p begin="00:31:44.070" end="00:31:49.410" style="s2">middle<span style="s3"> school</span><span style="s4"> or</span><span style="s3"> high</span> school<span style="s4"> to</span> use our</p>
+<p begin="00:31:46.140" end="00:31:52.410" style="s2">oral histories in different ways<span style="s4"> so</span> some</p>
+<p begin="00:31:49.410" end="00:31:55.140" style="s2">of<span style="s4"> it is really</span> not so much curating but</p>
+<p begin="00:31:52.410" end="00:31:56.910" style="s2">pointing people<span style="s4"> towards</span> our resources</p>
+<p begin="00:31:55.140" end="00:32:01.620" style="s2">and hoping<span style="s4"> that they will curate them in</span></p>
+<p begin="00:31:56.910" end="00:32:06.360" style="s2">their own ways<span style="s3"> ok</span> thank<span style="s3"> you</span><span style="s4"> all</span> right</p>
+<p begin="00:32:01.620" end="00:32:08.100" style="s2"><span style="s4">got</span> time for two more<span style="s3"> questions</span><span style="s4"> on</span> topic</p>
+<p begin="00:32:06.360" end="00:32:11.040" style="s2">of reaching wider audiences you</p>
+<p begin="00:32:08.100" end="00:32:14.100" style="s2">mentioned Wikipedia<span style="s4"> as</span> something<span style="s3"> that</span> is</p>
+<p begin="00:32:11.040" end="00:32:17.880" style="s2">maybe an unfortunate resource for to be</p>
+<p begin="00:32:14.100" end="00:32:19.920" style="s2">the first<span style="s3"> contact</span> for<span style="s4"> somebody</span><span style="s3"> have</span> has</p>
+<p begin="00:32:17.880" end="00:32:21.840" style="s2">anybody<span style="s4"> from</span> your organization tried<span style="s3"> to</span></p>
+<p begin="00:32:19.920" end="00:32:24.660" style="s2">edit<span style="s4"> the</span> Wikipedia page or is that</p>
+<p begin="00:32:21.840" end="00:32:26.820" style="s2"><span style="s4">something that&#39;s maybe not</span><span style="s3"> worthwhile</span> or</p>
+<p begin="00:32:24.660" end="00:32:30.180" style="s2">what&#39;s<span style="s4"> your experience regarding that</span><span style="s3"> so</span></p>
+<p begin="00:32:26.820" end="00:32:33.270" style="s2">what<span style="s4"> we</span> have as a<span style="s3"> result</span> of working<span style="s4"> with</span></p>
+<p begin="00:32:30.180" end="00:32:38.070" style="s2">those two<span style="s3"> schools</span> over the<span style="s4"> course</span> of</p>
+<p begin="00:32:33.270" end="00:32:42.570" style="s2">last semester<span style="s3"> are</span> about 35<span style="s3"> or</span> 40 short</p>
+<p begin="00:32:38.070" end="00:32:45.480" style="s2">essays on different topics of North</p>
+<p begin="00:32:42.570" end="00:32:47.730" style="s2">Lawndale history so what we have to do</p>
+<p begin="00:32:45.480" end="00:32:49.370" style="s2">now<span style="s4"> we</span> actually<span style="s4"> have two high school</span></p>
+<p begin="00:32:47.730" end="00:32:51.350" style="s2">students who<span style="s3"> are</span> working<span style="s3"> as</span> fellow</p>
+<p begin="00:32:49.370" end="00:32:53.270" style="s2">at the<span style="s3"> Museum right now who are</span><span style="s4"> from</span></p>
+<p begin="00:32:51.350" end="00:32:55.790" style="s2">North Lawndale college prep<span style="s4"> part of</span></p>
+<p begin="00:32:53.270" end="00:32:58.660" style="s2">their<span style="s4"> job</span><span style="s3"> is</span> to<span style="s4"> go</span> through<span style="s4"> those</span> short</p>
+<p begin="00:32:55.790" end="00:33:03.410" style="s2">essays<span style="s4"> and</span> to fact check them on</p>
+<p begin="00:32:58.660" end="00:33:08.150" style="s2">plagiarize them and and make them ready</p>
+<p begin="00:33:03.410" end="00:33:09.800" style="s2">for Wikipedia<span style="s3"> so</span> we so<span style="s4"> we</span> wouldn&#39;t</p>
+<p begin="00:33:08.150" end="00:33:12.590" style="s2">ourselves as<span style="s4"> a Chicago History Museum</span></p>
+<p begin="00:33:09.800" end="00:33:15.080" style="s2"><span style="s3">edit</span> Wikipedia<span style="s4"> unless</span> we were</p>
+<p begin="00:33:12.590" end="00:33:17.330" style="s2"><span style="s4">collaborating</span> specifically with the</p>
+<p begin="00:33:15.080" end="00:33:19.580" style="s2"><span style="s3">Northey</span> organization in<span style="s3"> North</span> Lawndale</p>
+<p begin="00:33:17.330" end="00:33:23.150" style="s2"><span style="s3">the k-town historic district association</span></p>
+<p begin="00:33:19.580" end="00:33:24.980" style="s2"><span style="s4">so</span> I haven&#39;t<span style="s4"> used</span> Wikipedia<span style="s4"> other</span> than</p>
+<p begin="00:33:23.150" end="00:33:30.340" style="s2"><span style="s4">to</span> kind of mess around with a few things</p>
+<p begin="00:33:24.980" end="00:33:30.340" style="s2">to get<span style="s4"> ready</span> for<span style="s3"> this</span><span style="s4"> for this project</span></p>
+<p begin="00:33:31.480" end="00:33:37.400" style="s2">hi Chris<span style="s4"> from</span> City Year<span style="s3"> I</span> wonder as</p>
+<p begin="00:33:35.420" end="00:33:39.820" style="s2">practicing historians if<span style="s4"> your</span> students</p>
+<p begin="00:33:37.400" end="00:33:42.500" style="s2">gained any kind<span style="s4"> of</span> skepticism<span style="s3"> in</span></p>
+<p begin="00:33:39.820" end="00:33:43.190" style="s2">consuming media<span style="s4"> especially</span> about their</p>
+<p begin="00:33:42.500" end="00:33:48.980" style="s2">communities</p>
+<p begin="00:33:43.190" end="00:33:52.640" style="s2"><span style="s3">III</span><span style="s4"> think</span> they<span style="s4"> do</span> especially<span style="s3"> well</span> I</p>
+<p begin="00:33:48.980" end="00:33:56.090" style="s2">think<span style="s3"> a</span> great example<span style="s4"> is</span> when she&#39;s now</p>
+<p begin="00:33:52.640" end="00:33:57.800" style="s2">will be a<span style="s4"> rising</span> sophomore<span style="s3"> Nakia</span><span style="s4"> who&#39;s</span></p>
+<p begin="00:33:56.090" end="00:34:01.310" style="s2">from East Garfield Park when she and I</p>
+<p begin="00:33:57.800" end="00:34:05.420" style="s2">went<span style="s4"> on WBZ she</span> talked on WBZ on the air</p>
+<p begin="00:34:01.310" end="00:34:07.610" style="s2">about how the<span style="s4"> outside</span> world looks at her</p>
+<p begin="00:34:05.420" end="00:34:10.340" style="s2">community and<span style="s3"> how</span> she<span style="s4"> doesn&#39;t</span> that that</p>
+<p begin="00:34:07.610" end="00:34:12.050" style="s2">is not positive<span style="s4"> and</span> that through</p>
+<p begin="00:34:10.340" end="00:34:14.860" style="s2">projects like<span style="s4"> this were really</span> through</p>
+<p begin="00:34:12.050" end="00:34:17.060" style="s2">her kind<span style="s4"> of</span> living her life that she can</p>
+<p begin="00:34:14.860" end="00:34:21.140" style="s2">kind<span style="s3"> of</span> fight<span style="s4"> against</span> that<span style="s4"> that</span></p>
+<p begin="00:34:17.060" end="00:34:23.450" style="s2">stereotype and take the narrative you</p>
+<p begin="00:34:21.140" end="00:34:25.970" style="s2"><span style="s3">know</span> away from from<span style="s4"> the</span> mainstream<span style="s4"> media</span></p>
+<p begin="00:34:23.450" end="00:34:32.360" style="s2"><span style="s3">and</span> that&#39;s<span style="s4"> really</span> what the Wikipedia</p>
+<p begin="00:34:25.970" end="00:34:35.420" style="s2">project<span style="s4"> is</span> all<span style="s3"> about</span> you all<span style="s3"> right</span> well</p>
+<p begin="00:34:32.360" end="00:34:40.309" style="s2"><span style="s4">then</span> you<span style="s4"> know</span> what<span style="s4"> thank</span> you</p>
+<p begin="00:34:35.420" end="00:34:40.309" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

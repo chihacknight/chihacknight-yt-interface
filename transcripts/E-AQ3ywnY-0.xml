@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.299" end="00:00:10.889" style="s2">hey<span style="s3"> everyone</span> my name is<span style="s3"> Rosa</span> freee and</p>
+<p begin="00:00:09.150" end="00:00:12.900" style="s2">i&#39;m one of the founders of em relief and</p>
+<p begin="00:00:10.889" end="00:00:15.120" style="s2">today<span style="s3"> i</span> wanted to talk a little bit</p>
+<p begin="00:00:12.900" end="00:00:17.160" style="s2">about what stops people who are in</p>
+<p begin="00:00:15.120" end="00:00:21.300" style="s2">poverty from<span style="s3"> getting</span> the help that they</p>
+<p begin="00:00:17.160" end="00:00:23.100" style="s2">need<span style="s3"> so</span> on the there<span style="s4"> are</span> some<span style="s3"> early</span></p>
+<p begin="00:00:21.300" end="00:00:25.619" style="s2">indications that one of the<span style="s3"> things</span><span style="s4"> that</span></p>
+<p begin="00:00:23.100" end="00:00:28.470" style="s2">really interfere with people being able</p>
+<p begin="00:00:25.619" end="00:00:31.289" style="s2"><span style="s3">to</span> get<span style="s3"> the</span> help that they need is stigma</p>
+<p begin="00:00:28.470" end="00:00:33.149" style="s2">right the mark<span style="s3"> of</span> disgrace on a</p>
+<p begin="00:00:31.289" end="00:00:36.079" style="s2">particular circumstance preventing</p>
+<p begin="00:00:33.149" end="00:00:38.430" style="s2">someone from getting food<span style="s3"> stamps</span> and</p>
+<p begin="00:00:36.079" end="00:00:41.270" style="s2">just to show<span style="s4"> you</span> a<span style="s3"> little</span><span style="s4"> bit</span> about some</p>
+<p begin="00:00:38.430" end="00:00:44.910" style="s2">of<span style="s3"> the work that</span><span style="s4"> I</span> do is I work on</p>
+<p begin="00:00:41.270" end="00:00:46.829" style="s2">campaigns that can help identify people</p>
+<p begin="00:00:44.910" end="00:00:48.690" style="s2">who are likely eligible but are not</p>
+<p begin="00:00:46.829" end="00:00:51.449" style="s2">receiving the benefit so here&#39;s an</p>
+<p begin="00:00:48.690" end="00:00:53.550" style="s2">example<span style="s4"> of</span> a<span style="s4"> campaign</span> that<span style="s3"> we</span> posted on</p>
+<p begin="00:00:51.449" end="00:00:56.640" style="s2"><span style="s4">Facebook</span> to help people find out<span style="s4"> that</span></p>
+<p begin="00:00:53.550" end="00:00:59.579" style="s2">they qualify in New York unfortunately</p>
+<p begin="00:00:56.640" end="00:01:02.100" style="s2">what ended up happening next is that</p>
+<p begin="00:00:59.579" end="00:01:04.830" style="s2">people made<span style="s4"> a</span> lot of really discouraging</p>
+<p begin="00:01:02.100" end="00:01:08.729" style="s2">comments so one being come one come all</p>
+<p begin="00:01:04.830" end="00:01:11.909" style="s2">get your freebies or another advertising</p>
+<p begin="00:01:08.729" end="00:01:14.880" style="s2">for stealing nice but this<span style="s3"> should</span></p>
+<p begin="00:01:11.909" end="00:01:17.009" style="s2">probably be in a few languages and so we</p>
+<p begin="00:01:14.880" end="00:01:20.369" style="s2">did some measuring afterwards to find</p>
+<p begin="00:01:17.009" end="00:01:22.560" style="s2">out how exactly this affected people</p>
+<p begin="00:01:20.369" end="00:01:24.119" style="s2">coming to our platform and finding<span style="s3"> out</span></p>
+<p begin="00:01:22.560" end="00:01:27.259" style="s2">whether they actually<span style="s3"> qualified</span> for the</p>
+<p begin="00:01:24.119" end="00:01:29.970" style="s2">benefit and so we found out at<span style="s3"> least</span></p>
+<p begin="00:01:27.259" end="00:01:32.070" style="s2"><span style="s3">after</span> these comments were made that<span style="s3"> this</span></p>
+<p begin="00:01:29.970" end="00:01:35.840" style="s2">coincided with the ten percent decrease</p>
+<p begin="00:01:32.070" end="00:01:39.119" style="s2">in eligibility discovery we also</p>
+<p begin="00:01:35.840" end="00:01:41.009" style="s2">measured some of these instances<span style="s3"> against</span></p>
+<p begin="00:01:39.119" end="00:01:42.540" style="s2">other campaigns that we had run so</p>
+<p begin="00:01:41.009" end="00:01:45.060" style="s2">here&#39;s an example<span style="s4"> of</span> another one that we</p>
+<p begin="00:01:42.540" end="00:01:50.130" style="s2">posted of a girl but the tomato super</p>
+<p begin="00:01:45.060" end="00:01:52.140" style="s2">cute but in<span style="s4"> response</span> to that one<span style="s3"> of</span> our</p>
+<p begin="00:01:50.130" end="00:01:55.860" style="s2">commenters woke up at<span style="s3"> six</span> thirty three</p>
+<p begin="00:01:52.140" end="00:01:59.189" style="s2">a.m. to imply<span style="s4"> that</span> people should try and</p>
+<p begin="00:01:55.860" end="00:02:00.899" style="s2"><span style="s3">get</span> a job before they apply and this is</p>
+<p begin="00:01:59.189" end="00:02:04.170" style="s2">really frustrating because there&#39;s a lot</p>
+<p begin="00:02:00.899" end="00:02:06.210" style="s2"><span style="s4">of</span><span style="s3"> data</span> and specifically a 2016 study</p>
+<p begin="00:02:04.170" end="00:02:07.829" style="s2">from<span style="s4"> the</span> Institute<span style="s4"> for</span> Research on labor</p>
+<p begin="00:02:06.210" end="00:02:10.170" style="s2"><span style="s3">and</span> employment that shows<span style="s4"> that</span></p>
+<p begin="00:02:07.829" end="00:02:12.750" style="s2">three-quarters of the people helped by</p>
+<p begin="00:02:10.170" end="00:02:13.350" style="s2">programs geared to<span style="s4"> the</span> poor our members</p>
+<p begin="00:02:12.750" end="00:02:16.170" style="s2">of a fail</p>
+<p begin="00:02:13.350" end="00:02:18.390" style="s2">we headed by a worker so it&#39;s not<span style="s3"> true</span></p>
+<p begin="00:02:16.170" end="00:02:19.920" style="s2">that often the people who are on<span style="s4"> public</span></p>
+<p begin="00:02:18.390" end="00:02:24.810" style="s2">assistance are different from the people</p>
+<p begin="00:02:19.920" end="00:02:27.240" style="s2">who<span style="s3"> are</span> employed and and this specific</p>
+<p begin="00:02:24.810" end="00:02:29.130" style="s2">comment<span style="s3"> really</span> did dissuade certain</p>
+<p begin="00:02:27.240" end="00:02:31.020" style="s2">users because it coincided with a</p>
+<p begin="00:02:29.130" end="00:02:33.360" style="s2">twenty-seven percent decrease in</p>
+<p begin="00:02:31.020" end="00:02:35.160" style="s2">eligibility discovery I think this<span style="s4"> is</span> a</p>
+<p begin="00:02:33.360" end="00:02:36.810" style="s2">starting point for our organization to</p>
+<p begin="00:02:35.160" end="00:02:38.100" style="s2">do more research we certainly don&#39;t</p>
+<p begin="00:02:36.810" end="00:02:39.720" style="s2">think<span style="s3"> all</span> these statistics are</p>
+<p begin="00:02:38.100" end="00:02:43.560" style="s2">bulletproof but I want<span style="s3"> to</span> leave you<span style="s4"> with</span></p>
+<p begin="00:02:39.720" end="00:02:46.410" style="s2"><span style="s3">this</span> statistic so one<span style="s3"> thing</span> to note is</p>
+<p begin="00:02:43.560" end="00:02:48.570" style="s2">that so many children<span style="s4"> are</span> positively</p>
+<p begin="00:02:46.410" end="00:02:51.120" style="s2">impacted when their parents get</p>
+<p begin="00:02:48.570" end="00:02:53.240" style="s2">assistance that they need<span style="s3"> so</span> if<span style="s3"> not</span> for</p>
+<p begin="00:02:51.120" end="00:02:56.310" style="s2">programs such as the food stamp program</p>
+<p begin="00:02:53.240" end="00:03:00.870" style="s2">2.1 more children would<span style="s4"> have</span> been in</p>
+<p begin="00:02:56.310" end="00:03:03.660" style="s2">poverty between 2012 and<span style="s3"> 2014</span> so it</p>
+<p begin="00:03:00.870" end="00:03:05.790" style="s2">matters it matters what<span style="s4"> you</span> say to</p>
+<p begin="00:03:03.660" end="00:03:07.920" style="s2">people<span style="s3"> when</span> you&#39;re discouraging them</p>
+<p begin="00:03:05.790" end="00:03:10.440" style="s2">around things that have to do with</p>
+<p begin="00:03:07.920" end="00:03:13.140" style="s2">poverty and it also matters what<span style="s4"> you</span></p>
+<p begin="00:03:10.440" end="00:03:16.560" style="s2">post because in<span style="s4"> America</span> today</p>
+<p begin="00:03:13.140" end="00:03:19.620" style="s2">discouraging someone in poverty might</p>
+<p begin="00:03:16.560" end="00:03:22.970" style="s2">cost their family 255 dollars a month on</p>
+<p begin="00:03:19.620" end="00:03:22.970" style="s2">average thank you</p>
+<p begin="00:03:27.220" end="00:03:29.280" style="s2">you</p>
+</div>
+</body>
+</tt>

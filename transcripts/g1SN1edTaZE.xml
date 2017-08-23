@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.700" end="00:00:13.200" style="s2">so<span style="s3"> March</span> 22nd 2012 it&#39;s the first hack</p>
+<p begin="00:00:08.730" end="00:00:14.969" style="s2">night this event back in 2012 this is</p>
+<p begin="00:00:13.200" end="00:00:18.180" style="s2">going<span style="s4"> on</span> open government<span style="s4"> Chicagoland</span></p>
+<p begin="00:00:14.969" end="00:00:20.369" style="s2">hack night a hack event I was a monthly</p>
+<p begin="00:00:18.180" end="00:00:22.470" style="s2">event people like me were showing up to</p>
+<p begin="00:00:20.369" end="00:00:23.580" style="s2">it there&#39;s nothing called urban geek</p>
+<p begin="00:00:22.470" end="00:00:24.960" style="s2">drinks where everyone basically got</p>
+<p begin="00:00:23.580" end="00:00:27.150" style="s2">together at a bar every month and drank</p>
+<p begin="00:00:24.960" end="00:00:29.519" style="s2"><span style="s3">and</span> talked about<span style="s4"> civic</span> stuff this was</p>
+<p begin="00:00:27.150" end="00:00:31.050" style="s2">new ah the city of<span style="s4"> Chicago data portal</span></p>
+<p begin="00:00:29.519" end="00:00:33.960" style="s2">city had started releasing data for the</p>
+<p begin="00:00:31.050" end="00:00:35.520" style="s2">very first time there was this this is</p>
+<p begin="00:00:33.960" end="00:00:37.050" style="s2">the first hackathon I ever attended it</p>
+<p begin="00:00:35.520" end="00:00:39.059" style="s2">was a google it<span style="s3"> was</span> sponsored by the</p>
+<p begin="00:00:37.050" end="00:00:40.649" style="s2">city and google it<span style="s3"> was</span> called<span style="s4"> the</span></p>
+<p begin="00:00:39.059" end="00:00:42.989" style="s2"><span style="s3">chicago open data hack day as a place</span></p>
+<p begin="00:00:40.649" end="00:00:45.110" style="s2">for<span style="s4"> people</span> to build technology using all</p>
+<p begin="00:00:42.989" end="00:00:47.250" style="s2">the open date of the city is releasing</p>
+<p begin="00:00:45.110" end="00:00:48.690" style="s2">after that<span style="s3"> I</span> decided to start a group</p>
+<p begin="00:00:47.250" end="00:00:51.570" style="s2">with a bunch of folks called up in city</p>
+<p begin="00:00:48.690" end="00:00:54.420" style="s2">we<span style="s4"> had</span> built a bunch<span style="s3"> of different</span></p>
+<p begin="00:00:51.570" end="00:00:56.010" style="s2">applications<span style="s4"> we</span> had<span style="s3"> built</span> a website for</p>
+<p begin="00:00:54.420" end="00:00:57.719" style="s2">tracking where the snow plows go where</p>
+<p begin="00:00:56.010" end="00:00:59.609" style="s2">whenever it snows we built a website for</p>
+<p begin="00:00:57.719" end="00:01:01.649" style="s2">tracking what lobbyists are doing we</p>
+<p begin="00:00:59.609" end="00:01:04.290" style="s2">built a website for tracking cook county</p>
+<p begin="00:01:01.649" end="00:01:06.540" style="s2">budget haha we also build a website for</p>
+<p begin="00:01:04.290" end="00:01:08.939" style="s2"><span style="s3">knowing</span> we just launched this<span style="s4"> but</span> for</p>
+<p begin="00:01:06.540" end="00:01:10.500" style="s2">knowing what tier you live in so you</p>
+<p begin="00:01:08.939" end="00:01:12.810" style="s2">know how to apply<span style="s4"> for</span> your chicago</p>
+<p begin="00:01:10.500" end="00:01:14.490" style="s2">public schools this stuff<span style="s3"> was</span> all being</p>
+<p begin="00:01:12.810" end="00:01:16.650" style="s2">done outside<span style="s4"> of</span> our normal nine-to-five</p>
+<p begin="00:01:14.490" end="00:01:19.229" style="s2">jobs and we were<span style="s4"> meeting</span> in coffee shops</p>
+<p begin="00:01:16.650" end="00:01:21.720" style="s2">and randomly scheduling time to meet on</p>
+<p begin="00:01:19.229" end="00:01:24.210" style="s2">weekends and it got to be a pain and so</p>
+<p begin="00:01:21.720" end="00:01:27.150" style="s2">we decided why not just meet at<span style="s3"> the</span> same</p>
+<p begin="00:01:24.210" end="00:01:29.820" style="s2">time in same place every<span style="s3"> week</span> and so</p>
+<p begin="00:01:27.150" end="00:01:31.920" style="s2">this<span style="s4"> is</span> a the earliest record<span style="s3"> I</span> could</p>
+<p begin="00:01:29.820" end="00:01:34.680" style="s2">ever<span style="s3"> find</span> of us talking about<span style="s3"> hack</span> night</p>
+<p begin="00:01:31.920" end="00:01:37.680" style="s2">it&#39;s from March twentieth<span style="s3"> 2012</span> me and</p>
+<p begin="00:01:34.680" end="00:01:40.140" style="s2">this<span style="s3"> is</span> juan pablo Velez it&#39;s his screen</p>
+<p begin="00:01:37.680" end="00:01:41.939" style="s2">name and<span style="s3"> we</span> said let&#39;s go let&#39;s just<span style="s3"> do</span></p>
+<p begin="00:01:40.140" end="00:01:44.549" style="s2">this thing let&#39;s just have<span style="s4"> it</span> here&#39;s the</p>
+<p begin="00:01:41.939" end="00:01:45.750" style="s2"><span style="s3">official</span> first invite for hack night it</p>
+<p begin="00:01:44.549" end="00:01:49.560" style="s2">was held at web attacks which is my</p>
+<p begin="00:01:45.750" end="00:01:51.030" style="s2">former office<span style="s3"> ah</span> these<span style="s3"> are</span> the four</p>
+<p begin="00:01:49.560" end="00:01:52.979" style="s2"><span style="s3">people who showed up that the very first</span></p>
+<p begin="00:01:51.030" end="00:01:55.770" style="s2">hack that it was myself is<span style="s4"> juan pablo</span></p>
+<p begin="00:01:52.979" end="00:01:57.960" style="s2"><span style="s3">tonka</span> par a<span style="s4"> scott</span> Robin what do<span style="s3"> we</span> work</p>
+<p begin="00:01:55.770" end="00:02:00.030" style="s2">on<span style="s4"> scott</span> worked on<span style="s3"> this</span> sweep around us</p>
+<p begin="00:01:57.960" end="00:02:03.030" style="s2">app Tom worked on some<span style="s4"> 311</span> thing I</p>
+<p begin="00:02:00.030" end="00:02:05.280" style="s2">taught one Pablo how to teach HTTP posts</p>
+<p begin="00:02:03.030" end="00:02:06.630" style="s2">and we ate macaroni and cheese then we</p>
+<p begin="00:02:05.280" end="00:02:08.489" style="s2">just decided that<span style="s3"> was</span> fun let&#39;s meet</p>
+<p begin="00:02:06.630" end="00:02:11.489" style="s2">again and then we met again the<span style="s3"> next</span></p>
+<p begin="00:02:08.489" end="00:02:13.650" style="s2">week and this is the first earliest</p>
+<p begin="00:02:11.489" end="00:02:15.090" style="s2">picture I have of the hack night</p>
+<p begin="00:02:13.650" end="00:02:17.720" style="s2">this is number<span style="s3"> seven</span> so this is what it</p>
+<p begin="00:02:15.090" end="00:02:22.370" style="s2">looked like Steve<span style="s3"> Vance</span> you&#39;re here<span style="s4"> I</span></p>
+<p begin="00:02:17.720" end="00:02:32.310" style="s2">think josh is there as well this is 13</p>
+<p begin="00:02:22.370" end="00:02:35.730" style="s2">this is 49 this is 113 this<span style="s4"> 158</span> this is</p>
+<p begin="00:02:32.310" end="00:02:37.560" style="s2">200 and I learned<span style="s4"> that</span> everyone was</p>
+<p begin="00:02:35.730" end="00:02:41.000" style="s2">already already there we<span style="s3"> just</span> made a</p>
+<p begin="00:02:37.560" end="00:02:44.480" style="s2">place and reason for people to meet so</p>
+<p begin="00:02:41.000" end="00:02:44.480" style="s2">see you<span style="s4"> next</span> Tuesday</p>
+<p begin="00:02:49.290" end="00:02:51.349" style="s2">you</p>
+</div>
+</body>
+</tt>

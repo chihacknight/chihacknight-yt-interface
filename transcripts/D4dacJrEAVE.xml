@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.690" end="00:00:11.570" style="s2">without further ado<span style="s3"> the</span> US<span style="s4"> government</span></p>
+<p begin="00:00:08.880" end="00:00:11.570" style="s2">accountability office</p>
+<p begin="00:00:28.930" end="00:00:35.140" style="s2">so while he&#39;s doing this is it<span style="s3"> getting</span></p>
+<p begin="00:00:31.720" end="00:00:38.560" style="s2">working a second so um yeah<span style="s4"> so</span> US</p>
+<p begin="00:00:35.140" end="00:00:40.180" style="s2">government<span style="s3"> accountability</span> office it says</p>
+<p begin="00:00:38.560" end="00:00:42.880" style="s2">up there or did say congressional</p>
+<p begin="00:00:40.180" end="00:00:45.160" style="s2">watchdogs that&#39;s kind of our nickname we</p>
+<p begin="00:00:42.880" end="00:00:47.590" style="s2">work for<span style="s3"> Congress</span> I&#39;ll introduce myself</p>
+<p begin="00:00:45.160" end="00:00:49.450" style="s2">pretty quickly I&#39;m Rebecca Bella I work</p>
+<p begin="00:00:47.590" end="00:00:51.309" style="s2">with our health<span style="s3"> care</span> team and I&#39;ll<span style="s3"> let</span></p>
+<p begin="00:00:49.450" end="00:00:52.750" style="s2">my colleagues introduce themselves<span style="s3"> I&#39;m</span></p>
+<p begin="00:00:51.309" end="00:00:54.790" style="s2"><span style="s3">John Walker and I</span> work with our physical</p>
+<p begin="00:00:52.750" end="00:00:56.140" style="s2">infrastructure team and I&#39;m Sylvia I</p>
+<p begin="00:00:54.790" end="00:00:58.030" style="s2">realize Ellis I work with our financial</p>
+<p begin="00:00:56.140" end="00:00:59.860" style="s2">markets and community investment team</p>
+<p begin="00:00:58.030" end="00:01:03.160" style="s2">I&#39;m<span style="s3"> just</span> wondering how many<span style="s3"> of</span> you are</p>
+<p begin="00:00:59.860" end="00:01:04.600" style="s2"><span style="s4">familiar</span> with our reports oh good yeah</p>
+<p begin="00:01:03.160" end="00:01:06.520" style="s2">so Tim red wine and he found it useful</p>
+<p begin="00:01:04.600" end="00:01:09.990" style="s2">so I think<span style="s3"> that&#39;s</span> why yeah just to come</p>
+<p begin="00:01:06.520" end="00:01:11.619" style="s2">but anyway that&#39;s great thank<span style="s3"> you</span> cool</p>
+<p begin="00:01:09.990" end="00:01:13.180" style="s2">yeah<span style="s4"> so</span> we&#39;re going to give you an</p>
+<p begin="00:01:11.619" end="00:01:15.060" style="s2"><span style="s4">overview</span> of like who we are some of the</p>
+<p begin="00:01:13.180" end="00:01:19.030" style="s2">work we do kind of reports we put out</p>
+<p begin="00:01:15.060" end="00:01:20.830" style="s2">and then delve into three examples of</p>
+<p begin="00:01:19.030" end="00:01:22.570" style="s2">where we&#39;ve used either big data or</p>
+<p begin="00:01:20.830" end="00:01:24.970" style="s2">public data to answer some policy</p>
+<p begin="00:01:22.570" end="00:01:26.470" style="s2">questions before I move on in<span style="s3"> the next</span></p>
+<p begin="00:01:24.970" end="00:01:30.460" style="s2">slide though this is a picture of the</p>
+<p begin="00:01:26.470" end="00:01:32.020" style="s2">GAO building in DC we&#39;ve got offices 11</p>
+<p begin="00:01:30.460" end="00:01:33.340" style="s2">different offices across the country but</p>
+<p begin="00:01:32.020" end="00:01:34.720" style="s2">most of our folks are at our</p>
+<p begin="00:01:33.340" end="00:01:36.820" style="s2">headquarters office and you see they go</p>
+<p begin="00:01:34.720" end="00:01:43.500" style="s2">up<span style="s3"> to</span> the hill pretty frequently brief</p>
+<p begin="00:01:36.820" end="00:01:46.240" style="s2">brief the hell out etc so yeah so<span style="s3"> Gao</span></p>
+<p begin="00:01:43.500" end="00:01:48.580" style="s2">mentioned we work for Congress but</p>
+<p begin="00:01:46.240" end="00:01:52.060" style="s2">importantly we<span style="s4"> are</span> an independent and</p>
+<p begin="00:01:48.580" end="00:01:54.520" style="s2">nonpartisan agency so we&#39;re a small</p>
+<p begin="00:01:52.060" end="00:01:57.159" style="s2">agency<span style="s3"> with</span> the wide world of the</p>
+<p begin="00:01:54.520" end="00:02:00.340" style="s2">federal<span style="s4"> government</span> and we audit sort of</p>
+<p begin="00:01:57.159" end="00:02:02.320" style="s2">across the<span style="s3"> federal</span><span style="s4"> government</span> and<span style="s3"> I&#39;ll</span></p>
+<p begin="00:02:00.340" end="00:02:05.970" style="s2">note again just like the<span style="s3"> non</span> partisan</p>
+<p begin="00:02:02.320" end="00:02:09.670" style="s2">nature of what we do so we provide</p>
+<p begin="00:02:05.970" end="00:02:11.620" style="s2">objective reliable often like very</p>
+<p begin="00:02:09.670" end="00:02:16.810" style="s2">digestible information and analysis</p>
+<p begin="00:02:11.620" end="00:02:19.690" style="s2">about<span style="s3"> federal</span> programs and any type of</p>
+<p begin="00:02:16.810" end="00:02:22.660" style="s2">federal program really<span style="s3"> so</span> we we we audit</p>
+<p begin="00:02:19.690" end="00:02:26.980" style="s2">policy and we provide policy options to</p>
+<p begin="00:02:22.660" end="00:02:29.140" style="s2">federal to Congress on on any kind of</p>
+<p begin="00:02:26.980" end="00:02:30.850" style="s2">federal program federal spending we</p>
+<p begin="00:02:29.140" end="00:02:32.980" style="s2">audit federal programs themselves to</p>
+<p begin="00:02:30.850" end="00:02:35.440" style="s2">kind of make sure<span style="s3"> that</span> they&#39;re using</p>
+<p begin="00:02:32.980" end="00:02:37.450" style="s2"><span style="s3">federal</span> funds efficiently and</p>
+<p begin="00:02:35.440" end="00:02:38.919" style="s2">effectively how can<span style="s3"> we</span> improve those</p>
+<p begin="00:02:37.450" end="00:02:41.730" style="s2">types<span style="s3"> of</span> programs are they doing<span style="s3"> what</span></p>
+<p begin="00:02:38.919" end="00:02:41.730" style="s2">they&#39;re supposed to be<span style="s4"> doing</span></p>
+<p begin="00:02:41.930" end="00:02:45.950" style="s2">another note on<span style="s4"> that</span> we also do like</p>
+<p begin="00:02:44.420" end="00:02:49.280" style="s2">financial audits and that&#39;s kind of how</p>
+<p begin="00:02:45.950" end="00:02:51.590" style="s2">the agency started a long time ago doing</p>
+<p begin="00:02:49.280" end="00:02:54.469" style="s2">like having ce pas go in and actually</p>
+<p begin="00:02:51.590" end="00:02:55.939" style="s2">audit<span style="s3"> federal</span> finances the head<span style="s3"> of our</span></p>
+<p begin="00:02:54.469" end="00:02:58.010" style="s2">agencies called the Comptroller General</p>
+<p begin="00:02:55.939" end="00:02:59.510" style="s2">of the United<span style="s3"> States</span> and<span style="s3"> so</span> generally</p>
+<p begin="00:02:58.010" end="00:03:01.310" style="s2"><span style="s3">Comptroller General only does sort of</span></p>
+<p begin="00:02:59.510" end="00:03:03.079" style="s2">those financial audits but you know our</p>
+<p begin="00:03:01.310" end="00:03:07.879" style="s2">scope is much broader than that to look</p>
+<p begin="00:03:03.079" end="00:03:11.689" style="s2">at you know program policy etc and<span style="s4"> so</span> a</p>
+<p begin="00:03:07.879" end="00:03:14.930" style="s2">lot<span style="s4"> of</span> our work can in so we inform</p>
+<p begin="00:03:11.689" end="00:03:17.120" style="s2">Congress also agency heads but</p>
+<p begin="00:03:14.930" end="00:03:18.230" style="s2">oftentimes our reports will not only</p>
+<p begin="00:03:17.120" end="00:03:20.480" style="s2">provide information but provide</p>
+<p begin="00:03:18.230" end="00:03:22.489" style="s2">recommendations for for Congress and</p>
+<p begin="00:03:20.480" end="00:03:24.049" style="s2">agencies about how they could improve</p>
+<p begin="00:03:22.489" end="00:03:28.250" style="s2">their programs use their funds better</p>
+<p begin="00:03:24.049" end="00:03:30.739" style="s2">more efficiently and effectively kind of</p>
+<p begin="00:03:28.250" end="00:03:33.049" style="s2">where do we get<span style="s4"> our</span> work I noted you</p>
+<p begin="00:03:30.739" end="00:03:35.590" style="s2"><span style="s3">know</span> Congress so seventy percent of our</p>
+<p begin="00:03:33.049" end="00:03:38.000" style="s2">work comes from requests either from</p>
+<p begin="00:03:35.590" end="00:03:41.419" style="s2">committees or individual members</p>
+<p begin="00:03:38.000" end="00:03:43.040" style="s2">themselves we also get requests<span style="s3"> or</span> we</p>
+<p begin="00:03:41.419" end="00:03:46.489" style="s2">actually get work through mandates</p>
+<p begin="00:03:43.040" end="00:03:47.930" style="s2">written written directly into the law so</p>
+<p begin="00:03:46.489" end="00:03:51.440" style="s2">for<span style="s3"> example</span> the Troubled Asset Relief</p>
+<p begin="00:03:47.930" end="00:03:52.849" style="s2">Program had<span style="s4"> GAO</span> looking at how those</p>
+<p begin="00:03:51.440" end="00:03:55.150" style="s2">funds were being spent sort of every two</p>
+<p begin="00:03:52.849" end="00:03:57.680" style="s2">years i<span style="s4"> think</span> the report outs were</p>
+<p begin="00:03:55.150" end="00:03:59.840" style="s2">health<span style="s4"> healthcare</span><span style="s3"> reform</span> the Patient</p>
+<p begin="00:03:57.680" end="00:04:02.209" style="s2">Protection Affordable Care Act there was</p>
+<p begin="00:03:59.840" end="00:04:04.370" style="s2">upwards of<span style="s4"> thirty</span> mandates within within</p>
+<p begin="00:04:02.209" end="00:04:07.069" style="s2"><span style="s3">pop akka for Gao to look at various</span></p>
+<p begin="00:04:04.370" end="00:04:10.909" style="s2">aspects of evaluating you know program</p>
+<p begin="00:04:07.069" end="00:04:13.250" style="s2">efficiency patient access actually there</p>
+<p begin="00:04:10.909" end="00:04:15.199" style="s2">was a report yesterday I think<span style="s4"> you</span> know</p>
+<p begin="00:04:13.250" end="00:04:17.750" style="s2">last week came out looking at the</p>
+<p begin="00:04:15.199" end="00:04:21.019" style="s2"><span style="s4">concentration</span> of enrollment in health</p>
+<p begin="00:04:17.750" end="00:04:22.789" style="s2">exchange programs and that was a mandate</p>
+<p begin="00:04:21.019" end="00:04:26.419" style="s2">from<span style="s4"> Papa</span> so six years out we&#39;re still</p>
+<p begin="00:04:22.789" end="00:04:29.240" style="s2">doing work there and so then kind<span style="s3"> of</span></p>
+<p begin="00:04:26.419" end="00:04:31.759" style="s2">like our scope of work this is just<span style="s4"> like</span></p>
+<p begin="00:04:29.240" end="00:04:35.210" style="s2">a long list of different<span style="s4"> areas</span> of work</p>
+<p begin="00:04:31.759" end="00:04:37.729" style="s2">right we<span style="s3"> divide</span><span style="s4"> our</span> work into sort of</p>
+<p begin="00:04:35.210" end="00:04:40.250" style="s2"><span style="s4">fourteen</span> different we call the mission</p>
+<p begin="00:04:37.729" end="00:04:42.740" style="s2">teams that look at basically groups of</p>
+<p begin="00:04:40.250" end="00:04:45.110" style="s2">work I<span style="s3"> work</span> like I mentioned with<span style="s4"> the</span></p>
+<p begin="00:04:42.740" end="00:04:46.310" style="s2">health care team so we were look at</p>
+<p begin="00:04:45.110" end="00:04:49.460" style="s2">federal programs federal spending</p>
+<p begin="00:04:46.310" end="00:04:54.010" style="s2">related to say anywhere from VA wait</p>
+<p begin="00:04:49.460" end="00:04:55.760" style="s2">times to Medicare financing Medicaid</p>
+<p begin="00:04:54.010" end="00:04:58.280" style="s2"><span style="s3">public health prepared</span></p>
+<p begin="00:04:55.760" end="00:04:59.810" style="s2">this FDA other things<span style="s3"> like</span><span style="s4"> that Joni</span></p>
+<p begin="00:04:58.280" end="00:05:01.190" style="s2">works with<span style="s4"> the</span> physical<span style="s3"> infrastructure</span></p>
+<p begin="00:04:59.810" end="00:05:02.750" style="s2">team what kind of stuff do you guys do</p>
+<p begin="00:05:01.190" end="00:05:05.450" style="s2">our team generally covers surface</p>
+<p begin="00:05:02.750" end="00:05:08.030" style="s2">transportation aviation as well as</p>
+<p begin="00:05:05.450" end="00:05:10.070" style="s2">telecommunications the US<span style="s4"> Postal</span> Service</p>
+<p begin="00:05:08.030" end="00:05:11.810" style="s2">and then federal government holdings and</p>
+<p begin="00:05:10.070" end="00:05:14.510" style="s2">how they manage their<span style="s3"> real</span> property in</p>
+<p begin="00:05:11.810" end="00:05:16.130" style="s2">Sylvia so I&#39;m with the financial<span style="s3"> markets</span></p>
+<p begin="00:05:14.510" end="00:05:17.570" style="s2">and community investment team and we do</p>
+<p begin="00:05:16.130" end="00:05:21.920" style="s2">a lot of<span style="s3"> work</span> with the banking</p>
+<p begin="00:05:17.570" end="00:05:25.460" style="s2">regulators and exchanges and capital</p>
+<p begin="00:05:21.920" end="00:05:27.500" style="s2">markets<span style="s4"> in</span> general housing programs and</p>
+<p begin="00:05:25.460" end="00:05:31.000" style="s2">commuter investment programs so we&#39;re</p>
+<p begin="00:05:27.500" end="00:05:33.650" style="s2">kind of busy after 2008 say the least</p>
+<p begin="00:05:31.000" end="00:05:35.480" style="s2">and all three of<span style="s3"> us</span> have policy or</p>
+<p begin="00:05:33.650" end="00:05:37.130" style="s2"><span style="s4">public health backgrounds but I will</span></p>
+<p begin="00:05:35.480" end="00:05:39.200" style="s2">know one of<span style="s3"> our</span> team on here applied</p>
+<p begin="00:05:37.130" end="00:05:42.790" style="s2">research and methods so we also have</p>
+<p begin="00:05:39.200" end="00:05:47.030" style="s2">experts expert methodologists economists</p>
+<p begin="00:05:42.790" end="00:05:49.370" style="s2">other sign science technical experts as</p>
+<p begin="00:05:47.030" end="00:05:52.880" style="s2">well as folks who work with big data and</p>
+<p begin="00:05:49.370" end="00:05:56.540" style="s2">analytics who do their own work but then</p>
+<p begin="00:05:52.880" end="00:05:57.680" style="s2">also assist us in developing our work so</p>
+<p begin="00:05:56.540" end="00:06:00.410" style="s2">that we can<span style="s3"> provide</span> the<span style="s3"> Congress</span> with</p>
+<p begin="00:05:57.680" end="00:06:02.300" style="s2">the best<span style="s3"> information</span> possible in terms</p>
+<p begin="00:06:00.410" end="00:06:06.290" style="s2"><span style="s4">of</span> like output I mentioned we write</p>
+<p begin="00:06:02.300" end="00:06:09.140" style="s2">reports so we put out over nine I think</p>
+<p begin="00:06:06.290" end="00:06:12.680" style="s2">there&#39;s over 900 publications last year</p>
+<p begin="00:06:09.140" end="00:06:14.090" style="s2">on the<span style="s4"> variety</span> of topics right but<span style="s3"> that</span></p>
+<p begin="00:06:12.680" end="00:06:16.490" style="s2">includes sort of longer reports</p>
+<p begin="00:06:14.090" end="00:06:18.980" style="s2">answering policy questions but also our</p>
+<p begin="00:06:16.490" end="00:06:20.780" style="s2">teams can get called up to the<span style="s4"> hill</span> to</p>
+<p begin="00:06:18.980" end="00:06:22.880" style="s2">provide hearing and hearings during</p>
+<p begin="00:06:20.780" end="00:06:23.780" style="s2">hearings provide testimony on projects</p>
+<p begin="00:06:22.880" end="00:06:26.090" style="s2"><span style="s4">that</span> we&#39;ve either worked on or they</p>
+<p begin="00:06:23.780" end="00:06:29.320" style="s2">might ask us like a new topic in which</p>
+<p begin="00:06:26.090" end="00:06:34.310" style="s2">you scramble and provide information and</p>
+<p begin="00:06:29.320" end="00:06:35.480" style="s2"><span style="s3">we</span> also do legal reviews etc so</p>
+<p begin="00:06:34.310" end="00:06:37.700" style="s2">basically<span style="s3"> if</span> there&#39;s a federal program</p>
+<p begin="00:06:35.480" end="00:06:40.130" style="s2">it&#39;s a good chance that Gao is going to</p>
+<p begin="00:06:37.700" end="00:06:41.990" style="s2">have done some work on it so<span style="s3"> you</span> can go</p>
+<p begin="00:06:40.130" end="00:06:43.130" style="s2">to our<span style="s4"> website</span> and kind of find</p>
+<p begin="00:06:41.990" end="00:06:45.350" style="s2">information<span style="s3"> background</span> information</p>
+<p begin="00:06:43.130" end="00:06:47.540" style="s2">either that particular topic or kind of</p>
+<p begin="00:06:45.350" end="00:06:49.220" style="s2">a body of work so then I&#39;m going<span style="s3"> to</span> pass</p>
+<p begin="00:06:47.540" end="00:06:52.190" style="s2">it over to<span style="s3"> Joni</span> to talk about some some</p>
+<p begin="00:06:49.220" end="00:06:53.570" style="s2">more specifics yeah and so Becky kind of</p>
+<p begin="00:06:52.190" end="00:06:55.100" style="s2">gave you the scope<span style="s3"> of</span> the work and</p>
+<p begin="00:06:53.570" end="00:06:57.500" style="s2">within the three teams that<span style="s3"> we</span> work in</p>
+<p begin="00:06:55.100" end="00:06:59.300" style="s2">we just pulled a few report titles to</p>
+<p begin="00:06:57.500" end="00:07:02.090" style="s2">kind of give you a sampling of what the</p>
+<p begin="00:06:59.300" end="00:07:03.380" style="s2">reports actually look<span style="s4"> like</span> and so the</p>
+<p begin="00:07:02.090" end="00:07:05.030" style="s2">title in each case kind of gives<span style="s3"> you</span></p>
+<p begin="00:07:03.380" end="00:07:07.490" style="s2">some indication of the content of what&#39;s</p>
+<p begin="00:07:05.030" end="00:07:08.580" style="s2">in there what we looked at and if<span style="s3"> we</span></p>
+<p begin="00:07:07.490" end="00:07:10.770" style="s2">made a recommendation</p>
+<p begin="00:07:08.580" end="00:07:12.840" style="s2">to the federal agency what that</p>
+<p begin="00:07:10.770" end="00:07:14.759" style="s2">recommendation may be entailed and so</p>
+<p begin="00:07:12.840" end="00:07:16.710" style="s2">you<span style="s4"> know</span> for<span style="s3"> the</span> flood insurance report</p>
+<p begin="00:07:14.759" end="00:07:17.849" style="s2">up there<span style="s4"> in</span> the Medicaid you can see</p>
+<p begin="00:07:16.710" end="00:07:20.159" style="s2"><span style="s4">that</span> those are reports<span style="s3"> where</span><span style="s4"> were</span></p>
+<p begin="00:07:17.849" end="00:07:23.460" style="s2"><span style="s3">outlining and options or considerations</span></p>
+<p begin="00:07:20.159" end="00:07:25.740" style="s2">for<span style="s4"> them</span> we have one here<span style="s3"> on FAA</span></p>
+<p begin="00:07:23.460" end="00:07:27.449" style="s2">forecasting talking about what FAA</p>
+<p begin="00:07:25.740" end="00:07:29.550" style="s2"><span style="s4">should</span> implement in its aviation</p>
+<p begin="00:07:27.449" end="00:07:31.770" style="s2">forecasting activity and so that&#39;s a</p>
+<p begin="00:07:29.550" end="00:07:33.449" style="s2">review where we<span style="s3"> went</span> in we looked at</p>
+<p begin="00:07:31.770" end="00:07:35.159" style="s2">what they&#39;re forecasting entailed<span style="s3"> and</span></p>
+<p begin="00:07:33.449" end="00:07:36.719" style="s2">came out with<span style="s4"> some recommendations on</span></p>
+<p begin="00:07:35.159" end="00:07:39.120" style="s2">how they could improve that going</p>
+<p begin="00:07:36.719" end="00:07:40.560" style="s2">forward so just kind of a snapshot but</p>
+<p begin="00:07:39.120" end="00:07:42.180" style="s2">if you went<span style="s4"> to</span><span style="s3"> the</span><span style="s4"> website</span> you<span style="s3"> can</span> see a</p>
+<p begin="00:07:40.560" end="00:07:45.090" style="s2">whole lot<span style="s4"> of</span> reports and a whole lot of</p>
+<p begin="00:07:42.180" end="00:07:46.500" style="s2">different topics and just<span style="s3"> briefly</span> we</p>
+<p begin="00:07:45.090" end="00:07:48.030" style="s2">wanted to kind<span style="s4"> of</span> give an overview of</p>
+<p begin="00:07:46.500" end="00:07:50.520" style="s2"><span style="s3">some</span> of the methods we do use to do our</p>
+<p begin="00:07:48.030" end="00:07:52.500" style="s2">work so whenever we get a<span style="s3"> request</span> or we</p>
+<p begin="00:07:50.520" end="00:07:55.080" style="s2">have a mandate in law we<span style="s3"> always</span> start by</p>
+<p begin="00:07:52.500" end="00:07:56.610" style="s2">designing our review so we very clearly</p>
+<p begin="00:07:55.080" end="00:07:58.830" style="s2">define the scope of<span style="s3"> what</span> we&#39;re going<span style="s3"> to</span></p>
+<p begin="00:07:56.610" end="00:08:00.539" style="s2">look at and then we lay out the methods</p>
+<p begin="00:07:58.830" end="00:08:02.639" style="s2">both quantitative and qualitative we&#39;re</p>
+<p begin="00:08:00.539" end="00:08:05.669" style="s2">going to use to collect and then review</p>
+<p begin="00:08:02.639" end="00:08:08.099" style="s2">and analyze<span style="s3"> the</span> information so just some</p>
+<p begin="00:08:05.669" end="00:08:09.750" style="s2">examples you know data and data analysis</p>
+<p begin="00:08:08.099" end="00:08:11.669" style="s2">is something that we do often both</p>
+<p begin="00:08:09.750" end="00:08:14.400" style="s2">working with publicly available data</p>
+<p begin="00:08:11.669" end="00:08:16.889" style="s2">sets as<span style="s4"> well</span> as other agency data sets</p>
+<p begin="00:08:14.400" end="00:08:18.750" style="s2">and we don&#39;t just kind of take the data</p>
+<p begin="00:08:16.889" end="00:08:20.159" style="s2">and run with it we always do a pretty</p>
+<p begin="00:08:18.750" end="00:08:23.370" style="s2">extensive data reliability assessment</p>
+<p begin="00:08:20.159" end="00:08:25.560" style="s2">for any data<span style="s3"> that</span> we use and when we</p>
+<p begin="00:08:23.370" end="00:08:28.469" style="s2">publish the report in any findings we</p>
+<p begin="00:08:25.560" end="00:08:30.000" style="s2">include the results<span style="s3"> of</span> that as<span style="s4"> well</span> we</p>
+<p begin="00:08:28.469" end="00:08:31.080" style="s2">do do investigative audits so in</p>
+<p begin="00:08:30.000" end="00:08:32.789" style="s2">conjunction with some of these other</p>
+<p begin="00:08:31.080" end="00:08:34.440" style="s2">methods we<span style="s3"> have</span> a team<span style="s3"> with</span> some</p>
+<p begin="00:08:32.789" end="00:08:37.050" style="s2">investigators that can look into</p>
+<p begin="00:08:34.440" end="00:08:39.810" style="s2">allegations of fraud waste and abuse and</p>
+<p begin="00:08:37.050" end="00:08:40.800" style="s2">we&#39;ve had<span style="s4"> some</span> interesting and some</p>
+<p begin="00:08:39.810" end="00:08:41.940" style="s2">reports that<span style="s3"> are</span> interesting they&#39;ve</p>
+<p begin="00:08:40.800" end="00:08:44.310" style="s2">been highlighted in the media<span style="s4"> that</span> make</p>
+<p begin="00:08:41.940" end="00:08:46.589" style="s2">use of those services we do surveys</p>
+<p begin="00:08:44.310" end="00:08:49.980" style="s2">focus groups and observation kind of as</p>
+<p begin="00:08:46.589" end="00:08:52.019" style="s2">needed so surveys will often if there<span style="s3"> is</span></p>
+<p begin="00:08:49.980" end="00:08:54.029" style="s2">a state-administered program survey<span style="s4"> the</span></p>
+<p begin="00:08:52.019" end="00:08:55.860" style="s2">entire population so the 50 states and</p>
+<p begin="00:08:54.029" end="00:08:58.370" style="s2"><span style="s3">territories</span> to kind of get what their</p>
+<p begin="00:08:55.860" end="00:09:01.519" style="s2">views are what their challenges are<span style="s4"> etc</span></p>
+<p begin="00:08:58.370" end="00:09:03.930" style="s2">for observation we put a graph up here</p>
+<p begin="00:09:01.519" end="00:09:06.060" style="s2">some interesting<span style="s4"> work</span> we did both<span style="s3"> in</span> two</p>
+<p begin="00:09:03.930" end="00:09:07.649" style="s2">thousand and two thousand and eight and</p>
+<p begin="00:09:06.060" end="00:09:10.620" style="s2">with the<span style="s3"> election</span> coming up it&#39;s sort of</p>
+<p begin="00:09:07.649" end="00:09:12.690" style="s2">relevant again so on<span style="s3"> Election Day GAO</span></p>
+<p begin="00:09:10.620" end="00:09:15.390" style="s2">said analysts and auditors out into the</p>
+<p begin="00:09:12.690" end="00:09:16.920" style="s2">field to polling places to see if there</p>
+<p begin="00:09:15.390" end="00:09:19.140" style="s2">were any impediments to accessibility</p>
+<p begin="00:09:16.920" end="00:09:21.329" style="s2">for individuals with disabilities so</p>
+<p begin="00:09:19.140" end="00:09:22.499" style="s2">both looking<span style="s3"> at the entrances to the</span></p>
+<p begin="00:09:21.329" end="00:09:24.239" style="s2">buildings and then</p>
+<p begin="00:09:22.499" end="00:09:26.009" style="s2">in the polling places themselves looking</p>
+<p begin="00:09:24.239" end="00:09:28.019" style="s2"><span style="s3">at</span> the voting machines<span style="s3"> to</span> see if they</p>
+<p begin="00:09:26.009" end="00:09:29.759" style="s2">were in compliance with law when<span style="s4"> it</span> came</p>
+<p begin="00:09:28.019" end="00:09:31.319" style="s2">to the polling<span style="s3"> place</span> itself and then if</p>
+<p begin="00:09:29.759" end="00:09:34.079" style="s2">there were any impediments along the way</p>
+<p begin="00:09:31.319" end="00:09:35.639" style="s2">and then finally we list interviews so</p>
+<p begin="00:09:34.079" end="00:09:37.679" style="s2">that&#39;s something<span style="s4"> that</span> we pretty much</p>
+<p begin="00:09:35.639" end="00:09:39.509" style="s2">always do we<span style="s3"> talk</span><span style="s4"> to</span> the agency</p>
+<p begin="00:09:37.679" end="00:09:42.569" style="s2">officials that implement or oversee a</p>
+<p begin="00:09:39.509" end="00:09:44.039" style="s2">program we will interview<span style="s3"> also</span> a wide</p>
+<p begin="00:09:42.569" end="00:09:46.739" style="s2">array of stakeholders to get a range of</p>
+<p begin="00:09:44.039" end="00:09:49.589" style="s2">views subject matter experts researchers</p>
+<p begin="00:09:46.739" end="00:09:50.759" style="s2">and academics industry associations and</p>
+<p begin="00:09:49.589" end="00:09:55.109" style="s2">others to help us collect that</p>
+<p begin="00:09:50.759" end="00:09:56.429" style="s2">qualitative information um so that&#39;s</p>
+<p begin="00:09:55.109" end="00:09:58.409" style="s2">kind of like all the broad overview</p>
+<p begin="00:09:56.429" end="00:10:00.149" style="s2">stuff and then we<span style="s3"> just</span> wanted to<span style="s3"> hit</span> on</p>
+<p begin="00:09:58.409" end="00:10:02.069" style="s2">three examples of reports to kind of</p>
+<p begin="00:10:00.149" end="00:10:03.599" style="s2">give you a little<span style="s3"> more</span> of an<span style="s3"> idea</span> of</p>
+<p begin="00:10:02.069" end="00:10:06.569" style="s2">what maybe we&#39;ve<span style="s4"> been</span> asked to do and</p>
+<p begin="00:10:03.599" end="00:10:08.669" style="s2">what some of the findings are so with</p>
+<p begin="00:10:06.569" end="00:10:11.129" style="s2">this first<span style="s3"> one</span> last year we did a report</p>
+<p begin="00:10:08.669" end="00:10:13.319" style="s2">on pedestrian and cyclist safety this</p>
+<p begin="00:10:11.129" end="00:10:15.659" style="s2"><span style="s3">was</span> a request that<span style="s3"> we</span> got<span style="s3"> in</span> both asking</p>
+<p begin="00:10:13.319" end="00:10:17.549" style="s2">us to look at what the trends were in</p>
+<p begin="00:10:15.659" end="00:10:19.979" style="s2">fatalities and injuries involving</p>
+<p begin="00:10:17.549" end="00:10:21.779" style="s2">pedestrians and cyclists and then also</p>
+<p begin="00:10:19.979" end="00:10:23.519" style="s2">kind of accompanying that with what</p>
+<p begin="00:10:21.779" end="00:10:26.009" style="s2">efforts are underway at the federal</p>
+<p begin="00:10:23.519" end="00:10:28.199" style="s2">government<span style="s4"> level</span> as<span style="s3"> well</span> as at states</p>
+<p begin="00:10:26.009" end="00:10:31.470" style="s2">and cities<span style="s4"> to</span> try to improve the safety</p>
+<p begin="00:10:28.199" end="00:10:33.089" style="s2">of these<span style="s3"> groups</span> so what we did kind<span style="s3"> of</span></p>
+<p begin="00:10:31.470" end="00:10:35.699" style="s2">to look at the data was we took to</p>
+<p begin="00:10:33.089" end="00:10:36.749" style="s2">publicly available data sources from the</p>
+<p begin="00:10:35.699" end="00:10:39.989" style="s2">National Highway Traffic Safety</p>
+<p begin="00:10:36.749" end="00:10:42.029" style="s2">Administration or<span style="s4"> Nitsa</span> one that they</p>
+<p begin="00:10:39.989" end="00:10:44.249" style="s2">have available<span style="s4"> is</span><span style="s3"> their</span><span style="s4"> FAR&#39;s</span> data it&#39;s</p>
+<p begin="00:10:42.029" end="00:10:46.049" style="s2">a census of all motor vehicle<span style="s4"> accidents</span></p>
+<p begin="00:10:44.249" end="00:10:48.659" style="s2"><span style="s4">that</span> involve fatality in the United</p>
+<p begin="00:10:46.049" end="00:10:52.019" style="s2">States the other one is<span style="s3"> their</span> general</p>
+<p begin="00:10:48.659" end="00:10:54.299" style="s2">estimate system or GES that is a sample</p>
+<p begin="00:10:52.019" end="00:10:56.279" style="s2">of all types of motor vehicle accidents</p>
+<p begin="00:10:54.299" end="00:10:59.099" style="s2">and it&#39;s waited to be nationally</p>
+<p begin="00:10:56.279" end="00:11:01.109" style="s2">representative so we took these two<span style="s4"> data</span></p>
+<p begin="00:10:59.099" end="00:11:03.209" style="s2">sets and first we just<span style="s3"> kind</span> of looked at</p>
+<p begin="00:11:01.109" end="00:11:06.629" style="s2">the change over the last<span style="s4"> ten</span> years so</p>
+<p begin="00:11:03.209" end="00:11:09.629" style="s2">from 2004 to 2010 we found<span style="s4"> that</span><span style="s3"> overall</span></p>
+<p begin="00:11:06.629" end="00:11:11.879" style="s2">the<span style="s4"> number</span> of fatalities went down motor</p>
+<p begin="00:11:09.629" end="00:11:13.889" style="s2"><span style="s3">vehicle</span> fatalities went down but<span style="s3"> if</span> you</p>
+<p begin="00:11:11.879" end="00:11:15.479" style="s2">looked at pedestrians and cyclists they</p>
+<p begin="00:11:13.889" end="00:11:19.679" style="s2">actually represented a growing portion</p>
+<p begin="00:11:15.479" end="00:11:21.749" style="s2">of all those fatalities so pedestrians</p>
+<p begin="00:11:19.679" end="00:11:23.549" style="s2">for example in 2004 made up just under</p>
+<p begin="00:11:21.749" end="00:11:26.339" style="s2">11 percent of all motor vehicle</p>
+<p begin="00:11:23.549" end="00:11:28.259" style="s2">fatalities and in 2013 they were up to</p>
+<p begin="00:11:26.339" end="00:11:31.139" style="s2"><span style="s3">14</span> and a half or<span style="s3"> about</span> fifteen percent</p>
+<p begin="00:11:28.259" end="00:11:32.459" style="s2">of<span style="s3"> all</span> of those fatalities so we kind of</p>
+<p begin="00:11:31.139" end="00:11:35.369" style="s2">gave the perspective of what had been</p>
+<p begin="00:11:32.459" end="00:11:36.360" style="s2">happening over time and then for 2013</p>
+<p begin="00:11:35.369" end="00:11:38.610" style="s2">which was the most</p>
+<p begin="00:11:36.360" end="00:11:41.010" style="s2"><span style="s3">so</span> you&#39;re available we try to<span style="s3"> do</span> some</p>
+<p begin="00:11:38.610" end="00:11:42.589" style="s2">further analysis of the<span style="s3"> crashes</span> with</p>
+<p begin="00:11:41.010" end="00:11:44.880" style="s2">fatalities with cyclists and pedestrians</p>
+<p begin="00:11:42.589" end="00:11:46.860" style="s2">to really give the attributes you know</p>
+<p begin="00:11:44.880" end="00:11:49.050" style="s2">where these crushes happening who are</p>
+<p begin="00:11:46.860" end="00:11:51.450" style="s2">they involving what time of day are they</p>
+<p begin="00:11:49.050" end="00:11:53.130" style="s2">happening things like that so this<span style="s3"> is</span></p>
+<p begin="00:11:51.450" end="00:11:55.589" style="s2">just a really<span style="s3"> quick</span> skim of some of the</p>
+<p begin="00:11:53.130" end="00:11:57.209" style="s2">data that<span style="s4"> we</span> worked with but<span style="s4"> the</span> report</p>
+<p begin="00:11:55.589" end="00:11:58.500" style="s2"><span style="s4">also</span> included like I said some</p>
+<p begin="00:11:57.209" end="00:12:00.480" style="s2">information on efforts at the federal</p>
+<p begin="00:11:58.500" end="00:12:03.810" style="s2">state and local level to try to<span style="s3"> address</span></p>
+<p begin="00:12:00.480" end="00:12:06.089" style="s2">some<span style="s3"> of</span> these issues and Becky yeah and</p>
+<p begin="00:12:03.810" end="00:12:09.149" style="s2">I&#39;m going to<span style="s3"> give</span> you some<span style="s3"> information</span></p>
+<p begin="00:12:06.089" end="00:12:13.019" style="s2">about health care report that came out</p>
+<p begin="00:12:09.149" end="00:12:14.130" style="s2">actually<span style="s4"> on</span><span style="s3"> yesterday</span> so you guys<span style="s4"> can go</span></p>
+<p begin="00:12:13.019" end="00:12:15.120" style="s2"><span style="s3">to</span> website it&#39;ll be kind of<span style="s3"> at</span> the<span style="s3"> top</span></p>
+<p begin="00:12:14.130" end="00:12:17.420" style="s2">of the list if<span style="s3"> you</span> want to see about</p>
+<p begin="00:12:15.120" end="00:12:21.630" style="s2"><span style="s3">generic</span> drug prices and Medicare Part D</p>
+<p begin="00:12:17.420" end="00:12:24.079" style="s2">this was a request also<span style="s4"> a</span> request</p>
+<p begin="00:12:21.630" end="00:12:27.779" style="s2">similar to<span style="s3"> Joanie&#39;s</span><span style="s4"> Joanie&#39;s</span> report</p>
+<p begin="00:12:24.079" end="00:12:29.760" style="s2">looking at generics and Part D so</p>
+<p begin="00:12:27.779" end="00:12:32.160" style="s2">Medicare Part D is the outpatient</p>
+<p begin="00:12:29.760" end="00:12:33.839" style="s2">prescription drug program for<span style="s3"> Medicare</span></p>
+<p begin="00:12:32.160" end="00:12:35.700" style="s2">which is the federal health care program</p>
+<p begin="00:12:33.839" end="00:12:38.160" style="s2">for folks over 65 those with end-stage</p>
+<p begin="00:12:35.700" end="00:12:41.760" style="s2">renal disease and some folks with with</p>
+<p begin="00:12:38.160" end="00:12:43.230" style="s2">disabilities and generic drug prices so</p>
+<p begin="00:12:41.760" end="00:12:45.690" style="s2">i want to<span style="s3"> make the distinction here</span></p>
+<p begin="00:12:43.230" end="00:12:48.899" style="s2">about brand<span style="s3"> versus</span> generic drug prices</p>
+<p begin="00:12:45.690" end="00:12:51.510" style="s2">so brand drugs can be incredibly</p>
+<p begin="00:12:48.899" end="00:12:54.390" style="s2">expensive sort of new breakthrough drugs</p>
+<p begin="00:12:51.510" end="00:12:57.180" style="s2">in most<span style="s3"> cases</span> but<span style="s3"> then</span> generic drugs</p>
+<p begin="00:12:54.390" end="00:12:59.339" style="s2">wants the most exclusivity and patent</p>
+<p begin="00:12:57.180" end="00:13:03.870" style="s2">status for those brand-name drugs</p>
+<p begin="00:12:59.339" end="00:13:05.899" style="s2">expires companies can<span style="s3"> apply</span> for<span style="s3"> they</span></p>
+<p begin="00:13:03.870" end="00:13:08.040" style="s2">have to prove the the bioequivalence to</p>
+<p begin="00:13:05.899" end="00:13:10.470" style="s2">that brand name drug and they can get</p>
+<p begin="00:13:08.040" end="00:13:11.970" style="s2">generic drugs drugs they can get</p>
+<p begin="00:13:10.470" end="00:13:15.240" style="s2">approved for selling generic drugs which</p>
+<p begin="00:13:11.970" end="00:13:17.640" style="s2">are incredibly extent a lot cheaper<span style="s4"> than</span></p>
+<p begin="00:13:15.240" end="00:13:20.370" style="s2"><span style="s3">brand-name</span> drugs uh something like 75 to</p>
+<p begin="00:13:17.640" end="00:13:21.930" style="s2">90 percent is the average<span style="s4"> price</span> decrease</p>
+<p begin="00:13:20.370" end="00:13:24.420" style="s2">when you look at brand versus generic</p>
+<p begin="00:13:21.930" end="00:13:27.449" style="s2">and so here we&#39;re<span style="s4"> looking</span> at just</p>
+<p begin="00:13:24.420" end="00:13:30.029" style="s2">generic drug prices in<span style="s3"> Part D I want to</span></p>
+<p begin="00:13:27.449" end="00:13:31.740" style="s2"><span style="s4">know too that it&#39;s kind of important how</span></p>
+<p begin="00:13:30.029" end="00:13:33.630" style="s2">you<span style="s3"> look</span> at drug price so we&#39;ve seen a</p>
+<p begin="00:13:31.740" end="00:13:36.480" style="s2">lot in<span style="s3"> the</span> media recently about about</p>
+<p begin="00:13:33.630" end="00:13:37.589" style="s2">drug prices and you just want to<span style="s3"> take</span> a</p>
+<p begin="00:13:36.480" end="00:13:40.380" style="s2">look<span style="s4"> at</span> kind of<span style="s3"> how</span> they&#39;re measuring</p>
+<p begin="00:13:37.589" end="00:13:43.019" style="s2">drug<span style="s4"> price as well you</span><span style="s3"> can</span> look at how</p>
+<p begin="00:13:40.380" end="00:13:45.149" style="s2">much the the list price<span style="s3"> how</span> much<span style="s3"> they&#39;re</span></p>
+<p begin="00:13:43.019" end="00:13:47.579" style="s2">asking the<span style="s4"> company&#39;s asking</span><span style="s3"> for</span> it how</p>
+<p begin="00:13:45.149" end="00:13:49.290" style="s2">much the person is supposed to pay how</p>
+<p begin="00:13:47.579" end="00:13:50.310" style="s2">much all these<span style="s3"> different</span> persons I want</p>
+<p begin="00:13:49.290" end="00:13:52.230" style="s2">to get<span style="s3"> this</span> right<span style="s4"> for</span> this</p>
+<p begin="00:13:50.310" end="00:13:54.870" style="s2">port we looked at the median per unit</p>
+<p begin="00:13:52.230" end="00:13:56.420" style="s2">ingredient costs for all claims for the</p>
+<p begin="00:13:54.870" end="00:14:00.300" style="s2"><span style="s3">drug</span> so that&#39;s another way of measuring</p>
+<p begin="00:13:56.420" end="00:14:01.560" style="s2">drug price in terms of data source to</p>
+<p begin="00:14:00.300" end="00:14:04.080" style="s2">answer the questions that<span style="s4"> we</span><span style="s3"> were</span> asked</p>
+<p begin="00:14:01.560" end="00:14:05.310" style="s2">about<span style="s3"> this</span> which is how prices have</p>
+<p begin="00:14:04.080" end="00:14:08.430" style="s2">changed if there have been any further</p>
+<p begin="00:14:05.310" end="00:14:09.360" style="s2">price<span style="s3"> increases</span> we used data<span style="s4"> from</span> the</p>
+<p begin="00:14:08.430" end="00:14:12.210" style="s2">Centers for Medicare and Medicaid</p>
+<p begin="00:14:09.360" end="00:14:15.230" style="s2"><span style="s4">Services</span> their prescription the</p>
+<p begin="00:14:12.210" end="00:14:17.520" style="s2">prescription drug event data which our</p>
+<p begin="00:14:15.230" end="00:14:20.880" style="s2">pharmacy claims for all prescription</p>
+<p begin="00:14:17.520" end="00:14:22.410" style="s2">drugs dispensed under Part D and just</p>
+<p begin="00:14:20.880" end="00:14:24.779" style="s2">kind of a caveat on this although<span style="s3"> that</span></p>
+<p begin="00:14:22.410" end="00:14:26.520" style="s2">Part D data is not publicly available</p>
+<p begin="00:14:24.779" end="00:14:29.100" style="s2">Medicare I don&#39;t know you guys probably</p>
+<p begin="00:14:26.520" end="00:14:31.350" style="s2">seen in the news that Medicare had a big</p>
+<p begin="00:14:29.100" end="00:14:33.120" style="s2">push towards transparency in their data</p>
+<p begin="00:14:31.350" end="00:14:34.980" style="s2">they&#39;ve actually recently published a</p>
+<p begin="00:14:33.120" end="00:14:37.560" style="s2">lot of information<span style="s3"> about</span> provider</p>
+<p begin="00:14:34.980" end="00:14:39.420" style="s2">utilization and payment data so there if</p>
+<p begin="00:14:37.560" end="00:14:41.310" style="s2">you go to CMS&#39;s website there&#39;s quite a</p>
+<p begin="00:14:39.420" end="00:14:43.680" style="s2">bit of<span style="s3"> information</span> in terms<span style="s3"> of</span><span style="s4"> of</span></p>
+<p begin="00:14:41.310" end="00:14:46.050" style="s2">different<span style="s3"> files</span> that you can<span style="s3"> download</span> in</p>
+<p begin="00:14:43.680" end="00:14:47.880" style="s2">addition<span style="s4"> to</span> the<span style="s3"> two</span> that<span style="s3"> Medicare</span> data</p>
+<p begin="00:14:46.050" end="00:14:49.890" style="s2">there&#39;s a bunch of<span style="s3"> Medicaid</span> data that&#39;s</p>
+<p begin="00:14:47.880" end="00:14:52.500" style="s2">that&#39;s available Medicaid analytic</p>
+<p begin="00:14:49.890" end="00:14:54.120" style="s2">extract there&#39;s also other spending<span style="s3"> data</span></p>
+<p begin="00:14:52.500" end="00:14:56.040" style="s2">such as the national health expenditure</p>
+<p begin="00:14:54.120" end="00:14:58.050" style="s2">data which comes<span style="s3"> from</span> CMS is offices of</p>
+<p begin="00:14:56.040" end="00:15:00.900" style="s2">the actuary estimates of overall</p>
+<p begin="00:14:58.050" end="00:15:03.570" style="s2">spending in different categories and I</p>
+<p begin="00:15:00.900" end="00:15:06.450" style="s2">just<span style="s3"> want</span><span style="s4"> to</span> point you guys to D nav CMS</p>
+<p begin="00:15:03.570" end="00:15:08.940" style="s2">go which has you know<span style="s3"> basically</span> you can</p>
+<p begin="00:15:06.450" end="00:15:10.380" style="s2">search on any program at CMS and and</p>
+<p begin="00:15:08.940" end="00:15:12.900" style="s2">find out what data is publicly available</p>
+<p begin="00:15:10.380" end="00:15:16.230" style="s2">for those so getting back<span style="s4"> to</span> the<span style="s3"> report</span></p>
+<p begin="00:15:12.900" end="00:15:18.630" style="s2">at hand what we did with<span style="s4"> the</span> with<span style="s4"> the</span></p>
+<p begin="00:15:16.230" end="00:15:21.690" style="s2">claims data was developed two baskets of</p>
+<p begin="00:15:18.630" end="00:15:24.350" style="s2">drugs one where we&#39;re looking at<span style="s3"> a</span></p>
+<p begin="00:15:21.690" end="00:15:27.210" style="s2">changing basket of generic drugs that is</p>
+<p begin="00:15:24.350" end="00:15:29.700" style="s2">between 2010 and 2015 any drugs that</p>
+<p begin="00:15:27.210" end="00:15:31.020" style="s2">were kind of on the<span style="s3"> market</span> for during</p>
+<p begin="00:15:29.700" end="00:15:32.910" style="s2">that whole period but then also that</p>
+<p begin="00:15:31.020" end="00:15:34.500" style="s2">came on and off the market and<span style="s3"> then</span> we</p>
+<p begin="00:15:32.910" end="00:15:36.990" style="s2">also looked at an established basket so</p>
+<p begin="00:15:34.500" end="00:15:39.510" style="s2">that&#39;s just drugs that were had claims</p>
+<p begin="00:15:36.990" end="00:15:41.670" style="s2">for the entire period and what we found</p>
+<p begin="00:15:39.510" end="00:15:44.459" style="s2"><span style="s3">was</span> that there was a sixty percent</p>
+<p begin="00:15:41.670" end="00:15:47.520" style="s2">decrease in drug like overall generic</p>
+<p begin="00:15:44.459" end="00:15:49.020" style="s2">drug price under Part D for those that</p>
+<p begin="00:15:47.520" end="00:15:51.570" style="s2">changing basket of generic<span style="s4"> drugs</span> so</p>
+<p begin="00:15:49.020" end="00:15:55.050" style="s2">that&#39;s the foul line<span style="s3"> and</span> then<span style="s4"> the</span> sort</p>
+<p begin="00:15:51.570" end="00:15:56.880" style="s2"><span style="s3">of</span> a smaller decrease for that</p>
+<p begin="00:15:55.050" end="00:15:58.440" style="s2">established basket of drugs and so what</p>
+<p begin="00:15:56.880" end="00:16:01.080" style="s2">that kind of tells us is that a lot<span style="s4"> of</span></p>
+<p begin="00:15:58.440" end="00:16:03.290" style="s2"><span style="s4">the</span> price decline for generic drugs is</p>
+<p begin="00:16:01.080" end="00:16:06.620" style="s2">related to new drugs new generics coming</p>
+<p begin="00:16:03.290" end="00:16:08.810" style="s2">the market or going<span style="s3"> off</span> the market but<span style="s4"> I</span></p>
+<p begin="00:16:06.620" end="00:16:11.690" style="s2"><span style="s4">note</span> again just it&#39;s<span style="s3"> going</span> down so drug</p>
+<p begin="00:16:08.810" end="00:16:14.209" style="s2">prices overall are decreasing at least</p>
+<p begin="00:16:11.690" end="00:16:16.579" style="s2">in part d for those drugs<span style="s4"> that</span> are being</p>
+<p begin="00:16:14.209" end="00:16:18.290" style="s2"><span style="s3">used</span> in<span style="s4"> part d and then we</span><span style="s3"> also</span> looked</p>
+<p begin="00:16:16.579" end="00:16:21.470" style="s2">at mention at extraordinary drug prices</p>
+<p begin="00:16:18.290" end="00:16:24.380" style="s2">which<span style="s4"> Gao</span> defines as a price increase of</p>
+<p begin="00:16:21.470" end="00:16:26.449" style="s2">100<span style="s3"> or</span> more percent over a given year</p>
+<p begin="00:16:24.380" end="00:16:28.100" style="s2">that&#39;s what we<span style="s3"> did</span> for this<span style="s4"> report</span> and</p>
+<p begin="00:16:26.449" end="00:16:29.149" style="s2">we found<span style="s3"> that</span> for the basket of drugs</p>
+<p begin="00:16:28.100" end="00:16:31.220" style="s2"><span style="s3">that</span> we were looking<span style="s4"> at</span> is just the</p>
+<p begin="00:16:29.149" end="00:16:32.870" style="s2">established basket so those for the</p>
+<p begin="00:16:31.220" end="00:16:34.940" style="s2">whole time period we<span style="s3"> found that about</span></p>
+<p begin="00:16:32.870" end="00:16:37.100" style="s2">300 of those had an extraordinary price</p>
+<p begin="00:16:34.940" end="00:16:40.279" style="s2">increase and so what you&#39;re kind of</p>
+<p begin="00:16:37.100" end="00:16:42.050" style="s2">looking at here<span style="s4"> is</span> over time those are</p>
+<p begin="00:16:40.279" end="00:16:44.089" style="s2">specific drugs that had a price increase</p>
+<p begin="00:16:42.050" end="00:16:45.380" style="s2">of one hundred to two hundred percent</p>
+<p begin="00:16:44.089" end="00:16:49.339" style="s2">all the way up to a thousand or more</p>
+<p begin="00:16:45.380" end="00:16:51.410" style="s2">percent and so we found that while there</p>
+<p begin="00:16:49.339" end="00:16:52.970" style="s2">were<span style="s4"> 300</span> drugs with<span style="s3"> external</span> price</p>
+<p begin="00:16:51.410" end="00:16:54.319" style="s2">increases most of them were<span style="s4"> in</span> the one</p>
+<p begin="00:16:52.970" end="00:16:56.420" style="s2">hundred to two hundred percent range</p>
+<p begin="00:16:54.319" end="00:17:00.560" style="s2">very few of<span style="s3"> them</span> were a thousand percent</p>
+<p begin="00:16:56.420" end="00:17:03.440" style="s2"><span style="s3">or</span> more and kind of one interesting note</p>
+<p begin="00:17:00.560" end="00:17:06.500" style="s2">that I<span style="s3"> thought</span> as<span style="s4"> well</span> even<span style="s3"> though</span> you</p>
+<p begin="00:17:03.440" end="00:17:08.270" style="s2">might have a price increase of 100 600</p>
+<p begin="00:17:06.500" end="00:17:10.730" style="s2"><span style="s4">to</span> two hundred<span style="s3"> percent</span> or more you<span style="s3"> might</span></p>
+<p begin="00:17:08.270" end="00:17:12.709" style="s2">still<span style="s3"> be</span><span style="s4"> looking</span> at very small prices so</p>
+<p begin="00:17:10.730" end="00:17:14.419" style="s2">I<span style="s3"> think</span> hydrocortisone for example had a</p>
+<p begin="00:17:12.709" end="00:17:16.400" style="s2"><span style="s3">hundred</span> six hundred and sixty percent</p>
+<p begin="00:17:14.419" end="00:17:19.490" style="s2">price increase for one of these time</p>
+<p begin="00:17:16.400" end="00:17:22.010" style="s2">periods and it went<span style="s3"> from</span><span style="s4"> like</span> 14 cents</p>
+<p begin="00:17:19.490" end="00:17:24.770" style="s2">to fifty cents per per dose of the cream</p>
+<p begin="00:17:22.010" end="00:17:26.360" style="s2">something like that that was interesting</p>
+<p begin="00:17:24.770" end="00:17:29.419" style="s2"><span style="s3">sort</span><span style="s4"> of</span> another interesting point about</p>
+<p begin="00:17:26.360" end="00:17:31.700" style="s2">this is that again in general generic</p>
+<p begin="00:17:29.419" end="00:17:33.380" style="s2">drug prices going down but of the drugs</p>
+<p begin="00:17:31.700" end="00:17:35.390" style="s2">that had extraordinary price increases</p>
+<p begin="00:17:33.380" end="00:17:38.590" style="s2">most of them were not of the most</p>
+<p begin="00:17:35.390" end="00:17:40.429" style="s2">utilized drugs heavily utilized drugs so</p>
+<p begin="00:17:38.590" end="00:17:42.320" style="s2">there&#39;s an interesting interesting</p>
+<p begin="00:17:40.429" end="00:17:43.730" style="s2">report it&#39;s out there right now if you</p>
+<p begin="00:17:42.320" end="00:17:45.440" style="s2">have any interest in kind of like an</p>
+<p begin="00:17:43.730" end="00:17:47.090" style="s2">overview of<span style="s3"> the drug industry as well</span></p>
+<p begin="00:17:45.440" end="00:17:49.159" style="s2">GAO reports are good for that this one</p>
+<p begin="00:17:47.090" end="00:17:50.809" style="s2">in particular for<span style="s3"> this</span> we also looked at</p>
+<p begin="00:17:49.159" end="00:17:52.190" style="s2">kind of what are the reasons behind drug</p>
+<p begin="00:17:50.809" end="00:17:53.780" style="s2">price increases we did a lot<span style="s3"> of those</span></p>
+<p begin="00:17:52.190" end="00:17:56.540" style="s2">interviews to kind of with experts to</p>
+<p begin="00:17:53.780" end="00:18:00.559" style="s2">figure out why so that<span style="s3"> that&#39;s</span> a</p>
+<p begin="00:17:56.540" end="00:18:02.450" style="s2"><span style="s3">healthcare</span> example<span style="s3"> all right and</span><span style="s4"> I</span> have</p>
+<p begin="00:18:00.559" end="00:18:05.809" style="s2"><span style="s4">I</span><span style="s3"> have</span> the last example so hang in there</p>
+<p begin="00:18:02.450" end="00:18:08.870" style="s2"><span style="s3">I</span> picked this example because<span style="s3"> I</span> worked</p>
+<p begin="00:18:05.809" end="00:18:11.090" style="s2">on on one of these<span style="s4"> reports</span> and<span style="s3"> AIG</span> is</p>
+<p begin="00:18:08.870" end="00:18:14.480" style="s2">hopefully familiar to you from the<span style="s3"> news</span></p>
+<p begin="00:18:11.090" end="00:18:16.220" style="s2"><span style="s4">and</span> in 2008 so in September 2008 right</p>
+<p begin="00:18:14.480" end="00:18:19.100" style="s2">after the fall of Lehman</p>
+<p begin="00:18:16.220" end="00:18:22.610" style="s2">the government<span style="s4"> gate</span> provided<span style="s3"> AIG</span> with</p>
+<p begin="00:18:19.100" end="00:18:25.909" style="s2">federal assistance of over 100 200 282</p>
+<p begin="00:18:22.610" end="00:18:27.890" style="s2">billion dollars so this the<span style="s3"> government</span></p>
+<p begin="00:18:25.909" end="00:18:29.659" style="s2">so basically<span style="s3"> what</span> you did is they</p>
+<p begin="00:18:27.890" end="00:18:30.830" style="s2">provided a breakdown of the types of</p>
+<p begin="00:18:29.659" end="00:18:34.179" style="s2">federal<span style="s3"> systems</span> because they<span style="s3"> took</span> many</p>
+<p begin="00:18:30.830" end="00:18:36.890" style="s2">forms and it also we created a bunch of</p>
+<p begin="00:18:34.179" end="00:18:39.409" style="s2">metrics for Congress to follow they were</p>
+<p begin="00:18:36.890" end="00:18:43.460" style="s2">risk and repayment metrics and we</p>
+<p begin="00:18:39.409" end="00:18:45.890" style="s2">reported on this through time and so so</p>
+<p begin="00:18:43.460" end="00:18:48.950" style="s2">I I think this<span style="s4"> is this is a good example</span></p>
+<p begin="00:18:45.890" end="00:18:50.539" style="s2">of how<span style="s4"> we</span> use a lot of publicly</p>
+<p begin="00:18:48.950" end="00:18:54.020" style="s2">available information from different</p>
+<p begin="00:18:50.539" end="00:18:55.580" style="s2">sources to kind of provide good</p>
+<p begin="00:18:54.020" end="00:18:58.850" style="s2">indicators for Congress and the public</p>
+<p begin="00:18:55.580" end="00:19:01.039" style="s2">if we&#39;re we&#39;re concerned about the</p>
+<p begin="00:18:58.850" end="00:19:02.900" style="s2">federal assistance to AIG and see if</p>
+<p begin="00:19:01.039" end="00:19:05.120" style="s2">they&#39;re the status of the assistance so</p>
+<p begin="00:19:02.900" end="00:19:07.610" style="s2">so like I said the you know the</p>
+<p begin="00:19:05.120" end="00:19:09.620" style="s2">assistant took the assistance took many</p>
+<p begin="00:19:07.610" end="00:19:13.419" style="s2">forms there was a line of<span style="s3"> credit</span> it</p>
+<p begin="00:19:09.620" end="00:19:15.980" style="s2">Treasury bought a lot<span style="s4"> of</span> stock on AIG</p>
+<p begin="00:19:13.419" end="00:19:20.150" style="s2">Federal Reserve bought a lot<span style="s4"> of</span> bad</p>
+<p begin="00:19:15.980" end="00:19:22.280" style="s2">assets from AIG so so we explained all</p>
+<p begin="00:19:20.150" end="00:19:25.490" style="s2">that and one of these graphs is an</p>
+<p begin="00:19:22.280" end="00:19:29.990" style="s2">example of the repayment progress of</p>
+<p begin="00:19:25.490" end="00:19:32.330" style="s2">federal assistance to AIG and this is an</p>
+<p begin="00:19:29.990" end="00:19:34.880" style="s2">example<span style="s4"> of</span> a useful<span style="s3"> metric</span> I think<span style="s3"> that</span></p>
+<p begin="00:19:32.330" end="00:19:36.590" style="s2">we provided Congress at least in May</p>
+<p begin="00:19:34.880" end="00:19:38.330" style="s2">2012 we reported that Treasury would</p>
+<p begin="00:19:36.590" end="00:19:40.100" style="s2">have had to sell its energy common stock</p>
+<p begin="00:19:38.330" end="00:19:42.409" style="s2">for at least an average share price of</p>
+<p begin="00:19:40.100" end="00:19:46.070" style="s2">twenty nine dollars and seventy cents to</p>
+<p begin="00:19:42.409" end="00:19:49.340" style="s2">fully recover its assistance so so you</p>
+<p begin="00:19:46.070" end="00:19:53.539" style="s2">know if<span style="s3"> you</span> see here in early 2011</p>
+<p begin="00:19:49.340" end="00:19:57.669" style="s2">Treasury own<span style="s3"> ninety two percent of AIG</span></p>
+<p begin="00:19:53.539" end="00:20:01.070" style="s2">stock that&#39;s flat the last so eventually</p>
+<p begin="00:19:57.669" end="00:20:05.020" style="s2"><span style="s3">Treasury</span> sold sold all<span style="s3"> its</span> AG stock at</p>
+<p begin="00:20:01.070" end="00:20:07.700" style="s2">the end of 2012 but but again this</p>
+<p begin="00:20:05.020" end="00:20:11.809" style="s2">putting<span style="s3"> these</span> measures together implied</p>
+<p begin="00:20:07.700" end="00:20:13.610" style="s2">looking at a lot of AIG securities like</p>
+<p begin="00:20:11.809" end="00:20:17.210" style="s2">SEC filings you know which are<span style="s3"> really</span></p>
+<p begin="00:20:13.610" end="00:20:19.309" style="s2">big and we want to do that<span style="s3"> and</span> Federal</p>
+<p begin="00:20:17.210" end="00:20:21.020" style="s2">Reserve would report on what of what</p>
+<p begin="00:20:19.309" end="00:20:22.640" style="s2"><span style="s3">their</span> involvement looked like and what</p>
+<p begin="00:20:21.020" end="00:20:24.169" style="s2">their the valuation of<span style="s3"> the</span> assets they</p>
+<p begin="00:20:22.640" end="00:20:26.870" style="s2">bought for example and<span style="s4"> then</span> Treasury</p>
+<p begin="00:20:24.169" end="00:20:28.700" style="s2">would report on on the repayments to</p>
+<p begin="00:20:26.870" end="00:20:29.480" style="s2">their line of credit for example so so</p>
+<p begin="00:20:28.700" end="00:20:31.540" style="s2">it&#39;s I</p>
+<p begin="00:20:29.480" end="00:20:35.570" style="s2">it&#39;s a<span style="s3"> nice</span> way<span style="s3"> to</span> just kind of</p>
+<p begin="00:20:31.540" end="00:20:37.520" style="s2">succinctly tell<span style="s3"> Congress</span> what what you</p>
+<p begin="00:20:35.570" end="00:20:42.799" style="s2">know<span style="s3"> how</span> the repayment look like through</p>
+<p begin="00:20:37.520" end="00:20:45.620" style="s2">time<span style="s4"> okay</span> so and then I<span style="s4"> also</span> have the</p>
+<p begin="00:20:42.799" end="00:20:46.669" style="s2">easiest slide this is our final slide we</p>
+<p begin="00:20:45.620" end="00:20:50.900" style="s2">just want to tell you that<span style="s4"> all</span> our</p>
+<p begin="00:20:46.669" end="00:20:53.450" style="s2">reports are available at Gao w govt you</p>
+<p begin="00:20:50.900" end="00:20:55.610" style="s2">can sign up<span style="s4"> to</span> get emails with like the</p>
+<p begin="00:20:53.450" end="00:20:57.860" style="s2">titles which are often tell you a lot</p>
+<p begin="00:20:55.610" end="00:21:00.110" style="s2">about the reports about of any</p>
+<p begin="00:20:57.860" end="00:21:01.669" style="s2">particular area that you like<span style="s4"> Amira</span></p>
+<p begin="00:21:00.110" end="00:21:04.340" style="s2">every month they&#39;ll tell you what<span style="s3"> the</span></p>
+<p begin="00:21:01.669" end="00:21:07.250" style="s2">what the main reports are in that area</p>
+<p begin="00:21:04.340" end="00:21:12.049" style="s2">we&#39;re also on Facebook Twitter or other</p>
+<p begin="00:21:07.250" end="00:21:15.410" style="s2">social media and we have podcasts on our</p>
+<p begin="00:21:12.049" end="00:21:18.620" style="s2">most popular reports and we have a blog</p>
+<p begin="00:21:15.410" end="00:21:22.070" style="s2">that<span style="s3"> some</span> people read about the watch</p>
+<p begin="00:21:18.620" end="00:21:23.780" style="s2"><span style="s3">vlog</span> including you there um anyway so</p>
+<p begin="00:21:22.070" end="00:21:29.750" style="s2">let me stop there and open it up for</p>
+<p begin="00:21:23.780" end="00:21:33.080" style="s2">questions yeah thank you yes<span style="s4"> question</span></p>
+<p begin="00:21:29.750" end="00:21:35.630" style="s2">about could you<span style="s3"> speak</span> anything about</p>
+<p begin="00:21:33.080" end="00:21:38.930" style="s2">what we don&#39;t know</p>
+<p begin="00:21:35.630" end="00:21:41.530" style="s2">government building like spending budget</p>
+<p begin="00:21:38.930" end="00:21:44.300" style="s2">smell myself and I know<span style="s4"> there&#39;s</span> certain</p>
+<p begin="00:21:41.530" end="00:21:51.320" style="s2">aspects<span style="s4"> of</span> the government that&#39;s kind of</p>
+<p begin="00:21:44.300" end="00:21:54.410" style="s2">just like a black hole so I mean</p>
+<p begin="00:21:51.320" end="00:21:57.830" style="s2">what-what else say is that from my</p>
+<p begin="00:21:54.410" end="00:22:00.740" style="s2">experience I&#39;ve been in jail for oh my</p>
+<p begin="00:21:57.830" end="00:22:02.930" style="s2">gosh eight years<span style="s4"> I</span> think things that</p>
+<p begin="00:22:00.740" end="00:22:06.080" style="s2">that are interested that hit the<span style="s3"> media</span></p>
+<p begin="00:22:02.930" end="00:22:09.230" style="s2">like AIG assistance I we also had<span style="s3"> I</span> also</p>
+<p begin="00:22:06.080" end="00:22:12.170" style="s2">worked on our on a job on food recalls</p>
+<p begin="00:22:09.230" end="00:22:15.050" style="s2">at schools after a<span style="s3"> large</span> food recall in</p>
+<p begin="00:22:12.170" end="00:22:17.540" style="s2">California of me and so like if it has a</p>
+<p begin="00:22:15.050" end="00:22:21.080" style="s2">lot of media attention tip if they&#39;re</p>
+<p begin="00:22:17.540" end="00:22:23.390" style="s2">there sometimes the congressman member</p>
+<p begin="00:22:21.080" end="00:22:25.520" style="s2">of Congress will be interested in just</p>
+<p begin="00:22:23.390" end="00:22:27.320" style="s2">obtaining some information on that so</p>
+<p begin="00:22:25.520" end="00:22:32.390" style="s2">and we do have<span style="s4"> access</span> to the to the</p>
+<p begin="00:22:27.320" end="00:22:34.520" style="s2">regulators and their documents so but it</p>
+<p begin="00:22:32.390" end="00:22:36.490" style="s2">would be<span style="s3"> up</span> to the team to figure out</p>
+<p begin="00:22:34.520" end="00:22:38.780" style="s2">how to answer that particular question</p>
+<p begin="00:22:36.490" end="00:22:41.780" style="s2">yeah I don&#39;t<span style="s3"> think</span><span style="s4"> they&#39;re</span> restricted in</p>
+<p begin="00:22:38.780" end="00:22:43.910" style="s2">what<span style="s3"> they</span> can<span style="s3"> ask</span> right I&#39;ll go to be</p>
+<p begin="00:22:41.780" end="00:22:45.680" style="s2">like Gao very small percentage of<span style="s3"> our</span></p>
+<p begin="00:22:43.910" end="00:22:48.020" style="s2">work comes from comptroller<span style="s3"> general</span></p>
+<p begin="00:22:45.680" end="00:22:52.150" style="s2">authority so things<span style="s3"> that</span> we think are</p>
+<p begin="00:22:48.020" end="00:22:52.150" style="s2">important will do work on as well</p>
+<p begin="00:22:55.540" end="00:23:03.350" style="s2">so it seems<span style="s3"> like you guys generate a lot</span></p>
+<p begin="00:23:01.610" end="00:23:08.810" style="s2">of work<span style="s4"> and</span> reports and all this kind of</p>
+<p begin="00:23:03.350" end="00:23:12.080" style="s2">stuff but I don&#39;t know I mean how often</p>
+<p begin="00:23:08.810" end="00:23:14.480" style="s2">do you see actual change because like</p>
+<p begin="00:23:12.080" end="00:23:16.820" style="s2">you know if you go back<span style="s4"> to</span> like ladies</p>
+<p begin="00:23:14.480" end="00:23:19.580" style="s2">early 90s you see a lot of reports on</p>
+<p begin="00:23:16.820" end="00:23:21.350" style="s2">like you know the learning rate of</p>
+<p begin="00:23:19.580" end="00:23:24.080" style="s2">incarceration in the<span style="s3"> United</span> States<span style="s4"> and</span></p>
+<p begin="00:23:21.350" end="00:23:29.000" style="s2">like the drug war is bad coming out of</p>
+<p begin="00:23:24.080" end="00:23:31.130" style="s2"><span style="s4">JL</span> but like here we are still<span style="s4"> there</span> yeah</p>
+<p begin="00:23:29.000" end="00:23:32.360" style="s2"><span style="s3">i</span> mean<span style="s4"> what</span> i will say is so we have a</p>
+<p begin="00:23:31.130" end="00:23:36.380" style="s2">we have a performance and accountability</p>
+<p begin="00:23:32.360" end="00:23:38.120" style="s2">report just<span style="s3"> like</span> so a lot of our reports</p>
+<p begin="00:23:36.380" end="00:23:40.190" style="s2">result in recommendations and one way</p>
+<p begin="00:23:38.120" end="00:23:41.960" style="s2"><span style="s4">that</span> we<span style="s3"> measure</span> our progress is the the</p>
+<p begin="00:23:40.190" end="00:23:43.880" style="s2">recommendations implemented so that is</p>
+<p begin="00:23:41.960" end="00:23:45.200" style="s2">something<span style="s3"> that</span> we track over time and<span style="s4"> i</span></p>
+<p begin="00:23:43.880" end="00:23:46.730" style="s2">believe our goal is eighty percent of</p>
+<p begin="00:23:45.200" end="00:23:48.680" style="s2">recommendations implemented and so</p>
+<p begin="00:23:46.730" end="00:23:50.810" style="s2">that&#39;s a goal that we said and<span style="s3"> we</span> very</p>
+<p begin="00:23:48.680" end="00:23:52.010" style="s2">often hit so we are trying<span style="s4"> to</span><span style="s3"> put</span> those</p>
+<p begin="00:23:50.810" end="00:23:53.150" style="s2">recommendations out there and then</p>
+<p begin="00:23:52.010" end="00:23:56.720" style="s2">following up to see that they are</p>
+<p begin="00:23:53.150" end="00:23:58.400" style="s2">implemented I can&#39;t say<span style="s3"> the</span> one hundred</p>
+<p begin="00:23:56.720" end="00:23:59.960" style="s2">percent get implemented but I mean</p>
+<p begin="00:23:58.400" end="00:24:02.450" style="s2">that&#39;s at least something that that we</p>
+<p begin="00:23:59.960" end="00:24:05.870" style="s2">do try to track and we<span style="s3"> do</span> try to push to</p>
+<p begin="00:24:02.450" end="00:24:07.370" style="s2">get those things taken care of I will</p>
+<p begin="00:24:05.870" end="00:24:10.160" style="s2">say like it is interesting when you do</p>
+<p begin="00:24:07.370" end="00:24:11.990" style="s2">see yourself get implemented so like the</p>
+<p begin="00:24:10.160" end="00:24:14.870" style="s2">VA wait time stuff<span style="s3"> I</span> love using<span style="s3"> this</span></p>
+<p begin="00:24:11.990" end="00:24:17.300" style="s2">example several years<span style="s4"> ago</span><span style="s3"> I</span><span style="s4"> told</span> them</p>
+<p begin="00:24:14.870" end="00:24:19.130" style="s2">their data was crap they changed<span style="s3"> that</span> I</p>
+<p begin="00:24:17.300" end="00:24:20.510" style="s2">mean<span style="s4"> there</span> the IG said it as well<span style="s4"> but</span></p>
+<p begin="00:24:19.130" end="00:24:24.350" style="s2"><span style="s4">like</span> you know they did make changes to</p>
+<p begin="00:24:20.510" end="00:24:26.330" style="s2">improve how they were collecting if</p>
+<p begin="00:24:24.350" end="00:24:28.130" style="s2">somebody wanted to<span style="s3"> get</span> a study done or</p>
+<p begin="00:24:26.330" end="00:24:30.500" style="s2">find out about<span style="s3"> something</span> they just call</p>
+<p begin="00:24:28.130" end="00:24:32.120" style="s2">you office and it&#39;s just what&#39;s<span style="s3"> up</span></p>
+<p begin="00:24:30.500" end="00:24:34.130" style="s2">recipe you would<span style="s3"> Vegas</span> call your</p>
+<p begin="00:24:32.120" end="00:24:36.860" style="s2">congressperson and they would request</p>
+<p begin="00:24:34.130" end="00:24:38.990" style="s2">and so yeah there&#39;s an office that deals</p>
+<p begin="00:24:36.860" end="00:24:41.090" style="s2">with Congress we don&#39;t they don&#39;t let us</p>
+<p begin="00:24:38.990" end="00:24:42.470" style="s2">there&#39;s there&#39;s a comment process where</p>
+<p begin="00:24:41.090" end="00:24:44.810" style="s2">basically any member of Congress can</p>
+<p begin="00:24:42.470" end="00:24:46.520" style="s2">submit a request letter and we have a</p>
+<p begin="00:24:44.810" end="00:24:47.540" style="s2">process<span style="s3"> to</span> kind of take in all of those</p>
+<p begin="00:24:46.520" end="00:24:50.240" style="s2">requests because we have limited</p>
+<p begin="00:24:47.540" end="00:24:52.430" style="s2">resources and times like like other</p>
+<p begin="00:24:50.240" end="00:24:54.620" style="s2">agencies and other organizations and so</p>
+<p begin="00:24:52.430" end="00:24:56.660" style="s2">those get put into a prioritization and</p>
+<p begin="00:24:54.620" end="00:24:58.880" style="s2">we we get that work as quickly as we<span style="s3"> can</span></p>
+<p begin="00:24:56.660" end="00:25:00.380" style="s2">and the result are exceeding the reports</p>
+<p begin="00:24:58.880" end="00:25:01.940" style="s2">that<span style="s3"> are</span> requested through mandates are</p>
+<p begin="00:25:00.380" end="00:25:03.440" style="s2">things that often have a time limit so</p>
+<p begin="00:25:01.940" end="00:25:06.550" style="s2"><span style="s4">those</span><span style="s3"> are</span> things we have to report on in</p>
+<p begin="00:25:03.440" end="00:25:08.500" style="s2">a year or three years so those also<span style="s3"> have</span></p>
+<p begin="00:25:06.550" end="00:25:17.200" style="s2">more of a deadline<span style="s4"> and</span> prioritization</p>
+<p begin="00:25:08.500" end="00:25:22.000" style="s2">then push that was about for you so Kim</p>
+<p begin="00:25:17.200" end="00:25:23.530" style="s2">journalist for<span style="s3"> the</span><span style="s4"> ga</span> so I mean the</p>
+<p begin="00:25:22.000" end="00:25:25.090" style="s2">short answer is geo is not subject to</p>
+<p begin="00:25:23.530" end="00:25:29.050" style="s2">FOIA but we follow a<span style="s3"> four yo like</span></p>
+<p begin="00:25:25.090" end="00:25:36.100" style="s2">process Freedom of Information Act yeah</p>
+<p begin="00:25:29.050" end="00:25:37.570" style="s2">I mean<span style="s4"> I</span> guess I don&#39;t really I can&#39;t</p>
+<p begin="00:25:36.100" end="00:25:39.280" style="s2">speak to the specifics of it right now i</p>
+<p begin="00:25:37.570" end="00:25:41.860" style="s2">can give you so I mean it<span style="s3"> is</span> on our</p>
+<p begin="00:25:39.280" end="00:25:43.690" style="s2">website kind of what that process is but</p>
+<p begin="00:25:41.860" end="00:25:47.100" style="s2">it&#39;s similar in it tries to follow the</p>
+<p begin="00:25:43.690" end="00:25:49.420" style="s2">spirit of FOIA but we have a different</p>
+<p begin="00:25:47.100" end="00:25:50.590" style="s2">the authorization in our creation is a</p>
+<p begin="00:25:49.420" end="00:25:53.050" style="s2">little bit different so we aren&#39;t</p>
+<p begin="00:25:50.590" end="00:25:55.360" style="s2">subject to it directly like for<span style="s4"> example</span></p>
+<p begin="00:25:53.050" end="00:25:57.310" style="s2">we use agency data we would I think</p>
+<p begin="00:25:55.360" end="00:26:00.100" style="s2">direct them to bend that agency yeah</p>
+<p begin="00:25:57.310" end="00:26:03.070" style="s2">right yeah I<span style="s3"> mean</span> you saw in the reports</p>
+<p begin="00:26:00.100" end="00:26:04.870" style="s2">we the agency data is our primary source</p>
+<p begin="00:26:03.070" end="00:26:07.030" style="s2">well in<span style="s4"> my</span> experience that we use a lot</p>
+<p begin="00:26:04.870" end="00:26:13.080" style="s2">of agency data and a lot of that is</p>
+<p begin="00:26:07.030" end="00:26:13.080" style="s2">public also but but<span style="s3"> it</span> is on the<span style="s4"> website</span></p>
+<p begin="00:26:13.680" end="00:26:26.560" style="s2">I have never put in a awesome yeah we&#39;re</p>
+<p begin="00:26:20.920" end="00:26:28.330" style="s2">least annoying sir boy is a<span style="s3"> film of</span></p>
+<p begin="00:26:26.560" end="00:26:32.550" style="s2"><span style="s3">Information Act request if you go to</span></p>
+<p begin="00:26:28.330" end="00:26:32.550" style="s2">detect<span style="s3"> one on one</span><span style="s4"> whole</span> exploded players</p>
+<p begin="00:26:54.380" end="00:27:03.960" style="s2">I mean I<span style="s3"> guess</span> the assurance that<span style="s3"> isn&#39;t</span></p>
+<p begin="00:27:01.830" end="00:27:06.120" style="s2">so without our mission teams the 14</p>
+<p begin="00:27:03.960" end="00:27:08.160" style="s2">teams that we have we do have a<span style="s3"> process</span></p>
+<p begin="00:27:06.120" end="00:27:10.290" style="s2">where on a regular basis we look at the</p>
+<p begin="00:27:08.160" end="00:27:14.490" style="s2">the<span style="s3"> recommendations that are open and we</span></p>
+<p begin="00:27:10.290" end="00:27:16.770" style="s2">do communicate with the agency<span style="s3"> was</span> I</p>
+<p begin="00:27:14.490" end="00:27:19.170" style="s2">guess I I don&#39;t know that<span style="s3"> I</span> can speak to</p>
+<p begin="00:27:16.770" end="00:27:21.240" style="s2">any of<span style="s3"> those</span> broadly speaking but kind</p>
+<p begin="00:27:19.170" end="00:27:23.460" style="s2">of looking at the potential impact of</p>
+<p begin="00:27:21.240" end="00:27:25.140" style="s2">the recommendation when it was made if</p>
+<p begin="00:27:23.460" end="00:27:26.280" style="s2">it&#39;s a program that&#39;s ongoing or not</p>
+<p begin="00:27:25.140" end="00:27:29.580" style="s2">there are different things<span style="s3"> we</span> can take</p>
+<p begin="00:27:26.280" end="00:27:30.510" style="s2">into consideration and the managers on</p>
+<p begin="00:27:29.580" end="00:27:32.190" style="s2">that particular team will then</p>
+<p begin="00:27:30.510" end="00:27:34.050" style="s2">communicate that to the agency<span style="s4"> and</span> tell</p>
+<p begin="00:27:32.190" end="00:27:36.660" style="s2">them what is maybe what they feel is</p>
+<p begin="00:27:34.050" end="00:27:39.720" style="s2">most incumbent upon them to implement</p>
+<p begin="00:27:36.660" end="00:27:40.890" style="s2">yeah but<span style="s3"> like I said you know we set the</span></p>
+<p begin="00:27:39.720" end="00:27:42.750" style="s2">bar of what percent we want to have</p>
+<p begin="00:27:40.890" end="00:27:45.600" style="s2">implemented and we we generally meet</p>
+<p begin="00:27:42.750" end="00:27:47.040" style="s2">that bar so it&#39;s not like you know we&#39;re</p>
+<p begin="00:27:45.600" end="00:27:48.090" style="s2"><span style="s3">really</span> struggling all the time to kind</p>
+<p begin="00:27:47.040" end="00:27:51.260" style="s2">of to get there a lot<span style="s3"> of</span> the</p>
+<p begin="00:27:48.090" end="00:27:51.260" style="s2">recommendations<span style="s3"> do</span> get implemented</p>
+<p begin="00:28:02.409" end="00:28:08.989" style="s2">most of our reviews are retrospective<span style="s4"> I</span></p>
+<p begin="00:28:05.059" end="00:28:10.219" style="s2"><span style="s4">would</span> say most many most of our reviews</p>
+<p begin="00:28:08.989" end="00:28:13.340" style="s2">are retrospective you guys ever worked</p>
+<p begin="00:28:10.219" end="00:28:15.109" style="s2">with<span style="s3"> real time yeah I mean</span> I i will say</p>
+<p begin="00:28:13.340" end="00:28:16.969" style="s2">kind<span style="s3"> of</span> back when the Recovery<span style="s3"> Act</span> was</p>
+<p begin="00:28:15.109" end="00:28:19.039" style="s2">ongoing we had a mandate to<span style="s4"> review the a</span></p>
+<p begin="00:28:16.969" end="00:28:20.359" style="s2">mandate to report out on the progress of</p>
+<p begin="00:28:19.039" end="00:28:23.090" style="s2">the Recovery<span style="s4"> Act</span> I believe it<span style="s3"> was</span> every</p>
+<p begin="00:28:20.359" end="00:28:26.690" style="s2">60 days and so in that case we were very</p>
+<p begin="00:28:23.090" end="00:28:28.399" style="s2"><span style="s3">much</span> in real time looking at both</p>
+<p begin="00:28:26.690" end="00:28:30.589" style="s2">obligations and expenditure data because</p>
+<p begin="00:28:28.399" end="00:28:32.479" style="s2">there were a lot of requirements in laws</p>
+<p begin="00:28:30.589" end="00:28:33.499" style="s2">to when agencies had to say what they</p>
+<p begin="00:28:32.479" end="00:28:35.419" style="s2">were going to give the money to and then</p>
+<p begin="00:28:33.499" end="00:28:37.219" style="s2"><span style="s3">when</span> it had<span style="s3"> to</span> be spent by so that&#39;s one</p>
+<p begin="00:28:35.419" end="00:28:38.779" style="s2">example where<span style="s4"> we</span> were both working with</p>
+<p begin="00:28:37.219" end="00:28:41.210" style="s2">federal agencies as well as state</p>
+<p begin="00:28:38.779" end="00:28:42.769" style="s2">agencies and other grant recipients to</p>
+<p begin="00:28:41.210" end="00:28:44.299" style="s2">look at how that<span style="s3"> funding</span> was happening</p>
+<p begin="00:28:42.769" end="00:28:46.369" style="s2">in real time and whether some of those</p>
+<p begin="00:28:44.299" end="00:28:48.200" style="s2">requirements to have a<span style="s3"> hundred</span> percent</p>
+<p begin="00:28:46.369" end="00:28:50.269" style="s2">obligated by x date we&#39;re going to be</p>
+<p begin="00:28:48.200" end="00:28:57.950" style="s2">met or not so that&#39;s<span style="s3"> one</span> example<span style="s4"> I</span> can</p>
+<p begin="00:28:50.269" end="00:28:59.479" style="s2">think of for for a project so you give</p>
+<p begin="00:28:57.950" end="00:29:01.609" style="s2">the<span style="s3"> example</span> of having to go for SEC</p>
+<p begin="00:28:59.479" end="00:29:03.049" style="s2">filings for example that sounded<span style="s3"> really</span></p>
+<p begin="00:29:01.609" end="00:29:05.570" style="s2">labor-intensive I&#39;m<span style="s3"> wondering</span> what it</p>
+<p begin="00:29:03.049" end="00:29:07.249" style="s2">looks like to<span style="s3"> spin</span> up<span style="s3"> a</span> team for plenty</p>
+<p begin="00:29:05.570" end="00:29:11.139" style="s2"><span style="s3">of</span> projects or that varies a lot</p>
+<p begin="00:29:07.249" end="00:29:14.509" style="s2"><span style="s4">publically</span> you<span style="s3"> can</span> do that and how</p>
+<p begin="00:29:11.139" end="00:29:16.460" style="s2">that&#39;s<span style="s3"> a</span> good question so we we are all</p>
+<p begin="00:29:14.509" end="00:29:19.009" style="s2">analysts and typically there is an</p>
+<p begin="00:29:16.460" end="00:29:21.320" style="s2">analyst in charge in a team we have<span style="s3"> an</span></p>
+<p begin="00:29:19.009" end="00:29:23.509" style="s2">assistant director at director and a</p>
+<p begin="00:29:21.320" end="00:29:24.889" style="s2">managing director so that&#39;s<span style="s3"> the</span> smallest</p>
+<p begin="00:29:23.509" end="00:29:27.080" style="s2">the team can be there can be more</p>
+<p begin="00:29:24.889" end="00:29:29.119" style="s2">analysts if we need more endless we</p>
+<p begin="00:29:27.080" end="00:29:31.729" style="s2">always have a lawyer I always<span style="s4"> have</span> a</p>
+<p begin="00:29:29.119" end="00:29:35.089" style="s2">look and we and we always<span style="s3"> have</span> a</p>
+<p begin="00:29:31.729" end="00:29:37.700" style="s2">methodologist I think<span style="s4"> I</span> ball<span style="s3"> five</span> used</p>
+<p begin="00:29:35.089" end="00:29:39.769" style="s2">economist and all of<span style="s4"> my to know</span> my jobs</p>
+<p begin="00:29:37.700" end="00:29:41.960" style="s2">I think you you do transportation I</p>
+<p begin="00:29:39.769" end="00:29:45.259" style="s2"><span style="s4">believe</span> in one of<span style="s3"> your</span> like one of your</p>
+<p begin="00:29:41.960" end="00:29:48.019" style="s2">jobs that we have specific some people</p>
+<p begin="00:29:45.259" end="00:29:50.089" style="s2">with very special specialty skills like</p>
+<p begin="00:29:48.019" end="00:29:53.629" style="s2">in electronic I don&#39;t remember</p>
+<p begin="00:29:50.089" end="00:29:56.149" style="s2">electrical engineering or yeah so so it</p>
+<p begin="00:29:53.629" end="00:30:00.519" style="s2">depends from that applied methods and</p>
+<p begin="00:29:56.149" end="00:30:02.779" style="s2">research team we get any specialty</p>
+<p begin="00:30:00.519" end="00:30:05.269" style="s2">resources that we would need<span style="s4"> to</span> answer</p>
+<p begin="00:30:02.779" end="00:30:09.109" style="s2">our question<span style="s4"> and</span> it takes<span style="s3"> about</span> a year</p>
+<p begin="00:30:05.269" end="00:30:11.640" style="s2">to write a<span style="s3"> report</span> it takes less time</p>
+<p begin="00:30:09.109" end="00:30:13.980" style="s2">than<span style="s4"> that</span> but often times that it</p>
+<p begin="00:30:11.640" end="00:30:16.560" style="s2">no<span style="s3"> yeah</span> on average it&#39;s not<span style="s3"> they&#39;re</span> not</p>
+<p begin="00:30:13.980" end="00:30:18.480" style="s2"><span style="s3">we</span> don&#39;t they don&#39;t<span style="s3"> go</span> it&#39;s a very</p>
+<p begin="00:30:16.560" end="00:30:21.030" style="s2">deliberate relatives yeah but there&#39;s a</p>
+<p begin="00:30:18.480" end="00:30:37.800" style="s2">lot of review so<span style="s4"> that</span> we can be<span style="s4"> fat</span></p>
+<p begin="00:30:21.030" end="00:30:39.600" style="s2"><span style="s4">faced</span> I mean we are<span style="s3"> subject</span> to the</p>
+<p begin="00:30:37.800" end="00:30:41.250" style="s2">appropriations process so every year we</p>
+<p begin="00:30:39.600" end="00:30:43.770" style="s2"><span style="s3">get</span> our budget set we are in<span style="s3"> the</span></p>
+<p begin="00:30:41.250" end="00:30:45.180" style="s2">legislative branch but it you know in</p>
+<p begin="00:30:43.770" end="00:30:49.400" style="s2">recent years as federal budgets have</p>
+<p begin="00:30:45.180" end="00:30:51.810" style="s2">changed we have seen decreases and flat</p>
+<p begin="00:30:49.400" end="00:30:54.330" style="s2">similar to other<span style="s3"> federal</span> agencies so</p>
+<p begin="00:30:51.810" end="00:30:55.800" style="s2">it&#39;s we don&#39;t have a hard and fast money</p>
+<p begin="00:30:54.330" end="00:31:00.600" style="s2">from year to year we are subject<span style="s4"> to</span> that</p>
+<p begin="00:30:55.800" end="00:31:04.020" style="s2">process as<span style="s3"> well</span> do I need me I&#39;ll work</p>
+<p begin="00:31:00.600" end="00:31:07.290" style="s2">on the f-35 the most costly military</p>
+<p begin="00:31:04.020" end="00:31:09.030" style="s2">project so now<span style="s3"> that</span> we haven&#39;t this the</p>
+<p begin="00:31:07.290" end="00:31:11.850" style="s2">folks up here but i&#39;m pretty<span style="s3"> sure</span> GAO</p>
+<p begin="00:31:09.030" end="00:31:15.000" style="s2">has done there&#39;s a team that looks at at</p>
+<p begin="00:31:11.850" end="00:31:16.560" style="s2">DoD pretty extensively<span style="s4"> i I really don&#39;t</span></p>
+<p begin="00:31:15.000" end="00:31:19.590" style="s2"><span style="s4">think</span> any of us can<span style="s3"> speak</span> to it yeah</p>
+<p begin="00:31:16.560" end="00:31:21.590" style="s2">unfortunately so the teens that are in</p>
+<p begin="00:31:19.590" end="00:31:23.810" style="s2">the Chicago office our<span style="s3"> health care</span></p>
+<p begin="00:31:21.590" end="00:31:27.330" style="s2">physical infrastructure financial</p>
+<p begin="00:31:23.810" end="00:31:29.790" style="s2">investment and community with financial</p>
+<p begin="00:31:27.330" end="00:31:30.870" style="s2">markets and community investment and we</p>
+<p begin="00:31:29.790" end="00:31:33.420" style="s2">have something called<span style="s3"> education</span></p>
+<p begin="00:31:30.870" end="00:31:38.420" style="s2">workforce and<span style="s3"> income security so those</span></p>
+<p begin="00:31:33.420" end="00:31:38.420" style="s2"><span style="s3">are</span> the four teams that we have here yes</p>
+<p begin="00:31:38.450" end="00:31:41.450" style="s2">yeah</p>
+<p begin="00:31:45.559" end="00:31:58.559" style="s2"><span style="s4">the money go back to our public schools</span></p>
+<p begin="00:31:48.239" end="00:32:00.149" style="s2">of a congressman ass tip um so so I&#39;m</p>
+<p begin="00:31:58.559" end="00:32:02.009" style="s2"><span style="s3">not</span> aware of anything coming in I<span style="s3"> mean</span> I</p>
+<p begin="00:32:00.149" end="00:32:03.690" style="s2">guess<span style="s3"> I</span> will just kind of add because<span style="s3"> we</span></p>
+<p begin="00:32:02.009" end="00:32:05.399" style="s2">are at the the federal government level</p>
+<p begin="00:32:03.690" end="00:32:07.409" style="s2"><span style="s4">oftentimes</span> there needs to be the federal</p>
+<p begin="00:32:05.399" end="00:32:08.519" style="s2">we<span style="s3"> always</span> call it the federal hook so</p>
+<p begin="00:32:07.409" end="00:32:10.080" style="s2">kind of<span style="s3"> either</span> what the federal</p>
+<p begin="00:32:08.519" end="00:32:12.539" style="s2">oversight would be that would kind of</p>
+<p begin="00:32:10.080" end="00:32:14.700" style="s2">give us a reason or what the federal</p>
+<p begin="00:32:12.539" end="00:32:16.379" style="s2">funding would be so I&#39;m not aware that</p>
+<p begin="00:32:14.700" end="00:32:28.320" style="s2">there&#39;s anything kind of<span style="s3"> directly</span> in</p>
+<p begin="00:32:16.379" end="00:32:29.789" style="s2">line there I mean if we get a request</p>
+<p begin="00:32:28.320" end="00:32:31.919" style="s2">letter<span style="s3"> and</span> it is then subject to going</p>
+<p begin="00:32:29.789" end="00:32:34.440" style="s2">through the process of being prioritized</p>
+<p begin="00:32:31.919" end="00:32:36.450" style="s2">and being accepted so i can&#39;t i can&#39;t</p>
+<p begin="00:32:34.440" end="00:32:39.499" style="s2">speak for<span style="s3"> the</span> specific topics or the</p>
+<p begin="00:32:36.450" end="00:32:39.499" style="s2">timing or anything like that yeah</p>
+<p begin="00:32:45.310" end="00:32:53.590" style="s2">there&#39;s your budget based on what</p>
+<p begin="00:32:47.960" end="00:32:58.160" style="s2">article hmm ah not that I&#39;m<span style="s3"> aware</span> of no</p>
+<p begin="00:32:53.590" end="00:33:00.200" style="s2">really interesting question<span style="s3"> I</span> know we</p>
+<p begin="00:32:58.160" end="00:33:11.930" style="s2">have a lot of analytics but I&#39;m sorry</p>
+<p begin="00:33:00.200" end="00:33:16.250" style="s2">yeah um well<span style="s3"> Gao</span> recruits heavily at the</p>
+<p begin="00:33:11.930" end="00:33:21.050" style="s2">university of chicago so there&#39;s a lot</p>
+<p begin="00:33:16.250" end="00:33:23.480" style="s2">of university of chicago<span style="s3"> MPP</span> people at</p>
+<p begin="00:33:21.050" end="00:33:26.210" style="s2"><span style="s4">Gao</span> but i think i&#39;m the<span style="s3"> only</span> one though</p>
+<p begin="00:33:23.480" end="00:33:29.900" style="s2">from UC so i think i think<span style="s3"> they</span> do a lot</p>
+<p begin="00:33:26.210" end="00:33:31.970" style="s2">of recruiting and you know colleges yeah</p>
+<p begin="00:33:29.900" end="00:33:33.650" style="s2"><span style="s3">I</span> mean<span style="s3"> I I similarly</span><span style="s4"> just</span> be my</p>
+<p begin="00:33:31.970" end="00:33:36.020" style="s2">experience was going I was in public</p>
+<p begin="00:33:33.650" end="00:33:38.810" style="s2">policy school and there was a recruiting</p>
+<p begin="00:33:36.020" end="00:33:40.730" style="s2">event and<span style="s3"> that</span> was kind of that yeah we</p>
+<p begin="00:33:38.810" end="00:33:42.020" style="s2">also hire from like industry you know</p>
+<p begin="00:33:40.730" end="00:33:43.730" style="s2">like<span style="s3"> so</span> a lot of folks on the<span style="s4"> health</span></p>
+<p begin="00:33:42.020" end="00:33:44.930" style="s2"><span style="s4">care</span> team will have policy backgrounds</p>
+<p begin="00:33:43.730" end="00:33:47.540" style="s2">but they&#39;ll also have like<span style="s3"> industry</span></p>
+<p begin="00:33:44.930" end="00:33:54.400" style="s2">backgrounds<span style="s3"> a</span> healthy research means as</p>
+<p begin="00:33:47.540" end="00:33:54.400" style="s2">well<span style="s3"> 13</span> is I in the glasses<span style="s3"> okay</span></p>
+<p begin="00:34:01.549" end="00:34:08.129" style="s2">um hi I don&#39;t think<span style="s3"> we</span> contract out like</p>
+<p begin="00:34:05.609" end="00:34:09.750" style="s2">full investigations we might buy data if</p>
+<p begin="00:34:08.129" end="00:34:12.149" style="s2">it&#39;s necessary for answering our</p>
+<p begin="00:34:09.750" end="00:34:14.429" style="s2">questions I think for like<span style="s3"> the</span> focus</p>
+<p begin="00:34:12.149" end="00:34:16.319" style="s2">groups you might use a contractor to</p>
+<p begin="00:34:14.429" end="00:34:18.269" style="s2"><span style="s4">help</span> us<span style="s4"> with</span> that for like certain</p>
+<p begin="00:34:16.319" end="00:34:21.000" style="s2">economic analysis we might for specific</p>
+<p begin="00:34:18.269" end="00:34:22.950" style="s2">pieces but you know we&#39;re subject to the</p>
+<p begin="00:34:21.000" end="00:34:24.809" style="s2">you know the whole contracting process</p>
+<p begin="00:34:22.950" end="00:34:30.240" style="s2">for ganja contracting process and that</p>
+<p begin="00:34:24.809" end="00:34:32.539" style="s2">in that context yeah cool thank you</p>
+<p begin="00:34:30.240" end="00:34:32.539" style="s2"><span style="s4">thank</span> you</p>
+</div>
+</body>
+</tt>

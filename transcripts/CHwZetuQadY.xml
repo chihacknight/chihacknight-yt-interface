@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.089" end="00:00:10.769" style="s2">seven years ago I was in grad school</p>
+<p begin="00:00:07.560" end="00:00:14.099" style="s2">studying water I wanted<span style="s3"> to</span><span style="s4"> research</span> tsos</p>
+<p begin="00:00:10.769" end="00:00:16.619" style="s2">but the data was not in order HTML</p>
+<p begin="00:00:14.099" end="00:00:19.590" style="s2">tables across a hundred pages the data</p>
+<p begin="00:00:16.619" end="00:00:23.279" style="s2">was crap lat<span style="s4"> long zat lacked the time</span></p>
+<p begin="00:00:19.590" end="00:00:25.230" style="s2"><span style="s4">stamps</span> overlapped adjust for a map and a</p>
+<p begin="00:00:23.279" end="00:00:28.830" style="s2">pop ups were blocked the page didn&#39;t<span style="s4"> do</span></p>
+<p begin="00:00:25.230" end="00:00:31.289" style="s2">jack so I quit the<span style="s4"> idea</span> and studied</p>
+<p begin="00:00:28.830" end="00:00:33.710" style="s2">storm or modeling instead for almost</p>
+<p begin="00:00:31.289" end="00:00:36.960" style="s2"><span style="s4">five</span><span style="s3"> years</span> I didn&#39;t<span style="s4"> think</span> of it again</p>
+<p begin="00:00:33.710" end="00:00:39.870" style="s2">till forest brought it up at 1871 one</p>
+<p begin="00:00:36.960" end="00:00:43.860" style="s2">night talking about<span style="s3"> Chicago</span> data hidden</p>
+<p begin="00:00:39.870" end="00:00:48.030" style="s2">in plain sight here is discussing it as</p>
+<p begin="00:00:43.860" end="00:00:52.940" style="s2">we SAT around<span style="s3"> a</span> table and<span style="s4"> there</span> I<span style="s4"> am</span></p>
+<p begin="00:00:48.030" end="00:00:52.940" style="s2">feeling excited willing but unable I</p>
+<p begin="00:00:54.170" end="00:00:59.640" style="s2">come<span style="s4"> to</span> hack met a few times said hello</p>
+<p begin="00:00:56.969" end="00:01:01.260" style="s2"><span style="s4">but</span> didn&#39;t find<span style="s3"> my</span> jam so this group</p>
+<p begin="00:00:59.640" end="00:01:03.989" style="s2">were kindled my<span style="s3"> entrance</span><span style="s4"> and</span> shown me</p>
+<p begin="00:01:01.260" end="00:01:05.489" style="s2"><span style="s3">that</span> I can I asked him with his</p>
+<p begin="00:01:03.989" end="00:01:07.799" style="s2">connections if he could get<span style="s3"> the</span> source</p>
+<p begin="00:01:05.489" end="00:01:10.799" style="s2">I&#39;d like to<span style="s3"> do</span> some analysis but I</p>
+<p begin="00:01:07.799" end="00:01:12.420" style="s2">needed<span style="s3"> in</span> a<span style="s3"> usable</span> form he looked me up</p>
+<p begin="00:01:10.799" end="00:01:14.939" style="s2">you looked me down and said so you can</p>
+<p begin="00:01:12.420" end="00:01:17.750" style="s2">code just write a program to scrape<span style="s3"> the</span></p>
+<p begin="00:01:14.939" end="00:01:20.100" style="s2">page to find what you want to know</p>
+<p begin="00:01:17.750" end="00:01:23.070" style="s2"><span style="s4">stackoverflow</span> in<span style="s4"> Java</span> code and I was</p>
+<p begin="00:01:20.100" end="00:01:25.710" style="s2">able<span style="s4"> to</span> deliver after five<span style="s4"> years</span> I had</p>
+<p begin="00:01:23.070" end="00:01:31.170" style="s2"><span style="s4">finally</span> a historic record of sewage in</p>
+<p begin="00:01:25.710" end="00:01:33.689" style="s2">the river so thank you hack night<span style="s4"> number</span></p>
+<p begin="00:01:31.170" end="00:01:36.600" style="s2">85 where I built that overflow tracker</p>
+<p begin="00:01:33.689" end="00:01:41.250" style="s2">and my mentality started to shift from</p>
+<p begin="00:01:36.600" end="00:01:43.860" style="s2">engineer to hacker to tell if a CSO was</p>
+<p begin="00:01:41.250" end="00:01:46.860" style="s2">currently happening Derek Forrest and</p>
+<p begin="00:01:43.860" end="00:01:49.200" style="s2">van santen started is their sewage in</p>
+<p begin="00:01:46.860" end="00:01:52.409" style="s2">chicago river comm joining forces with</p>
+<p begin="00:01:49.200" end="00:01:55.619" style="s2">them was the bomb money<span style="s3"> woman&#39;s</span> fame and</p>
+<p begin="00:01:52.409" end="00:01:58.610" style="s2">fortune none<span style="s3"> of</span> that came but we we</p>
+<p begin="00:01:55.619" end="00:01:58.610" style="s2">almost made something</p>
+<p begin="00:01:59.810" end="00:02:04.470" style="s2">afterwards<span style="s4"> I</span> thought back to grad school</p>
+<p begin="00:02:02.430" end="00:02:06.810" style="s2">and the things I could have done I was a</p>
+<p begin="00:02:04.470" end="00:02:10.350" style="s2">reminded of a<span style="s4"> gif project on fecal</span></p>
+<p begin="00:02:06.810" end="00:02:12.960" style="s2">coliform I had built a visualization</p>
+<p begin="00:02:10.350" end="00:02:15.720" style="s2">from random samples down the coast but I</p>
+<p begin="00:02:12.960" end="00:02:19.050" style="s2">had<span style="s4"> wanted</span><span style="s3"> to</span> report which beaches were</p>
+<p begin="00:02:15.720" end="00:02:21.690" style="s2">closed the most now with my super powers</p>
+<p begin="00:02:19.050" end="00:02:24.270" style="s2">of<span style="s4"> Wayne</span> of web scraping writing scripts</p>
+<p begin="00:02:21.690" end="00:02:28.350" style="s2">I remembered the website I first saw at</p>
+<p begin="00:02:24.270" end="00:02:32.100" style="s2">hack night<span style="s4"> number</span> 86 so yeah I got up</p>
+<p begin="00:02:28.350" end="00:02:36.030" style="s2">here<span style="s4"> every</span> week and had some fun talking</p>
+<p begin="00:02:32.100" end="00:02:37.710" style="s2">about beaches and making<span style="s3"> duty</span> puns a new</p>
+<p begin="00:02:36.030" end="00:02:40.350" style="s2">guy started at work one<span style="s3"> day</span> as the</p>
+<p begin="00:02:37.710" end="00:02:50.640" style="s2"><span style="s4">extended</span> his hand he said hey you&#39;re the</p>
+<p begin="00:02:40.350" end="00:02:52.320" style="s2">pool guy I said yes I am direct beach</p>
+<p begin="00:02:50.640" end="00:02:54.720" style="s2">didn&#39;t have much purpose and again there</p>
+<p begin="00:02:52.320" end="00:02:58.260" style="s2">wasn&#39;t a dime so<span style="s3"> I</span> schemed to build my</p>
+<p begin="00:02:54.720" end="00:03:00.330" style="s2">next water idea on my company&#39;s time at</p>
+<p begin="00:02:58.260" end="00:03:02.700" style="s2">what a 12-week sprint the mix of work in</p>
+<p begin="00:03:00.330" end="00:03:04.170" style="s2">hack night was kind of sorted I think we</p>
+<p begin="00:03:02.700" end="00:03:06.720" style="s2">did some really cool things<span style="s4"> but</span> we&#39;re</p>
+<p begin="00:03:04.170" end="00:03:09.330" style="s2"><span style="s4">only</span> getting started a spatio-temporal</p>
+<p begin="00:03:06.720" end="00:03:11.459" style="s2">rain data set is missing from open</p>
+<p begin="00:03:09.330" end="00:03:14.100" style="s2">source<span style="s4"> I</span> think we&#39;ll have it soon but</p>
+<p begin="00:03:11.459" end="00:03:15.989" style="s2"><span style="s3">there is work to do of course with the</span></p>
+<p begin="00:03:14.100" end="00:03:18.930" style="s2">array of things raspberry PI&#39;s and</p>
+<p begin="00:03:15.989" end="00:03:21.000" style="s2">sensors on<span style="s3"> the</span> portal our data points</p>
+<p begin="00:03:18.930" end="00:03:25.340" style="s2">are growing feeding fuel to our models</p>
+<p begin="00:03:21.000" end="00:03:28.170" style="s2">in the 21st century water starved world</p>
+<p begin="00:03:25.340" end="00:03:29.910" style="s2">the city is truly blessed but we&#39;re</p>
+<p begin="00:03:28.170" end="00:03:32.700" style="s2">wasteful including with a system<span style="s3"> they&#39;re</span></p>
+<p begin="00:03:29.910" end="00:03:34.760" style="s2"><span style="s3">stressed</span> our infrastructure is old and</p>
+<p begin="00:03:32.700" end="00:03:36.870" style="s2">inefficient we need some better ways</p>
+<p begin="00:03:34.760" end="00:03:40.350" style="s2">despite zorconian cuts the Great Lakes</p>
+<p begin="00:03:36.870" end="00:03:42.120" style="s2"><span style="s4">restoration</span> and the EPA I wanted to take</p>
+<p begin="00:03:40.350" end="00:03:44.970" style="s2">this moment to remind you that<span style="s3"> five</span></p>
+<p begin="00:03:42.120" end="00:03:46.800" style="s2">years is too much time to not quench</p>
+<p begin="00:03:44.970" end="00:03:49.200" style="s2">your curiosity and leave your questions</p>
+<p begin="00:03:46.800" end="00:03:52.170" style="s2">on the line this community is a resource</p>
+<p begin="00:03:49.200" end="00:03:53.910" style="s2">for<span style="s4"> you</span> as you figure to fit in so</p>
+<p begin="00:03:52.170" end="00:03:57.980" style="s2">follow the data and build something</p>
+<p begin="00:03:53.910" end="00:03:57.980" style="s2">awesome before hack night turns 10</p>
+<p begin="00:03:58.680" end="00:04:02.840" style="s2">you</p>
+<p begin="00:03:59.760" end="00:04:02.840" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

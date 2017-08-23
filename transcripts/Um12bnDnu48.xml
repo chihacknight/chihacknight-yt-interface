@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.910" end="00:00:08.610" style="s2">just to put<span style="s3"> things</span> in perspective and</p>
+<p begin="00:00:07.140" end="00:00:10.380" style="s2">not about how old I am but to give you</p>
+<p begin="00:00:08.610" end="00:00:11.910" style="s2">an<span style="s3"> idea</span> of how<span style="s3"> far</span> things have come and</p>
+<p begin="00:00:10.380" end="00:00:14.219" style="s2"><span style="s3">the</span> older you get your eyes time is</p>
+<p begin="00:00:11.910" end="00:00:16.500" style="s2">compressed I was doing programming when</p>
+<p begin="00:00:14.219" end="00:00:18.600" style="s2">I was in eighth grade it was in basic it</p>
+<p begin="00:00:16.500" end="00:00:22.920" style="s2">was on punch cards it was being fed into</p>
+<p begin="00:00:18.600" end="00:00:25.890" style="s2">a card reader that was a good size how</p>
+<p begin="00:00:22.920" end="00:00:28.019" style="s2">things move fast things move quickly you</p>
+<p begin="00:00:25.890" end="00:00:29.160" style="s2">guys are a<span style="s3"> great</span> example of that one of</p>
+<p begin="00:00:28.019" end="00:00:30.929" style="s2">the first<span style="s4"> things</span> I did when I got it</p>
+<p begin="00:00:29.160" end="00:00:33.059" style="s2">elected I was in the<span style="s3"> legislature</span> for 14</p>
+<p begin="00:00:30.929" end="00:00:35.700" style="s2">years went to the<span style="s4"> County Board in 2010</span></p>
+<p begin="00:00:33.059" end="00:00:37.290" style="s2">we made Cook County the largest</p>
+<p begin="00:00:35.700" end="00:00:39.510" style="s2">jurisdiction in the country to have an</p>
+<p begin="00:00:37.290" end="00:00:41.040" style="s2">open data portal I saw what was going</p>
+<p begin="00:00:39.510" end="00:00:43.320" style="s2">around<span style="s3"> the</span> country we saw some great</p>
+<p begin="00:00:41.040" end="00:00:45.149" style="s2">opportunities for it and we actually<span style="s3"> put</span></p>
+<p begin="00:00:43.320" end="00:00:47.100" style="s2">great use to it Derek&#39;s associate</p>
+<p begin="00:00:45.149" end="00:00:49.800" style="s2">yourself with Derek doing all the work</p>
+<p begin="00:00:47.100" end="00:00:52.350" style="s2">along with Nick we<span style="s3"> created</span> something</p>
+<p begin="00:00:49.800" end="00:00:54.870" style="s2">called look at cook calm it is such a</p>
+<p begin="00:00:52.350" end="00:00:57.660" style="s2">deep dive<span style="s3"> and</span> graphic visualization into</p>
+<p begin="00:00:54.870" end="00:00:59.460" style="s2">the cook county budget I mean it&#39;s I&#39;m</p>
+<p begin="00:00:57.660" end="00:01:02.010" style="s2">still amazed every time I go to it which</p>
+<p begin="00:00:59.460" end="00:01:03.270" style="s2">is a lot the public is able to take</p>
+<p begin="00:01:02.010" end="00:01:05.339" style="s2">advantage of<span style="s3"> that</span> and it&#39;s one of<span style="s4"> the</span></p>
+<p begin="00:01:03.270" end="00:01:07.290" style="s2"><span style="s4">things</span> I want to tell<span style="s3"> you</span> in it before I</p>
+<p begin="00:01:05.339" end="00:01:10.650" style="s2">just leave you with<span style="s4"> the</span> resolution is</p>
+<p begin="00:01:07.290" end="00:01:12.270" style="s2">this a lot of you are focusing on the</p>
+<p begin="00:01:10.650" end="00:01:14.369" style="s2">work that you do and how that<span style="s3"> makes</span></p>
+<p begin="00:01:12.270" end="00:01:16.799" style="s2">things<span style="s3"> more</span> transparent and really more</p>
+<p begin="00:01:14.369" end="00:01:19.439" style="s2">user-friendly from the public side<span style="s3"> ah</span></p>
+<p begin="00:01:16.799" end="00:01:21.479" style="s2">there&#39;s a very key component to what you</p>
+<p begin="00:01:19.439" end="00:01:23.790" style="s2">do that you may not think of the more</p>
+<p begin="00:01:21.479" end="00:01:26.310" style="s2">transparency and the<span style="s3"> more</span> access and the</p>
+<p begin="00:01:23.790" end="00:01:29.009" style="s2"><span style="s3">more</span> interactivity that the public has</p>
+<p begin="00:01:26.310" end="00:01:31.200" style="s2">with their government and their elected</p>
+<p begin="00:01:29.009" end="00:01:35.100" style="s2">officials in particular it is requiring</p>
+<p begin="00:01:31.200" end="00:01:37.890" style="s2">them to be more<span style="s3"> responsive</span> more honest</p>
+<p begin="00:01:35.100" end="00:01:40.290" style="s2">more user driven to provide these</p>
+<p begin="00:01:37.890" end="00:01:42.420" style="s2">services so you guys are really coming</p>
+<p begin="00:01:40.290" end="00:01:44.939" style="s2">at this from both<span style="s3"> ends</span> you&#39;re helping</p>
+<p begin="00:01:42.420" end="00:01:46.860" style="s2"><span style="s4">the</span> citizens and at the same time you&#39;re</p>
+<p begin="00:01:44.939" end="00:01:48.899" style="s2"><span style="s3">keeping</span> government honest which can be a</p>
+<p begin="00:01:46.860" end="00:01:51.420" style="s2">trick to do every now and then but<span style="s3"> I</span> but</p>
+<p begin="00:01:48.899" end="00:01:53.159" style="s2">I truly truly mean that I&#39;ve seen over</p>
+<p begin="00:01:51.420" end="00:01:55.619" style="s2"><span style="s4">the</span> years the<span style="s4"> difference</span> in my</p>
+<p begin="00:01:53.159" end="00:01:57.689" style="s2">colleagues attitudes are knowing<span style="s4"> that</span></p>
+<p begin="00:01:55.619" end="00:01:59.430" style="s2">public has access to information and</p>
+<p begin="00:01:57.689" end="00:02:00.509" style="s2">just the things that we can do whether</p>
+<p begin="00:01:59.430" end="00:02:02.100" style="s2">it&#39;s things we&#39;re doing at the forest</p>
+<p begin="00:02:00.509" end="00:02:05.159" style="s2">preserve whether it&#39;s the budgetary</p>
+<p begin="00:02:02.100" end="00:02:07.290" style="s2">types of things what you do is not a</p>
+<p begin="00:02:05.159" end="00:02:09.780" style="s2">drill it&#39;s not an exercise I know you</p>
+<p begin="00:02:07.290" end="00:02:11.129" style="s2"><span style="s3">know</span> that it&#39;s<span style="s3"> making</span> a fantastic</p>
+<p begin="00:02:09.780" end="00:02:13.830" style="s2">difference where the rubber meets the</p>
+<p begin="00:02:11.129" end="00:02:15.480" style="s2">road and I really hope<span style="s3"> you</span> do know that</p>
+<p begin="00:02:13.830" end="00:02:17.910" style="s2">doing the resolution for the five-year</p>
+<p begin="00:02:15.480" end="00:02:19.770" style="s2">anniversary I mean that was really a</p>
+<p begin="00:02:17.910" end="00:02:21.720" style="s2">no-brainer I&#39;ve been<span style="s3"> able to experience</span></p>
+<p begin="00:02:19.770" end="00:02:23.460" style="s2">firsthand the type of work that<span style="s3"> people</span></p>
+<p begin="00:02:21.720" end="00:02:25.410" style="s2">like you are doing the type of impact</p>
+<p begin="00:02:23.460" end="00:02:27.620" style="s2">it&#39;s having on people so for me to be</p>
+<p begin="00:02:25.410" end="00:02:30.540" style="s2">able to congratulate not just the</p>
+<p begin="00:02:27.620" end="00:02:33.060" style="s2">organization per se but all of you that</p>
+<p begin="00:02:30.540" end="00:02:34.530" style="s2">make it up of<span style="s4"> it&#39;s</span> just it&#39;s really it&#39;s</p>
+<p begin="00:02:33.060" end="00:02:36.210" style="s2">it&#39;s a privilege I&#39;m glad to<span style="s3"> be</span> a part</p>
+<p begin="00:02:34.530" end="00:02:37.860" style="s2">of<span style="s3"> this</span> I&#39;m<span style="s3"> glad</span> to<span style="s4"> be</span> the chairman of</p>
+<p begin="00:02:36.210" end="00:02:39.570" style="s2">the Technology Committee on the cook</p>
+<p begin="00:02:37.860" end="00:02:41.460" style="s2">county board because you get to see</p>
+<p begin="00:02:39.570" end="00:02:43.680" style="s2">these things happening<span style="s3"> I</span> am going to do</p>
+<p begin="00:02:41.460" end="00:02:45.660" style="s2">you all a big favor I&#39;m<span style="s3"> going to spare</span></p>
+<p begin="00:02:43.680" end="00:02:47.280" style="s2">you the reading of the<span style="s3"> resolution</span> take</p>
+<p begin="00:02:45.660" end="00:02:50.250" style="s2">my word<span style="s4"> on</span> it it says a whole lot<span style="s4"> of</span></p>
+<p begin="00:02:47.280" end="00:02:52.320" style="s2">good things<span style="s3"> about</span> you<span style="s3"> guys about Jack</span></p>
+<p begin="00:02:50.250" end="00:02:55.110" style="s2">night and about the things that get done</p>
+<p begin="00:02:52.320" end="00:02:57.360" style="s2">so I&#39;m sure you&#39;re going<span style="s3"> to</span> scan it or</p>
+<p begin="00:02:55.110" end="00:02:59.190" style="s2">get it and post it somewhere you can</p>
+<p begin="00:02:57.360" end="00:03:01.260" style="s2">read<span style="s3"> it</span> all there it&#39;s been a privilege</p>
+<p begin="00:02:59.190" end="00:03:02.430" style="s2">to be here I don&#39;t want to overdo my</p>
+<p begin="00:03:01.260" end="00:03:05.840" style="s2">five<span style="s3"> minutes</span> which I probably already</p>
+<p begin="00:03:02.430" end="00:03:09.169" style="s2">dead but thank you<span style="s3"> all</span> for all you do</p>
+<p begin="00:03:05.840" end="00:03:09.169" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

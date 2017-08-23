@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.430" end="00:00:09.510" style="s2">hi<span style="s3"> everybody</span> um my name is<span style="s3"> Emily</span> and</p>
+<p begin="00:00:07.980" end="00:00:11.880" style="s2">tonight I&#39;m going<span style="s3"> to</span> talk to<span style="s3"> you</span> about</p>
+<p begin="00:00:09.510" end="00:00:15.929" style="s2">what the access to justice group has</p>
+<p begin="00:00:11.880" end="00:00:18.449" style="s2">been up to so first of all this is you</p>
+<p begin="00:00:15.929" end="00:00:20.430" style="s2">know just a quick snapshot of<span style="s4"> who</span> we are</p>
+<p begin="00:00:18.449" end="00:00:22.410" style="s2">and this<span style="s3"> is</span> not all inclusive this is</p>
+<p begin="00:00:20.430" end="00:00:24.689" style="s2">the people&#39;s whose names I recognized</p>
+<p begin="00:00:22.410" end="00:00:27.180" style="s2">from the slack channel but I would<span style="s4"> like</span></p>
+<p begin="00:00:24.689" end="00:00:28.529" style="s2">to point out<span style="s4"> that</span> cool<span style="s4"> tsums</span> name is in</p>
+<p begin="00:00:27.180" end="00:00:30.599" style="s2">the center there and it&#39;s there for a</p>
+<p begin="00:00:28.529" end="00:00:33.630" style="s2">very specific reason we wouldn&#39;t be here</p>
+<p begin="00:00:30.599" end="00:00:36.170" style="s2">doing any of this if<span style="s3"> she</span> was not guiding</p>
+<p begin="00:00:33.630" end="00:00:38.520" style="s2">us and informing us all along the way</p>
+<p begin="00:00:36.170" end="00:00:40.920" style="s2">but what we<span style="s4"> are</span> working on right now</p>
+<p begin="00:00:38.520" end="00:00:42.570" style="s2">like irika mentioned are some<span style="s4"> project</span></p>
+<p begin="00:00:40.920" end="00:00:46.020" style="s2">centered around free entry and</p>
+<p begin="00:00:42.570" end="00:00:49.200" style="s2">recidivism and<span style="s3"> I</span> don&#39;t want to be 30</p>
+<p begin="00:00:46.020" end="00:00:51.570" style="s2">typical but when<span style="s3"> you look at me I</span> am not</p>
+<p begin="00:00:49.200" end="00:00:53.489" style="s2">the<span style="s4"> type</span> of person you<span style="s3"> would</span> think has a</p>
+<p begin="00:00:51.570" end="00:00:57.809" style="s2">lot of experience with the<span style="s4"> reentry</span></p>
+<p begin="00:00:53.489" end="00:00:59.609" style="s2">prison recidivism arena and I&#39;m not</p>
+<p begin="00:00:57.809" end="00:01:00.899" style="s2">which is<span style="s4"> why</span><span style="s3"> I&#39;m really thankful that</span></p>
+<p begin="00:00:59.609" end="00:01:04.920" style="s2"><span style="s3">I&#39;ve</span> been working in this group because</p>
+<p begin="00:01:00.899" end="00:01:07.380" style="s2">I have learned<span style="s4"> so</span> much about all of the</p>
+<p begin="00:01:04.920" end="00:01:10.200" style="s2">different issues that there are several</p>
+<p begin="00:01:07.380" end="00:01:12.000" style="s2"><span style="s3">them</span> are listed up here and one of the</p>
+<p begin="00:01:10.200" end="00:01:13.409" style="s2">things<span style="s3"> so</span> there&#39;s people like me there&#39;s</p>
+<p begin="00:01:12.000" end="00:01:15.360" style="s2">other people like me who don&#39;t know</p>
+<p begin="00:01:13.409" end="00:01:18.360" style="s2">anything about<span style="s3"> this issue how on earth</span></p>
+<p begin="00:01:15.360" end="00:01:21.869" style="s2">can we help what can we do about the</p>
+<p begin="00:01:18.360" end="00:01:23.790" style="s2">problem what we can do is collaborate so</p>
+<p begin="00:01:21.869" end="00:01:25.560" style="s2">we have been<span style="s3"> going out in the community</span></p>
+<p begin="00:01:23.790" end="00:01:27.479" style="s2">because<span style="s3"> like</span><span style="s4"> Kathy</span> mentioned there are</p>
+<p begin="00:01:25.560" end="00:01:28.979" style="s2">lots of inclusion issues at<span style="s4"> hack</span> night</p>
+<p begin="00:01:27.479" end="00:01:31.290" style="s2">especially for people that are</p>
+<p begin="00:01:28.979" end="00:01:33.780" style="s2">completely unfamiliar with this type of</p>
+<p begin="00:01:31.290" end="00:01:35.340" style="s2">environment so we&#39;ve been going out into</p>
+<p begin="00:01:33.780" end="00:01:38.250" style="s2">the community we&#39;ve been having people</p>
+<p begin="00:01:35.340" end="00:01:41.850" style="s2">come here and<span style="s3"> meet</span> with<span style="s3"> us</span> ah people</p>
+<p begin="00:01:38.250" end="00:01:43.590" style="s2">have attended re-entry fairs and reentry</p>
+<p begin="00:01:41.850" end="00:01:44.790" style="s2">circles to get more<span style="s3"> information</span> and meet</p>
+<p begin="00:01:43.590" end="00:01:47.670" style="s2"><span style="s4">with</span> people<span style="s3"> who</span> are<span style="s3"> actually</span> living</p>
+<p begin="00:01:44.790" end="00:01:50.030" style="s2">through this we went to st. Leonard&#39;s</p>
+<p begin="00:01:47.670" end="00:01:53.060" style="s2">ministry and took a tour and met with</p>
+<p begin="00:01:50.030" end="00:01:56.310" style="s2">the<span style="s4"> wonderful</span> people managing that</p>
+<p begin="00:01:53.060" end="00:01:59.159" style="s2">facility and also had a fantastic</p>
+<p begin="00:01:56.310" end="00:02:01.259" style="s2">discussion with people who actually have</p>
+<p begin="00:01:59.159" end="00:02:02.909" style="s2"><span style="s3">lived</span><span style="s4"> through</span> this entire process and</p>
+<p begin="00:02:01.259" end="00:02:06.000" style="s2">have come out on the other side better</p>
+<p begin="00:02:02.909" end="00:02:09.629" style="s2">for it we&#39;re also working with the</p>
+<p begin="00:02:06.000" end="00:02:11.550" style="s2">environmental justice project to web if</p>
+<p begin="00:02:09.629" end="00:02:13.440" style="s2">I there which<span style="s3"> I</span> know is not<span style="s3"> a</span> real word</p>
+<p begin="00:02:11.550" end="00:02:16.170" style="s2"><span style="s3">their re-entry</span><span style="s4"> guide</span> right now</p>
+<p begin="00:02:13.440" end="00:02:18.120" style="s2">it&#39;s a PDF that&#39;s<span style="s4"> online</span> and we met with</p>
+<p begin="00:02:16.170" end="00:02:20.640" style="s2"><span style="s3">them</span> in person we&#39;ve been<span style="s3"> trying</span><span style="s4"> to</span></p>
+<p begin="00:02:18.120" end="00:02:23.820" style="s2">figure<span style="s4"> out</span> the the best<span style="s3"> audience</span> for</p>
+<p begin="00:02:20.640" end="00:02:26.850" style="s2">them based on information from<span style="s3"> them</span> and</p>
+<p begin="00:02:23.820" end="00:02:28.530" style="s2">we&#39;ve been using all<span style="s3"> of</span> our meetings to</p>
+<p begin="00:02:26.850" end="00:02:30.900" style="s2">inform a decision about putting</p>
+<p begin="00:02:28.530" end="00:02:32.730" style="s2">information on this guide online like</p>
+<p begin="00:02:30.900" end="00:02:34.290" style="s2">what will be important to people who</p>
+<p begin="00:02:32.730" end="00:02:37.380" style="s2">will use this how will they be able to</p>
+<p begin="00:02:34.290" end="00:02:39.830" style="s2">use it<span style="s3"> and</span> our<span style="s3"> next</span> and future steps are</p>
+<p begin="00:02:37.380" end="00:02:44.760" style="s2">to continue helping and supporting</p>
+<p begin="00:02:39.830" end="00:02:47.220" style="s2">pre-existing projects like the education</p>
+<p begin="00:02:44.760" end="00:02:49.140" style="s2">justice project there is<span style="s3"> another</span> another</p>
+<p begin="00:02:47.220" end="00:02:51.720" style="s2">website out there reentry<span style="s3"> Illinois</span> net</p>
+<p begin="00:02:49.140" end="00:02:53.130" style="s2">that is really outdated and we&#39;re<span style="s4"> trying</span></p>
+<p begin="00:02:51.720" end="00:02:58.380" style="s2">to work with those<span style="s4"> people</span> to update<span style="s4"> that</span></p>
+<p begin="00:02:53.130" end="00:03:00.000" style="s2">also one of the plans is to some at<span style="s4"> some</span></p>
+<p begin="00:02:58.380" end="00:03:04.050" style="s2">point host a reentry and recidivism</p>
+<p begin="00:03:00.000" end="00:03:05.910" style="s2">hackathon and then also do some public</p>
+<p begin="00:03:04.050" end="00:03:08.550" style="s2">art and definitely community education</p>
+<p begin="00:03:05.910" end="00:03:10.140" style="s2">forums and we&#39;re always welcoming new</p>
+<p begin="00:03:08.550" end="00:03:12.810" style="s2">people this is definitely one<span style="s3"> of</span> those</p>
+<p begin="00:03:10.140" end="00:03:14.370" style="s2">breakout groups that anyone can join you</p>
+<p begin="00:03:12.810" end="00:03:16.230" style="s2">don&#39;t need to be super technical his</p>
+<p begin="00:03:14.370" end="00:03:18.290" style="s2">most of us aren&#39;t so come hang out with</p>
+<p begin="00:03:16.230" end="00:03:18.290" style="s2">us</p>
+<p begin="00:03:22.980" end="00:03:25.040" style="s2">you</p>
+</div>
+</body>
+</tt>

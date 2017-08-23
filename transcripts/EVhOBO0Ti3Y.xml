@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.790" end="00:00:09.269" style="s2">okay I apologize to<span style="s3"> the</span> Service</p>
+<p begin="00:00:07.529" end="00:00:13.380" style="s2">Employees International Union who</p>
+<p begin="00:00:09.269" end="00:00:15.920" style="s2">started the movement for 5 for 15 but in</p>
+<p begin="00:00:13.380" end="00:00:21.570" style="s2">history there&#39;s been always this</p>
+<p begin="00:00:15.920" end="00:00:23.490" style="s2">struggle between how people can get into</p>
+<p begin="00:00:21.570" end="00:00:27.710" style="s2">the workforce how they become productive</p>
+<p begin="00:00:23.490" end="00:00:32.550" style="s2">employees and how the labor costs affect</p>
+<p begin="00:00:27.710" end="00:00:35.610" style="s2">productivity and throughout<span style="s3"> the</span> 20th and</p>
+<p begin="00:00:32.550" end="00:00:39.600" style="s2">21st century technical ah technological</p>
+<p begin="00:00:35.610" end="00:00:43.770" style="s2">innovations have gone so<span style="s3"> far</span> as to make</p>
+<p begin="00:00:39.600" end="00:00:47.190" style="s2">some positions obsolete and other</p>
+<p begin="00:00:43.770" end="00:00:51.059" style="s2">positions easier to do and while it&#39;s</p>
+<p begin="00:00:47.190" end="00:00:57.870" style="s2">becoming more<span style="s4"> convenient</span> for for</p>
+<p begin="00:00:51.059" end="00:01:00.000" style="s2">companies and us to do things people who</p>
+<p begin="00:00:57.870" end="00:01:05.010" style="s2">are work behind the scenes helping you</p>
+<p begin="00:01:00.000" end="00:01:08.189" style="s2">are being let go and for example when</p>
+<p begin="00:01:05.010" end="00:01:10.350" style="s2">you have the we have restaurant<span style="s4"> workers</span></p>
+<p begin="00:01:08.189" end="00:01:13.040" style="s2">and other workers who work in<span style="s3"> the</span></p>
+<p begin="00:01:10.350" end="00:01:16.920" style="s2">building trying to get<span style="s3"> a</span> living wage</p>
+<p begin="00:01:13.040" end="00:01:19.320" style="s2">they will either the petition the</p>
+<p begin="00:01:16.920" end="00:01:21.210" style="s2">government for a<span style="s3"> regulation</span> that<span style="s4"> would</span></p>
+<p begin="00:01:19.320" end="00:01:23.780" style="s2"><span style="s4">increase</span><span style="s3"> the</span> minimum wage while</p>
+<p begin="00:01:21.210" end="00:01:26.580" style="s2">businesses try to keep the cost low and</p>
+<p begin="00:01:23.780" end="00:01:30.810" style="s2">try to work around<span style="s4"> anything</span> that happens</p>
+<p begin="00:01:26.580" end="00:01:32.670" style="s2">if they don&#39;t succeed in having of</p>
+<p begin="00:01:30.810" end="00:01:37.079" style="s2">things go their way and one of those</p>
+<p begin="00:01:32.670" end="00:01:39.270" style="s2"><span style="s4">examples</span> is this thing this desktop app</p>
+<p begin="00:01:37.079" end="00:01:42.240" style="s2">behind me that&#39;s used at several</p>
+<p begin="00:01:39.270" end="00:01:44.460" style="s2">restaurants so what happens there is</p>
+<p begin="00:01:42.240" end="00:01:48.299" style="s2">that instead of somebody taking your</p>
+<p begin="00:01:44.460" end="00:01:50.340" style="s2">order the you just press buttons and you</p>
+<p begin="00:01:48.299" end="00:01:53.009" style="s2">got<span style="s4"> your</span> order<span style="s4"> there&#39;s</span> also some places</p>
+<p begin="00:01:50.340" end="00:01:55.740" style="s2">that have beer taps<span style="s4"> that</span> are metered<span style="s3"> too</span></p>
+<p begin="00:01:53.009" end="00:01:58.829" style="s2">and they can scan your<span style="s4"> ID</span> and that so</p>
+<p begin="00:01:55.740" end="00:02:01.860" style="s2">you that replaces a worker and also</p>
+<p begin="00:01:58.829" end="00:02:04.729" style="s2">today is tax day how<span style="s4"> many people have</span></p>
+<p begin="00:02:01.860" end="00:02:09.270" style="s2">how many<span style="s4"> people</span> filed online today or</p>
+<p begin="00:02:04.729" end="00:02:11.190" style="s2">some other time and that&#39;s becoming an</p>
+<p begin="00:02:09.270" end="00:02:13.420" style="s2">automated<span style="s3"> process</span> to you don&#39;t need to</p>
+<p begin="00:02:11.190" end="00:02:15.640" style="s2">go<span style="s4"> to</span> tax preparer</p>
+<p begin="00:02:13.420" end="00:02:19.150" style="s2">the questions are asked and solved by a</p>
+<p begin="00:02:15.640" end="00:02:21.160" style="s2">computer so what happens in five years</p>
+<p begin="00:02:19.150" end="00:02:26.290" style="s2">is that<span style="s3"> the pace of</span><span style="s4"> technological</span></p>
+<p begin="00:02:21.160" end="00:02:29.319" style="s2"><span style="s3">advancement</span><span style="s4"> it&#39;s</span> going so<span style="s3"> fast</span> that a</p>
+<p begin="00:02:26.290" end="00:02:33.640" style="s2">lot<span style="s4"> of</span> jobs that<span style="s3"> are</span> becoming out will</p>
+<p begin="00:02:29.319" end="00:02:36.250" style="s2">become obsolete and that things like</p>
+<p begin="00:02:33.640" end="00:02:38.709" style="s2">global<span style="s4"> outsourcing</span> will make a lot of</p>
+<p begin="00:02:36.250" end="00:02:44.620" style="s2"><span style="s4">people</span> that will put a lot of people<span style="s4"> out</span></p>
+<p begin="00:02:38.709" end="00:02:48.010" style="s2"><span style="s4">of a job so where do we go</span><span style="s3"> with that but</span></p>
+<p begin="00:02:44.620" end="00:02:51.370" style="s2">somebody has to do the work and either</p>
+<p begin="00:02:48.010" end="00:02:55.390" style="s2">through what the through the outsourcing</p>
+<p begin="00:02:51.370" end="00:02:57.010" style="s2">or through a global globalization it</p>
+<p begin="00:02:55.390" end="00:03:00.239" style="s2"><span style="s4">would</span> be<span style="s4"> somebody</span> out there or</p>
+<p begin="00:02:57.010" end="00:03:03.100" style="s2">artificial intelligence takes over and</p>
+<p begin="00:03:00.239" end="00:03:04.600" style="s2">they do the work instead of<span style="s4"> a</span> humid and</p>
+<p begin="00:03:03.100" end="00:03:06.610" style="s2">you don&#39;t have to pay artificial</p>
+<p begin="00:03:04.600" end="00:03:08.799" style="s2">intelligence or computer but somebody</p>
+<p begin="00:03:06.610" end="00:03:12.100" style="s2">has to do the computer programming or</p>
+<p begin="00:03:08.799" end="00:03:16.019" style="s2">the support or the tech support and if a</p>
+<p begin="00:03:12.100" end="00:03:19.030" style="s2">customer who wants to interact<span style="s4"> with a</span></p>
+<p begin="00:03:16.019" end="00:03:24.540" style="s2">for either there or drink or for their</p>
+<p begin="00:03:19.030" end="00:03:26.859" style="s2">product<span style="s4"> or</span> service or even their 911 to</p>
+<p begin="00:03:24.540" end="00:03:31.299" style="s2">interact with<span style="s3"> a</span> human they don&#39;t want to</p>
+<p begin="00:03:26.859" end="00:03:35.320" style="s2">go through the voicemail health or do</p>
+<p begin="00:03:31.299" end="00:03:39.609" style="s2">other technological barriers to what get</p>
+<p begin="00:03:35.320" end="00:03:42.730" style="s2">things done and this eventually<span style="s3"> what</span></p>
+<p begin="00:03:39.609" end="00:03:46.299" style="s2">happens is that if<span style="s4"> enough</span> people are let</p>
+<p begin="00:03:42.730" end="00:03:48.730" style="s2">go is there could<span style="s4"> be</span> a demand</p>
+<p begin="00:03:46.299" end="00:03:50.230" style="s2">destruction people<span style="s4"> wouldn&#39;t</span> be able to</p>
+<p begin="00:03:48.730" end="00:03:53.530" style="s2"><span style="s4">be</span> paid they won&#39;t be able to shop</p>
+<p begin="00:03:50.230" end="00:03:56.440" style="s2">variety of all these products and</p>
+<p begin="00:03:53.530" end="00:04:00.010" style="s2">services sold dumb<span style="s4"> it&#39;s a merchandise</span></p>
+<p begin="00:03:56.440" end="00:04:03.040" style="s2">mart and they are they so for pretty</p>
+<p begin="00:04:00.010" end="00:04:06.850" style="s2">penny they try to get to they try to get</p>
+<p begin="00:04:03.040" end="00:04:08.709" style="s2"><span style="s4">you</span><span style="s3"> to</span> have this lifestyle which many</p>
+<p begin="00:04:06.850" end="00:04:14.769" style="s2">people cannot afford now because they</p>
+<p begin="00:04:08.709" end="00:04:17.680" style="s2">can&#39;t get work if you<span style="s4"> look</span> at<span style="s3"> the</span> if<span style="s4"> you</span></p>
+<p begin="00:04:14.769" end="00:04:20.769" style="s2">exceed up its of economics majors in</p>
+<p begin="00:04:17.680" end="00:04:23.140" style="s2">here there&#39;s a chart put out by<span style="s3"> Frank</span></p>
+<p begin="00:04:20.769" end="00:04:24.520" style="s2">night and by others called the circular</p>
+<p begin="00:04:23.140" end="00:04:28.110" style="s2">flow then</p>
+<p begin="00:04:24.520" end="00:04:31.900" style="s2">come where households and firms either</p>
+<p begin="00:04:28.110" end="00:04:33.879" style="s2">solar services or seller goods and what</p>
+<p begin="00:04:31.900" end="00:04:35.800" style="s2">could happen is that so you could<span style="s3"> have</span> a</p>
+<p begin="00:04:33.879" end="00:04:38.949" style="s2">two-tiered economy where people who</p>
+<p begin="00:04:35.800" end="00:04:41.889" style="s2">still have jobs will be<span style="s3"> able</span><span style="s4"> to</span></p>
+<p begin="00:04:38.949" end="00:04:44.199" style="s2">participate in<span style="s4"> that</span> economy but the</p>
+<p begin="00:04:41.889" end="00:04:47.020" style="s2">people who<span style="s4"> are</span> left behind may have to</p>
+<p begin="00:04:44.199" end="00:04:49.720" style="s2">start their own circular flow of income</p>
+<p begin="00:04:47.020" end="00:04:54.340" style="s2">and since there are not experienced or</p>
+<p begin="00:04:49.720" end="00:04:57.810" style="s2">attached to that primary workforce they</p>
+<p begin="00:04:54.340" end="00:05:03.550" style="s2">would have<span style="s3"> their</span> struggle<span style="s3"> to</span> get<span style="s4"> by and</span></p>
+<p begin="00:04:57.810" end="00:05:06.370" style="s2"><span style="s3">they</span> would<span style="s3"> know</span> struggle and<span style="s4"> to</span> you have</p>
+<p begin="00:05:03.550" end="00:05:10.680" style="s2"><span style="s4">things</span> like<span style="s4"> that</span> happening and we see</p>
+<p begin="00:05:06.370" end="00:05:13.750" style="s2"><span style="s3">this</span> in the gig economy we see this with</p>
+<p begin="00:05:10.680" end="00:05:18.280" style="s2">globalized the workers who are from</p>
+<p begin="00:05:13.750" end="00:05:22.330" style="s2">overseas providing services and support</p>
+<p begin="00:05:18.280" end="00:05:24.099" style="s2"><span style="s4">for</span> us here and<span style="s4"> also</span> people<span style="s4"> who</span> are</p>
+<p begin="00:05:22.330" end="00:05:26.520" style="s2">considered to be unauthorized workers</p>
+<p begin="00:05:24.099" end="00:05:32.259" style="s2">who employers can take advantage of</p>
+<p begin="00:05:26.520" end="00:05:35.650" style="s2">because they can prey on the fear of the</p>
+<p begin="00:05:32.259" end="00:05:37.060" style="s2"><span style="s4">unauthorized</span> worker who might not<span style="s3"> be</span></p>
+<p begin="00:05:35.650" end="00:05:40.090" style="s2">getting as much money as they&#39;re<span style="s4"> being</span></p>
+<p begin="00:05:37.060" end="00:05:43.029" style="s2">reported to getting<span style="s4"> because</span> the employer</p>
+<p begin="00:05:40.090" end="00:05:48.400" style="s2">knows<span style="s4"> they&#39;re</span> unauthorized so what do we</p>
+<p begin="00:05:43.029" end="00:05:50.860" style="s2">do about automation so if enough if</p>
+<p begin="00:05:48.400" end="00:05:53.830" style="s2">there&#39;s enough technology<span style="s4"> Bill</span> Gates</p>
+<p begin="00:05:50.860" end="00:05:56.440" style="s2">suggests there&#39;s a basic universal</p>
+<p begin="00:05:53.830" end="00:05:59.560" style="s2">income which means give everybody</p>
+<p begin="00:05:56.440" end="00:06:02.050" style="s2">something to provide<span style="s3"> for</span> the provide for</p>
+<p begin="00:05:59.560" end="00:06:04.810" style="s2">themselves but anybody who can find work</p>
+<p begin="00:06:02.050" end="00:06:07.630" style="s2">will probably have more and you&#39;ll<span style="s3"> have</span></p>
+<p begin="00:06:04.810" end="00:06:10.419" style="s2">some problem the other problem with that</p>
+<p begin="00:06:07.630" end="00:06:14.080" style="s2">because you&#39;ll have<span style="s4"> that</span> two-tiered</p>
+<p begin="00:06:10.419" end="00:06:20.110" style="s2">economic structure<span style="s3"> case</span> similar to that</p>
+<p begin="00:06:14.080" end="00:06:24.699" style="s2">idea is a is a automation dividend where</p>
+<p begin="00:06:20.110" end="00:06:29.050" style="s2">everybody has a share in some sort of</p>
+<p begin="00:06:24.699" end="00:06:31.569" style="s2">robotic idea or automation process and</p>
+<p begin="00:06:29.050" end="00:06:33.510" style="s2">they got money from<span style="s4"> the</span> dividend based</p>
+<p begin="00:06:31.569" end="00:06:37.170" style="s2">on what the</p>
+<p begin="00:06:33.510" end="00:06:39.360" style="s2">based on how productive that process<span style="s3"> is</span></p>
+<p begin="00:06:37.170" end="00:06:42.120" style="s2">but<span style="s4"> again</span> you have that problem because</p>
+<p begin="00:06:39.360" end="00:06:45.570" style="s2">some places you have more capital would</p>
+<p begin="00:06:42.120" end="00:06:50.730" style="s2"><span style="s4">be</span> able<span style="s3"> to</span> make more money and squeeze</p>
+<p begin="00:06:45.570" end="00:06:56.330" style="s2">out the<span style="s3"> workers</span> who or people who don&#39;t</p>
+<p begin="00:06:50.730" end="00:07:01.080" style="s2"><span style="s3">have</span> that much access<span style="s3"> to</span> the resources</p>
+<p begin="00:06:56.330" end="00:07:03.840" style="s2">but we can also have you<span style="s4"> also</span> have an</p>
+<p begin="00:07:01.080" end="00:07:05.930" style="s2">idea<span style="s3"> of</span> cooperative economics where</p>
+<p begin="00:07:03.840" end="00:07:09.150" style="s2">everybody here are in the local area</p>
+<p begin="00:07:05.930" end="00:07:12.000" style="s2"><span style="s4">provide</span> support for each other and while</p>
+<p begin="00:07:09.150" end="00:07:15.420" style="s2">the big companies work around the globe</p>
+<p begin="00:07:12.000" end="00:07:18.210" style="s2">and maybe even ignore the people who</p>
+<p begin="00:07:15.420" end="00:07:23.580" style="s2">work locally there will be<span style="s4"> some</span> gap and</p>
+<p begin="00:07:18.210" end="00:07:27.510" style="s2">some niche that we can provide<span style="s3"> to</span> take</p>
+<p begin="00:07:23.580" end="00:07:32.880" style="s2">care<span style="s4"> of</span><span style="s3"> ourselves</span> and to upgrade the</p>
+<p begin="00:07:27.510" end="00:07:37.050" style="s2">standard of<span style="s4"> living</span> Ted Hollander of the</p>
+<p begin="00:07:32.880" end="00:07:39.510" style="s2">Illinois CPA society has an idea where</p>
+<p begin="00:07:37.050" end="00:07:41.610" style="s2">you was self you&#39;re certain you sell</p>
+<p begin="00:07:39.510" end="00:07:44.730" style="s2">your goods or services to strangers<span style="s3"> but</span></p>
+<p begin="00:07:41.610" end="00:07:48.120" style="s2">you buy your goods and services from</p>
+<p begin="00:07:44.730" end="00:07:51.480" style="s2">your friends because<span style="s4"> that</span> way the</p>
+<p begin="00:07:48.120" end="00:07:54.330" style="s2">outflow the inflow of income comes</p>
+<p begin="00:07:51.480" end="00:07:57.120" style="s2">toward us and then not away<span style="s3"> from</span> us like</p>
+<p begin="00:07:54.330" end="00:08:03.230" style="s2">you<span style="s4"> do</span> if you buy online<span style="s4"> or</span> by through</p>
+<p begin="00:07:57.120" end="00:08:06.810" style="s2">these so automated processes so I so I</p>
+<p begin="00:08:03.230" end="00:08:08.570" style="s2">thank you for listening and have a good</p>
+<p begin="00:08:06.810" end="00:08:13.810" style="s2">night</p>
+<p begin="00:08:08.570" end="00:08:13.810" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

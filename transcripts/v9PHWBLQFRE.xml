@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.150" end="00:00:12.210" style="s2">so that we do thank you appreciate it</p>
+<p begin="00:00:09.950" end="00:00:15.690" style="s2"><span style="s3">all right yes there is stuff going on</span></p>
+<p begin="00:00:12.210" end="00:00:20.160" style="s2">the federal level as well how<span style="s3"> many</span></p>
+<p begin="00:00:15.690" end="00:00:27.359" style="s2">people<span style="s4"> have</span> seen<span style="s3"> this</span> document wow</p>
+<p begin="00:00:20.160" end="00:00:32.489" style="s2">really what about<span style="s3"> the</span> 18 up guy all</p>
+<p begin="00:00:27.359" end="00:00:36.180" style="s2">right all right we&#39;ll talk<span style="s3"> later</span> so so</p>
+<p begin="00:00:32.489" end="00:00:40.430" style="s2">this<span style="s3"> is</span> the M 1313 this is the executive</p>
+<p begin="00:00:36.180" end="00:00:45.120" style="s2">order<span style="s3"> that</span> says that thou shalt make</p>
+<p begin="00:00:40.430" end="00:00:47.280" style="s2">data open by default and the most</p>
+<p begin="00:00:45.120" end="00:00:48.480" style="s2">interesting part about it is you know</p>
+<p begin="00:00:47.280" end="00:00:51.239" style="s2">when when something like this comes</p>
+<p begin="00:00:48.480" end="00:00:56.010" style="s2">along something<span style="s3"> that&#39;s</span> big how does it</p>
+<p begin="00:00:51.239" end="00:00:59.219" style="s2"><span style="s3">actually</span> get implemented and I think on</p>
+<p begin="00:00:56.010" end="00:01:02.219" style="s2">I on a individual basis it goes</p>
+<p begin="00:00:59.219" end="00:01:04.500" style="s2">something like this so I&#39;m a a program</p>
+<p begin="00:01:02.219" end="00:01:07.799" style="s2">owner therefore I have lots of data my</p>
+<p begin="00:01:04.500" end="00:01:10.320" style="s2">boss comes to<span style="s3"> me</span> and says hey<span style="s4"> I</span> got this</p>
+<p begin="00:01:07.799" end="00:01:13.229" style="s2">executive order we&#39;re told that you need</p>
+<p begin="00:01:10.320" end="00:01:17.130" style="s2">to make everything available and I say</p>
+<p begin="00:01:13.229" end="00:01:19.350" style="s2">well wait a<span style="s3"> minute</span> who is the audience</p>
+<p begin="00:01:17.130" end="00:01:22.560" style="s2">and how are they going to use this data</p>
+<p begin="00:01:19.350" end="00:01:24.299" style="s2"><span style="s3">you</span> look at the orders<span style="s3"> I</span> I don&#39;t know it</p>
+<p begin="00:01:22.560" end="00:01:26.490" style="s2">does it doesn&#39;t say it<span style="s4"> just</span><span style="s3"> says</span> you</p>
+<p begin="00:01:24.299" end="00:01:30.810" style="s2">need<span style="s4"> to</span> make it<span style="s3"> available</span> so okay well</p>
+<p begin="00:01:26.490" end="00:01:33.450" style="s2">we have tons of data we have we have a</p>
+<p begin="00:01:30.810" end="00:01:38.009" style="s2">program data we have sponsored research</p>
+<p begin="00:01:33.450" end="00:01:40.140" style="s2">we we have various surveys how do I<span style="s3"> know</span></p>
+<p begin="00:01:38.009" end="00:01:42.060" style="s2">when I&#39;m done it&#39;s like well<span style="s4"> it</span> says</p>
+<p begin="00:01:40.140" end="00:01:45.470" style="s2">here you got to make everything</p>
+<p begin="00:01:42.060" end="00:01:49.560" style="s2">available<span style="s3"> okay</span> we&#39;ll get right on that</p>
+<p begin="00:01:45.470" end="00:01:51.270" style="s2">now what about personally identifiable</p>
+<p begin="00:01:49.560" end="00:01:53.640" style="s2">information or risk of<span style="s4"> RIA denta</span></p>
+<p begin="00:01:51.270" end="00:01:58.350" style="s2">fication that&#39;s hard<span style="s3"> to</span> do that&#39;s</p>
+<p begin="00:01:53.640" end="00:02:00.869" style="s2">expensive what&#39;s my budget oh yeah but</p>
+<p begin="00:01:58.350" end="00:02:08.580" style="s2">the budget there is no budget this is</p>
+<p begin="00:02:00.869" end="00:02:13.310" style="s2">just a mandate so fast forward<span style="s3"> three</span></p>
+<p begin="00:02:08.580" end="00:02:15.590" style="s2">years<span style="s4"> it gets 2016 now we have to</span></p>
+<p begin="00:02:13.310" end="00:02:19.640" style="s2">a thousand<span style="s3"> data sets at the federal</span></p>
+<p begin="00:02:15.590" end="00:02:23.860" style="s2">level at data gov which i think is</p>
+<p begin="00:02:19.640" end="00:02:28.010" style="s2">really<span style="s3"> impressive</span> given what sort of</p>
+<p begin="00:02:23.860" end="00:02:29.780" style="s2">constraints the data owners are under</p>
+<p begin="00:02:28.010" end="00:02:34.730" style="s2">and the fact that this<span style="s4"> is</span> not even<span style="s3"> the</span></p>
+<p begin="00:02:29.780" end="00:02:37.420" style="s2">primary job so my big tip of<span style="s3"> the hat to</span></p>
+<p begin="00:02:34.730" end="00:02:41.060" style="s2">them for<span style="s3"> doing</span> such a such a great job</p>
+<p begin="00:02:37.420" end="00:02:45.530" style="s2">however there&#39;s a problem there<span style="s3"> are</span> no</p>
+<p begin="00:02:41.060" end="00:02:49.970" style="s2">provisions in this order for measurement</p>
+<p begin="00:02:45.530" end="00:02:52.610" style="s2"><span style="s3">of</span> value and what happens when you have</p>
+<p begin="00:02:49.970" end="00:02:58.250" style="s2">no measure<span style="s3"> of</span> value even</p>
+<p begin="00:02:52.610" end="00:02:59.810" style="s2">well-intentioned data owners what do</p>
+<p begin="00:02:58.250" end="00:03:02.780" style="s2"><span style="s3">they</span> do they<span style="s3"> have</span> an<span style="s4"> incentive</span> to</p>
+<p begin="00:02:59.810" end="00:03:05.450" style="s2">release what is easiest and what is</p>
+<p begin="00:03:02.780" end="00:03:09.650" style="s2">least risky so you have a proliferation</p>
+<p begin="00:03:05.450" end="00:03:13.160" style="s2">of<span style="s3"> data sets a lot of</span> them pretty low</p>
+<p begin="00:03:09.650" end="00:03:18.670" style="s2">value and<span style="s3"> that</span> makes it harder<span style="s3"> even</span></p>
+<p begin="00:03:13.160" end="00:03:18.670" style="s2">harder to find the the one that you need</p>
+<p begin="00:03:19.540" end="00:03:25.190" style="s2">so this is<span style="s4"> a</span> good<span style="s3"> time</span> to take a little</p>
+<p begin="00:03:22.160" end="00:03:26.750" style="s2">bit of a step back tell you what<span style="s3"> this</span></p>
+<p begin="00:03:25.190" end="00:03:29.590" style="s2">thing is about so<span style="s3"> I&#39;m</span> going<span style="s3"> to</span> tell<span style="s4"> you</span></p>
+<p begin="00:03:26.750" end="00:03:33.410" style="s2">about a<span style="s3"> program</span> that&#39;s called</p>
+<p begin="00:03:29.590" end="00:03:35.390" style="s2">demand-driven open data or Dee do Dee it</p>
+<p begin="00:03:33.410" end="00:03:36.920" style="s2">is the government&#39;s I was told it needs</p>
+<p begin="00:03:35.390" end="00:03:43.600" style="s2">a convoluted acronym so there you have</p>
+<p begin="00:03:36.920" end="00:03:49.010" style="s2">it this program was launched in 2014 as</p>
+<p begin="00:03:43.600" end="00:03:51.470" style="s2">part of the HHS&#39;s that&#39;s US Department</p>
+<p begin="00:03:49.010" end="00:03:53.840" style="s2"><span style="s3">healthcare</span> services entrepreneur</p>
+<p begin="00:03:51.470" end="00:03:56.030" style="s2"><span style="s3">residence</span> program where they bring in</p>
+<p begin="00:03:53.840" end="00:04:00.049" style="s2">experts from industry to launch new</p>
+<p begin="00:03:56.030" end="00:04:04.100" style="s2">initiatives and my<span style="s3"> background</span> is a big</p>
+<p begin="00:04:00.049" end="00:04:07.180" style="s2">data architect a health tech CTO and I</p>
+<p begin="00:04:04.100" end="00:04:10.280" style="s2">work with incubators to mentor startups</p>
+<p begin="00:04:07.180" end="00:04:12.739" style="s2">so the<span style="s3"> concept</span> of lean data and applying</p>
+<p begin="00:04:10.280" end="00:04:17.150" style="s2">lean data to open data seemed very</p>
+<p begin="00:04:12.739" end="00:04:19.989" style="s2">natural to me there are three<span style="s3"> components</span></p>
+<p begin="00:04:17.150" end="00:04:23.539" style="s2">to that there is first and foremost</p>
+<p begin="00:04:19.989" end="00:04:25.940" style="s2">understand the customer and in the</p>
+<p begin="00:04:23.539" end="00:04:26.680" style="s2">context of open data the customer could</p>
+<p begin="00:04:25.940" end="00:04:30.270" style="s2">be</p>
+<p begin="00:04:26.680" end="00:04:32.830" style="s2">any commercial entity it could be a</p>
+<p begin="00:04:30.270" end="00:04:34.600" style="s2"><span style="s3">non-profit</span> could be researcher could be</p>
+<p begin="00:04:32.830" end="00:04:37.180" style="s2">even other government agency but it&#39;s</p>
+<p begin="00:04:34.600" end="00:04:39.250" style="s2">got<span style="s3"> to</span> be an external customer the</p>
+<p begin="00:04:37.180" end="00:04:41.560" style="s2">Minimum Viable Product MVP<span style="s3"> very</span> simple</p>
+<p begin="00:04:39.250" end="00:04:44.039" style="s2">don&#39;t over engineer the solution and</p>
+<p begin="00:04:41.560" end="00:04:47.229" style="s2">finally measurement is super critical</p>
+<p begin="00:04:44.039" end="00:04:50.080" style="s2"><span style="s4">especially</span> in the build measure learn</p>
+<p begin="00:04:47.229" end="00:04:53.500" style="s2">feedback loop and<span style="s4"> dee</span> do<span style="s4"> dee</span> from<span style="s3"> its</span></p>
+<p begin="00:04:50.080" end="00:04:59.229" style="s2">very beginning is all about measurement</p>
+<p begin="00:04:53.500" end="00:05:03.220" style="s2">and measuring value so what we&#39;re<span style="s4"> doing</span></p>
+<p begin="00:04:59.229" end="00:05:05.680" style="s2"><span style="s3">is</span> we&#39;re taking the mentality from first</p>
+<p begin="00:05:03.220" end="00:05:07.960" style="s2">let&#39;s deploy something and then</p>
+<p begin="00:05:05.680" end="00:05:10.780" style="s2">encourage people to<span style="s4"> use</span> it through</p>
+<p begin="00:05:07.960" end="00:05:13.389" style="s2">hackathons and so on<span style="s4"> to</span> well first let&#39;s</p>
+<p begin="00:05:10.780" end="00:05:16.780" style="s2"><span style="s3">make</span> sure<span style="s3"> that</span><span style="s4"> there</span> is actually<span style="s4"> a</span> use</p>
+<p begin="00:05:13.389" end="00:05:18.220" style="s2">for this data and we&#39;re taking<span style="s4"> the</span></p>
+<p begin="00:05:16.780" end="00:05:21.970" style="s2">measurement<span style="s4"> from</span> well let&#39;s just count</p>
+<p begin="00:05:18.220" end="00:05:25.539" style="s2">how many we put out there too well what</p>
+<p begin="00:05:21.970" end="00:05:29.830" style="s2"><span style="s3">is</span> the value in the use case that&#39;s</p>
+<p begin="00:05:25.539" end="00:05:33.240" style="s2">being<span style="s4"> delivered</span> by<span style="s4"> the</span> by the<span style="s3"> data</span> and i</p>
+<p begin="00:05:29.830" end="00:05:36.490" style="s2">want<span style="s3"> to</span> emphasize use cases in<span style="s3"> this</span></p>
+<p begin="00:05:33.240" end="00:05:40.479" style="s2"><span style="s3">everything</span> in<span style="s4"> dee</span> do<span style="s4"> dee</span> is measured in</p>
+<p begin="00:05:36.490" end="00:05:43.960" style="s2">terms of use cases which is a very</p>
+<p begin="00:05:40.479" end="00:05:47.199" style="s2">specific application of a data set for a</p>
+<p begin="00:05:43.960" end="00:05:51.190" style="s2">specific customer or user with a</p>
+<p begin="00:05:47.199" end="00:05:53.260" style="s2">predefined value and for those<span style="s4"> of</span> you</p>
+<p begin="00:05:51.190" end="00:05:58.659" style="s2">who are visual this<span style="s3"> is</span> what it looks</p>
+<p begin="00:05:53.260" end="00:06:00.970" style="s2">like besides the the summary and the</p>
+<p begin="00:05:58.659" end="00:06:04.780" style="s2">technical specifications sections</p>
+<p begin="00:06:00.970" end="00:06:09.389" style="s2">there&#39;s always a value both to<span style="s3"> the</span> user</p>
+<p begin="00:06:04.780" end="00:06:09.389" style="s2">and to the public<span style="s4"> at</span> large</p>
+<p begin="00:06:15.320" end="00:06:21.060" style="s2">when we measure<span style="s4"> the</span> value of a use case</p>
+<p begin="00:06:18.420" end="00:06:23.880" style="s2">there any number of ways to<span style="s4"> look</span> at it</p>
+<p begin="00:06:21.060" end="00:06:29.310" style="s2">so on the left here we have the<span style="s3"> six</span></p>
+<p begin="00:06:23.880" end="00:06:32.580" style="s2">typical categories just cataloging the</p>
+<p begin="00:06:29.310" end="00:06:34.740" style="s2">use case identifying what is its</p>
+<p begin="00:06:32.580" end="00:06:38.280" style="s2">provenance how is it applied in a</p>
+<p begin="00:06:34.740" end="00:06:41.820" style="s2">particular situation is hugely important</p>
+<p begin="00:06:38.280" end="00:06:45.420" style="s2">it provides the the base for others to</p>
+<p begin="00:06:41.820" end="00:06:49.590" style="s2">come in and build on and it becomes part</p>
+<p begin="00:06:45.420" end="00:06:51.000" style="s2">of the<span style="s3"> the public discourse the various</span></p>
+<p begin="00:06:49.590" end="00:06:53.730" style="s2">categories in the middle are just</p>
+<p begin="00:06:51.000" end="00:06:56.700" style="s2">different aspects the different ways you</p>
+<p begin="00:06:53.730" end="00:06:58.170" style="s2"><span style="s3">can</span> improve existing data sets then</p>
+<p begin="00:06:56.700" end="00:07:00.270" style="s2">there is<span style="s4"> the ability to release data</span></p>
+<p begin="00:06:58.170" end="00:07:03.630" style="s2">sets and then the coolest part<span style="s3"> of</span> all at</p>
+<p begin="00:07:00.270" end="00:07:08.040" style="s2">the very top is the ability to<span style="s3"> look</span></p>
+<p begin="00:07:03.630" end="00:07:13.100" style="s2">across multiple datasets notice trends</p>
+<p begin="00:07:08.040" end="00:07:17.550" style="s2">and provide a solution that<span style="s4"> fits</span> and</p>
+<p begin="00:07:13.100" end="00:07:20.850" style="s2">addresses multiple use cases and quite</p>
+<p begin="00:07:17.550" end="00:07:24.390" style="s2">often such a solution looks like staying</p>
+<p begin="00:07:20.850" end="00:07:26.640" style="s2">up implementing standards what you have</p>
+<p begin="00:07:24.390" end="00:07:30.650" style="s2">down the middle here is just<span style="s3"> a</span> tally of</p>
+<p begin="00:07:26.640" end="00:07:36.600" style="s2">what the use cases are looking like at</p>
+<p begin="00:07:30.650" end="00:07:43.620" style="s2"><span style="s3">at</span> HHS and this is a<span style="s4"> a</span> chart that&#39;s</p>
+<p begin="00:07:36.600" end="00:07:46.280" style="s2">generated on a daily basis so to get you</p>
+<p begin="00:07:43.620" end="00:07:50.910" style="s2">a little<span style="s4"> bit</span> deeper give you a sense for</p>
+<p begin="00:07:46.280" end="00:07:53.510" style="s2">what these use cases look like here&#39;s</p>
+<p begin="00:07:50.910" end="00:07:58.110" style="s2">one that was born out<span style="s3"> of</span> frustration</p>
+<p begin="00:07:53.510" end="00:08:01.320" style="s2">with<span style="s4"> the</span> FDA they have multiple</p>
+<p begin="00:07:58.110" end="00:08:04.770" style="s2">databases they did<span style="s3"> not</span> provide any</p>
+<p begin="00:08:01.320" end="00:08:06.990" style="s2">unique identifiers the history was</p>
+<p begin="00:08:04.770" end="00:08:10.050" style="s2">changing all the time and the</p>
+<p begin="00:08:06.990" end="00:08:12.900" style="s2"><span style="s4">organization that was trying to use this</span></p>
+<p begin="00:08:10.050" end="00:08:15.390" style="s2">data to help with Public Safety and</p>
+<p begin="00:08:12.900" end="00:08:18.390" style="s2">hospitals was just not able to reconcile</p>
+<p begin="00:08:15.390" end="00:08:21.690" style="s2">it so we worked over a period of several</p>
+<p begin="00:08:18.390" end="00:08:23.670" style="s2">months<span style="s3"> with</span><span style="s4"> the</span> FDA specifically<span style="s4"> to</span></p>
+<p begin="00:08:21.690" end="00:08:26.790" style="s2">together<span style="s3"> that</span> the technical<span style="s4"> requirements</span></p>
+<p begin="00:08:23.670" end="00:08:29.970" style="s2"><span style="s3">right</span> and then they released a sin</p>
+<p begin="00:08:26.790" end="00:08:33.419" style="s2">single data source yes complete with</p>
+<p begin="00:08:29.970" end="00:08:39.210" style="s2">unique identifiers and an API and<span style="s3"> it</span></p>
+<p begin="00:08:33.419" end="00:08:42.090" style="s2">solve the problems this<span style="s4"> is</span> an</p>
+<p begin="00:08:39.210" end="00:08:43.560" style="s2">interesting use case because<span style="s3"> it</span> shows</p>
+<p begin="00:08:42.090" end="00:08:48.050" style="s2">that you actually don&#39;t even<span style="s4"> need</span> to get</p>
+<p begin="00:08:43.560" end="00:08:53.910" style="s2"><span style="s3">the</span> government<span style="s3"> involved</span> somebody asked</p>
+<p begin="00:08:48.050" end="00:08:59.460" style="s2">SP if they<span style="s3"> could</span> provide an API to doing</p>
+<p begin="00:08:53.910" end="00:09:01.350" style="s2">up poverty level calculations well to</p>
+<p begin="00:08:59.460" end="00:09:05.790" style="s2">make a long<span style="s3"> story</span> short<span style="s4"> there&#39;s</span> a very</p>
+<p begin="00:09:01.350" end="00:09:08.490" style="s2"><span style="s3">vigorous</span> discussion on github at the end</p>
+<p begin="00:09:05.790" end="00:09:10.470" style="s2">somebody said you know what<span style="s3"> I</span> actually</p>
+<p begin="00:09:08.490" end="00:09:13.230" style="s2">have this code and by the way thank you</p>
+<p begin="00:09:10.470" end="00:09:16.350" style="s2"><span style="s3">Code</span> for America I know your ears perk</p>
+<p begin="00:09:13.230" end="00:09:20.370" style="s2">up and am not only<span style="s3"> that</span> i&#39;m actually</p>
+<p begin="00:09:16.350" end="00:09:24.750" style="s2"><span style="s4">gonna</span><span style="s3"> host</span> it for you so no no work had</p>
+<p begin="00:09:20.370" end="00:09:26.370" style="s2">to be done by the actual agency this one</p>
+<p begin="00:09:24.750" end="00:09:29.550" style="s2">is is so obvious it&#39;s almost</p>
+<p begin="00:09:26.370" end="00:09:34.100" style="s2">embarrassing we have an organization</p>
+<p begin="00:09:29.550" end="00:09:37.190" style="s2">that needed<span style="s4"> medicaid</span> enrollees data and</p>
+<p begin="00:09:34.100" end="00:09:41.400" style="s2">they<span style="s3"> needed</span> to<span style="s4"> analyze</span> it across</p>
+<p begin="00:09:37.190" end="00:09:43.500" style="s2">multiple states and across multiple year</p>
+<p begin="00:09:41.400" end="00:09:49.830" style="s2">so that they know where to<span style="s3"> focus</span> their</p>
+<p begin="00:09:43.500" end="00:09:55.020" style="s2">resources well we had the data that<span style="s4"> i</span></p>
+<p begin="00:09:49.830" end="00:09:59.490" style="s2">needed<span style="s3"> was</span> fragmented across<span style="s4"> 50</span> PDF</p>
+<p begin="00:09:55.020" end="00:10:04.410" style="s2">files one for<span style="s3"> each</span> state and and one for</p>
+<p begin="00:09:59.490" end="00:10:07.740" style="s2">each each year so once we<span style="s3"> got to working</span></p>
+<p begin="00:10:04.410" end="00:10:10.980" style="s2"><span style="s3">with</span> the data owner it actually<span style="s3"> didn&#39;t</span></p>
+<p begin="00:10:07.740" end="00:10:14.220" style="s2">take very long to get them to produce a</p>
+<p begin="00:10:10.980" end="00:10:19.110" style="s2">single consolidated excel file that that</p>
+<p begin="00:10:14.220" end="00:10:20.970" style="s2">does the trick and this is an example</p>
+<p begin="00:10:19.110" end="00:10:23.820" style="s2"><span style="s4">that i&#39;m most proud of</span> this is the</p>
+<p begin="00:10:20.970" end="00:10:27.630" style="s2">coolest part this<span style="s4"> is an</span><span style="s3"> example</span> of where</p>
+<p begin="00:10:23.820" end="00:10:30.590" style="s2">you can take a look across multiple use</p>
+<p begin="00:10:27.630" end="00:10:33.630" style="s2">cases in<span style="s3"> this</span> case you got<span style="s3"> seven</span></p>
+<p begin="00:10:30.590" end="00:10:35.970" style="s2">identify trends and what needs<span style="s3"> to</span> be</p>
+<p begin="00:10:33.630" end="00:10:38.340" style="s2">done so in this case we recognize</p>
+<p begin="00:10:35.970" end="00:10:41.130" style="s2">there&#39;s a there&#39;s a really<span style="s4"> strong</span> need</p>
+<p begin="00:10:38.340" end="00:10:47.810" style="s2">for a standard</p>
+<p begin="00:10:41.130" end="00:10:47.810" style="s2">is a health care provider network and</p>
+<p begin="00:10:47.870" end="00:10:56.820" style="s2">what we ended up doing as a result is</p>
+<p begin="00:10:51.470" end="00:11:00.120" style="s2">getting together a a group of industry</p>
+<p begin="00:10:56.820" end="00:11:03.330" style="s2">experts to provide input to the</p>
+<p begin="00:11:00.120" end="00:11:06.630" style="s2"><span style="s4">regulators</span> at CMS and at the same<span style="s4"> time</span></p>
+<p begin="00:11:03.330" end="00:11:09.690" style="s2">we reached out to google to create a</p>
+<p begin="00:11:06.630" end="00:11:13.340" style="s2">parallel standard a parallel schema on</p>
+<p begin="00:11:09.690" end="00:11:17.330" style="s2">schema.org and what this lets you do is</p>
+<p begin="00:11:13.340" end="00:11:21.480" style="s2">for a medical practice you can now</p>
+<p begin="00:11:17.330" end="00:11:24.060" style="s2">publish your provider directory your</p>
+<p begin="00:11:21.480" end="00:11:27.660" style="s2"><span style="s4">doctor&#39;s</span> directly on your website and</p>
+<p begin="00:11:24.060" end="00:11:29.670" style="s2">search engines will understand what what</p>
+<p begin="00:11:27.660" end="00:11:43.860" style="s2">is the specialty what are their hours</p>
+<p begin="00:11:29.670" end="00:11:49.040" style="s2">and so on<span style="s4"> so</span><span style="s3"> that</span> brings us<span style="s4"> to</span> today and</p>
+<p begin="00:11:43.860" end="00:11:53.850" style="s2">as I was wrapping up my fellowship I</p>
+<p begin="00:11:49.040" end="00:11:58.230" style="s2">realized oh crap this even this pilot is</p>
+<p begin="00:11:53.850" end="00:12:01.890" style="s2">not funded going<span style="s3"> forward</span> and not only</p>
+<p begin="00:11:58.230" end="00:12:06.270" style="s2">that I hear<span style="s3"> that</span> there is a presidential</p>
+<p begin="00:12:01.890" end="00:12:09.480" style="s2">election going<span style="s3"> on</span> and you know there&#39;s a</p>
+<p begin="00:12:06.270" end="00:12:12.510" style="s2">lot<span style="s4"> of</span> risk associated with that<span style="s3"> I</span> mean</p>
+<p begin="00:12:09.480" end="00:12:16.080" style="s2"><span style="s4">not</span><span style="s3"> only</span> do you have changes<span style="s4"> in</span> the in</p>
+<p begin="00:12:12.510" end="00:12:19.080" style="s2">budgets associated with at the White</p>
+<p begin="00:12:16.080" end="00:12:21.390" style="s2">House<span style="s4"> and in</span><span style="s3"> the</span> cabinet level but the</p>
+<p begin="00:12:19.080" end="00:12:24.300" style="s2">fact that everything has been done since</p>
+<p begin="00:12:21.390" end="00:12:29.520" style="s2">2013 by executive order it&#39;s not even</p>
+<p begin="00:12:24.300" end="00:12:30.840" style="s2">law poses a<span style="s3"> huge</span> amount of risk somebody</p>
+<p begin="00:12:29.520" end="00:12:32.790" style="s2"><span style="s3">could</span> just come in a couple of months</p>
+<p begin="00:12:30.840" end="00:12:34.830" style="s2"><span style="s3">from</span> now and say let&#39;s build the wall</p>
+<p begin="00:12:32.790" end="00:12:43.020" style="s2">across Mexico and this is this open data</p>
+<p begin="00:12:34.830" end="00:12:48.260" style="s2">stuff is no good so basically what we&#39;re</p>
+<p begin="00:12:43.020" end="00:12:50.400" style="s2">looking at now is to run Dee do Dee</p>
+<p begin="00:12:48.260" end="00:12:53.160" style="s2">separate from government outside of</p>
+<p begin="00:12:50.400" end="00:12:54.360" style="s2">government as a non-profit<span style="s4"> codenamed e</span></p>
+<p begin="00:12:53.160" end="00:13:00.230" style="s2"><span style="s3">do</span> DX</p>
+<p begin="00:12:54.360" end="00:13:03.480" style="s2">and we&#39;ve already created the initial</p>
+<p begin="00:13:00.230" end="00:13:06.870" style="s2">product development roadmap it actually</p>
+<p begin="00:13:03.480" end="00:13:08.190" style="s2">started<span style="s4"> off</span> with what we had for HHS and</p>
+<p begin="00:13:06.870" end="00:13:13.740" style="s2">started reaching out to potential</p>
+<p begin="00:13:08.190" end="00:13:17.250" style="s2">funders I wanted<span style="s3"> to</span> give a shout out to</p>
+<p begin="00:13:13.740" end="00:13:19.380" style="s2">the<span style="s4"> Center</span> for open data enterprise it&#39;s</p>
+<p begin="00:13:17.250" end="00:13:20.880" style="s2">been tremendous working with them we&#39;ve</p>
+<p begin="00:13:19.380" end="00:13:25.500" style="s2">been looking<span style="s3"> at</span> ways in which we can</p>
+<p begin="00:13:20.880" end="00:13:27.899" style="s2">operationalize<span style="s3"> Dee</span> do<span style="s3"> Dee</span> they happen<span style="s4"> to</span></p>
+<p begin="00:13:25.500" end="00:13:30.779" style="s2"><span style="s3">have</span> exactly the same mission as we do</p>
+<p begin="00:13:27.899" end="00:13:34.620" style="s2">to to maximize the value of open data</p>
+<p begin="00:13:30.779" end="00:13:36.690" style="s2">assets and they also have the advantage</p>
+<p begin="00:13:34.620" end="00:13:38.640" style="s2">of being<span style="s3"> responsible for creating the</span></p>
+<p begin="00:13:36.690" end="00:13:41.579" style="s2">open data transition report which is</p>
+<p begin="00:13:38.640" end="00:13:43.980" style="s2"><span style="s3">supposed</span> to help mitigate the risks of</p>
+<p begin="00:13:41.579" end="00:13:50.070" style="s2">presidential transition which which I</p>
+<p begin="00:13:43.980" end="00:13:52.260" style="s2">just described and just want one less</p>
+<p begin="00:13:50.070" end="00:13:59.300" style="s2">thing to take<span style="s3"> a</span> step back back to the</p>
+<p begin="00:13:52.260" end="00:14:02.070" style="s2">200,000 number if my work with HHS and</p>
+<p begin="00:13:59.300" end="00:14:07.100" style="s2">actually delivering in the<span style="s3"> various</span> use</p>
+<p begin="00:14:02.070" end="00:14:11.760" style="s2">cases is an indication this number is</p>
+<p begin="00:14:07.100" end="00:14:14.850" style="s2">extremely low even for the data that is</p>
+<p begin="00:14:11.760" end="00:14:18.060" style="s2"><span style="s3">already</span> open I would say we have<span style="s3"> about</span></p>
+<p begin="00:14:14.850" end="00:14:21.480" style="s2"><span style="s4">10</span> times the<span style="s4"> amount</span> that&#39;s already open</p>
+<p begin="00:14:18.060" end="00:14:25.170" style="s2">but is not indexed that is somewhere in</p>
+<p begin="00:14:21.480" end="00:14:28.620" style="s2">a in a on a<span style="s3"> web page that nobody knows</span></p>
+<p begin="00:14:25.170" end="00:14:31.589" style="s2">about something really obscure not a</p>
+<p begin="00:14:28.620" end="00:14:34.769" style="s2">joke but there&#39;s some agency that should</p>
+<p begin="00:14:31.589" end="00:14:37.230" style="s2">rename nameless who has published a very</p>
+<p begin="00:14:34.769" end="00:14:40.320" style="s2">important data set under their faq page</p>
+<p begin="00:14:37.230" end="00:14:42.720" style="s2">and not only any faq page it was an<span style="s4"> FAQ</span></p>
+<p begin="00:14:40.320" end="00:14:47.070" style="s2">page long enough to<span style="s3"> have</span> to be entry</p>
+<p begin="00:14:42.720" end="00:14:49.920" style="s2">number 693 there&#39;s also whole data</p>
+<p begin="00:14:47.070" end="00:14:52.769" style="s2">warehouses that do not make<span style="s4"> it</span> up<span style="s3"> to</span></p>
+<p begin="00:14:49.920" end="00:14:55.709" style="s2">this 200,000 number and of<span style="s4"> course</span></p>
+<p begin="00:14:52.769" end="00:14:57.959" style="s2">there&#39;s any number<span style="s4"> of data sets</span> that</p>
+<p begin="00:14:55.709" end="00:15:02.760" style="s2">still need to be released and if you</p>
+<p begin="00:14:57.959" end="00:15:05.790" style="s2">just look at the the<span style="s3"> research</span> data alone</p>
+<p begin="00:15:02.760" end="00:15:08.100" style="s2">it<span style="s3"> would</span> be tremendous and<span style="s4"> the</span> he so</p>
+<p begin="00:15:05.790" end="00:15:11.970" style="s2">there&#39;s so much opportunity here the</p>
+<p begin="00:15:08.100" end="00:15:16.350" style="s2">hasn&#39;t<span style="s4"> been</span> tapped so basically that</p>
+<p begin="00:15:11.970" end="00:15:18.480" style="s2">that&#39;s pretty<span style="s3"> much</span> it I think we need we</p>
+<p begin="00:15:16.350" end="00:15:22.079" style="s2">need a lot of<span style="s3"> help</span> there&#39;s a long road</p>
+<p begin="00:15:18.480" end="00:15:23.339" style="s2">ahead<span style="s3"> of</span> us and so you know come comment</p>
+<p begin="00:15:22.079" end="00:15:30.050" style="s2">the brick to the breakout session</p>
+<p begin="00:15:23.339" end="00:15:30.050" style="s2">introduce yourself and help us<span style="s4"> Thanks</span></p>
+<p begin="00:15:39.860" end="00:15:49.380" style="s2">yes it&#39;s crazy stuff I can see that</p>
+<p begin="00:15:45.529" end="00:15:52.350" style="s2">there&#39;s a lot of value for data sets</p>
+<p begin="00:15:49.380" end="00:15:55.139" style="s2">that have interesting in a lot<span style="s4"> of</span> use</p>
+<p begin="00:15:52.350" end="00:15:58.940" style="s2">cases what are the implications for data</p>
+<p begin="00:15:55.139" end="00:16:00.990" style="s2">sets that may not have any use cases</p>
+<p begin="00:15:58.940" end="00:16:02.579" style="s2">maybe they were just put out there</p>
+<p begin="00:16:00.990" end="00:16:04.649" style="s2">because someone&#39;s manager told they had</p>
+<p begin="00:16:02.579" end="00:16:06.449" style="s2">to have data out there not that that</p>
+<p begin="00:16:04.649" end="00:16:09.269" style="s2">happens is there is there any</p>
+<p begin="00:16:06.449" end="00:16:11.040" style="s2">application for low value low use<span style="s4"> thank</span></p>
+<p begin="00:16:09.269" end="00:16:14.759" style="s2">you<span style="s3"> measuring now you will value below</span></p>
+<p begin="00:16:11.040" end="00:16:18.569" style="s2">new spaces well I think<span style="s3"> I</span> think the</p>
+<p begin="00:16:14.759" end="00:16:21.000" style="s2">issue is that these kind<span style="s3"> of</span> data so it&#39;s</p>
+<p begin="00:16:18.569" end="00:16:24.540" style="s2">actually make it harder to find those</p>
+<p begin="00:16:21.000" end="00:16:28.589" style="s2">that are valuable and one of the things</p>
+<p begin="00:16:24.540" end="00:16:30.709" style="s2">that Dee do Dee does is provide metrics</p>
+<p begin="00:16:28.589" end="00:16:33.930" style="s2">and metrics associated with values so</p>
+<p begin="00:16:30.709" end="00:16:37.829" style="s2">over<span style="s4"> time</span> it will become much more clear</p>
+<p begin="00:16:33.930" end="00:16:42.360" style="s2">which data sets are low value are not</p>
+<p begin="00:16:37.829" end="00:16:45.240" style="s2">being<span style="s4"> used</span> don&#39;t have use cases and they</p>
+<p begin="00:16:42.360" end="00:16:47.939" style="s2">can still remain out there but for the</p>
+<p begin="00:16:45.240" end="00:16:50.930" style="s2">user it&#39;ll make it easier to<span style="s3"> zero</span> in on</p>
+<p begin="00:16:47.939" end="00:16:50.930" style="s2">those that<span style="s3"> are</span> valuable</p>
+<p begin="00:16:58.630" end="00:17:04.760" style="s2">you&#39;re basically removing what<span style="s3"> they see</span></p>
+<p begin="00:17:02.510" end="00:17:09.880" style="s2">was certain evil job functions in</p>
+<p begin="00:17:04.760" end="00:17:12.410" style="s2">translating<span style="s3"> Courtney</span> is different silo</p>
+<p begin="00:17:09.880" end="00:17:15.800" style="s2">differences and whether<span style="s4"> that</span> was much of</p>
+<p begin="00:17:12.410" end="00:17:21.170" style="s2">a drag the work you had to do or<span style="s4"> how</span> you</p>
+<p begin="00:17:15.800" end="00:17:22.850" style="s2">got around<span style="s3"> okay</span> so you&#39;re<span style="s4"> asking</span> if we</p>
+<p begin="00:17:21.170" end="00:17:33.340" style="s2">were removing people&#39;s job functions</p>
+<p begin="00:17:22.850" end="00:17:33.340" style="s2">yeah for ikea rescissions differences</p>
+<p begin="00:17:34.000" end="00:17:44.450" style="s2">yeah so so we actually relied on the<span style="s3"> on</span></p>
+<p begin="00:17:41.570" end="00:17:48.440" style="s2">the same people<span style="s3"> we</span> did not replace any</p>
+<p begin="00:17:44.450" end="00:17:51.770" style="s2">job functions we relied on having a</p>
+<p begin="00:17:48.440" end="00:17:54.040" style="s2">close collaboration with the same data</p>
+<p begin="00:17:51.770" end="00:17:56.540" style="s2">owners with the same<span style="s4"> technologist</span><span style="s3"> to</span></p>
+<p begin="00:17:54.040" end="00:17:59.990" style="s2">release the data there are multiple</p>
+<p begin="00:17:56.540" end="00:18:02.240" style="s2">components to it there<span style="s3"> is</span> the the</p>
+<p begin="00:17:59.990" end="00:18:07.040" style="s2">transparency component and just letting</p>
+<p begin="00:18:02.240" end="00:18:09.170" style="s2"><span style="s3">the</span> public know here is the the use case</p>
+<p begin="00:18:07.040" end="00:18:12.020" style="s2">and here is what<span style="s4"> is</span> wrong with the</p>
+<p begin="00:18:09.170" end="00:18:15.860" style="s2">current data set and and that<span style="s3"> is</span> hugely</p>
+<p begin="00:18:12.020" end="00:18:19.130" style="s2">valuable in and of itself<span style="s4"> but</span> ultimately</p>
+<p begin="00:18:15.860" end="00:18:22.100" style="s2">if we&#39;re<span style="s4"> talking</span><span style="s3"> about</span> improving<span style="s3"> the</span></p>
+<p begin="00:18:19.130" end="00:18:24.530" style="s2">core data or releasing new data that&#39;s</p>
+<p begin="00:18:22.100" end="00:18:29.740" style="s2">still the same program owners data</p>
+<p begin="00:18:24.530" end="00:18:29.740" style="s2">owners that we we have<span style="s3"> before</span></p>
+<p begin="00:18:29.870" end="00:18:39.700" style="s2">does this work listen any understanding</p>
+<p begin="00:18:32.690" end="00:18:39.700" style="s2">on context so obsessed that data</p>
+<p begin="00:18:42.140" end="00:18:44.170" style="s2">I</p>
+<p begin="00:18:51.229" end="00:18:56.340" style="s2">I&#39;m sorry item out of fully understand</p>
+<p begin="00:18:53.789" end="00:19:03.119" style="s2">the question<span style="s3"> I guess I&#39;m saying that</span></p>
+<p begin="00:18:56.340" end="00:19:05.849" style="s2"><span style="s3">there&#39;s</span> the<span style="s3"> name</span> but then so are there</p>
+<p begin="00:19:03.119" end="00:19:11.070" style="s2"><span style="s3">are</span> any discussions around okay this</p>
+<p begin="00:19:05.849" end="00:19:16.769" style="s2">process discussions about that about<span style="s3"> a</span></p>
+<p begin="00:19:11.070" end="00:19:19.970" style="s2">more general process yeah usually but</p>
+<p begin="00:19:16.769" end="00:19:24.179" style="s2">you know it that happens down at the</p>
+<p begin="00:19:19.970" end="00:19:26.759" style="s2">individual agency level I think there</p>
+<p begin="00:19:24.179" end="00:19:32.419" style="s2">are<span style="s4"> any number</span><span style="s3"> of</span> efficiencies what&#39;s</p>
+<p begin="00:19:26.759" end="00:19:36.229" style="s2"><span style="s3">really</span> cool is the same kind<span style="s3"> of</span> hero</p>
+<p begin="00:19:32.419" end="00:19:41.549" style="s2">data owners<span style="s3"> that</span> I that I<span style="s3"> told you</span><span style="s4"> about</span></p>
+<p begin="00:19:36.229" end="00:19:44.429" style="s2">a lot of<span style="s3"> times</span> they just don&#39;t have the</p>
+<p begin="00:19:41.549" end="00:19:48.239" style="s2">bandwidth to really get out there<span style="s4"> and</span></p>
+<p begin="00:19:44.429" end="00:19:51.599" style="s2">understand who their user base is and it</p>
+<p begin="00:19:48.239" end="00:19:53.519" style="s2">was just<span style="s3"> really</span> tremendous to have some</p>
+<p begin="00:19:51.599" end="00:19:57.029" style="s2"><span style="s4">of</span> them when they found out about<span style="s3"> this</span></p>
+<p begin="00:19:53.519" end="00:19:59.009" style="s2">program they actually<span style="s4"> brought</span> us in and</p>
+<p begin="00:19:57.029" end="00:20:03.590" style="s2">introduce them to their entire team and</p>
+<p begin="00:19:59.009" end="00:20:06.210" style="s2">said well listen right now people with</p>
+<p begin="00:20:03.590" end="00:20:08.429" style="s2">users with connections are calling these</p>
+<p begin="00:20:06.210" end="00:20:10.559" style="s2">individual team members there&#39;s no</p>
+<p begin="00:20:08.429" end="00:20:13.139" style="s2">transparency nobody knows who&#39;s telling</p>
+<p begin="00:20:10.559" end="00:20:15.450" style="s2">who&#39;s telling him what we want</p>
+<p begin="00:20:13.139" end="00:20:17.789" style="s2">everything to go through<span style="s3"> D</span> D 0 D 1 this</p>
+<p begin="00:20:15.450" end="00:20:21.479" style="s2">to become fully transparent we want this</p>
+<p begin="00:20:17.789" end="00:20:24.179" style="s2">to<span style="s3"> be</span> systematic and that&#39;s and that&#39;s</p>
+<p begin="00:20:21.479" end="00:20:27.539" style="s2">like<span style="s3"> a beautiful way to take something</span></p>
+<p begin="00:20:24.179" end="00:20:30.900" style="s2"><span style="s4">that</span><span style="s3"> was</span> very chaotic and make it both</p>
+<p begin="00:20:27.539" end="00:20:33.600" style="s2">systematic and value driven</p>
+<p begin="00:20:30.900" end="00:20:36.420" style="s2"><span style="s3">if you ever encountered</span> any lobbying</p>
+<p begin="00:20:33.600" end="00:20:38.040" style="s2">efforts to suppress<span style="s3"> data</span> on behalf of</p>
+<p begin="00:20:36.420" end="00:20:49.050" style="s2">people&#39;s clients who might be portrayed</p>
+<p begin="00:20:38.040" end="00:20:52.320" style="s2">unfavorably hmm yeah you know<span style="s3"> I I&#39;m I</span></p>
+<p begin="00:20:49.050" end="00:20:54.990" style="s2">don&#39;t think<span style="s3"> so</span> although<span style="s3"> don&#39;t</span> get me</p>
+<p begin="00:20:52.320" end="00:20:56.430" style="s2">started on the FOIA process I would love</p>
+<p begin="00:20:54.990" end="00:21:00.020" style="s2">to<span style="s3"> give</span> a whole new to a whole different</p>
+<p begin="00:20:56.430" end="00:21:03.870" style="s2">talk about what I call weaponized foyer</p>
+<p begin="00:21:00.020" end="00:21:05.640" style="s2">I don&#39;t if you guys are familiar with is</p>
+<p begin="00:21:03.870" end="00:21:07.650" style="s2">desert by now it for you is the freedom</p>
+<p begin="00:21:05.640" end="00:21:12.600" style="s2">of information act it&#39;s it&#39;s basically</p>
+<p begin="00:21:07.650" end="00:21:16.650" style="s2">the ability of you often through a</p>
+<p begin="00:21:12.600" end="00:21:19.800" style="s2">lawyer to request documents through the</p>
+<p begin="00:21:16.650" end="00:21:23.790" style="s2">government and I think there are<span style="s4"> a</span> lot</p>
+<p begin="00:21:19.800" end="00:21:26.970" style="s2">of<span style="s3"> people who are kind</span><span style="s4"> of</span> abusing the</p>
+<p begin="00:21:23.790" end="00:21:30.450" style="s2">system and using the fact that there is</p>
+<p begin="00:21:26.970" end="00:21:33.620" style="s2">lack of<span style="s3"> transparency</span> but anyway I don&#39;t</p>
+<p begin="00:21:30.450" end="00:21:36.620" style="s2"><span style="s3">have</span> a good<span style="s4"> example</span> for for you sorry</p>
+<p begin="00:21:33.620" end="00:21:36.620" style="s2">yep</p>
+<p begin="00:21:43.059" end="00:21:48.320" style="s2">when it comes to big data I just like<span style="s3"> to</span></p>
+<p begin="00:21:45.370" end="00:21:54.480" style="s2">hear your philosophy</p>
+<p begin="00:21:48.320" end="00:21:55.380" style="s2">as far as your ethics and<span style="s3"> values oh I</span></p>
+<p begin="00:21:54.480" end="00:22:00.270" style="s2">didn&#39;t realize this<span style="s3"> is</span> going to be a</p>
+<p begin="00:21:55.380" end="00:22:02.580" style="s2">test well I<span style="s4"> think</span> in in general you know</p>
+<p begin="00:22:00.270" end="00:22:08.550" style="s2">big data is a positive thing if you look</p>
+<p begin="00:22:02.580" end="00:22:10.320" style="s2">at take the McKinsey calculations of</p>
+<p begin="00:22:08.550" end="00:22:11.610" style="s2">what is the value of<span style="s3"> big</span> data<span style="s4"> in</span></p>
+<p begin="00:22:10.320" end="00:22:12.780" style="s2">government I think<span style="s3"> there&#39;s</span> like<span style="s3"> 50</span></p>
+<p begin="00:22:11.610" end="00:22:14.820" style="s2">trillion dollars or something crazy like</p>
+<p begin="00:22:12.780" end="00:22:16.320" style="s2">that we<span style="s4"> don&#39;t</span> know what the actual value</p>
+<p begin="00:22:14.820" end="00:22:21.650" style="s2">is we<span style="s3"> just</span> know that<span style="s3"> it&#39;s</span> not<span style="s3"> what</span><span style="s4"> make</span></p>
+<p begin="00:22:16.320" end="00:22:26.070" style="s2">isn&#39;t<span style="s3"> says</span> it is but as long<span style="s4"> as</span> you can</p>
+<p begin="00:22:21.650" end="00:22:27.930" style="s2">provide<span style="s3"> the data in in a responsible way</span></p>
+<p begin="00:22:26.070" end="00:22:30.540" style="s2">right<span style="s3"> because</span> you have to make sure</p>
+<p begin="00:22:27.930" end="00:22:31.890" style="s2"><span style="s3">there&#39;s</span> no person personally</p>
+<p begin="00:22:30.540" end="00:22:35.160" style="s2">identifiable information there&#39;s no</p>
+<p begin="00:22:31.890" end="00:22:37.230" style="s2">personal health information certain</p>
+<p begin="00:22:35.160" end="00:22:40.050" style="s2">agencies like the CMS they have a rule</p>
+<p begin="00:22:37.230" end="00:22:44.400" style="s2">of 11 that means<span style="s3"> that</span> however<span style="s4"> you</span> slice</p>
+<p begin="00:22:40.050" end="00:22:47.610" style="s2">and dice the data you cannot have a a</p>
+<p begin="00:22:44.400" end="00:22:50.150" style="s2">data set that consists of fewer<span style="s4"> than</span> 11</p>
+<p begin="00:22:47.610" end="00:22:54.210" style="s2">points that would allow somebody to</p>
+<p begin="00:22:50.150" end="00:22:58.380" style="s2">identify you so yeah there are all sorts</p>
+<p begin="00:22:54.210" end="00:23:01.590" style="s2">of issues<span style="s3"> that</span> might come<span style="s3"> up</span> that are</p>
+<p begin="00:22:58.380" end="00:23:04.800" style="s2">kind of<span style="s3"> an</span> integrator and<span style="s3"> F</span> in terms of</p>
+<p begin="00:23:01.590" end="00:23:07.050" style="s2">ethics you always have the ability to</p>
+<p begin="00:23:04.800" end="00:23:09.060" style="s2"><span style="s4">have</span> the mosaic effect to take two</p>
+<p begin="00:23:07.050" end="00:23:13.410" style="s2">completely unrelated data sources using</p>
+<p begin="00:23:09.060" end="00:23:15.300" style="s2"><span style="s4">four</span> completely unattended purposes but</p>
+<p begin="00:23:13.410" end="00:23:18.390" style="s2">you know what<span style="s4"> it&#39;s</span> the same unattended</p>
+<p begin="00:23:15.300" end="00:23:20.550" style="s2">purposes that make the biggest</p>
+<p begin="00:23:18.390" end="00:23:22.620" style="s2">breakthroughs in some of these data</p>
+<p begin="00:23:20.550" end="00:23:25.380" style="s2">sources because the coolest things that</p>
+<p begin="00:23:22.620" end="00:23:28.140" style="s2"><span style="s3">I&#39;ve seen our data says that have been</span></p>
+<p begin="00:23:25.380" end="00:23:31.290" style="s2">used for purposes that were completely</p>
+<p begin="00:23:28.140" end="00:23:35.640" style="s2">beyond what the data owners thought they</p>
+<p begin="00:23:31.290" end="00:23:38.140" style="s2">would be<span style="s3"> used</span> for what about the<span style="s3"> output</span></p>
+<p begin="00:23:35.640" end="00:23:40.420" style="s2">somebody<span style="s3"> checking in front of it</span></p>
+<p begin="00:23:38.140" end="00:23:42.880" style="s2">what is going to<span style="s3"> is</span> like<span style="s3"> your</span> quality<span style="s3"> of</span></p>
+<p begin="00:23:40.420" end="00:23:44.500" style="s2">the data<span style="s3"> I keep letting the data and</span></p>
+<p begin="00:23:42.880" end="00:23:46.420" style="s2"><span style="s3">then</span> like<span style="s4"> post somebody screw</span> the data</p>
+<p begin="00:23:44.500" end="00:23:49.530" style="s2">or try to make it a little<span style="s3"> certain</span> way</p>
+<p begin="00:23:46.420" end="00:23:51.820" style="s2">to<span style="s4"> cover</span> some up like for instance<span style="s3"> uh</span></p>
+<p begin="00:23:49.530" end="00:23:54.910" style="s2">data never showed that we have their</p>
+<p begin="00:23:51.820" end="00:23:59.380" style="s2">pipes and<span style="s4"> la</span> live and what our pipes did</p>
+<p begin="00:23:54.910" end="00:24:01.990" style="s2">you know and some that data is now can</p>
+<p begin="00:23:59.380" end="00:24:06.100" style="s2">we change because it&#39;s lovely yeah i</p>
+<p begin="00:24:01.990" end="00:24:11.500" style="s2">mean it&#39;s it&#39;s at some level it&#39;s</p>
+<p begin="00:24:06.100" end="00:24:13.300" style="s2">difficult to quantify the quality when</p>
+<p begin="00:24:11.500" end="00:24:15.400" style="s2">you&#39;re talking about well you know</p>
+<p begin="00:24:13.300" end="00:24:18.250" style="s2">what&#39;s missing right<span style="s3"> because</span> it&#39;s a lot</p>
+<p begin="00:24:15.400" end="00:24:20.110" style="s2">easier to<span style="s3"> look</span> at what&#39;s there and say</p>
+<p begin="00:24:18.250" end="00:24:21.790" style="s2">well this is this is bad we could run</p>
+<p begin="00:24:20.110" end="00:24:24.220" style="s2">some data profiling on it and say<span style="s4"> well</span></p>
+<p begin="00:24:21.790" end="00:24:26.950" style="s2">this is this is an outlier but if you&#39;re</p>
+<p begin="00:24:24.220" end="00:24:29.280" style="s2"><span style="s3">talking</span><span style="s4"> about</span><span style="s3"> well</span> here yeah we didn&#39;t</p>
+<p begin="00:24:26.950" end="00:24:33.160" style="s2">get some of this data about lead pipes</p>
+<p begin="00:24:29.280" end="00:24:37.930" style="s2">it&#39;s it&#39;s very difficult to to do</p>
+<p begin="00:24:33.160" end="00:24:40.140" style="s2"><span style="s4">anything</span> with that but that said one<span style="s4"> of</span></p>
+<p begin="00:24:37.930" end="00:24:45.220" style="s2">the cool things<span style="s4"> we&#39;re</span> doing is</p>
+<p begin="00:24:40.140" end="00:24:47.050" style="s2">partnering there&#39;s a MIT<span style="s4"> center</span> for</p>
+<p begin="00:24:45.220" end="00:24:50.140" style="s2">information quality and they have</p>
+<p begin="00:24:47.050" end="00:24:57.610" style="s2">different<span style="s3"> ways</span> of quantifying data</p>
+<p begin="00:24:50.140" end="00:25:01.980" style="s2">quality to the degree that you can send</p>
+<p begin="00:24:57.610" end="00:25:04.860" style="s2">the problem<span style="s3"> people</span> too</p>
+<p begin="00:25:01.980" end="00:25:07.890" style="s2"><span style="s4">data sets and how that</span> kind<span style="s3"> of</span> motivated</p>
+<p begin="00:25:04.860" end="00:25:14.640" style="s2">this organization given<span style="s4"> that</span> you spoke</p>
+<p begin="00:25:07.890" end="00:25:16.740" style="s2">also about lack<span style="s4"> of</span> faith do you feel</p>
+<p begin="00:25:14.640" end="00:25:19.080" style="s2"><span style="s4">that</span> there&#39;s any sort of<span style="s3"> politically</span> or</p>
+<p begin="00:25:16.740" end="00:25:24.919" style="s2">financially feasible incentive or reward</p>
+<p begin="00:25:19.080" end="00:25:24.919" style="s2">system that can be implemented and<span style="s3"> yeah</span></p>
+<p begin="00:25:26.240" end="00:25:35.630" style="s2">you<span style="s4"> know</span> it&#39;s<span style="s3"> very</span><span style="s4"> difficult</span> anytime you</p>
+<p begin="00:25:31.110" end="00:25:38.580" style="s2">have legislation there<span style="s3"> are</span> always</p>
+<p begin="00:25:35.630" end="00:25:40.860" style="s2">unattended consequences you cannot write</p>
+<p begin="00:25:38.580" end="00:25:44.520" style="s2">the perfect legislation the perfect</p>
+<p begin="00:25:40.860" end="00:25:46.650" style="s2">incentive system that that&#39;s why the</p>
+<p begin="00:25:44.520" end="00:25:49.770" style="s2">free enterprise works works so much</p>
+<p begin="00:25:46.650" end="00:25:51.270" style="s2">better than the<span style="s4"> government</span> can but we</p>
+<p begin="00:25:49.770" end="00:25:52.590" style="s2">need the<span style="s3"> government</span> it&#39;s the it&#39;s the</p>
+<p begin="00:25:51.270" end="00:25:57.690" style="s2">worst<span style="s3"> kind of system except for all the</span></p>
+<p begin="00:25:52.590" end="00:26:00.710" style="s2"><span style="s3">other</span> ones right so<span style="s3"> I</span> think<span style="s3"> that</span> there</p>
+<p begin="00:25:57.690" end="00:26:03.510" style="s2">are<span style="s4"> a</span> lot of really super talented</p>
+<p begin="00:26:00.710" end="00:26:06.179" style="s2">really dedicated people who are doing</p>
+<p begin="00:26:03.510" end="00:26:10.500" style="s2">the best<span style="s3"> that</span> they<span style="s4"> can</span> within the</p>
+<p begin="00:26:06.179" end="00:26:12.450" style="s2">constraints of the system<span style="s4"> and</span> by working</p>
+<p begin="00:26:10.500" end="00:26:15.299" style="s2">outside<span style="s4"> of</span> the government<span style="s4"> and</span> parallel</p>
+<p begin="00:26:12.450" end="00:26:17.660" style="s2">with them<span style="s3"> hopefully</span> will help them do</p>
+<p begin="00:26:15.299" end="00:26:17.660" style="s2"><span style="s4">their</span> job better</p>
+<p begin="00:26:19.890" end="00:26:25.930" style="s2">but is to be determined over time my</p>
+<p begin="00:26:23.860" end="00:26:28.510" style="s2">demands<span style="s3"> so</span> then hold the people with</p>
+<p begin="00:26:25.930" end="00:26:31.060" style="s2">more access have most ability to</p>
+<p begin="00:26:28.510" end="00:26:34.060" style="s2">determine what value means and how are</p>
+<p begin="00:26:31.060" end="00:26:38.980" style="s2">you going to see like mitigate<span style="s4"> effects</span></p>
+<p begin="00:26:34.060" end="00:26:41.200" style="s2">the digital divide that yeah so<span style="s3"> I</span> think</p>
+<p begin="00:26:38.980" end="00:26:44.110" style="s2"><span style="s4">I</span> think we should<span style="s4"> look</span> at what access</p>
+<p begin="00:26:41.200" end="00:26:47.820" style="s2">currently memes right now there is</p>
+<p begin="00:26:44.110" end="00:26:50.770" style="s2">definitely an issue with certain</p>
+<p begin="00:26:47.820" end="00:26:54.280" style="s2">privileged individuals having more</p>
+<p begin="00:26:50.770" end="00:26:56.320" style="s2">access to various government agencies</p>
+<p begin="00:26:54.280" end="00:27:00.010" style="s2">and various officials within government</p>
+<p begin="00:26:56.320" end="00:27:02.980" style="s2">agencies as a matter of fact somebody</p>
+<p begin="00:27:00.010" end="00:27:04.600" style="s2">when they when they first looked at<span style="s3"> Dee</span></p>
+<p begin="00:27:02.980" end="00:27:07.630" style="s2">do<span style="s3"> Dee said oh wait a minute this</span> is</p>
+<p begin="00:27:04.600" end="00:27:10.770" style="s2">actually an equalizer because it really</p>
+<p begin="00:27:07.630" end="00:27:14.290" style="s2">lowers the barrier for working and</p>
+<p begin="00:27:10.770" end="00:27:16.360" style="s2">telling the government this is what I</p>
+<p begin="00:27:14.290" end="00:27:18.040" style="s2">need now<span style="s3"> granted</span> you know if you don&#39;t</p>
+<p begin="00:27:16.360" end="00:27:20.770" style="s2">have a laptop if you have if you don&#39;t</p>
+<p begin="00:27:18.040" end="00:27:24.960" style="s2">have internet that&#39;s a problem but as</p>
+<p begin="00:27:20.770" end="00:27:28.990" style="s2">long as<span style="s3"> you</span> can make an entry<span style="s4"> in</span> github</p>
+<p begin="00:27:24.960" end="00:27:31.540" style="s2">you have equal access as anybody with</p>
+<p begin="00:27:28.990" end="00:27:34.120" style="s2">100 lawyers right that doesn&#39;t mean</p>
+<p begin="00:27:31.540" end="00:27:36.730" style="s2">you&#39;ll get<span style="s3"> something</span> worked on but you</p>
+<p begin="00:27:34.120" end="00:27:40.120" style="s2">can document here&#39;s here&#39;s the use case</p>
+<p begin="00:27:36.730" end="00:27:42.520" style="s2">here&#39;s what&#39;s wrong with with the with</p>
+<p begin="00:27:40.120" end="00:27:44.770" style="s2">the data here&#39;s what you need to do and</p>
+<p begin="00:27:42.520" end="00:27:51.850" style="s2">at least it&#39;ll become part of<span style="s3"> the</span> public</p>
+<p begin="00:27:44.770" end="00:27:55.140" style="s2">record and that&#39;s<span style="s4"> a</span> first<span style="s3"> step ok I</span></p>
+<p begin="00:27:51.850" end="00:27:55.140" style="s2">think<span style="s4"> everything&#39;s</span> exhausting</p>
+<p begin="00:27:55.559" end="00:27:57.620" style="s2">you</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.399" end="00:00:05.879" style="s2">you have a right to<span style="s3"> be</span> here and</p>
+<p begin="00:00:03.659" end="00:00:13.110" style="s2">contribute because this era<span style="s3"> on</span> the</p>
+<p begin="00:00:05.879" end="00:00:16.260" style="s2">hoodie hacker is completely gone ideas</p>
+<p begin="00:00:13.110" end="00:00:19.670" style="s2"><span style="s4">it&#39;s very hard to execute ideas it&#39;s a</span></p>
+<p begin="00:00:16.260" end="00:00:35.670" style="s2">lot<span style="s3"> more</span> fun to think up step one hella</p>
+<p begin="00:00:19.670" end="00:00:38.250" style="s2">you wanna it&#39;s been tuesday at<span style="s4"> six</span><span style="s3"> p.m.</span></p>
+<p begin="00:00:35.670" end="00:00:40.140" style="s2">every<span style="s4"> tuesday this says something about</span></p>
+<p begin="00:00:38.250" end="00:00:42.120" style="s2">perseverance those were the<span style="s4"> guys</span> who</p>
+<p begin="00:00:40.140" end="00:00:46.050" style="s2">were there whether it was just the<span style="s3"> two</span></p>
+<p begin="00:00:42.120" end="00:00:48.899" style="s2">of them or 20 or 12 and it&#39;s<span style="s4"> that</span></p>
+<p begin="00:00:46.050" end="00:00:50.280" style="s2">consistency way it&#39;s got this agility</p>
+<p begin="00:00:48.899" end="00:00:53.670" style="s2"><span style="s3">that</span> you can make something<span style="s3"> really</span></p>
+<p begin="00:00:50.280" end="00:00:55.920" style="s2">quickly it&#39;s not<span style="s4"> a</span> supplement to go what</p>
+<p begin="00:00:53.670" end="00:00:58.020" style="s2">is not the private sector either it&#39;s</p>
+<p begin="00:00:55.920" end="00:00:59.520" style="s2"><span style="s4">not exactly a non-profit it&#39;s just a</span></p>
+<p begin="00:00:58.020" end="00:01:03.030" style="s2">bunch of people<span style="s3"> making</span> something useful</p>
+<p begin="00:00:59.520" end="00:01:06.450" style="s2">come to learn and I come to<span style="s4"> dabble</span> and I</p>
+<p begin="00:01:03.030" end="00:01:08.760" style="s2">come to<span style="s4"> promote</span> the work of other people</p>
+<p begin="00:01:06.450" end="00:01:11.580" style="s2"><span style="s3">who</span> are here it&#39;s just<span style="s3"> a</span> real real</p>
+<p begin="00:01:08.760" end="00:01:16.320" style="s2">congenial group very inclusive and very</p>
+<p begin="00:01:11.580" end="00:01:18.170" style="s2">joyous so what is<span style="s4"> civic</span> technology any</p>
+<p begin="00:01:16.320" end="00:01:21.270" style="s2">technology that intersects public life</p>
+<p begin="00:01:18.170" end="00:01:23.369" style="s2"><span style="s3">chai</span> hack night is the people part of</p>
+<p begin="00:01:21.270" end="00:01:25.740" style="s2">the<span style="s3"> Civic</span> innovation ecosystem in</p>
+<p begin="00:01:23.369" end="00:01:28.200" style="s2"><span style="s4">Chicago</span> and it&#39;s where we bring</p>
+<p begin="00:01:25.740" end="00:01:30.090" style="s2">different people together to learn from</p>
+<p begin="00:01:28.200" end="00:01:32.820" style="s2"><span style="s4">each</span> other<span style="s3"> and</span> find<span style="s4"> ways</span> we can leverage</p>
+<p begin="00:01:30.090" end="00:01:34.590" style="s2">technology to help our city<span style="s3"> we</span> need</p>
+<p begin="00:01:32.820" end="00:01:36.860" style="s2">everyone whether or not they know how to</p>
+<p begin="00:01:34.590" end="00:01:36.860" style="s2">code</p>
+<p begin="00:01:36.990" end="00:01:42.820" style="s2">to my right I&#39;m a telomere the<span style="s3"> apple</span></p>
+<p begin="00:01:40.390" end="00:01:46.530" style="s2">first report<span style="s4"> ban</span> sidewalks and curb</p>
+<p begin="00:01:42.820" end="00:01:46.530" style="s2">Constitution<span style="s4"> Congress 31</span></p>
+<p begin="00:01:48.719" end="00:01:54.100" style="s2">and lastly<span style="s4"> we</span> provide people with</p>
+<p begin="00:01:51.729" end="00:01:58.149" style="s2">wheelchairs a route to avoid those</p>
+<p begin="00:01:54.100" end="00:02:00.369" style="s2">problems most reliable data that they</p>
+<p begin="00:01:58.149" end="00:02:02.829" style="s2">have is actually the health inspections</p>
+<p begin="00:02:00.369" end="00:02:04.929" style="s2">and the project<span style="s3"> sylhet</span> a turn</p>
+<p begin="00:02:02.829" end="00:02:07.899" style="s2">coordinator for the Chicago nursing home</p>
+<p begin="00:02:04.929" end="00:02:10.860" style="s2">search projects something map of<span style="s4"> Chicago</span></p>
+<p begin="00:02:07.899" end="00:02:13.420" style="s2">we have dots on all the nursing homes</p>
+<p begin="00:02:10.860" end="00:02:15.910" style="s2">some of them<span style="s3"> are</span><span style="s4"> very</span> good just some of</p>
+<p begin="00:02:13.420" end="00:02:19.480" style="s2">the Maria bed and we put<span style="s4"> it</span> point out</p>
+<p begin="00:02:15.910" end="00:02:21.370" style="s2"><span style="s3">there</span> federal ratings one of the people</p>
+<p begin="00:02:19.480" end="00:02:25.299" style="s2">I really<span style="s4"> admire</span> is brandon smith he&#39;s</p>
+<p begin="00:02:21.370" end="00:02:27.610" style="s2">the person who&#39;s who&#39;s<span style="s4"> foia</span> requests and</p>
+<p begin="00:02:25.299" end="00:02:30.310" style="s2">subsequent lawsuit resulted in the</p>
+<p begin="00:02:27.610" end="00:02:32.980" style="s2">release<span style="s3"> of the laQuan McDonald shooting</span></p>
+<p begin="00:02:30.310" end="00:02:34.840" style="s2">tapes there are so<span style="s4"> many</span> people here</p>
+<p begin="00:02:32.980" end="00:02:37.120" style="s2">doing cool things I wouldn&#39;t<span style="s3"> know</span> where</p>
+<p begin="00:02:34.840" end="00:02:39.790" style="s2">to start school cuts was a<span style="s4"> website</span> we</p>
+<p begin="00:02:37.120" end="00:02:42.730" style="s2">developed in about seven weeks chicago</p>
+<p begin="00:02:39.790" end="00:02:44.950" style="s2">public schools closed<span style="s4"> 50</span> elementary</p>
+<p begin="00:02:42.730" end="00:02:48.010" style="s2">streams and it was the largest in a</p>
+<p begin="00:02:44.950" end="00:02:52.510" style="s2">one-time mass scheme closings in the</p>
+<p begin="00:02:48.010" end="00:02:54.069" style="s2">city&#39;s history<span style="s3"> i</span> contributed<span style="s4"> this</span> idea</p>
+<p begin="00:02:52.510" end="00:02:56.859" style="s2">for how do you tell<span style="s3"> the</span> story and it</p>
+<p begin="00:02:54.069" end="00:02:59.150" style="s2">really crystallized<span style="s3"> i</span> think the heart of</p>
+<p begin="00:02:56.859" end="00:03:02.489" style="s2">what this technical</p>
+<p begin="00:02:59.150" end="00:03:05.849" style="s2">this idea<span style="s4"> about</span> collaboration between</p>
+<p begin="00:03:02.489" end="00:03:08.069" style="s2">citizens government and believe that</p>
+<p begin="00:03:05.849" end="00:03:10.200" style="s2"><span style="s3">they can achieve something together mom</span></p>
+<p begin="00:03:08.069" end="00:03:13.129" style="s2">and<span style="s4"> not</span> just found their own silos<span style="s3"> and</span></p>
+<p begin="00:03:10.200" end="00:03:13.129" style="s2"><span style="s3">feel</span><span style="s4"> incredible</span></p>
+</div>
+</body>
+</tt>

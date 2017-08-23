@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.000" end="00:00:10.320" style="s2">hey everybody<span style="s3"> my</span> name is Eric and today</p>
+<p begin="00:00:08.250" end="00:00:12.509" style="s2">I&#39;m<span style="s4"> going</span> to talk about how our band</p>
+<p begin="00:00:10.320" end="00:00:13.799" style="s2">could be here life this is a picture<span style="s3"> of</span></p>
+<p begin="00:00:12.509" end="00:00:17.100" style="s2">the<span style="s3"> band</span> called Minutemen there a punk</p>
+<p begin="00:00:13.799" end="00:00:20.369" style="s2">rock band from the 1980s<span style="s3"> and</span> that is the</p>
+<p begin="00:00:17.100" end="00:00:22.050" style="s2">name of a song that they wrote so this</p>
+<p begin="00:00:20.369" end="00:00:24.420" style="s2">is time for techies we&#39;re going to talk</p>
+<p begin="00:00:22.050" end="00:00:27.060" style="s2">about art on the menu this evening is</p>
+<p begin="00:00:24.420" end="00:00:29.550" style="s2">punk rock hip-hop and comedy I might<span style="s3"> be</span></p>
+<p begin="00:00:27.060" end="00:00:32.009" style="s2">wondering like<span style="s3"> uh</span> why<span style="s3"> are</span> we talking</p>
+<p begin="00:00:29.550" end="00:00:34.980" style="s2"><span style="s4">about</span> art at<span style="s3"> Shia</span> hack night there&#39;s a</p>
+<p begin="00:00:32.009" end="00:00:36.600" style="s2"><span style="s3">lot</span> of reasons that I see there&#39;s been<span style="s3"> a</span></p>
+<p begin="00:00:34.980" end="00:00:38.010" style="s2">lot of talk recently about the future of</p>
+<p begin="00:00:36.600" end="00:00:41.100" style="s2"><span style="s4">the</span> Civic tech movement in general</p>
+<p begin="00:00:38.010" end="00:00:42.719" style="s2">that&#39;s kind of dove tailed into more</p>
+<p begin="00:00:41.100" end="00:00:44.940" style="s2">recent<span style="s4"> out</span><span style="s3"> about</span> political futures in</p>
+<p begin="00:00:42.719" end="00:00:46.110" style="s2">general which kind<span style="s3"> of</span> exacerbates is</p>
+<p begin="00:00:44.940" end="00:00:48.780" style="s2">concern about the role that technology</p>
+<p begin="00:00:46.110" end="00:00:51.180" style="s2">is playing in<span style="s3"> our</span> modern lives and also</p>
+<p begin="00:00:48.780" end="00:00:53.100" style="s2"><span style="s3">there&#39;s</span> this thread at<span style="s4"> shy</span> hack night</p>
+<p begin="00:00:51.180" end="00:00:54.390" style="s2">here<span style="s3"> four</span> years of our desire for our</p>
+<p begin="00:00:53.100" end="00:00:56.579" style="s2">community benefit from diverse</p>
+<p begin="00:00:54.390" end="00:00:59.699" style="s2"><span style="s4">perspectives</span> so here&#39;s some perspectives</p>
+<p begin="00:00:56.579" end="00:01:02.370" style="s2">from outside tech that I see connect to</p>
+<p begin="00:00:59.699" end="00:01:03.750" style="s2"><span style="s4">this</span> environment into tech in general so</p>
+<p begin="00:01:02.370" end="00:01:06.360" style="s2">just a little<span style="s4"> quick</span> background about me</p>
+<p begin="00:01:03.750" end="00:01:09.090" style="s2">start out as Punk I got involved in</p>
+<p begin="00:01:06.360" end="00:01:11.130" style="s2">politics that&#39;s me in obama&#39;s state</p>
+<p begin="00:01:09.090" end="00:01:12.659" style="s2"><span style="s4">senate</span> room a<span style="s3"> few</span> years ago then i got</p>
+<p begin="00:01:11.130" end="00:01:14.400" style="s2">involved in tech literally through</p>
+<p begin="00:01:12.659" end="00:01:17.729" style="s2">coming here like every tuesday for two</p>
+<p begin="00:01:14.400" end="00:01:20.400" style="s2">or three<span style="s3"> years</span> so now a little<span style="s3"> bit</span> more</p>
+<p begin="00:01:17.729" end="00:01:23.759" style="s2"><span style="s4">about</span> like what punk rock<span style="s3"> is</span> this is a</p>
+<p begin="00:01:20.400" end="00:01:25.159" style="s2">helpful diagram essentially the whole</p>
+<p begin="00:01:23.759" end="00:01:27.689" style="s2">idea<span style="s4"> of</span> punk rock is it&#39;s really</p>
+<p begin="00:01:25.159" end="00:01:30.090" style="s2">completely different than you know the</p>
+<p begin="00:01:27.689" end="00:01:31.950" style="s2">rock<span style="s3"> that</span> preceded it in terms of the</p>
+<p begin="00:01:30.090" end="00:01:33.780" style="s2">like instead of aspiring to be this rock</p>
+<p begin="00:01:31.950" end="00:01:36.810" style="s2">star the idea<span style="s3"> was</span> that basically anyone</p>
+<p begin="00:01:33.780" end="00:01:40.500" style="s2">can and should play music and join a</p>
+<p begin="00:01:36.810" end="00:01:42.000" style="s2">band and start a project so let&#39;s talk a</p>
+<p begin="00:01:40.500" end="00:01:44.759" style="s2">little bit about what that<span style="s3"> looks</span> like</p>
+<p begin="00:01:42.000" end="00:01:45.960" style="s2">you<span style="s3"> know</span> this is<span style="s4"> a</span> this these<span style="s3"> are</span> the</p>
+<p begin="00:01:44.759" end="00:01:47.520" style="s2">lyrics<span style="s3"> for</span> the song our band could be</p>
+<p begin="00:01:45.960" end="00:01:51.000" style="s2">your life we don&#39;t have time to analyze</p>
+<p begin="00:01:47.520" end="00:01:53.280" style="s2">them in detail but the I whole idea of</p>
+<p begin="00:01:51.000" end="00:01:55.140" style="s2">the concept our band could be your life</p>
+<p begin="00:01:53.280" end="00:01:57.689" style="s2">is basically<span style="s4"> like</span> anyone can and should</p>
+<p begin="00:01:55.140" end="00:01:59.939" style="s2">like do this and so how do you write</p>
+<p begin="00:01:57.689" end="00:02:01.890" style="s2">code like a punk pretty similar like if</p>
+<p begin="00:01:59.939" end="00:02:06.000" style="s2">statement here&#39;s the loop here&#39;s a text</p>
+<p begin="00:02:01.890" end="00:02:08.220" style="s2">a dirt now join your band now we&#39;ll talk</p>
+<p begin="00:02:06.000" end="00:02:11.400" style="s2">a<span style="s3"> little</span> bit about<span style="s4"> hip hop which started</span></p>
+<p begin="00:02:08.220" end="00:02:12.810" style="s2">around similar time and here&#39;s a picture</p>
+<p begin="00:02:11.400" end="00:02:13.750" style="s2">of<span style="s3"> Debbie</span> Harry with Grandmaster Flash</p>
+<p begin="00:02:12.810" end="00:02:17.920" style="s2">look</p>
+<p begin="00:02:13.750" end="00:02:20.920" style="s2">that New York<span style="s4"> hip hop had this way of</span></p>
+<p begin="00:02:17.920" end="00:02:22.830" style="s2">and still does of channeling societal</p>
+<p begin="00:02:20.920" end="00:02:24.940" style="s2">frustrations into creative energy and</p>
+<p begin="00:02:22.830" end="00:02:26.650" style="s2">the way that that was done was through</p>
+<p begin="00:02:24.940" end="00:02:30.820" style="s2">technological tools in a way that was</p>
+<p begin="00:02:26.650" end="00:02:34.270" style="s2">frankly pretty unique the sort<span style="s3"> of</span> oral</p>
+<p begin="00:02:30.820" end="00:02:36.850" style="s2">legend has it that there was a blackout</p>
+<p begin="00:02:34.270" end="00:02:39.250" style="s2">in New York in 1977 and during that time</p>
+<p begin="00:02:36.850" end="00:02:42.190" style="s2">a lot<span style="s3"> of</span> people<span style="s4"> the</span> next day suddenly</p>
+<p begin="00:02:39.250" end="00:02:45.130" style="s2">own DJ equipment that didn&#39;t before and</p>
+<p begin="00:02:42.190" end="00:02:46.870" style="s2">that caused the the art form to explode</p>
+<p begin="00:02:45.130" end="00:02:49.540" style="s2">so you have here<span style="s3"> an</span> example<span style="s4"> of</span></p>
+<p begin="00:02:46.870" end="00:02:51.580" style="s2">technology that kind<span style="s3"> of</span> levels the</p>
+<p begin="00:02:49.540" end="00:02:54.190" style="s2">playing field and makes art more</p>
+<p begin="00:02:51.580" end="00:02:56.560" style="s2">accessible for more diverse perspectives</p>
+<p begin="00:02:54.190" end="00:02:58.570" style="s2">so that kind of brings us to today like</p>
+<p begin="00:02:56.560" end="00:03:00.190" style="s2">we talked<span style="s3"> about</span> the past like punk is</p>
+<p begin="00:02:58.570" end="00:03:02.560" style="s2">this ethos like<span style="s3"> hip-hop</span> gives us tools</p>
+<p begin="00:03:00.190" end="00:03:03.970" style="s2">like what happens now<span style="s4"> and</span> what happens</p>
+<p begin="00:03:02.560" end="00:03:06.550" style="s2">in the future I<span style="s3"> think</span> there&#39;s a<span style="s3"> lot of</span></p>
+<p begin="00:03:03.970" end="00:03:09.340" style="s2">really<span style="s4"> cool</span> stuff<span style="s4"> going</span> on that&#39;s really</p>
+<p begin="00:03:06.550" end="00:03:12.310" style="s2"><span style="s3">pretty</span> exciting and some<span style="s3"> of</span> that<span style="s4"> is</span> in</p>
+<p begin="00:03:09.340" end="00:03:14.110" style="s2">the realm of comedy I listen to podcast</p>
+<p begin="00:03:12.310" end="00:03:17.380" style="s2">recently from the sky baratunde<span style="s4"> Thurston</span></p>
+<p begin="00:03:14.110" end="00:03:19.290" style="s2">who runs these comedy hack days and he&#39;s</p>
+<p begin="00:03:17.380" end="00:03:21.970" style="s2">got a nice definition of art there</p>
+<p begin="00:03:19.290" end="00:03:25.150" style="s2">there&#39;s this other woman<span style="s3"> Luna malbro who</span></p>
+<p begin="00:03:21.970" end="00:03:27.190" style="s2">made this a satirical app called</p>
+<p begin="00:03:25.150" end="00:03:28.570" style="s2">equitable and this is an app that</p>
+<p begin="00:03:27.190" end="00:03:30.070" style="s2">actually works you can download it off</p>
+<p begin="00:03:28.570" end="00:03:32.040" style="s2"><span style="s4">Android</span> and you can figure out how to</p>
+<p begin="00:03:30.070" end="00:03:34.330" style="s2">split the bill amongst your friends at a</p>
+<p begin="00:03:32.040" end="00:03:36.600" style="s2">restaurant based on<span style="s3"> the</span> amount of</p>
+<p begin="00:03:34.330" end="00:03:39.070" style="s2">relative privilege that each of you have</p>
+<p begin="00:03:36.600" end="00:03:41.530" style="s2">so there&#39;s a lot<span style="s3"> of</span> great examples of</p>
+<p begin="00:03:39.070" end="00:03:43.510" style="s2">this and i found a quote from her to be</p>
+<p begin="00:03:41.530" end="00:03:45.519" style="s2">pretty relevant which is you know she</p>
+<p begin="00:03:43.510" end="00:03:47.799" style="s2">has seen this issue of equal pay for</p>
+<p begin="00:03:45.519" end="00:03:49.180" style="s2">equal work but she and she sees these</p>
+<p begin="00:03:47.799" end="00:03:50.739" style="s2">statistics but she knew that that</p>
+<p begin="00:03:49.180" end="00:03:52.269" style="s2">discussion didn&#39;t include her</p>
+<p begin="00:03:50.739" end="00:03:54.340" style="s2">perspective and it didn&#39;t<span style="s3"> include</span> other</p>
+<p begin="00:03:52.269" end="00:03:56.290" style="s2">people&#39;s<span style="s4"> perspectives</span> so she was able<span style="s3"> to</span></p>
+<p begin="00:03:54.340" end="00:03:58.000" style="s2">create a team and literally make</p>
+<p begin="00:03:56.290" end="00:03:59.769" style="s2">something and I think that&#39;s the sort of</p>
+<p begin="00:03:58.000" end="00:04:02.709" style="s2"><span style="s4">Arab</span> art<span style="s4"> that</span> we live<span style="s4"> in</span> now is that we</p>
+<p begin="00:03:59.769" end="00:04:04.329" style="s2">can use technology to create new things</p>
+<p begin="00:04:02.709" end="00:04:07.450" style="s2">that<span style="s3"> didn&#39;t</span> exist<span style="s3"> before</span> not just make</p>
+<p begin="00:04:04.329" end="00:04:09.459" style="s2">old things more and<span style="s4"> more</span> efficient some</p>
+<p begin="00:04:07.450" end="00:04:11.440" style="s2">other quick examples of satirical apps</p>
+<p begin="00:04:09.459" end="00:04:12.820" style="s2">well deserved<span style="s3"> the</span><span style="s4"> premiere</span> marketplace</p>
+<p begin="00:04:11.440" end="00:04:14.890" style="s2">for polluted<span style="s4"> privileged</span> this is a</p>
+<p begin="00:04:12.820" end="00:04:16.359" style="s2">website<span style="s4"> where</span> you can rent out your</p>
+<p begin="00:04:14.890" end="00:04:20.590" style="s2">excess privilege when you&#39;re not using</p>
+<p begin="00:04:16.359" end="00:04:22.510" style="s2">it getaways this is a navigation app</p>
+<p begin="00:04:20.590" end="00:04:24.039" style="s2">that helps you save time by eliminating</p>
+<p begin="00:04:22.510" end="00:04:25.720" style="s2">your interactions with the police you</p>
+<p begin="00:04:24.039" end="00:04:27.610" style="s2">just sign up it&#39;ll let you know where</p>
+<p begin="00:04:25.720" end="00:04:29.199" style="s2">when and where police are</p>
+<p begin="00:04:27.610" end="00:04:30.610" style="s2">also what kind of police they are so if</p>
+<p begin="00:04:29.199" end="00:04:33.520" style="s2">your person is<span style="s3"> likely</span> to<span style="s3"> be</span> targeted by</p>
+<p begin="00:04:30.610" end="00:04:35.620" style="s2">them<span style="s4"> you</span> can avoid<span style="s3"> them</span> finally like the</p>
+<p begin="00:04:33.520" end="00:04:39.009" style="s2">reason why<span style="s3"> this</span> all connects to me is</p>
+<p begin="00:04:35.620" end="00:04:40.780" style="s2"><span style="s4">that</span> this space needs more diverse</p>
+<p begin="00:04:39.009" end="00:04:43.539" style="s2">perspectives and a lot of that<span style="s3"> can</span> come</p>
+<p begin="00:04:40.780" end="00:04:45.699" style="s2">from art I and I think that this<span style="s4"> is</span></p>
+<p begin="00:04:43.539" end="00:04:47.319" style="s2">really important not<span style="s4"> just</span> for us<span style="s3"> or</span> for</p>
+<p begin="00:04:45.699" end="00:04:50.259" style="s2">the individuals<span style="s4"> that</span> might benefit from</p>
+<p begin="00:04:47.319" end="00:04:51.729" style="s2">learning how to code but the sort of</p>
+<p begin="00:04:50.259" end="00:04:53.199" style="s2">implications for the future I think<span style="s4"> this</span></p>
+<p begin="00:04:51.729" end="00:04:55.900" style="s2"><span style="s4">is</span> another<span style="s4"> great</span> quote<span style="s4"> from</span> Barrett turn</p>
+<p begin="00:04:53.199" end="00:04:57.849" style="s2">and look I<span style="s3"> think</span> that this space should</p>
+<p begin="00:04:55.900" end="00:04:59.800" style="s2">i hack night it&#39;s valuable because we</p>
+<p begin="00:04:57.849" end="00:05:02.439" style="s2">democratized our process here and we we</p>
+<p begin="00:04:59.800" end="00:05:05.020" style="s2">accept these diverse<span style="s4"> endpoints</span> and<span style="s3"> we</span></p>
+<p begin="00:05:02.439" end="00:05:06.879" style="s2"><span style="s3">focus</span> on inclusivity and I think that</p>
+<p begin="00:05:05.020" end="00:05:08.529" style="s2">really we need<span style="s3"> to continue to do that</span></p>
+<p begin="00:05:06.879" end="00:05:11.979" style="s2">not just in<span style="s3"> this</span> space but everywhere</p>
+<p begin="00:05:08.529" end="00:05:14.889" style="s2">because<span style="s3"> right</span> now technologists are</p>
+<p begin="00:05:11.979" end="00:05:16.930" style="s2">making<span style="s4"> decisions</span> about how we make</p>
+<p begin="00:05:14.889" end="00:05:18.909" style="s2">friends and how we find people to love</p>
+<p begin="00:05:16.930" end="00:05:21.849" style="s2">about where we go to eat and these</p>
+<p begin="00:05:18.909" end="00:05:23.590" style="s2">people have limited authority to speak</p>
+<p begin="00:05:21.849" end="00:05:27.569" style="s2">on these matters<span style="s4"> and</span> so we need to be</p>
+<p begin="00:05:23.590" end="00:05:27.569" style="s2"><span style="s4">able</span><span style="s3"> to</span> speak together thank</p>
+<p begin="00:05:31.490" end="00:05:37.170" style="s2">you</p>
+<p begin="00:05:33.380" end="00:05:37.170" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

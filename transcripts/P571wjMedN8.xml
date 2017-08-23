@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.490" end="00:00:11.880" style="s2">hi<span style="s3"> everyone</span> so why are you<span style="s3"> here tonight</span></p>
+<p begin="00:00:09.179" end="00:00:13.650" style="s2">at i hack night is anyone here today to</p>
+<p begin="00:00:11.880" end="00:00:18.300" style="s2">improve themselves or to<span style="s3"> learn</span> something</p>
+<p begin="00:00:13.650" end="00:00:19.859" style="s2"><span style="s3">new</span><span style="s4"> all right well in January I</span><span style="s3"> started</span></p>
+<p begin="00:00:18.300" end="00:00:21.510" style="s2"><span style="s3">attending</span> hack nights because I wanted</p>
+<p begin="00:00:19.859" end="00:00:23.760" style="s2"><span style="s3">to</span> learn how hackers were solving</p>
+<p begin="00:00:21.510" end="00:00:26.640" style="s2">problems and I learned a little bit</p>
+<p begin="00:00:23.760" end="00:00:29.550" style="s2">about our<span style="s3"> own</span> problems<span style="s3"> some</span> groups I</p>
+<p begin="00:00:26.640" end="00:00:32.940" style="s2">found were too ignorant and some groups</p>
+<p begin="00:00:29.550" end="00:00:37.020" style="s2">weren&#39;t ignorant enough so what<span style="s3"> do</span> I</p>
+<p begin="00:00:32.940" end="00:00:39.290" style="s2">mean<span style="s4"> by</span> that well at hack night a lot of</p>
+<p begin="00:00:37.020" end="00:00:42.780" style="s2">people<span style="s3"> pitch</span> solutions not problems</p>
+<p begin="00:00:39.290" end="00:00:45.480" style="s2">we&#39;re creating a social network website</p>
+<p begin="00:00:42.780" end="00:00:48.090" style="s2">and app the<span style="s4"> Twitter</span> bot sure these are</p>
+<p begin="00:00:45.480" end="00:00:50.520" style="s2">great ideas but<span style="s3"> what</span> if the problems</p>
+<p begin="00:00:48.090" end="00:00:52.469" style="s2">have different solutions for example</p>
+<p begin="00:00:50.520" end="00:00:55.020" style="s2">I&#39;ve been a<span style="s3"> part</span> of the access to</p>
+<p begin="00:00:52.469" end="00:00:56.820" style="s2">justice group and we learned early on</p>
+<p begin="00:00:55.020" end="00:01:00.239" style="s2">that if we created a mobile app for</p>
+<p begin="00:00:56.820" end="00:01:02.460" style="s2">recent parolees most likely<span style="s3"> it</span> might<span style="s4"> not</span></p>
+<p begin="00:01:00.239" end="00:01:06.420" style="s2">be used because they might not even have</p>
+<p begin="00:01:02.460" end="00:01:09.450" style="s2">smartphones to begin with so<span style="s4"> you</span> know if</p>
+<p begin="00:01:06.420" end="00:01:13.619" style="s2">we are so attached to our original ideas</p>
+<p begin="00:01:09.450" end="00:01:15.869" style="s2">how are we ever to improve them on the</p>
+<p begin="00:01:13.619" end="00:01:18.210" style="s2">other<span style="s3"> hand it&#39;s entirely possible to</span></p>
+<p begin="00:01:15.869" end="00:01:22.619" style="s2">spend too much time thinking about</p>
+<p begin="00:01:18.210" end="00:01:24.450" style="s2">problems so in access to justice we have</p>
+<p begin="00:01:22.619" end="00:01:27.390" style="s2">gotten really<span style="s3"> close</span> to this problem of</p>
+<p begin="00:01:24.450" end="00:01:29.490" style="s2">reentry how<span style="s3"> people</span> who&#39;ve just been</p>
+<p begin="00:01:27.390" end="00:01:30.960" style="s2">released in prison reenter society and</p>
+<p begin="00:01:29.490" end="00:01:33.479" style="s2">we&#39;ve learned that it&#39;s not<span style="s4"> just</span> about</p>
+<p begin="00:01:30.960" end="00:01:36.119" style="s2">people getting sent back to prison for</p>
+<p begin="00:01:33.479" end="00:01:38.369" style="s2">breaking the law it&#39;s a<span style="s3"> it&#39;s</span> really<span style="s4"> an</span></p>
+<p begin="00:01:36.119" end="00:01:40.909" style="s2">issue about discrimination society but I</p>
+<p begin="00:01:38.369" end="00:01:43.500" style="s2">think sometimes<span style="s4"> we</span> let those problems</p>
+<p begin="00:01:40.909" end="00:01:45.720" style="s2">stop us from just<span style="s3"> taking</span> a stab at the</p>
+<p begin="00:01:43.500" end="00:01:47.759" style="s2"><span style="s3">solution</span> and after<span style="s3"> six</span> weeks we were</p>
+<p begin="00:01:45.720" end="00:01:52.020" style="s2"><span style="s3">just</span><span style="s4"> starting</span> to think<span style="s4"> about developing</span></p>
+<p begin="00:01:47.759" end="00:01:56.520" style="s2">a website so tonight I want<span style="s3"> to</span> challenge</p>
+<p begin="00:01:52.020" end="00:01:59.070" style="s2">you to optimize your ignorance I want</p>
+<p begin="00:01:56.520" end="00:02:01.500" style="s2">you to use hack nights as a space to</p>
+<p begin="00:01:59.070" end="00:02:04.140" style="s2">create quick and dirty solutions and</p>
+<p begin="00:02:01.500" end="00:02:07.110" style="s2">then test them during the week you know</p>
+<p begin="00:02:04.140" end="00:02:09.810" style="s2">I<span style="s3"> just</span> want you<span style="s3"> to</span><span style="s4"> think</span> of your ideas</p>
+<p begin="00:02:07.110" end="00:02:11.489" style="s2">as works in progress and if you&#39;re</p>
+<p begin="00:02:09.810" end="00:02:12.989" style="s2">willing to<span style="s3"> come</span> here every week to</p>
+<p begin="00:02:11.489" end="00:02:13.390" style="s2">improve yourselves and to learn</p>
+<p begin="00:02:12.989" end="00:02:15.520" style="s2"><span style="s3">something</span></p>
+<p begin="00:02:13.390" end="00:02:19.590" style="s2">you why<span style="s3"> can&#39;t</span> we improve the way that we</p>
+<p begin="00:02:15.520" end="00:02:19.590" style="s2">do<span style="s4"> our</span> projects thank you</p>
+</div>
+</body>
+</tt>

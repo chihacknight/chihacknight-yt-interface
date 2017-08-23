@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.879" end="00:00:09.830" style="s2"><span style="s3">alright guerilla marketing so you&#39;re</span></p>
+<p begin="00:00:07.259" end="00:00:12.090" style="s2">built an app<span style="s3"> now</span> what the word gorilla</p>
+<p begin="00:00:09.830" end="00:00:13.530" style="s2">doesn&#39;t actually mean eight it means</p>
+<p begin="00:00:12.090" end="00:00:15.780" style="s2">it&#39;s a Spanish word that means little</p>
+<p begin="00:00:13.530" end="00:00:17.010" style="s2">war so it&#39;s like seven or eight guys are</p>
+<p begin="00:00:15.780" end="00:00:18.449" style="s2">sitting around and thinking we want to</p>
+<p begin="00:00:17.010" end="00:00:19.859" style="s2">overthrow<span style="s3"> the</span> government and someone</p>
+<p begin="00:00:18.449" end="00:00:21.180" style="s2">else&#39;s there&#39;s only like eight<span style="s4"> of</span> us</p>
+<p begin="00:00:19.859" end="00:00:24.480" style="s2">well we&#39;re gonna need a little war</p>
+<p begin="00:00:21.180" end="00:00:25.680" style="s2">because we don&#39;t have an army so if</p>
+<p begin="00:00:24.480" end="00:00:27.300" style="s2">you&#39;re<span style="s3"> gonna have</span><span style="s4"> a</span> little war you got</p>
+<p begin="00:00:25.680" end="00:00:29.939" style="s2">to choose<span style="s3"> your</span> target target very</p>
+<p begin="00:00:27.300" end="00:00:32.430" style="s2">carefully it can&#39;t be everyone find your</p>
+<p begin="00:00:29.939" end="00:00:34.860" style="s2">niche who are the specific group of</p>
+<p begin="00:00:32.430" end="00:00:37.170" style="s2">people who<span style="s3"> will</span> use<span style="s3"> your</span> app and if it</p>
+<p begin="00:00:34.860" end="00:00:39.420" style="s2">really is everyone try and just pick a</p>
+<p begin="00:00:37.170" end="00:00:41.219" style="s2">neighborhood or something focus remember</p>
+<p begin="00:00:39.420" end="00:00:47.250" style="s2"><span style="s3">Facebook</span> was originally just for college</p>
+<p begin="00:00:41.219" end="00:00:50.309" style="s2">students who are misogynists baby<span style="s3"> where</span></p>
+<p begin="00:00:47.250" end="00:00:54.000" style="s2"><span style="s3">do</span> people&#39;s eyes go find your audience</p>
+<p begin="00:00:50.309" end="00:00:55.680" style="s2">follow him around stock them<span style="s3"> okay</span> you</p>
+<p begin="00:00:54.000" end="00:00:57.300" style="s2">might<span style="s3"> not</span> be able<span style="s3"> to</span> put an ad in the</p>
+<p begin="00:00:55.680" end="00:00:59.760" style="s2"><span style="s3">newspaper</span> that they look at but<span style="s4"> you</span></p>
+<p begin="00:00:57.300" end="00:01:01.379" style="s2">might be<span style="s4"> able</span><span style="s3"> to see them go into</span> a</p>
+<p begin="00:00:59.760" end="00:01:03.539" style="s2">concert and hand them a bottle of water</p>
+<p begin="00:01:01.379" end="00:01:05.489" style="s2">or something<span style="s3"> like</span> that with your app<span style="s3"> on</span></p>
+<p begin="00:01:03.539" end="00:01:09.290" style="s2">it you can go to their neighborhood you</p>
+<p begin="00:01:05.489" end="00:01:12.990" style="s2"><span style="s4">can</span> set on the<span style="s4"> L</span> yeah follow their eyes</p>
+<p begin="00:01:09.290" end="00:01:16.170" style="s2">the media loves<span style="s4"> a</span> hook like<span style="s4"> a</span></p>
+<p begin="00:01:12.990" end="00:01:17.729" style="s2">million-dollar blocks one of the coolest</p>
+<p begin="00:01:16.170" end="00:01:19.740" style="s2">apps in my opinion to<span style="s4"> come</span> out<span style="s4"> of</span><span style="s3"> this</span></p>
+<p begin="00:01:17.729" end="00:01:22.770" style="s2">was essentially a hook what do<span style="s3"> we</span> have</p>
+<p begin="00:01:19.740" end="00:01:25.380" style="s2">crime statistics boring we&#39;re spending<span style="s3"> a</span></p>
+<p begin="00:01:22.770" end="00:01:29.430" style="s2">million dollars on one block that&#39;s a</p>
+<p begin="00:01:25.380" end="00:01:30.930" style="s2">hook find a bigger partner to help you</p>
+<p begin="00:01:29.430" end="00:01:33.900" style="s2"><span style="s3">out</span></p>
+<p begin="00:01:30.930" end="00:01:36.330" style="s2">if you think you can&#39;t handle<span style="s3"> it</span> on your</p>
+<p begin="00:01:33.900" end="00:01:37.890" style="s2">own or<span style="s3"> you</span> can maybe use some help you</p>
+<p begin="00:01:36.330" end="00:01:40.410" style="s2">know we&#39;re just a little<span style="s3"> little</span> group<span style="s3"> of</span></p>
+<p begin="00:01:37.890" end="00:01:44.340" style="s2">folks but we can<span style="s3"> find</span> a bigger nonprofit</p>
+<p begin="00:01:40.410" end="00:01:47.970" style="s2">business or perhaps<span style="s3"> a</span> government to help</p>
+<p begin="00:01:44.340" end="00:01:51.360" style="s2">out and last but not least keep it</p>
+<p begin="00:01:47.970" end="00:01:53.250" style="s2">minimal and manageable it&#39;s really<span style="s3"> easy</span></p>
+<p begin="00:01:51.360" end="00:01:55.200" style="s2">to come up with<span style="s4"> a</span> whole<span style="s3"> lot</span><span style="s4"> of</span> ideas but</p>
+<p begin="00:01:53.250" end="00:01:58.530" style="s2"><span style="s3">it&#39;s very hard to execute a whole lot</span><span style="s4"> of</span></p>
+<p begin="00:01:55.200" end="00:02:00.570" style="s2">ideas it&#39;s a lot<span style="s4"> more</span> fun to think up</p>
+<p begin="00:01:58.530" end="00:02:04.050" style="s2">stuff than it is to hand out bottles of</p>
+<p begin="00:02:00.570" end="00:02:06.200" style="s2">water on<span style="s4"> the</span> hot street all day thank</p>
+<p begin="00:02:04.050" end="00:02:06.200" style="s2">you</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.879" end="00:00:09.330" style="s2"><span style="s3">okay</span> good evening<span style="s3"> today</span> we&#39;re actually</p>
+<p begin="00:00:07.859" end="00:00:10.679" style="s2"><span style="s3">going</span> to<span style="s3"> be</span> talking<span style="s4"> about a couple of</span></p>
+<p begin="00:00:09.330" end="00:00:13.500" style="s2"><span style="s3">things</span> we<span style="s3"> thought</span> it&#39;d be fun to pair</p>
+<p begin="00:00:10.679" end="00:00:15.059" style="s2">these up<span style="s3"> a</span> lot<span style="s3"> of</span> this<span style="s3"> tend</span> to be in</p>
+<p begin="00:00:13.500" end="00:00:16.980" style="s2">serendipitous every once in a<span style="s3"> while</span> we</p>
+<p begin="00:00:15.059" end="00:00:18.750" style="s2">work<span style="s3"> on</span> a<span style="s3"> lot</span> of projects<span style="s3"> we usually try</span></p>
+<p begin="00:00:16.980" end="00:00:20.640" style="s2">to<span style="s3"> space</span> them out but as it happens</p>
+<p begin="00:00:18.750" end="00:00:21.840" style="s2"><span style="s3">things</span> tend to happen<span style="s3"> together so we</span></p>
+<p begin="00:00:20.640" end="00:00:23.699" style="s2">thought it&#39;d<span style="s4"> be</span> fun to talk<span style="s4"> about</span> couple</p>
+<p begin="00:00:21.840" end="00:00:25.350" style="s2"><span style="s3">of projects that we&#39;ve actually been</span></p>
+<p begin="00:00:23.699" end="00:00:28.260" style="s2"><span style="s4">working</span> on for a little<span style="s4"> while</span><span style="s3"> now</span></p>
+<p begin="00:00:25.350" end="00:00:29.160" style="s2">one project<span style="s4"> West</span><span style="s3"> Nile</span> virus I think</p>
+<p begin="00:00:28.260" end="00:00:30.179" style="s2">we&#39;ve been<span style="s4"> working</span> on<span style="s3"> for</span> a little</p>
+<p begin="00:00:29.160" end="00:00:32.850" style="s2"><span style="s4">morning</span> here and another project</p>
+<p begin="00:00:30.179" end="00:00:34.829" style="s2"><span style="s4">actually started out of this group a</span></p>
+<p begin="00:00:32.850" end="00:00:37.020" style="s2">year<span style="s4"> and</span> a half ago<span style="s3"> sometime</span> in November</p>
+<p begin="00:00:34.829" end="00:00:38.460" style="s2"><span style="s4">so</span> we&#39;re going to<span style="s3"> talk</span><span style="s4"> about</span> two<span style="s4"> things</span></p>
+<p begin="00:00:37.020" end="00:00:40.829" style="s2">we&#39;re going to<span style="s4"> talk</span> about<span style="s3"> how</span> we&#39;re</p>
+<p begin="00:00:38.460" end="00:00:43.410" style="s2"><span style="s4">trying</span> to get<span style="s3"> ahead</span> of West Nile<span style="s3"> viruses</span></p>
+<p begin="00:00:40.829" end="00:00:45.510" style="s2">occurs<span style="s3"> in</span> the city of Chicago so<span style="s3"> we</span> can</p>
+<p begin="00:00:43.410" end="00:00:47.579" style="s2">be more<span style="s4"> proactive</span><span style="s3"> we&#39;re</span> obviously very</p>
+<p begin="00:00:45.510" end="00:00:50.309" style="s2"><span style="s4">concerned</span> about vector borne illnesses</p>
+<p begin="00:00:47.579" end="00:00:53.190" style="s2">and vector borne diseases<span style="s3"> in</span> in the city</p>
+<p begin="00:00:50.309" end="00:00:54.660" style="s2">as they become a common way for<span style="s3"> diseases</span></p>
+<p begin="00:00:53.190" end="00:00:57.360" style="s2">to spread and West Nile<span style="s3"> virus is</span></p>
+<p begin="00:00:54.660" end="00:00:59.160" style="s2">certainly one the more notable<span style="s4"> and</span> the</p>
+<p begin="00:00:57.360" end="00:01:01.530" style="s2">other one is taking a look<span style="s3"> at</span><span style="s4"> eco lie</span></p>
+<p begin="00:00:59.160" end="00:01:02.879" style="s2">levels in<span style="s4"> Lake</span> Michigan<span style="s3"> and</span> seeing</p>
+<p begin="00:01:01.530" end="00:01:05.040" style="s2">whether<span style="s3"> or</span> not we can<span style="s3"> do</span> a<span style="s3"> better</span> job of</p>
+<p begin="00:01:02.879" end="00:01:08.430" style="s2"><span style="s3">forecasting when ecoli level is going to</span></p>
+<p begin="00:01:05.040" end="00:01:10.439" style="s2">be too high so we<span style="s3"> can warn swimmers and</span></p>
+<p begin="00:01:08.430" end="00:01:12.270" style="s2">so they can<span style="s3"> potentially</span> avoid those</p>
+<p begin="00:01:10.439" end="00:01:13.439" style="s2">conditions so tonight<span style="s3"> there&#39;s</span> going to</p>
+<p begin="00:01:12.270" end="00:01:15.210" style="s2">be a<span style="s3"> couple of speakers I&#39;m going to</span></p>
+<p begin="00:01:13.439" end="00:01:17.850" style="s2">first<span style="s3"> turn</span> over to Jean Linus who&#39;s a</p>
+<p begin="00:01:15.210" end="00:01:19.470" style="s2">data scientist on my team<span style="s3"> who&#39;s</span> worked</p>
+<p begin="00:01:17.850" end="00:01:20.610" style="s2">on<span style="s3"> the</span> West Nile virus project and</p>
+<p begin="00:01:19.470" end="00:01:22.710" style="s2">you&#39;re going to<span style="s3"> hear from Nick Lucius</span></p>
+<p begin="00:01:20.610" end="00:01:24.750" style="s2"><span style="s3">who&#39;s</span> going<span style="s3"> to</span> work<span style="s4"> who&#39;s</span> has been</p>
+<p begin="00:01:22.710" end="00:01:26.430" style="s2"><span style="s3">working</span> on the<span style="s4"> e.coli</span> project and then</p>
+<p begin="00:01:24.750" end="00:01:28.320" style="s2">I&#39;m going to<span style="s3"> wrap</span> some things up<span style="s4"> about</span></p>
+<p begin="00:01:26.430" end="00:01:30.119" style="s2">how we bring it<span style="s3"> all</span> together<span style="s3"> so</span><span style="s4"> I&#39;m</span></p>
+<p begin="00:01:28.320" end="00:01:31.470" style="s2">going<span style="s4"> to</span><span style="s3"> turn</span> over<span style="s3"> to first to Jean</span> and</p>
+<p begin="00:01:30.119" end="00:01:36.040" style="s2"><span style="s3">he&#39;s going to</span> go through<span style="s4"> the</span> West Nile</p>
+<p begin="00:01:31.470" end="00:01:40.199" style="s2">virus project<span style="s3"> so Jean thank</span> you hi</p>
+<p begin="00:01:36.040" end="00:01:40.199" style="s2">[Applause]</p>
+<p begin="00:01:40.790" end="00:01:47.100" style="s2">so this<span style="s3"> mic</span> on<span style="s3"> gimme</span> everybody here<span style="s4"> I</span></p>
+<p begin="00:01:44.549" end="00:01:48.570" style="s2">need<span style="s4"> to use both okay so I&#39;m</span><span style="s3"> gene Linus</span></p>
+<p begin="00:01:47.100" end="00:01:51.000" style="s2">I&#39;m a data scientist at the<span style="s3"> city</span> of</p>
+<p begin="00:01:48.570" end="00:01:52.320" style="s2">Chicago<span style="s4"> and</span> I&#39;m here to talk<span style="s3"> to</span> you</p>
+<p begin="00:01:51.000" end="00:01:54.630" style="s2">tonight<span style="s3"> about</span><span style="s4"> the</span> West<span style="s3"> Nile</span> virus</p>
+<p begin="00:01:52.320" end="00:01:59.130" style="s2">project that we&#39;ve<span style="s4"> been</span><span style="s3"> working on it&#39;s</span></p>
+<p begin="00:01:54.630" end="00:02:02.670" style="s2">to prevent West Nile and this slide is a</p>
+<p begin="00:01:59.130" end="00:02:06.750" style="s2"><span style="s4">picture</span> of some inflamed<span style="s3"> equine</span> brain</p>
+<p begin="00:02:02.670" end="00:02:10.920" style="s2">tissue<span style="s3"> from</span> a horse that<span style="s3"> has</span> died from</p>
+<p begin="00:02:06.750" end="00:02:17.190" style="s2"><span style="s3">West</span> Nile<span style="s3"> virus</span><span style="s4"> and</span> that&#39;s just how</p>
+<p begin="00:02:10.920" end="00:02:19.590" style="s2">we&#39;re going to start so you get West</p>
+<p begin="00:02:17.190" end="00:02:22.019" style="s2"><span style="s3">Nile</span> virus from mosquitoes<span style="s3"> humans</span> humans</p>
+<p begin="00:02:19.590" end="00:02:24.440" style="s2">get it from<span style="s3"> mosquitoes</span> and so this is</p>
+<p begin="00:02:22.019" end="00:02:26.940" style="s2">the enemy<span style="s3"> there</span> were a lot of surprising</p>
+<p begin="00:02:24.440" end="00:02:29.340" style="s2">things I learned when<span style="s4"> I</span><span style="s3"> was</span> working on</p>
+<p begin="00:02:26.940" end="00:02:32.400" style="s2">this project the first<span style="s3"> surprising</span> thing</p>
+<p begin="00:02:29.340" end="00:02:33.870" style="s2">was<span style="s3"> that</span> Chicago<span style="s3"> has</span> a lot of West Nile</p>
+<p begin="00:02:32.400" end="00:02:35.670" style="s2"><span style="s3">virus</span></p>
+<p begin="00:02:33.870" end="00:02:36.930" style="s2">I remember seeing<span style="s3"> in</span> the<span style="s3"> news</span> and<span style="s3"> I</span></p>
+<p begin="00:02:35.670" end="00:02:39.209" style="s2"><span style="s3">thought</span> it<span style="s3"> was</span> something<span style="s3"> that just kind</span></p>
+<p begin="00:02:36.930" end="00:02:41.130" style="s2"><span style="s3">of went away or was in the south</span> or</p>
+<p begin="00:02:39.209" end="00:02:42.709" style="s2">someplace<span style="s3"> else</span><span style="s4"> turns</span> out<span style="s3"> that</span> we</p>
+<p begin="00:02:41.130" end="00:02:48.180" style="s2">actually<span style="s4"> have</span> a lot of West Nile<span style="s3"> virus</span></p>
+<p begin="00:02:42.709" end="00:02:50.609" style="s2"><span style="s3">we&#39;ve</span> had<span style="s4"> 2300</span> human<span style="s4"> cases</span> over<span style="s4"> 2,200</span></p>
+<p begin="00:02:48.180" end="00:02:54.750" style="s2">human<span style="s3"> cases</span> reported<span style="s3"> since</span> it was a</p>
+<p begin="00:02:50.609" end="00:02:56.310" style="s2">thing in 2002 and but the other<span style="s3"> nice</span></p>
+<p begin="00:02:54.750" end="00:02:57.870" style="s2">thing the other night surprising thing</p>
+<p begin="00:02:56.310" end="00:03:00.480" style="s2">that<span style="s4"> I</span> learned<span style="s3"> was</span> that<span style="s3"> most</span> people they</p>
+<p begin="00:02:57.870" end="00:03:02.609" style="s2">contract West Nile virus<span style="s4"> have</span> no<span style="s3"> idea</span></p>
+<p begin="00:03:00.480" end="00:03:05.519" style="s2"><span style="s3">that it ever happened</span><span style="s4"> because</span> 80%<span style="s4"> of</span></p>
+<p begin="00:03:02.609" end="00:03:08.760" style="s2">people<span style="s3"> approximately</span> have absolutely no</p>
+<p begin="00:03:05.519" end="00:03:11.640" style="s2">symptoms<span style="s4"> whatsoever</span><span style="s3"> so</span> for most of<span style="s3"> us</span></p>
+<p begin="00:03:08.760" end="00:03:15.060" style="s2">that&#39;s pretty good<span style="s3"> news</span><span style="s4"> and</span> of the</p>
+<p begin="00:03:11.640" end="00:03:16.470" style="s2"><span style="s3">people</span> who do<span style="s3"> get</span> sick<span style="s4"> most</span> most of</p>
+<p begin="00:03:15.060" end="00:03:20.459" style="s2"><span style="s4">those</span><span style="s3"> people</span> just experience flu-like</p>
+<p begin="00:03:16.470" end="00:03:24.120" style="s2">symptoms the older people and<span style="s3"> babies are</span></p>
+<p begin="00:03:20.459" end="00:03:26.459" style="s2">are more vulnerable<span style="s3"> than</span><span style="s4"> than</span> everyone</p>
+<p begin="00:03:24.120" end="00:03:28.170" style="s2"><span style="s4">had</span> been<span style="s3"> everyone</span> else but of the<span style="s3"> people</span></p>
+<p begin="00:03:26.459" end="00:03:29.549" style="s2">that do get sick for<span style="s3"> the</span> most parts of</p>
+<p begin="00:03:28.170" end="00:03:32.609" style="s2">flu-like symptoms that<span style="s3"> you</span> get<span style="s3"> over</span></p>
+<p begin="00:03:29.549" end="00:03:34.200" style="s2">within<span style="s3"> a</span> month<span style="s3"> and</span> it&#39;s only<span style="s4"> 1% of</span></p>
+<p begin="00:03:32.609" end="00:03:38.280" style="s2"><span style="s3">people to get</span> the<span style="s4"> really</span> severe neural</p>
+<p begin="00:03:34.200" end="00:03:40.709" style="s2">invasive diseases that include<span style="s3"> like</span></p>
+<p begin="00:03:38.280" end="00:03:42.930" style="s2">paralysis and really terrible nerve</p>
+<p begin="00:03:40.709" end="00:03:46.200" style="s2">damage and death<span style="s3"> that&#39;s</span> the<span style="s3"> stuff</span> that</p>
+<p begin="00:03:42.930" end="00:03:48.989" style="s2"><span style="s3">makes the news</span><span style="s4"> but</span><span style="s3"> for the most</span><span style="s4"> part</span> it</p>
+<p begin="00:03:46.200" end="00:03:51.720" style="s2"><span style="s3">doesn&#39;t</span> get that bad and the other<span style="s3"> thing</span></p>
+<p begin="00:03:48.989" end="00:03:53.220" style="s2">the other<span style="s3"> little</span> tidbit is that we&#39;re<span style="s3"> in</span></p>
+<p begin="00:03:51.720" end="00:03:55.110" style="s2">the top five<span style="s3"> states</span></p>
+<p begin="00:03:53.220" end="00:03:56.910" style="s2">in the country for for West Nile in</p>
+<p begin="00:03:55.110" end="00:03:59.670" style="s2">terms of human cases reported which was</p>
+<p begin="00:03:56.910" end="00:04:03.420" style="s2">also<span style="s3"> surprising</span> but<span style="s3"> I&#39;m</span> going to<span style="s3"> stop</span></p>
+<p begin="00:03:59.670" end="00:04:06.620" style="s2"><span style="s4">being</span> a downer<span style="s4"> and uh so for the most</span></p>
+<p begin="00:04:03.420" end="00:04:09.510" style="s2">part<span style="s4"> West</span><span style="s3"> Nile</span> is a contained<span style="s3"> of</span></p>
+<p begin="00:04:06.620" end="00:04:11.280" style="s2"><span style="s3">ecosystem</span> that goes between birds<span style="s3"> and</span></p>
+<p begin="00:04:09.510" end="00:04:14.310" style="s2"><span style="s3">mosquitoes</span><span style="s4"> which gives give to birds</span></p>
+<p begin="00:04:11.280" end="00:04:16.709" style="s2">birds transmit it they move<span style="s3"> it</span> around</p>
+<p begin="00:04:14.310" end="00:04:19.560" style="s2"><span style="s3">and</span> the mosquitoes pass it back and</p>
+<p begin="00:04:16.709" end="00:04:21.959" style="s2"><span style="s4">forth and really the</span> human<span style="s3"> and</span> horse</p>
+<p begin="00:04:19.560" end="00:04:26.430" style="s2">cases are just<span style="s4"> spillover from</span><span style="s3"> this</span></p>
+<p begin="00:04:21.959" end="00:04:29.070" style="s2">system<span style="s4"> so</span> we&#39;re not really<span style="s3"> the</span> carriers</p>
+<p begin="00:04:26.430" end="00:04:32.280" style="s2"><span style="s3">and</span> we&#39;re not<span style="s4"> really</span> in in the action as</p>
+<p begin="00:04:29.070" end="00:04:35.310" style="s2">much as the birds<span style="s4"> we&#39;re</span><span style="s3"> just</span> kind of on</p>
+<p begin="00:04:32.280" end="00:04:37.740" style="s2"><span style="s3">the</span> sidelines<span style="s3"> so</span> what do we<span style="s3"> do</span><span style="s4"> about</span> it</p>
+<p begin="00:04:35.310" end="00:04:40.230" style="s2">the city<span style="s3"> of</span> Chicago<span style="s3"> we</span> have three main</p>
+<p begin="00:04:37.740" end="00:04:42.480" style="s2"><span style="s3">things</span> that<span style="s3"> we&#39;re</span> doing<span style="s3"> the</span> first<span style="s3"> thing</span></p>
+<p begin="00:04:40.230" end="00:04:46.140" style="s2">is that we<span style="s4"> larvacide</span><span style="s3"> this</span> means that we</p>
+<p begin="00:04:42.480" end="00:04:48.540" style="s2">drop<span style="s4"> larvacide</span> into storm drains<span style="s4"> around</span></p>
+<p begin="00:04:46.140" end="00:04:49.980" style="s2">the city of<span style="s4"> chicago</span> and they&#39;re<span style="s3"> just</span></p>
+<p begin="00:04:48.540" end="00:04:53.450" style="s2">little pellets<span style="s3"> that sit in the catch</span></p>
+<p begin="00:04:49.980" end="00:04:56.910" style="s2">basin<span style="s4"> that</span> prevent mosquito larvae<span style="s3"> from</span></p>
+<p begin="00:04:53.450" end="00:04:59.280" style="s2">becoming<span style="s4"> mosquitos I was this was</span></p>
+<p begin="00:04:56.910" end="00:05:01.320" style="s2">another surprising<span style="s3"> thing</span> we<span style="s4"> larvacide</span><span style="s3"> a</span></p>
+<p begin="00:04:59.280" end="00:05:05.070" style="s2">hundred and fifty thousand storm drains</p>
+<p begin="00:05:01.320" end="00:05:07.320" style="s2">or<span style="s4"> 50,000</span><span style="s3"> yes</span> a<span style="s4"> hundred</span> fifty thousand</p>
+<p begin="00:05:05.070" end="00:05:10.200" style="s2">storm drains<span style="s3"> around</span> the city I was<span style="s4"> I</span><span style="s3"> was</span></p>
+<p begin="00:05:07.320" end="00:05:13.430" style="s2">shocked to learn<span style="s4"> that the other thing</span></p>
+<p begin="00:05:10.200" end="00:05:17.700" style="s2">that<span style="s3"> we</span> do we capture<span style="s3"> mosquitoes</span> in this</p>
+<p begin="00:05:13.430" end="00:05:19.800" style="s2">gravid trap and we do<span style="s3"> DNA</span> testing on</p>
+<p begin="00:05:17.700" end="00:05:22.080" style="s2"><span style="s3">those</span> and I&#39;ll talk more about that<span style="s3"> and</span></p>
+<p begin="00:05:19.800" end="00:05:24.780" style="s2"><span style="s3">that&#39;s really how</span> we monitor the spread</p>
+<p begin="00:05:22.080" end="00:05:26.850" style="s2">in the presence of West<span style="s3"> Nile and if</span></p>
+<p begin="00:05:24.780" end="00:05:28.620" style="s2">there&#39;s West Nile that&#39;s present in<span style="s3"> a</span></p>
+<p begin="00:05:26.850" end="00:05:32.930" style="s2"><span style="s3">certain</span> area<span style="s3"> we spray for it with</span></p>
+<p begin="00:05:28.620" end="00:05:38.460" style="s2">pesticides<span style="s3"> and</span> that&#39;s that&#39;s what we do</p>
+<p begin="00:05:32.930" end="00:05:40.680" style="s2"><span style="s3">so</span> this<span style="s3"> this</span><span style="s4"> picture</span> here<span style="s4"> this</span><span style="s3"> is</span> a map</p>
+<p begin="00:05:38.460" end="00:05:42.000" style="s2">of<span style="s3"> the city and</span> I don&#39;t<span style="s4"> know</span> how well</p>
+<p begin="00:05:40.680" end="00:05:44.430" style="s2"><span style="s3">you</span> can<span style="s4"> see it but</span><span style="s3"> the</span> green and red</p>
+<p begin="00:05:42.000" end="00:05:47.190" style="s2">circles are<span style="s4"> where</span> the traps are located</p>
+<p begin="00:05:44.430" end="00:05:49.380" style="s2">and<span style="s3"> the</span> size of the trap indicates how</p>
+<p begin="00:05:47.190" end="00:05:51.780" style="s2">many mosquitoes were captured and the</p>
+<p begin="00:05:49.380" end="00:05:56.070" style="s2">red indicates how<span style="s4"> many</span> had West Nile<span style="s3"> and</span></p>
+<p begin="00:05:51.780" end="00:05:58.140" style="s2">this is a from a couple<span style="s4"> weeks ago</span><span style="s3"> and</span> so</p>
+<p begin="00:05:56.070" end="00:06:00.270" style="s2">you can see that it&#39;s actually<span style="s4"> not</span> that</p>
+<p begin="00:05:58.140" end="00:06:02.039" style="s2"><span style="s3">bad this</span><span style="s4"> year</span> we&#39;re in the middle<span style="s3"> of</span> the</p>
+<p begin="00:06:00.270" end="00:06:05.069" style="s2"><span style="s4">season</span> right<span style="s3"> now</span><span style="s4"> and</span> it&#39;s<span style="s3"> really</span> not</p>
+<p begin="00:06:02.039" end="00:06:07.650" style="s2">everywhere so</p>
+<p begin="00:06:05.069" end="00:06:11.430" style="s2">the<span style="s3"> two</span> main vector<span style="s3"> mosquitoes</span><span style="s4"> are</span> Culex</p>
+<p begin="00:06:07.650" end="00:06:13.559" style="s2">pipiens<span style="s3"> and</span><span style="s4"> Kulik stress runs</span> and<span style="s3"> we</span></p>
+<p begin="00:06:11.430" end="00:06:17.069" style="s2">capture<span style="s3"> these</span> mosquitoes and we grind</p>
+<p begin="00:06:13.559" end="00:06:19.529" style="s2">them up<span style="s3"> and in batches</span> of<span style="s4"> 50</span> and<span style="s3"> we</span> look</p>
+<p begin="00:06:17.069" end="00:06:21.990" style="s2">for the<span style="s4"> presence</span> of West<span style="s3"> Nile</span> DNA<span style="s3"> that&#39;s</span></p>
+<p begin="00:06:19.529" end="00:06:24.210" style="s2">how we find it<span style="s3"> so</span> the main work that I</p>
+<p begin="00:06:21.990" end="00:06:26.099" style="s2">was<span style="s3"> doing</span> in<span style="s3"> this</span> analytical project was</p>
+<p begin="00:06:24.210" end="00:06:28.139" style="s2">looking at these samples that are</p>
+<p begin="00:06:26.099" end="00:06:31.379" style="s2"><span style="s3">batches</span> of 50 mosquitoes at<span style="s4"> a</span> time and</p>
+<p begin="00:06:28.139" end="00:06:32.849" style="s2">you the<span style="s3"> public</span> and all of<span style="s3"> us</span> this<span style="s4"> is</span></p>
+<p begin="00:06:31.379" end="00:06:36.169" style="s2"><span style="s3">where</span> I get<span style="s4"> my</span> data can download the</p>
+<p begin="00:06:32.849" end="00:06:40.680" style="s2">data<span style="s3"> from</span> data at<span style="s3"> City Chicago org so</span></p>
+<p begin="00:06:36.169" end="00:06:42.389" style="s2">this is<span style="s3"> oh</span><span style="s4"> I won&#39;t go back to this for</span></p>
+<p begin="00:06:40.680" end="00:06:44.129" style="s2">one second<span style="s3"> so</span> this<span style="s3"> also</span> gives you an</p>
+<p begin="00:06:42.389" end="00:06:45.839" style="s2">idea<span style="s4"> of</span> the coverage<span style="s3"> of</span> the different</p>
+<p begin="00:06:44.129" end="00:06:49.499" style="s2"><span style="s3">traps</span> that we have these traps stay in</p>
+<p begin="00:06:45.839" end="00:06:52.379" style="s2">one<span style="s3"> place</span> in the<span style="s4"> city</span> for throughout the</p>
+<p begin="00:06:49.499" end="00:06:54.149" style="s2">summer<span style="s3"> so</span> this<span style="s3"> gives</span> you<span style="s3"> kind</span> of an idea</p>
+<p begin="00:06:52.379" end="00:06:56.099" style="s2"><span style="s3">of what</span><span style="s4"> the</span> shape of the season looks</p>
+<p begin="00:06:54.149" end="00:07:09.089" style="s2">like in terms<span style="s3"> of</span> months we start to test</p>
+<p begin="00:06:56.099" end="00:07:10.499" style="s2">for it<span style="s3"> and</span> sure at the epidemia so I I&#39;m</p>
+<p begin="00:07:09.089" end="00:07:12.479" style="s2">doing<span style="s3"> the</span> predictive<span style="s4"> model</span> the app<span style="s4"> to</span></p>
+<p begin="00:07:10.499" end="00:07:14.520" style="s2">the<span style="s3"> epidemiologist</span> and Chicago Public</p>
+<p begin="00:07:12.479" end="00:07:16.759" style="s2">Health or who<span style="s3"> put</span> it out they put them</p>
+<p begin="00:07:14.520" end="00:07:18.870" style="s2">by force preserves quite a bit and</p>
+<p begin="00:07:16.759" end="00:07:21.930" style="s2">places where<span style="s3"> I</span> think<span style="s3"> they</span> think<span style="s3"> and</span></p>
+<p begin="00:07:18.870" end="00:07:25.050" style="s2">public<span style="s4"> property</span><span style="s3"> so</span> fire stations and and</p>
+<p begin="00:07:21.930" end="00:07:27.269" style="s2">by<span style="s3"> the</span> way the the<span style="s4"> portal</span> locations<span style="s4"> its</span></p>
+<p begin="00:07:25.050" end="00:07:29.219" style="s2"><span style="s3">secret</span><span style="s4"> they&#39;re</span> uh it&#39;s a little<span style="s3"> bit</span> fuzz</p>
+<p begin="00:07:27.269" end="00:07:30.419" style="s2"><span style="s3">so</span> though it&#39;s not<span style="s3"> the exact location</span></p>
+<p begin="00:07:29.219" end="00:07:33.930" style="s2">you<span style="s3"> can&#39;t</span> go find the traps they&#39;re</p>
+<p begin="00:07:30.419" end="00:07:35.999" style="s2">hidden<span style="s3"> but</span> a p.m. but<span style="s4"> the</span> so this<span style="s3"> is</span><span style="s4"> the</span></p>
+<p begin="00:07:33.930" end="00:07:38.339" style="s2"><span style="s4">shape</span><span style="s3"> of</span> what<span style="s4"> our</span> season looks like so</p>
+<p begin="00:07:35.999" end="00:07:41.159" style="s2">there&#39;s a few traps that<span style="s3"> are</span> collected</p>
+<p begin="00:07:38.339" end="00:07:43.559" style="s2">in May they almost never have any West</p>
+<p begin="00:07:41.159" end="00:07:47.939" style="s2">Nile present there might be a few in<span style="s3"> a</span></p>
+<p begin="00:07:43.559" end="00:07:50.669" style="s2">in a June that have a starts to<span style="s3"> appear</span></p>
+<p begin="00:07:47.939" end="00:07:52.800" style="s2"><span style="s3">but the real peak happens in August and</span></p>
+<p begin="00:07:50.669" end="00:07:54.449" style="s2">that&#39;s when we have<span style="s3"> the</span> most traps out</p>
+<p begin="00:07:52.800" end="00:07:58.080" style="s2">and that&#39;s also<span style="s3"> when</span> we&#39;re finding<span style="s3"> the</span></p>
+<p begin="00:07:54.449" end="00:07:59.879" style="s2">most West Nile<span style="s3"> and</span> so the modeling</p>
+<p begin="00:07:58.080" end="00:08:01.680" style="s2">process<span style="s4"> that</span> we<span style="s3"> use</span> we tried random</p>
+<p begin="00:07:59.879" end="00:08:03.749" style="s2"><span style="s3">force</span> gradient boosting methods<span style="s4"> a</span> lot of</p>
+<p begin="00:08:01.680" end="00:08:05.879" style="s2">the<span style="s3"> typical</span> machine learning stuff the</p>
+<p begin="00:08:03.749" end="00:08:07.769" style="s2">one that<span style="s3"> actually worked for us</span> was a I</p>
+<p begin="00:08:05.879" end="00:08:10.019" style="s2">have to<span style="s3"> read</span> it<span style="s4"> the</span> generalized linear</p>
+<p begin="00:08:07.769" end="00:08:12.870" style="s2">mixed effect model<span style="s3"> and</span> what that let us</p>
+<p begin="00:08:10.019" end="00:08:15.509" style="s2"><span style="s3">do</span> was control for the fixed effects of</p>
+<p begin="00:08:12.870" end="00:08:17.699" style="s2">the location<span style="s3"> of the trap as well as the</span></p>
+<p begin="00:08:15.509" end="00:08:18.330" style="s2">shape<span style="s3"> of</span> the season<span style="s3"> so that we could</span></p>
+<p begin="00:08:17.699" end="00:08:22.530" style="s2">account</p>
+<p begin="00:08:18.330" end="00:08:25.530" style="s2">or the bias of<span style="s3"> the</span> the actual<span style="s4"> season</span> and</p>
+<p begin="00:08:22.530" end="00:08:29.969" style="s2">so the whole point<span style="s3"> of</span> this<span style="s3"> was</span> that<span style="s3"> we</span></p>
+<p begin="00:08:25.530" end="00:08:31.830" style="s2"><span style="s4">want</span><span style="s3"> to</span> be able<span style="s3"> to accurately predict if</span></p>
+<p begin="00:08:29.969" end="00:08:36.180" style="s2">there&#39;s going to be West Nile<span style="s4"> president</span></p>
+<p begin="00:08:31.830" end="00:08:37.860" style="s2"><span style="s3">one</span> week in<span style="s4"> advance</span> for the for the so</p>
+<p begin="00:08:36.180" end="00:08:39.479" style="s2">we can<span style="s3"> spray B and knock down the</span></p>
+<p begin="00:08:37.860" end="00:08:41.010" style="s2">mosquito<span style="s4"> population</span> before<span style="s3"> it</span> gets out</p>
+<p begin="00:08:39.479" end="00:08:45.360" style="s2">of control so we can<span style="s4"> reduce</span> the amount</p>
+<p begin="00:08:41.010" end="00:08:47.430" style="s2"><span style="s3">of</span> spring<span style="s4"> and</span> so from our model<span style="s3"> it</span></p>
+<p begin="00:08:45.360" end="00:08:51.420" style="s2">worked<span style="s3"> out pretty well</span><span style="s4"> we</span> were able to</p>
+<p begin="00:08:47.430" end="00:08:53.670" style="s2">detect<span style="s4"> 78 percent of the positive cases</span></p>
+<p begin="00:08:51.420" end="00:08:56.640" style="s2">and<span style="s3"> these</span> are two weeks in a row<span style="s3"> cases</span></p>
+<p begin="00:08:53.670" end="00:09:00.899" style="s2">and we were<span style="s3"> correct</span><span style="s4"> 65</span><span style="s3"> percent</span> of<span style="s3"> the</span></p>
+<p begin="00:08:56.640" end="00:09:02.640" style="s2"><span style="s3">time and it was really</span><span style="s4"> a</span> balancing<span style="s3"> act</span></p>
+<p begin="00:09:00.899" end="00:09:03.930" style="s2">to<span style="s3"> get</span> to these<span style="s4"> numbers</span> because<span style="s4"> we</span> could</p>
+<p begin="00:09:02.640" end="00:09:05.310" style="s2">have<span style="s3"> chosen a lot of different ratios</span></p>
+<p begin="00:09:03.930" end="00:09:07.140" style="s2">for<span style="s3"> a</span> model a<span style="s3"> lot</span> of different cutoff</p>
+<p begin="00:09:05.310" end="00:09:09.720" style="s2">values and we tried to<span style="s4"> pick</span> something</p>
+<p begin="00:09:07.140" end="00:09:12.260" style="s2"><span style="s4">that</span><span style="s3"> was both capturing a lot of the</span></p>
+<p begin="00:09:09.720" end="00:09:15.209" style="s2">true results but<span style="s4"> also</span> not over spraying</p>
+<p begin="00:09:12.260" end="00:09:17.399" style="s2">so the way we deliver this internally</p>
+<p begin="00:09:15.209" end="00:09:20.760" style="s2">within<span style="s3"> the</span><span style="s4"> city</span> is<span style="s4"> using</span> our situational</p>
+<p begin="00:09:17.399" end="00:09:23.810" style="s2">awareness program<span style="s3"> windy</span> grid<span style="s3"> so</span> I have a</p>
+<p begin="00:09:20.760" end="00:09:26.250" style="s2">saved query<span style="s3"> that</span> shows<span style="s4"> the</span> predictions</p>
+<p begin="00:09:23.810" end="00:09:28.100" style="s2"><span style="s4">it</span> auto auto populates for all<span style="s3"> these</span></p>
+<p begin="00:09:26.250" end="00:09:32.870" style="s2"><span style="s3">things</span> we<span style="s4"> can</span> just<span style="s3"> share</span> this link with</p>
+<p begin="00:09:28.100" end="00:09:35.820" style="s2">with<span style="s3"> our</span><span style="s4"> Epis</span> and this is<span style="s4"> basically</span><span style="s3"> the</span></p>
+<p begin="00:09:32.870" end="00:09:37.170" style="s2">output<span style="s4"> of</span> the<span style="s3"> model where the red dots</span></p>
+<p begin="00:09:35.820" end="00:09:38.880" style="s2">are over<span style="s3"> our</span> threshold but<span style="s3"> you</span> can</p>
+<p begin="00:09:37.170" end="00:09:40.769" style="s2"><span style="s4">actually</span><span style="s3"> see</span> what<span style="s3"> the</span> values are we</p>
+<p begin="00:09:38.880" end="00:09:43.320" style="s2">chose point<span style="s3"> three nine as</span> a threshold<span style="s3"> so</span></p>
+<p begin="00:09:40.769" end="00:09:45.720" style="s2"><span style="s4">that</span> one&#39;s 0.47 so it&#39;s over this<span style="s3"> one&#39;s</span></p>
+<p begin="00:09:43.320" end="00:09:50.310" style="s2">barely<span style="s3"> over so they can</span> get<span style="s3"> kind</span> of an</p>
+<p begin="00:09:45.720" end="00:09:53.970" style="s2">idea<span style="s4"> of</span><span style="s3"> the</span> magnitude<span style="s4"> and</span> of the of the</p>
+<p begin="00:09:50.310" end="00:09:56.180" style="s2">virus as<span style="s4"> its</span> around the city and that&#39;s</p>
+<p begin="00:09:53.970" end="00:09:56.180" style="s2">it</p>
+<p begin="00:09:58.190" end="00:10:05.380" style="s2">[Applause]</p>
+<p begin="00:10:03.750" end="00:10:10.090" style="s2"><span style="s3">all right thanks a lot</span></p>
+<p begin="00:10:05.380" end="00:10:12.700" style="s2"><span style="s4">Tom</span><span style="s3"> Jean</span> and everyone here<span style="s4"> I&#39;m</span> really</p>
+<p begin="00:10:10.090" end="00:10:14.490" style="s2">really<span style="s3"> excited</span><span style="s4"> to</span> be here honor and</p>
+<p begin="00:10:12.700" end="00:10:18.940" style="s2">privilege to<span style="s4"> be standing on</span><span style="s3"> the</span> side<span style="s4"> of</span></p>
+<p begin="00:10:14.490" end="00:10:20.670" style="s2">the podium<span style="s3"> as</span> Tom mentioned<span style="s3"> earlier</span> this</p>
+<p begin="00:10:18.940" end="00:10:23.770" style="s2">project that I&#39;m working on<span style="s4"> Clearwater</span></p>
+<p begin="00:10:20.670" end="00:10:26.050" style="s2"><span style="s3">was</span> born here at<span style="s4"> Shai</span> hack night and in</p>
+<p begin="00:10:23.770" end="00:10:29.140" style="s2">a breakout<span style="s4"> room</span> started with just a<span style="s3"> few</span></p>
+<p begin="00:10:26.050" end="00:10:31.690" style="s2">people looking<span style="s3"> at ecoli results and</span></p>
+<p begin="00:10:29.140" end="00:10:33.700" style="s2">trying<span style="s3"> to create a</span> better model<span style="s3"> so</span> I&#39;m</p>
+<p begin="00:10:31.690" end="00:10:35.290" style="s2">going to get started<span style="s3"> and tell you about</span></p>
+<p begin="00:10:33.700" end="00:10:37.150" style="s2">our<span style="s4"> work</span><span style="s3"> and</span> tell you about where we&#39;ve</p>
+<p begin="00:10:35.290" end="00:10:40.360" style="s2"><span style="s4">been</span> where<span style="s4"> where</span> we<span style="s4"> are</span><span style="s3"> and</span> where we</p>
+<p begin="00:10:37.150" end="00:10:44.230" style="s2">hope<span style="s3"> to be going so Chicago</span><span style="s4"> in the</span></p>
+<p begin="00:10:40.360" end="00:10:46.300" style="s2"><span style="s4">summer</span> it&#39;s here<span style="s3"> right</span> now<span style="s3"> this</span> is this</p>
+<p begin="00:10:44.230" end="00:10:49.330" style="s2"><span style="s3">is</span> one of<span style="s3"> the</span> beautiful amenities we</p>
+<p begin="00:10:46.300" end="00:10:52.720" style="s2">have in the city of Chicago<span style="s4"> 26</span> miles of</p>
+<p begin="00:10:49.330" end="00:10:57.220" style="s2">beaches<span style="s3"> we</span> have more than<span style="s3"> 20</span> beaches to</p>
+<p begin="00:10:52.720" end="00:10:59.770" style="s2">go<span style="s3"> enjoy people just you know go</span><span style="s4"> and</span></p>
+<p begin="00:10:57.220" end="00:11:03.970" style="s2"><span style="s3">suntan</span> have fun and of course<span style="s4"> swim</span> in</p>
+<p begin="00:10:59.770" end="00:11:05.860" style="s2">the water<span style="s4"> we&#39;re</span> all in<span style="s4"> here</span> inside on a</p>
+<p begin="00:11:03.970" end="00:11:09.640" style="s2">beautiful summer day<span style="s3"> but</span> maybe we can<span style="s4"> go</span></p>
+<p begin="00:11:05.860" end="00:11:10.750" style="s2"><span style="s3">out</span> and<span style="s4"> do</span> this<span style="s4"> sometime</span><span style="s3"> soon so more</span></p>
+<p begin="00:11:09.640" end="00:11:12.220" style="s2">fun facts you&#39;re going to get a lot of</p>
+<p begin="00:11:10.750" end="00:11:13.480" style="s2"><span style="s3">fun facts today and</span> if you want more</p>
+<p begin="00:11:12.220" end="00:11:16.630" style="s2"><span style="s4">just</span> come and<span style="s3"> talk</span> to<span style="s4"> gene</span> and<span style="s4"> I</span> after</p>
+<p begin="00:11:13.480" end="00:11:19.840" style="s2">the presentations<span style="s3"> more than 20</span> million</p>
+<p begin="00:11:16.630" end="00:11:22.780" style="s2"><span style="s4">people</span><span style="s3"> visit Chicago beaches every</span></p>
+<p begin="00:11:19.840" end="00:11:24.180" style="s2">summer<span style="s3"> I</span> was<span style="s3"> astounded by</span><span style="s4"> that I know</span></p>
+<p begin="00:11:22.780" end="00:11:26.020" style="s2">that<span style="s4"> there&#39;s</span><span style="s3"> almost</span><span style="s4"> three</span> million</p>
+<p begin="00:11:24.180" end="00:11:28.090" style="s2"><span style="s3">residents</span> of the city of<span style="s3"> Chicago</span></p>
+<p begin="00:11:26.020" end="00:11:30.370" style="s2">I didn&#39;t realize<span style="s4"> 20</span><span style="s3"> million</span> people<span style="s3"> visit</span></p>
+<p begin="00:11:28.090" end="00:11:33.670" style="s2">the Chicago Park District beaches every</p>
+<p begin="00:11:30.370" end="00:11:37.480" style="s2">summer<span style="s3"> and</span> with the<span style="s3"> 20</span> beaches that<span style="s3"> are</span></p>
+<p begin="00:11:33.670" end="00:11:40.990" style="s2">regularly tested<span style="s3"> there are about 150</span></p>
+<p begin="00:11:37.480" end="00:11:43.720" style="s2">times<span style="s3"> each</span> year where water quality is</p>
+<p begin="00:11:40.990" end="00:11:45.220" style="s2">poor enough that there&#39;s a risk where a</p>
+<p begin="00:11:43.720" end="00:11:47.350" style="s2">person can<span style="s4"> develop</span><span style="s3"> an</span> infection<span style="s3"> if</span> they</p>
+<p begin="00:11:45.220" end="00:11:49.990" style="s2">go<span style="s4"> swimming</span> now what does this mean<span style="s3"> it&#39;s</span></p>
+<p begin="00:11:47.350" end="00:11:53.170" style="s2"><span style="s3">similar</span><span style="s4"> to</span> West<span style="s3"> Nile</span> virus where the</p>
+<p begin="00:11:49.990" end="00:11:54.730" style="s2">symptoms are flu-like and if you&#39;re a</p>
+<p begin="00:11:53.170" end="00:11:56.410" style="s2">healthy adult<span style="s4"> should</span><span style="s3"> probably be okay</span></p>
+<p begin="00:11:54.730" end="00:11:59.470" style="s2"><span style="s3">could</span> be<span style="s4"> miserable</span> for a little while</p>
+<p begin="00:11:56.410" end="00:12:01.510" style="s2">and if you&#39;re young or old or otherwise</p>
+<p begin="00:11:59.470" end="00:12:04.420" style="s2">your immune systems compromised it could</p>
+<p begin="00:12:01.510" end="00:12:06.910" style="s2">be more serious<span style="s4"> so</span> clearly there&#39;s a</p>
+<p begin="00:12:04.420" end="00:12:09.400" style="s2">public<span style="s4"> health</span><span style="s3"> concern</span> and the Chicago</p>
+<p begin="00:12:06.910" end="00:12:11.380" style="s2">Park District is tasked with monitoring</p>
+<p begin="00:12:09.400" end="00:12:13.990" style="s2">the<span style="s4"> beach</span> water quality testing<span style="s3"> for</span></p>
+<p begin="00:12:11.380" end="00:12:16.360" style="s2">e.coli<span style="s3"> to</span> make sure that</p>
+<p begin="00:12:13.990" end="00:12:18.640" style="s2">residents are aware<span style="s3"> beats</span> visitors are</p>
+<p begin="00:12:16.360" end="00:12:20.290" style="s2">aware when you go<span style="s4"> swimming</span><span style="s3"> what</span> they&#39;ll</p>
+<p begin="00:12:18.640" end="00:12:23.110" style="s2">do<span style="s3"> is issue an advisory</span><span style="s4"> saying</span> hey</p>
+<p begin="00:12:20.290" end="00:12:24.610" style="s2">there&#39;s a concern<span style="s3"> there&#39;s</span> a risk<span style="s3"> so that</span></p>
+<p begin="00:12:23.110" end="00:12:27.820" style="s2">you<span style="s3"> know</span> when you get in the water<span style="s3"> of</span></p>
+<p begin="00:12:24.610" end="00:12:29.649" style="s2"><span style="s3">what you&#39;re what you&#39;re taking on that</span></p>
+<p begin="00:12:27.820" end="00:12:32.140" style="s2">the way the<span style="s4"> Park District does that they</span></p>
+<p begin="00:12:29.649" end="00:12:35.950" style="s2">have three main options<span style="s4"> for</span> determining</p>
+<p begin="00:12:32.140" end="00:12:38.529" style="s2">the water quality<span style="s3"> each</span> day<span style="s4"> so</span> the</p>
+<p begin="00:12:35.950" end="00:12:41.830" style="s2">traditional<span style="s4"> way</span> our lab culture tests</p>
+<p begin="00:12:38.529" end="00:12:43.450" style="s2">the way this<span style="s3"> works</span> is<span style="s4"> there</span><span style="s3"> a samples</span></p>
+<p begin="00:12:41.830" end="00:12:46.089" style="s2">taken it&#39;s allowed<span style="s3"> to</span> grow in a lab it</p>
+<p begin="00:12:43.450" end="00:12:48.300" style="s2">takes a day and the results come back<span style="s4"> a</span></p>
+<p begin="00:12:46.089" end="00:12:51.220" style="s2">day after<span style="s4"> so</span> what you<span style="s3"> end</span> up<span style="s4"> getting</span><span style="s3"> is</span></p>
+<p begin="00:12:48.300" end="00:12:53.740" style="s2">always<span style="s3"> day old data</span><span style="s4"> so</span> if you want to</p>
+<p begin="00:12:51.220" end="00:12:55.600" style="s2">know what the water<span style="s3"> quality is today</span><span style="s4"> you</span></p>
+<p begin="00:12:53.740" end="00:12:57.700" style="s2">have to wait till<span style="s4"> tomorrow so there&#39;s</span></p>
+<p begin="00:12:55.600" end="00:12:59.890" style="s2">clearly<span style="s3"> a</span> problem<span style="s3"> there</span> when ecoli</p>
+<p begin="00:12:57.700" end="00:13:02.050" style="s2">fluctuates so much<span style="s3"> yesterday&#39;s</span> data</p>
+<p begin="00:12:59.890" end="00:13:04.690" style="s2"><span style="s4">doesn&#39;t tell you a whole</span><span style="s3"> lot</span><span style="s4"> second</span></p>
+<p begin="00:13:02.050" end="00:13:07.029" style="s2"><span style="s4">option</span> is relatively new<span style="s4"> its</span> rapid</p>
+<p begin="00:13:04.690" end="00:13:09.490" style="s2">testing so<span style="s3"> there&#39;s</span> DNA testing of the</p>
+<p begin="00:13:07.029" end="00:13:11.380" style="s2"><span style="s3">water</span> samples<span style="s3"> you</span> can<span style="s4"> get</span> results<span style="s4"> back</span></p>
+<p begin="00:13:09.490" end="00:13:14.290" style="s2">in three to four hours it&#39;s much more</p>
+<p begin="00:13:11.380" end="00:13:17.920" style="s2">quickly<span style="s3"> problem</span> is it&#39;s<span style="s4"> very</span><span style="s3"> expensive</span></p>
+<p begin="00:13:14.290" end="00:13:20.320" style="s2"><span style="s3">so</span> it&#39;s not reasonable expect that<span style="s3"> it</span></p>
+<p begin="00:13:17.920" end="00:13:22.360" style="s2">can be done<span style="s3"> day</span> in<span style="s3"> day</span> out forever<span style="s4"> while</span></p>
+<p begin="00:13:20.320" end="00:13:25.180" style="s2">the Park District is currently rapid</p>
+<p begin="00:13:22.360" end="00:13:26.890" style="s2"><span style="s3">testing all the</span><span style="s4"> beaches</span> this<span style="s3"> is</span> very</p>
+<p begin="00:13:25.180" end="00:13:29.680" style="s2"><span style="s3">expensive</span> and<span style="s3"> something</span> that<span style="s4"> is</span> less</p>
+<p begin="00:13:26.890" end="00:13:31.660" style="s2"><span style="s4">expensive</span><span style="s3"> is</span> would<span style="s3"> be</span> great</p>
+<p begin="00:13:29.680" end="00:13:33.700" style="s2">a third way is through predictive</p>
+<p begin="00:13:31.660" end="00:13:34.690" style="s2">modeling this has been done<span style="s4"> for</span> a number</p>
+<p begin="00:13:33.700" end="00:13:37.839" style="s2"><span style="s4">of</span> years</p>
+<p begin="00:13:34.690" end="00:13:39.779" style="s2">Chicago<span style="s3"> beaches</span> elsewhere researchers</p>
+<p begin="00:13:37.839" end="00:13:42.579" style="s2">have been working<span style="s4"> on</span> predictive models</p>
+<p begin="00:13:39.779" end="00:13:44.920" style="s2"><span style="s3">the</span> issue with the predictive models is</p>
+<p begin="00:13:42.579" end="00:13:46.870" style="s2">that<span style="s3"> the</span><span style="s4"> accuracy</span> rates aren&#39;t quite</p>
+<p begin="00:13:44.920" end="00:13:49.810" style="s2">there yet<span style="s3"> to</span> be able<span style="s4"> to</span> give<span style="s3"> regular</span></p>
+<p begin="00:13:46.870" end="00:13:52.990" style="s2">reliable results so a<span style="s3"> beach</span> manager has</p>
+<p begin="00:13:49.810" end="00:13:55.300" style="s2">a set<span style="s3"> of</span> choices<span style="s4"> trade offs</span><span style="s3"> for</span> each one</p>
+<p begin="00:13:52.990" end="00:13:57.190" style="s2">the purpose of this<span style="s4"> project</span> when I got</p>
+<p begin="00:13:55.300" end="00:14:00.540" style="s2">started<span style="s3"> here</span> at Shaw hack night was to</p>
+<p begin="00:13:57.190" end="00:14:04.060" style="s2">create a better<span style="s3"> predictive</span> model<span style="s3"> a</span> cheap</p>
+<p begin="00:14:00.540" end="00:14:06.790" style="s2">immediate way to predict and forecast</p>
+<p begin="00:14:04.060" end="00:14:09.760" style="s2"><span style="s3">ecoli</span> rates water quality and<span style="s3"> the</span></p>
+<p begin="00:14:06.790" end="00:14:12.070" style="s2">beaches<span style="s3"> the</span> bottom line is<span style="s3"> that accurate</span></p>
+<p begin="00:14:09.760" end="00:14:13.839" style="s2">predictions can<span style="s3"> prevent</span> illnesses<span style="s3"> and</span></p>
+<p begin="00:14:12.070" end="00:14:18.160" style="s2"><span style="s4">save</span> government&#39;s millions of dollars</p>
+<p begin="00:14:13.839" end="00:14:19.810" style="s2"><span style="s3">it&#39;s</span> just<span style="s3"> fat so in addition to being a</span></p>
+<p begin="00:14:18.160" end="00:14:23.290" style="s2">collaborative project here with<span style="s4"> Shaff</span></p>
+<p begin="00:14:19.810" end="00:14:25.750" style="s2">night<span style="s3"> here</span> at the city of Chicago<span style="s4"> we</span></p>
+<p begin="00:14:23.290" end="00:14:27.820" style="s2">worked<span style="s3"> with</span> students<span style="s3"> also</span><span style="s4"> at</span> the</p>
+<p begin="00:14:25.750" end="00:14:30.310" style="s2">University of<span style="s3"> the Paul some interns</span></p>
+<p begin="00:14:27.820" end="00:14:32.590" style="s2">to do data visualizations and<span style="s3"> mile</span></p>
+<p begin="00:14:30.310" end="00:14:34.810" style="s2">enhancement<span style="s4"> and</span> just as a personal<span style="s3"> point</span></p>
+<p begin="00:14:32.590" end="00:14:36.370" style="s2"><span style="s3">I</span> heard<span style="s3"> some</span> people<span style="s4"> earlier</span> when we<span style="s4"> were</span></p>
+<p begin="00:14:34.810" end="00:14:39.250" style="s2">going<span style="s3"> through introducing talking about</span></p>
+<p begin="00:14:36.370" end="00:14:41.860" style="s2">here<span style="s4"> for</span> a career<span style="s4"> change</span> or here to find</p>
+<p begin="00:14:39.250" end="00:14:43.360" style="s2"><span style="s3">your</span> first career<span style="s4"> you&#39;re</span> in a good<span style="s3"> place</span></p>
+<p begin="00:14:41.860" end="00:14:45.790" style="s2">for<span style="s3"> that</span><span style="s4"> and</span> I have first-hand</p>
+<p begin="00:14:43.360" end="00:14:48.220" style="s2">experience<span style="s4"> I</span> walked into this<span style="s4"> room a</span></p>
+<p begin="00:14:45.790" end="00:14:51.280" style="s2">year and a half ago<span style="s3"> as</span> an attorney<span style="s3"> and</span></p>
+<p begin="00:14:48.220" end="00:14:53.590" style="s2">also<span style="s4"> a</span> data nerd and computer<span style="s4"> scientist</span></p>
+<p begin="00:14:51.280" end="00:14:57.880" style="s2"><span style="s4">but</span> someone who wanted to<span style="s4"> change</span> careers</p>
+<p begin="00:14:53.590" end="00:14:59.590" style="s2">and I&#39;m just thrilled to<span style="s3"> be</span> here a<span style="s4"> year</span></p>
+<p begin="00:14:57.880" end="00:15:02.200" style="s2"><span style="s4">and</span> a half after<span style="s3"> walking</span> in the<span style="s4"> e.coli</span></p>
+<p begin="00:14:59.590" end="00:15:04.540" style="s2"><span style="s3">room saying I</span> need<span style="s4"> to</span><span style="s3"> get into the</span></p>
+<p begin="00:15:02.200" end="00:15:05.500" style="s2"><span style="s3">latest</span> and greatest<span style="s4"> in</span> data<span style="s3"> science</span> and</p>
+<p begin="00:15:04.540" end="00:15:07.600" style="s2">civic hacking and everything that&#39;s</p>
+<p begin="00:15:05.500" end="00:15:10.270" style="s2"><span style="s4">going</span> on to be able<span style="s4"> to</span><span style="s3"> present to you</span></p>
+<p begin="00:15:07.600" end="00:15:13.150" style="s2"><span style="s3">this</span> work<span style="s3"> that</span> involves so many<span style="s3"> people</span></p>
+<p begin="00:15:10.270" end="00:15:15.190" style="s2">in this<span style="s3"> room&#39;s</span> contributions<span style="s3"> so</span> I&#39;m</p>
+<p begin="00:15:13.150" end="00:15:18.160" style="s2"><span style="s4">taught</span> to tell you about the first model</p>
+<p begin="00:15:15.190" end="00:15:20.380" style="s2">that<span style="s4"> was</span> developed<span style="s3"> starting</span> here at<span style="s4"> Shai</span></p>
+<p begin="00:15:18.160" end="00:15:23.140" style="s2">hack night there&#39;s a couple<span style="s3"> of</span> versions</p>
+<p begin="00:15:20.380" end="00:15:25.870" style="s2"><span style="s4">of</span> it but what they all<span style="s3"> pretty</span><span style="s4"> much</span> did</p>
+<p begin="00:15:23.140" end="00:15:30.790" style="s2">was use water<span style="s4"> sensor</span> data<span style="s3"> maybe</span> maybe</p>
+<p begin="00:15:25.870" end="00:15:32.290" style="s2">not weather sensor data<span style="s4"> the the culture</span></p>
+<p begin="00:15:30.790" end="00:15:34.600" style="s2">you can<span style="s3"> see</span> the petri dishes growing</p>
+<p begin="00:15:32.290" end="00:15:37.960" style="s2">there of e.coli actually growing<span style="s3"> in a</span></p>
+<p begin="00:15:34.600" end="00:15:40.900" style="s2">dish water<span style="s3"> locks</span><span style="s4"> so</span> whether they were</p>
+<p begin="00:15:37.960" end="00:15:43.390" style="s2">open water levels and and literally</p>
+<p begin="00:15:40.900" end="00:15:46.320" style="s2"><span style="s3">hundreds of other variables went</span> in to</p>
+<p begin="00:15:43.390" end="00:15:49.570" style="s2">predict<span style="s3"> and</span> you can see here the<span style="s3"> e.coli</span></p>
+<p begin="00:15:46.320" end="00:15:51.880" style="s2">level<span style="s4"> for</span> here&#39;s the<span style="s3"> level</span> for one<span style="s3"> beach</span></p>
+<p begin="00:15:49.570" end="00:15:55.660" style="s2">for the season<span style="s4"> take a look at that line</span></p>
+<p begin="00:15:51.880" end="00:15:58.660" style="s2">graph<span style="s3"> and</span> you can<span style="s4"> see that is it&#39;s quite</span></p>
+<p begin="00:15:55.660" end="00:16:01.090" style="s2">volatile<span style="s3"> this</span><span style="s4"> is</span> a beach that<span style="s4"> has</span> one</p>
+<p begin="00:15:58.660" end="00:16:03.010" style="s2">main spike in the middle<span style="s4"> of</span> summer it&#39;s</p>
+<p begin="00:16:01.090" end="00:16:05.350" style="s2"><span style="s4">very</span> hard to<span style="s3"> predict</span> that especially</p>
+<p begin="00:16:03.010" end="00:16:07.240" style="s2">when so much<span style="s4"> is going</span><span style="s3"> on</span><span style="s4"> the atmosphere</span></p>
+<p begin="00:16:05.350" end="00:16:10.620" style="s2">with the<span style="s4"> Sun</span><span style="s3"> and</span> weather and water</p>
+<p begin="00:16:07.240" end="00:16:13.540" style="s2">sensors so what we found was<span style="s3"> after</span></p>
+<p begin="00:16:10.620" end="00:16:17.140" style="s2">painstakingly working with all this data</p>
+<p begin="00:16:13.540" end="00:16:19.540" style="s2">having brilliant people running models</p>
+<p begin="00:16:17.140" end="00:16:22.420" style="s2">and<span style="s3"> doing</span> data exploration<span style="s3"> looking</span> at</p>
+<p begin="00:16:19.540" end="00:16:24.910" style="s2">variables<span style="s3"> was</span> that<span style="s3"> it&#39;s very difficult</span></p>
+<p begin="00:16:22.420" end="00:16:26.830" style="s2"><span style="s3">to</span> do much better than<span style="s3"> the</span> predictive</p>
+<p begin="00:16:24.910" end="00:16:30.370" style="s2">models that have been<span style="s3"> developed</span><span style="s4"> excuse</span></p>
+<p begin="00:16:26.830" end="00:16:33.250" style="s2">me by beach water quality experts we our</p>
+<p begin="00:16:30.370" end="00:16:35.860" style="s2">best<span style="s4"> model</span> was about on par when put</p>
+<p begin="00:16:33.250" end="00:16:38.230" style="s2">into<span style="s4"> a</span> pilot<span style="s3"> and</span> used for the year it</p>
+<p begin="00:16:35.860" end="00:16:41.260" style="s2">was<span style="s3"> about</span> on par<span style="s4"> with</span><span style="s3"> what</span> had<span style="s3"> been</span> done</p>
+<p begin="00:16:38.230" end="00:16:44.530" style="s2">in<span style="s4"> the past</span><span style="s3"> so</span></p>
+<p begin="00:16:41.260" end="00:16:47.500" style="s2">what happens next<span style="s3"> is the work that</span><span style="s4"> was</span></p>
+<p begin="00:16:44.530" end="00:16:50.350" style="s2"><span style="s3">done to create</span> this first<span style="s3"> model had a</span></p>
+<p begin="00:16:47.500" end="00:16:53.110" style="s2">bunch of clues in it<span style="s4"> I&#39;m</span> looking<span style="s4"> around</span></p>
+<p begin="00:16:50.350" end="00:16:55.240" style="s2">seeing<span style="s4"> faces</span> from<span style="s4"> the</span> people who who who</p>
+<p begin="00:16:53.110" end="00:16:58.170" style="s2">said these<span style="s3"> things</span> when we were<span style="s4"> doing</span> the</p>
+<p begin="00:16:55.240" end="00:17:01.180" style="s2"><span style="s3">work</span> which is that every time<span style="s4"> that</span> a</p>
+<p begin="00:16:58.170" end="00:17:03.490" style="s2">model would actually get a test<span style="s3"> result</span></p>
+<p begin="00:17:01.180" end="00:17:05.500" style="s2"><span style="s4">that</span> the same day test results in it</p>
+<p begin="00:17:03.490" end="00:17:07.540" style="s2"><span style="s3">which</span> we didn&#39;t have<span style="s4"> at</span> the<span style="s4"> time we&#39;d</span></p>
+<p begin="00:17:05.500" end="00:17:09.940" style="s2">say man that<span style="s4"> model</span> did really really</p>
+<p begin="00:17:07.540" end="00:17:12.820" style="s2"><span style="s4">good</span><span style="s3"> but</span> we can&#39;t<span style="s3"> use</span><span style="s4"> same-day</span><span style="s3"> test</span></p>
+<p begin="00:17:09.940" end="00:17:14.829" style="s2">results<span style="s3"> because</span> we<span style="s3"> don&#39;t</span> happen<span style="s4"> and</span> so</p>
+<p begin="00:17:12.820" end="00:17:17.199" style="s2">what that<span style="s3"> clue</span> ended up<span style="s4"> providing</span> for a</p>
+<p begin="00:17:14.829" end="00:17:19.360" style="s2">new approach is what if we did have</p>
+<p begin="00:17:17.199" end="00:17:22.060" style="s2"><span style="s3">same-day</span> test results what if we bought</p>
+<p begin="00:17:19.360" end="00:17:24.820" style="s2">some of those rapid tests<span style="s3"> and</span> use them</p>
+<p begin="00:17:22.060" end="00:17:25.870" style="s2"><span style="s4">to</span><span style="s3"> create some sort of</span> model<span style="s4"> that&#39;s</span> our</p>
+<p begin="00:17:24.820" end="00:17:30.070" style="s2">new approach<span style="s3"> I&#39;m</span> going to tell you about</p>
+<p begin="00:17:25.870" end="00:17:34.360" style="s2">so it works like<span style="s3"> this</span> we know<span style="s3"> that</span> about</p>
+<p begin="00:17:30.070" end="00:17:37.780" style="s2"><span style="s3">five</span> beaches<span style="s3"> out</span> of the<span style="s4"> twenty</span><span style="s3"> that are</span></p>
+<p begin="00:17:34.360" end="00:17:41.560" style="s2">regularly tested account<span style="s3"> for</span> 56 or so</p>
+<p begin="00:17:37.780" end="00:17:41.950" style="s2"><span style="s3">percent of all the e.coli</span><span style="s4"> exceedances</span><span style="s3"> in</span></p>
+<p begin="00:17:41.560" end="00:17:44.050" style="s2"><span style="s3">the year</span></p>
+<p begin="00:17:41.950" end="00:17:46.240" style="s2">so<span style="s3"> that</span> means that<span style="s3"> this</span> handful<span style="s3"> of</span></p>
+<p begin="00:17:44.050" end="00:17:49.030" style="s2">beaches<span style="s3"> are</span> the worst<span style="s3"> offenders they&#39;re</span></p>
+<p begin="00:17:46.240" end="00:17:50.920" style="s2">also really<span style="s4"> hard</span><span style="s3"> to</span> predict<span style="s3"> and</span> when we</p>
+<p begin="00:17:49.030" end="00:17:53.110" style="s2">try to<span style="s4"> create</span> models<span style="s4"> we are creating</span></p>
+<p begin="00:17:50.920" end="00:17:55.300" style="s2">models for the hard to<span style="s3"> predict</span> beaches</p>
+<p begin="00:17:53.110" end="00:17:57.700" style="s2"><span style="s3">and</span> the low<span style="s4"> exceedance</span> beaches that are</p>
+<p begin="00:17:55.300" end="00:17:59.230" style="s2"><span style="s3">different so the</span> model was trying to do</p>
+<p begin="00:17:57.700" end="00:18:04.060" style="s2">two<span style="s4"> things</span> at once<span style="s3"> and</span> it was just<span style="s3"> kind</span></p>
+<p begin="00:17:59.230" end="00:18:05.950" style="s2">of<span style="s3"> diverging</span> so the new approach tests</p>
+<p begin="00:18:04.060" end="00:18:08.650" style="s2">those five beaches<span style="s3"> with</span> rapid DNA</p>
+<p begin="00:18:05.950" end="00:18:10.810" style="s2"><span style="s3">testing</span> the idea is<span style="s4"> just</span> pay for<span style="s4"> those</span></p>
+<p begin="00:18:08.650" end="00:18:12.250" style="s2">pay for those tests<span style="s4"> you&#39;re</span> never going</p>
+<p begin="00:18:10.810" end="00:18:15.250" style="s2">to predict<span style="s3"> those</span> beaches very well and</p>
+<p begin="00:18:12.250" end="00:18:18.100" style="s2">move on with<span style="s3"> the</span> remaining set of</p>
+<p begin="00:18:15.250" end="00:18:21.460" style="s2">beaches<span style="s3"> we</span> created a<span style="s3"> model</span> to</p>
+<p begin="00:18:18.100" end="00:18:23.830" style="s2">selectively choose other beaches<span style="s3"> to</span></p>
+<p begin="00:18:21.460" end="00:18:26.920" style="s2">rapid test and get same-day results<span style="s3"> to</span></p>
+<p begin="00:18:23.830" end="00:18:28.990" style="s2">then predict the remaining beaches<span style="s3"> so</span></p>
+<p begin="00:18:26.920" end="00:18:32.710" style="s2">you get a hybrid process<span style="s3"> where</span><span style="s4"> you&#39;re</span></p>
+<p begin="00:18:28.990" end="00:18:35.410" style="s2"><span style="s4">you&#39;re you&#39;re selectively using</span><span style="s3"> your</span></p>
+<p begin="00:18:32.710" end="00:18:38.110" style="s2"><span style="s3">resources to purchase</span> tests to predict</p>
+<p begin="00:18:35.410" end="00:18:40.240" style="s2">others it&#39;s a it&#39;s a more economical way</p>
+<p begin="00:18:38.110" end="00:18:42.460" style="s2"><span style="s4">to</span> do it and the model<span style="s4"> results</span><span style="s3"> have</span></p>
+<p begin="00:18:40.240" end="00:18:44.980" style="s2"><span style="s4">shown</span> that it<span style="s4"> is</span> a<span style="s3"> better way</span><span style="s4"> to</span> do it</p>
+<p begin="00:18:42.460" end="00:18:46.690" style="s2"><span style="s4">for</span> creating<span style="s4"> a</span> predictive model<span style="s3"> we&#39;ve</span></p>
+<p begin="00:18:44.980" end="00:18:49.360" style="s2">used clustering algorithms to help</p>
+<p begin="00:18:46.690" end="00:18:51.850" style="s2"><span style="s3">choose</span> which of<span style="s4"> those</span><span style="s3"> beaches</span><span style="s4"> that we&#39;re</span></p>
+<p begin="00:18:49.360" end="00:18:53.890" style="s2">going<span style="s3"> to</span> use as predictors but I also</p>
+<p begin="00:18:51.850" end="00:18:55.509" style="s2">want to show<span style="s3"> you</span> something else<span style="s3"> we&#39;re</span></p>
+<p begin="00:18:53.890" end="00:18:58.009" style="s2">doing<span style="s4"> on</span> trying to choose<span style="s4"> for</span></p>
+<p begin="00:18:55.509" end="00:19:01.490" style="s2">we want to see if you<span style="s3"> can</span> beat the model</p>
+<p begin="00:18:58.009" end="00:19:11.000" style="s2">so we&#39;ve collected information<span style="s4"> about</span> the</p>
+<p begin="00:19:01.490" end="00:19:12.440" style="s2">project<span style="s4"> put</span> it on to a<span style="s3"> website</span> okay so</p>
+<p begin="00:19:11.000" end="00:19:16.399" style="s2">we&#39;ve got information<span style="s3"> about</span><span style="s4"> the project</span></p>
+<p begin="00:19:12.440" end="00:19:18.980" style="s2"><span style="s3">on</span> this<span style="s4"> website</span> we also have a challenge</p>
+<p begin="00:19:16.399" end="00:19:21.649" style="s2">page you can go here<span style="s3"> and</span> you<span style="s4"> can</span> try to</p>
+<p begin="00:19:18.980" end="00:19:24.769" style="s2"><span style="s3">build</span> a<span style="s3"> model</span> that<span style="s4"> beats</span> ours since</p>
+<p begin="00:19:21.649" end="00:19:26.570" style="s2">essentially the<span style="s3"> model</span> takes in predictor</p>
+<p begin="00:19:24.769" end="00:19:32.899" style="s2"><span style="s3">beaches and predicts others you</span> can</p>
+<p begin="00:19:26.570" end="00:19:37.909" style="s2">choose the beaches this is the page here</p>
+<p begin="00:19:32.899" end="00:19:40.129" style="s2">and<span style="s3"> we&#39;ve</span> got a shiny app embedded in</p>
+<p begin="00:19:37.909" end="00:19:42.519" style="s2">here that the shiny app is<span style="s4"> running</span> our</p>
+<p begin="00:19:40.129" end="00:19:45.830" style="s2">code in the<span style="s4"> background</span><span style="s3"> and</span> it&#39;s going to</p>
+<p begin="00:19:42.519" end="00:19:48.220" style="s2">run a random forest<span style="s4"> model</span><span style="s3"> run</span> the model</p>
+<p begin="00:19:45.830" end="00:19:51.379" style="s2">validated on a couple<span style="s3"> of</span> years of</p>
+<p begin="00:19:48.220" end="00:19:54.320" style="s2">historical<span style="s4"> data</span><span style="s3"> and</span> then give you a</p>
+<p begin="00:19:51.379" end="00:19:57.409" style="s2">result<span style="s3"> that</span> you can<span style="s4"> then</span> put<span style="s4"> up</span> against</p>
+<p begin="00:19:54.320" end="00:19:59.659" style="s2">the<span style="s4"> city&#39;s</span> model<span style="s3"> and</span> see how well<span style="s3"> you</span> do</p>
+<p begin="00:19:57.409" end="00:20:06.730" style="s2">so go run<span style="s3"> favorite</span><span style="s4"> beaches all</span><span style="s3"> right</span></p>
+<p begin="00:19:59.659" end="00:20:14.919" style="s2">let&#39;s hear them<span style="s4"> edgewater okay</span><span style="s3"> ma show</span></p>
+<p begin="00:20:06.730" end="00:20:17.080" style="s2"><span style="s4">ya</span> some<span style="s4"> of</span> them aren&#39;t<span style="s3"> listed</span> here we&#39;re</p>
+<p begin="00:20:14.919" end="00:20:21.490" style="s2">all<span style="s3"> right</span></p>
+<p begin="00:20:17.080" end="00:20:24.230" style="s2">truly crowdsourcing model one more</p>
+<p begin="00:20:21.490" end="00:20:27.110" style="s2">rainbow<span style="s3"> rainbows</span> not on there that&#39;s one</p>
+<p begin="00:20:24.230" end="00:20:28.460" style="s2">of the terrible<span style="s4"> hi exceedance ones that</span></p>
+<p begin="00:20:27.110" end="00:20:36.500" style="s2">we<span style="s3"> just test them</span> throw away<span style="s4"> so</span> we</p>
+<p begin="00:20:28.460" end="00:20:36.860" style="s2">already<span style="s3"> have</span> those what&#39;s that 57<span style="s3"> all</span></p>
+<p begin="00:20:36.500" end="00:20:39.940" style="s2"><span style="s3">right</span></p>
+<p begin="00:20:36.860" end="00:20:39.940" style="s2">so let&#39;s see how we do</p>
+<p begin="00:20:43.530" end="00:20:48.930" style="s2">and so if you see the little<span style="s4"> green</span></p>
+<p begin="00:20:47.160" end="00:20:51.240" style="s2">dashed line there you can see the model</p>
+<p begin="00:20:48.930" end="00:20:55.710" style="s2">didn&#39;t quite didn&#39;t quite get up to</p>
+<p begin="00:20:51.240" end="00:21:01.650" style="s2">snuff<span style="s4"> so</span> you can also take<span style="s4"> a</span> look<span style="s4"> at</span> how</p>
+<p begin="00:20:55.710" end="00:21:02.780" style="s2">it does it individual beaches<span style="s4"> and</span> what&#39;s</p>
+<p begin="00:21:01.650" end="00:21:05.960" style="s2"><span style="s4">questioned</span></p>
+<p begin="00:21:02.780" end="00:21:08.340" style="s2">yeah the dashed line is the<span style="s3"> city&#39;s</span> model</p>
+<p begin="00:21:05.960" end="00:21:10.500" style="s2">you can<span style="s3"> see how did individual beaches</span></p>
+<p begin="00:21:08.340" end="00:21:12.330" style="s2">you can<span style="s4"> even</span> play around<span style="s3"> with a false</span></p>
+<p begin="00:21:10.500" end="00:21:14.400" style="s2"><span style="s4">positive</span> rate<span style="s3"> if</span> you&#39;re comfortable</p>
+<p begin="00:21:12.330" end="00:21:16.320" style="s2">saying well let&#39;s just kind<span style="s4"> of</span> issue</p>
+<p begin="00:21:14.400" end="00:21:19.350" style="s2">advisories even when there&#39;s no<span style="s3"> e.coli</span></p>
+<p begin="00:21:16.320" end="00:21:21.780" style="s2">problem<span style="s3"> you</span> can play around with<span style="s3"> that</span></p>
+<p begin="00:21:19.350" end="00:21:23.670" style="s2">and<span style="s3"> increase</span> that<span style="s3"> the</span> false alarms will</p>
+<p begin="00:21:21.780" end="00:21:26.850" style="s2">then increase right there that<span style="s3"> increase</span></p>
+<p begin="00:21:23.670" end="00:21:29.520" style="s2">from 14 to 37 but you got a some better</p>
+<p begin="00:21:26.850" end="00:21:32.220" style="s2">accuracy<span style="s4"> so</span> you can see the trade-off<span style="s3"> so</span></p>
+<p begin="00:21:29.520" end="00:21:36.480" style="s2">have<span style="s4"> fun</span> with<span style="s3"> it</span><span style="s4"> build</span> some models<span style="s4"> and</span></p>
+<p begin="00:21:32.220" end="00:21:38.310" style="s2"><span style="s3">let</span><span style="s4"> us</span> know what<span style="s3"> happens</span><span style="s4"> so</span> I got<span style="s3"> just</span> a</p>
+<p begin="00:21:36.480" end="00:21:41.460" style="s2">couple<span style="s4"> slides</span> left so how did the model</p>
+<p begin="00:21:38.310" end="00:21:43.500" style="s2"><span style="s4">actually</span> do<span style="s4"> so</span> measuring up against the</p>
+<p begin="00:21:41.460" end="00:21:46.790" style="s2"><span style="s4">the</span> United States Geological Service</p>
+<p begin="00:21:43.500" end="00:21:50.070" style="s2"><span style="s3">surveys</span> model that was<span style="s3"> in</span> place from</p>
+<p begin="00:21:46.790" end="00:21:52.310" style="s2"><span style="s4">2015-2016</span> when looked at<span style="s3"> the beaches</span></p>
+<p begin="00:21:50.070" end="00:21:57.480" style="s2">that<span style="s4"> we&#39;re</span> working<span style="s4"> with</span> right<span style="s3"> now</span></p>
+<p begin="00:21:52.310" end="00:22:00.990" style="s2"><span style="s4">actually</span> what it did was it<span style="s3"> in</span> looking</p>
+<p begin="00:21:57.480" end="00:22:03.240" style="s2">at how<span style="s4"> many</span> days the<span style="s3"> beaches that beach</span></p>
+<p begin="00:22:00.990" end="00:22:05.940" style="s2">advisories were given to people<span style="s4"> so</span> let</p>
+<p begin="00:22:03.240" end="00:22:07.290" style="s2">me rephrase<span style="s4"> this how</span><span style="s3"> often</span> do<span style="s4"> we</span> let</p>
+<p begin="00:22:05.940" end="00:22:10.830" style="s2"><span style="s4">people</span> know that<span style="s4"> there&#39;s</span> a problem in</p>
+<p begin="00:22:07.290" end="00:22:12.420" style="s2">the<span style="s3"> water</span><span style="s4"> our</span> model found<span style="s3"> 60</span> more of</p>
+<p begin="00:22:10.830" end="00:22:14.820" style="s2"><span style="s3">those</span> days than the old model would have</p>
+<p begin="00:22:12.420" end="00:22:17.370" style="s2">done so that&#39;s 60 more days<span style="s4"> that people</span></p>
+<p begin="00:22:14.820" end="00:22:18.690" style="s2">get accurate warnings that there&#39;s poor</p>
+<p begin="00:22:17.370" end="00:22:21.470" style="s2">water quality so they can make decisions</p>
+<p begin="00:22:18.690" end="00:22:21.470" style="s2"><span style="s3">about their health</span></p>
+<p begin="00:22:23.379" end="00:22:28.279" style="s2">right those<span style="s4"> are</span><span style="s3"> those</span> are<span style="s3"> these are</span></p>
+<p begin="00:22:25.249" end="00:22:30.259" style="s2"><span style="s4">accurate</span> ones<span style="s4"> and</span> the false alarm<span style="s3"> rate</span></p>
+<p begin="00:22:28.279" end="00:22:32.720" style="s2">stays<span style="s4"> the</span> same<span style="s4"> and</span><span style="s3"> default</span> with it with</p>
+<p begin="00:22:30.259" end="00:22:38.269" style="s2">the same false alarm rate as the<span style="s4"> the</span></p>
+<p begin="00:22:32.720" end="00:22:39.649" style="s2">model had been<span style="s3"> using</span> in the<span style="s3"> past</span> how</p>
+<p begin="00:22:38.269" end="00:22:42.799" style="s2">many days there&#39;s about<span style="s3"> two thousand</span></p>
+<p begin="00:22:39.649" end="00:22:46.669" style="s2"><span style="s3">beach</span> days in<span style="s4"> the</span> summer<span style="s4"> and</span> of those</p>
+<p begin="00:22:42.799" end="00:22:48.320" style="s2">about<span style="s3"> 150</span> have high E coli levels<span style="s4"> well I</span></p>
+<p begin="00:22:46.669" end="00:22:50.749" style="s2"><span style="s4">explained</span> lol<span style="s4"> more</span> what<span style="s4"> of</span><span style="s3"> each day</span><span style="s4"> is</span></p>
+<p begin="00:22:48.320" end="00:22:52.940" style="s2">yeah each day great nomenclature<span style="s3"> of</span><span style="s4"> the</span></p>
+<p begin="00:22:50.749" end="00:22:55.730" style="s2">business so let me explain<span style="s4"> to</span> what that</p>
+<p begin="00:22:52.940" end="00:22:57.799" style="s2"><span style="s3">is there are</span><span style="s4"> twenty</span> beaches that<span style="s3"> are</span></p>
+<p begin="00:22:55.730" end="00:23:00.499" style="s2"><span style="s3">regularly</span> tested and there&#39;s about<span style="s3"> a</span></p>
+<p begin="00:22:57.799" end="00:23:02.629" style="s2"><span style="s4">hundred</span> days of<span style="s3"> summer so what a beach</span></p>
+<p begin="00:23:00.499" end="00:23:04.549" style="s2">day is is a single day at a beach<span style="s4"> in</span></p>
+<p begin="00:23:02.629" end="00:23:06.169" style="s2"><span style="s4">other</span> words every day<span style="s3"> that</span> goes by</p>
+<p begin="00:23:04.549" end="00:23:08.990" style="s2">you&#39;ve got<span style="s3"> twenty</span> beach days that goes</p>
+<p begin="00:23:06.169" end="00:23:10.730" style="s2">by because<span style="s3"> one</span> beach might have poor</p>
+<p begin="00:23:08.990" end="00:23:12.710" style="s2">water<span style="s4"> quality</span> but another might have</p>
+<p begin="00:23:10.730" end="00:23:14.690" style="s2">good<span style="s3"> water quality</span><span style="s4"> so</span> when you add up</p>
+<p begin="00:23:12.710" end="00:23:17.210" style="s2"><span style="s3">the</span> summer you<span style="s3"> get</span> about<span style="s4"> two thousand</span></p>
+<p begin="00:23:14.690" end="00:23:20.929" style="s2">beach days and within that<span style="s4"> you get about</span></p>
+<p begin="00:23:17.210" end="00:23:24.980" style="s2">150 that have poor water<span style="s4"> quality</span> or<span style="s3"> high</span></p>
+<p begin="00:23:20.929" end="00:23:27.590" style="s2"><span style="s4">e.coli</span> now in that framework<span style="s3"> we&#39;re</span></p>
+<p begin="00:23:24.980" end="00:23:30.850" style="s2">finding 60 more<span style="s4"> days by using this</span></p>
+<p begin="00:23:27.590" end="00:23:33.289" style="s2">hybrid process<span style="s3"> of</span> selectively testing</p>
+<p begin="00:23:30.850" end="00:23:36.200" style="s2">the worst beaches and then using other</p>
+<p begin="00:23:33.289" end="00:23:39.110" style="s2">beaches<span style="s3"> to</span> predict<span style="s3"> other</span><span style="s4"> features</span><span style="s3"> now</span></p>
+<p begin="00:23:36.200" end="00:23:41.629" style="s2">another way to<span style="s3"> look</span> at the metrics is</p>
+<p begin="00:23:39.110" end="00:23:43.490" style="s2">just the model<span style="s3"> itself</span> the model that we</p>
+<p begin="00:23:41.629" end="00:23:45.529" style="s2"><span style="s4">developed</span><span style="s3"> how</span> does<span style="s3"> it</span> stack<span style="s3"> up against</span></p>
+<p begin="00:23:43.490" end="00:23:49.190" style="s2"><span style="s3">the</span> prior model<span style="s3"> that&#39;s</span> been in place<span style="s3"> and</span></p>
+<p begin="00:23:45.529" end="00:23:51.679" style="s2">in using<span style="s4"> that model in looking at the</span></p>
+<p begin="00:23:49.190" end="00:23:54.919" style="s2">beaches<span style="s4"> that</span> we&#39;re predicting<span style="s3"> we are</span></p>
+<p begin="00:23:51.679" end="00:23:56.840" style="s2">doing three times the<span style="s4"> accuracy</span> so in</p>
+<p begin="00:23:54.919" end="00:23:58.789" style="s2">other words water<span style="s3"> quality</span> advisories are</p>
+<p begin="00:23:56.840" end="00:24:01.820" style="s2">issued<span style="s4"> with</span> three times more accuracy</p>
+<p begin="00:23:58.789" end="00:24:04.159" style="s2"><span style="s4">than</span> the prior model<span style="s3"> this is a project</span></p>
+<p begin="00:24:01.820" end="00:24:05.720" style="s2"><span style="s3">that&#39;s</span><span style="s4"> currently</span> under we&#39;re still</p>
+<p begin="00:24:04.159" end="00:24:09.679" style="s2"><span style="s4">experimenting</span><span style="s3"> we&#39;re</span> in the middle of</p>
+<p begin="00:24:05.720" end="00:24:11.629" style="s2">2017 but I&#39;ve been<span style="s3"> very excited by the</span></p>
+<p begin="00:24:09.679" end="00:24:13.940" style="s2">results<span style="s3"> that</span> we&#39;re seeing<span style="s4"> I</span> wanted to</p>
+<p begin="00:24:11.629" end="00:24:16.070" style="s2">share them with<span style="s3"> you</span> all and finally just</p>
+<p begin="00:24:13.940" end="00:24:17.809" style="s2"><span style="s3">wanted</span> to say thank you<span style="s4"> to</span><span style="s3"> the</span> whole</p>
+<p begin="00:24:16.070" end="00:24:19.999" style="s2"><span style="s4">community</span> here<span style="s3"> and</span><span style="s4"> especially</span> those<span style="s3"> of</span></p>
+<p begin="00:24:17.809" end="00:24:21.679" style="s2">you who participate on<span style="s4"> this</span> project<span style="s3"> your</span></p>
+<p begin="00:24:19.999" end="00:24:23.900" style="s2">contributions have made it what it<span style="s4"> is</span></p>
+<p begin="00:24:21.679" end="00:24:32.309" style="s2"><span style="s4">thank</span> you very<span style="s4"> much</span></p>
+<p begin="00:24:23.900" end="00:24:35.020" style="s2">[Applause]</p>
+<p begin="00:24:32.309" end="00:24:37.360" style="s2">so I want to touch on<span style="s3"> that</span><span style="s4"> a</span> little<span style="s4"> bit</span></p>
+<p begin="00:24:35.020" end="00:24:39.610" style="s2">a<span style="s4"> couple</span><span style="s3"> of</span> takeaway things at a kind of</p>
+<p begin="00:24:37.360" end="00:24:41.740" style="s2">meta level<span style="s3"> across all these projects</span></p>
+<p begin="00:24:39.610" end="00:24:43.510" style="s2">if you don&#39;t remember<span style="s4"> especially if</span></p>
+<p begin="00:24:41.740" end="00:24:46.330" style="s2">you&#39;re newer<span style="s4"> to</span> the community the city</p>
+<p begin="00:24:43.510" end="00:24:47.920" style="s2"><span style="s4">of</span> Chicago has<span style="s4"> a</span> tech plan<span style="s3"> this</span> is the</p>
+<p begin="00:24:46.330" end="00:24:50.320" style="s2">front<span style="s3"> of</span> the first version of the tech</p>
+<p begin="00:24:47.920" end="00:24:52.540" style="s2">plan we&#39;ve since updated it<span style="s3"> and</span> tech</p>
+<p begin="00:24:50.320" end="00:24:53.710" style="s2">plan city of Chicago org<span style="s3"> and</span> what<span style="s3"> I</span></p>
+<p begin="00:24:52.540" end="00:24:56.200" style="s2"><span style="s3">mentioned</span><span style="s4"> it</span><span style="s3"> because</span> there&#39;s a<span style="s3"> couple</span> of</p>
+<p begin="00:24:53.710" end="00:24:58.330" style="s2"><span style="s3">things</span> here I want to<span style="s3"> wrap</span> around<span style="s3"> one of</span></p>
+<p begin="00:24:56.200" end="00:25:00.250" style="s2">the<span style="s4"> strategies</span> that we<span style="s4"> have</span> is to<span style="s4"> work</span></p>
+<p begin="00:24:58.330" end="00:25:02.170" style="s2"><span style="s3">with</span><span style="s4"> civic</span> technology innovators<span style="s4"> to</span></p>
+<p begin="00:25:00.250" end="00:25:04.840" style="s2">develop creative<span style="s4"> solutions</span> to city</p>
+<p begin="00:25:02.170" end="00:25:06.730" style="s2">challenges this<span style="s3"> is</span> something<span style="s4"> that</span> we had</p>
+<p begin="00:25:04.840" end="00:25:10.570" style="s2">talked about some<span style="s4"> time ago going</span><span style="s3"> back</span> to</p>
+<p begin="00:25:06.730" end="00:25:12.580" style="s2"><span style="s4">2011 2012 about</span> how can the city work</p>
+<p begin="00:25:10.570" end="00:25:14.050" style="s2">with others and<span style="s4"> early</span> on<span style="s4"> very</span><span style="s3"> early</span> on</p>
+<p begin="00:25:12.580" end="00:25:17.230" style="s2">in shy hack night before<span style="s3"> was</span> known as</p>
+<p begin="00:25:14.050" end="00:25:19.809" style="s2">shy hack night<span style="s4"> we</span> talked about<span style="s4"> this</span> how</p>
+<p begin="00:25:17.230" end="00:25:22.300" style="s2">can<span style="s4"> we work with</span> researchers<span style="s3"> Nick</span></p>
+<p begin="00:25:19.809" end="00:25:23.890" style="s2">alluded to that there was a<span style="s3"> number</span> of</p>
+<p begin="00:25:22.300" end="00:25:25.270" style="s2"><span style="s3">contributors</span> can you raise<span style="s4"> your</span> hand if</p>
+<p begin="00:25:23.890" end="00:25:28.450" style="s2">you&#39;re here<span style="s3"> and</span> worked on the<span style="s4"> e.coli</span></p>
+<p begin="00:25:25.270" end="00:25:29.230" style="s2">project<span style="s3"> in</span> any way can<span style="s4"> you</span> actually</p>
+<p begin="00:25:28.450" end="00:25:32.579" style="s2"><span style="s3">stand</span> up</p>
+<p begin="00:25:29.230" end="00:25:32.579" style="s2">[Applause]</p>
+<p begin="00:25:36.800" end="00:25:42.500" style="s2">this is this is a<span style="s3"> small</span><span style="s4"> number</span> I<span style="s3"> think</span></p>
+<p begin="00:25:40.670" end="00:25:44.450" style="s2">in the<span style="s3"> past</span> two weeks<span style="s3"> we&#39;ve</span> had interns</p>
+<p begin="00:25:42.500" end="00:25:46.400" style="s2">and<span style="s3"> a number of researchers I</span> think take</p>
+<p begin="00:25:44.450" end="00:25:48.680" style="s2">jobs and move out<span style="s4"> and so they couldn&#39;t</span></p>
+<p begin="00:25:46.400" end="00:25:51.470" style="s2">be here tonight but we tallied it up we</p>
+<p begin="00:25:48.680" end="00:25:53.300" style="s2">kept track<span style="s3"> of this</span><span style="s4"> from</span><span style="s3"> November</span> to May</p>
+<p begin="00:25:51.470" end="00:25:54.560" style="s2">one year and then<span style="s3"> we</span> had an intern<span style="s4"> over</span></p>
+<p begin="00:25:53.300" end="00:25:56.420" style="s2"><span style="s3">the</span> summer<span style="s3"> and then we had a whole</span></p>
+<p begin="00:25:54.560" end="00:25:58.670" style="s2"><span style="s4">entire</span><span style="s3"> date</span> of is<span style="s4"> cost</span> from DePaul</p>
+<p begin="00:25:56.420" end="00:26:01.970" style="s2">University<span style="s3"> work</span> on a course<span style="s4"> project</span> in</p>
+<p begin="00:25:58.670" end="00:26:03.950" style="s2">total we had over 1,000 hours<span style="s3"> that</span> was</p>
+<p begin="00:26:01.970" end="00:26:07.130" style="s2">worked on<span style="s3"> this</span> project<span style="s3"> that</span> was not city</p>
+<p begin="00:26:03.950" end="00:26:09.170" style="s2">of<span style="s3"> Chicago</span> employees over<span style="s3"> 1,000</span> hours</p>
+<p begin="00:26:07.130" end="00:26:11.570" style="s2"><span style="s4">this</span><span style="s3"> comes</span><span style="s4"> into</span> the<span style="s4"> original</span><span style="s3"> creation</span> of</p>
+<p begin="00:26:09.170" end="00:26:13.280" style="s2"><span style="s4">the</span><span style="s3"> model</span> talking with USGS<span style="s3"> seeing</span> that</p>
+<p begin="00:26:11.570" end="00:26:15.080" style="s2">first model<span style="s3"> fail</span> and then coming up with</p>
+<p begin="00:26:13.280" end="00:26:17.300" style="s2"><span style="s4">another</span><span style="s3"> model</span> because I remember<span style="s3"> that</span></p>
+<p begin="00:26:15.080" end="00:26:19.400" style="s2">day Kevin<span style="s3"> said</span> huh<span style="s3"> all</span> the beaches<span style="s3"> seem</span></p>
+<p begin="00:26:17.300" end="00:26:20.870" style="s2">to move together<span style="s3"> and</span> after the first</p>
+<p begin="00:26:19.400" end="00:26:22.250" style="s2">model failed we said you know<span style="s3"> maybe</span> we</p>
+<p begin="00:26:20.870" end="00:26:24.860" style="s2">should go<span style="s4"> back and do something</span><span style="s3"> there</span></p>
+<p begin="00:26:22.250" end="00:26:26.750" style="s2"><span style="s4">that</span> involved a lot<span style="s4"> and</span><span style="s3"> and</span><span style="s4"> clarendon</span></p>
+<p begin="00:26:24.860" end="00:26:29.270" style="s2"><span style="s3">creating</span> a whole new<span style="s3"> model</span> nobody is</p>
+<p begin="00:26:26.750" end="00:26:31.160" style="s2">attacking<span style="s3"> the</span><span style="s4"> e.coli</span><span style="s3"> prediction</span> project</p>
+<p begin="00:26:29.270" end="00:26:34.550" style="s2">in the same<span style="s3"> way</span> around the Great<span style="s4"> Lakes</span></p>
+<p begin="00:26:31.160" end="00:26:35.630" style="s2">and in some areas<span style="s4"> it&#39;s</span> quite serious<span style="s4"> so</span></p>
+<p begin="00:26:34.550" end="00:26:37.550" style="s2">we<span style="s4"> were</span> able<span style="s3"> to</span> create<span style="s4"> something</span></p>
+<p begin="00:26:35.630" end="00:26:40.310" style="s2">entirely new because<span style="s4"> we&#39;re</span> able<span style="s3"> to</span> work</p>
+<p begin="00:26:37.550" end="00:26:41.900" style="s2"><span style="s3">with</span> a whole<span style="s3"> bunch</span> of<span style="s3"> folks of course</span></p>
+<p begin="00:26:40.310" end="00:26:43.910" style="s2"><span style="s3">the</span> model<span style="s3"> is</span><span style="s4"> open-source nick didn&#39;t</span><span style="s3"> say</span></p>
+<p begin="00:26:41.900" end="00:26:46.280" style="s2">that outright but we have a link here</p>
+<p begin="00:26:43.910" end="00:26:47.720" style="s2"><span style="s4">that</span><span style="s3"> at</span> the end so<span style="s4"> you</span> can<span style="s3"> go</span> see what</p>
+<p begin="00:26:46.280" end="00:26:50.030" style="s2">that<span style="s4"> model</span> is and we&#39;re going to</p>
+<p begin="00:26:47.720" end="00:26:52.250" style="s2"><span style="s3">continue work with</span><span style="s4"> usgs</span> and<span style="s4"> others</span> and</p>
+<p begin="00:26:50.030" end="00:26:54.500" style="s2"><span style="s4">chicago park district</span> as we continue<span style="s3"> to</span></p>
+<p begin="00:26:52.250" end="00:26:56.090" style="s2">refine<span style="s4"> and</span> test<span style="s3"> this</span> but this is<span style="s3"> a punch</span></p>
+<p begin="00:26:54.500" end="00:26:56.930" style="s2">card<span style="s4"> I&#39;ve</span><span style="s3"> never used this</span> graphic on</p>
+<p begin="00:26:56.090" end="00:26:59.630" style="s2">github ever</p>
+<p begin="00:26:56.930" end="00:27:01.940" style="s2">I found this worthless<span style="s3"> except</span> for this</p>
+<p begin="00:26:59.630" end="00:27:06.260" style="s2"><span style="s3">one</span><span style="s4"> project</span><span style="s3"> do</span> you spot the Tuesday</p>
+<p begin="00:27:01.940" end="00:27:07.880" style="s2"><span style="s3">nights</span> right<span style="s3"> so</span> you see<span style="s4"> that</span> you<span style="s4"> can</span></p>
+<p begin="00:27:06.260" end="00:27:10.610" style="s2">actually shoot and see<span style="s3"> this</span><span style="s4"> shot</span> hack</p>
+<p begin="00:27:07.880" end="00:27:13.390" style="s2">night effect<span style="s3"> for</span> the one time that<span style="s3"> this</span></p>
+<p begin="00:27:10.610" end="00:27:13.390" style="s2">graph is<span style="s4"> actually</span> useful</p>
+<p begin="00:27:18.279" end="00:27:21.880" style="s2">and this course includes all the work</p>
+<p begin="00:27:19.809" end="00:27:24.039" style="s2">that that<span style="s3"> interns</span> later did that<span style="s4"> NIC</span></p>
+<p begin="00:27:21.880" end="00:27:26.049" style="s2">later did and it&#39;s also worth noting</p>
+<p begin="00:27:24.039" end="00:27:28.840" style="s2">that Nick was hired<span style="s3"> after</span> working<span style="s3"> on</span></p>
+<p begin="00:27:26.049" end="00:27:31.360" style="s2"><span style="s3">this</span> project<span style="s3"> in</span> part because<span style="s4"> of</span><span style="s3"> his</span></p>
+<p begin="00:27:28.840" end="00:27:32.799" style="s2">ability<span style="s4"> to</span> show his his skills in<span style="s4"> data</span></p>
+<p begin="00:27:31.360" end="00:27:34.360" style="s2">science<span style="s3"> especially</span><span style="s4"> during</span> a career</p>
+<p begin="00:27:32.799" end="00:27:36.279" style="s2">change that&#39;s that&#39;s<span style="s3"> quite</span> important<span style="s3"> on</span></p>
+<p begin="00:27:34.360" end="00:27:38.529" style="s2">this<span style="s4"> project</span><span style="s3"> in</span> being it<span style="s3"> will</span> work with</p>
+<p begin="00:27:36.279" end="00:27:41.919" style="s2">them<span style="s3"> second</span> we<span style="s3"> have</span> another strategy</p>
+<p begin="00:27:38.529" end="00:27:43.179" style="s2"><span style="s3">what</span> we call strategy<span style="s4"> C</span> leverage data</p>
+<p begin="00:27:41.919" end="00:27:46.450" style="s2">and new technology to<span style="s3"> make</span> government</p>
+<p begin="00:27:43.179" end="00:27:47.950" style="s2">more efficient<span style="s4"> effective</span><span style="s3"> and</span> open I want</p>
+<p begin="00:27:46.450" end="00:27:49.809" style="s2">to mention<span style="s3"> that as part of this</span> project</p>
+<p begin="00:27:47.950" end="00:27:51.850" style="s2"><span style="s3">as</span><span style="s4"> part</span> of the West Nile<span style="s3"> virus</span> project</p>
+<p begin="00:27:49.809" end="00:27:54.519" style="s2"><span style="s4">gene</span> was showing you some functionality</p>
+<p begin="00:27:51.850" end="00:27:56.470" style="s2">of our<span style="s4"> windy grid project</span><span style="s3"> when you</span><span style="s4"> grid</span></p>
+<p begin="00:27:54.519" end="00:27:58.059" style="s2">uses the same<span style="s4"> open-source</span> code base of</p>
+<p begin="00:27:56.470" end="00:28:00.940" style="s2">another<span style="s4"> project</span> that<span style="s4"> is</span> actually on</p>
+<p begin="00:27:58.059" end="00:28:02.380" style="s2">github called open grid<span style="s3"> as</span> part of the</p>
+<p begin="00:28:00.940" end="00:28:03.789" style="s2">West Nile virus project to be able<span style="s3"> to</span></p>
+<p begin="00:28:02.380" end="00:28:04.860" style="s2"><span style="s3">meet</span> the<span style="s3"> needs</span> of Chicago Department</p>
+<p begin="00:28:03.789" end="00:28:07.360" style="s2"><span style="s4">Public Health and they&#39;re</span></p>
+<p begin="00:28:04.860" end="00:28:09.970" style="s2">epidemiologists<span style="s4"> to</span> be able<span style="s4"> to</span><span style="s3"> view</span> and</p>
+<p begin="00:28:07.360" end="00:28:11.950" style="s2">look at the maps<span style="s3"> we</span> made<span style="s3"> improvements</span> to</p>
+<p begin="00:28:09.970" end="00:28:14.620" style="s2"><span style="s3">open</span> grid so when we improve that</p>
+<p begin="00:28:11.950" end="00:28:17.260" style="s2"><span style="s3">internally</span> to<span style="s4"> help</span><span style="s3"> this</span> very<span style="s4"> particular</span></p>
+<p begin="00:28:14.620" end="00:28:19.389" style="s2">project<span style="s4"> that</span> benefit<span style="s3"> such</span> as creating</p>
+<p begin="00:28:17.260" end="00:28:20.889" style="s2">these bubble<span style="s3"> maps being able</span> to<span style="s4"> actually</span></p>
+<p begin="00:28:19.389" end="00:28:22.149" style="s2">share links I&#39;m going to click<span style="s3"> on</span> this</p>
+<p begin="00:28:20.889" end="00:28:24.700" style="s2">link right here because it&#39;s going to</p>
+<p begin="00:28:22.149" end="00:28:28.210" style="s2"><span style="s3">take</span> me to open grid<span style="s3"> and</span> what the actual</p>
+<p begin="00:28:24.700" end="00:28:29.409" style="s2"><span style="s3">results</span> are for last week<span style="s3"> so</span> these are</p>
+<p begin="00:28:28.210" end="00:28:30.549" style="s2">the<span style="s3"> results so you can</span> go to open<span style="s3"> good</span></p>
+<p begin="00:28:29.409" end="00:28:32.320" style="s2">you can go to that<span style="s3"> link</span><span style="s4"> you</span> can<span style="s4"> actually</span></p>
+<p begin="00:28:30.549" end="00:28:33.730" style="s2">recreate<span style="s3"> this</span> on<span style="s3"> yourself but this was</span></p>
+<p begin="00:28:32.320" end="00:28:35.380" style="s2">actually functionality we needed<span style="s3"> because</span></p>
+<p begin="00:28:33.730" end="00:28:37.539" style="s2"><span style="s3">the epidemiologist needed to create</span> maps</p>
+<p begin="00:28:35.380" end="00:28:39.279" style="s2"><span style="s3">and</span> just email them<span style="s4"> to</span> each<span style="s3"> other and so</span></p>
+<p begin="00:28:37.539" end="00:28:41.590" style="s2">just<span style="s3"> copy and paste URL was</span> way of doing</p>
+<p begin="00:28:39.279" end="00:28:44.679" style="s2">it<span style="s4"> so</span> this<span style="s4"> is</span> a way<span style="s4"> of</span> making<span style="s4"> sure as we</span></p>
+<p begin="00:28:41.590" end="00:28:46.240" style="s2">work to benefit things internally<span style="s3"> in</span><span style="s4"> the</span></p>
+<p begin="00:28:44.679" end="00:28:48.549" style="s2"><span style="s4">safe</span> Chicago to make ourselves<span style="s3"> more</span></p>
+<p begin="00:28:46.240" end="00:28:50.200" style="s2">efficient with projects like<span style="s3"> these</span> that</p>
+<p begin="00:28:48.549" end="00:28:52.570" style="s2">those sort of<span style="s3"> benefits</span> and<span style="s3"> that</span> sort of</p>
+<p begin="00:28:50.200" end="00:28:53.649" style="s2"><span style="s4">information</span> is pushed<span style="s3"> out let alone</span><span style="s4"> that</span></p>
+<p begin="00:28:52.570" end="00:28:55.750" style="s2">the data that&#39;s<span style="s3"> been</span> talked<span style="s4"> about</span></p>
+<p begin="00:28:53.649" end="00:29:00.940" style="s2">tonight<span style="s4"> the</span><span style="s3"> West</span> Nile virus data is on</p>
+<p begin="00:28:55.750" end="00:29:02.980" style="s2"><span style="s3">the</span> data portal the e.coli<span style="s3"> data</span> is on</p>
+<p begin="00:29:00.940" end="00:29:06.700" style="s2"><span style="s3">the</span> data portal<span style="s4"> in</span> fact the predictions</p>
+<p begin="00:29:02.980" end="00:29:07.929" style="s2">are on the data portal so when you take</p>
+<p begin="00:29:06.700" end="00:29:09.909" style="s2">a look at some<span style="s3"> of</span> the<span style="s3"> links</span> that we<span style="s3"> have</span></p>
+<p begin="00:29:07.929" end="00:29:12.820" style="s2">here the github links Chicago github</p>
+<p begin="00:29:09.909" end="00:29:14.440" style="s2"><span style="s4">Daioh slash Clearwater</span><span style="s3"> to</span> github to the</p>
+<p begin="00:29:12.820" end="00:29:16.600" style="s2"><span style="s4">Clearwater</span> project the West Nile virus</p>
+<p begin="00:29:14.440" end="00:29:18.279" style="s2">prediction project and also<span style="s3"> the</span> data</p>
+<p begin="00:29:16.600" end="00:29:20.080" style="s2">portal this<span style="s3"> is</span> something<span style="s4"> that</span> we</p>
+<p begin="00:29:18.279" end="00:29:22.029" style="s2">continually are interested in<span style="s4"> straddle</span></p>
+<p begin="00:29:20.080" end="00:29:23.620" style="s2"><span style="s4">eNOS</span> how do<span style="s3"> we</span> improve things<span style="s3"> internally</span></p>
+<p begin="00:29:22.029" end="00:29:25.510" style="s2"><span style="s3">how</span> can we make that<span style="s3"> data</span> publicly</p>
+<p begin="00:29:23.620" end="00:29:26.830" style="s2">available<span style="s3"> so</span> others can access<span style="s3"> it and</span></p>
+<p begin="00:29:25.510" end="00:29:29.140" style="s2"><span style="s3">then</span> how can<span style="s3"> we make that code available</span></p>
+<p begin="00:29:26.830" end="00:29:32.140" style="s2"><span style="s3">so people can improve</span></p>
+<p begin="00:29:29.140" end="00:29:33.760" style="s2">on it so people<span style="s4"> can</span> adopt it<span style="s3"> and</span> people</p>
+<p begin="00:29:32.140" end="00:29:35.020" style="s2"><span style="s3">to</span> use it<span style="s3"> so</span> I<span style="s3"> challenge</span> you<span style="s3"> when</span> it</p>
+<p begin="00:29:33.760" end="00:29:38.470" style="s2"><span style="s3">comes</span> to the<span style="s4"> Clearwater</span> project the</p>
+<p begin="00:29:35.020" end="00:29:40.060" style="s2"><span style="s3">e.coli project</span><span style="s4"> take</span> a crack at<span style="s4"> it</span> if<span style="s3"> you</span></p>
+<p begin="00:29:38.470" end="00:29:42.340" style="s2">think<span style="s3"> you</span> can beat<span style="s4"> that</span> algorithm<span style="s3"> if</span> you</p>
+<p begin="00:29:40.060" end="00:29:44.830" style="s2">think you can do a<span style="s3"> better</span> job by<span style="s4"> all</span></p>
+<p begin="00:29:42.340" end="00:29:46.660" style="s2">means<span style="s3"> improve</span> upon it submit a<span style="s3"> pull</span></p>
+<p begin="00:29:44.830" end="00:29:48.550" style="s2">request<span style="s3"> and</span> if you<span style="s4"> demonstrate</span> it<span style="s4"> does</span> a</p>
+<p begin="00:29:46.660" end="00:29:51.340" style="s2">better job which<span style="s4"> you</span> can because<span style="s3"> all</span> the</p>
+<p begin="00:29:48.550" end="00:29:53.380" style="s2"><span style="s3">data</span> is online<span style="s3"> we</span> will use your code as</p>
+<p begin="00:29:51.340" end="00:29:55.540" style="s2">part of<span style="s3"> our</span> projects<span style="s3"> and</span> it&#39;s<span style="s3"> something</span></p>
+<p begin="00:29:53.380" end="00:29:57.400" style="s2"><span style="s3">that</span> we&#39;ve<span style="s3"> constantly</span> and<span style="s3"> will continue</span></p>
+<p begin="00:29:55.540" end="00:29:58.990" style="s2"><span style="s3">to</span> do so<span style="s4"> thank</span> you<span style="s4"> very</span> much<span style="s3"> for</span> coming</p>
+<p begin="00:29:57.400" end="00:30:01.900" style="s2"><span style="s3">out thank</span><span style="s4"> you</span><span style="s3"> very</span> much<span style="s3"> for listening to</span></p>
+<p begin="00:29:58.990" end="00:30:11.200" style="s2">his couple of projects<span style="s3"> and</span> what are we</p>
+<p begin="00:30:01.900" end="00:30:13.720" style="s2"><span style="s3">going to do next Chris questions</span><span style="s4"> hi</span></p>
+<p begin="00:30:11.200" end="00:30:14.980" style="s2">question for<span style="s4"> Jean you mentioned</span><span style="s3"> that</span> you</p>
+<p begin="00:30:13.720" end="00:30:17.770" style="s2"><span style="s4">guys</span> treated<span style="s4"> about</span><span style="s3"> a hundred</span><span style="s4"> and fifty</span></p>
+<p begin="00:30:14.980" end="00:30:20.050" style="s2"><span style="s3">thousand</span> storm drains<span style="s4"> do</span> you guys<span style="s3"> use</span></p>
+<p begin="00:30:17.770" end="00:30:21.610" style="s2">the data from<span style="s4"> the</span> mosquito traps to</p>
+<p begin="00:30:20.050" end="00:30:26.230" style="s2">guide your selection<span style="s4"> with</span> storm drains</p>
+<p begin="00:30:21.610" end="00:30:29.070" style="s2">to<span style="s3"> treat</span> with barbicide no no I don&#39;t</p>
+<p begin="00:30:26.230" end="00:30:31.300" style="s2"><span style="s4">think</span> that I don&#39;t<span style="s4"> think that&#39;s the</span></p>
+<p begin="00:30:29.070" end="00:30:33.040" style="s2"><span style="s4">extra</span> so the number of mosquitoes<span style="s4"> there</span></p>
+<p begin="00:30:31.300" end="00:30:36.130" style="s2">actually caught in the traps<span style="s4"> is</span> pretty</p>
+<p begin="00:30:33.040" end="00:30:39.430" style="s2"><span style="s3">small it&#39;s a little fan that&#39;s</span> blowing</p>
+<p begin="00:30:36.130" end="00:30:41.110" style="s2"><span style="s3">and</span> so the<span style="s3"> tub</span> has some<span style="s4"> sweet-smelling</span></p>
+<p begin="00:30:39.430" end="00:30:43.270" style="s2">stuff in it<span style="s4"> that</span> the mosquitoes go to</p>
+<p begin="00:30:41.110" end="00:30:46.870" style="s2">and then the fan just<span style="s3"> blows</span> them up into</p>
+<p begin="00:30:43.270" end="00:30:48.820" style="s2"><span style="s3">that</span> bag<span style="s4"> and</span> so they only<span style="s3"> collect like a</span></p>
+<p begin="00:30:46.870" end="00:30:51.910" style="s2">really active trap<span style="s3"> only</span> collects like</p>
+<p begin="00:30:48.820" end="00:30:53.470" style="s2">250 most employed collect like 20 so</p>
+<p begin="00:30:51.910" end="00:30:55.480" style="s2">it&#39;s just it<span style="s3"> really</span> is a very<span style="s4"> random</span></p>
+<p begin="00:30:53.470" end="00:30:57.760" style="s2"><span style="s3">sample and I</span><span style="s4"> don&#39;t</span><span style="s3"> think</span> it&#39;s indicative</p>
+<p begin="00:30:55.480" end="00:31:00.400" style="s2"><span style="s3">of</span> the total mosquito population really</p>
+<p begin="00:30:57.760" end="00:31:04.150" style="s2"><span style="s4">and</span> by the way they also do not<span style="s3"> test</span></p>
+<p begin="00:31:00.400" end="00:31:06.310" style="s2"><span style="s3">trap</span> or report or<span style="s3"> spray</span> for nuisance</p>
+<p begin="00:31:04.150" end="00:31:08.380" style="s2">mosquitoes Culex pipiens includes</p>
+<p begin="00:31:06.310" end="00:31:10.570" style="s2">restaurants don&#39;t bite humans<span style="s3"> very</span> often</p>
+<p begin="00:31:08.380" end="00:31:12.520" style="s2">they&#39;re mostly bird eaters they don&#39;t</p>
+<p begin="00:31:10.570" end="00:31:15.340" style="s2">bite<span style="s3"> humans</span> until for whatever reason</p>
+<p begin="00:31:12.520" end="00:31:18.070" style="s2">late in the season<span style="s3"> and</span> humans are<span style="s3"> not</span></p>
+<p begin="00:31:15.340" end="00:31:27.760" style="s2">their first<span style="s3"> choice so it really is spill</span></p>
+<p begin="00:31:18.070" end="00:31:29.290" style="s2"><span style="s3">over</span> thank<span style="s3"> you</span> have you<span style="s4"> between these</span></p>
+<p begin="00:31:27.760" end="00:31:31.720" style="s2"><span style="s3">two</span> projects have you<span style="s3"> gathered</span> any</p>
+<p begin="00:31:29.290" end="00:31:33.640" style="s2">information<span style="s3"> on</span> the amount<span style="s3"> of people&#39;s</span></p>
+<p begin="00:31:31.720" end="00:31:35.110" style="s2">like live livelihoods that you&#39;ve</p>
+<p begin="00:31:33.640" end="00:31:38.020" style="s2">changed like how many<span style="s3"> people</span><span style="s4"> have not</span></p>
+<p begin="00:31:35.110" end="00:31:41.170" style="s2">gotten sick or have not died in<span style="s4"> this</span> you</p>
+<p begin="00:31:38.020" end="00:31:42.380" style="s2">know it&#39;s a good<span style="s3"> question it&#39;s hard</span> to</p>
+<p begin="00:31:41.170" end="00:31:44.210" style="s2">track down<span style="s3"> we</span></p>
+<p begin="00:31:42.380" end="00:31:45.890" style="s2">tend to work on projects<span style="s4"> it</span> seems where</p>
+<p begin="00:31:44.210" end="00:31:47.780" style="s2">there&#39;s a severe amount<span style="s3"> of</span></p>
+<p begin="00:31:45.890" end="00:31:50.210" style="s2"><span style="s3">underreporting</span><span style="s4"> because</span> it&#39;s often</p>
+<p begin="00:31:47.780" end="00:31:52.760" style="s2"><span style="s3">confused so ecoli</span><span style="s4"> one year in</span><span style="s3"> lake</span></p>
+<p begin="00:31:50.210" end="00:31:54.320" style="s2"><span style="s3">michigan</span> if you get sick<span style="s4"> it&#39;s</span> hard to</p>
+<p begin="00:31:52.760" end="00:31:56.750" style="s2">track down whether<span style="s3"> or not it was from</span></p>
+<p begin="00:31:54.320" end="00:31:58.820" style="s2">the lake from something you ate or just</p>
+<p begin="00:31:56.750" end="00:31:59.570" style="s2">simply being sick or being<span style="s3"> out in the</span></p>
+<p begin="00:31:58.820" end="00:32:01.130" style="s2"><span style="s3">Sun</span><span style="s4"> all</span> day</p>
+<p begin="00:31:59.570" end="00:32:03.890" style="s2">same thing with West<span style="s3"> Nile</span> virus</p>
+<p begin="00:32:01.130" end="00:32:05.930" style="s2"><span style="s4">certainly</span> the severe cases<span style="s3"> get</span> reported</p>
+<p begin="00:32:03.890" end="00:32:07.670" style="s2"><span style="s4">to</span> us<span style="s3"> but</span> when the symptoms<span style="s3"> are</span> flu-like</p>
+<p begin="00:32:05.930" end="00:32:09.350" style="s2">symptoms when there might<span style="s3"> not</span> be<span style="s4"> in</span></p>
+<p begin="00:32:07.670" end="00:32:11.480" style="s2">symptoms<span style="s3"> at all it&#39;s really hard for</span><span style="s4"> us</span></p>
+<p begin="00:32:09.350" end="00:32:13.910" style="s2">to trace<span style="s4"> down</span> how much<span style="s3"> it</span> is<span style="s4"> so a lot of</span></p>
+<p begin="00:32:11.480" end="00:32:15.890" style="s2">our modeling our accuracy<span style="s3"> is how often</span></p>
+<p begin="00:32:13.910" end="00:32:18.020" style="s2">we actually<span style="s4"> write</span> and knowing that</p>
+<p begin="00:32:15.890" end="00:32:19.820" style="s2"><span style="s4">that&#39;s</span> going to infer back to people<span style="s4"> who</span></p>
+<p begin="00:32:18.020" end="00:32:21.620" style="s2">are being<span style="s4"> impacted and</span><span style="s3"> of</span> course just a</p>
+<p begin="00:32:19.820" end="00:32:23.570" style="s2">large<span style="s3"> number</span> so<span style="s3"> the</span> the number of<span style="s3"> people</span></p>
+<p begin="00:32:21.620" end="00:32:24.500" style="s2"><span style="s4">going</span><span style="s3"> to</span> the<span style="s4"> beach</span> the the number of</p>
+<p begin="00:32:23.570" end="00:32:27.110" style="s2">people<span style="s4"> that are walking</span><span style="s3"> around</span></p>
+<p begin="00:32:24.500" end="00:32:28.640" style="s2"><span style="s3">especially</span> children that<span style="s4"> we&#39;re</span> concerned</p>
+<p begin="00:32:27.110" end="00:32:30.470" style="s2"><span style="s4">about that might get bit by</span><span style="s3"> mosquitoes</span></p>
+<p begin="00:32:28.640" end="00:32:31.850" style="s2"><span style="s4">we</span> know it&#39;s a large<span style="s3"> number</span> but it&#39;s</p>
+<p begin="00:32:30.470" end="00:32:33.440" style="s2">hard for<span style="s4"> us</span><span style="s3"> to trace down</span><span style="s4"> what</span> it is</p>
+<p begin="00:32:31.850" end="00:32:35.120" style="s2"><span style="s3">same thing when</span> we worked on<span style="s3"> equal</span></p>
+<p begin="00:32:33.440" end="00:32:36.710" style="s2">restaurant predictions it&#39;s hard for us</p>
+<p begin="00:32:35.120" end="00:32:38.570" style="s2"><span style="s3">to</span><span style="s4"> tell</span> me through web<span style="s4"> six</span><span style="s3"> actually</span></p>
+<p begin="00:32:36.710" end="00:32:39.830" style="s2"><span style="s4">actually</span> though<span style="s4"> I</span> noticed something<span style="s3"> when</span></p>
+<p begin="00:32:38.570" end="00:32:40.460" style="s2"><span style="s3">I</span> was<span style="s3"> preparing</span> these slides it&#39;s pretty</p>
+<p begin="00:32:39.830" end="00:32:43.190" style="s2">interesting</p>
+<p begin="00:32:40.460" end="00:32:45.020" style="s2">so 2012 was our banner<span style="s3"> worst</span> year for</p>
+<p begin="00:32:43.190" end="00:32:48.410" style="s2"><span style="s4">West</span> Nile in the city of Chicago we had</p>
+<p begin="00:32:45.020" end="00:32:51.770" style="s2">quite a few<span style="s3"> human</span> cases<span style="s3"> 2016</span> was</p>
+<p begin="00:32:48.410" end="00:32:53.450" style="s2">actually almost exactly that<span style="s3"> in</span> terms<span style="s3"> of</span></p>
+<p begin="00:32:51.770" end="00:32:56.030" style="s2">the<span style="s3"> quantity</span> of West Nile infections in</p>
+<p begin="00:32:53.450" end="00:32:58.460" style="s2">mosquitoes<span style="s3"> and the human cases were</span> a</p>
+<p begin="00:32:56.030" end="00:33:00.980" style="s2">lot lower<span style="s3"> so</span> I kind of<span style="s3"> think that the</span></p>
+<p begin="00:32:58.460" end="00:33:03.470" style="s2"><span style="s3">spraying and the and the treatment</span></p>
+<p begin="00:33:00.980" end="00:33:05.990" style="s2">things have been put<span style="s3"> in</span> place<span style="s4"> since</span><span style="s3"> 2012</span></p>
+<p begin="00:33:03.470" end="00:33:08.240" style="s2">did help<span style="s3"> but</span> it&#39;s pretty anecdotal and</p>
+<p begin="00:33:05.990" end="00:33:11.360" style="s2"><span style="s3">it&#39;s</span> not it&#39;s<span style="s3"> not</span> some giant statistical</p>
+<p begin="00:33:08.240" end="00:33:12.110" style="s2">study follow-up<span style="s3"> question</span> from<span style="s3"> the</span></p>
+<p begin="00:33:11.360" end="00:33:14.900" style="s2">interwebs</p>
+<p begin="00:33:12.110" end="00:33:17.870" style="s2">Alex<span style="s3"> so</span><span style="s4"> will</span> wanted<span style="s3"> to</span> know if we knew</p>
+<p begin="00:33:14.900" end="00:33:20.120" style="s2">how<span style="s3"> many people died from</span> West Nile each</p>
+<p begin="00:33:17.870" end="00:33:23.630" style="s2">year do you<span style="s3"> have</span> that<span style="s3"> I should know</span><span style="s4"> that</span></p>
+<p begin="00:33:20.120" end="00:33:25.850" style="s2">I don&#39;t<span style="s3"> I</span> don&#39;t<span style="s4"> have</span> them it&#39;s it&#39;s</p>
+<p begin="00:33:23.630" end="00:33:28.480" style="s2"><span style="s3">something</span><span style="s4"> like</span> I think<span style="s4"> there</span> were five</p>
+<p begin="00:33:25.850" end="00:33:31.480" style="s2"><span style="s4">people</span> last<span style="s3"> year</span> or<span style="s4"> ten</span> it&#39;s a pretty</p>
+<p begin="00:33:28.480" end="00:33:34.010" style="s2">death fortunately is a pretty low number</p>
+<p begin="00:33:31.480" end="00:33:36.800" style="s2">the neuro invasive is less than<span style="s4"> one</span></p>
+<p begin="00:33:34.010" end="00:33:40.160" style="s2"><span style="s4">percent</span> of<span style="s3"> that</span><span style="s4"> ten</span><span style="s3"> percent</span><span style="s4"> and</span> so</p>
+<p begin="00:33:36.800" end="00:33:43.850" style="s2"><span style="s3">they&#39;re</span><span style="s4"> 853</span> cases<span style="s3"> in</span> 2002<span style="s3"> last</span> year</p>
+<p begin="00:33:40.160" end="00:33:45.830" style="s2"><span style="s3">there</span> were I<span style="s3"> think there were 90 cases</span></p>
+<p begin="00:33:43.850" end="00:33:48.320" style="s2"><span style="s4">and</span> this year so far<span style="s4"> there have only</span></p>
+<p begin="00:33:45.830" end="00:33:50.390" style="s2">been two cases<span style="s4"> in wil</span><span style="s3"> County</span> and none in</p>
+<p begin="00:33:48.320" end="00:33:50.890" style="s2">Cook County<span style="s4"> and</span> the one next<span style="s3"> to Wolfe</span></p>
+<p begin="00:33:50.390" end="00:33:57.100" style="s2"><span style="s3">County would</span></p>
+<p begin="00:33:50.890" end="00:33:59.260" style="s2">that is well other questions<span style="s4"> are</span> you are</p>
+<p begin="00:33:57.100" end="00:34:02.860" style="s2">you<span style="s3"> guys</span> looking into other<span style="s4"> vector-borne</span></p>
+<p begin="00:33:59.260" end="00:34:06.610" style="s2"><span style="s4">diseases in terms of</span><span style="s3"> using</span> predictive</p>
+<p begin="00:34:02.860" end="00:34:08.770" style="s2"><span style="s3">analytics to like</span><span style="s4"> Zika I know we&#39;re</span></p>
+<p begin="00:34:06.610" end="00:34:09.520" style="s2">really<span style="s3"> far</span><span style="s4"> north</span> but that&#39;s been a hot</p>
+<p begin="00:34:08.770" end="00:34:13.390" style="s2">topic</p>
+<p begin="00:34:09.520" end="00:34:15.550" style="s2">so just<span style="s4"> Warner</span><span style="s3"> so I mean frankly us</span></p>
+<p begin="00:34:13.390" end="00:34:17.649" style="s2">looking<span style="s3"> at</span> this<span style="s3"> vector-borne</span> disease</p>
+<p begin="00:34:15.550" end="00:34:19.990" style="s2"><span style="s4">process</span> very<span style="s4"> well</span> for<span style="s3"> us</span> to<span style="s4"> be</span> able<span style="s3"> to</span></p>
+<p begin="00:34:17.649" end="00:34:22.120" style="s2">look at future potential<span style="s4"> vector-borne</span></p>
+<p begin="00:34:19.990" end="00:34:24.760" style="s2"><span style="s4">diseases</span> now<span style="s3"> fortunately</span><span style="s4"> in</span> the end<span style="s3"> of</span></p>
+<p begin="00:34:22.120" end="00:34:27.070" style="s2">where we&#39;re<span style="s4"> at</span> we have as you guys have</p>
+<p begin="00:34:24.760" end="00:34:29.440" style="s2">learned<span style="s3"> much</span> more about<span style="s3"> mosquito</span> species</p>
+<p begin="00:34:27.070" end="00:34:32.310" style="s2"><span style="s4">than</span> I think<span style="s4"> you</span><span style="s3"> would</span> have<span style="s3"> cared</span> to<span style="s4"> and</span></p>
+<p begin="00:34:29.440" end="00:34:34.780" style="s2">also<span style="s3"> looked</span> at<span style="s4"> some</span> gnarly photos today</p>
+<p begin="00:34:32.310" end="00:34:38.230" style="s2"><span style="s4">fortunately</span> we<span style="s4"> have</span> a species<span style="s4"> mist</span> type</p>
+<p begin="00:34:34.780" end="00:34:40.570" style="s2">that helps us not<span style="s3"> have</span> Zika here the</p>
+<p begin="00:34:38.230" end="00:34:42.669" style="s2">main carrier for Zika is not<span style="s4"> a</span> mosquito</p>
+<p begin="00:34:40.570" end="00:34:46.600" style="s2"><span style="s3">only</span> goes to about<span style="s3"> st.</span><span style="s4"> Louis</span> which is</p>
+<p begin="00:34:42.669" end="00:34:47.860" style="s2"><span style="s3">not that far away</span><span style="s4"> but</span> we by looking at</p>
+<p begin="00:34:46.600" end="00:34:49.060" style="s2">this data by having these<span style="s4"> source</span></p>
+<p begin="00:34:47.860" end="00:34:50.560" style="s2">statistical models we&#39;re going to be</p>
+<p begin="00:34:49.060" end="00:34:52.210" style="s2">better<span style="s4"> prepared</span> to<span style="s3"> be</span> able to<span style="s4"> tackle</span></p>
+<p begin="00:34:50.560" end="00:34:54.100" style="s2">those<span style="s3"> if</span> something comes up<span style="s3"> let</span> alone</p>
+<p begin="00:34:52.210" end="00:34:55.870" style="s2"><span style="s3">fit</span> Zika if it&#39;s something<span style="s3"> else</span> that</p>
+<p begin="00:34:54.100" end="00:34:58.990" style="s2">might pop up<span style="s3"> down</span> the<span style="s4"> road but</span><span style="s3"> we</span> know</p>
+<p begin="00:34:55.870" end="00:35:00.400" style="s2"><span style="s3">vector borne diseases</span><span style="s4"> is</span> a<span style="s3"> potential</span></p>
+<p begin="00:34:58.990" end="00:35:02.560" style="s2"><span style="s4">issue</span><span style="s3"> will continue to be a potential</span></p>
+<p begin="00:35:00.400" end="00:35:05.610" style="s2"><span style="s4">issue</span><span style="s3"> for</span> humans and we&#39;re preparing</p>
+<p begin="00:35:02.560" end="00:35:08.740" style="s2">ourselves to<span style="s3"> be</span> able<span style="s3"> to</span> handle<span style="s3"> them</span></p>
+<p begin="00:35:05.610" end="00:35:12.550" style="s2">thank<span style="s3"> you</span> guys I have a question</p>
+<p begin="00:35:08.740" end="00:35:14.500" style="s2"><span style="s3">why West Nile</span> virus<span style="s4"> you</span> guys have talked</p>
+<p begin="00:35:12.550" end="00:35:17.080" style="s2">about<span style="s3"> a lot</span><span style="s4"> of</span> the resources<span style="s3"> you</span> put in</p>
+<p begin="00:35:14.500" end="00:35:18.640" style="s2">it&#39;s costing a lot of<span style="s4"> money is this the</span></p>
+<p begin="00:35:17.080" end="00:35:21.790" style="s2">biggest health crisis<span style="s4"> that</span> Chicago<span style="s3"> is</span></p>
+<p begin="00:35:18.640" end="00:35:23.890" style="s2">facing or<span style="s3"> why</span> specifically<span style="s3"> this</span> problem</p>
+<p begin="00:35:21.790" end="00:35:25.810" style="s2"><span style="s3">it&#39;s</span> one<span style="s3"> of</span> the things that we have to</p>
+<p begin="00:35:23.890" end="00:35:27.520" style="s2">take care<span style="s3"> of it give you an example</span></p>
+<p begin="00:35:25.810" end="00:35:29.320" style="s2"><span style="s3">another</span> project<span style="s3"> that we&#39;ve been actively</span></p>
+<p begin="00:35:27.520" end="00:35:32.290" style="s2"><span style="s4">working</span> on<span style="s3"> for some</span><span style="s4"> time</span> as well<span style="s4"> I</span> think</p>
+<p begin="00:35:29.320" end="00:35:34.510" style="s2"><span style="s4">will</span> be done<span style="s4"> here soon is</span> lead paint</p>
+<p begin="00:35:32.290" end="00:35:36.730" style="s2">poisoning<span style="s4"> West</span><span style="s3"> Nile</span> viruses and</p>
+<p begin="00:35:34.510" end="00:35:39.100" style="s2">everything work there&#39;s teams of<span style="s3"> people</span></p>
+<p begin="00:35:36.730" end="00:35:40.960" style="s2">going<span style="s3"> to</span><span style="s4"> work on a word of spray</span><span style="s3"> it&#39;s</span></p>
+<p begin="00:35:39.100" end="00:35:42.760" style="s2">also very<span style="s3"> sensitive to where does</span> spray</p>
+<p begin="00:35:40.960" end="00:35:44.830" style="s2"><span style="s3">and</span> spraying<span style="s3"> is</span> a very<span style="s3"> sensitive topic</span></p>
+<p begin="00:35:42.760" end="00:35:48.060" style="s2"><span style="s3">so</span> the better job<span style="s4"> that</span> we<span style="s3"> can</span> do both</p>
+<p begin="00:35:44.830" end="00:35:50.680" style="s2">getting head of the problem and<span style="s4"> also</span> by</p>
+<p begin="00:35:48.060" end="00:35:53.080" style="s2">taking<span style="s3"> care</span> of the issue<span style="s3"> but</span> not over</p>
+<p begin="00:35:50.680" end="00:35:55.570" style="s2">spraying at the same time as well it&#39;s a</p>
+<p begin="00:35:53.080" end="00:35:57.460" style="s2">careful balance that we need to to</p>
+<p begin="00:35:55.570" end="00:35:59.500" style="s2"><span style="s3">constantly</span> face<span style="s3"> also</span> when<span style="s3"> we</span> take a look</p>
+<p begin="00:35:57.460" end="00:36:01.900" style="s2"><span style="s4">at</span> the affected populations<span style="s4"> where</span> course</p>
+<p begin="00:35:59.500" end="00:36:04.390" style="s2">can be<span style="s3"> very</span> attuned to problems<span style="s3"> that</span></p>
+<p begin="00:36:01.900" end="00:36:06.819" style="s2">primarily impact children that&#39;s<span style="s3"> all</span></p>
+<p begin="00:36:04.390" end="00:36:08.319" style="s2">the lead project<span style="s4"> and</span> order individuals</p>
+<p begin="00:36:06.819" end="00:36:10.960" style="s2"><span style="s3">who are just</span> susceptible to certain</p>
+<p begin="00:36:08.319" end="00:36:13.359" style="s2"><span style="s4">diseases</span> more than anybody<span style="s3"> else</span><span style="s4"> so</span> it&#39;s</p>
+<p begin="00:36:10.960" end="00:36:14.890" style="s2">one<span style="s3"> of</span> the many<span style="s4"> public health projects</span></p>
+<p begin="00:36:13.359" end="00:36:18.369" style="s2">that we&#39;ve<span style="s4"> worked</span><span style="s3"> on</span><span style="s4"> in</span> the past<span style="s3"> and</span></p>
+<p begin="00:36:14.890" end="00:36:19.869" style="s2"><span style="s4">will</span> continue<span style="s4"> work</span><span style="s3"> on</span> going<span style="s3"> forward</span><span style="s4"> but</span></p>
+<p begin="00:36:18.369" end="00:36:22.509" style="s2"><span style="s3">it</span> is<span style="s4"> something that really</span><span style="s3"> impacts</span> us</p>
+<p begin="00:36:19.869" end="00:36:25.450" style="s2">all thank<span style="s4"> you this may</span><span style="s3"> be</span> more<span style="s4"> of like a</span></p>
+<p begin="00:36:22.509" end="00:36:28.749" style="s2"><span style="s3">science</span> question<span style="s3"> but</span> I didn&#39;t<span style="s3"> get</span> in the</p>
+<p begin="00:36:25.450" end="00:36:31.900" style="s2">beginning of the the presentation<span style="s4"> of</span></p>
+<p begin="00:36:28.749" end="00:36:34.630" style="s2">like why we like can predict<span style="s4"> where</span> like</p>
+<p begin="00:36:31.900" end="00:36:37.210" style="s2">e.coli are in the beaches<span style="s3"> and</span> like if</p>
+<p begin="00:36:34.630" end="00:36:38.529" style="s2">the<span style="s4"> usgs</span> says it&#39;s<span style="s4"> alright</span><span style="s3"> and</span> we&#39;re</p>
+<p begin="00:36:37.210" end="00:36:40.809" style="s2">just<span style="s3"> like</span> saying<span style="s3"> there&#39;s</span> more<span style="s3"> beach</span> days</p>
+<p begin="00:36:38.529" end="00:36:43.390" style="s2">like how<span style="s3"> does</span> the predictive<span style="s4"> model</span> like</p>
+<p begin="00:36:40.809" end="00:36:45.249" style="s2">help<span style="s3"> or</span> like we&#39;re like<span style="s3"> we&#39;re</span> in science</p>
+<p begin="00:36:43.390" end="00:36:48.489" style="s2">does that come from<span style="s3"> i</span> guess<span style="s4"> of</span></p>
+<p begin="00:36:45.249" end="00:36:51.849" style="s2">predicting a really good question<span style="s4"> and</span><span style="s3"> in</span></p>
+<p begin="00:36:48.489" end="00:36:53.499" style="s2"><span style="s4">fact i think</span><span style="s3"> what</span> we did<span style="s4"> last week for</span></p>
+<p begin="00:36:51.849" end="00:36:56.769" style="s2">you<span style="s3"> know</span> this one<span style="s4"> i</span><span style="s3"> think</span><span style="s4"> we</span> gave up on</p>
+<p begin="00:36:53.499" end="00:36:58.720" style="s2">science and and our let me rephrase<span style="s3"> it</span></p>
+<p begin="00:36:56.769" end="00:37:00.339" style="s2"><span style="s3">like</span> this early on Nick was talking</p>
+<p begin="00:36:58.720" end="00:37:02.859" style="s2"><span style="s3">about</span> how we&#39;re<span style="s3"> trying</span> to<span style="s3"> account</span> for</p>
+<p begin="00:37:00.339" end="00:37:04.119" style="s2">water we&#39;re trying to account<span style="s3"> for</span> levels</p>
+<p begin="00:37:02.859" end="00:37:05.589" style="s2">we&#39;re accounting for this and we&#39;re</p>
+<p begin="00:37:04.119" end="00:37:06.700" style="s2">accounting for that<span style="s3"> because</span> somewhere in</p>
+<p begin="00:37:05.589" end="00:37:08.589" style="s2">our model we&#39;re trying to imagine</p>
+<p begin="00:37:06.700" end="00:37:11.559" style="s2"><span style="s3">ourselves we&#39;re trying</span><span style="s4"> to</span><span style="s3"> imagine</span> that</p>
+<p begin="00:37:08.589" end="00:37:13.509" style="s2">this big<span style="s3"> ecosystem</span> this<span style="s4"> is</span> this massive</p>
+<p begin="00:37:11.559" end="00:37:16.690" style="s2"><span style="s4">lake</span> we&#39;re trying to pick up<span style="s3"> the factors</span></p>
+<p begin="00:37:13.509" end="00:37:18.789" style="s2">that<span style="s3"> give</span> leads to the presence<span style="s3"> of</span></p>
+<p begin="00:37:16.690" end="00:37:21.160" style="s2"><span style="s4">e.coli</span> which<span style="s3"> a</span> lot of<span style="s3"> it&#39;s coming from</span></p>
+<p begin="00:37:18.789" end="00:37:24.069" style="s2">runoff<span style="s3"> or</span> from from<span style="s4"> Birds</span> dropping<span style="s3"> no</span></p>
+<p begin="00:37:21.160" end="00:37:28.450" style="s2">dropping droppings into<span style="s3"> the</span> lake<span style="s4"> runoff</span></p>
+<p begin="00:37:24.069" end="00:37:31.720" style="s2">into<span style="s4"> lake</span> from garbage and and waste<span style="s3"> on</span></p>
+<p begin="00:37:28.450" end="00:37:33.279" style="s2">the beaches<span style="s4"> and</span><span style="s3"> that</span> the model just was</p>
+<p begin="00:37:31.720" end="00:37:34.630" style="s2">not very stable<span style="s4"> some</span> summers would be</p>
+<p begin="00:37:33.279" end="00:37:36.480" style="s2">great other summers would be terrible in</p>
+<p begin="00:37:34.630" end="00:37:39.130" style="s2">some summers would be great again<span style="s3"> and</span></p>
+<p begin="00:37:36.480" end="00:37:41.140" style="s2">obviously<span style="s4"> we&#39;re</span> missing information<span style="s4"> the</span></p>
+<p begin="00:37:39.130" end="00:37:43.269" style="s2"><span style="s3">the</span> statistical model is too<span style="s3"> complicated</span></p>
+<p begin="00:37:41.140" end="00:37:45.849" style="s2">for what<span style="s4"> we&#39;re</span><span style="s3"> trying to tackle so the</span></p>
+<p begin="00:37:43.269" end="00:37:47.890" style="s2">trick was was more of information<span style="s4"> theory</span></p>
+<p begin="00:37:45.849" end="00:37:49.839" style="s2">which is<span style="s3"> that</span> we had<span style="s3"> some</span> of<span style="s3"> these</span> test</p>
+<p begin="00:37:47.890" end="00:37:51.940" style="s2">results<span style="s4"> that could be fairly immediately</span></p>
+<p begin="00:37:49.839" end="00:37:53.650" style="s2">available<span style="s3"> and</span> those test results<span style="s4"> you</span></p>
+<p begin="00:37:51.940" end="00:37:55.539" style="s2">imagine go to Montrose or something like</p>
+<p begin="00:37:53.650" end="00:37:57.069" style="s2"><span style="s3">that</span><span style="s4"> you</span><span style="s3"> have this very</span> rapid test</p>
+<p begin="00:37:55.539" end="00:38:00.759" style="s2">result<span style="s3"> you</span><span style="s4"> see</span> what the<span style="s3"> results</span> are<span style="s4"> that</span></p>
+<p begin="00:37:57.069" end="00:38:03.009" style="s2">day that sensor is<span style="s3"> picking</span><span style="s4"> up</span><span style="s3"> whatever</span></p>
+<p begin="00:38:00.759" end="00:38:04.749" style="s2">information is happening within the</p>
+<p begin="00:38:03.009" end="00:38:06.160" style="s2">beaches we&#39;ve since have gone away<span style="s3"> we</span></p>
+<p begin="00:38:04.749" end="00:38:07.299" style="s2">don&#39;t<span style="s3"> control</span> for any other variables we</p>
+<p begin="00:38:06.160" end="00:38:09.220" style="s2">just look for correlation between the</p>
+<p begin="00:38:07.299" end="00:38:11.499" style="s2">beaches<span style="s3"> so</span> we&#39;ve<span style="s3"> kind</span> of<span style="s4"> just</span> said okay</p>
+<p begin="00:38:09.220" end="00:38:13.239" style="s2"><span style="s3">look</span> we<span style="s3"> don&#39;t</span> know what it is<span style="s3"> but</span> this</p>
+<p begin="00:38:11.499" end="00:38:16.029" style="s2">sensor is<span style="s4"> picking</span> up<span style="s4"> information about</span></p>
+<p begin="00:38:13.239" end="00:38:18.070" style="s2"><span style="s3">the</span> condition of the water<span style="s3"> that</span><span style="s4"> day</span><span style="s3"> this</span></p>
+<p begin="00:38:16.029" end="00:38:20.680" style="s2">sensor is often correlated</p>
+<p begin="00:38:18.070" end="00:38:22.120" style="s2">other beaches<span style="s3"> as</span> well<span style="s4"> and</span> so we&#39;re going</p>
+<p begin="00:38:20.680" end="00:38:23.620" style="s2"><span style="s4">to</span> use that<span style="s3"> correlation</span> to figure out</p>
+<p begin="00:38:22.120" end="00:38:25.120" style="s2">whether inferring information is there</p>
+<p begin="00:38:23.620" end="00:38:27.010" style="s2">and try to spill it over to the next</p>
+<p begin="00:38:25.120" end="00:38:28.540" style="s2"><span style="s3">week so</span><span style="s4"> we</span><span style="s3"> said</span> look<span style="s4"> we</span> can&#39;t<span style="s3"> model</span></p>
+<p begin="00:38:27.010" end="00:38:31.390" style="s2">whatever scientifically is happening</p>
+<p begin="00:38:28.540" end="00:38:32.440" style="s2">there that<span style="s3"> that&#39;s</span> too too tough<span style="s3"> of</span> a</p>
+<p begin="00:38:31.390" end="00:38:34.540" style="s2">challenge or obviously we&#39;re<span style="s3"> just</span></p>
+<p begin="00:38:32.440" end="00:38:36.340" style="s2">completely missing it<span style="s4"> so</span> we end around</p>
+<p begin="00:38:34.540" end="00:38:37.870" style="s2">and<span style="s3"> we</span> found<span style="s3"> a</span> more efficient predictive</p>
+<p begin="00:38:36.340" end="00:38:40.240" style="s2"><span style="s4">way</span> that seems to predict really well</p>
+<p begin="00:38:37.870" end="00:38:43.720" style="s2"><span style="s3">using</span><span style="s4"> this</span> sort of information theory</p>
+<p begin="00:38:40.240" end="00:38:48.850" style="s2">approach<span style="s3"> anything else</span><span style="s4"> I</span> just<span style="s4"> described</span></p>
+<p begin="00:38:43.720" end="00:38:56.350" style="s2">my whole life to figure out another<span style="s3"> way</span></p>
+<p begin="00:38:48.850" end="00:38:58.600" style="s2">around<span style="s4"> yeah</span> other questions what<span style="s3"> what</span></p>
+<p begin="00:38:56.350" end="00:39:00.250" style="s2">roles or responsibilities does a team</p>
+<p begin="00:38:58.600" end="00:39:02.890" style="s2">have to take on to be<span style="s3"> successful</span> in a</p>
+<p begin="00:39:00.250" end="00:39:05.020" style="s2">data science project like this<span style="s3"> yeah</span> I&#39;m</p>
+<p begin="00:39:02.890" end="00:39:05.970" style="s2">going<span style="s3"> to turn over</span><span style="s4"> to</span> first<span style="s3"> Nick</span> and</p>
+<p begin="00:39:05.020" end="00:39:10.570" style="s2">then<span style="s4"> Gina</span> on that one</p>
+<p begin="00:39:05.970" end="00:39:13.180" style="s2">well<span style="s4"> that&#39;s</span> it&#39;s quite a vast amount<span style="s3"> of</span></p>
+<p begin="00:39:10.570" end="00:39:15.310" style="s2">roles of responsibilities<span style="s4"> first</span><span style="s3"> and</span></p>
+<p begin="00:39:13.180" end="00:39:16.930" style="s2"><span style="s3">foremost</span> what these projects<span style="s3"> tend to be</span></p>
+<p begin="00:39:15.310" end="00:39:19.720" style="s2"><span style="s3">our</span> collaborative<span style="s4"> you</span> know like we&#39;ve</p>
+<p begin="00:39:16.930" end="00:39:21.100" style="s2">talked about<span style="s3"> before</span> so<span style="s3"> working</span><span style="s4"> with</span></p>
+<p begin="00:39:19.720" end="00:39:24.070" style="s2">other people<span style="s3"> in</span> a collaborative</p>
+<p begin="00:39:21.100" end="00:39:29.530" style="s2">framework requires a lot<span style="s3"> of</span><span style="s4"> teamwork</span> and</p>
+<p begin="00:39:24.070" end="00:39:32.680" style="s2"><span style="s4">a</span> lot<span style="s4"> of</span> understanding and empathy<span style="s4"> so</span></p>
+<p begin="00:39:29.530" end="00:39:34.870" style="s2">you know it&#39;s big<span style="s3"> there</span> another is that</p>
+<p begin="00:39:32.680" end="00:39:36.760" style="s2">as data scientists what we end up<span style="s3"> doing</span></p>
+<p begin="00:39:34.870" end="00:39:40.060" style="s2">is a lot<span style="s3"> of</span> data cleaning<span style="s3"> and</span> a lot of</p>
+<p begin="00:39:36.760" end="00:39:42.580" style="s2"><span style="s3">data</span><span style="s4"> engineering</span> so you know we jump</p>
+<p begin="00:39:40.060" end="00:39:45.520" style="s2">from working<span style="s4"> with</span> others talking<span style="s3"> with</span></p>
+<p begin="00:39:42.580" end="00:39:47.410" style="s2">clients<span style="s3"> drafting</span> communications<span style="s3"> and</span></p>
+<p begin="00:39:45.520" end="00:39:50.410" style="s2">visualizations to<span style="s3"> actually</span><span style="s4"> doing</span> data</p>
+<p begin="00:39:47.410" end="00:39:55.870" style="s2">science type projects<span style="s4"> no gene if you</span></p>
+<p begin="00:39:50.410" end="00:39:57.940" style="s2">have<span style="s3"> anything</span><span style="s4"> mad</span> yeah I mean it&#39;s it&#39;s</p>
+<p begin="00:39:55.870" end="00:40:00.460" style="s2">a lot<span style="s4"> of</span> the<span style="s3"> preparation</span> it&#39;s a lot of</p>
+<p begin="00:39:57.940" end="00:40:02.380" style="s2"><span style="s3">the</span> stuff you<span style="s4"> don&#39;t</span> think<span style="s3"> about</span> it&#39;s</p>
+<p begin="00:40:00.460" end="00:40:04.420" style="s2">connecting to databases<span style="s3"> it&#39;s</span> figuring</p>
+<p begin="00:40:02.380" end="00:40:06.550" style="s2">out how to run something<span style="s3"> on</span> the<span style="s4"> sent</span><span style="s3"> OS</span></p>
+<p begin="00:40:04.420" end="00:40:10.840" style="s2">or on a<span style="s3"> different</span> type of operating</p>
+<p begin="00:40:06.550" end="00:40:12.400" style="s2"><span style="s4">system it&#39;s being a</span><span style="s3"> jack-of-all-trades</span></p>
+<p begin="00:40:10.840" end="00:40:14.920" style="s2">you know downloading the you know</p>
+<p begin="00:40:12.400" end="00:40:20.290" style="s2"><span style="s4">Beckner</span><span style="s3"> to</span> font or something<span style="s3"> like</span><span style="s4"> that</span></p>
+<p begin="00:40:14.920" end="00:40:21.730" style="s2">and you know<span style="s3"> it&#39;s</span> yeah but<span style="s3"> there&#39;s</span> a<span style="s3"> lot</span></p>
+<p begin="00:40:20.290" end="00:40:24.040" style="s2"><span style="s3">of</span> collaboration I&#39;ll tell you what I</p>
+<p begin="00:40:21.730" end="00:40:26.320" style="s2">did a lot of<span style="s3"> the</span> project<span style="s3"> before Nick</span></p>
+<p begin="00:40:24.040" end="00:40:28.780" style="s2">came here and it&#39;s been great<span style="s3"> to</span><span style="s4"> have</span></p>
+<p begin="00:40:26.320" end="00:40:29.519" style="s2">you know to<span style="s3"> have</span> Nick on<span style="s4"> the</span> team and</p>
+<p begin="00:40:28.780" end="00:40:31.679" style="s2">have another</p>
+<p begin="00:40:29.519" end="00:40:35.519" style="s2"><span style="s3">our</span> developer to you know share<span style="s3"> the</span> load</p>
+<p begin="00:40:31.679" end="00:40:38.069" style="s2"><span style="s3">and</span> ask questions<span style="s4"> to so and I&#39;ll add</span></p>
+<p begin="00:40:35.519" end="00:40:42.559" style="s2">this as well<span style="s3"> because</span> we<span style="s4"> experienced</span> I</p>
+<p begin="00:40:38.069" end="00:40:45.630" style="s2"><span style="s3">think with both projects is</span> is<span style="s4"> explore</span></p>
+<p begin="00:40:42.559" end="00:40:46.919" style="s2"><span style="s4">run</span> your<span style="s4"> inquiry</span><span style="s3"> through and when it&#39;s</span></p>
+<p begin="00:40:45.630" end="00:40:47.579" style="s2">really<span style="s3"> starting to look like it&#39;s not</span></p>
+<p begin="00:40:46.919" end="00:40:49.499" style="s2"><span style="s3">working</span></p>
+<p begin="00:40:47.579" end="00:40:52.619" style="s2">take a step<span style="s4"> back look at</span> the evidence</p>
+<p begin="00:40:49.499" end="00:40:54.809" style="s2"><span style="s3">and</span> then pivot<span style="s4"> if</span> need to<span style="s4"> equalise</span> a</p>
+<p begin="00:40:52.619" end="00:40:56.279" style="s2">great example<span style="s3"> of</span><span style="s4"> that</span><span style="s3"> we</span> hit hiccups</p>
+<p begin="00:40:54.809" end="00:40:58.079" style="s2"><span style="s3">every</span> once<span style="s3"> a while with West Nile</span> virus</p>
+<p begin="00:40:56.279" end="00:41:00.569" style="s2">where we thought something was<span style="s3"> there and</span></p>
+<p begin="00:40:58.079" end="00:41:02.269" style="s2">so we were able<span style="s3"> to figure out</span> okay</p>
+<p begin="00:41:00.569" end="00:41:04.829" style="s2"><span style="s3">making</span> sure that we&#39;re meeting<span style="s4"> needs</span></p>
+<p begin="00:41:02.269" end="00:41:07.140" style="s2">meet the<span style="s3"> clients</span><span style="s4"> needs</span><span style="s3"> the</span> Department of</p>
+<p begin="00:41:04.829" end="00:41:08.849" style="s2">Public Health<span style="s4"> Chicago</span> Park District<span style="s4"> and</span></p>
+<p begin="00:41:07.140" end="00:41:10.979" style="s2"><span style="s4">then</span> make<span style="s4"> sure</span> we&#39;re pivoting always</p>
+<p begin="00:41:08.849" end="00:41:13.349" style="s2">make sure<span style="s3"> we&#39;re</span> we&#39;re responding<span style="s3"> to</span> what</p>
+<p begin="00:41:10.979" end="00:41:14.819" style="s2"><span style="s3">people</span> need at the end<span style="s3"> of</span> the day and<span style="s3"> I</span></p>
+<p begin="00:41:13.349" end="00:41:16.090" style="s2">think<span style="s4"> that&#39;s</span> a<span style="s3"> great</span> place to<span style="s4"> closeout</span></p>
+<p begin="00:41:14.819" end="00:41:26.599" style="s2">thank<span style="s3"> you so much</span></p>
+<p begin="00:41:16.090" end="00:41:26.599" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

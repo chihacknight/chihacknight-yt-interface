@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:10.000" end="00:00:14.770" style="s2">um I just wanted to<span style="s3"> like</span> start this off</p>
+<p begin="00:00:12.220" end="00:00:16.869" style="s2">with a little<span style="s3"> like</span> personal story like</p>
+<p begin="00:00:14.770" end="00:00:19.119" style="s2">lobbying in Chicago<span style="s3"> is</span> something that<span style="s3"> I</span></p>
+<p begin="00:00:16.869" end="00:00:20.890" style="s2">admittedly know very little about yet</p>
+<p begin="00:00:19.119" end="00:00:22.180" style="s2">this is the<span style="s3"> very</span> first<span style="s3"> Civic</span> app that I</p>
+<p begin="00:00:20.890" end="00:00:25.660" style="s2">ever worked on it&#39;s called Chicago</p>
+<p begin="00:00:22.180" end="00:00:28.029" style="s2"><span style="s3">lobbyist</span> org it was<span style="s3"> really</span> like kind<span style="s3"> of</span></p>
+<p begin="00:00:25.660" end="00:00:30.580" style="s2"><span style="s3">the</span> start to like my journey<span style="s4"> in</span> doing</p>
+<p begin="00:00:28.029" end="00:00:32.680" style="s2">this stuff and it<span style="s4"> was</span> all because this</p>
+<p begin="00:00:30.580" end="00:00:34.120" style="s2">open data was available and one of the</p>
+<p begin="00:00:32.680" end="00:00:35.980" style="s2">things<span style="s4"> that</span> I learned from building this</p>
+<p begin="00:00:34.120" end="00:00:37.059" style="s2">website is<span style="s4"> that</span> like you can make</p>
+<p begin="00:00:35.980" end="00:00:40.150" style="s2">something<span style="s3"> and you</span><span style="s4"> can</span><span style="s3"> put</span> a bunch<span style="s3"> of</span></p>
+<p begin="00:00:37.059" end="00:00:42.250" style="s2"><span style="s4">stuff</span> on a web page but<span style="s3"> in</span> this case it</p>
+<p begin="00:00:40.150" end="00:00:44.469" style="s2">only like led to more questions<span style="s4"> like</span></p>
+<p begin="00:00:42.250" end="00:00:46.030" style="s2">what like so Theodore Bruns well he&#39;s a</p>
+<p begin="00:00:44.469" end="00:00:48.969" style="s2">lobbyist right looks<span style="s3"> like</span> he&#39;s making<span style="s4"> a</span></p>
+<p begin="00:00:46.030" end="00:00:51.219" style="s2">lot<span style="s3"> of</span> money he does stuff like procure</p>
+<p begin="00:00:48.969" end="00:00:54.160" style="s2">business like like what does that even</p>
+<p begin="00:00:51.219" end="00:00:56.140" style="s2">mean right so there&#39;s just so much to</p>
+<p begin="00:00:54.160" end="00:00:58.329" style="s2">know<span style="s3"> and</span> I feel<span style="s4"> like</span> so much of it</p>
+<p begin="00:00:56.140" end="00:01:01.210" style="s2">cannot be or at least has not yet been</p>
+<p begin="00:00:58.329" end="00:01:03.280" style="s2">captured by anything data that&#39;s like</p>
+<p begin="00:01:01.210" end="00:01:05.649" style="s2">open data right you need people<span style="s3"> to</span> tell</p>
+<p begin="00:01:03.280" end="00:01:09.850" style="s2">you what&#39;s going<span style="s3"> on</span> and so we have a</p>
+<p begin="00:01:05.649" end="00:01:11.050" style="s2">very cool person here<span style="s3"> Adrian</span> to give us</p>
+<p begin="00:01:09.850" end="00:01:14.650" style="s2">a little bit of insight into<span style="s4"> what</span> she</p>
+<p begin="00:01:11.050" end="00:01:17.890" style="s2">does and sort<span style="s3"> of</span> lift the veil a little</p>
+<p begin="00:01:14.650" end="00:01:20.320" style="s2">bit in terms of what goes on when it</p>
+<p begin="00:01:17.890" end="00:01:24.060" style="s2">comes to policy at City Council so</p>
+<p begin="00:01:20.320" end="00:01:24.060" style="s2">without<span style="s4"> further</span> ado Adrian Alexander</p>
+<p begin="00:01:27.600" end="00:01:32.130" style="s2">so if you had<span style="s4"> have</span> gone to me on the</p>
+<p begin="00:01:30.570" end="00:01:35.070" style="s2">website<span style="s3"> you</span> would have seen that<span style="s4"> I</span> do</p>
+<p begin="00:01:32.130" end="00:01:37.259" style="s2">one thing and that&#39;s lobby city council</p>
+<p begin="00:01:35.070" end="00:01:40.140" style="s2">for a one client and that&#39;s apps me and</p>
+<p begin="00:01:37.259" end="00:01:43.920" style="s2"><span style="s3">council</span> 31 so we are one<span style="s4"> of</span> the biggest</p>
+<p begin="00:01:40.140" end="00:01:47.789" style="s2">labor unions in the state most people</p>
+<p begin="00:01:43.920" end="00:01:49.890" style="s2">know us right now because of us being</p>
+<p begin="00:01:47.789" end="00:01:52.979" style="s2">the largest state employee union and</p>
+<p begin="00:01:49.890" end="00:01:55.890" style="s2">that budget impasse and the contract we</p>
+<p begin="00:01:52.979" end="00:01:59.220" style="s2">don&#39;t have with the governor yet but I</p>
+<p begin="00:01:55.890" end="00:02:02.700" style="s2">do i do City Council lobbying I lobby</p>
+<p begin="00:01:59.220" end="00:02:04.590" style="s2">Cook County I also a lot be at the state</p>
+<p begin="00:02:02.700" end="00:02:08.399" style="s2">level but for tonight&#39;s purposes I&#39;m</p>
+<p begin="00:02:04.590" end="00:02:11.370" style="s2">going to focus on City Council the</p>
+<p begin="00:02:08.399" end="00:02:14.489" style="s2">easiest way to explain what<span style="s4"> I</span> do is I</p>
+<p begin="00:02:11.370" end="00:02:16.709" style="s2">look at budgets I look at<span style="s3"> legislation</span></p>
+<p begin="00:02:14.489" end="00:02:19.940" style="s2">that comes out I look at what the impact</p>
+<p begin="00:02:16.709" end="00:02:24.360" style="s2">on our members is going to be I<span style="s3"> talk to</span></p>
+<p begin="00:02:19.940" end="00:02:28.019" style="s2">alderman or state reps whoever about the</p>
+<p begin="00:02:24.360" end="00:02:31.049" style="s2">impact on our members<span style="s3"> and</span> then when</p>
+<p begin="00:02:28.019" end="00:02:33.390" style="s2">they&#39;re great with us I hope<span style="s3"> that</span> they</p>
+<p begin="00:02:31.049" end="00:02:35.760" style="s2">and help that they get reelected and</p>
+<p begin="00:02:33.390" end="00:02:37.620" style="s2">when they&#39;re not sometimes we support</p>
+<p begin="00:02:35.760" end="00:02:41.070" style="s2">candidates against them and I<span style="s4"> help</span></p>
+<p begin="00:02:37.620" end="00:02:43.500" style="s2">coordinate our members against them so</p>
+<p begin="00:02:41.070" end="00:02:46.470" style="s2"><span style="s3">it&#39;s</span> kind of a really three-pronged</p>
+<p begin="00:02:43.500" end="00:02:49.769" style="s2">strategy on what I do and I say that</p>
+<p begin="00:02:46.470" end="00:02:52.410" style="s2">because not<span style="s4"> all</span> lobbyists do all those</p>
+<p begin="00:02:49.769" end="00:02:54.600" style="s2">things and because I think it&#39;s</p>
+<p begin="00:02:52.410" end="00:02:56.940" style="s2">particularly important for the work that</p>
+<p begin="00:02:54.600" end="00:03:02.519" style="s2">I do that I have my hands in all of</p>
+<p begin="00:02:56.940" end="00:03:05.100" style="s2">those pots so when people ask me about</p>
+<p begin="00:03:02.519" end="00:03:06.780" style="s2">being<span style="s3"> a</span> lobbyist because often they&#39;re</p>
+<p begin="00:03:05.100" end="00:03:09.329" style="s2">surprised when I tell<span style="s4"> them</span> that&#39;s what I</p>
+<p begin="00:03:06.780" end="00:03:12.269" style="s2">do the question that I get asked the</p>
+<p begin="00:03:09.329" end="00:03:14.280" style="s2">most is well what&#39;s your<span style="s3"> biggest</span> win or</p>
+<p begin="00:03:12.269" end="00:03:17.820" style="s2">what&#39;s<span style="s3"> the</span> most important piece of</p>
+<p begin="00:03:14.280" end="00:03:19.560" style="s2">legislation that you&#39;ve passed and until</p>
+<p begin="00:03:17.820" end="00:03:21.510" style="s2">this year I didn&#39;t really<span style="s4"> have</span> an answer</p>
+<p begin="00:03:19.560" end="00:03:25.530" style="s2">because<span style="s3"> we</span> play a lot of defense that</p>
+<p begin="00:03:21.510" end="00:03:29.700" style="s2">asked me and but this year we had a big</p>
+<p begin="00:03:25.530" end="00:03:32.010" style="s2">one at<span style="s4"> the</span> City Council we after three</p>
+<p begin="00:03:29.700" end="00:03:35.699" style="s2"><span style="s3">years</span> passed an ordinance dealing with</p>
+<p begin="00:03:32.010" end="00:03:37.530" style="s2">privatization and it started out<span style="s4"> as</span> the</p>
+<p begin="00:03:35.699" end="00:03:41.370" style="s2">privatization transparency and</p>
+<p begin="00:03:37.530" end="00:03:44.459" style="s2">accountability ordinance during the two</p>
+<p begin="00:03:41.370" end="00:03:47.970" style="s2">thousand eleven budget the mayor moved</p>
+<p begin="00:03:44.459" end="00:03:51.090" style="s2">to privatize water billing department</p>
+<p begin="00:03:47.970" end="00:03:54.930" style="s2">and we represented those people is about</p>
+<p begin="00:03:51.090" end="00:03:59.370" style="s2">40 folks and it was built into the</p>
+<p begin="00:03:54.930" end="00:04:01.920" style="s2">budget so it got a lot<span style="s3"> of aldermen kind</span></p>
+<p begin="00:03:59.370" end="00:04:04.140" style="s2">of upset it was supposed to<span style="s3"> save</span> a</p>
+<p begin="00:04:01.920" end="00:04:06.060" style="s2">hundred thousand<span style="s4"> dollars</span> there was 40</p>
+<p begin="00:04:04.140" end="00:04:10.590" style="s2">people who live<span style="s4"> in</span> the city that we&#39;re</p>
+<p begin="00:04:06.060" end="00:04:13.290" style="s2">getting laid off mostly black South</p>
+<p begin="00:04:10.590" end="00:04:15.030" style="s2">siders so the aldermen in their wards</p>
+<p begin="00:04:13.290" end="00:04:18.359" style="s2">you know our members<span style="s4"> are</span> calling their</p>
+<p begin="00:04:15.030" end="00:04:21.989" style="s2">alderman to talk<span style="s4"> about</span> it and alderman</p>
+<p begin="00:04:18.359" end="00:04:25.080" style="s2">Sawyer introduced the PTA Oh ordinance</p>
+<p begin="00:04:21.989" end="00:04:27.630" style="s2">um to to try<span style="s3"> and</span> do something about</p>
+<p begin="00:04:25.080" end="00:04:29.729" style="s2">creating a process so if the mayor</p>
+<p begin="00:04:27.630" end="00:04:31.740" style="s2">wanted to privatize something there</p>
+<p begin="00:04:29.729" end="00:04:34.740" style="s2">would be a council<span style="s4"> city council</span><span style="s3"> would</span> be</p>
+<p begin="00:04:31.740" end="00:04:36.960" style="s2"><span style="s3">involved</span> for assets like the parking</p>
+<p begin="00:04:34.740" end="00:04:39.510" style="s2"><span style="s3">meter</span> feel that most everyone is</p>
+<p begin="00:04:36.960" end="00:04:40.800" style="s2">familiar with there is a process in</p>
+<p begin="00:04:39.510" end="00:04:43.740" style="s2">place that was set up by the state</p>
+<p begin="00:04:40.800" end="00:04:46.080" style="s2">actually that required City Council</p>
+<p begin="00:04:43.740" end="00:04:49.229" style="s2">passage which is why you know there was</p>
+<p begin="00:04:46.080" end="00:04:51.270" style="s2"><span style="s3">the</span> big uproar that only a few aldermen</p>
+<p begin="00:04:49.229" end="00:04:54.560" style="s2">voted against it that was not<span style="s4"> the</span> case</p>
+<p begin="00:04:51.270" end="00:04:57.120" style="s2">for services and we had a number of</p>
+<p begin="00:04:54.560" end="00:05:00.060" style="s2"><span style="s3">services</span> privatized where we represented</p>
+<p begin="00:04:57.120" end="00:05:02.310" style="s2">members so<span style="s3"> we</span> worked<span style="s4"> with</span> alderman</p>
+<p begin="00:05:00.060" end="00:05:05.310" style="s2">Sawyer to get this legislation</p>
+<p begin="00:05:02.310" end="00:05:09.210" style="s2">introduced when it was<span style="s3"> introduced</span> we had</p>
+<p begin="00:05:05.310" end="00:05:11.760" style="s2">27 co-sponsors on it um and it was</p>
+<p begin="00:05:09.210" end="00:05:14.849" style="s2">happened right with in with the budget</p>
+<p begin="00:05:11.760" end="00:05:16.560" style="s2"><span style="s4">process</span> so I called<span style="s3"> my</span> mom afterwards I</p>
+<p begin="00:05:14.849" end="00:05:18.870" style="s2">was so excited this was I was like<span style="s4"> a</span></p>
+<p begin="00:05:16.560" end="00:05:22.560" style="s2">year<span style="s3"> into</span> the job<span style="s3"> City Council was still</span></p>
+<p begin="00:05:18.870" end="00:05:24.510" style="s2">new and fun to me uh-huh and so I call</p>
+<p begin="00:05:22.560" end="00:05:26.370" style="s2">my mom like oh<span style="s3"> my</span> gosh I can&#39;t believe</p>
+<p begin="00:05:24.510" end="00:05:28.530" style="s2">it we got the majority<span style="s4"> of</span> council to</p>
+<p begin="00:05:26.370" end="00:05:31.680" style="s2">sign on to this privatization ordinance</p>
+<p begin="00:05:28.530" end="00:05:34.139" style="s2">this is great<span style="s4"> this</span> is like you<span style="s4"> know</span> me</p>
+<p begin="00:05:31.680" end="00:05:36.599" style="s2">getting about 25 was like the thing you</p>
+<p begin="00:05:34.139" end="00:05:39.090" style="s2">need<span style="s4"> to</span> hit the number<span style="s4"> you</span> need to<span style="s3"> hit</span></p>
+<p begin="00:05:36.599" end="00:05:40.949" style="s2">to make things<span style="s3"> happen</span> majority of</p>
+<p begin="00:05:39.090" end="00:05:44.639" style="s2"><span style="s3">council</span> supports it so of course it&#39;s</p>
+<p begin="00:05:40.949" end="00:05:47.910" style="s2">going<span style="s4"> to</span> pass so it took three years to</p>
+<p begin="00:05:44.639" end="00:05:50.280" style="s2">get there um and important is what</p>
+<p begin="00:05:47.910" end="00:05:54.180" style="s2">happens in<span style="s3"> the</span> middle so<span style="s3"> after</span> we got</p>
+<p begin="00:05:50.280" end="00:05:54.810" style="s2">that the 27 signed on it got kicked to</p>
+<p begin="00:05:54.180" end="00:05:58.440" style="s2">rules</p>
+<p begin="00:05:54.810" end="00:06:02.280" style="s2"><span style="s3">um</span> and<span style="s4"> sat</span> for a<span style="s3"> while</span> we did a lot<span style="s3"> of</span></p>
+<p begin="00:05:58.440" end="00:06:04.770" style="s2">press work we had a broad coalition not</p>
+<p begin="00:06:02.280" end="00:06:08.610" style="s2">just of other unions but of community</p>
+<p begin="00:06:04.770" end="00:06:10.740" style="s2">organizations we just like a really</p>
+<p begin="00:06:08.610" end="00:06:13.440" style="s2"><span style="s3">broad</span> coalition<span style="s3"> I</span> think we had 36</p>
+<p begin="00:06:10.740" end="00:06:16.230" style="s2">organizations that we worked with namely</p>
+<p begin="00:06:13.440" end="00:06:19.760" style="s2">the better Government Association got on</p>
+<p begin="00:06:16.230" end="00:06:23.340" style="s2">board with<span style="s4"> it</span> and we<span style="s4"> actually</span> had the</p>
+<p begin="00:06:19.760" end="00:06:25.740" style="s2">union league club support which you know</p>
+<p begin="00:06:23.340" end="00:06:28.770" style="s2">when you&#39;re talking we<span style="s3"> were</span> working also</p>
+<p begin="00:06:25.740" end="00:06:31.200" style="s2">with a DC organization that does work on</p>
+<p begin="00:06:28.770" end="00:06:32.940" style="s2"><span style="s3">privatization nationally and they were</span></p>
+<p begin="00:06:31.200" end="00:06:35.160" style="s2">like oh great you got<span style="s3"> the</span> union league</p>
+<p begin="00:06:32.940" end="00:06:38.460" style="s2"><span style="s3">club</span> you know<span style="s3"> another</span> union organization</p>
+<p begin="00:06:35.160" end="00:06:43.710" style="s2">I&#39;m like no like there&#39;s a big get<span style="s4"> for</span></p>
+<p begin="00:06:38.460" end="00:06:46.380" style="s2">us they even<span style="s3"> hosted</span> they hosted a press</p>
+<p begin="00:06:43.710" end="00:06:49.400" style="s2">conference it<span style="s3"> was a big</span><span style="s4"> deal</span> that<span style="s3"> they</span></p>
+<p begin="00:06:46.380" end="00:06:53.430" style="s2">were taking a position on a policy</p>
+<p begin="00:06:49.400" end="00:06:56.880" style="s2">policy initiative at the city and we had</p>
+<p begin="00:06:53.430" end="00:07:00.330" style="s2">a pretty diverse group of aldermen on</p>
+<p begin="00:06:56.880" end="00:07:03.140" style="s2">our side too so so<span style="s4"> we</span> had some<span style="s3"> good</span></p>
+<p begin="00:07:00.330" end="00:07:06.840" style="s2">spokespeople for the issue is it&#39;s</p>
+<p begin="00:07:03.140" end="00:07:09.860" style="s2">really a quite boring process it&#39;s</p>
+<p begin="00:07:06.840" end="00:07:13.700" style="s2">completely<span style="s3"> process oriented legislation</span></p>
+<p begin="00:07:09.860" end="00:07:16.530" style="s2">that just sets up review after a year</p>
+<p begin="00:07:13.700" end="00:07:17.669" style="s2">after after<span style="s3"> the</span> privatization has gone</p>
+<p begin="00:07:16.530" end="00:07:19.229" style="s2">through you have to meet a certain</p>
+<p begin="00:07:17.669" end="00:07:22.770" style="s2">threshold things like that there are</p>
+<p begin="00:07:19.229" end="00:07:25.200" style="s2"><span style="s3">really</span> important<span style="s4"> to us and generally</span></p>
+<p begin="00:07:22.770" end="00:07:27.120" style="s2">have you know people care about</p>
+<p begin="00:07:25.200" end="00:07:30.060" style="s2">privatization<span style="s3"> in</span> Chicago mostly because</p>
+<p begin="00:07:27.120" end="00:07:31.590" style="s2">of<span style="s4"> the</span> parking<span style="s3"> meter</span> deal so on<span style="s4"> that</span> in</p>
+<p begin="00:07:30.060" end="00:07:33.389" style="s2">that sense<span style="s3"> it</span> was important<span style="s4"> to</span> people</p>
+<p begin="00:07:31.590" end="00:07:39.030" style="s2">but it didn&#39;t have quite the</p>
+<p begin="00:07:33.389" end="00:07:43.979" style="s2">touchy-feely very concrete outcomes like</p>
+<p begin="00:07:39.030" end="00:07:46.470" style="s2">a housing ordinance what so we had<span style="s3"> to</span> do</p>
+<p begin="00:07:43.979" end="00:07:48.960" style="s2">a<span style="s4"> lot</span> of press we actually had a gorilla</p>
+<p begin="00:07:46.470" end="00:07:52.050" style="s2">sticker campaign on the parking meters</p>
+<p begin="00:07:48.960" end="00:07:54.330" style="s2">to talk about the ordinance it was hard</p>
+<p begin="00:07:52.050" end="00:07:56.310" style="s2">to<span style="s3"> get</span> pressed to stay focused on it</p>
+<p begin="00:07:54.330" end="00:08:00.660" style="s2">because you<span style="s4"> know</span> nothing was happening</p>
+<p begin="00:07:56.310" end="00:08:02.070" style="s2">it was stuck in rules for years<span style="s3"> and</span> so</p>
+<p begin="00:08:00.660" end="00:08:04.229" style="s2">they&#39;re like well if nothing&#39;s happening</p>
+<p begin="00:08:02.070" end="00:08:05.640" style="s2">there&#39;s nothing to talk about and we&#39;re</p>
+<p begin="00:08:04.229" end="00:08:07.760" style="s2"><span style="s4">not</span> really going to write stories<span style="s3"> about</span></p>
+<p begin="00:08:05.640" end="00:08:11.060" style="s2">nothing happening for</p>
+<p begin="00:08:07.760" end="00:08:12.680" style="s2">so we were<span style="s4"> kind</span> of in limbo for a while</p>
+<p begin="00:08:11.060" end="00:08:14.750" style="s2">but we were constantly trying<span style="s3"> to</span></p>
+<p begin="00:08:12.680" end="00:08:17.270" style="s2">organize our members and organize</p>
+<p begin="00:08:14.750" end="00:08:19.250" style="s2">different constituencies around it<span style="s3"> put</span></p>
+<p begin="00:08:17.270" end="00:08:21.620" style="s2">pressure<span style="s3"> on alderman to go talks in the</span></p>
+<p begin="00:08:19.250" end="00:08:26.180" style="s2"><span style="s3">mayor</span> to go talk<span style="s4"> to</span> the chairman of</p>
+<p begin="00:08:21.620" end="00:08:29.240" style="s2">rules to get some movement on it so<span style="s4"> it</span></p>
+<p begin="00:08:26.180" end="00:08:31.280" style="s2">it took a lot of both like lobbying on</p>
+<p begin="00:08:29.240" end="00:08:34.040" style="s2">my part but<span style="s3"> that</span> wouldn&#39;t have done it</p>
+<p begin="00:08:31.280" end="00:08:36.680" style="s2">alone it&#39;s a the press it took the</p>
+<p begin="00:08:34.040" end="00:08:39.560" style="s2">grassroots work and finally we got to a</p>
+<p begin="00:08:36.680" end="00:08:41.750" style="s2">point it also took an election<span style="s3"> I</span> think</p>
+<p begin="00:08:39.560" end="00:08:43.910" style="s2">is fair to<span style="s4"> say</span> we finally got<span style="s4"> to</span> the</p>
+<p begin="00:08:41.750" end="00:08:45.470" style="s2">point where the administration was</p>
+<p begin="00:08:43.910" end="00:08:51.560" style="s2">willing to<span style="s3"> sit</span> down with us<span style="s3"> we</span></p>
+<p begin="00:08:45.470" end="00:08:54.670" style="s2">negotiated a deal in in November we in</p>
+<p begin="00:08:51.560" end="00:08:58.630" style="s2">November we passed the legislation</p>
+<p begin="00:08:54.670" end="00:09:04.940" style="s2">overwhelmingly so that was<span style="s4"> like</span> my first</p>
+<p begin="00:08:58.630" end="00:09:08.720" style="s2">win at City Council and it just kind of</p>
+<p begin="00:09:04.940" end="00:09:12.140" style="s2">gives you<span style="s4"> a</span> sense of<span style="s4"> eight</span> on a policy</p>
+<p begin="00:09:08.720" end="00:09:15.200" style="s2">level at City Hall it can take a long</p>
+<p begin="00:09:12.140" end="00:09:16.670" style="s2">time<span style="s3"> if</span> you&#39;re if you&#39;re not initially</p>
+<p begin="00:09:15.200" end="00:09:19.430" style="s2">it&#39;s not something that&#39;s supported by</p>
+<p begin="00:09:16.670" end="00:09:23.000" style="s2">the administration someone asked me on</p>
+<p begin="00:09:19.430" end="00:09:25.850" style="s2">Twitter<span style="s3"> like</span> about the changing dynamic</p>
+<p begin="00:09:23.000" end="00:09:30.170" style="s2">between City Council between the council</p>
+<p begin="00:09:25.850" end="00:09:33.020" style="s2">and<span style="s4"> the</span> administration<span style="s3"> and</span> I think it&#39;s</p>
+<p begin="00:09:30.170" end="00:09:38.090" style="s2">important<span style="s4"> to</span> realize a lot of city</p>
+<p begin="00:09:33.020" end="00:09:40.010" style="s2"><span style="s3">councilmen</span> a lot of aldermen are most of</p>
+<p begin="00:09:38.090" end="00:09:42.650" style="s2"><span style="s3">the</span> calls that they get are not about</p>
+<p begin="00:09:40.010" end="00:09:44.630" style="s2">policy right like the overwhelming</p>
+<p begin="00:09:42.650" end="00:09:49.090" style="s2">majority of the calls that alderman get</p>
+<p begin="00:09:44.630" end="00:09:52.820" style="s2">are about tree trimmings alleys trash</p>
+<p begin="00:09:49.090" end="00:09:56.510" style="s2">you know these very quality of life very</p>
+<p begin="00:09:52.820" end="00:09:58.310" style="s2">specific to their award issues those are</p>
+<p begin="00:09:56.510" end="00:10:00.890" style="s2"><span style="s3">the</span> things<span style="s3"> that</span> drive most voters I mean</p>
+<p begin="00:09:58.310" end="00:10:03.320" style="s2">even me in my personal life I&#39;ve only</p>
+<p begin="00:10:00.890" end="00:10:06.830" style="s2"><span style="s3">called</span> my alderman once and it was<span style="s3"> about</span></p>
+<p begin="00:10:03.320" end="00:10:09.230" style="s2">graffiti and and I mean there really</p>
+<p begin="00:10:06.830" end="00:10:11.960" style="s2">isn&#39;t a personal when you&#39;re a lobbyist</p>
+<p begin="00:10:09.230" end="00:10:14.090" style="s2">and calling<span style="s4"> alderman</span> so I said you know</p>
+<p begin="00:10:11.960" end="00:10:16.790" style="s2"><span style="s3">hey</span> there&#39;s this graffiti has been up</p>
+<p begin="00:10:14.090" end="00:10:18.860" style="s2">forever it&#39;s huge it&#39;s a really an</p>
+<p begin="00:10:16.790" end="00:10:20.690" style="s2">eyesore in a problem because it&#39;s gang</p>
+<p begin="00:10:18.860" end="00:10:21.630" style="s2">graffiti and I know you<span style="s3"> guys</span> cut the</p>
+<p begin="00:10:20.690" end="00:10:25.890" style="s2">graffiti</p>
+<p begin="00:10:21.630" end="00:10:28.830" style="s2">sirs blasters into the 2011 budget and</p>
+<p begin="00:10:25.890" end="00:10:33.600" style="s2">haven&#39;t really recovered but you know I</p>
+<p begin="00:10:28.830" end="00:10:35.970" style="s2">think<span style="s3"> this</span> should happen<span style="s4"> so</span> so the</p>
+<p begin="00:10:33.600" end="00:10:38.520" style="s2">things<span style="s3"> that</span> drives the voters are really</p>
+<p begin="00:10:35.970" end="00:10:41.510" style="s2">kind<span style="s4"> of</span> critical to what drives the</p>
+<p begin="00:10:38.520" end="00:10:44.760" style="s2"><span style="s4">aldermen</span> and<span style="s4"> they&#39;re</span> not<span style="s3"> being</span> taught to</p>
+<p begin="00:10:41.510" end="00:10:47.070" style="s2">buy a lot of<span style="s4"> people</span><span style="s3"> about</span> policy issues</p>
+<p begin="00:10:44.760" end="00:10:49.860" style="s2">so i think that creates both an</p>
+<p begin="00:10:47.070" end="00:10:53.640" style="s2">opportunity in that if there&#39;s something</p>
+<p begin="00:10:49.860" end="00:10:55.590" style="s2">that you see and you want done I think</p>
+<p begin="00:10:53.640" end="00:10:57.090" style="s2">you&#39;ll stick out because they&#39;re not</p>
+<p begin="00:10:55.590" end="00:11:01.140" style="s2">there&#39;s not a lot of folks talking to</p>
+<p begin="00:10:57.090" end="00:11:03.090" style="s2">alderman about<span style="s3"> that</span> and you the<span style="s4"> aldermen</span></p>
+<p begin="00:11:01.140" end="00:11:06.240" style="s2">may be willing to work with you in a way</p>
+<p begin="00:11:03.090" end="00:11:08.070" style="s2">that might surprise you because there&#39;s</p>
+<p begin="00:11:06.240" end="00:11:10.980" style="s2"><span style="s4">just</span> not that many people talking<span style="s3"> about</span></p>
+<p begin="00:11:08.070" end="00:11:13.380" style="s2">that but you should also<span style="s3"> know</span> that when</p>
+<p begin="00:11:10.980" end="00:11:16.350" style="s2">you&#39;re talking to alderman because most</p>
+<p begin="00:11:13.380" end="00:11:19.020" style="s2">of them i think<span style="s4"> is</span> fair<span style="s3"> to say most of</span></p>
+<p begin="00:11:16.350" end="00:11:21.390" style="s2">them their mindset isn&#39;t that&#39;s<span style="s3"> not</span> the</p>
+<p begin="00:11:19.020" end="00:11:24.530" style="s2">primary focus of their job there&#39;s a<span style="s3"> lot</span></p>
+<p begin="00:11:21.390" end="00:11:28.530" style="s2">of<span style="s4"> people</span> on the on the election<span style="s3"> side</span></p>
+<p begin="00:11:24.530" end="00:11:32.610" style="s2">you can be the most citywide focused</p>
+<p begin="00:11:28.530" end="00:11:34.020" style="s2">alderman really focused on policy but if</p>
+<p begin="00:11:32.610" end="00:11:37.290" style="s2">you don&#39;t take care<span style="s3"> of</span> the stuff in your</p>
+<p begin="00:11:34.020" end="00:11:40.170" style="s2">ward you will lose your election and I</p>
+<p begin="00:11:37.290" end="00:11:43.770" style="s2">mean the first round of automatic races</p>
+<p begin="00:11:40.170" end="00:11:46.380" style="s2">when I came we supported Fred renal I&#39;ll</p>
+<p begin="00:11:43.770" end="00:11:48.660" style="s2">in the sixth<span style="s4"> Ward</span> and she had<span style="s3"> like</span> a</p>
+<p begin="00:11:46.380" end="00:11:50.880" style="s2">ninety-five percent voting record with</p>
+<p begin="00:11:48.660" end="00:11:53.130" style="s2">us and I remember we were calling<span style="s4"> our</span></p>
+<p begin="00:11:50.880" end="00:11:55.110" style="s2">members to let them know<span style="s3"> like</span> hey the</p>
+<p begin="00:11:53.130" end="00:11:58.050" style="s2">union has endorsed and your ward and</p>
+<p begin="00:11:55.110" end="00:12:00.330" style="s2">people were saying that&#39;s great but I</p>
+<p begin="00:11:58.050" end="00:12:03.090" style="s2">live on<span style="s3"> her</span> alley and she doesn&#39;t<span style="s3"> even</span></p>
+<p begin="00:12:00.330" end="00:12:04.800" style="s2">keep that clean or that&#39;s fine<span style="s4"> but</span> when</p>
+<p begin="00:12:03.090" end="00:12:07.860" style="s2">I go<span style="s4"> up</span> to<span style="s3"> the</span><span style="s4"> office</span> where were denied</p>
+<p begin="00:12:04.800" end="00:12:09.420" style="s2">her staff has an attitude and we were</p>
+<p begin="00:12:07.860" end="00:12:12.030" style="s2">drilling hard but it didn&#39;t matter</p>
+<p begin="00:12:09.420" end="00:12:13.950" style="s2"><span style="s3">because</span> of<span style="s3"> that</span> very basic stuff and I</p>
+<p begin="00:12:12.030" end="00:12:17.580" style="s2">think that our members<span style="s4"> are</span> pretty</p>
+<p begin="00:12:13.950" end="00:12:19.290" style="s2">engaged right and usually when we tell</p>
+<p begin="00:12:17.580" end="00:12:22.680" style="s2">them the union&#39;s endorse someone this</p>
+<p begin="00:12:19.290" end="00:12:24.690" style="s2">person has been is in a fight for their</p>
+<p begin="00:12:22.680" end="00:12:26.070" style="s2">seat and they have a<span style="s3"> really</span> good record</p>
+<p begin="00:12:24.690" end="00:12:28.740" style="s2">with the union<span style="s4"> that</span> usually means</p>
+<p begin="00:12:26.070" end="00:12:31.560" style="s2">something but alderman Sawyer was able</p>
+<p begin="00:12:28.740" end="00:12:34.810" style="s2">to beat her<span style="s4"> and</span> a runoff just for that</p>
+<p begin="00:12:31.560" end="00:12:38.680" style="s2"><span style="s3">very</span> basic reason</p>
+<p begin="00:12:34.810" end="00:12:40.060" style="s2">so I say that to say those are the</p>
+<p begin="00:12:38.680" end="00:12:42.790" style="s2">things that<span style="s3"> are</span> driving<span style="s4"> a</span> lot<span style="s3"> of</span><span style="s4"> the</span></p>
+<p begin="00:12:40.060" end="00:12:46.660" style="s2"><span style="s4">alderman</span><span style="s3"> and</span> the stuff that&#39;s going on</p>
+<p begin="00:12:42.790" end="00:12:49.630" style="s2">in the media I think I think it&#39;s kind</p>
+<p begin="00:12:46.660" end="00:12:54.220" style="s2">of started I&#39;d say the two thousand and</p>
+<p begin="00:12:49.630" end="00:12:56.339" style="s2">this the 2015 alder manic races were so</p>
+<p begin="00:12:54.220" end="00:13:00.520" style="s2">many more went in to run off then</p>
+<p begin="00:12:56.339" end="00:13:02.670" style="s2">previously ever had happened I think</p>
+<p begin="00:13:00.520" end="00:13:06.160" style="s2">made a lot of<span style="s3"> aldermen</span> pay attention</p>
+<p begin="00:13:02.670" end="00:13:08.890" style="s2">more realize that they had to be more</p>
+<p begin="00:13:06.160" end="00:13:11.080" style="s2">responsive maybe it wasn&#39;t enough<span style="s3"> to</span> say</p>
+<p begin="00:13:08.890" end="00:13:12.670" style="s2">I have the support<span style="s4"> of</span> the mayor they</p>
+<p begin="00:13:11.080" end="00:13:19.150" style="s2">also have to<span style="s4"> have</span><span style="s3"> something</span> on their own</p>
+<p begin="00:13:12.670" end="00:13:25.900" style="s2">to<span style="s3"> stand</span> for more dramatic<span style="s4"> lighting</span> it&#39;s</p>
+<p begin="00:13:19.150" end="00:13:28.450" style="s2">because I mentioned the mayor um yeah I</p>
+<p begin="00:13:25.900" end="00:13:30.820" style="s2"><span style="s4">think</span> that that kind<span style="s3"> of</span> made people pay</p>
+<p begin="00:13:28.450" end="00:13:32.760" style="s2">attention<span style="s4"> and</span> like it was interesting</p>
+<p begin="00:13:30.820" end="00:13:36.930" style="s2">because all of the alderman Sawyer</p>
+<p begin="00:13:32.760" end="00:13:42.360" style="s2">there&#39;s being in the Progressive Caucus</p>
+<p begin="00:13:36.930" end="00:13:44.650" style="s2">and then and in the<span style="s3"> Black</span> Caucus I think</p>
+<p begin="00:13:42.360" end="00:13:46.510" style="s2">before<span style="s3"> the</span> elections there were a number</p>
+<p begin="00:13:44.650" end="00:13:47.589" style="s2">of aldermen that we&#39;re looking<span style="s3"> at</span> him</p>
+<p begin="00:13:46.510" end="00:13:50.770" style="s2">like you know you should be<span style="s3"> careful</span></p>
+<p begin="00:13:47.589" end="00:13:52.210" style="s2">stepping out too far and then there was</p>
+<p begin="00:13:50.770" end="00:13:56.170" style="s2">kind of a wave of more progressive</p>
+<p begin="00:13:52.210" end="00:13:58.600" style="s2">alderman that got elected<span style="s3"> and</span> none of</p>
+<p begin="00:13:56.170" end="00:14:01.839" style="s2">the Progressive Caucus folks that we&#39;re</p>
+<p begin="00:13:58.600" end="00:14:04.839" style="s2"><span style="s4">running</span> for<span style="s3"> alderman</span> lost so I think<span style="s4"> him</span></p>
+<p begin="00:14:01.839" end="00:14:07.810" style="s2">getting elected black caucus chair kind</p>
+<p begin="00:14:04.839" end="00:14:09.760" style="s2">of shows how how folks mindsets were</p>
+<p begin="00:14:07.810" end="00:14:12.220" style="s2">changing a little bit and<span style="s4"> then</span> when you</p>
+<p begin="00:14:09.760" end="00:14:16.120" style="s2">add on that on top of<span style="s3"> that</span> the pressures</p>
+<p begin="00:14:12.220" end="00:14:19.030" style="s2">from laQuan McDonald video and the alder</p>
+<p begin="00:14:16.120" end="00:14:20.410" style="s2">manic vote and lack of questioning on</p>
+<p begin="00:14:19.030" end="00:14:22.930" style="s2">the settlement and the pressure that</p>
+<p begin="00:14:20.410" end="00:14:25.209" style="s2">they&#39;ve gotten there I think it&#39;s making</p>
+<p begin="00:14:22.930" end="00:14:28.060" style="s2">them more aware and more concern</p>
+<p begin="00:14:25.209" end="00:14:30.670" style="s2">realizing that they have to do more at</p>
+<p begin="00:14:28.060" end="00:14:33.160" style="s2">least be seen as doing more but I<span style="s3"> don&#39;t</span></p>
+<p begin="00:14:30.670" end="00:14:35.110" style="s2">think I&#39;m not bought into the idea yet</p>
+<p begin="00:14:33.160" end="00:14:38.800" style="s2">that there&#39;s going<span style="s3"> to</span> be some<span style="s4"> kind</span><span style="s3"> of</span></p>
+<p begin="00:14:35.110" end="00:14:41.980" style="s2">revolution and council so where I&#39;m</p>
+<p begin="00:14:38.800" end="00:14:46.810" style="s2">there there&#39;s going<span style="s4"> to</span> be a huge change</p>
+<p begin="00:14:41.980" end="00:14:48.610" style="s2">or a huge backlash for the mayor I just</p>
+<p begin="00:14:46.810" end="00:14:51.310" style="s2">I just haven&#39;t seen it yet</p>
+<p begin="00:14:48.610" end="00:14:53.579" style="s2">um what I did see last council meeting</p>
+<p begin="00:14:51.310" end="00:14:56.110" style="s2">was a flurry of introductions</p>
+<p begin="00:14:53.579" end="00:14:58.300" style="s2">particularly around criminal justice and</p>
+<p begin="00:14:56.110" end="00:15:00.519" style="s2">I think you<span style="s3"> know</span> people<span style="s3"> want</span> to be seen</p>
+<p begin="00:14:58.300" end="00:15:04.570" style="s2"><span style="s4">as</span> doing something it&#39;ll be interesting</p>
+<p begin="00:15:00.519" end="00:15:06.160" style="s2"><span style="s4">to</span> see a number of those were sent to</p>
+<p begin="00:15:04.570" end="00:15:09.610" style="s2">rules it&#39;ll be<span style="s3"> interesting</span> to see<span style="s3"> what</span></p>
+<p begin="00:15:06.160" end="00:15:12.850" style="s2">the follow-up is afterwards and whether</p>
+<p begin="00:15:09.610" end="00:15:16.990" style="s2">people are going to be grandstanding and</p>
+<p begin="00:15:12.850" end="00:15:18.700" style="s2">pushing and and trying to negotiate to</p>
+<p begin="00:15:16.990" end="00:15:21.399" style="s2">get things out of rules or if they&#39;re</p>
+<p begin="00:15:18.700" end="00:15:26.589" style="s2">content with having introduced it and</p>
+<p begin="00:15:21.399" end="00:15:28.510" style="s2">got<span style="s4"> it</span> getting a press pop um oh I guess</p>
+<p begin="00:15:26.589" end="00:15:31.000" style="s2">I should also say I think<span style="s3"> another</span> factor</p>
+<p begin="00:15:28.510" end="00:15:33.459" style="s2">and that question of<span style="s4"> Independence</span> will</p>
+<p begin="00:15:31.000" end="00:15:37.000" style="s2">be the state&#39;s attorneys race and I</p>
+<p begin="00:15:33.459" end="00:15:38.950" style="s2"><span style="s4">think</span> if Anita Alvarez ends up losing</p>
+<p begin="00:15:37.000" end="00:15:41.500" style="s2">the<span style="s3"> state&#39;s attorneys right that&#39;ll</span> be</p>
+<p begin="00:15:38.950" end="00:15:44.800" style="s2">unkind another thing in that<span style="s4"> in</span> that</p>
+<p begin="00:15:41.500" end="00:15:49.420" style="s2">list of things that might shift the</p>
+<p begin="00:15:44.800" end="00:15:53.140" style="s2">dynamics a little bit um I got asked as</p>
+<p begin="00:15:49.420" end="00:15:56.110" style="s2">well about money in politics and um I</p>
+<p begin="00:15:53.140" end="00:15:58.839" style="s2">think I started out saying that I<span style="s4"> have</span></p>
+<p begin="00:15:56.110" end="00:16:01.810" style="s2"><span style="s4">one one client I</span> am employed by<span style="s4"> ask</span> me</p>
+<p begin="00:15:58.839" end="00:16:06.459" style="s2">so that creates<span style="s4"> a</span><span style="s3"> different</span> dynamic than</p>
+<p begin="00:16:01.810" end="00:16:08.320" style="s2">if I<span style="s3"> was</span> a contract lobbyist to contract</p>
+<p begin="00:16:06.459" end="00:16:10.269" style="s2">lobbyist as I see it I&#39;ve never<span style="s4"> been</span> a</p>
+<p begin="00:16:08.320" end="00:16:12.730" style="s2">contract lobbyist but from my</p>
+<p begin="00:16:10.269" end="00:16:15.550" style="s2">perspective as a contract lobbyist you</p>
+<p begin="00:16:12.730" end="00:16:18.760" style="s2">have multiple clients they in your</p>
+<p begin="00:16:15.550" end="00:16:20.380" style="s2">primary<span style="s4"> focus</span> is the the relationships</p>
+<p begin="00:16:18.760" end="00:16:22.949" style="s2">at all costs like no one&#39;s going to hire</p>
+<p begin="00:16:20.380" end="00:16:27.519" style="s2">you if you don&#39;t have relationships with</p>
+<p begin="00:16:22.949" end="00:16:31.209" style="s2">seemingly powerful people for me my</p>
+<p begin="00:16:27.519" end="00:16:33.339" style="s2">primary<span style="s4"> focus</span> is my members and making</p>
+<p begin="00:16:31.209" end="00:16:36.220" style="s2">sure<span style="s4"> that</span> whatever it is I advance</p>
+<p begin="00:16:33.339" end="00:16:40.750" style="s2">what&#39;s best for my members and having</p>
+<p begin="00:16:36.220" end="00:16:42.579" style="s2">one client kind of allows me to you know</p>
+<p begin="00:16:40.750" end="00:16:45.459" style="s2">make that the primary focus the issue</p>
+<p begin="00:16:42.579" end="00:16:48.480" style="s2">the primary focus and not to say nobody</p>
+<p begin="00:16:45.459" end="00:16:52.990" style="s2">wants to blow off any relationships but</p>
+<p begin="00:16:48.480" end="00:16:56.880" style="s2">if there&#39;s someone my unions going after</p>
+<p begin="00:16:52.990" end="00:16:59.949" style="s2">then it I don&#39;t really<span style="s3"> have to pretend</span></p>
+<p begin="00:16:56.880" end="00:17:02.470" style="s2">I&#39;m associated with the union I am</p>
+<p begin="00:16:59.949" end="00:17:05.740" style="s2">Adriene from a Smith period bleh</p>
+<p begin="00:17:02.470" end="00:17:09.430" style="s2">there&#39;s no<span style="s4"> other</span> that<span style="s3"> is</span> my identity the</p>
+<p begin="00:17:05.740" end="00:17:12.160" style="s2">people who know<span style="s4"> me</span> in politics so for us</p>
+<p begin="00:17:09.430" end="00:17:15.970" style="s2">the way we determine who gets money or</p>
+<p begin="00:17:12.160" end="00:17:17.650" style="s2">who doesn&#39;t oh and<span style="s3"> I&#39;m</span> pretty proud<span style="s4"> of</span></p>
+<p begin="00:17:15.970" end="00:17:19.180" style="s2">this because it makes my life easier<span style="s3"> I</span></p>
+<p begin="00:17:17.650" end="00:17:22.450" style="s2">get to have the moral high ground we</p>
+<p begin="00:17:19.180" end="00:17:25.270" style="s2"><span style="s4">have</span> a rubric so every time that I ask</p>
+<p begin="00:17:22.450" end="00:17:27.730" style="s2"><span style="s3">people</span> for their vote on something to</p>
+<p begin="00:17:25.270" end="00:17:30.010" style="s2">sign<span style="s3"> on to a letter to show up at a</span></p>
+<p begin="00:17:27.730" end="00:17:33.580" style="s2">press conference it goes into my excel</p>
+<p begin="00:17:30.010" end="00:17:36.580" style="s2">sheet and everyone is asked everyone</p>
+<p begin="00:17:33.580" end="00:17:39.490" style="s2">gets a yes or no<span style="s3"> they</span> all get a grade</p>
+<p begin="00:17:36.580" end="00:17:43.840" style="s2">essentially and if you&#39;re at a certain</p>
+<p begin="00:17:39.490" end="00:17:46.780" style="s2">level then you get money and there&#39;s</p>
+<p begin="00:17:43.840" end="00:17:50.110" style="s2">like three bands and<span style="s3"> it&#39;s</span> equal that way</p>
+<p begin="00:17:46.780" end="00:17:52.810" style="s2">so there you<span style="s4"> know</span> politicians because</p>
+<p begin="00:17:50.110" end="00:17:55.060" style="s2">they don&#39;t often know that we have a</p>
+<p begin="00:17:52.810" end="00:17:58.260" style="s2">rubric I get a lot of accusations</p>
+<p begin="00:17:55.060" end="00:18:01.150" style="s2">especially when I first<span style="s4"> started</span></p>
+<p begin="00:17:58.260" end="00:18:03.610" style="s2">particularly in Springfield there&#39;s a</p>
+<p begin="00:18:01.150" end="00:18:05.140" style="s2">lot<span style="s4"> of</span> accusations like oh well the</p>
+<p begin="00:18:03.610" end="00:18:07.330" style="s2">union&#39;s give more money to white people</p>
+<p begin="00:18:05.140" end="00:18:11.530" style="s2">or the union&#39;s give more money to</p>
+<p begin="00:18:07.330" end="00:18:13.810" style="s2">Chicago people<span style="s3"> and</span> it&#39;s easy to<span style="s4"> say</span> no</p>
+<p begin="00:18:11.530" end="00:18:16.060" style="s2">look<span style="s4"> we</span><span style="s3"> have</span> this rubric everyone who</p>
+<p begin="00:18:13.810" end="00:18:18.160" style="s2">falls into this gets this that&#39;s how</p>
+<p begin="00:18:16.060" end="00:18:21.010" style="s2">it&#39;s done this<span style="s3"> person</span> got more money</p>
+<p begin="00:18:18.160" end="00:18:23.830" style="s2">because they had a better score you</p>
+<p begin="00:18:21.010" end="00:18:26.470" style="s2">didn&#39;t because you voted wrong on half</p>
+<p begin="00:18:23.830" end="00:18:29.440" style="s2"><span style="s3">of</span> our stuff so though it makes it easy</p>
+<p begin="00:18:26.470" end="00:18:32.650" style="s2">to do that&#39;s how we do<span style="s4"> it</span> everybody of</p>
+<p begin="00:18:29.440" end="00:18:35.200" style="s2">course doesn&#39;t do it that way I can talk</p>
+<p begin="00:18:32.650" end="00:18:38.560" style="s2"><span style="s4">about</span> how other folks do their</p>
+<p begin="00:18:35.200" end="00:18:41.950" style="s2">contributions there&#39;s the question of</p>
+<p begin="00:18:38.560" end="00:18:44.050" style="s2">lobbyists and taking folks out to eat if</p>
+<p begin="00:18:41.950" end="00:18:45.550" style="s2">they&#39;re kind of pulled me up you were</p>
+<p begin="00:18:44.050" end="00:18:48.670" style="s2">the same that I didn&#39;t spend<span style="s3"> any</span> money</p>
+<p begin="00:18:45.550" end="00:18:52.840" style="s2">on taking people out I prefer not to</p>
+<p begin="00:18:48.670" end="00:18:55.120" style="s2">that&#39;s<span style="s3"> the personal preference</span> um I I</p>
+<p begin="00:18:52.840" end="00:18:57.370" style="s2">mean<span style="s3"> especially</span> I<span style="s4"> think</span> it&#39;s more the</p>
+<p begin="00:18:55.120" end="00:19:00.340" style="s2">case in Springfield where you&#39;re in</p>
+<p begin="00:18:57.370" end="00:19:02.680" style="s2">you&#39;re out of town people<span style="s4"> are</span> going to</p>
+<p begin="00:19:00.340" end="00:19:06.310" style="s2">dinners a lot that&#39;s more prevalent</p>
+<p begin="00:19:02.680" end="00:19:08.830" style="s2">there although I no contract lobbyist do</p>
+<p begin="00:19:06.310" end="00:19:13.470" style="s2">a lot more here that&#39;s also reflected on</p>
+<p begin="00:19:08.830" end="00:19:16.330" style="s2">on the on the site but<span style="s3"> for</span> me it&#39;s<span style="s3"> like</span></p>
+<p begin="00:19:13.470" end="00:19:19.570" style="s2">there&#39;s no point in buying someone</p>
+<p begin="00:19:16.330" end="00:19:22.299" style="s2">lunch at City Hall when we can sit in</p>
+<p begin="00:19:19.570" end="00:19:25.870" style="s2">your office and talk there&#39;s no need and</p>
+<p begin="00:19:22.299" end="00:19:28.720" style="s2">for me I think<span style="s3"> kind</span> of the stuff that</p>
+<p begin="00:19:25.870" end="00:19:33.250" style="s2">asks me is asking in particular<span style="s3"> it&#39;s</span></p>
+<p begin="00:19:28.720" end="00:19:36.070" style="s2">mostly budget focused and kind<span style="s3"> of</span> hard</p>
+<p begin="00:19:33.250" end="00:19:38.980" style="s2">ask you know we<span style="s3"> want</span> you to<span style="s3"> step</span> out in</p>
+<p begin="00:19:36.070" end="00:19:42.940" style="s2">a press conference and say the mayor&#39;s</p>
+<p begin="00:19:38.980" end="00:19:46.210" style="s2">holding on to our our privatization bill</p>
+<p begin="00:19:42.940" end="00:19:48.820" style="s2">and it should<span style="s3"> get</span> out rules that&#39;s a</p>
+<p begin="00:19:46.210" end="00:19:52.389" style="s2">harder ask that buying a dinner isn&#39;t</p>
+<p begin="00:19:48.820" end="00:19:55.419" style="s2">going to get you so so why I mean I know</p>
+<p begin="00:19:52.389" end="00:19:59.470" style="s2">and our money that we give from our<span style="s3"> pack</span></p>
+<p begin="00:19:55.419" end="00:20:02.500" style="s2">is members out of members paychecks so</p>
+<p begin="00:19:59.470" end="00:20:04.450" style="s2">it makes me feel more responsible like I</p>
+<p begin="00:20:02.500" end="00:20:07.510" style="s2">need<span style="s4"> to</span><span style="s3"> be</span> responsible<span style="s3"> with</span> it I would</p>
+<p begin="00:20:04.450" end="00:20:11.320" style="s2"><span style="s4">hate</span> to like be like giving dinner here</p>
+<p begin="00:20:07.510" end="00:20:14.230" style="s2">dinner here and you<span style="s4"> know</span> then the next</p>
+<p begin="00:20:11.320" end="00:20:16.000" style="s2">day people are voting against us on all</p>
+<p begin="00:20:14.230" end="00:20:18.190" style="s2">the<span style="s4"> big</span> issues because they were happy</p>
+<p begin="00:20:16.000" end="00:20:20.830" style="s2"><span style="s3">to</span> go to dinner for free but not willing</p>
+<p begin="00:20:18.190" end="00:20:23.139" style="s2">to<span style="s3"> step</span> out<span style="s3"> on</span> a vote because our</p>
+<p begin="00:20:20.830" end="00:20:25.870" style="s2">members look at that stuff too I mean</p>
+<p begin="00:20:23.139" end="00:20:28.389" style="s2">it&#39;s all available and and so we get</p>
+<p begin="00:20:25.870" end="00:20:30.760" style="s2">dinged all the time you guys just gave</p>
+<p begin="00:20:28.389" end="00:20:33.279" style="s2">this person $5,000 and then they did</p>
+<p begin="00:20:30.760" end="00:20:37.539" style="s2">that as this it should translate but it</p>
+<p begin="00:20:33.279" end="00:20:39.789" style="s2"><span style="s3">doesn&#39;t</span> so so it&#39;s easier for me I mean</p>
+<p begin="00:20:37.539" end="00:20:42.340" style="s2">sometimes<span style="s3"> we</span> do like we take the Black</p>
+<p begin="00:20:39.789" end="00:20:45.429" style="s2">Caucus out for dinner and Springfield to</p>
+<p begin="00:20:42.340" end="00:20:49.389" style="s2">discuss some issue and it&#39;s rarely on my</p>
+<p begin="00:20:45.429" end="00:20:53.110" style="s2">card<span style="s3"> just</span> a<span style="s4"> principal</span> and then Steve</p>
+<p begin="00:20:49.389" end="00:20:57.519" style="s2">asked me a question about data and what</p>
+<p begin="00:20:53.110" end="00:20:59.649" style="s2">data would be helpful to me for for the</p>
+<p begin="00:20:57.519" end="00:21:01.389" style="s2">job and I had to confess this was</p>
+<p begin="00:20:59.649" end="00:21:05.559" style="s2">actually the hardest question I got</p>
+<p begin="00:21:01.389" end="00:21:13.019" style="s2">because I do use<span style="s4"> um</span> like I use the</p>
+<p begin="00:21:05.559" end="00:21:16.929" style="s2">city&#39;s open data portal a lot and I&#39;ve</p>
+<p begin="00:21:13.019" end="00:21:19.600" style="s2">looked on the<span style="s4"> lobbyists</span> at a site when</p>
+<p begin="00:21:16.929" end="00:21:21.909" style="s2">it came out and I like I feel<span style="s3"> like</span> I pay</p>
+<p begin="00:21:19.600" end="00:21:25.840" style="s2"><span style="s4">attention</span><span style="s3"> to</span> the open data stuff that&#39;s</p>
+<p begin="00:21:21.909" end="00:21:28.690" style="s2">coming out but the stuff fits most</p>
+<p begin="00:21:25.840" end="00:21:29.929" style="s2">helpful is like the hardest to get like</p>
+<p begin="00:21:28.690" end="00:21:32.749" style="s2">we&#39;ve been asking</p>
+<p begin="00:21:29.929" end="00:21:37.129" style="s2">the Department of Public Health about</p>
+<p begin="00:21:32.749" end="00:21:38.779" style="s2">numbers on mental health clinics and</p>
+<p begin="00:21:37.129" end="00:21:41.690" style="s2">like where did people go after the</p>
+<p begin="00:21:38.779" end="00:21:42.980" style="s2">clinic&#39;s closed and that&#39;s you know<span style="s3"> we</span></p>
+<p begin="00:21:41.690" end="00:21:45.289" style="s2">can get something and<span style="s3"> then</span> it&#39;s like</p>
+<p begin="00:21:42.980" end="00:21:48.139" style="s2"><span style="s4">well</span> is this<span style="s4"> the</span> best is this<span style="s3"> the</span> most</p>
+<p begin="00:21:45.289" end="00:21:49.970" style="s2">accurate or is there other data that&#39;s</p>
+<p begin="00:21:48.139" end="00:21:53.330" style="s2">out there and that&#39;s kind of like<span style="s4"> the</span></p>
+<p begin="00:21:49.970" end="00:21:55.669" style="s2">data stuff that I&#39;m thinking<span style="s4"> about</span> most</p>
+<p begin="00:21:53.330" end="00:21:57.980" style="s2"><span style="s3">often and my jobs like what&#39;s the</span></p>
+<p begin="00:21:55.669" end="00:22:00.259" style="s2">accuracy of this data<span style="s3"> and</span> I&#39;m<span style="s3"> looking</span></p>
+<p begin="00:21:57.980" end="00:22:02.779" style="s2">forward to<span style="s3"> I&#39;m glad that the</span> city now</p>
+<p begin="00:22:00.259" end="00:22:06.320" style="s2">has an independent budget office to kind</p>
+<p begin="00:22:02.779" end="00:22:08.929" style="s2">of look at some of<span style="s3"> the</span> budget data and</p>
+<p begin="00:22:06.320" end="00:22:10.490" style="s2">information that comes out but I don&#39;t I</p>
+<p begin="00:22:08.929" end="00:22:13.190" style="s2">don&#39;t really<span style="s3"> have</span> a good answer to<span style="s4"> your</span></p>
+<p begin="00:22:10.490" end="00:22:15.200" style="s2">question Steve I&#39;m always excited to see</p>
+<p begin="00:22:13.190" end="00:22:17.179" style="s2">what people<span style="s4"> are</span> doing<span style="s3"> with</span> the data</p>
+<p begin="00:22:15.200" end="00:22:22.789" style="s2">particularly at the city that comes out</p>
+<p begin="00:22:17.179" end="00:22:25.639" style="s2">I think<span style="s4"> the</span> mapping stuff that WBZ did</p>
+<p begin="00:22:22.789" end="00:22:26.960" style="s2">around like 911 phone calls and mental</p>
+<p begin="00:22:25.639" end="00:22:30.249" style="s2">health and stuff like that that comes</p>
+<p begin="00:22:26.960" end="00:22:32.450" style="s2">out occasionally is really good</p>
+<p begin="00:22:30.249" end="00:22:36.259" style="s2">particularly because I<span style="s4"> think</span> a<span style="s4"> lot</span> of</p>
+<p begin="00:22:32.450" end="00:22:40.159" style="s2">the<span style="s3"> aldermen</span> just may not know how</p>
+<p begin="00:22:36.259" end="00:22:43.159" style="s2">different<span style="s3"> city</span> policies are impact their</p>
+<p begin="00:22:40.159" end="00:22:46.669" style="s2">own board until other people share that</p>
+<p begin="00:22:43.159" end="00:22:48.679" style="s2">information with them but yeah there&#39;s</p>
+<p begin="00:22:46.669" end="00:22:52.159" style="s2">not one data set that I&#39;ve been<span style="s3"> looking</span></p>
+<p begin="00:22:48.679" end="00:22:56.740" style="s2"><span style="s4">for</span> that that&#39;s not exist so with that</p>
+<p begin="00:22:52.159" end="00:22:56.740" style="s2">I&#39;ll open up there&#39;s a question</p>
+<p begin="00:23:02.740" end="00:23:08.340" style="s2">campaign</p>
+<p begin="00:23:05.690" end="00:23:14.150" style="s2">the second piece what are the other</p>
+<p begin="00:23:08.340" end="00:23:14.150" style="s2">inputs that politicians are taking it</p>
+<p begin="00:23:16.130" end="00:23:21.870" style="s2">yeah okay so the<span style="s4"> first</span> question where</p>
+<p begin="00:23:19.350" end="00:23:26.480" style="s2">does the money go we cut checks to their</p>
+<p begin="00:23:21.870" end="00:23:29.940" style="s2">campaign funds and sometimes it&#39;s very</p>
+<p begin="00:23:26.480" end="00:23:32.460" style="s2">specific ask you know leading up<span style="s3"> to</span></p>
+<p begin="00:23:29.940" end="00:23:35.760" style="s2">during elections it&#39;s that&#39;s when we</p>
+<p begin="00:23:32.460" end="00:23:39.179" style="s2">give our biggest checks and usually it&#39;s</p>
+<p begin="00:23:35.760" end="00:23:41.460" style="s2">because we know very specifically what</p>
+<p begin="00:23:39.179" end="00:23:43.700" style="s2">they&#39;re going to spend it on and in the</p>
+<p begin="00:23:41.460" end="00:23:48.330" style="s2">same way that I don&#39;t like spending on</p>
+<p begin="00:23:43.700" end="00:23:49.890" style="s2">their meals in a macro away the union</p>
+<p begin="00:23:48.330" end="00:23:51.720" style="s2">would like to know when we give someone</p>
+<p begin="00:23:49.890" end="00:23:55.590" style="s2">a five-thousand-dollar check it&#39;s not</p>
+<p begin="00:23:51.720" end="00:23:58.440" style="s2">just I I mean some of<span style="s4"> them</span> maybe use</p>
+<p begin="00:23:55.590" end="00:24:01.289" style="s2">their our money to do passing which i</p>
+<p begin="00:23:58.440" end="00:24:04.500" style="s2">think is like I&#39;m not from Chicago so we</p>
+<p begin="00:24:01.289" end="00:24:07.230" style="s2">didn&#39;t do like pole passing it&#39;s it&#39;s</p>
+<p begin="00:24:04.500" end="00:24:08.970" style="s2"><span style="s3">like</span><span style="s4"> a</span> waste of<span style="s4"> money</span> to<span style="s4"> me</span> but oh the</p>
+<p begin="00:24:07.230" end="00:24:11.460" style="s2">when you go vote sometimes there&#39;s</p>
+<p begin="00:24:08.970" end="00:24:13.679" style="s2">people standing out<span style="s3"> they</span> have a card</p>
+<p begin="00:24:11.460" end="00:24:16.200" style="s2">that says punch whatever in their name</p>
+<p begin="00:24:13.679" end="00:24:18.600" style="s2">like as if you didn&#39;t know who you were</p>
+<p begin="00:24:16.200" end="00:24:20.549" style="s2">going<span style="s4"> to</span> vote for when you arrived but</p>
+<p begin="00:24:18.600" end="00:24:23.400" style="s2">it&#39;s the<span style="s4"> throwback</span> from the Machine days</p>
+<p begin="00:24:20.549" end="00:24:25.710" style="s2">when you know that person you know your</p>
+<p begin="00:24:23.400" end="00:24:27.840" style="s2">precinct person was giving you the list</p>
+<p begin="00:24:25.710" end="00:24:32.630" style="s2">of who to vote for but I<span style="s3"> think</span> it&#39;s a</p>
+<p begin="00:24:27.840" end="00:24:34.860" style="s2"><span style="s3">little</span> less effective now but but</p>
+<p begin="00:24:32.630" end="00:24:36.539" style="s2">usually we we<span style="s3"> want</span> to know what our</p>
+<p begin="00:24:34.860" end="00:24:39.059" style="s2">money is going towards and we want to</p>
+<p begin="00:24:36.539" end="00:24:42.230" style="s2">know as an effective means of spending</p>
+<p begin="00:24:39.059" end="00:24:46.770" style="s2"><span style="s4">the</span> money but its campaign funds and</p>
+<p begin="00:24:42.230" end="00:24:50.640" style="s2">then the second question around what</p>
+<p begin="00:24:46.770" end="00:24:54.659" style="s2">other inputs a lot<span style="s3"> of</span> times I<span style="s4"> think</span> it&#39;s</p>
+<p begin="00:24:50.640" end="00:24:57.000" style="s2">random constituents that may weigh in on</p>
+<p begin="00:24:54.659" end="00:24:59.760" style="s2">something and and that&#39;s seriously the</p>
+<p begin="00:24:57.000" end="00:25:03.419" style="s2">most effective I mean I<span style="s4"> think</span> for me<span style="s3"> as</span></p>
+<p begin="00:24:59.760" end="00:25:05.460" style="s2">a lobbyist who has represents like</p>
+<p begin="00:25:03.419" end="00:25:08.760" style="s2">people members that live in their</p>
+<p begin="00:25:05.460" end="00:25:11.760" style="s2">districts if there&#39;s a serious bill that</p>
+<p begin="00:25:08.760" end="00:25:13.919" style="s2">I&#39;m working then I&#39;m<span style="s3"> doing my job best</span></p>
+<p begin="00:25:11.760" end="00:25:16.110" style="s2">when I have a member that lives in their</p>
+<p begin="00:25:13.919" end="00:25:18.020" style="s2">ward that comes with me to talk<span style="s4"> about</span> I</p>
+<p begin="00:25:16.110" end="00:25:19.880" style="s2">talk about<span style="s4"> the</span> big picture issue</p>
+<p begin="00:25:18.020" end="00:25:21.770" style="s2">it&#39;s important for the<span style="s3"> Union</span> they<span style="s4"> talk</span></p>
+<p begin="00:25:19.880" end="00:25:24.050" style="s2">about how they&#39;re impacted by it and</p>
+<p begin="00:25:21.770" end="00:25:26.960" style="s2">they say you know and<span style="s3"> I</span> live in your</p>
+<p begin="00:25:24.050" end="00:25:29.750" style="s2">ward that&#39;s because they would rather</p>
+<p begin="00:25:26.960" end="00:25:33.110" style="s2">not tell someone who&#39;s voting for them</p>
+<p begin="00:25:29.750" end="00:25:36.460" style="s2">or not that they don&#39;t<span style="s3"> want</span> to do what</p>
+<p begin="00:25:33.110" end="00:25:44.990" style="s2">they&#39;re going to do Alex you want to add</p>
+<p begin="00:25:36.460" end="00:25:48.800" style="s2">are you a nice question yeah yeah well</p>
+<p begin="00:25:44.990" end="00:25:51.380" style="s2">and on that I would say that&#39;s why we</p>
+<p begin="00:25:48.800" end="00:25:55.250" style="s2">are really<span style="s3"> useful</span> during<span style="s4"> apps</span> me is</p>
+<p begin="00:25:51.380" end="00:25:59.150" style="s2">really useful during budget time I mean</p>
+<p begin="00:25:55.250" end="00:26:00.950" style="s2">a<span style="s3"> lot</span> of<span style="s3"> what</span> I do is analyzing I look</p>
+<p begin="00:25:59.150" end="00:26:02.630" style="s2">for every single<span style="s3"> member</span> in our but in</p>
+<p begin="00:26:00.950" end="00:26:05.000" style="s2">the budget<span style="s3"> to</span> make<span style="s3"> sure</span> they&#39;re still</p>
+<p begin="00:26:02.630" end="00:26:07.310" style="s2">there and if they&#39;re<span style="s4"> not</span> then I&#39;m</p>
+<p begin="00:26:05.000" end="00:26:09.320" style="s2">talking<span style="s4"> to</span> them about what it is that</p>
+<p begin="00:26:07.310" end="00:26:12.320" style="s2"><span style="s3">that</span> budget line that they&#39;re cutting</p>
+<p begin="00:26:09.320" end="00:26:14.440" style="s2">like what the tangible impact is because</p>
+<p begin="00:26:12.320" end="00:26:19.390" style="s2">when the<span style="s4"> alderman</span> get the budget book</p>
+<p begin="00:26:14.440" end="00:26:22.700" style="s2">and they have their their daily</p>
+<p begin="00:26:19.390" end="00:26:25.330" style="s2">department meetings they may have some</p>
+<p begin="00:26:22.700" end="00:26:27.740" style="s2">questions just based on<span style="s4"> the</span> numbers<span style="s3"> but</span></p>
+<p begin="00:26:25.330" end="00:26:30.380" style="s2">the<span style="s4"> commissioners</span><span style="s3"> not</span> going<span style="s3"> to</span><span style="s4"> go</span></p>
+<p begin="00:26:27.740" end="00:26:32.180" style="s2">through every line of the budget so a</p>
+<p begin="00:26:30.380" end="00:26:34.760" style="s2">lot of times what<span style="s3"> I&#39;ll</span> do is I&#39;ll say</p>
+<p begin="00:26:32.180" end="00:26:36.800" style="s2">there&#39;s a increase in the contract line</p>
+<p begin="00:26:34.760" end="00:26:39.890" style="s2">here can you ask a question<span style="s4"> about</span> that</p>
+<p begin="00:26:36.800" end="00:26:42.440" style="s2"><span style="s3">or</span> this program is being cut so can you</p>
+<p begin="00:26:39.890" end="00:26:44.570" style="s2">tell ask them to justify what it is that</p>
+<p begin="00:26:42.440" end="00:26:47.000" style="s2">they&#39;re doing about that<span style="s3"> program</span> so I&#39;ll</p>
+<p begin="00:26:44.570" end="00:26:49.490" style="s2">pass out questions to the<span style="s4"> alderman</span> just</p>
+<p begin="00:26:47.000" end="00:26:52.590" style="s2">to help help them understand what them</p>
+<p begin="00:26:49.490" end="00:27:08.039" style="s2">practice would you have a<span style="s3"> question</span></p>
+<p begin="00:26:52.590" end="00:27:12.360" style="s2">oh why buildin path ah well<span style="s3"> I&#39;ll</span> tell</p>
+<p begin="00:27:08.039" end="00:27:19.860" style="s2">you this the period craziest thing is um</p>
+<p begin="00:27:12.360" end="00:27:23.520" style="s2">I I had someone who I asked about voting</p>
+<p begin="00:27:19.860" end="00:27:26.429" style="s2">on something and they came they signed</p>
+<p begin="00:27:23.520" end="00:27:29.190" style="s2">on and then came and told me<span style="s3"> okay</span> I</p>
+<p begin="00:27:26.429" end="00:27:32.190" style="s2">signed on to your bill I&#39;m going<span style="s3"> to need</span></p>
+<p begin="00:27:29.190" end="00:27:34.440" style="s2">your<span style="s3"> help</span><span style="s4"> I&#39;m</span><span style="s3"> running</span> for you know</p>
+<p begin="00:27:32.190" end="00:27:39.870" style="s2">office and I need your financial support</p>
+<p begin="00:27:34.440" end="00:27:45.510" style="s2">in<span style="s3"> City Hall like not okay on multiple</span></p>
+<p begin="00:27:39.870" end="00:27:48.210" style="s2">levels but it&#39;s um given the history and</p>
+<p begin="00:27:45.510" end="00:27:51.480" style="s2">even there&#39;s been indictments since I&#39;ve</p>
+<p begin="00:27:48.210" end="00:27:53.940" style="s2">been around like you should know there&#39;s</p>
+<p begin="00:27:51.480" end="00:27:57.230" style="s2">I mean<span style="s4"> there&#39;s</span> ways to ask me for<span style="s3"> money</span></p>
+<p begin="00:27:53.940" end="00:27:59.940" style="s2">and it&#39;s<span style="s3"> completely</span> legal but perhaps</p>
+<p begin="00:27:57.230" end="00:28:02.279" style="s2">doing it at City Hall right<span style="s3"> after</span> you</p>
+<p begin="00:27:59.940" end="00:28:04.500" style="s2">signed on to a bill and saying that</p>
+<p begin="00:28:02.279" end="00:28:11.549" style="s2">that&#39;s why you signed on to my bill<span style="s4"> is</span></p>
+<p begin="00:28:04.500" end="00:28:14.039" style="s2">not<span style="s3"> a</span> good idea yeah you face a lot of</p>
+<p begin="00:28:11.549" end="00:28:15.929" style="s2">opposition or oxygen money in particular</p>
+<p begin="00:28:14.039" end="00:28:21.029" style="s2">when you were working on passing the PTA</p>
+<p begin="00:28:15.929" end="00:28:22.649" style="s2">oh um no not really<span style="s3"> I</span> mean<span style="s3"> I</span> think and</p>
+<p begin="00:28:21.029" end="00:28:24.870" style="s2">can everybody hear the question the</p>
+<p begin="00:28:22.649" end="00:28:28.559" style="s2">question was was their opposition money</p>
+<p begin="00:28:24.870" end="00:28:30.120" style="s2">or opposition organized opposition when</p>
+<p begin="00:28:28.559" end="00:28:35.340" style="s2">we were trying<span style="s4"> to</span> pass the privatization</p>
+<p begin="00:28:30.120" end="00:28:38.940" style="s2"><span style="s3">ordinance</span> they the problem was<span style="s3"> I</span> think</p>
+<p begin="00:28:35.340" end="00:28:41.580" style="s2">most<span style="s3"> city council bills there&#39;s not</span> a</p>
+<p begin="00:28:38.940" end="00:28:43.860" style="s2">lot that are contentious in like the</p>
+<p begin="00:28:41.580" end="00:28:47.549" style="s2">sense of there&#39;s two warring factions</p>
+<p begin="00:28:43.860" end="00:28:51.539" style="s2">and like that&#39;s not so much or at least</p>
+<p begin="00:28:47.549" end="00:28:55.169" style="s2"><span style="s3">not</span> as much as Springfield but</p>
+<p begin="00:28:51.539" end="00:28:59.279" style="s2"><span style="s4">oftentimes</span> it&#39;s<span style="s3"> just</span> that people put out</p>
+<p begin="00:28:55.169" end="00:29:02.460" style="s2">ideas and then nothing happens so the</p>
+<p begin="00:28:59.279" end="00:29:05.940" style="s2">fight for us was to keep it relevant on</p>
+<p begin="00:29:02.460" end="00:29:06.540" style="s2">people&#39;s minds and keep<span style="s3"> people</span> from</p>
+<p begin="00:29:05.940" end="00:29:10.410" style="s2">thinking</p>
+<p begin="00:29:06.540" end="00:29:12.420" style="s2">that it was dead um and and so that was</p>
+<p begin="00:29:10.410" end="00:29:16.740" style="s2">the biggest thing and the<span style="s4"> reason</span> was</p>
+<p begin="00:29:12.420" end="00:29:20.250" style="s2">because there was no movement and the</p>
+<p begin="00:29:16.740" end="00:29:24.180" style="s2">administration wanted<span style="s4"> to</span> wait for<span style="s4"> the</span></p>
+<p begin="00:29:20.250" end="00:29:26.700" style="s2"><span style="s4">right</span> time or you know I mean and I</p>
+<p begin="00:29:24.180" end="00:29:31.670" style="s2">think they<span style="s4"> wanted to see a fit if it</span></p>
+<p begin="00:29:26.700" end="00:29:34.770" style="s2">would just go away there was a lot of</p>
+<p begin="00:29:31.670" end="00:29:39.360" style="s2">discussion during the negotiations about</p>
+<p begin="00:29:34.770" end="00:29:41.520" style="s2">what was feasible to expect and<span style="s3"> you</span> know</p>
+<p begin="00:29:39.360" end="00:29:45.180" style="s2">we had a kind<span style="s3"> of</span> low threshold when we</p>
+<p begin="00:29:41.520" end="00:29:47.700" style="s2">first started<span style="s3"> and</span> there was questions</p>
+<p begin="00:29:45.180" end="00:29:51.030" style="s2">about whether that was a good<span style="s4"> thing</span></p>
+<p begin="00:29:47.700" end="00:29:53.310" style="s2">whether we should you know construction</p>
+<p begin="00:29:51.030" end="00:29:54.450" style="s2">projects would fall under that whether</p>
+<p begin="00:29:53.310" end="00:29:56.250" style="s2">there should be a different threshold</p>
+<p begin="00:29:54.450" end="00:29:59.160" style="s2">for them or whether they should be</p>
+<p begin="00:29:56.250" end="00:30:01.290" style="s2">exempted so there was a lot of back and</p>
+<p begin="00:29:59.160" end="00:30:04.710" style="s2">forth about things once we got to the</p>
+<p begin="00:30:01.290" end="00:30:07.170" style="s2">table but it was keeping<span style="s3"> it</span> relevant and</p>
+<p begin="00:30:04.710" end="00:30:11.520" style="s2">keeping people from thinking oh that&#39;s</p>
+<p begin="00:30:07.170" end="00:30:13.620" style="s2">that&#39;s<span style="s3"> not</span> happening that that<span style="s3"> was</span> a big</p>
+<p begin="00:30:11.520" end="00:30:15.750" style="s2">problem<span style="s3"> and</span> I mean there&#39;s a lot<span style="s4"> of</span></p>
+<p begin="00:30:13.620" end="00:30:19.640" style="s2">stuff<span style="s4"> that</span> gets introduced in<span style="s3"> City</span></p>
+<p begin="00:30:15.750" end="00:30:24.270" style="s2"><span style="s3">Council</span> some of it good some of it</p>
+<p begin="00:30:19.640" end="00:30:26.040" style="s2">random but a lot of stuff just ends up</p>
+<p begin="00:30:24.270" end="00:30:28.170" style="s2">in rules or even gets<span style="s4"> sent to a</span></p>
+<p begin="00:30:26.040" end="00:30:30.240" style="s2">committee<span style="s3"> and</span> just doesn&#39;t<span style="s3"> ever</span> get</p>
+<p begin="00:30:28.170" end="00:30:34.230" style="s2">heard there&#39;s a<span style="s3"> lot</span> of stuff<span style="s4"> that</span> gets</p>
+<p begin="00:30:30.240" end="00:30:36.600" style="s2">it&#39;s just<span style="s3"> sitting</span> in committee so so</p>
+<p begin="00:30:34.230" end="00:30:40.680" style="s2">that&#39;s the big<span style="s3"> problem</span> some of it</p>
+<p begin="00:30:36.600" end="00:30:44.820" style="s2">personally some people just<span style="s4"> introduced</span></p>
+<p begin="00:30:40.680" end="00:30:49.700" style="s2">legislation may be a good<span style="s3"> idea</span> but may</p>
+<p begin="00:30:44.820" end="00:30:52.140" style="s2">not really<span style="s3"> work</span> it and so you have five</p>
+<p begin="00:30:49.700" end="00:30:55.320" style="s2">people that sit closest to you sign a</p>
+<p begin="00:30:52.140" end="00:30:57.600" style="s2">bill and it gets assigned to a committee</p>
+<p begin="00:30:55.320" end="00:31:00.720" style="s2">but it&#39;s not<span style="s3"> getting</span> hurt then people</p>
+<p begin="00:30:57.600" end="00:31:03.660" style="s2">aren&#39;t trying<span style="s3"> to</span> get more co-sponsors or</p>
+<p begin="00:31:00.720" end="00:31:05.970" style="s2">doing press or a lot of the legwork that</p>
+<p begin="00:31:03.660" end="00:31:09.210" style="s2">it takes to actually get the<span style="s3"> thing</span></p>
+<p begin="00:31:05.970" end="00:31:12.420" style="s2">passed so that&#39;s why a lot of things SE</p>
+<p begin="00:31:09.210" end="00:31:13.890" style="s2">fala<span style="s3"> to</span> it&#39;s not necessarily a malicious</p>
+<p begin="00:31:12.420" end="00:31:15.270" style="s2">thing but just since it didn&#39;t</p>
+<p begin="00:31:13.890" end="00:31:19.580" style="s2">automatically go through the process</p>
+<p begin="00:31:15.270" end="00:31:24.080" style="s2">it&#39;s not<span style="s3"> it&#39;s</span><span style="s4"> not</span> being debated</p>
+<p begin="00:31:19.580" end="00:31:27.260" style="s2">yeah do you think that the<span style="s4"> City</span> Council</p>
+<p begin="00:31:24.080" end="00:31:30.620" style="s2">members might be receptive<span style="s4"> to</span> something</p>
+<p begin="00:31:27.260" end="00:31:32.420" style="s2"><span style="s3">from</span> us that that<span style="s3"> helps</span> them kind<span style="s3"> of</span> sit</p>
+<p begin="00:31:30.620" end="00:31:33.590" style="s2">for information or something that<span style="s3"> they</span></p>
+<p begin="00:31:32.420" end="00:31:35.720" style="s2">would either be a resource that they</p>
+<p begin="00:31:33.590" end="00:31:38.900" style="s2">could use it they could like post or</p>
+<p begin="00:31:35.720" end="00:31:42.530" style="s2">have<span style="s3"> posted</span><span style="s4"> more</span> constituents<span style="s3"> or</span></p>
+<p begin="00:31:38.900" end="00:31:48.200" style="s2">something absolutely I so I think<span style="s3"> one</span></p>
+<p begin="00:31:42.530" end="00:31:49.970" style="s2">pagers are God like like that&#39;s that&#39;s</p>
+<p begin="00:31:48.200" end="00:31:53.870" style="s2">only way you&#39;re going to get people that</p>
+<p begin="00:31:49.970" end="00:31:57.320" style="s2"><span style="s3">like</span> even really start to look at what</p>
+<p begin="00:31:53.870" end="00:31:59.750" style="s2">you&#39;re talking about I&#39;d say sit<span style="s4"> down</span></p>
+<p begin="00:31:57.320" end="00:32:02.080" style="s2">and have a few targeted meetings with</p>
+<p begin="00:31:59.750" end="00:32:05.050" style="s2">people that might be interested in</p>
+<p begin="00:32:02.080" end="00:32:08.060" style="s2">whatever it is that you&#39;re working on</p>
+<p begin="00:32:05.050" end="00:32:10.760" style="s2">either based off of who your alderman is</p>
+<p begin="00:32:08.060" end="00:32:14.360" style="s2">or if they&#39;ve expressed interest in an</p>
+<p begin="00:32:10.760" end="00:32:17.150" style="s2">issue before so that you have like a</p>
+<p begin="00:32:14.360" end="00:32:18.950" style="s2">champion someone that<span style="s3"> can</span> advocate for</p>
+<p begin="00:32:17.150" end="00:32:21.950" style="s2">you that can be<span style="s4"> a</span> resource for other</p>
+<p begin="00:32:18.950" end="00:32:26.600" style="s2">Alderman&#39;s to talk to them about it or</p>
+<p begin="00:32:21.950" end="00:32:28.940" style="s2"><span style="s3">even</span> to say hey I talked to alderman X</p>
+<p begin="00:32:26.600" end="00:32:31.580" style="s2">their work I I worked with them to help</p>
+<p begin="00:32:28.940" end="00:32:35.540" style="s2">them understand why data is important</p>
+<p begin="00:32:31.580" end="00:32:38.090" style="s2">and now they have<span style="s3"> a</span> link to this open</p>
+<p begin="00:32:35.540" end="00:32:41.480" style="s2">source whatever on their site you can go</p>
+<p begin="00:32:38.090" end="00:32:43.880" style="s2">look and and just having an example of</p>
+<p begin="00:32:41.480" end="00:32:47.630" style="s2">it&#39;s been done somebody else did<span style="s4"> it</span></p>
+<p begin="00:32:43.880" end="00:32:50.330" style="s2">before it&#39;s not the revolution like</p>
+<p begin="00:32:47.630" end="00:32:53.300" style="s2">we&#39;ll just help that get<span style="s3"> that</span> process</p>
+<p begin="00:32:50.330" end="00:32:55.250" style="s2">started and if there&#39;s something</p>
+<p begin="00:32:53.300" end="00:32:57.380" style="s2">specific we can talk afterwards and I</p>
+<p begin="00:32:55.250" end="00:33:04.060" style="s2">can maybe tell you like oh I think<span style="s4"> this</span></p>
+<p begin="00:32:57.380" end="00:33:04.060" style="s2">alderman would be willing to do that yep</p>
+<p begin="00:33:06.500" end="00:33:09.530" style="s2">calm down</p>
+<p begin="00:33:09.960" end="00:33:18.880" style="s2">yes<span style="s3"> I</span> do think the alderman could do</p>
+<p begin="00:33:13.810" end="00:33:21.490" style="s2">stuff um I I mean so I worked for a city</p>
+<p begin="00:33:18.880" end="00:33:26.560" style="s2">councilperson Atlanta when I was<span style="s3"> in</span></p>
+<p begin="00:33:21.490" end="00:33:30.040" style="s2">college and<span style="s3"> then</span> I I lived in Minnesota</p>
+<p begin="00:33:26.560" end="00:33:32.290" style="s2">during grad school so like the City</p>
+<p begin="00:33:30.040" end="00:33:35.800" style="s2">Council experiences I had before<span style="s4"> or</span> a</p>
+<p begin="00:33:32.290" end="00:33:37.810" style="s2">little different but um and I<span style="s3"> think</span></p>
+<p begin="00:33:35.800" end="00:33:40.300" style="s2">there&#39;s not so much of a culture of</p>
+<p begin="00:33:37.810" end="00:33:44.560" style="s2">doing it here but I do think it&#39;s</p>
+<p begin="00:33:40.300" end="00:33:47.950" style="s2">possible I just think that it&#39;s helpful</p>
+<p begin="00:33:44.560" end="00:33:52.020" style="s2">it depends on who you are<span style="s4"> going</span><span style="s3"> to</span> and<span style="s3"> I</span></p>
+<p begin="00:33:47.950" end="00:33:55.240" style="s2">would<span style="s3"> say</span> choose your sponsor carefully</p>
+<p begin="00:33:52.020" end="00:33:57.460" style="s2">and that&#39;s you know<span style="s4"> even</span> in Springfield</p>
+<p begin="00:33:55.240" end="00:34:01.300" style="s2">where there&#39;s more of a culture of doing</p>
+<p begin="00:33:57.460" end="00:34:04.750" style="s2">that who&#39;s your sponsor carefully be</p>
+<p begin="00:34:01.300" end="00:34:08.250" style="s2">very clear of what your expectations are</p>
+<p begin="00:34:04.750" end="00:34:13.150" style="s2">have a plan so you can help<span style="s3"> guide</span> them</p>
+<p begin="00:34:08.250" end="00:34:16.570" style="s2">have grassroots support so that it&#39;s</p>
+<p begin="00:34:13.150" end="00:34:18.310" style="s2">more than just<span style="s3"> one</span> person coming and</p>
+<p begin="00:34:16.570" end="00:34:20.230" style="s2">talking<span style="s3"> to</span> them about it make sure</p>
+<p begin="00:34:18.310" end="00:34:23.020" style="s2">they&#39;re hearing about it from different</p>
+<p begin="00:34:20.230" end="00:34:27.130" style="s2"><span style="s4">places</span> find out who it<span style="s3"> is</span> they listened</p>
+<p begin="00:34:23.020" end="00:34:30.610" style="s2"><span style="s4">to</span> I&#39;d say probably in each<span style="s4"> Ward</span> there&#39;s</p>
+<p begin="00:34:27.130" end="00:34:33.250" style="s2"><span style="s3">one</span> organization that an alderman really</p>
+<p begin="00:34:30.610" end="00:34:34.830" style="s2">cares about late and there may be more</p>
+<p begin="00:34:33.250" end="00:34:36.970" style="s2">than one but<span style="s3"> there&#39;s</span> at least one</p>
+<p begin="00:34:34.830" end="00:34:40.419" style="s2">organization<span style="s4"> and</span> an alderman really</p>
+<p begin="00:34:36.970" end="00:34:42.910" style="s2">cares about so if that organization is</p>
+<p begin="00:34:40.419" end="00:34:44.590" style="s2">making something<span style="s3"> an issue or it relates</span></p>
+<p begin="00:34:42.910" end="00:34:48.120" style="s2"><span style="s3">to</span> that organization would be beneficial</p>
+<p begin="00:34:44.590" end="00:34:52.000" style="s2">to that organization then that&#39;s helpful</p>
+<p begin="00:34:48.120" end="00:34:53.679" style="s2">it&#39;s just a<span style="s3"> matter</span> of I think<span style="s3"> getting</span> a</p>
+<p begin="00:34:52.000" end="00:34:56.200" style="s2">couple of<span style="s3"> things</span> in place I mean it&#39;s</p>
+<p begin="00:34:53.679" end="00:34:58.990" style="s2">always easier if you&#39;re willing to<span style="s4"> do</span> a</p>
+<p begin="00:34:56.200" end="00:35:02.860" style="s2">lot<span style="s4"> of</span> the legwork and the alderman can</p>
+<p begin="00:34:58.990" end="00:35:04.390" style="s2">just get plugged into the process but i</p>
+<p begin="00:35:02.860" end="00:35:08.740" style="s2">don&#39;t i don&#39;t think it&#39;s impossible and</p>
+<p begin="00:35:04.390" end="00:35:12.840" style="s2"><span style="s3">i</span> say<span style="s4"> that</span> even only<span style="s3"> having</span> dumb one big</p>
+<p begin="00:35:08.740" end="00:35:16.180" style="s2">one bill basically in the time though<span style="s4"> i</span></p>
+<p begin="00:35:12.840" end="00:35:19.420" style="s2">I&#39;ve been<span style="s3"> lobbying City Council</span> for over</p>
+<p begin="00:35:16.180" end="00:35:22.470" style="s2">five years now but I just<span style="s4"> think it it</span></p>
+<p begin="00:35:19.420" end="00:35:24.300" style="s2">also depends on<span style="s3"> the</span> issue because ever</p>
+<p begin="00:35:22.470" end="00:35:26.940" style="s2">issue you&#39;re going to come<span style="s3"> up</span> against</p>
+<p begin="00:35:24.300" end="00:35:29.130" style="s2">isn&#39;t isn&#39;t the administration it&#39;s not</p>
+<p begin="00:35:26.940" end="00:35:32.280" style="s2">going to be opposed to<span style="s4"> it</span> and the</p>
+<p begin="00:35:29.130" end="00:35:34.980" style="s2">administration could see that<span style="s3"> this</span></p>
+<p begin="00:35:32.280" end="00:35:36.810" style="s2">alderman<span style="s3"> is</span> proposing an issue and say</p>
+<p begin="00:35:34.980" end="00:35:38.849" style="s2">I&#39;d<span style="s4"> like</span> to be a part of that<span style="s3"> and</span> then</p>
+<p begin="00:35:36.810" end="00:35:41.849" style="s2">that makes your pathway that much<span style="s3"> easier</span></p>
+<p begin="00:35:38.849" end="00:35:57.720" style="s2">so it<span style="s4"> just</span> depends<span style="s3"> on</span> what it<span style="s3"> is</span> but I</p>
+<p begin="00:35:41.849" end="00:36:00.869" style="s2">think it&#39;s<span style="s4"> absolutely</span> possible there<span style="s3"> is</span></p>
+<p begin="00:35:57.720" end="00:36:02.609" style="s2">a procedure and so we looked at this and</p>
+<p begin="00:36:00.869" end="00:36:05.300" style="s2">then the Progressive Caucus a couple</p>
+<p begin="00:36:02.609" end="00:36:07.290" style="s2"><span style="s3">years</span> ago tried to use said procedure</p>
+<p begin="00:36:05.300" end="00:36:08.880" style="s2">technically in the rules of the council</p>
+<p begin="00:36:07.290" end="00:36:12.869" style="s2">which are<span style="s4"> actually</span> really short just</p>
+<p begin="00:36:08.880" end="00:36:15.000" style="s2">like two pages of rules um<span style="s3"> after</span> 60 days</p>
+<p begin="00:36:12.869" end="00:36:17.580" style="s2">something&#39;s supposed to move out<span style="s4"> of</span></p>
+<p begin="00:36:15.000" end="00:36:21.930" style="s2">committee there&#39;s no enforcement</p>
+<p begin="00:36:17.580" end="00:36:27.290" style="s2">mechanism in the<span style="s3"> city</span><span style="s4"> council</span> rules the</p>
+<p begin="00:36:21.930" end="00:36:31.680" style="s2">option is rule 41 which to my knowledge</p>
+<p begin="00:36:27.290" end="00:36:33.270" style="s2">hasn&#39;t been successful at least in the</p>
+<p begin="00:36:31.680" end="00:36:38.190" style="s2">time that I&#39;ve been here is never<span style="s3"> been</span></p>
+<p begin="00:36:33.270" end="00:36:41.640" style="s2">successful<span style="s4"> so</span> a couple of years<span style="s4"> ago</span><span style="s3"> on</span></p>
+<p begin="00:36:38.190" end="00:36:44.310" style="s2">the TIF ordinance 88 if ordinance</p>
+<p begin="00:36:41.640" end="00:36:48.320" style="s2">there&#39;s many variations and then the</p>
+<p begin="00:36:44.310" end="00:36:52.550" style="s2">elected school board ordinance a</p>
+<p begin="00:36:48.320" end="00:36:56.550" style="s2">Progressive Caucus tried to do rule 41</p>
+<p begin="00:36:52.550" end="00:37:03.690" style="s2">to get those things move from committee</p>
+<p begin="00:36:56.550" end="00:37:07.770" style="s2">and it did not work it&#39;s failed fairly</p>
+<p begin="00:37:03.690" end="00:37:10.109" style="s2">badly I think elected school board might</p>
+<p begin="00:37:07.770" end="00:37:14.070" style="s2">have gotten 12 votes somewhere around</p>
+<p begin="00:37:10.109" end="00:37:18.119" style="s2">there so<span style="s4"> that</span> was there<span style="s4"> was</span> a</p>
+<p begin="00:37:14.070" end="00:37:21.030" style="s2"><span style="s3">conversation with one</span><span style="s4"> gung-ho</span><span style="s3"> person</span></p>
+<p begin="00:37:18.119" end="00:37:22.980" style="s2">who&#39;s no longer in<span style="s4"> Council</span> who wanted<span style="s4"> to</span></p>
+<p begin="00:37:21.030" end="00:37:26.040" style="s2">do the<span style="s3"> same</span> thing with the privatization</p>
+<p begin="00:37:22.980" end="00:37:30.450" style="s2">ordinance because you know they felt</p>
+<p begin="00:37:26.040" end="00:37:32.070" style="s2"><span style="s4">like</span><span style="s3"> it</span> was you<span style="s4"> know</span><span style="s3"> it</span> was a perfect</p>
+<p begin="00:37:30.450" end="00:37:35.040" style="s2">issue to call the mayor out on</p>
+<p begin="00:37:32.070" end="00:37:36.270" style="s2">privatization and let&#39;s have these</p>
+<p begin="00:37:35.040" end="00:37:38.340" style="s2">people put on<span style="s3"> the</span> record</p>
+<p begin="00:37:36.270" end="00:37:44.220" style="s2">or that that they&#39;re against</p>
+<p begin="00:37:38.340" end="00:37:47.040" style="s2">privatization well it never happens and</p>
+<p begin="00:37:44.220" end="00:37:49.350" style="s2">it is it really does become about in</p>
+<p begin="00:37:47.040" end="00:37:51.390" style="s2">that sense are you with this</p>
+<p begin="00:37:49.350" end="00:37:56.780" style="s2">constituency group are you with the</p>
+<p begin="00:37:51.390" end="00:38:00.690" style="s2">mayor and the<span style="s4"> boats</span> aren&#39;t there for and</p>
+<p begin="00:37:56.780" end="00:38:04.230" style="s2">then your ordinance or issue is</p>
+<p begin="00:38:00.690" end="00:38:09.990" style="s2">effectively dead so that&#39;s why<span style="s3"> people</span></p>
+<p begin="00:38:04.230" end="00:38:11.940" style="s2">don&#39;t use it I am at every city council</p>
+<p begin="00:38:09.990" end="00:38:14.250" style="s2">meeting that doesn&#39;t conflict with</p>
+<p begin="00:38:11.940" end="00:38:18.020" style="s2">Springfield so next week I won&#39;t<span style="s3"> be</span></p>
+<p begin="00:38:14.250" end="00:38:21.420" style="s2">there<span style="s4"> i&#39;ll be in springfield if there&#39;s</span></p>
+<p begin="00:38:18.020" end="00:38:24.750" style="s2"><span style="s3">something</span> big we&#39;re pushing then i can</p>
+<p begin="00:38:21.420" end="00:38:27.780" style="s2">choose to say that for City Council but</p>
+<p begin="00:38:24.750" end="00:38:30.810" style="s2">it&#39;s just been so hectic with the state</p>
+<p begin="00:38:27.780" end="00:38:36.660" style="s2"><span style="s3">that</span> the state has trumped<span style="s3"> City Council</span></p>
+<p begin="00:38:30.810" end="00:38:40.800" style="s2">for<span style="s4"> for</span> maybe last year or so<span style="s3"> I</span> testify</p>
+<p begin="00:38:36.660" end="00:38:42.650" style="s2">on every budget hearing the public</p>
+<p begin="00:38:40.800" end="00:38:46.440" style="s2">hearing that they have at City Hall</p>
+<p begin="00:38:42.650" end="00:38:48.360" style="s2">which is it&#39;s always<span style="s4"> fun</span><span style="s3"> someone&#39;s</span> from</p>
+<p begin="00:38:46.440" end="00:38:50.010" style="s2">in your office is here so maybe they</p>
+<p begin="00:38:48.360" end="00:38:53.130" style="s2">have some insight on who gets to go</p>
+<p begin="00:38:50.010" end="00:38:55.500" style="s2">first or not but but it doesn&#39;t matter</p>
+<p begin="00:38:53.130" end="00:38:57.630" style="s2">when you when you sign in<span style="s4"> Lawrence</span></p>
+<p begin="00:38:55.500" end="00:39:00.960" style="s2">mosaul from the Civic Federation is</p>
+<p begin="00:38:57.630" end="00:39:03.720" style="s2">always first and talks really long time</p>
+<p begin="00:39:00.960" end="00:39:06.120" style="s2">and<span style="s4"> then</span> a lot<span style="s4"> of the</span><span style="s3"> aldermen</span> leave one</p>
+<p begin="00:39:03.720" end="00:39:10.410" style="s2">year I you got<span style="s4"> to beat one year I was</span></p>
+<p begin="00:39:06.120" end="00:39:12.660" style="s2">stirred and I was like yes<span style="s4"> yeah</span> and then</p>
+<p begin="00:39:10.410" end="00:39:14.850" style="s2">those that was a year before last and</p>
+<p begin="00:39:12.660" end="00:39:17.430" style="s2">then this<span style="s3"> year</span><span style="s4"> I</span> was second to last week</p>
+<p begin="00:39:14.850" end="00:39:20.030" style="s2">and I<span style="s3"> was</span> like damn it like what what do</p>
+<p begin="00:39:17.430" end="00:39:25.260" style="s2"><span style="s3">we</span> do but we were fighting on those uh</p>
+<p begin="00:39:20.030" end="00:39:28.980" style="s2">the 311 privatization so usually when<span style="s3"> I</span></p>
+<p begin="00:39:25.260" end="00:39:32.580" style="s2">testified there&#39;s only a few alderman</p>
+<p begin="00:39:28.980" end="00:39:37.410" style="s2">there so but but yes I do it every year</p>
+<p begin="00:39:32.580" end="00:39:39.120" style="s2"><span style="s3">and</span> most of the time and like I</p>
+<p begin="00:39:37.410" end="00:39:42.330" style="s2">testified on<span style="s3"> the</span> privatization ordinance</p>
+<p begin="00:39:39.120" end="00:39:46.710" style="s2">when it came up in committee um usually</p>
+<p begin="00:39:42.330" end="00:39:49.890" style="s2">we try and have members testified to</p>
+<p begin="00:39:46.710" end="00:39:51.450" style="s2">like very specific issues and I</p>
+<p begin="00:39:49.890" end="00:39:53.670" style="s2">usually testify if it&#39;s like a broad</p>
+<p begin="00:39:51.450" end="00:39:56.460" style="s2">overview type thing where the budget we</p>
+<p begin="00:39:53.670" end="00:40:00.120" style="s2">have you know a bunch of members that</p>
+<p begin="00:39:56.460" end="00:40:02.550" style="s2">are impacted but<span style="s3"> maybe we had this year</span></p>
+<p begin="00:40:00.120" end="00:40:05.310" style="s2">we also<span style="s3"> had</span> taxi drivers who were</p>
+<p begin="00:40:02.550" end="00:40:07.980" style="s2">organizing testify on some of those</p>
+<p begin="00:40:05.310" end="00:40:10.710" style="s2">provisions to talk specifically about</p>
+<p begin="00:40:07.980" end="00:40:14.990" style="s2">the<span style="s3"> impact</span> on them but I gave a broad</p>
+<p begin="00:40:10.710" end="00:40:17.970" style="s2">kind of sense of<span style="s3"> what</span> was going<span style="s4"> on</span> I</p>
+<p begin="00:40:14.990" end="00:40:22.290" style="s2">don&#39;t<span style="s4"> like</span> to<span style="s3"> speak</span> in public<span style="s3"> actually</span></p>
+<p begin="00:40:17.970" end="00:40:27.360" style="s2">and I I prefer just like talking<span style="s3"> to</span> the</p>
+<p begin="00:40:22.290" end="00:40:30.840" style="s2"><span style="s3">alderman and I don&#39;t do pacified it</span></p>
+<p begin="00:40:27.360" end="00:40:32.670" style="s2">don&#39;t have to we<span style="s3"> have</span> a press person for</p>
+<p begin="00:40:30.840" end="00:40:36.180" style="s2">that and it&#39;s always<span style="s3"> better</span> I think I&#39;m</p>
+<p begin="00:40:32.670" end="00:40:38.640" style="s2">more effective to have the members speak</p>
+<p begin="00:40:36.180" end="00:40:40.860" style="s2">and tell because they can tell things so</p>
+<p begin="00:40:38.640" end="00:40:44.340" style="s2">much better than I<span style="s3"> can</span> i mean i can say</p>
+<p begin="00:40:40.860" end="00:40:48.600" style="s2">during the health clinic closure fight</p>
+<p begin="00:40:44.340" end="00:40:51.180" style="s2">you know i&#39;m speaking on behalf of miss</p>
+<p begin="00:40:48.600" end="00:40:55.380" style="s2">lula who worked here since she was 19</p>
+<p begin="00:40:51.180" end="00:40:57.000" style="s2">and is now in her 60s and this is why</p>
+<p begin="00:40:55.380" end="00:40:59.880" style="s2">she cares so much about the<span style="s4"> clinic</span> but</p>
+<p begin="00:40:57.000" end="00:41:03.740" style="s2">it&#39;s way better if miss Lulu goes</p>
+<p begin="00:40:59.880" end="00:41:03.740" style="s2">herself so</p>
+<p begin="00:41:10.490" end="00:41:18.780" style="s2">yeah it&#39;s hard there&#39;s no easy answer to</p>
+<p begin="00:41:14.280" end="00:41:20.460" style="s2">that question honestly<span style="s4"> I</span> think one thing</p>
+<p begin="00:41:18.780" end="00:41:24.780" style="s2">that&#39;s helped me kind<span style="s3"> of</span> figure that out</p>
+<p begin="00:41:20.460" end="00:41:28.250" style="s2">is one of the one of<span style="s3"> the</span> advantages i</p>
+<p begin="00:41:24.780" end="00:41:31.830" style="s2">have is doing city county and state</p>
+<p begin="00:41:28.250" end="00:41:35.220" style="s2">because I<span style="s3"> kind</span> of see who&#39;s playing in</p>
+<p begin="00:41:31.830" end="00:41:39.330" style="s2">all the spaces so I mean it&#39;s<span style="s3"> going</span> to</p>
+<p begin="00:41:35.220" end="00:41:42.350" style="s2">pick on Logan Square Logan Square</p>
+<p begin="00:41:39.330" end="00:41:44.700" style="s2">neighborhood association is everywhere</p>
+<p begin="00:41:42.350" end="00:41:46.020" style="s2">everywhere I mean they&#39;re doing a lot of</p>
+<p begin="00:41:44.700" end="00:41:47.640" style="s2">grassroots stuff they&#39;re working on</p>
+<p begin="00:41:46.020" end="00:41:49.260" style="s2">schools issues they&#39;re down in</p>
+<p begin="00:41:47.640" end="00:41:51.500" style="s2">Springfield talking about grow your own</p>
+<p begin="00:41:49.260" end="00:41:54.570" style="s2">teacher like they&#39;re everywhere and I</p>
+<p begin="00:41:51.500" end="00:41:56.550" style="s2">never lived in Logan Square but I see</p>
+<p begin="00:41:54.570" end="00:42:00.510" style="s2">them everywhere and I know how active</p>
+<p begin="00:41:56.550" end="00:42:02.250" style="s2">they are and I know that aldermen are</p>
+<p begin="00:42:00.510" end="00:42:04.620" style="s2">paying attention<span style="s4"> to</span> what they&#39;re doing</p>
+<p begin="00:42:02.250" end="00:42:06.600" style="s2">and I know that if they get<span style="s3"> involved</span> on</p>
+<p begin="00:42:04.620" end="00:42:09.270" style="s2">the campaign side and even though</p>
+<p begin="00:42:06.600" end="00:42:11.250" style="s2">they&#39;re they&#39;re not technically involved</p>
+<p begin="00:42:09.270" end="00:42:12.920" style="s2">on the campaign side but the moms who</p>
+<p begin="00:42:11.250" end="00:42:15.480" style="s2">are working with Logan Square</p>
+<p begin="00:42:12.920" end="00:42:18.390" style="s2">organization Neighborhood Association</p>
+<p begin="00:42:15.480" end="00:42:21.090" style="s2">are a powerful voice<span style="s3"> in</span> that<span style="s3"> community</span></p>
+<p begin="00:42:18.390" end="00:42:24.570" style="s2">and advocates in that community so it&#39;s</p>
+<p begin="00:42:21.090" end="00:42:30.960" style="s2">from being<span style="s4"> around</span> and seeing seeing them</p>
+<p begin="00:42:24.570" end="00:42:35.220" style="s2">show up I think also it&#39;s miss making</p>
+<p begin="00:42:30.960" end="00:42:38.550" style="s2">missteps so I used to live in 25 and</p>
+<p begin="00:42:35.220" end="00:42:41.850" style="s2">went somewhere and I said so<span style="s3"> Alderman&#39;s</span></p>
+<p begin="00:42:38.550" end="00:42:43.920" style="s2">always like<span style="s3"> Oh</span> Tolson Alliance is signed</p>
+<p begin="00:42:41.850" end="00:42:47.160" style="s2">on he<span style="s3"> was</span> like oh my<span style="s3"> favorites</span> you know</p>
+<p begin="00:42:43.920" end="00:42:49.410" style="s2">like and then then only to find out you</p>
+<p begin="00:42:47.160" end="00:42:50.730" style="s2">know one of their staffers ran against</p>
+<p begin="00:42:49.410" end="00:42:53.790" style="s2">them the next time I mean they have a</p>
+<p begin="00:42:50.730" end="00:42:56.850" style="s2">pretty contentious or you know</p>
+<p begin="00:42:53.790" end="00:42:58.380" style="s2">relationship which I<span style="s3"> found</span> out because I</p>
+<p begin="00:42:56.850" end="00:43:02.220" style="s2">was like oh yeah we<span style="s4"> got</span> a<span style="s3"> Pilsen</span></p>
+<p begin="00:42:58.380" end="00:43:05.960" style="s2">organization on it signed on um so</p>
+<p begin="00:43:02.220" end="00:43:10.140" style="s2">there&#39;s really there&#39;s really no easy</p>
+<p begin="00:43:05.960" end="00:43:14.070" style="s2">answer to it I think it&#39;s also like if</p>
+<p begin="00:43:10.140" end="00:43:18.390" style="s2">you&#39;re in the neighborhood and your you</p>
+<p begin="00:43:14.070" end="00:43:19.850" style="s2">see where your alderman shows up not</p>
+<p begin="00:43:18.390" end="00:43:22.640" style="s2">every alderman</p>
+<p begin="00:43:19.850" end="00:43:26.300" style="s2">I mean some aldermen are incredibly open</p>
+<p begin="00:43:22.640" end="00:43:29.330" style="s2">have ward nights are actually like</p>
+<p begin="00:43:26.300" end="00:43:31.370" style="s2">spending time talking<span style="s3"> to</span> people at their</p>
+<p begin="00:43:29.330" end="00:43:35.510" style="s2">word nights as opposed to<span style="s3"> lake</span> taking</p>
+<p begin="00:43:31.370" end="00:43:38.510" style="s2"><span style="s3">down</span> notes on you know trash alley</p>
+<p begin="00:43:35.510" end="00:43:40.790" style="s2">whatever some of them are like you know</p>
+<p begin="00:43:38.510" end="00:43:43.010" style="s2"><span style="s3">this</span><span style="s4"> is</span> my one night we&#39;re like getting</p>
+<p begin="00:43:40.790" end="00:43:44.660" style="s2">everybody through so you don&#39;t<span style="s3"> it&#39;s</span> for</p>
+<p begin="00:43:43.010" end="00:43:48.710" style="s2">night is your only option<span style="s3"> to</span> meet with</p>
+<p begin="00:43:44.660" end="00:43:51.580" style="s2">them fine but make a meeting oh don&#39;t</p>
+<p begin="00:43:48.710" end="00:43:55.340" style="s2">don&#39;t let them push you toward night um</p>
+<p begin="00:43:51.580" end="00:43:57.620" style="s2">it<span style="s3"> just</span> depends<span style="s3"> like</span> some of them some</p>
+<p begin="00:43:55.340" end="00:44:01.070" style="s2"><span style="s3">of the all dramatic staff is set up in a</span></p>
+<p begin="00:43:57.620" end="00:44:04.400" style="s2">way that they have a policy person on</p>
+<p begin="00:44:01.070" end="00:44:07.670" style="s2">staff and that person<span style="s4"> might</span> be<span style="s3"> able</span> to</p>
+<p begin="00:44:04.400" end="00:44:09.590" style="s2">help you navigate like it are there any</p>
+<p begin="00:44:07.670" end="00:44:12.110" style="s2">important constituencies that<span style="s3"> I</span> need<span style="s4"> to</span></p>
+<p begin="00:44:09.590" end="00:44:13.700" style="s2">be reaching<span style="s3"> out</span> to our are there<span style="s3"> any</span></p>
+<p begin="00:44:12.110" end="00:44:18.110" style="s2">folks that<span style="s4"> the aldermen would like me to</span></p>
+<p begin="00:44:13.700" end="00:44:20.780" style="s2"><span style="s3">have</span> on board and they&#39;ll tell you a lot</p>
+<p begin="00:44:18.110" end="00:44:23.240" style="s2">of<span style="s3"> aldermen</span> don&#39;t have policy<span style="s3"> people</span> so</p>
+<p begin="00:44:20.780" end="00:44:26.000" style="s2">that&#39;s a<span style="s3"> little</span> harder there&#39;s no</p>
+<p begin="00:44:23.240" end="00:44:30.800" style="s2">there&#39;s no easy answer a lot of it</p>
+<p begin="00:44:26.000" end="00:44:32.920" style="s2">varies tremendously by alderman thank</p>
+<p begin="00:44:30.800" end="00:44:32.920" style="s2">you</p>
+<p begin="00:44:36.320" end="00:44:38.380" style="s2">you</p>
+</div>
+</body>
+</tt>
