@@ -60,7 +60,7 @@ def get_authenticated_service():
 
   # Trusted testers can download this discovery document from the developers page
   # and it should be in the same directory with the code.
-  with open("youtube-v3-api-captions.json", "r") as f:
+  with open("youtube-v3-api-captions.json", "r", encoding='utf8') as f:
     doc = f.read()
     return build_from_document(doc, http=credentials.authorize(httplib2.Http()))
 
@@ -84,7 +84,7 @@ def get_playlist_video_id(youtube, playlist_id, **kwargs):
   return results
 
 
-def print_all_pages():
+def collect_all_pages():
     playlist_videos = get_playlist_video_id(youtube, upload_playlist_id)
     print(playlist_videos["nextPageToken"])
     next_page_token =  playlist_videos["nextPageToken"]
@@ -98,41 +98,60 @@ def print_all_pages():
         else:
             next_page_token = next_page['nextPageToken']
     for i in playlist_videos["items"]:
-        print i["contentDetails"]["videoId"]
+        print(i["contentDetails"]["videoId"])
     return playlist_videos
-
 
 
 # Call the API's captions.list method to list the existing caption tracks.
 def get_caption_id(youtube, video_id):
-  results = youtube.captions().list(
-    part="snippet",
-    videoId=video_id
-  ).execute()
-  caption_id = results["items"][0]["id"]
-  return caption_id
+
+    results = youtube.captions().list(
+        part="snippet",
+        videoId=video_id
+    ).execute()
+    try:
+        caption_id = results["items"][0]["id"]
+        print(caption_id)
+        return caption_id
+    except:
+        print("IndexError %s" % video_id)
+        pass
+    #   print(caption_id)
+    #   return caption_id
+
 
 
 
 # Call the API's captions.download method to download an existing caption track.
 def download_caption(youtube, caption_id, tfmt):
-  subtitle = youtube.captions().download(
-    id=caption_id,
-    tfmt=tfmt
-  ).execute()
-  print(subtitle.decode("utf-8"))
-  return subtitle
+    if caption_id is not None:
+
+
+
+        subtitle = youtube.captions().download(
+            id=caption_id,
+            tfmt=tfmt
+          ).execute()
+  #print(subtitle.decode("utf-8"))
+        return subtitle
 
 def write_caption(path_name, object):
-      f = open(path_name, "wb")
-      f.write(object)
-      f.close()
+    if not os.path.exists(path_name):
+        with open(path_name, "wb") as f:
+            f.write(object)
 
 if __name__ == "__main__":
-  youtube = get_authenticated_service()
-  try:
-    upload_playlist_id = get_upload_playlist_id(youtube, channel_id)
-    pages = print_all_pages()
+    youtube = get_authenticated_service()
+    try:
+        upload_playlist_id = get_upload_playlist_id(youtube, channel_id)
+        pages = collect_all_pages()
+        for i in pages["items"]:
+            print(i["contentDetails"]["videoId"])
+            video_id = i["contentDetails"]["videoId"]
+            transcript = download_caption(youtube, get_caption_id(youtube, video_id), 'ttml')
+            write_caption("./transcripts/%s.xml" % video_id , transcript)
+
+
     #playlist_videos = get_playlist_video_id(youtube, upload_playlist_id)
 
     #transcript = download_caption(youtube, get_caption_id(youtube, video_id), 'ttml')
