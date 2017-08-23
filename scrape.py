@@ -8,7 +8,7 @@ from oauth2client.client import flow_from_clientsecrets
 from oauth2client.file import Storage
 from oauth2client.tools import run_flow
 
-videoid="KzMWbC8Hck0"
+videoid="IrPwZ7ejsw8"
 
 
 # The CLIENT_SECRETS_FILE variable specifies the name of a file that contains
@@ -80,13 +80,21 @@ def download_caption(youtube, caption_id, tfmt):
     id=caption_id,
     tfmt=tfmt
   ).execute()
-
   print(subtitle.decode("utf-8"))
+  return subtitle
+
+def write_caption(path_name, object):
+      f = open(path_name, "wb")
+      f.write(object)
+      f.close()
+
+
 
 if __name__ == "__main__":
   youtube = get_authenticated_service()
   try:
-    download_caption(youtube, get_caption_id(youtube, videoid), 'ttml')
+    transcript = download_caption(youtube, get_caption_id(youtube, videoid), 'ttml')
+    write_caption("scraped_file1", transcript)
     # download_caption(youtube, args.captionid, 'ttml') # sbv (plaintext) or ttml (xml)
       # use ttml (xml): parse it and get text + time start/end for each line
   except HttpError as e:
