@@ -104,3 +104,6 @@ ENV/
 *oauth2.json
 client_secrets.json
 Untitled.ipynb
+
+#pycharm IDE
+.idea/
