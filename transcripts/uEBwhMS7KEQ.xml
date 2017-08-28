@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.819" end="00:00:09.690" style="s2">that&#39;s it&#39;s a pleasure<span style="s3"> to</span> be<span style="s3"> here</span><span style="s4"> I</span></p>
+<p begin="00:00:07.020" end="00:00:12.000" style="s2">wasn&#39;t<span style="s3"> expecting</span> this<span style="s4"> sized</span> crowd<span style="s4"> I</span> was</p>
+<p begin="00:00:09.690" end="00:00:13.469" style="s2">expecting<span style="s4"> about</span> 20 people<span style="s4"> I</span> was told</p>
+<p begin="00:00:12.000" end="00:00:16.890" style="s2">there<span style="s4"> were</span> going<span style="s3"> to</span><span style="s4"> be</span><span style="s3"> about</span> 20 people</p>
+<p begin="00:00:13.469" end="00:00:18.990" style="s2"><span style="s3">so</span> this<span style="s3"> is</span> fantastic<span style="s4"> thank</span> you so<span style="s3"> much</span></p>
+<p begin="00:00:16.890" end="00:00:19.800" style="s2">for the<span style="s4"> opportunity</span> I have<span style="s4"> to</span> figure</p>
+<p begin="00:00:18.990" end="00:00:26.099" style="s2"><span style="s4">this</span> out</p>
+<p begin="00:00:19.800" end="00:00:28.170" style="s2">space<span style="s3"> space constraints so why Chicago</span></p>
+<p begin="00:00:26.099" end="00:00:30.029" style="s2"><span style="s3">foundation</span> for women who we are and what</p>
+<p begin="00:00:28.170" end="00:00:34.770" style="s2"><span style="s3">we</span> do<span style="s3"> how</span> many<span style="s4"> of you&#39;ve heard of</span><span style="s3"> us</span></p>
+<p begin="00:00:30.029" end="00:00:37.050" style="s2"><span style="s4">before</span> this very<span style="s3"> good</span><span style="s4"> a</span> few<span style="s3"> men</span> in<span style="s4"> the</span></p>
+<p begin="00:00:34.770" end="00:00:38.510" style="s2"><span style="s3">room and not that many</span><span style="s4"> women</span> who know</p>
+<p begin="00:00:37.050" end="00:00:42.390" style="s2">about<span style="s3"> us</span> this<span style="s4"> is very surprising</span></p>
+<p begin="00:00:38.510" end="00:00:45.030" style="s2"><span style="s4">nevertheless</span><span style="s3"> that&#39;s perfect</span><span style="s4"> for</span> what I&#39;m</p>
+<p begin="00:00:42.390" end="00:00:47.789" style="s2"><span style="s4">gonna</span><span style="s3"> talk</span><span style="s4"> about</span> so just<span style="s4"> a</span> little<span style="s3"> bit</span></p>
+<p begin="00:00:45.030" end="00:00:51.510" style="s2">about who<span style="s4"> we are and what we do and why</span></p>
+<p begin="00:00:47.789" end="00:00:54.870" style="s2">we do what<span style="s4"> we</span> do<span style="s3"> so</span> what<span style="s3"> we</span> hope<span style="s4"> to</span></p>
+<p begin="00:00:51.510" end="00:00:57.899" style="s2">achieve is<span style="s3"> to</span> build strong<span style="s4"> communities</span></p>
+<p begin="00:00:54.870" end="00:01:03.000" style="s2">for all<span style="s3"> by</span> investing in<span style="s3"> women and girls</span></p>
+<p begin="00:00:57.899" end="00:01:04.710" style="s2"><span style="s3">why</span> women and girls you<span style="s4"> asked</span><span style="s3"> so</span> we</p>
+<p begin="00:01:03.000" end="00:01:06.600" style="s2">believe<span style="s4"> that</span><span style="s3"> when</span> you<span style="s3"> invest in women</span></p>
+<p begin="00:01:04.710" end="00:01:11.520" style="s2">and<span style="s3"> girls</span> you invest in families you</p>
+<p begin="00:01:06.600" end="00:01:14.430" style="s2"><span style="s3">invest</span> in communities<span style="s3"> and just a sense</span></p>
+<p begin="00:01:11.520" end="00:01:18.060" style="s2"><span style="s4">of</span> what what difference does it make if</p>
+<p begin="00:01:14.430" end="00:01:21.060" style="s2">you invest<span style="s4"> in women</span><span style="s3"> let&#39;s</span> let&#39;s<span style="s3"> look</span> at</p>
+<p begin="00:01:18.060" end="00:01:24.780" style="s2">some<span style="s3"> statistics so the cost of</span> violence</p>
+<p begin="00:01:21.060" end="00:01:28.259" style="s2">against<span style="s3"> women is huge</span><span style="s4"> it</span> costs<span style="s4"> 5.8</span></p>
+<p begin="00:01:24.780" end="00:01:30.840" style="s2">billion dollars a year<span style="s4"> and</span> every dollar</p>
+<p begin="00:01:28.259" end="00:01:35.400" style="s2"><span style="s4">invested</span> in ending violence against</p>
+<p begin="00:01:30.840" end="00:01:38.009" style="s2">women gets you a return of<span style="s3"> 17</span><span style="s4"> dollars</span> if</p>
+<p begin="00:01:35.400" end="00:01:40.259" style="s2">you think<span style="s4"> about</span> health disparities<span style="s3"> black</span></p>
+<p begin="00:01:38.009" end="00:01:43.590" style="s2">women diagnosed in with breast cancer</p>
+<p begin="00:01:40.259" end="00:01:48.119" style="s2"><span style="s4">are</span> less are likely 39 percent more</p>
+<p begin="00:01:43.590" end="00:01:50.009" style="s2"><span style="s4">likely to die now breast cancer</span><span style="s3"> women</span></p>
+<p begin="00:01:48.119" end="00:01:52.590" style="s2"><span style="s4">should</span><span style="s3"> not</span><span style="s4"> be</span> dying from breast<span style="s4"> cancer</span></p>
+<p begin="00:01:50.009" end="00:01:57.299" style="s2">in 2017<span style="s3"> the</span> fact that<span style="s3"> this</span> is happening</p>
+<p begin="00:01:52.590" end="00:01:59.310" style="s2"><span style="s3">in</span> 2017 is just not acceptable<span style="s4"> and</span> then</p>
+<p begin="00:01:57.299" end="00:02:02.700" style="s2"><span style="s3">the</span> much-ballyhooed</p>
+<p begin="00:01:59.310" end="00:02:05.430" style="s2">and<span style="s3"> much discussed cost</span> of inequality in</p>
+<p begin="00:02:02.700" end="00:02:09.479" style="s2">terms<span style="s3"> of</span> the wage gap just in Illinois</p>
+<p begin="00:02:05.430" end="00:02:11.819" style="s2">women lose about<span style="s4"> 39</span><span style="s3"> billion</span> dollars a</p>
+<p begin="00:02:09.479" end="00:02:13.650" style="s2">year<span style="s3"> and</span><span style="s4"> just</span> think about<span style="s3"> what</span><span style="s4"> this</span></p>
+<p begin="00:02:11.819" end="00:02:18.180" style="s2">means<span style="s3"> for</span> our<span style="s3"> economy</span></p>
+<p begin="00:02:13.650" end="00:02:20.129" style="s2">at this time<span style="s4"> in</span> our state so closing<span style="s4"> the</span></p>
+<p begin="00:02:18.180" end="00:02:22.560" style="s2"><span style="s4">gender</span> gap<span style="s3"> according</span><span style="s4"> to</span> the McKinsey</p>
+<p begin="00:02:20.129" end="00:02:25.620" style="s2"><span style="s4">Global</span> Institute<span style="s4"> could</span><span style="s3"> drive</span><span style="s4"> sixty</span></p>
+<p begin="00:02:22.560" end="00:02:29.430" style="s2">billion dollars<span style="s3"> to</span> a to Illinois<span style="s4"> by</span> the</p>
+<p begin="00:02:25.620" end="00:02:38.640" style="s2">year 2025<span style="s4"> if</span> we were to do certain</p>
+<p begin="00:02:29.430" end="00:02:40.500" style="s2"><span style="s4">things</span> so with all these returns<span style="s4"> you</span></p>
+<p begin="00:02:38.640" end="00:02:42.540" style="s2">would think that<span style="s3"> more</span><span style="s4"> people</span> would want</p>
+<p begin="00:02:40.500" end="00:02:46.590" style="s2">to<span style="s4"> invest</span> in issues<span style="s4"> that</span> affect<span style="s4"> women</span></p>
+<p begin="00:02:42.540" end="00:02:51.950" style="s2">and girls<span style="s3"> correct so in 1985 the</span> number</p>
+<p begin="00:02:46.590" end="00:02:53.849" style="s2">the amount<span style="s4"> of investment was 3%</span> in</p>
+<p begin="00:02:51.950" end="00:02:56.579" style="s2">instant through institutional</p>
+<p begin="00:02:53.849" end="00:02:58.620" style="s2">philanthropy<span style="s3"> for</span> women and for<span style="s3"> issues</span></p>
+<p begin="00:02:56.579" end="00:03:04.319" style="s2">affecting<span style="s4"> women</span> and girls<span style="s3"> today that</span></p>
+<p begin="00:02:58.620" end="00:03:08.220" style="s2"><span style="s3">number</span><span style="s4"> is</span> around<span style="s4"> 8%</span><span style="s3"> so</span><span style="s4"> 17%</span><span style="s3"> return</span> you&#39;re</p>
+<p begin="00:03:04.319" end="00:03:11.159" style="s2">only putting<span style="s3"> 8% in making change</span><span style="s4"> sixty</span></p>
+<p begin="00:03:08.220" end="00:03:14.480" style="s2">billion dollars<span style="s4"> you&#39;re</span> only putting<span style="s3"> 8%</span></p>
+<p begin="00:03:11.159" end="00:03:18.030" style="s2"><span style="s3">so</span> not not a fair<span style="s3"> comparison</span></p>
+<p begin="00:03:14.480" end="00:03:20.579" style="s2">let me put all<span style="s4"> of</span><span style="s3"> this stuff up so</span> what</p>
+<p begin="00:03:18.030" end="00:03:23.190" style="s2">do<span style="s4"> we</span> do about<span style="s3"> this</span> and<span style="s3"> how</span> do<span style="s3"> we</span> try<span style="s3"> to</span></p>
+<p begin="00:03:20.579" end="00:03:27.720" style="s2">change<span style="s3"> what</span> what is<span style="s3"> happening</span> in our</p>
+<p begin="00:03:23.190" end="00:03:30.359" style="s2">state<span style="s3"> and</span> in<span style="s3"> our region</span><span style="s4"> we invests in</span></p>
+<p begin="00:03:27.720" end="00:03:32.849" style="s2">the community particularly in<span style="s4"> three</span></p>
+<p begin="00:03:30.359" end="00:03:35.250" style="s2">issue areas the first is<span style="s3"> economic</span></p>
+<p begin="00:03:32.849" end="00:03:37.440" style="s2"><span style="s3">security enhancing economic</span><span style="s4"> security</span></p>
+<p begin="00:03:35.250" end="00:03:41.340" style="s2"><span style="s3">addressing</span> sort of that wage gap the</p>
+<p begin="00:03:37.440" end="00:03:43.919" style="s2"><span style="s4">acid</span> gap<span style="s4"> getting</span> women into into jobs</p>
+<p begin="00:03:41.340" end="00:03:46.290" style="s2">that<span style="s3"> pay</span> better<span style="s3"> and and move up career</span></p>
+<p begin="00:03:43.919" end="00:03:48.859" style="s2">ladders the second is in<span style="s4"> the area of</span></p>
+<p begin="00:03:46.290" end="00:03:50.970" style="s2"><span style="s3">health</span> and health information you<span style="s4"> just</span></p>
+<p begin="00:03:48.859" end="00:03:53.879" style="s2"><span style="s3">saw</span> the number about health disparities</p>
+<p begin="00:03:50.970" end="00:03:56.040" style="s2">among<span style="s4"> African American women</span><span style="s3"> there</span> are</p>
+<p begin="00:03:53.879" end="00:03:58.440" style="s2"><span style="s4">many</span> such<span style="s3"> disparities</span> across<span style="s3"> the</span></p>
+<p begin="00:03:56.040" end="00:04:00.299" style="s2">spectrum<span style="s3"> and</span> we focus a<span style="s4"> lot</span> of<span style="s3"> our</span></p>
+<p begin="00:03:58.440" end="00:04:02.310" style="s2"><span style="s3">attention and a</span><span style="s4"> lot</span> of<span style="s3"> our</span> investments</p>
+<p begin="00:04:00.299" end="00:04:04.500" style="s2">on women&#39;s health<span style="s3"> particularly</span> on</p>
+<p begin="00:04:02.310" end="00:04:07.769" style="s2">reproductive<span style="s3"> health</span> and justice<span style="s3"> and</span></p>
+<p begin="00:04:04.500" end="00:04:10.919" style="s2">finally freedom<span style="s3"> from</span><span style="s4"> violence</span> and this</p>
+<p begin="00:04:07.769" end="00:04:12.540" style="s2">includes issues<span style="s4"> like</span> domestic<span style="s4"> violence</span></p>
+<p begin="00:04:10.919" end="00:04:15.900" style="s2">or intimate<span style="s4"> partner</span> violence sexual</p>
+<p begin="00:04:12.540" end="00:04:18.570" style="s2">assault and and more recently human</p>
+<p begin="00:04:15.900" end="00:04:23.550" style="s2">trafficking sex trafficking<span style="s4"> of</span><span style="s3"> women</span> and</p>
+<p begin="00:04:18.570" end="00:04:25.529" style="s2">girls<span style="s3"> in</span> our region<span style="s4"> what</span><span style="s3"> we believe is</span></p>
+<p begin="00:04:23.550" end="00:04:27.380" style="s2">that taken together the<span style="s4"> combination</span> of</p>
+<p begin="00:04:25.529" end="00:04:29.510" style="s2">these<span style="s3"> three</span> issue areas</p>
+<p begin="00:04:27.380" end="00:04:31.910" style="s2"><span style="s3">make</span> a difference<span style="s3"> if</span> you address these</p>
+<p begin="00:04:29.510" end="00:04:34.120" style="s2">three issue<span style="s3"> areas</span> those really make a</p>
+<p begin="00:04:31.910" end="00:04:38.330" style="s2"><span style="s4">difference</span> in the lives of women<span style="s3"> and</span></p>
+<p begin="00:04:34.120" end="00:04:41.810" style="s2">help them<span style="s3"> be</span> strong stable<span style="s3"> and</span> and grow</p>
+<p begin="00:04:38.330" end="00:04:44.780" style="s2"><span style="s3">over</span> time<span style="s3"> the</span> way<span style="s4"> we</span> do our<span style="s4"> work</span> is in</p>
+<p begin="00:04:41.810" end="00:04:47.300" style="s2">really in<span style="s4"> three</span> main<span style="s4"> areas</span><span style="s3"> one</span> is</p>
+<p begin="00:04:44.780" end="00:04:49.520" style="s2">through grant making<span style="s3"> we</span> offer grants<span style="s3"> to</span></p>
+<p begin="00:04:47.300" end="00:04:52.490" style="s2">organizations to nonprofit<span style="s4"> organizations</span></p>
+<p begin="00:04:49.520" end="00:04:55.400" style="s2">that work with<span style="s4"> women</span> and girls in the</p>
+<p begin="00:04:52.490" end="00:04:58.490" style="s2">three issue areas that I mentioned<span style="s3"> we</span></p>
+<p begin="00:04:55.400" end="00:05:01.220" style="s2"><span style="s4">also</span> fund<span style="s3"> advocacy</span> as well as doing an</p>
+<p begin="00:04:58.490" end="00:05:03.140" style="s2"><span style="s3">or</span> own advocacy<span style="s3"> and we</span><span style="s4"> build</span> the</p>
+<p begin="00:05:01.220" end="00:05:07.460" style="s2">leadership of<span style="s3"> women</span> particularly women</p>
+<p begin="00:05:03.140" end="00:05:09.110" style="s2">leaders of color<span style="s3"> and finally a thing</span></p>
+<p begin="00:05:07.460" end="00:05:10.880" style="s2">that we don&#39;t often<span style="s3"> talk</span> about<span style="s3"> but</span> I</p>
+<p begin="00:05:09.110" end="00:05:13.490" style="s2">want<span style="s3"> to share with you tonight is that</span></p>
+<p begin="00:05:10.880" end="00:05:22.280" style="s2">we are really<span style="s4"> organizing</span> for change<span style="s3"> all</span></p>
+<p begin="00:05:13.490" end="00:05:23.090" style="s2">of<span style="s4"> this</span><span style="s3"> with</span> a gender<span style="s4"> lens</span> so our</p>
+<p begin="00:05:22.280" end="00:05:28.700" style="s2"><span style="s4">grant-making</span></p>
+<p begin="00:05:23.090" end="00:05:31.220" style="s2">is in the six County region is in<span style="s3"> the</span></p>
+<p begin="00:05:28.700" end="00:05:33.800" style="s2">six County region and you<span style="s4"> know</span> so<span style="s3"> that&#39;s</span></p>
+<p begin="00:05:31.220" end="00:05:36.980" style="s2">cooked<span style="s4"> and</span> the surrounding<span style="s3"> counties</span> and</p>
+<p begin="00:05:33.800" end="00:05:39.650" style="s2">so we we fund as far north as Zion and</p>
+<p begin="00:05:36.980" end="00:05:42.560" style="s2"><span style="s3">Waukegan</span> as far west as Naperville<span style="s3"> and</span></p>
+<p begin="00:05:39.650" end="00:05:48.470" style="s2">Joliet<span style="s3"> and</span> as far<span style="s4"> south</span> as<span style="s3"> Evergreen</span></p>
+<p begin="00:05:42.560" end="00:05:51.290" style="s2">Park those<span style="s4"> darts</span> just the different</p>
+<p begin="00:05:48.470" end="00:05:52.880" style="s2">colors<span style="s4"> just</span> show the different types of</p>
+<p begin="00:05:51.290" end="00:05:58.700" style="s2"><span style="s3">grants</span><span style="s4"> we</span> make based on<span style="s3"> the</span> different</p>
+<p begin="00:05:52.880" end="00:06:02.090" style="s2">issue areas<span style="s3"> so</span> since 1985<span style="s3"> we&#39;ve</span> awarded</p>
+<p begin="00:05:58.700" end="00:06:05.360" style="s2"><span style="s3">nearly</span><span style="s4"> four thousand this is</span><span style="s3"> really</span> hard</p>
+<p begin="00:06:02.090" end="00:06:07.490" style="s2"><span style="s3">for me</span><span style="s4"> to</span><span style="s3"> do</span> try<span style="s3"> and</span><span style="s4"> do</span> three things<span style="s4"> you</span></p>
+<p begin="00:06:05.360" end="00:06:11.780" style="s2">know I&#39;m<span style="s3"> not</span> a multitasker as you can</p>
+<p begin="00:06:07.490" end="00:06:14.270" style="s2">tell<span style="s4"> 4,000</span> grants over<span style="s4"> 30</span><span style="s3"> million</span></p>
+<p begin="00:06:11.780" end="00:06:17.270" style="s2">dollars that have been invested in the</p>
+<p begin="00:06:14.270" end="00:06:23.030" style="s2"><span style="s3">Chicago community</span><span style="s4"> so</span> that<span style="s4"> women</span> can be</p>
+<p begin="00:06:17.270" end="00:06:26.330" style="s2">safe healthy and secure so last year we</p>
+<p begin="00:06:23.030" end="00:06:30.470" style="s2">made<span style="s3"> a hundred and seven we supported a</span></p>
+<p begin="00:06:26.330" end="00:06:33.120" style="s2">hundred and seven grantees<span style="s4"> with</span> 1.9</p>
+<p begin="00:06:30.470" end="00:06:35.610" style="s2">million<span style="s4"> dollars</span> giving<span style="s3"> an</span></p>
+<p begin="00:06:33.120" end="00:06:37.770" style="s2">and with and most<span style="s3"> of</span> what<span style="s4"> we</span> do is</p>
+<p begin="00:06:35.610" end="00:06:40.139" style="s2">through<span style="s3"> community</span> giving so<span style="s3"> we raise</span></p>
+<p begin="00:06:37.770" end="00:06:42.300" style="s2">money<span style="s4"> in</span> order<span style="s4"> to make</span><span style="s3"> the</span> grants we do</p>
+<p begin="00:06:40.139" end="00:06:45.510" style="s2">so we had two thousand two hundred<span style="s4"> and</span></p>
+<p begin="00:06:42.300" end="00:06:48.479" style="s2"><span style="s3">eighty five donors as well</span><span style="s4"> as</span> a<span style="s3"> hundred</span></p>
+<p begin="00:06:45.510" end="00:06:50.669" style="s2"><span style="s4">and</span> eighteen community donors<span style="s3"> through</span></p>
+<p begin="00:06:48.479" end="00:06:55.380" style="s2">giving<span style="s3"> through</span> community philanthropy<span style="s4"> or</span></p>
+<p begin="00:06:50.669" end="00:06:59.490" style="s2"><span style="s3">what</span> we call are giving<span style="s3"> councils</span><span style="s4"> and</span></p>
+<p begin="00:06:55.380" end="00:07:03.180" style="s2">what this did last year was impact<span style="s3"> more</span></p>
+<p begin="00:06:59.490" end="00:07:06.600" style="s2"><span style="s3">than</span> 90,000 people<span style="s3"> more</span> two-thirds of</p>
+<p begin="00:07:03.180" end="00:07:09.240" style="s2">which were women<span style="s3"> and</span> as you would<span style="s3"> expect</span></p>
+<p begin="00:07:06.600" end="00:07:13.889" style="s2"><span style="s3">but</span><span style="s4"> also</span> a significant number of<span style="s3"> men and</span></p>
+<p begin="00:07:09.240" end="00:07:16.789" style="s2">those who were gender non-conforming<span style="s3"> so</span></p>
+<p begin="00:07:13.889" end="00:07:20.789" style="s2">more<span style="s3"> recently</span><span style="s4"> our</span><span style="s3"> yer</span><span style="s4"> just</span> ended in June</p>
+<p begin="00:07:16.789" end="00:07:23.520" style="s2"><span style="s3">the</span><span style="s4"> 2020 17 for us just</span><span style="s3"> ended</span> in June</p>
+<p begin="00:07:20.789" end="00:07:26.970" style="s2">and<span style="s3"> we made 2.3</span> million dollars<span style="s4"> in</span><span style="s3"> in</span></p>
+<p begin="00:07:23.520" end="00:07:30.419" style="s2">grants in the<span style="s3"> three</span> issue areas that I</p>
+<p begin="00:07:26.970" end="00:07:33.680" style="s2">mentioned<span style="s4"> so this is all very fine</span> and</p>
+<p begin="00:07:30.419" end="00:07:36.150" style="s2"><span style="s3">good</span> so what&#39;s what&#39;s the<span style="s3"> point</span> of</p>
+<p begin="00:07:33.680" end="00:07:40.349" style="s2">making these investments<span style="s4"> in</span> the</p>
+<p begin="00:07:36.150" end="00:07:43.200" style="s2">community so<span style="s3"> that</span> kind of<span style="s3"> superficial</span></p>
+<p begin="00:07:40.349" end="00:07:46.139" style="s2">data<span style="s4"> all</span> of<span style="s4"> us</span> can collect all<span style="s4"> of</span><span style="s3"> us</span> do</p>
+<p begin="00:07:43.200" end="00:07:49.229" style="s2">collect and all of<span style="s3"> us must collect</span> but</p>
+<p begin="00:07:46.139" end="00:07:53.030" style="s2">beyond the obvious<span style="s4"> cfw</span> is really</p>
+<p begin="00:07:49.229" end="00:07:55.650" style="s2">interested<span style="s3"> in</span> using data<span style="s4"> you</span> know</p>
+<p begin="00:07:53.030" end="00:07:57.900" style="s2">certainly to tell talk about the number</p>
+<p begin="00:07:55.650" end="00:08:01.229" style="s2">of<span style="s3"> people</span><span style="s4"> served certainly to talk about</span></p>
+<p begin="00:07:57.900" end="00:08:04.139" style="s2"><span style="s3">the</span> gaps<span style="s4"> certainly</span> to develop priorities</p>
+<p begin="00:08:01.229" end="00:08:07.470" style="s2"><span style="s3">for</span><span style="s4"> our</span> own grant making<span style="s3"> and</span> for our own</p>
+<p begin="00:08:04.139" end="00:08:12.090" style="s2">advocacy<span style="s3"> and</span> also to<span style="s3"> help</span> set priorities</p>
+<p begin="00:08:07.470" end="00:08:13.860" style="s2">but beyond this<span style="s3"> we</span> also use data in in a</p>
+<p begin="00:08:12.090" end="00:08:17.360" style="s2"><span style="s3">couple of different</span> ways<span style="s4"> that</span> I&#39;d like</p>
+<p begin="00:08:13.860" end="00:08:20.520" style="s2"><span style="s4">to</span> share<span style="s3"> with</span> you the<span style="s3"> first</span> one is we</p>
+<p begin="00:08:17.360" end="00:08:22.800" style="s2">commissioned research<span style="s3"> and</span> evaluation</p>
+<p begin="00:08:20.520" end="00:08:25.770" style="s2"><span style="s3">which</span> goes beyond sort of the</p>
+<p begin="00:08:22.800" end="00:08:30.960" style="s2">superficial goes beyond the obvious<span style="s4"> most</span></p>
+<p begin="00:08:25.770" end="00:08:33.570" style="s2">recently we supported a report called</p>
+<p begin="00:08:30.960" end="00:08:35.610" style="s2">damage done the impact of the still</p>
+<p begin="00:08:33.570" end="00:08:38.640" style="s2">annoyed state budget and you can see</p>
+<p begin="00:08:35.610" end="00:08:42.240" style="s2">kind<span style="s3"> of the data that</span> came from from</p>
+<p begin="00:08:38.640" end="00:08:44.940" style="s2">this report<span style="s4"> and</span> while it is things<span style="s4"> that</span></p>
+<p begin="00:08:42.240" end="00:08:45.830" style="s2">we knew intuitively that<span style="s3"> as</span> as an</p>
+<p begin="00:08:44.940" end="00:08:48.050" style="s2"><span style="s3">organization</span></p>
+<p begin="00:08:45.830" end="00:08:50.330" style="s2"><span style="s3">knew</span> the impact<span style="s3"> it</span> had on<span style="s4"> our</span> grantee</p>
+<p begin="00:08:48.050" end="00:08:52.040" style="s2">and grantee organizations<span style="s3"> it is not</span></p>
+<p begin="00:08:50.330" end="00:08:57.370" style="s2">enough to<span style="s4"> say</span> oh<span style="s4"> I</span> know this stuff</p>
+<p begin="00:08:52.040" end="00:08:59.930" style="s2">intuitively<span style="s4"> so</span> part of it was<span style="s3"> sort</span><span style="s4"> of</span></p>
+<p begin="00:08:57.370" end="00:09:03.020" style="s2">understanding in numbers the<span style="s4"> long-term</span></p>
+<p begin="00:08:59.930" end="00:09:05.180" style="s2">effects of not having a stage but<span style="s3"> a</span></p>
+<p begin="00:09:03.020" end="00:09:07.130" style="s2">state budget<span style="s4"> for</span> over two years</p>
+<p begin="00:09:05.180" end="00:09:10.400" style="s2">this has really<span style="s4"> long lasting</span></p>
+<p begin="00:09:07.130" end="00:09:12.290" style="s2"><span style="s3">consequences</span> for<span style="s3"> Illinois</span> for<span style="s4"> the</span></p>
+<p begin="00:09:10.400" end="00:09:18.740" style="s2">families as well as<span style="s3"> for</span><span style="s4"> the</span></p>
+<p begin="00:09:12.290" end="00:09:21.140" style="s2">organizations<span style="s3"> that</span> serve the families we</p>
+<p begin="00:09:18.740" end="00:09:24.200" style="s2">also support policy change<span style="s4"> you</span> know</p>
+<p begin="00:09:21.140" end="00:09:26.810" style="s2">ultimately<span style="s4"> 2.3</span> million dollars<span style="s4"> in grants</span></p>
+<p begin="00:09:24.200" end="00:09:29.090" style="s2">a year<span style="s4"> is</span><span style="s3"> not going very far if we</span><span style="s4"> are</span></p>
+<p begin="00:09:26.810" end="00:09:31.670" style="s2">to make<span style="s3"> fundamental</span> change we must</p>
+<p begin="00:09:29.090" end="00:09:33.050" style="s2">change laws and policies<span style="s3"> and</span> so<span style="s3"> Chicago</span></p>
+<p begin="00:09:31.670" end="00:09:37.040" style="s2"><span style="s3">foundation</span> for women</p>
+<p begin="00:09:33.050" end="00:09:40.430" style="s2">last year supported more<span style="s3"> than</span><span style="s4"> 30</span> laws</p>
+<p begin="00:09:37.040" end="00:09:46.100" style="s2">that got passed in support of gender</p>
+<p begin="00:09:40.430" end="00:09:48.110" style="s2"><span style="s3">equity</span> in the it not only<span style="s3"> in</span> Chicago but</p>
+<p begin="00:09:46.100" end="00:09:50.950" style="s2"><span style="s3">in</span> Cook County as well<span style="s3"> as</span><span style="s4"> across the</span></p>
+<p begin="00:09:48.110" end="00:09:54.380" style="s2">state<span style="s3"> here</span> these<span style="s3"> are just three examples</span></p>
+<p begin="00:09:50.950" end="00:09:56.840" style="s2"><span style="s4">thanks</span> to the work<span style="s3"> of the</span><span style="s4"> organization&#39;s</span></p>
+<p begin="00:09:54.380" end="00:10:01.520" style="s2"><span style="s3">we</span> support Chicago and Cook County have</p>
+<p begin="00:09:56.840" end="00:10:03.440" style="s2">paid sick<span style="s4"> leave we increase increase the</span></p>
+<p begin="00:10:01.520" end="00:10:08.110" style="s2">minimum<span style="s4"> wage</span> and<span style="s3"> now</span> have basic</p>
+<p begin="00:10:03.440" end="00:10:12.710" style="s2">protections for those who care for<span style="s3"> our</span></p>
+<p begin="00:10:08.110" end="00:10:16.400" style="s2">near<span style="s3"> and</span> dear<span style="s4"> ones</span> so this<span style="s3"> is</span> sort<span style="s3"> of</span></p>
+<p begin="00:10:12.710" end="00:10:18.440" style="s2">one<span style="s4"> example</span> of what<span style="s4"> cfw</span> has done in</p>
+<p begin="00:10:16.400" end="00:10:22.430" style="s2"><span style="s4">order</span> that<span style="s3"> goes</span> beyond<span style="s3"> sort of the</span></p>
+<p begin="00:10:18.440" end="00:10:25.340" style="s2">superficial numbers of what we do the</p>
+<p begin="00:10:22.430" end="00:10:27.200" style="s2">second is this large project<span style="s4"> that</span><span style="s3"> I</span> want</p>
+<p begin="00:10:25.340" end="00:10:31.430" style="s2">to talk to you about called<span style="s3"> the</span> 100</p>
+<p begin="00:10:27.200" end="00:10:35.090" style="s2">percent<span style="s3"> project</span> and the what is<span style="s4"> the 100</span></p>
+<p begin="00:10:31.430" end="00:10:37.730" style="s2"><span style="s4">%</span> project<span style="s3"> so</span> we call<span style="s4"> it the</span><span style="s3"> all our all</span></p>
+<p begin="00:10:35.090" end="00:10:39.920" style="s2">in<span style="s4"> effort</span> to increase<span style="s3"> women&#39;s</span><span style="s4"> Economic</span></p>
+<p begin="00:10:37.730" end="00:10:44.300" style="s2"><span style="s4">Security</span> and<span style="s3"> put</span> an end<span style="s3"> to</span> gender bias</p>
+<p begin="00:10:39.920" end="00:10:47.330" style="s2"><span style="s3">in</span> Chicago<span style="s3"> so this is a project that</span> we</p>
+<p begin="00:10:44.300" end="00:10:49.640" style="s2">came<span style="s3"> to</span> after talking<span style="s4"> to</span><span style="s3"> more</span> than 500</p>
+<p begin="00:10:47.330" end="00:10:52.520" style="s2">women<span style="s3"> and</span> men girls and boys across<span style="s4"> the</span></p>
+<p begin="00:10:49.640" end="00:10:54.740" style="s2">region to tell us kind<span style="s3"> of</span> what was some</p>
+<p begin="00:10:52.520" end="00:10:57.320" style="s2"><span style="s3">of</span> the<span style="s4"> best solutions to</span><span style="s3"> get</span> us to</p>
+<p begin="00:10:54.740" end="00:10:59.420" style="s2">gender equity<span style="s4"> in</span><span style="s3"> our</span> region<span style="s4"> we all know</span></p>
+<p begin="00:10:57.320" end="00:11:02.690" style="s2">the issues we all hear<span style="s4"> about</span></p>
+<p begin="00:10:59.420" end="00:11:04.520" style="s2"><span style="s3">we</span> all<span style="s3"> experience the issues but what is</span></p>
+<p begin="00:11:02.690" end="00:11:06.260" style="s2">it<span style="s3"> that</span> is<span style="s4"> really</span> going to<span style="s3"> get</span> us to<span style="s4"> a</span></p>
+<p begin="00:11:04.520" end="00:11:11.570" style="s2"><span style="s3">solution and what is going to get us to</span></p>
+<p begin="00:11:06.260" end="00:11:15.350" style="s2"><span style="s3">to</span> equity so I<span style="s3"> perhaps</span> I should start<span style="s4"> by</span></p>
+<p begin="00:11:11.570" end="00:11:18.470" style="s2"><span style="s4">saying what do what</span><span style="s3"> do</span> I mean by gender</p>
+<p begin="00:11:15.350" end="00:11:22.550" style="s2"><span style="s3">equity</span> and<span style="s3"> then</span> talk<span style="s4"> about</span> how how do we</p>
+<p begin="00:11:18.470" end="00:11:25.400" style="s2">get there<span style="s3"> so</span> for us gender equity means</p>
+<p begin="00:11:22.550" end="00:11:30.020" style="s2">ensuring structural equality for women</p>
+<p begin="00:11:25.400" end="00:11:32.410" style="s2"><span style="s4">and girls and boys</span><span style="s3"> and</span> men the that</p>
+<p begin="00:11:30.020" end="00:11:35.450" style="s2">everybody has equal<span style="s3"> rights</span> equal</p>
+<p begin="00:11:32.410" end="00:11:38.870" style="s2"><span style="s3">opportunity</span> privilege and social power</p>
+<p begin="00:11:35.450" end="00:11:41.390" style="s2">dynamics<span style="s3"> we</span> envision a<span style="s4"> society</span> in<span style="s4"> which</span></p>
+<p begin="00:11:38.870" end="00:11:44.420" style="s2">institutions<span style="s4"> policies</span> culture and</p>
+<p begin="00:11:41.390" end="00:11:48.410" style="s2">personal action<span style="s3"> respect</span> every person&#39;s</p>
+<p begin="00:11:44.420" end="00:11:51.860" style="s2">inherent value and dignity<span style="s4"> a</span> commitment</p>
+<p begin="00:11:48.410" end="00:11:54.110" style="s2">to ending gender<span style="s3"> bias</span><span style="s4"> for</span><span style="s3"> us</span> means the</p>
+<p begin="00:11:51.860" end="00:11:57.050" style="s2">challenging the exploitation of women</p>
+<p begin="00:11:54.110" end="00:11:59.990" style="s2"><span style="s3">and</span> girls<span style="s3"> while</span> inviting men and boys<span style="s3"> as</span></p>
+<p begin="00:11:57.050" end="00:12:02.960" style="s2">allies<span style="s3"> to</span> challenge this<span style="s3"> unequal power</span></p>
+<p begin="00:11:59.990" end="00:12:07.040" style="s2">dynamic and join<span style="s4"> forces</span> to achieve<span style="s3"> the</span></p>
+<p begin="00:12:02.960" end="00:12:09.620" style="s2">goal of gender equity<span style="s3"> and</span> so we<span style="s4"> actually</span></p>
+<p begin="00:12:07.040" end="00:12:13.550" style="s2">hope to get there by the year 2030<span style="s4"> not</span> a</p>
+<p begin="00:12:09.620" end="00:12:15.590" style="s2">long time<span style="s3"> left so there are sort of</span></p>
+<p begin="00:12:13.550" end="00:12:17.810" style="s2">three<span style="s4"> strategies</span> that<span style="s3"> we are employing</span></p>
+<p begin="00:12:15.590" end="00:12:22.340" style="s2">in order to get to gender equity<span style="s4"> to</span> what</p>
+<p begin="00:12:17.810" end="00:12:24.170" style="s2">we want to achieve<span style="s4"> and</span> we&#39;re<span style="s3"> thinking</span> of</p>
+<p begin="00:12:22.340" end="00:12:26.990" style="s2">the three<span style="s4"> strategies</span> I&#39;ll name them<span style="s3"> the</span></p>
+<p begin="00:12:24.170" end="00:12:30.220" style="s2"><span style="s3">first</span> is to understand and break bias we</p>
+<p begin="00:12:26.990" end="00:12:32.800" style="s2">believe that sort<span style="s3"> of</span> the root cause of</p>
+<p begin="00:12:30.220" end="00:12:36.950" style="s2">discrimination the root causes of</p>
+<p begin="00:12:32.800" end="00:12:38.630" style="s2"><span style="s3">violence</span> against<span style="s4"> women</span> is bias<span style="s3"> and</span> so we</p>
+<p begin="00:12:36.950" end="00:12:41.300" style="s2">need to<span style="s3"> understand</span> and break bias</p>
+<p begin="00:12:38.630" end="00:12:44.270" style="s2"><span style="s3">the</span> second is<span style="s3"> to</span> build strong</p>
+<p begin="00:12:41.300" end="00:12:47.240" style="s2"><span style="s3">partnerships</span> and collaboration and truly</p>
+<p begin="00:12:44.270" end="00:12:49.880" style="s2">unlikely partners and collaborators<span style="s3"> you</span></p>
+<p begin="00:12:47.240" end="00:12:52.310" style="s2">know people when I<span style="s4"> told</span><span style="s3"> people</span><span style="s4"> as</span><span style="s3"> coming</span></p>
+<p begin="00:12:49.880" end="00:12:54.200" style="s2">to<span style="s4"> try</span><span style="s3"> hack</span> night<span style="s3"> they&#39;re</span> like why are</p>
+<p begin="00:12:52.310" end="00:12:56.570" style="s2"><span style="s3">you</span> going<span style="s3"> there</span> what what does that<span style="s3"> have</span></p>
+<p begin="00:12:54.200" end="00:12:59.060" style="s2"><span style="s4">to</span> do and<span style="s3"> this is part of it for</span> us<span style="s3"> is</span></p>
+<p begin="00:12:56.570" end="00:13:01.610" style="s2"><span style="s3">about building unusual</span> partnerships and</p>
+<p begin="00:12:59.060" end="00:13:03.800" style="s2"><span style="s3">and</span><span style="s4"> really</span> understanding how we can work</p>
+<p begin="00:13:01.610" end="00:13:06.740" style="s2"><span style="s3">with</span> such a diverse<span style="s4"> group of</span><span style="s3"> people</span> with</p>
+<p begin="00:13:03.800" end="00:13:08.960" style="s2"><span style="s4">such</span> a broad<span style="s4"> range</span> of interests<span style="s4"> and</span> such</p>
+<p begin="00:13:06.740" end="00:13:12.410" style="s2">deep backgrounds in so many different</p>
+<p begin="00:13:08.960" end="00:13:12.860" style="s2"><span style="s4">areas</span> and then finally the third area is</p>
+<p begin="00:13:12.410" end="00:13:15.770" style="s2"><span style="s3">the</span></p>
+<p begin="00:13:12.860" end="00:13:18.410" style="s2">developing policies<span style="s4"> and</span> legislation<span style="s4"> you</span></p>
+<p begin="00:13:15.770" end="00:13:20.300" style="s2">heard a<span style="s4"> bit</span><span style="s3"> about</span> the<span style="s3"> legislation</span><span style="s4"> that</span></p>
+<p begin="00:13:18.410" end="00:13:23.630" style="s2"><span style="s3">we</span> fund but there are lots of things</p>
+<p begin="00:13:20.300" end="00:13:25.520" style="s2">where<span style="s3"> corporations</span> can think<span style="s3"> about</span> the</p>
+<p begin="00:13:23.630" end="00:13:27.740" style="s2">policies the HR policies they have</p>
+<p begin="00:13:25.520" end="00:13:31.250" style="s2"><span style="s3">within</span> their<span style="s3"> organizations which will</span></p>
+<p begin="00:13:27.740" end="00:13:36.500" style="s2">get<span style="s4"> to</span> economic parity for for women<span style="s4"> in</span></p>
+<p begin="00:13:31.250" end="00:13:40.430" style="s2">their companies<span style="s4"> so</span> the question always</p>
+<p begin="00:13:36.500" end="00:13:42.800" style="s2"><span style="s4">comes</span><span style="s3"> up</span> so gender pay equity by the</p>
+<p begin="00:13:40.430" end="00:13:44.540" style="s2">year 2030 how<span style="s4"> you</span> going to<span style="s3"> know</span> you&#39;re</p>
+<p begin="00:13:42.800" end="00:13:48.020" style="s2">there<span style="s4"> what</span> how you&#39;re<span style="s3"> going to measure</span></p>
+<p begin="00:13:44.540" end="00:13:52.490" style="s2"><span style="s3">it</span> what are you<span style="s3"> going to do so we</span><span style="s4"> are</span></p>
+<p begin="00:13:48.020" end="00:13:56.840" style="s2">committed<span style="s4"> to</span> do reporting on the</p>
+<p begin="00:13:52.490" end="00:14:02.180" style="s2">progress<span style="s4"> or lack thereof every</span> year so</p>
+<p begin="00:13:56.840" end="00:14:04.640" style="s2">what we&#39;re using is the<span style="s4"> information</span><span style="s3"> from</span></p>
+<p begin="00:14:02.180" end="00:14:07.460" style="s2">a report by the<span style="s3"> McKinsey</span> Global</p>
+<p begin="00:14:04.640" end="00:14:10.880" style="s2">Institute<span style="s3"> so</span> McKinsey is<span style="s3"> a</span></p>
+<p begin="00:14:07.460" end="00:14:13.760" style="s2"><span style="s3">well-respected entity the</span> data they put</p>
+<p begin="00:14:10.880" end="00:14:15.620" style="s2">out is<span style="s4"> well-respected what we are trying</span></p>
+<p begin="00:14:13.760" end="00:14:17.930" style="s2"><span style="s3">to</span> do is sort of<span style="s3"> use</span> sort of<span style="s3"> that</span></p>
+<p begin="00:14:15.620" end="00:14:20.690" style="s2">independent data the<span style="s4"> data</span> they use is</p>
+<p begin="00:14:17.930" end="00:14:22.580" style="s2">all publicly<span style="s4"> available</span> so mostly from</p>
+<p begin="00:14:20.690" end="00:14:24.620" style="s2">the<span style="s3"> American</span> Community<span style="s4"> Survey</span> from the</p>
+<p begin="00:14:22.580" end="00:14:29.120" style="s2">Bureau of<span style="s3"> Labor</span> Standards and and so<span style="s3"> on</span></p>
+<p begin="00:14:24.620" end="00:14:30.710" style="s2"><span style="s3">and</span> when they looked at so that<span style="s3"> 58</span></p>
+<p begin="00:14:29.120" end="00:14:33.800" style="s2">billion dollars that I mentioned at the</p>
+<p begin="00:14:30.710" end="00:14:36.590" style="s2">beginning of my presentation<span style="s4"> was Kane</span></p>
+<p begin="00:14:33.800" end="00:14:38.780" style="s2">came from<span style="s3"> McKinsey</span> and what they looked</p>
+<p begin="00:14:36.590" end="00:14:41.800" style="s2">at<span style="s4"> was</span> what it would take<span style="s4"> to</span> get to</p>
+<p begin="00:14:38.780" end="00:14:44.390" style="s2"><span style="s3">gender</span> parity<span style="s3"> in the United States and</span></p>
+<p begin="00:14:41.800" end="00:14:48.680" style="s2">they found<span style="s3"> that there were really</span> six</p>
+<p begin="00:14:44.390" end="00:14:51.470" style="s2">factors in the<span style="s4"> states</span><span style="s3"> that emerge or</span></p>
+<p begin="00:14:48.680" end="00:14:53.630" style="s2">what they call<span style="s4"> sixth</span> impact zone one is</p>
+<p begin="00:14:51.470" end="00:14:56.570" style="s2">the representation in leadership and</p>
+<p begin="00:14:53.630" end="00:14:58.270" style="s2"><span style="s3">management</span><span style="s4"> two</span> is the time<span style="s3"> spent</span> in</p>
+<p begin="00:14:56.570" end="00:15:01.610" style="s2">unpaid work</p>
+<p begin="00:14:58.270" end="00:15:04.790" style="s2">the proportion of single mothers<span style="s4"> the</span></p>
+<p begin="00:15:01.610" end="00:15:07.670" style="s2">incidence of teenage pregnancy political</p>
+<p begin="00:15:04.790" end="00:15:09.890" style="s2">representation<span style="s3"> and</span> then finally violence</p>
+<p begin="00:15:07.670" end="00:15:13.820" style="s2">against women<span style="s3"> so</span> if we<span style="s4"> are</span> to<span style="s3"> address</span></p>
+<p begin="00:15:09.890" end="00:15:17.570" style="s2"><span style="s3">these</span> six areas<span style="s3"> then</span> we<span style="s4"> can</span> get<span style="s4"> to</span></p>
+<p begin="00:15:13.820" end="00:15:20.260" style="s2">gender parity in in our region<span style="s3"> so</span> just a</p>
+<p begin="00:15:17.570" end="00:15:23.510" style="s2">quick snapshot<span style="s3"> of</span> what this<span style="s3"> looks</span> like</p>
+<p begin="00:15:20.260" end="00:15:25.130" style="s2"><span style="s3">across</span><span style="s4"> the</span> states<span style="s3"> we</span> fall somewhere in</p>
+<p begin="00:15:23.510" end="00:15:26.120" style="s2"><span style="s4">between</span> Illinois falls somewhere in</p>
+<p begin="00:15:25.130" end="00:15:31.520" style="s2"><span style="s3">between at</span></p>
+<p begin="00:15:26.120" end="00:15:34.700" style="s2">point<span style="s3"> six</span> seven I think so not<span style="s3"> doing too</span></p>
+<p begin="00:15:31.520" end="00:15:38.810" style="s2">badly<span style="s3"> the</span> best<span style="s3"> is</span> sort of<span style="s4"> main</span> which is</p>
+<p begin="00:15:34.700" end="00:15:41.900" style="s2">a small<span style="s3"> state</span> Maine or Delaware<span style="s3"> and</span> and</p>
+<p begin="00:15:38.810" end="00:15:44.960" style="s2">Chicago and the Chicago region<span style="s3"> is also</span></p>
+<p begin="00:15:41.900" end="00:15:49.010" style="s2">pretty similar<span style="s4"> we</span> are somewhere in<span style="s3"> the</span></p>
+<p begin="00:15:44.960" end="00:15:51.560" style="s2"><span style="s4">middle</span> we we could make as I said an</p>
+<p begin="00:15:49.010" end="00:15:53.210" style="s2">influx we could bring in an influx of<span style="s4"> 58</span></p>
+<p begin="00:15:51.560" end="00:15:56.000" style="s2"><span style="s3">billion if we did sort of</span> three things</p>
+<p begin="00:15:53.210" end="00:15:57.650" style="s2"><span style="s3">one</span> is increase the<span style="s4"> participation</span> of</p>
+<p begin="00:15:56.000" end="00:16:01.520" style="s2"><span style="s3">women</span><span style="s4"> in</span><span style="s3"> the</span><span style="s4"> labor</span> force</p>
+<p begin="00:15:57.650" end="00:16:03.230" style="s2">second is change<span style="s3"> the</span> sector mix so</p>
+<p begin="00:16:01.520" end="00:16:05.750" style="s2"><span style="s3">having</span> more women<span style="s3"> in</span> technology</p>
+<p begin="00:16:03.230" end="00:16:08.600" style="s2"><span style="s3">certainly</span> is part of that<span style="s3"> solution</span><span style="s4"> and</span></p>
+<p begin="00:16:05.750" end="00:16:12.610" style="s2">then sort<span style="s3"> of</span> the third is getting<span style="s4"> women</span></p>
+<p begin="00:16:08.600" end="00:16:12.610" style="s2">on a track to<span style="s4"> management</span><span style="s3"> and</span> supervision</p>
+<p begin="00:16:12.940" end="00:16:18.830" style="s2"><span style="s4">so</span> how<span style="s4"> does</span> this<span style="s3"> look</span> a year or two<span style="s4"> on</span></p>
+<p begin="00:16:16.400" end="00:16:20.600" style="s2">from when we<span style="s4"> started</span> the project we</p>
+<p begin="00:16:18.830" end="00:16:23.390" style="s2">looked<span style="s4"> at</span> the numbers recently<span style="s3"> we</span> looked</p>
+<p begin="00:16:20.600" end="00:16:25.339" style="s2">at the numbers this year<span style="s4"> and</span> we see that</p>
+<p begin="00:16:23.390" end="00:16:27.410" style="s2">we&#39;re<span style="s4"> making progress</span><span style="s3"> in terms of</span></p>
+<p begin="00:16:25.339" end="00:16:30.560" style="s2"><span style="s4">political</span> participation in<span style="s3"> our</span> state</p>
+<p begin="00:16:27.410" end="00:16:33.170" style="s2"><span style="s3">while</span> we<span style="s3"> don&#39;t have a female</span> mayor or</p>
+<p begin="00:16:30.560" end="00:16:36.140" style="s2">nor do we have<span style="s3"> any female running for</span></p>
+<p begin="00:16:33.170" end="00:16:39.140" style="s2">governor<span style="s4"> the</span> political representation</p>
+<p begin="00:16:36.140" end="00:16:40.580" style="s2">broadly in<span style="s4"> terms</span> of state<span style="s3"> legislatures</span></p>
+<p begin="00:16:39.140" end="00:16:44.029" style="s2">looks not bad</p>
+<p begin="00:16:40.580" end="00:16:46.640" style="s2"><span style="s4">we&#39;re</span> number<span style="s3"> five across all</span> the states</p>
+<p begin="00:16:44.029" end="00:16:49.820" style="s2">our labor<span style="s4"> participation</span> has moved up</p>
+<p begin="00:16:46.640" end="00:16:53.410" style="s2">slightly<span style="s4"> from</span> the time that<span style="s4"> McKinsey</span></p>
+<p begin="00:16:49.820" end="00:16:56.000" style="s2">collected this data to<span style="s4"> -</span> this past year</p>
+<p begin="00:16:53.410" end="00:16:59.029" style="s2"><span style="s4">women</span> are doing<span style="s4"> much</span> better<span style="s4"> in terms of</span></p>
+<p begin="00:16:56.000" end="00:17:01.459" style="s2">higher<span style="s4"> education</span><span style="s3"> the</span> places where we</p>
+<p begin="00:16:59.029" end="00:17:03.410" style="s2"><span style="s3">haven&#39;t</span> made<span style="s3"> a lot of progress</span><span style="s4"> are</span> in</p>
+<p begin="00:17:01.459" end="00:17:05.300" style="s2">terms of<span style="s3"> women</span> in<span style="s4"> leadership</span> this<span style="s4"> is</span></p>
+<p begin="00:17:03.410" end="00:17:09.140" style="s2">women in supervisory<span style="s3"> and</span> managerial</p>
+<p begin="00:17:05.300" end="00:17:11.780" style="s2">positions<span style="s4"> the</span> issue of teen pregnancy</p>
+<p begin="00:17:09.140" end="00:17:13.459" style="s2">continues<span style="s4"> to</span> be stagnant<span style="s3"> and then the</span></p>
+<p begin="00:17:11.780" end="00:17:16.100" style="s2">third area<span style="s4"> is</span> the issue of<span style="s3"> violence</span></p>
+<p begin="00:17:13.459" end="00:17:20.240" style="s2">against<span style="s3"> women</span><span style="s4"> where</span> we have the<span style="s3"> most</span></p>
+<p begin="00:17:16.100" end="00:17:24.620" style="s2">opportunity in in our region<span style="s3"> so</span> this</p>
+<p begin="00:17:20.240" end="00:17:26.720" style="s2">brings<span style="s4"> me</span> then<span style="s4"> to</span> what can<span style="s3"> you</span> do we</p>
+<p begin="00:17:24.620" end="00:17:31.340" style="s2">invite you to<span style="s3"> participate in the hundred</span></p>
+<p begin="00:17:26.720" end="00:17:34.010" style="s2">percent<span style="s3"> project</span> and be one of the 100<span style="s4"> we</span></p>
+<p begin="00:17:31.340" end="00:17:37.730" style="s2">invite you to<span style="s4"> join</span> us<span style="s4"> in</span> conversations</p>
+<p begin="00:17:34.010" end="00:17:38.960" style="s2">around<span style="s3"> ending</span> bias we do it annually<span style="s3"> in</span></p>
+<p begin="00:17:37.730" end="00:17:42.200" style="s2">March</p>
+<p begin="00:17:38.960" end="00:17:44.149" style="s2">through a week-long series of</p>
+<p begin="00:17:42.200" end="00:17:45.350" style="s2">conversation<span style="s4"> that</span> we invite you to host</p>
+<p begin="00:17:44.149" end="00:17:50.630" style="s2">called talk it out</p>
+<p begin="00:17:45.350" end="00:17:54.049" style="s2"><span style="s3">and</span> finally be a champion<span style="s3"> for</span> change<span style="s4"> we</span></p>
+<p begin="00:17:50.630" end="00:17:56.630" style="s2">really invite male CEOs to be champions</p>
+<p begin="00:17:54.049" end="00:17:59.090" style="s2">for<span style="s3"> change because we believe that they</span></p>
+<p begin="00:17:56.630" end="00:18:01.880" style="s2">at the top of the pyramid<span style="s3"> is</span> really</p>
+<p begin="00:17:59.090" end="00:18:03.679" style="s2">where you can start making change<span style="s3"> within</span></p>
+<p begin="00:18:01.880" end="00:18:06.770" style="s2">your own companies<span style="s4"> and</span> within<span style="s3"> your own</span></p>
+<p begin="00:18:03.679" end="00:18:08.870" style="s2">corporation and and for those<span style="s3"> of</span><span style="s4"> you</span> who</p>
+<p begin="00:18:06.770" end="00:18:12.529" style="s2">are interested<span style="s3"> in</span> community philanthropy</p>
+<p begin="00:18:08.870" end="00:18:15.620" style="s2">in<span style="s3"> in</span> giving back<span style="s4"> to</span> your community in a</p>
+<p begin="00:18:12.529" end="00:18:17.450" style="s2">very in a financial way<span style="s3"> as</span> well as doing</p>
+<p begin="00:18:15.620" end="00:18:19.490" style="s2">it collaboratively with<span style="s4"> a</span> with a group</p>
+<p begin="00:18:17.450" end="00:18:23.059" style="s2"><span style="s3">of</span> other like-minded people<span style="s3"> we</span> invite</p>
+<p begin="00:18:19.490" end="00:18:25.250" style="s2"><span style="s4">you to join</span> us<span style="s3"> -</span><span style="s4"> join</span> us<span style="s3"> through</span> a</p>
+<p begin="00:18:23.059" end="00:18:27.529" style="s2">giving<span style="s3"> Council</span> at Chicago<span style="s4"> Foundation</span> for</p>
+<p begin="00:18:25.250" end="00:18:29.690" style="s2">women and my colleague<span style="s3"> Ellie</span> Marsh is</p>
+<p begin="00:18:27.529" end="00:18:32.000" style="s2">here and you<span style="s3"> can</span> learn<span style="s3"> more about all</span></p>
+<p begin="00:18:29.690" end="00:18:34.730" style="s2">the giving<span style="s3"> councils we have we have a</span></p>
+<p begin="00:18:32.000" end="00:18:39.740" style="s2">young<span style="s4"> women&#39;s</span> giving<span style="s4"> council</span> we<span style="s3"> have</span> an</p>
+<p begin="00:18:34.730" end="00:18:42.860" style="s2"><span style="s4">lbgtq</span><span style="s3"> giving council we</span> have<span style="s4"> a</span> women</p>
+<p begin="00:18:39.740" end="00:18:45.110" style="s2"><span style="s4">United</span> giving<span style="s4"> Council</span> and and then a</p>
+<p begin="00:18:42.860" end="00:18:47.510" style="s2">couple<span style="s3"> of</span> geographic<span style="s3"> councils</span> one on the</p>
+<p begin="00:18:45.110" end="00:18:50.539" style="s2">North Shore<span style="s4"> and</span><span style="s3"> one</span> in the western</p>
+<p begin="00:18:47.510" end="00:18:55.700" style="s2">suburbs<span style="s4"> so</span> we try<span style="s3"> to</span> have an<span style="s3"> opportunity</span></p>
+<p begin="00:18:50.539" end="00:18:59.149" style="s2">for for everyone that&#39;s all<span style="s4"> I</span> have<span style="s4"> for</span></p>
+<p begin="00:18:55.700" end="00:18:59.750" style="s2">this<span style="s4"> evening</span><span style="s3"> thank you</span><span style="s4"> I&#39;m</span> open for</p>
+<p begin="00:18:59.149" end="00:19:06.860" style="s2"><span style="s3">questions</span></p>
+<p begin="00:18:59.750" end="00:19:10.920" style="s2">[Applause]</p>
+<p begin="00:19:06.860" end="00:19:15.440" style="s2"><span style="s3">all right I will wait</span> for<span style="s4"> this air hose</span></p>
+<p begin="00:19:10.920" end="00:19:15.440" style="s2">thank you anybody with questions<span style="s3"> please</span></p>
+<p begin="00:19:20.330" end="00:19:23.330" style="s2">yes</p>
+<p begin="00:19:28.940" end="00:19:33.899" style="s2">thank you for<span style="s3"> your</span> presentation sorry if</p>
+<p begin="00:19:32.490" end="00:19:35.909" style="s2">this<span style="s4"> was just a little bit</span> but<span style="s4"> I</span> have</p>
+<p begin="00:19:33.899" end="00:19:47.770" style="s2"><span style="s4">questions</span></p>
+<p begin="00:19:35.909" end="00:19:49.720" style="s2">like here<span style="s3"> at</span> itself<span style="s4"> and</span> anyone can</p>
+<p begin="00:19:47.770" end="00:19:52.870" style="s2"><span style="s4">started</span><span style="s3"> waking up at any</span><span style="s4"> time</span> we&#39;ve</p>
+<p begin="00:19:49.720" end="00:20:13.720" style="s2">noticed<span style="s3"> over</span> time<span style="s3"> is that</span><span style="s4"> the</span><span style="s3"> percentage</span></p>
+<p begin="00:19:52.870" end="00:20:17.020" style="s2">of<span style="s3"> people who start yeah so I would</span> ask</p>
+<p begin="00:20:13.720" end="00:20:19.120" style="s2">the<span style="s4"> women</span> in<span style="s3"> this</span><span style="s4"> room</span> if there is a</p>
+<p begin="00:20:17.020" end="00:20:21.970" style="s2">reason<span style="s4"> that</span><span style="s3"> you don&#39;t start there</span></p>
+<p begin="00:20:19.120" end="00:20:24.429" style="s2">certainly<span style="s3"> data</span> shows that<span style="s3"> women are</span></p>
+<p begin="00:20:21.970" end="00:20:27.460" style="s2">willing<span style="s3"> to</span> take on<span style="s3"> leadership</span> roles at</p>
+<p begin="00:20:24.429" end="00:20:30.159" style="s2">the<span style="s3"> same</span> rates as men<span style="s3"> so</span> it&#39;s not</p>
+<p begin="00:20:27.460" end="00:20:36.700" style="s2">something inherently<span style="s3"> that</span> we don&#39;t do</p>
+<p begin="00:20:30.159" end="00:20:38.880" style="s2">but we<span style="s4"> also</span> have enough<span style="s3"> sort</span> of stories</p>
+<p begin="00:20:36.700" end="00:20:41.440" style="s2">about technology</p>
+<p begin="00:20:38.880" end="00:20:44.440" style="s2">technology and technology companies and</p>
+<p begin="00:20:41.440" end="00:20:49.630" style="s2">the role<span style="s3"> of</span> men and women<span style="s4"> in</span> technology</p>
+<p begin="00:20:44.440" end="00:20:51.340" style="s2"><span style="s4">companies</span><span style="s3"> and</span> what that does<span style="s3"> so</span> I don&#39;t</p>
+<p begin="00:20:49.630" end="00:20:53.980" style="s2">know if that plays a<span style="s3"> role</span> but I&#39;d love</p>
+<p begin="00:20:51.340" end="00:20:56.980" style="s2"><span style="s3">to</span> hear what women in the room have to</p>
+<p begin="00:20:53.980" end="00:21:00.270" style="s2">say about<span style="s4"> what</span><span style="s3"> whether</span> that is why that</p>
+<p begin="00:20:56.980" end="00:21:00.270" style="s2">is or if that is</p>
+<p begin="00:21:17.719" end="00:21:27.179" style="s2">so so<span style="s3"> I</span> think<span style="s3"> one</span> of the<span style="s4"> solutions</span> it</p>
+<p begin="00:21:21.299" end="00:21:28.889" style="s2">sounds like is looking<span style="s4"> and</span><span style="s3"> we</span> see this</p>
+<p begin="00:21:27.179" end="00:21:30.899" style="s2">was so when we think about a gender<span style="s4"> lens</span></p>
+<p begin="00:21:28.889" end="00:21:33.149" style="s2">we think<span style="s4"> about</span> the lives of women<span style="s3"> and</span></p>
+<p begin="00:21:30.899" end="00:21:35.009" style="s2">all of the things<span style="s4"> that</span> they need<span style="s4"> to</span> take</p>
+<p begin="00:21:33.149" end="00:21:37.469" style="s2"><span style="s4">care</span> of<span style="s4"> it&#39;s</span><span style="s3"> not just going</span><span style="s4"> to</span> work<span style="s3"> and</span></p>
+<p begin="00:21:35.009" end="00:21:41.039" style="s2"><span style="s4">coming</span> home<span style="s3"> take care of families</span><span style="s4"> and</span></p>
+<p begin="00:21:37.469" end="00:21:44.909" style="s2"><span style="s4">children so do you make this available</span></p>
+<p begin="00:21:41.039" end="00:21:47.849" style="s2">in you know are these nights<span style="s3"> at</span> a time</p>
+<p begin="00:21:44.909" end="00:21:50.460" style="s2">that women can participate<span style="s3"> and</span> stay and</p>
+<p begin="00:21:47.849" end="00:21:54.029" style="s2"><span style="s3">work</span> together<span style="s4"> is</span><span style="s3"> it</span> safe for<span style="s3"> them</span><span style="s4"> to</span></p>
+<p begin="00:21:50.460" end="00:21:56.700" style="s2">stay<span style="s4"> what</span> what kind of opportunities do</p>
+<p begin="00:21:54.029" end="00:21:58.679" style="s2"><span style="s4">you have so that</span><span style="s3"> it</span> there is a flexible</p>
+<p begin="00:21:56.700" end="00:22:00.570" style="s2">arrangement so<span style="s4"> that</span> women can<span style="s3"> work</span></p>
+<p begin="00:21:58.679" end="00:22:04.289" style="s2">together so those are<span style="s3"> sort</span> of some<span style="s4"> of</span></p>
+<p begin="00:22:00.570" end="00:22:08.239" style="s2">the things<span style="s3"> that</span> one might<span style="s4"> think</span> about<span style="s3"> in</span></p>
+<p begin="00:22:04.289" end="00:22:08.239" style="s2"><span style="s4">terms</span><span style="s3"> of</span> a solution<span style="s4"> does</span> that make sense</p>
+<p begin="00:22:24.340" end="00:22:32.429" style="s2">[Music]</p>
+<p begin="00:22:27.440" end="00:22:34.619" style="s2">in general it<span style="s4"> just</span><span style="s3"> seems like or</span> like<span style="s3"> we</span></p>
+<p begin="00:22:32.429" end="00:22:37.859" style="s2">have to<span style="s3"> have</span> tons<span style="s3"> of</span> data<span style="s4"> examples</span> and</p>
+<p begin="00:22:34.619" end="00:22:39.839" style="s2">why it<span style="s4"> should</span> work<span style="s3"> the</span> exact same thing</p>
+<p begin="00:22:37.859" end="00:22:45.269" style="s2"><span style="s4">like</span><span style="s3"> my</span> words are still<span style="s3"> vibrating</span> in the</p>
+<p begin="00:22:39.839" end="00:22:47.279" style="s2"><span style="s3">air</span> so trying to do that<span style="s3"> lasso</span> the woman</p>
+<p begin="00:22:45.269" end="00:22:49.200" style="s2">says something pause for a<span style="s4"> moment</span> or<span style="s3"> a</span></p>
+<p begin="00:22:47.279" end="00:22:54.960" style="s2"><span style="s3">Disick</span> knowledge that<span style="s4"> she</span> said<span style="s3"> something</span></p>
+<p begin="00:22:49.200" end="00:22:56.700" style="s2">in me and<span style="s4"> just</span> respond<span style="s3"> to</span> it and I<span style="s4"> think</span></p>
+<p begin="00:22:54.960" end="00:22:59.609" style="s2">that&#39;s that&#39;s a great response<span style="s3"> and</span></p>
+<p begin="00:22:56.700" end="00:23:01.409" style="s2">there&#39;s actually<span style="s3"> data</span> there&#39;s actually</p>
+<p begin="00:22:59.609" end="00:23:04.649" style="s2">research that<span style="s3"> that</span> proves that<span style="s3"> that&#39;s</span></p>
+<p begin="00:23:01.409" end="00:23:07.440" style="s2"><span style="s4">that</span> is<span style="s3"> the</span> case a group of researchers</p>
+<p begin="00:23:04.649" end="00:23:12.059" style="s2"><span style="s4">from</span> Harvard<span style="s3"> recently</span> did a study<span style="s3"> in</span></p>
+<p begin="00:23:07.440" end="00:23:15.389" style="s2">looking at how questions were given by</p>
+<p begin="00:23:12.059" end="00:23:18.020" style="s2">VCS particularly to women versus men and</p>
+<p begin="00:23:15.389" end="00:23:21.050" style="s2">and there&#39;s there&#39;s a big difference<span style="s4"> in</span></p>
+<p begin="00:23:18.020" end="00:23:22.700" style="s2">of how one one is more inspiring<span style="s4"> when</span></p>
+<p begin="00:23:21.050" end="00:23:25.340" style="s2">when you<span style="s4"> talk</span> to men the questions are</p>
+<p begin="00:23:22.700" end="00:23:27.559" style="s2">more inspiring and when it talks to</p>
+<p begin="00:23:25.340" end="00:23:30.710" style="s2"><span style="s4">women</span> in<span style="s3"> their more quantitative and and</span></p>
+<p begin="00:23:27.559" end="00:23:33.350" style="s2">not and limiting actually in terms of</p>
+<p begin="00:23:30.710" end="00:23:36.890" style="s2">what happens so<span style="s3"> none</span> of<span style="s3"> this</span> is</p>
+<p begin="00:23:33.350" end="00:23:39.020" style="s2">necessarily<span style="s3"> conscious</span> and that&#39;s why we</p>
+<p begin="00:23:36.890" end="00:23:40.940" style="s2">get to<span style="s3"> this</span> whole issue<span style="s4"> of</span> unconscious</p>
+<p begin="00:23:39.020" end="00:23:46.400" style="s2">bias and thinking about implicit bias</p>
+<p begin="00:23:40.940" end="00:23:53.059" style="s2">and things like that<span style="s3"> pertinent to</span></p>
+<p begin="00:23:46.400" end="00:23:55.610" style="s2">starting a bigger<span style="s4"> I</span> think for me my<span style="s4"> news</span></p>
+<p begin="00:23:53.059" end="00:23:57.470" style="s2"><span style="s3">here is that I</span> needed to be<span style="s3"> given</span></p>
+<p begin="00:23:55.610" end="00:23:59.360" style="s2"><span style="s4">permission</span> in order<span style="s3"> to</span> start one and</p>
+<p begin="00:23:57.470" end="00:24:01.820" style="s2">since the rules</p>
+<p begin="00:23:59.360" end="00:24:05.480" style="s2">she started aren&#39;t clear at<span style="s3"> all but the</span></p>
+<p begin="00:24:01.820" end="00:24:11.900" style="s2">rules<span style="s4"> look</span><span style="s3"> at</span> the are no rules<span style="s4"> so</span> and I</p>
+<p begin="00:24:05.480" end="00:24:13.880" style="s2">think<span style="s3"> perhaps</span> someone<span style="s4"> maybe</span> a man might</p>
+<p begin="00:24:11.900" end="00:24:16.160" style="s2">be used<span style="s3"> to</span> not<span style="s4"> wait the permission</span></p>
+<p begin="00:24:13.880" end="00:24:17.720" style="s2"><span style="s3">rather this taking initiative whereas I</span></p>
+<p begin="00:24:16.160" end="00:24:19.880" style="s2">feel<span style="s3"> like</span> I needed<span style="s3"> someone</span> to<span style="s3"> be</span><span style="s4"> like</span></p>
+<p begin="00:24:17.720" end="00:24:26.150" style="s2">this is okay<span style="s4"> for</span><span style="s3"> anyone</span> to do in here</p>
+<p begin="00:24:19.880" end="00:24:29.110" style="s2"><span style="s3">how</span> it&#39;s done<span style="s4"> second</span><span style="s3"> thing</span> is<span style="s4"> that</span> my</p>
+<p begin="00:24:26.150" end="00:24:31.780" style="s2"><span style="s3">opinion</span> of the day that if you are</p>
+<p begin="00:24:29.110" end="00:24:35.240" style="s2"><span style="s4">assume</span><span style="s3"> that</span> you&#39;re part of the problem</p>
+<p begin="00:24:31.780" end="00:24:36.950" style="s2"><span style="s4">no</span> matter<span style="s3"> how</span><span style="s4"> enlightened</span><span style="s3"> you</span> are it</p>
+<p begin="00:24:35.240" end="00:24:38.300" style="s2"><span style="s4">doesn&#39;t</span><span style="s3"> matter how many articles you</span></p>
+<p begin="00:24:36.950" end="00:24:42.410" style="s2">read or what<span style="s4"> you&#39;ve</span> eat it sometimes</p>
+<p begin="00:24:38.300" end="00:24:44.179" style="s2"><span style="s4">you&#39;re</span> still sexist<span style="s3"> so</span> just assume that</p>
+<p begin="00:24:42.410" end="00:24:46.820" style="s2">you&#39;re doing something wrong<span style="s4"> like</span> we</p>
+<p begin="00:24:44.179" end="00:24:48.470" style="s2">probably all are and<span style="s3"> if</span> use that as an</p>
+<p begin="00:24:46.820" end="00:24:50.360" style="s2"><span style="s4">approach to learn</span><span style="s3"> because</span> if you already</p>
+<p begin="00:24:48.470" end="00:24:53.840" style="s2"><span style="s4">think</span> you know you can&#39;t learn how<span style="s4"> to</span></p>
+<p begin="00:24:50.360" end="00:25:02.990" style="s2">change<span style="s3"> your</span> behavior<span style="s3"> that</span> was those<span style="s4"> who</span></p>
+<p begin="00:24:53.840" end="00:25:08.210" style="s2">are<span style="s3"> strong</span> fighting words I don&#39;t know</p>
+<p begin="00:25:02.990" end="00:25:11.420" style="s2">that I endorse<span style="s3"> all</span> of that and I call</p>
+<p begin="00:25:08.210" end="00:25:16.250" style="s2">myself a feminist so<span style="s4"> there</span> you are<span style="s4"> but</span></p>
+<p begin="00:25:11.420" end="00:25:19.309" style="s2">but<span style="s4"> I</span> think<span style="s3"> certainly it it</span> does come</p>
+<p begin="00:25:16.250" end="00:25:22.040" style="s2"><span style="s3">with</span> some<span style="s4"> privilege</span> you know<span style="s3"> we</span> we all</p>
+<p begin="00:25:19.309" end="00:25:26.750" style="s2">can recognize the<span style="s4"> privilege</span> we bring to</p>
+<p begin="00:25:22.040" end="00:25:29.540" style="s2">a space<span style="s3"> whether</span> it&#39;s being male whether</p>
+<p begin="00:25:26.750" end="00:25:31.879" style="s2">it&#39;s<span style="s3"> being</span> white whether it&#39;s education</p>
+<p begin="00:25:29.540" end="00:25:34.279" style="s2">whether it&#39;s<span style="s4"> its</span> class</p>
+<p begin="00:25:31.879" end="00:25:36.229" style="s2">so certainly there<span style="s4"> is</span> that is part<span style="s3"> of</span> it</p>
+<p begin="00:25:34.279" end="00:25:39.049" style="s2"><span style="s4">I</span> think<span style="s4"> I</span> think that&#39;s what you&#39;re</p>
+<p begin="00:25:36.229" end="00:25:42.099" style="s2">getting<span style="s3"> at</span><span style="s4"> and</span> for us<span style="s3"> each</span> to recognize</p>
+<p begin="00:25:39.049" end="00:25:45.319" style="s2">the privilege<span style="s3"> we</span> bring<span style="s3"> into any space is</span></p>
+<p begin="00:25:42.099" end="00:25:49.429" style="s2">important<span style="s3"> I</span> think<span style="s4"> I like what you</span> said</p>
+<p begin="00:25:45.319" end="00:25:53.719" style="s2"><span style="s3">about</span> rules<span style="s4"> I</span> don&#39;t<span style="s3"> know</span> if that is</p>
+<p begin="00:25:49.429" end="00:25:57.319" style="s2">necessarily<span style="s3"> a</span> gender thing but I invite</p>
+<p begin="00:25:53.719" end="00:25:59.569" style="s2">all<span style="s3"> the</span> women<span style="s4"> in</span> this room<span style="s3"> and</span><span style="s4"> your</span></p>
+<p begin="00:25:57.319" end="00:26:02.049" style="s2">friends<span style="s4"> to</span> step into<span style="s4"> your</span> space and</p>
+<p begin="00:25:59.569" end="00:26:02.049" style="s2">break the rules</p>
+<p begin="00:26:14.650" end="00:26:21.610" style="s2"><span style="s4">I</span> my<span style="s3"> question</span> is my big book is</p>
+<p begin="00:26:19.210" end="00:26:24.460" style="s2"><span style="s3">sustainability</span> in the environment and I</p>
+<p begin="00:26:21.610" end="00:26:29.440" style="s2">see a lot of women groups<span style="s4"> about</span> women</p>
+<p begin="00:26:24.460" end="00:26:33.690" style="s2">attack<span style="s3"> focus</span> and I feel like a lot of</p>
+<p begin="00:26:29.440" end="00:26:36.700" style="s2"><span style="s3">women</span> don&#39;t want<span style="s3"> to</span><span style="s4"> meet</span> and<span style="s3"> you</span> know I</p>
+<p begin="00:26:33.690" end="00:26:39.130" style="s2">look at the feminine evolutionary</p>
+<p begin="00:26:36.700" end="00:26:41.730" style="s2">history<span style="s4"> sparse</span><span style="s3"> and</span> then one hunters and</p>
+<p begin="00:26:39.130" end="00:26:48.159" style="s2">gatherers and<span style="s3"> many</span> were<span style="s3"> hunter-gatherers</span></p>
+<p begin="00:26:41.730" end="00:26:51.880" style="s2"><span style="s4">and</span> not<span style="s3"> these</span> cycles but but the<span style="s3"> point</span></p>
+<p begin="00:26:48.159" end="00:26:55.120" style="s2">is you guys I<span style="s3"> think there&#39;s</span><span style="s4"> an</span></p>
+<p begin="00:26:51.880" end="00:27:01.330" style="s2"><span style="s4">illuminating</span><span style="s3"> environmental</span><span style="s4"> instability</span></p>
+<p begin="00:26:55.120" end="00:27:04.299" style="s2"><span style="s4">you</span><span style="s3"> see</span> it was an attack so we</p>
+<p begin="00:27:01.330" end="00:27:06.370" style="s2"><span style="s3">immediately</span><span style="s4"> believe</span> that the climate</p>
+<p begin="00:27:04.299" end="00:27:10.000" style="s2">change is<span style="s4"> going</span> to affect women</p>
+<p begin="00:27:06.370" end="00:27:13.659" style="s2">disproportionately<span style="s3"> and</span> especially<span style="s3"> women</span></p>
+<p begin="00:27:10.000" end="00:27:16.630" style="s2">in in poor communities<span style="s3"> and</span> women in the</p>
+<p begin="00:27:13.659" end="00:27:20.890" style="s2">global South<span style="s4"> they</span> are<span style="s3"> really</span> going<span style="s3"> to</span></p>
+<p begin="00:27:16.630" end="00:27:24.340" style="s2">face a huge impact of on climate<span style="s4"> change</span></p>
+<p begin="00:27:20.890" end="00:27:27.250" style="s2">so it is it<span style="s3"> is</span> imperative that<span style="s3"> not</span> just</p>
+<p begin="00:27:24.340" end="00:27:30.279" style="s2"><span style="s3">women</span> but but all of us<span style="s3"> really</span> think</p>
+<p begin="00:27:27.250" end="00:27:33.490" style="s2">about what it<span style="s4"> means</span> for<span style="s4"> our</span> society<span style="s3"> and</span></p>
+<p begin="00:27:30.279" end="00:27:36.429" style="s2">for<span style="s3"> our</span> communities while<span style="s4"> cfw</span> doesn&#39;t</p>
+<p begin="00:27:33.490" end="00:27:40.480" style="s2">have<span style="s3"> a</span> specific<span style="s4"> focus on sustainability</span></p>
+<p begin="00:27:36.429" end="00:27:43.120" style="s2">or on the environment we know that it is</p>
+<p begin="00:27:40.480" end="00:27:45.490" style="s2"><span style="s4">absolutely</span> something<span style="s3"> to</span> be<span style="s3"> concerned</span></p>
+<p begin="00:27:43.120" end="00:27:48.360" style="s2">about<span style="s3"> and</span> and it is going<span style="s3"> to</span> impact</p>
+<p begin="00:27:45.490" end="00:27:48.360" style="s2"><span style="s3">women</span> disproportionately</p>
+<p begin="00:27:52.470" end="00:27:59.890" style="s2"><span style="s3">you</span><span style="s4"> mention</span><span style="s3"> the community graphically</span></p>
+<p begin="00:27:57.179" end="00:28:03.160" style="s2">economic empowerment<span style="s3"> is</span> probably one of</p>
+<p begin="00:27:59.890" end="00:28:05.110" style="s2">the<span style="s3"> biggest</span> impactful things and I was</p>
+<p begin="00:28:03.160" end="00:28:07.419" style="s2"><span style="s3">really</span> happy<span style="s4"> to</span><span style="s3"> hear</span> about it would<span style="s4"> you</span></p>
+<p begin="00:28:05.110" end="00:28:11.169" style="s2">be<span style="s4"> able</span><span style="s3"> to</span> give an<span style="s4"> example</span><span style="s3"> of</span> a</p>
+<p begin="00:28:07.419" end="00:28:20.260" style="s2"><span style="s4">particular</span><span style="s3"> program it&#39;s about</span> what kind</p>
+<p begin="00:28:11.169" end="00:28:24.900" style="s2">of<span style="s3"> okay</span> so<span style="s3"> I&#39;ll</span> give<span style="s4"> you</span> two examples</p>
+<p begin="00:28:20.260" end="00:28:28.059" style="s2">one of<span style="s3"> each</span> kind one is we<span style="s3"> are</span> really</p>
+<p begin="00:28:24.900" end="00:28:32.440" style="s2"><span style="s3">concerned</span> about<span style="s3"> low-income</span> working women</p>
+<p begin="00:28:28.059" end="00:28:36.010" style="s2">getting to a sustainable<span style="s3"> wage</span> and</p>
+<p begin="00:28:32.440" end="00:28:41.500" style="s2">getting to a career and and<span style="s3"> talking</span></p>
+<p begin="00:28:36.010" end="00:28:44.320" style="s2">about<span style="s3"> technology so so the kinds of</span></p>
+<p begin="00:28:41.500" end="00:28:45.940" style="s2">programs<span style="s4"> that</span> we support<span style="s4"> I&#39;ll</span> give you</p>
+<p begin="00:28:44.320" end="00:28:49.419" style="s2">one example is called the<span style="s3"> Jane</span> Addams</p>
+<p begin="00:28:45.940" end="00:28:51.870" style="s2"><span style="s4">resource</span><span style="s3"> corporation</span> we fund them<span style="s3"> for</span> a</p>
+<p begin="00:28:49.419" end="00:28:56.850" style="s2">program called women in manufacturing</p>
+<p begin="00:28:51.870" end="00:28:59.049" style="s2">they teach women specific skills around</p>
+<p begin="00:28:56.850" end="00:29:04.419" style="s2"><span style="s3">welding</span> around<span style="s3"> advanced</span> manufacturing</p>
+<p begin="00:28:59.049" end="00:29:07.929" style="s2">and and machining<span style="s3"> so</span> the idea<span style="s3"> is</span><span style="s4"> that</span></p>
+<p begin="00:29:04.419" end="00:29:10.179" style="s2">these the program again<span style="s3"> taking into</span></p>
+<p begin="00:29:07.929" end="00:29:12.850" style="s2"><span style="s4">considering</span><span style="s3"> consideration</span> the gender</p>
+<p begin="00:29:10.179" end="00:29:14.380" style="s2">lens<span style="s3"> it&#39;s</span> offered at a time that<span style="s3"> women</span></p>
+<p begin="00:29:12.850" end="00:29:17.130" style="s2">can<span style="s4"> actually</span> participate they have</p>
+<p begin="00:29:14.380" end="00:29:20.080" style="s2">access<span style="s3"> to</span><span style="s4"> childcare</span><span style="s3"> they</span> have access<span style="s3"> to</span></p>
+<p begin="00:29:17.130" end="00:29:22.179" style="s2"><span style="s3">financial</span> supports they go through the</p>
+<p begin="00:29:20.080" end="00:29:24.640" style="s2">program<span style="s4"> the</span> skills based program which</p>
+<p begin="00:29:22.179" end="00:29:27.820" style="s2">goes for<span style="s4"> about</span> nine months<span style="s4"> there&#39;s</span> a</p>
+<p begin="00:29:24.640" end="00:29:30.309" style="s2">very<span style="s3"> strong</span> retention rate and women who</p>
+<p begin="00:29:27.820" end="00:29:32.710" style="s2">leave the<span style="s4"> program</span> get placed<span style="s3"> because</span> we</p>
+<p begin="00:29:30.309" end="00:29:35.440" style="s2">look at<span style="s4"> organizations</span> that also have a</p>
+<p begin="00:29:32.710" end="00:29:37.990" style="s2">relationship<span style="s3"> with</span> an employer<span style="s4"> so</span> women</p>
+<p begin="00:29:35.440" end="00:29:41.650" style="s2">who leave that program end up with<span style="s3"> jobs</span></p>
+<p begin="00:29:37.990" end="00:29:44.580" style="s2">at the<span style="s3"> end</span> of it<span style="s3"> which</span> pay for<span style="s3"> 18 20 22</span></p>
+<p begin="00:29:41.650" end="00:29:47.770" style="s2">dollars an hour<span style="s4"> so getting</span><span style="s3"> to</span> that</p>
+<p begin="00:29:44.580" end="00:29:50.169" style="s2">family sustaining<span style="s3"> wage</span> so that&#39;s one</p>
+<p begin="00:29:47.770" end="00:29:52.990" style="s2">example<span style="s3"> so we focus on organizations</span></p>
+<p begin="00:29:50.169" end="00:29:56.289" style="s2">training organizations that are linked</p>
+<p begin="00:29:52.990" end="00:29:59.490" style="s2"><span style="s4">to</span> jobs<span style="s3"> and</span> also<span style="s3"> training</span> organizations</p>
+<p begin="00:29:56.289" end="00:30:01.659" style="s2">that are training<span style="s4"> in</span> skills that lead<span style="s4"> to</span></p>
+<p begin="00:29:59.490" end="00:30:03.970" style="s2">living wage jobs<span style="s3"> and</span> then</p>
+<p begin="00:30:01.659" end="00:30:04.780" style="s2">the credits are<span style="s3"> stackable</span> so you don&#39;t</p>
+<p begin="00:30:03.970" end="00:30:06.880" style="s2">necessarily</p>
+<p begin="00:30:04.780" end="00:30:08.710" style="s2">need a four-year<span style="s4"> degree</span> or<span style="s4"> you</span> don&#39;t</p>
+<p begin="00:30:06.880" end="00:30:11.890" style="s2"><span style="s4">necessarily</span><span style="s3"> need</span> an advanced<span style="s4"> degree</span> in</p>
+<p begin="00:30:08.710" end="00:30:14.350" style="s2"><span style="s3">order</span> to make that<span style="s3"> family</span><span style="s4"> sustaining</span></p>
+<p begin="00:30:11.890" end="00:30:17.500" style="s2"><span style="s3">wage</span><span style="s4"> so</span> that&#39;s one example<span style="s4"> so</span> that&#39;s<span style="s3"> one</span></p>
+<p begin="00:30:14.350" end="00:30:20.919" style="s2"><span style="s3">piece that</span><span style="s4"> is</span><span style="s3"> working</span> with<span style="s3"> one woman at</span></p>
+<p begin="00:30:17.500" end="00:30:23.590" style="s2">a time<span style="s4"> that</span><span style="s3"> only</span> goes so far<span style="s4"> the</span> other</p>
+<p begin="00:30:20.919" end="00:30:26.110" style="s2"><span style="s4">side</span> of that is as I said<span style="s3"> focus on the</span></p>
+<p begin="00:30:23.590" end="00:30:29.919" style="s2">policy issue<span style="s4"> so</span> then we are concerned</p>
+<p begin="00:30:26.110" end="00:30:33.970" style="s2">about<span style="s4"> things like paid sick leave over</span></p>
+<p begin="00:30:29.919" end="00:30:37.120" style="s2"><span style="s4">40%</span><span style="s3"> of</span> women<span style="s4"> in low-wage jobs</span><span style="s3"> don&#39;t</span> have</p>
+<p begin="00:30:33.970" end="00:30:39.340" style="s2">any days of paid sick<span style="s3"> leave</span> you you</p>
+<p begin="00:30:37.120" end="00:30:41.620" style="s2">probably<span style="s3"> know</span> restaurant workers you</p>
+<p begin="00:30:39.340" end="00:30:43.150" style="s2">probably know particularly think about</p>
+<p begin="00:30:41.620" end="00:30:46.059" style="s2">restaurant workers you<span style="s4"> are</span> in their</p>
+<p begin="00:30:43.150" end="00:30:49.450" style="s2">restaurants and they&#39;re coming<span style="s4"> to</span><span style="s3"> work</span></p>
+<p begin="00:30:46.059" end="00:30:51.220" style="s2">sick<span style="s4"> and</span> and and you know sneezing over</p>
+<p begin="00:30:49.450" end="00:30:53.230" style="s2">your food or coughing over<span style="s3"> your</span> food you</p>
+<p begin="00:30:51.220" end="00:30:55.179" style="s2">don&#39;t<span style="s3"> want</span> that<span style="s3"> but</span> it&#39;s not good for</p>
+<p begin="00:30:53.230" end="00:30:57.640" style="s2"><span style="s4">the</span> worker themselves and for them<span style="s4"> not</span></p>
+<p begin="00:30:55.179" end="00:31:03.850" style="s2">to<span style="s4"> have</span> paid leave</p>
+<p begin="00:30:57.640" end="00:31:06.490" style="s2"><span style="s3">so</span> we now so we refunded advocates who</p>
+<p begin="00:31:03.850" end="00:31:08.679" style="s2">worked on<span style="s4"> that</span> policy<span style="s4"> to</span> get us paid</p>
+<p begin="00:31:06.490" end="00:31:12.929" style="s2">sick leave<span style="s4"> so</span> two sides<span style="s3"> of</span> that coin</p>
+<p begin="00:31:08.679" end="00:31:12.929" style="s2"><span style="s3">sort</span> of long answer<span style="s4"> to</span> your question</p>
+<p begin="00:31:20.190" end="00:31:26.910" style="s2">so I<span style="s3"> agree what kind</span><span style="s4"> of</span><span style="s3"> concrete</span></p>
+<p begin="00:31:24.270" end="00:31:31.950" style="s2">measures do you take to combat</p>
+<p begin="00:31:26.910" end="00:31:33.030" style="s2">assumptions like sort of a like not time</p>
+<p begin="00:31:31.950" end="00:31:35.010" style="s2">to tell you<span style="s3"> about</span> here but like</p>
+<p begin="00:31:33.030" end="00:31:37.230" style="s2">historical or some things<span style="s3"> of</span> like what</p>
+<p begin="00:31:35.010" end="00:31:39.360" style="s2">women can or can&#39;t do based<span style="s3"> on</span><span style="s4"> what</span> has</p>
+<p begin="00:31:37.230" end="00:31:44.660" style="s2"><span style="s4">historically</span> been<span style="s4"> of</span> things that<span style="s4"> women</span></p>
+<p begin="00:31:39.360" end="00:31:44.660" style="s2"><span style="s3">have</span> done or<span style="s4"> have</span> been trained or<span style="s4"> I</span></p>
+<p begin="00:31:58.460" end="00:32:01.579" style="s2">[Music]</p>
+<p begin="00:32:03.020" end="00:32:09.990" style="s2"><span style="s4">guess</span> I didn&#39;t understand your<span style="s3"> question</span></p>
+<p begin="00:32:05.520" end="00:32:12.360" style="s2"><span style="s4">if</span> you can<span style="s3"> sort</span> of rephrase that so</p>
+<p begin="00:32:09.990" end="00:32:13.770" style="s2"><span style="s3">basically</span> I&#39;m just<span style="s3"> wondering</span> like<span style="s4"> what</span></p>
+<p begin="00:32:12.360" end="00:32:17.010" style="s2">are some<span style="s3"> concrete measures you would</span></p>
+<p begin="00:32:13.770" end="00:32:22.260" style="s2">take to<span style="s4"> trying</span><span style="s3"> three</span> biases that people</p>
+<p begin="00:32:17.010" end="00:32:24.480" style="s2"><span style="s4">might</span> have essentialist ideas of<span style="s4"> like</span></p>
+<p begin="00:32:22.260" end="00:32:27.690" style="s2">what<span style="s3"> women</span> can or can&#39;t do you based on</p>
+<p begin="00:32:24.480" end="00:32:35.400" style="s2"><span style="s4">what</span> they<span style="s3"> historically</span> have been able<span style="s3"> to</span></p>
+<p begin="00:32:27.690" end="00:32:37.560" style="s2">do or have done<span style="s3"> yeah</span> I mean it&#39;s so</p>
+<p begin="00:32:35.400" end="00:32:39.810" style="s2">you&#39;re you&#39;re talking<span style="s4"> about</span><span style="s3"> changing</span></p>
+<p begin="00:32:37.560" end="00:32:41.970" style="s2">hearts and<span style="s3"> minds right so it&#39;s one thing</span></p>
+<p begin="00:32:39.810" end="00:32:44.240" style="s2"><span style="s4">to</span> change one&#39;s mind you know all the</p>
+<p begin="00:32:41.970" end="00:32:48.030" style="s2">data in<span style="s3"> the</span> world<span style="s3"> may</span> not change hearts</p>
+<p begin="00:32:44.240" end="00:32:51.090" style="s2"><span style="s3">there</span> is enough data now and and you&#39;ve</p>
+<p begin="00:32:48.030" end="00:32:53.880" style="s2">probably seen<span style="s3"> after</span><span style="s4"> the</span> infamous<span style="s4"> Google</span></p>
+<p begin="00:32:51.090" end="00:32:56.940" style="s2">memo<span style="s4"> all</span> of the data<span style="s3"> that</span> came out<span style="s4"> do</span></p>
+<p begin="00:32:53.880" end="00:32:59.610" style="s2">you know<span style="s4"> so</span> certainly there there&#39;s data</p>
+<p begin="00:32:56.940" end="00:33:03.600" style="s2"><span style="s3">to</span> indicate that<span style="s3"> there&#39;s</span> not<span style="s3"> a lot of</span></p>
+<p begin="00:32:59.610" end="00:33:07.830" style="s2">difference that&#39;s not sometimes very</p>
+<p begin="00:33:03.600" end="00:33:09.690" style="s2">helpful some sometimes<span style="s3"> you</span> know<span style="s3"> it&#39;s</span></p>
+<p begin="00:33:07.830" end="00:33:11.880" style="s2">about<span style="s3"> doing</span><span style="s4"> the</span> work<span style="s3"> and</span> being</p>
+<p begin="00:33:09.690" end="00:33:17.100" style="s2">recognized<span style="s4"> for</span> it<span style="s3"> it&#39;s</span> it&#39;s about</p>
+<p begin="00:33:11.880" end="00:33:19.860" style="s2"><span style="s4">stepping</span> up<span style="s3"> and at the end of the day</span><span style="s4"> do</span></p>
+<p begin="00:33:17.100" end="00:33:22.110" style="s2">you<span style="s3"> really</span> want<span style="s3"> to</span> try<span style="s3"> and</span> convince</p>
+<p begin="00:33:19.860" end="00:33:24.380" style="s2"><span style="s4">someone</span> who&#39;s not ready to be convinced</p>
+<p begin="00:33:22.110" end="00:33:27.240" style="s2"><span style="s3">and is it worth it</span></p>
+<p begin="00:33:24.380" end="00:33:29.910" style="s2">that&#39;s a question I<span style="s3"> ask you to</span> ask<span style="s3"> so</span></p>
+<p begin="00:33:27.240" end="00:33:32.880" style="s2">one of myself<span style="s4"> recently</span> told me well<span style="s3"> you</span></p>
+<p begin="00:33:29.910" end="00:33:33.100" style="s2">just<span style="s3"> stand</span> up there<span style="s4"> and</span> say what what</p>
+<p begin="00:33:32.880" end="00:33:35.200" style="s2">you</p>
+<p begin="00:33:33.100" end="00:33:37.990" style="s2">really mean to say<span style="s3"> you</span> say<span style="s4"> what</span> you<span style="s4"> mean</span></p>
+<p begin="00:33:35.200" end="00:33:40.299" style="s2">is what what she said to<span style="s4"> me</span> and I&#39;m<span style="s4"> like</span></p>
+<p begin="00:33:37.990" end="00:33:42.160" style="s2">I don&#39;t know<span style="s3"> to</span> be<span style="s3"> anyone</span> else<span style="s3"> she</span> says</p>
+<p begin="00:33:40.299" end="00:33:43.690" style="s2">you don&#39;t care<span style="s3"> that</span><span style="s4"> people</span> may<span style="s4"> not</span> there</p>
+<p begin="00:33:42.160" end="00:33:48.580" style="s2">may be some<span style="s4"> people</span> who don&#39;t<span style="s3"> like</span><span style="s4"> you</span></p>
+<p begin="00:33:43.690" end="00:33:53.049" style="s2">it&#39;s<span style="s4"> like</span> yeah so<span style="s3"> so</span> what<span style="s3"> I</span> know what<span style="s3"> I</span></p>
+<p begin="00:33:48.580" end="00:33:55.419" style="s2"><span style="s3">can</span> do and be confident<span style="s4"> so</span> again<span style="s4"> I</span><span style="s3"> want</span></p>
+<p begin="00:33:53.049" end="00:33:57.549" style="s2">to<span style="s3"> tell</span><span style="s4"> you</span> that<span style="s3"> what</span><span style="s4"> we</span> do is not<span style="s4"> about</span></p>
+<p begin="00:33:55.419" end="00:34:00.640" style="s2">fixing<span style="s3"> women</span> so everything<span style="s4"> that</span> I talked</p>
+<p begin="00:33:57.549" end="00:34:02.950" style="s2">about hopefully<span style="s3"> makes</span> it clear that<span style="s4"> what</span></p>
+<p begin="00:34:00.640" end="00:34:05.500" style="s2">we are about is it&#39;s not about<span style="s4"> fixing</span></p>
+<p begin="00:34:02.950" end="00:34:08.460" style="s2">women it&#39;s<span style="s3"> about</span> fixing<span style="s3"> structures</span> it&#39;s</p>
+<p begin="00:34:05.500" end="00:34:10.840" style="s2"><span style="s3">about</span> fixed<span style="s3"> fixing</span> the structural</p>
+<p begin="00:34:08.460" end="00:34:13.149" style="s2">imbalances this is not about fixing</p>
+<p begin="00:34:10.840" end="00:34:15.940" style="s2"><span style="s4">women</span> so it&#39;s so I<span style="s3"> don&#39;t</span> want to go out</p>
+<p begin="00:34:13.149" end="00:34:19.570" style="s2">and<span style="s3"> fix</span> men either<span style="s3"> that&#39;s</span> that&#39;s not my</p>
+<p begin="00:34:15.940" end="00:34:22.149" style="s2">job<span style="s3"> nor does it make</span> sense<span style="s3"> so</span> we have to</p>
+<p begin="00:34:19.570" end="00:34:23.859" style="s2">fix the systems and the<span style="s4"> structures</span> so</p>
+<p begin="00:34:22.149" end="00:34:26.500" style="s2">that&#39;s the place<span style="s3"> we&#39;ve</span> where<span style="s3"> we</span> can make</p>
+<p begin="00:34:23.859" end="00:34:28.869" style="s2"><span style="s3">a</span> difference<span style="s4"> I</span> hope I hope that makes</p>
+<p begin="00:34:26.500" end="00:34:31.800" style="s2"><span style="s3">sense</span><span style="s4"> it&#39;s not the</span><span style="s3"> answer</span> perhaps<span style="s3"> that</span></p>
+<p begin="00:34:28.869" end="00:34:31.800" style="s2">you&#39;d like<span style="s3"> me</span><span style="s4"> to do</span><span style="s3"> you</span></p>
+<p begin="00:34:31.860" end="00:34:34.969" style="s2">[Music]</p>
+<p begin="00:34:35.789" end="00:34:41.279" style="s2">so so that&#39;s that&#39;s<span style="s4"> why</span> we focus<span style="s4"> on</span></p>
+<p begin="00:34:38.769" end="00:34:44.619" style="s2">things like HR policies that&#39;s why we</p>
+<p begin="00:34:41.279" end="00:34:47.740" style="s2">look<span style="s3"> at</span> things<span style="s3"> like unusual</span></p>
+<p begin="00:34:44.619" end="00:34:50.079" style="s2">collaborations<span style="s3"> we</span> think that young boy</p>
+<p begin="00:34:47.740" end="00:34:52.299" style="s2">we think that gender norms are a big</p>
+<p begin="00:34:50.079" end="00:34:54.369" style="s2">issue<span style="s4"> so</span> let&#39;s look at<span style="s3"> that</span> next</p>
+<p begin="00:34:52.299" end="00:34:56.169" style="s2"><span style="s4">generation</span> about<span style="s3"> how</span> we&#39;re<span style="s4"> raising</span> young</p>
+<p begin="00:34:54.369" end="00:34:59.759" style="s2">boys and<span style="s4"> young</span> girls<span style="s3"> and</span> what we&#39;re</p>
+<p begin="00:34:56.169" end="00:35:02.740" style="s2"><span style="s3">teaching</span> them<span style="s3"> let&#39;s</span> look at what<span style="s3"> are the</span></p>
+<p begin="00:34:59.759" end="00:35:05.230" style="s2">what<span style="s4"> are</span> the the structural factors in</p>
+<p begin="00:35:02.740" end="00:35:07.900" style="s2">terms of thinking<span style="s3"> about how our</span></p>
+<p begin="00:35:05.230" end="00:35:09.999" style="s2">companies are run kind of who gets<span style="s3"> to be</span></p>
+<p begin="00:35:07.900" end="00:35:12.190" style="s2"><span style="s4">in</span> the<span style="s3"> boardroom</span> who gets to be<span style="s3"> the</span> CEO</p>
+<p begin="00:35:09.999" end="00:35:15.759" style="s2"><span style="s3">and</span> what what what are the impacts of</p>
+<p begin="00:35:12.190" end="00:35:17.799" style="s2"><span style="s3">that</span><span style="s4"> and</span> kind of you<span style="s3"> know</span><span style="s4"> it&#39;s</span><span style="s3"> it&#39;s</span> sort</p>
+<p begin="00:35:15.759" end="00:35:20.710" style="s2"><span style="s3">of</span> at every<span style="s3"> level who gets hired who</span></p>
+<p begin="00:35:17.799" end="00:35:23.920" style="s2">gets promoted you know it&#39;s it&#39;s all<span style="s3"> of</span></p>
+<p begin="00:35:20.710" end="00:35:27.160" style="s2">those factors right<span style="s3"> so ultimately if</span></p>
+<p begin="00:35:23.920" end="00:35:30.369" style="s2">there are if you can you<span style="s3"> can</span> see that</p>
+<p begin="00:35:27.160" end="00:35:33.789" style="s2"><span style="s3">then</span> things<span style="s3"> will</span> change<span style="s4"> unfortunately we</span></p>
+<p begin="00:35:30.369" end="00:35:36.329" style="s2">don&#39;t<span style="s4"> have</span><span style="s3"> the</span><span style="s4"> luxury</span> of time<span style="s3"> thank</span> you</p>
+<p begin="00:35:33.789" end="00:35:36.329" style="s2"><span style="s3">all</span> very<span style="s3"> much</span></p>
+<p begin="00:35:39.160" end="00:35:41.220" style="s2"><span style="s3">you</span></p>
+</div>
+</body>
+</tt>
