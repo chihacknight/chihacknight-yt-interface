@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.850" end="00:00:11.160" style="s2">alright well thank you for<span style="s3"> having</span><span style="s4"> us</span></p>
+<p begin="00:00:07.589" end="00:00:14.790" style="s2">tonight it&#39;s so great to be<span style="s4"> here</span> I as</p>
+<p begin="00:00:11.160" end="00:00:16.680" style="s2">has been said and part of a news</p>
+<p begin="00:00:14.790" end="00:00:19.230" style="s2">organization and justice watch we&#39;ve</p>
+<p begin="00:00:16.680" end="00:00:23.580" style="s2">been<span style="s3"> around</span> for about a year now our</p>
+<p begin="00:00:19.230" end="00:00:25.529" style="s2">launch was last<span style="s3"> november</span> i believe and</p>
+<p begin="00:00:23.580" end="00:00:27.720" style="s2">we&#39;re really thrilled to be a part of</p>
+<p begin="00:00:25.529" end="00:00:30.720" style="s2">this<span style="s4"> community a lot of</span> cool people in</p>
+<p begin="00:00:27.720" end="00:00:32.669" style="s2">this room doing<span style="s4"> cool</span> things and I&#39;m here</p>
+<p begin="00:00:30.720" end="00:00:35.340" style="s2">tonight to talk a little bit about what</p>
+<p begin="00:00:32.669" end="00:00:39.620" style="s2">our organization does and specifically</p>
+<p begin="00:00:35.340" end="00:00:42.030" style="s2"><span style="s4">about</span> a project we did this past July on</p>
+<p begin="00:00:39.620" end="00:00:46.860" style="s2">Chicago Police Department<span style="s4"> Street</span> stops</p>
+<p begin="00:00:42.030" end="00:00:49.230" style="s2">in Chicago so yes so this is our</p>
+<p begin="00:00:46.860" end="00:00:51.809" style="s2">organization our mission we are</p>
+<p begin="00:00:49.230" end="00:00:54.360" style="s2">nonpartisan not-for-profit multimedia</p>
+<p begin="00:00:51.809" end="00:00:56.699" style="s2">journalism organization that conducts</p>
+<p begin="00:00:54.360" end="00:00:58.829" style="s2">in-depth research exposing institutional</p>
+<p begin="00:00:56.699" end="00:01:01.289" style="s2">failures that obstruct justice and</p>
+<p begin="00:00:58.829" end="00:01:05.129" style="s2">equality so like I said we&#39;ve been</p>
+<p begin="00:01:01.289" end="00:01:07.200" style="s2"><span style="s3">around</span> for about a year now and we like</p>
+<p begin="00:01:05.129" end="00:01:10.770" style="s2">to<span style="s4"> take</span> a<span style="s4"> look</span> at the criminal justice</p>
+<p begin="00:01:07.200" end="00:01:12.990" style="s2">system in<span style="s4"> Chicago</span> and then sort of use</p>
+<p begin="00:01:10.770" end="00:01:14.850" style="s2"><span style="s3">that</span> as a lens to explore what&#39;s going</p>
+<p begin="00:01:12.990" end="00:01:19.890" style="s2">on nationwide and the criminal justice</p>
+<p begin="00:01:14.850" end="00:01:23.040" style="s2">realm so for this project specifically</p>
+<p begin="00:01:19.890" end="00:01:26.340" style="s2">it<span style="s3"> was</span> me and<span style="s4"> Emily</span> Horner who&#39;s in the</p>
+<p begin="00:01:23.040" end="00:01:28.860" style="s2">back with us tonight and she&#39;s a</p>
+<p begin="00:01:26.340" end="00:01:32.100" style="s2">reporter and i&#39;m reporting in graphics</p>
+<p begin="00:01:28.860" end="00:01:35.850" style="s2">fellow<span style="s3"> i</span> did undergrad at<span style="s4"> Northwestern</span></p>
+<p begin="00:01:32.100" end="00:01:38.280" style="s2">studied journalism and she is a<span style="s3"> madill</span></p>
+<p begin="00:01:35.850" end="00:01:42.509" style="s2">grad student so both from Northwestern</p>
+<p begin="00:01:38.280" end="00:01:45.600" style="s2">go cats and both<span style="s3"> of</span><span style="s4"> us</span> have a background</p>
+<p begin="00:01:42.509" end="00:01:47.579" style="s2">in journalism we are<span style="s4"> starting</span> with</p>
+<p begin="00:01:45.600" end="00:01:50.100" style="s2">injustice watch to really explore data</p>
+<p begin="00:01:47.579" end="00:01:51.600" style="s2">and<span style="s3"> everything</span> and I dabbled an</p>
+<p begin="00:01:50.100" end="00:01:53.909" style="s2">interactive design while i was at</p>
+<p begin="00:01:51.600" end="00:01:56.610" style="s2"><span style="s3">Northwestern</span> as well but I<span style="s4"> think</span> we&#39;re</p>
+<p begin="00:01:53.909" end="00:01:59.750" style="s2"><span style="s3">both</span> really coming at<span style="s3"> it</span> as reporters so</p>
+<p begin="00:01:56.610" end="00:02:03.899" style="s2">that&#39;s a little bit about our background</p>
+<p begin="00:01:59.750" end="00:02:07.290" style="s2">so now I<span style="s3"> will</span> talk about the story this</p>
+<p begin="00:02:03.899" end="00:02:08.940" style="s2"><span style="s3">is a quote from</span> this story it&#39;s</p>
+<p begin="00:02:07.290" end="00:02:13.410" style="s2">basically really about you know a</p>
+<p begin="00:02:08.940" end="00:02:15.180" style="s2"><span style="s4">problem</span> that Chicago has had in<span style="s4"> terms</span> of</p>
+<p begin="00:02:13.410" end="00:02:18.210" style="s2">building the public trust<span style="s4"> in</span> the police</p>
+<p begin="00:02:15.180" end="00:02:22.440" style="s2">department while aggressively fighting</p>
+<p begin="00:02:18.210" end="00:02:25.380" style="s2">crime and sort<span style="s4"> of</span> a sentiment that we</p>
+<p begin="00:02:22.440" end="00:02:27.960" style="s2">had been finding in our reporting was</p>
+<p begin="00:02:25.380" end="00:02:30.900" style="s2">that too aggressively fight crime you</p>
+<p begin="00:02:27.960" end="00:02:32.880" style="s2">have to increase stops on the street it</p>
+<p begin="00:02:30.900" end="00:02:37.470" style="s2"><span style="s4">was</span> sort<span style="s3"> of like stops on the street</span><span style="s4"> as</span></p>
+<p begin="00:02:32.880" end="00:02:38.820" style="s2">a necessary evil in that vein to curbing</p>
+<p begin="00:02:37.470" end="00:02:42.570" style="s2">the violent<span style="s4"> crime</span> rate and of course</p>
+<p begin="00:02:38.820" end="00:02:44.040" style="s2">summer months are the<span style="s3"> most</span> violent in</p>
+<p begin="00:02:42.570" end="00:02:47.430" style="s2">Chicago and we were coming out with this</p>
+<p begin="00:02:44.040" end="00:02:55.560" style="s2">project<span style="s4"> in</span> July so we wanted to<span style="s3"> explore</span></p>
+<p begin="00:02:47.430" end="00:02:59.070" style="s2">that topic and so<span style="s4"> our</span> data was from the</p>
+<p begin="00:02:55.560" end="00:03:02.040" style="s2"><span style="s3">ACLU</span> of<span style="s4"> Illinois</span> it&#39;s working on<span style="s4"> this</span></p>
+<p begin="00:02:59.070" end="00:03:04.410" style="s2">project was actually a dream because we</p>
+<p begin="00:03:02.040" end="00:03:07.560" style="s2">got<span style="s4"> the</span> data from them pretty clean</p>
+<p begin="00:03:04.410" end="00:03:09.270" style="s2">about as clean as it could get and if</p>
+<p begin="00:03:07.560" end="00:03:12.390" style="s2">you I think the slides are going to be</p>
+<p begin="00:03:09.270" end="00:03:17.040" style="s2">sent out but the report can be found at</p>
+<p begin="00:03:12.390" end="00:03:19.860" style="s2">this URL<span style="s4"> but</span> the ACL you put out in 2015</p>
+<p begin="00:03:17.040" end="00:03:22.680" style="s2">about<span style="s3"> stop and frisk</span> in Chicago it</p>
+<p begin="00:03:19.860" end="00:03:25.770" style="s2">actually found that<span style="s3"> people</span> in<span style="s3"> Chicago</span></p>
+<p begin="00:03:22.680" end="00:03:28.290" style="s2">were getting stopped at larger rates</p>
+<p begin="00:03:25.770" end="00:03:31.920" style="s2">than in other cities including New York</p>
+<p begin="00:03:28.290" end="00:03:34.200" style="s2">like even I think there were more stops</p>
+<p begin="00:03:31.920" end="00:03:35.760" style="s2">this study found in Chicago than there</p>
+<p begin="00:03:34.200" end="00:03:38.070" style="s2">were in New York not controlled for</p>
+<p begin="00:03:35.760" end="00:03:39.990" style="s2">population or anything so obviously this</p>
+<p begin="00:03:38.070" end="00:03:46.470" style="s2">is a something<span style="s4"> that&#39;s</span> happening in the</p>
+<p begin="00:03:39.990" end="00:03:49.590" style="s2">city and so the<span style="s4"> data</span> we have is about is</p>
+<p begin="00:03:46.470" end="00:03:52.800" style="s2">all the stops in<span style="s3"> the</span> city<span style="s3"> that</span> did not</p>
+<p begin="00:03:49.590" end="00:03:55.440" style="s2">end in arrest for a specific period in</p>
+<p begin="00:03:52.800" end="00:03:58.260" style="s2">2014 May through August and the reason</p>
+<p begin="00:03:55.440" end="00:04:00.480" style="s2"><span style="s3">we</span> have<span style="s4"> information</span> on stops that did</p>
+<p begin="00:03:58.260" end="00:04:02.610" style="s2">not end<span style="s3"> in</span> arrest as<span style="s4"> Chicago police are</span></p>
+<p begin="00:04:00.480" end="00:04:05.100" style="s2">required to fill out what they call a</p>
+<p begin="00:04:02.610" end="00:04:07.110" style="s2">contact card for each stop on the street</p>
+<p begin="00:04:05.100" end="00:04:10.650" style="s2"><span style="s3">that</span> does not end an arrest as a sort<span style="s4"> of</span></p>
+<p begin="00:04:07.110" end="00:04:13.530" style="s2">way to record you know where these stops</p>
+<p begin="00:04:10.650" end="00:04:16.530" style="s2">are happening and requires the police to</p>
+<p begin="00:04:13.530" end="00:04:18.900" style="s2">sort of keep track<span style="s3"> of</span> the reasons that</p>
+<p begin="00:04:16.530" end="00:04:21.600" style="s2">they&#39;re stopping these people and the</p>
+<p begin="00:04:18.900" end="00:04:23.880" style="s2">number of stops we had from may to</p>
+<p begin="00:04:21.600" end="00:04:26.180" style="s2">august of 2014 that did not end<span style="s4"> an</span></p>
+<p begin="00:04:23.880" end="00:04:27.330" style="s2">arrest was<span style="s4"> just</span> over it was about</p>
+<p begin="00:04:26.180" end="00:04:31.729" style="s2">256,000</p>
+<p begin="00:04:27.330" end="00:04:34.229" style="s2">so that&#39;s 256,000 stops in that period</p>
+<p begin="00:04:31.729" end="00:04:37.199" style="s2">that were not leading to arrest</p>
+<p begin="00:04:34.229" end="00:04:39.770" style="s2">ultimately and these<span style="s3"> are</span> you know stops</p>
+<p begin="00:04:37.199" end="00:04:41.639" style="s2">police<span style="s4"> stops</span> it&#39;s not just any</p>
+<p begin="00:04:39.770" end="00:04:46.889" style="s2">interaction of the police with the</p>
+<p begin="00:04:41.639" end="00:04:48.870" style="s2">civilian it stops yeah so and<span style="s3"> I should</span></p>
+<p begin="00:04:46.889" end="00:04:52.530" style="s2">note that those numbers have gone down</p>
+<p begin="00:04:48.870" end="00:04:56.039" style="s2">since 2014 we I don&#39;t<span style="s3"> remember</span> what the</p>
+<p begin="00:04:52.530" end="00:05:00.120" style="s2">number was for 2015 but the reason we</p>
+<p begin="00:04:56.039" end="00:05:02.009" style="s2">wanted<span style="s4"> to</span> look at this data from 2014</p>
+<p begin="00:05:00.120" end="00:05:05.430" style="s2">was it was sort of a peak for<span style="s4"> Chicago</span></p>
+<p begin="00:05:02.009" end="00:05:07.560" style="s2">and you know with the increasing</p>
+<p begin="00:05:05.430" end="00:05:09.330" style="s2">tensions and relations with police</p>
+<p begin="00:05:07.560" end="00:05:12.330" style="s2">relations with the community we wanted</p>
+<p begin="00:05:09.330" end="00:05:15.000" style="s2">to<span style="s4"> just</span> give really reiterate and give a</p>
+<p begin="00:05:12.330" end="00:05:17.909" style="s2">glimpse of what it looks like when stops</p>
+<p begin="00:05:15.000" end="00:05:20.370" style="s2">are kind<span style="s4"> of</span> you know getting excessive</p>
+<p begin="00:05:17.909" end="00:05:25.169" style="s2">in the city<span style="s3"> um</span> so a little bit about the</p>
+<p begin="00:05:20.370" end="00:05:26.849" style="s2">data that we had again 256,000 stops we</p>
+<p begin="00:05:25.169" end="00:05:29.639" style="s2">had the street address to the nearest</p>
+<p begin="00:05:26.849" end="00:05:33.060" style="s2">hundred block so it was like if the stop</p>
+<p begin="00:05:29.639" end="00:05:36.090" style="s2">happened on 3912 north ashland we had 39</p>
+<p begin="00:05:33.060" end="00:05:41.340" style="s2"><span style="s4">xxxx</span> north ashland i think<span style="s4"> was</span> kind of</p>
+<p begin="00:05:36.090" end="00:05:43.560" style="s2">an<span style="s3"> effort to you know</span> keep private</p>
+<p begin="00:05:41.340" end="00:05:45.659" style="s2">residences and businesses private you</p>
+<p begin="00:05:43.560" end="00:05:50.159" style="s2"><span style="s3">know</span> not<span style="s4"> attract</span> attention<span style="s4"> to</span> that but</p>
+<p begin="00:05:45.659" end="00:05:52.800" style="s2">still give a good picture of what the</p>
+<p begin="00:05:50.159" end="00:05:56.819" style="s2"><span style="s4">location</span> was for a stop and we had race</p>
+<p begin="00:05:52.800" end="00:06:00.180" style="s2">sex resting officer type of stop so we</p>
+<p begin="00:05:56.819" end="00:06:03.900" style="s2">knew if it was vehicular or other and</p>
+<p begin="00:06:00.180" end="00:06:07.560" style="s2">then we had a few other things random ID</p>
+<p begin="00:06:03.900" end="00:06:10.860" style="s2">numbers we did not have the names of</p>
+<p begin="00:06:07.560" end="00:06:13.319" style="s2">people who were being stopped and we did</p>
+<p begin="00:06:10.860" end="00:06:17.550" style="s2">not have the descriptions of why the</p>
+<p begin="00:06:13.319" end="00:06:19.770" style="s2">officers were stopping people so<span style="s3"> that</span></p>
+<p begin="00:06:17.550" end="00:06:21.449" style="s2">was the first part of data that<span style="s4"> we</span> had</p>
+<p begin="00:06:19.770" end="00:06:25.800" style="s2">from the<span style="s4"> ACLU</span> and then the second part</p>
+<p begin="00:06:21.449" end="00:06:29.069" style="s2"><span style="s4">was</span> they did take 299 contact cards from</p>
+<p begin="00:06:25.800" end="00:06:31.379" style="s2">2013 that did have descriptions on them</p>
+<p begin="00:06:29.069" end="00:06:35.250" style="s2"><span style="s3">just</span> to give a picture like a<span style="s4"> random</span></p>
+<p begin="00:06:31.379" end="00:06:37.020" style="s2">sample of reasons cops were giving for</p>
+<p begin="00:06:35.250" end="00:06:38.909" style="s2">stopping people so these are two things</p>
+<p begin="00:06:37.020" end="00:06:41.070" style="s2">we visualized<span style="s4"> I&#39;ll</span> show you in<span style="s4"> a</span> second</p>
+<p begin="00:06:38.909" end="00:06:43.410" style="s2">what the final product looked like</p>
+<p begin="00:06:41.070" end="00:06:46.290" style="s2">but um I just<span style="s4"> wanted</span><span style="s3"> to</span> kind of take you</p>
+<p begin="00:06:43.410" end="00:06:48.360" style="s2">all through the process of Emily and I</p>
+<p begin="00:06:46.290" end="00:06:51.150" style="s2">looking at this data how we kind<span style="s4"> of</span></p>
+<p begin="00:06:48.360" end="00:06:53.430" style="s2">handled it as reporters and then our</p>
+<p begin="00:06:51.150" end="00:06:55.850" style="s2">thought processes for eventually</p>
+<p begin="00:06:53.430" end="00:06:59.040" style="s2">visualizing it and giving a good</p>
+<p begin="00:06:55.850" end="00:07:01.530" style="s2">ultimate user experience to really</p>
+<p begin="00:06:59.040" end="00:07:05.670" style="s2">showcase the data you know the ACLU put</p>
+<p begin="00:07:01.530" end="00:07:09.210" style="s2">out this study but they didn&#39;t really</p>
+<p begin="00:07:05.670" end="00:07:11.430" style="s2">they visualize it in their study but the</p>
+<p begin="00:07:09.210" end="00:07:15.240" style="s2">full<span style="s4"> data</span> set wasn&#39;t really accessible</p>
+<p begin="00:07:11.430" end="00:07:17.400" style="s2">to the public in any sort of way so</p>
+<p begin="00:07:15.240" end="00:07:21.840" style="s2">we&#39;ve just really wanted to give a full</p>
+<p begin="00:07:17.400" end="00:07:25.710" style="s2">glimpse of what they were finding so</p>
+<p begin="00:07:21.840" end="00:07:28.020" style="s2">obviously we have a map<span style="s4"> I&#39;m</span> sure many of</p>
+<p begin="00:07:25.710" end="00:07:30.240" style="s2">you<span style="s3"> have seen it but um we</span><span style="s4"> wanted</span> to</p>
+<p begin="00:07:28.020" end="00:07:32.070" style="s2"><span style="s4">really make</span><span style="s3"> sure</span> that<span style="s4"> we</span> weren&#39;t<span style="s4"> just</span></p>
+<p begin="00:07:30.240" end="00:07:34.110" style="s2">making a map to make a map and so</p>
+<p begin="00:07:32.070" end="00:07:36.990" style="s2">because I&#39;m a little<span style="s3"> bit</span> hesitant always</p>
+<p begin="00:07:34.110" end="00:07:38.670" style="s2">as a graphics person to make maps I</p>
+<p begin="00:07:36.990" end="00:07:40.860" style="s2">think they&#39;re a<span style="s4"> little</span> bit overused and</p>
+<p begin="00:07:38.670" end="00:07:42.390" style="s2">we really want to<span style="s4"> make sure that</span> the</p>
+<p begin="00:07:40.860" end="00:07:44.760" style="s2">point<span style="s4"> we&#39;re</span> trying to make has a</p>
+<p begin="00:07:42.390" end="00:07:47.550" style="s2">geospatial element to it before<span style="s4"> we</span> make</p>
+<p begin="00:07:44.760" end="00:07:51.960" style="s2">a map and this obviously<span style="s4"> does</span> we are</p>
+<p begin="00:07:47.550" end="00:07:54.150" style="s2">looking sort of at<span style="s4"> the</span> effect that</p>
+<p begin="00:07:51.960" end="00:07:57.990" style="s2">policing has on particular communities</p>
+<p begin="00:07:54.150" end="00:07:59.580" style="s2">so we want<span style="s4"> to</span> see if it&#39;s localized in</p>
+<p begin="00:07:57.990" end="00:08:03.300" style="s2">particular communities and what these</p>
+<p begin="00:07:59.580" end="00:08:08.010" style="s2">communities are so we decided<span style="s4"> to make a</span></p>
+<p begin="00:08:03.300" end="00:08:09.750" style="s2">map but<span style="s4"> obviously</span> we don&#39;t have we we</p>
+<p begin="00:08:08.010" end="00:08:11.670" style="s2">know anecdotally from our reporting</p>
+<p begin="00:08:09.750" end="00:08:13.620" style="s2">people we&#39;re talking to that police are</p>
+<p begin="00:08:11.670" end="00:08:15.900" style="s2">you know stopping more people in these</p>
+<p begin="00:08:13.620" end="00:08:17.670" style="s2">communities than in others but we<span style="s4"> don&#39;t</span></p>
+<p begin="00:08:15.900" end="00:08:20.160" style="s2">know that<span style="s4"> from</span> the numbers so our</p>
+<p begin="00:08:17.670" end="00:08:22.290" style="s2">process was really kind<span style="s4"> of</span> design a</p>
+<p begin="00:08:20.160" end="00:08:24.480" style="s2"><span style="s4">little</span> bit plot out these points on a</p>
+<p begin="00:08:22.290" end="00:08:26.600" style="s2">map see if it says what we think it&#39;s</p>
+<p begin="00:08:24.480" end="00:08:29.040" style="s2">saying see if it makes the point that we</p>
+<p begin="00:08:26.600" end="00:08:36.390" style="s2">think we&#39;re making and then keep on</p>
+<p begin="00:08:29.040" end="00:08:39.590" style="s2">going from there so yeah we have 250,000</p>
+<p begin="00:08:36.390" end="00:08:44.640" style="s2">data points that&#39;s obviously a lot to</p>
+<p begin="00:08:39.590" end="00:08:46.650" style="s2">comprehend for an individual&#39;s brain and</p>
+<p begin="00:08:44.640" end="00:08:49.710" style="s2"><span style="s4">also</span> for a browser and we wanted to make</p>
+<p begin="00:08:46.650" end="00:08:51.360" style="s2"><span style="s4">a</span> client-side graphic for this so I kind</p>
+<p begin="00:08:49.710" end="00:08:53.880" style="s2">of knew from the very beginning I was</p>
+<p begin="00:08:51.360" end="00:08:54.779" style="s2">going to have<span style="s3"> to</span> whittle this huge data</p>
+<p begin="00:08:53.880" end="00:08:57.540" style="s2">set</p>
+<p begin="00:08:54.779" end="00:09:00.569" style="s2">down into<span style="s4"> about</span> 500 data points if<span style="s4"> I</span> was</p>
+<p begin="00:08:57.540" end="00:09:02.639" style="s2">going<span style="s4"> to</span> plot anything on a map<span style="s4"> so</span> we</p>
+<p begin="00:09:00.569" end="00:09:06.180" style="s2"><span style="s4">spent</span> a few days figuring out really</p>
+<p begin="00:09:02.639" end="00:09:09.360" style="s2">what we wanted to do to get it down<span style="s4"> to</span></p>
+<p begin="00:09:06.180" end="00:09:11.160" style="s2">that manageable size and we thought</p>
+<p begin="00:09:09.360" end="00:09:13.079" style="s2">about sampling it but it didn&#39;t feel</p>
+<p begin="00:09:11.160" end="00:09:19.410" style="s2"><span style="s3">statistically responsible to just take a</span></p>
+<p begin="00:09:13.079" end="00:09:22.559" style="s2">random sample of 500 from 250,000 so our</p>
+<p begin="00:09:19.410" end="00:09:25.860" style="s2">solution was to sort of pivot table you</p>
+<p begin="00:09:22.559" end="00:09:27.480" style="s2">know we both knew how to use excel and</p>
+<p begin="00:09:25.860" end="00:09:30.149" style="s2">we both you know spent a few days just</p>
+<p begin="00:09:27.480" end="00:09:32.180" style="s2">making all these like random pivot</p>
+<p begin="00:09:30.149" end="00:09:35.339" style="s2">tables trying to make sense of the data</p>
+<p begin="00:09:32.180" end="00:09:39.540" style="s2">and we eventually<span style="s4"> decided</span> to pivot down</p>
+<p begin="00:09:35.339" end="00:09:43.499" style="s2">to clusters of stops on particular</p>
+<p begin="00:09:39.540" end="00:09:45.089" style="s2">blocks so basically what that kind of</p>
+<p begin="00:09:43.499" end="00:09:47.639" style="s2">looks like first of all we had<span style="s3"> to</span> kind</p>
+<p begin="00:09:45.089" end="00:09:50.009" style="s2">of aggregate these three columns into</p>
+<p begin="00:09:47.639" end="00:09:52.199" style="s2">one column and just get street addresses</p>
+<p begin="00:09:50.009" end="00:09:54.749" style="s2">to<span style="s3"> the</span> nearest hundred block and then</p>
+<p begin="00:09:52.199" end="00:10:00.240" style="s2"><span style="s4">from</span><span style="s3"> there</span> you<span style="s3"> can</span> kind of<span style="s4"> see</span> our</p>
+<p begin="00:09:54.749" end="00:10:04.290" style="s2">process here we got counts of the<span style="s4"> number</span></p>
+<p begin="00:10:00.240" end="00:10:06.360" style="s2">of stops per city block<span style="s4"> and</span> then we also</p>
+<p begin="00:10:04.290" end="00:10:08.250" style="s2">kept race in there so we knew we wanted</p>
+<p begin="00:10:06.360" end="00:10:11.670" style="s2"><span style="s4">to make</span><span style="s3"> a point and see if there&#39;s a</span></p>
+<p begin="00:10:08.250" end="00:10:14.519" style="s2">racial component to this so we had the</p>
+<p begin="00:10:11.670" end="00:10:17.959" style="s2">count of<span style="s3"> how</span> many stops for each</p>
+<p begin="00:10:14.519" end="00:10:21.300" style="s2">specific race that we had in there and</p>
+<p begin="00:10:17.959" end="00:10:24.300" style="s2">that brought our data set that we were</p>
+<p begin="00:10:21.300" end="00:10:27.420" style="s2"><span style="s4">working</span> with<span style="s4"> down</span> from 256,000 entries</p>
+<p begin="00:10:24.300" end="00:10:29.839" style="s2">to 28,000 entries so in effect there are</p>
+<p begin="00:10:27.420" end="00:10:32.939" style="s2"><span style="s4">28</span> thousand city blocks that we have</p>
+<p begin="00:10:29.839" end="00:10:36.509" style="s2">counts for frequencies of stops for and</p>
+<p begin="00:10:32.939" end="00:10:39.059" style="s2">um obviously many of these have just</p>
+<p begin="00:10:36.509" end="00:10:45.029" style="s2">like one stop two stops three stops so</p>
+<p begin="00:10:39.059" end="00:10:47.189" style="s2">we decided<span style="s3"> to</span> do 7777 stops per block</p>
+<p begin="00:10:45.029" end="00:10:51.389" style="s2">and above which brought our data set</p>
+<p begin="00:10:47.189" end="00:10:53.939" style="s2">down to 451 so basically there are 450</p>
+<p begin="00:10:51.389" end="00:10:57.149" style="s2">one of these blocks the nearest hundred</p>
+<p begin="00:10:53.939" end="00:10:59.490" style="s2">block that have 77 stops occurring on</p>
+<p begin="00:10:57.149" end="00:11:05.850" style="s2">them or more and I think<span style="s3"> the</span> most was</p>
+<p begin="00:10:59.490" end="00:11:07.290" style="s2">around 575 which is a large<span style="s3"> number</span> for</p>
+<p begin="00:11:05.850" end="00:11:12.480" style="s2">sure</p>
+<p begin="00:11:07.290" end="00:11:14.770" style="s2">so then<span style="s4"> I</span> had to decide kind of what</p>
+<p begin="00:11:12.480" end="00:11:17.230" style="s2"><span style="s4">background</span> we wanted for our data what</p>
+<p begin="00:11:14.770" end="00:11:19.540" style="s2">kind of map we wanted for our data<span style="s4"> and</span> I</p>
+<p begin="00:11:17.230" end="00:11:22.870" style="s2">knew I wanted<span style="s3"> to</span> use d3 I used you<span style="s4"> three</span></p>
+<p begin="00:11:19.540" end="00:11:26.980" style="s2"><span style="s3">a</span> lot<span style="s4"> but</span> we had to kind<span style="s4"> of</span> decided we</p>
+<p begin="00:11:22.870" end="00:11:29.560" style="s2">want a street map or to<span style="s4"> look</span> more</p>
+<p begin="00:11:26.980" end="00:11:31.120" style="s2">broadly at community areas or census</p>
+<p begin="00:11:29.560" end="00:11:34.060" style="s2">tracts is another thing<span style="s3"> that</span> we thought</p>
+<p begin="00:11:31.120" end="00:11:35.940" style="s2"><span style="s4">about</span> for a second<span style="s4"> um</span> and I<span style="s4"> thought</span> a</p>
+<p begin="00:11:34.060" end="00:11:38.290" style="s2">street map would be really cool but</p>
+<p begin="00:11:35.940" end="00:11:41.980" style="s2"><span style="s4">ultimately</span> decided to do the community</p>
+<p begin="00:11:38.290" end="00:11:45.040" style="s2">area thing because loading the google</p>
+<p begin="00:11:41.980" end="00:11:46.510" style="s2">maps or<span style="s3"> openstreetmap</span> base layer would</p>
+<p begin="00:11:45.040" end="00:11:49.360" style="s2">just be another<span style="s4"> thing</span> to load on<span style="s3"> the</span></p>
+<p begin="00:11:46.510" end="00:11:53.860" style="s2">page and<span style="s4"> we</span> had a lot<span style="s3"> going</span> on and<span style="s4"> also</span></p>
+<p begin="00:11:49.360" end="00:11:56.230" style="s2">I this isn&#39;t like a huge deal i don&#39;t</p>
+<p begin="00:11:53.860" end="00:11:58.300" style="s2">think but there is that concern for</p>
+<p begin="00:11:56.230" end="00:12:00.370" style="s2">private businesses and residences we</p>
+<p begin="00:11:58.300" end="00:12:02.110" style="s2">felt<span style="s3"> like</span> if we are plotting on actual</p>
+<p begin="00:12:00.370" end="00:12:04.780" style="s2">literal streets that people can see</p>
+<p begin="00:12:02.110" end="00:12:06.180" style="s2">there&#39;s still that component of people</p>
+<p begin="00:12:04.780" end="00:12:08.230" style="s2">looking<span style="s4"> at</span> it being like oh this</p>
+<p begin="00:12:06.180" end="00:12:10.720" style="s2">particular<span style="s4"> businesses</span> right here</p>
+<p begin="00:12:08.230" end="00:12:15.910" style="s2">whatever and we just<span style="s3"> didn&#39;t want to draw</span></p>
+<p begin="00:12:10.720" end="00:12:19.600" style="s2">attention to that unnecessarily so<span style="s4"> I</span> got</p>
+<p begin="00:12:15.910" end="00:12:23.620" style="s2">a community areas geo JSON from city of</p>
+<p begin="00:12:19.600" end="00:12:26.830" style="s2">Chicago data portal and found this site</p>
+<p begin="00:12:23.620" end="00:12:30.190" style="s2">for geocoding the street addresses put</p>
+<p begin="00:12:26.830" end="00:12:32.470" style="s2">in all 451 street<span style="s4"> addresses</span> got the</p>
+<p begin="00:12:30.190" end="00:12:36.490" style="s2">geographic coordinates which then go</p>
+<p begin="00:12:32.470" end="00:12:40.510" style="s2">pretty well with d3 and so<span style="s4"> this is the</span></p>
+<p begin="00:12:36.490" end="00:12:42.790" style="s2">map<span style="s4"> I</span> ended up having and we wanted<span style="s3"> to</span></p>
+<p begin="00:12:40.510" end="00:12:45.190" style="s2">obviously check in<span style="s3"> with</span> the map at this</p>
+<p begin="00:12:42.790" end="00:12:47.440" style="s2">point make<span style="s3"> sure</span> that<span style="s4"> our</span> data was</p>
+<p begin="00:12:45.190" end="00:12:50.800" style="s2">actually saying something which as you</p>
+<p begin="00:12:47.440" end="00:12:53.410" style="s2">can<span style="s3"> see</span> there<span style="s3"> are</span> clusters on the west</p>
+<p begin="00:12:50.800" end="00:12:56.020" style="s2">side<span style="s4"> on</span> the south side<span style="s4"> and</span> then there</p>
+<p begin="00:12:53.410" end="00:13:00.550" style="s2">are a few up here along in the loop and</p>
+<p begin="00:12:56.020" end="00:13:03.280" style="s2">the north loop but yeah mostly on<span style="s3"> the</span></p>
+<p begin="00:13:00.550" end="00:13:07.390" style="s2">south and west sides we had<span style="s4"> our</span> largest</p>
+<p begin="00:13:03.280" end="00:13:10.960" style="s2">number was out<span style="s3"> of</span> hair which I don&#39;t</p>
+<p begin="00:13:07.390" end="00:13:13.000" style="s2"><span style="s4">actually remember why</span> that was but it</p>
+<p begin="00:13:10.960" end="00:13:17.650" style="s2">took us a while to figure that out and</p>
+<p begin="00:13:13.000" end="00:13:19.830" style="s2"><span style="s3">then</span> yeah so we had basically each dot</p>
+<p begin="00:13:17.650" end="00:13:24.450" style="s2">represents you know</p>
+<p begin="00:13:19.830" end="00:13:27.920" style="s2">a block for end on a cluster of stops</p>
+<p begin="00:13:24.450" end="00:13:31.590" style="s2">anywhere within their range from 777 to</p>
+<p begin="00:13:27.920" end="00:13:35.370" style="s2">575 which is obviously a huge range so</p>
+<p begin="00:13:31.590" end="00:13:37.980" style="s2">when we updated the radiuses of the</p>
+<p begin="00:13:35.370" end="00:13:39.840" style="s2">stops to or the radiuses of these</p>
+<p begin="00:13:37.980" end="00:13:41.190" style="s2">circles to reflect how many stops are</p>
+<p begin="00:13:39.840" end="00:13:45.210" style="s2">happening on a block with the biggest</p>
+<p begin="00:13:41.190" end="00:13:47.730" style="s2">being 575 and the smallest being 77 you</p>
+<p begin="00:13:45.210" end="00:13:50.400" style="s2">know you<span style="s3"> obviously</span> see that the blocks</p>
+<p begin="00:13:47.730" end="00:13:54.090" style="s2">that are in the west and south sides are</p>
+<p begin="00:13:50.400" end="00:13:57.260" style="s2">getting a huge number of stops versus</p>
+<p begin="00:13:54.090" end="00:14:00.840" style="s2">the north side ones clusters and again</p>
+<p begin="00:13:57.260" end="00:14:02.400" style="s2">on the north side the neighborhoods that</p>
+<p begin="00:14:00.840" end="00:14:06.510" style="s2"><span style="s4">you&#39;re</span> seeing<span style="s4"> the</span> most stops in our</p>
+<p begin="00:14:02.400" end="00:14:10.800" style="s2"><span style="s4">Edgewater</span> not Edgewater uptown lakeview</p>
+<p begin="00:14:06.510" end="00:14:11.880" style="s2">and<span style="s3"> Rogers Park which are well uptown in</span></p>
+<p begin="00:14:10.800" end="00:14:15.480" style="s2">Rogers Park are very diverse</p>
+<p begin="00:14:11.880" end="00:14:17.580" style="s2">neighborhoods and so now we wanted to</p>
+<p begin="00:14:15.480" end="00:14:19.620" style="s2"><span style="s4">kind</span> of take a look at these stops since</p>
+<p begin="00:14:17.580" end="00:14:24.620" style="s2">we had race data we wanted to<span style="s4"> look</span> at</p>
+<p begin="00:14:19.620" end="00:14:28.980" style="s2">you<span style="s3"> know</span> what the racial makeup tsar of</p>
+<p begin="00:14:24.620" end="00:14:31.860" style="s2">everything so this<span style="s4"> is</span> a map where we</p>
+<p begin="00:14:28.980" end="00:14:34.410" style="s2">updated the color of the circle to</p>
+<p begin="00:14:31.860" end="00:14:37.380" style="s2">reflect<span style="s4"> the</span> racial majority of stops</p>
+<p begin="00:14:34.410" end="00:14:40.020" style="s2">that were occurring and so red is<span style="s3"> the</span></p>
+<p begin="00:14:37.380" end="00:14:42.060" style="s2">majority<span style="s4"> black</span> yellow is a<span style="s4"> majority</span></p>
+<p begin="00:14:40.020" end="00:14:43.620" style="s2">white hispanic they did distinguish</p>
+<p begin="00:14:42.060" end="00:14:46.860" style="s2">between white and black<span style="s4"> hispanic</span> and</p>
+<p begin="00:14:43.620" end="00:14:48.180" style="s2">then blue is majority white so as<span style="s4"> you</span></p>
+<p begin="00:14:46.860" end="00:14:51.030" style="s2">can see across<span style="s4"> the city is</span></p>
+<p begin="00:14:48.180" end="00:14:55.020" style="s2">overwhelmingly african-americans being</p>
+<p begin="00:14:51.030" end="00:14:58.500" style="s2">stopped with a smattering of white</p>
+<p begin="00:14:55.020" end="00:15:02.240" style="s2">hispanic stops sort of on the lower west</p>
+<p begin="00:14:58.500" end="00:15:06.710" style="s2">side and then just a few random white</p>
+<p begin="00:15:02.240" end="00:15:09.690" style="s2">dots up there on the north side as well</p>
+<p begin="00:15:06.710" end="00:15:12.630" style="s2">so at this<span style="s4"> point</span> in the game we kind of</p>
+<p begin="00:15:09.690" end="00:15:14.790" style="s2">knew you know this<span style="s4"> this</span> point we&#39;re</p>
+<p begin="00:15:12.630" end="00:15:18.270" style="s2"><span style="s3">trying</span> to make clusters of stops</p>
+<p begin="00:15:14.790" end="00:15:22.290" style="s2">occurring in particular communities was</p>
+<p begin="00:15:18.270" end="00:15:25.260" style="s2">a point that that holds up and then the</p>
+<p begin="00:15:22.290" end="00:15:30.420" style="s2">rest is d3 I just<span style="s4"> what</span> you just saw is</p>
+<p begin="00:15:25.260" end="00:15:32.400" style="s2">basically what the map is SVG circles</p>
+<p begin="00:15:30.420" end="00:15:35.100" style="s2">the attributes are you know<span style="s4"> the</span></p>
+<p begin="00:15:32.400" end="00:15:37.860" style="s2">obviously the geographic coordinates the</p>
+<p begin="00:15:35.100" end="00:15:40.100" style="s2">radius is a function of the frequency of</p>
+<p begin="00:15:37.860" end="00:15:43.620" style="s2">stops happening on a particular block</p>
+<p begin="00:15:40.100" end="00:15:46.380" style="s2">the fill is a function of the racial</p>
+<p begin="00:15:43.620" end="00:15:49.920" style="s2">majority the subs were seeing and then</p>
+<p begin="00:15:46.380" end="00:15:52.680" style="s2"><span style="s3">on mouseover i</span><span style="s4"> actually</span> had a bar chart</p>
+<p begin="00:15:49.920" end="00:15:54.390" style="s2">in<span style="s3"> the</span> corner that updates and shows you</p>
+<p begin="00:15:52.680" end="00:15:58.230" style="s2">the exact racial breakdown if you&#39;re</p>
+<p begin="00:15:54.390" end="00:16:00.120" style="s2">curious and then we<span style="s4"> also</span> decided that<span style="s3"> it</span></p>
+<p begin="00:15:58.230" end="00:16:02.250" style="s2">would be important for our readers who</p>
+<p begin="00:16:00.120" end="00:16:05.790" style="s2">aren&#39;t as familiar with<span style="s4"> Chicago&#39;s</span></p>
+<p begin="00:16:02.250" end="00:16:07.260" style="s2">geography to be<span style="s3"> able</span> to see the racial</p>
+<p begin="00:16:05.790" end="00:16:09.920" style="s2">makeup of these neighborhoods that the</p>
+<p begin="00:16:07.260" end="00:16:13.020" style="s2">stops are occurring in so are we added</p>
+<p begin="00:16:09.920" end="00:16:18.150" style="s2">race data to our<span style="s4"> base</span> layer for the map</p>
+<p begin="00:16:13.020" end="00:16:20.670" style="s2">to show the majority of majority race in</p>
+<p begin="00:16:18.150" end="00:16:23.520" style="s2">particular community areas that data is</p>
+<p begin="00:16:20.670" end="00:16:28.830" style="s2"><span style="s3">also</span> from<span style="s3"> the</span> city&#39;s data portal and</p>
+<p begin="00:16:23.520" end="00:16:32.820" style="s2">then we<span style="s4"> have</span> results right here I don&#39;t</p>
+<p begin="00:16:28.830" end="00:16:39.630" style="s2">know if I can click on<span style="s4"> this</span> so there we</p>
+<p begin="00:16:32.820" end="00:16:42.920" style="s2">go what&#39;s happening<span style="s4"> okay</span> so this is the</p>
+<p begin="00:16:39.630" end="00:16:45.750" style="s2">map you<span style="s4"> see</span> um basically you can see a</p>
+<p begin="00:16:42.920" end="00:16:47.520" style="s2">lot of majority african-american stops</p>
+<p begin="00:16:45.750" end="00:16:49.410" style="s2">happening on the south and west sides</p>
+<p begin="00:16:47.520" end="00:16:52.790" style="s2">and then obviously those neighborhoods</p>
+<p begin="00:16:49.410" end="00:16:54.750" style="s2">are the highest concentrations of</p>
+<p begin="00:16:52.790" end="00:16:58.380" style="s2">african-americans in the city and then</p>
+<p begin="00:16:54.750" end="00:17:00.570" style="s2">this stretch along<span style="s3"> the</span> lower west side</p>
+<p begin="00:16:58.380" end="00:17:03.380" style="s2">is majority white<span style="s4"> Hispanic</span> and then</p>
+<p begin="00:17:00.570" end="00:17:05.370" style="s2">you&#39;re seeing a lot of again</p>
+<p begin="00:17:03.380" end="00:17:08.040" style="s2">african-americans being stopped in</p>
+<p begin="00:17:05.370" end="00:17:12.180" style="s2">predominantly white neighborhoods on<span style="s3"> the</span></p>
+<p begin="00:17:08.040" end="00:17:19.290" style="s2">north side um okay how should<span style="s4"> I</span> get back</p>
+<p begin="00:17:12.180" end="00:17:22.339" style="s2"><span style="s4">to</span> here so that was our stops map that</p>
+<p begin="00:17:19.290" end="00:17:25.410" style="s2">we worked on and then let&#39;s<span style="s4"> see</span> our</p>
+<p begin="00:17:22.339" end="00:17:34.140" style="s2"><span style="s3">second</span> um graphic which I&#39;ll go ahead</p>
+<p begin="00:17:25.410" end="00:17:39.800" style="s2"><span style="s4">and just show you sorry was a random</span></p>
+<p begin="00:17:34.140" end="00:17:41.880" style="s2">narrative generator so we took our 299</p>
+<p begin="00:17:39.800" end="00:17:44.340" style="s2">contact card narratives that we had</p>
+<p begin="00:17:41.880" end="00:17:45.900" style="s2">which are reasons cops gave for giving a</p>
+<p begin="00:17:44.340" end="00:17:50.250" style="s2">stop on the street</p>
+<p begin="00:17:45.900" end="00:17:56.000" style="s2">and this<span style="s3"> data</span> is actually<span style="s4"> from</span> 2013 from</p>
+<p begin="00:17:50.250" end="00:18:00.390" style="s2">the ACLU<span style="s3"> and</span> we had the full<span style="s4"> data</span> set</p>
+<p begin="00:17:56.000" end="00:18:01.650" style="s2">but they they gave us the ID numbers to</p>
+<p begin="00:18:00.390" end="00:18:03.420" style="s2">where we could have matched these</p>
+<p begin="00:18:01.650" end="00:18:05.940" style="s2">narratives so the specific stops and</p>
+<p begin="00:18:03.420" end="00:18:08.130" style="s2">gotten more information about them<span style="s4"> that</span></p>
+<p begin="00:18:05.940" end="00:18:12.150" style="s2">way but we<span style="s3"> decided</span> to just<span style="s4"> kind</span> of keep</p>
+<p begin="00:18:08.130" end="00:18:15.210" style="s2">it simple and as you can see it<span style="s3"> just</span></p>
+<p begin="00:18:12.150" end="00:18:17.700" style="s2">pulls up a random narrative so you can</p>
+<p begin="00:18:15.210" end="00:18:19.290" style="s2">kind of see<span style="s3"> what</span> cops are writing for</p>
+<p begin="00:18:17.700" end="00:18:21.630" style="s2">these stops obviously a lot<span style="s3"> of</span> them are</p>
+<p begin="00:18:19.290" end="00:18:27.420" style="s2">very<span style="s3"> detailed</span> some of them are not at</p>
+<p begin="00:18:21.630" end="00:18:29.610" style="s2">all yeah observe and that we we put we</p>
+<p begin="00:18:27.420" end="00:18:33.120" style="s2">kind of come through all of these and</p>
+<p begin="00:18:29.610" end="00:18:35.430" style="s2">looked for sort of keywords that cops</p>
+<p begin="00:18:33.120" end="00:18:39.960" style="s2">were using to describe their stops you</p>
+<p begin="00:18:35.430" end="00:18:44.550" style="s2">know obviously suspicious loitering very</p>
+<p begin="00:18:39.960" end="00:18:46.320" style="s2">vague words on their own ed to stop a</p>
+<p begin="00:18:44.550" end="00:18:47.700" style="s2"><span style="s4">person</span> an officer needs reasonable</p>
+<p begin="00:18:46.320" end="00:18:49.950" style="s2">suspicion that they&#39;re breaking the law</p>
+<p begin="00:18:47.700" end="00:18:51.390" style="s2">but you kind of we you know you would</p>
+<p begin="00:18:49.950" end="00:18:54.360" style="s2">hope that they would articulate what</p>
+<p begin="00:18:51.390" end="00:18:56.250" style="s2">that suspicion is and sometimes<span style="s4"> we</span> just</p>
+<p begin="00:18:54.360" end="00:19:01.560" style="s2"><span style="s4">found</span> that that<span style="s4"> really</span> wasn&#39;t happening</p>
+<p begin="00:18:56.250" end="00:19:07.050" style="s2"><span style="s4">um</span> so yeah basically that&#39;s just some</p>
+<p begin="00:19:01.560" end="00:19:10.040" style="s2">simple jQuery yeah so basically<span style="s4"> that&#39;s</span></p>
+<p begin="00:19:07.050" end="00:19:13.080" style="s2">simple jQuery feeding you random</p>
+<p begin="00:19:10.040" end="00:19:16.200" style="s2">narratives highlighted the words</p>
+<p begin="00:19:13.080" end="00:19:18.360" style="s2">dynamically also with jquery to just</p>
+<p begin="00:19:16.200" end="00:19:20.010" style="s2">give you flag your eye if you&#39;re seeing</p>
+<p begin="00:19:18.360" end="00:19:24.360" style="s2">these particular keywords that you&#39;re</p>
+<p begin="00:19:20.010" end="00:19:25.920" style="s2">seeing a lot of and then as far as the</p>
+<p begin="00:19:24.360" end="00:19:30.960" style="s2">presentation of<span style="s4"> the rest of the story</span></p>
+<p begin="00:19:25.920" end="00:19:34.200" style="s2">goes again<span style="s4"> I&#39;m</span> kind<span style="s4"> of</span> you know did a</p>
+<p begin="00:19:30.960" end="00:19:37.110" style="s2">lot of interactive design in<span style="s4"> schools</span> so</p>
+<p begin="00:19:34.200" end="00:19:40.970" style="s2">this is what I really have the most</p>
+<p begin="00:19:37.110" end="00:19:43.530" style="s2">experience with we have this let&#39;s see</p>
+<p begin="00:19:40.970" end="00:19:45.510" style="s2">we have this contact card at<span style="s4"> the</span> top</p>
+<p begin="00:19:43.530" end="00:19:50.880" style="s2">it&#39;s not<span style="s4"> working</span> right now I should</p>
+<p begin="00:19:45.510" end="00:19:53.580" style="s2">refresh the page that auto fills out</p>
+<p begin="00:19:50.880" end="00:19:58.350" style="s2">kind of just an animation that<span style="s4"> I</span> made<span style="s4"> in</span></p>
+<p begin="00:19:53.580" end="00:20:00.760" style="s2">photoshop and then at the bottom we have</p>
+<p begin="00:19:58.350" end="00:20:02.290" style="s2">for narratives with people actually</p>
+<p begin="00:20:00.760" end="00:20:03.910" style="s2">getting stopped in the street<span style="s4"> and</span> I did</p>
+<p begin="00:20:02.290" end="00:20:07.480" style="s2">justice watch we like to talk<span style="s4"> a</span> lot</p>
+<p begin="00:20:03.910" end="00:20:09.610" style="s2">about how anecdotes<span style="s3"> are</span> data<span style="s4"> and</span> data</p>
+<p begin="00:20:07.480" end="00:20:12.430" style="s2">points are anecdotes<span style="s4"> you</span> know we have</p>
+<p begin="00:20:09.610" end="00:20:14.320" style="s2">this map of all these stops on the</p>
+<p begin="00:20:12.430" end="00:20:16.720" style="s2">street to<span style="s4"> make</span> a broader point but then</p>
+<p begin="00:20:14.320" end="00:20:18.850" style="s2">we wanted<span style="s3"> to</span> focus in on<span style="s3"> the</span> individuals</p>
+<p begin="00:20:16.720" end="00:20:22.600" style="s2"><span style="s4">and</span> just talk about<span style="s4"> their</span> experiences</p>
+<p begin="00:20:18.850" end="00:20:24.760" style="s2">with a Chicago police so that&#39;s kind of</p>
+<p begin="00:20:22.600" end="00:20:29.590" style="s2">what this<span style="s4"> is</span> down here we<span style="s3"> have</span> photos<span style="s3"> of</span></p>
+<p begin="00:20:24.760" end="00:20:34.450" style="s2">them and pull quotes and everything so</p>
+<p begin="00:20:29.590" end="00:20:37.570" style="s2">yes what&#39;s next<span style="s3"> for us this is</span> just the</p>
+<p begin="00:20:34.450" end="00:20:39.580" style="s2">first<span style="s4"> in</span> a series<span style="s4"> we&#39;re</span> doing sort<span style="s4"> of</span> on</p>
+<p begin="00:20:37.570" end="00:20:41.610" style="s2">how the criminal justice system is</p>
+<p begin="00:20:39.580" end="00:20:43.150" style="s2">treating communities of color</p>
+<p begin="00:20:41.610" end="00:20:46.360" style="s2">differently than their white</p>
+<p begin="00:20:43.150" end="00:20:47.950" style="s2">counterparts and so<span style="s4"> our</span> next part we</p>
+<p begin="00:20:46.360" end="00:20:52.240" style="s2">actually just<span style="s4"> came</span> out<span style="s3"> with</span> the<span style="s4"> first</span></p>
+<p begin="00:20:47.950" end="00:20:57.150" style="s2">installment<span style="s4"> of</span> a story on bond the bail</p>
+<p begin="00:20:52.240" end="00:21:02.110" style="s2">bond system so that can be<span style="s4"> found</span> here oh</p>
+<p begin="00:20:57.150" end="00:21:05.950" style="s2">and we also recently broke news about a</p>
+<p begin="00:21:02.110" end="00:21:08.470" style="s2">lawsuit regarding the<span style="s3"> illegality</span> of the</p>
+<p begin="00:21:05.950" end="00:21:10.260" style="s2">cash bail system so that&#39;s another thing</p>
+<p begin="00:21:08.470" end="00:21:13.180" style="s2">that&#39;s happening sort of in this arena</p>
+<p begin="00:21:10.260" end="00:21:16.000" style="s2">that<span style="s3"> will</span> have more<span style="s3"> news</span> for you on and</p>
+<p begin="00:21:13.180" end="00:21:18.700" style="s2">then um the<span style="s4"> really</span> exciting stuff<span style="s4"> is</span></p>
+<p begin="00:21:16.000" end="00:21:21.640" style="s2">still to<span style="s3"> come</span> we how to batch of interns</p>
+<p begin="00:21:18.700" end="00:21:25.420" style="s2">this summer gathering a<span style="s4"> lot</span> of original</p>
+<p begin="00:21:21.640" end="00:21:27.190" style="s2">data on cash bail system so our next</p>
+<p begin="00:21:25.420" end="00:21:29.470" style="s2">installment<span style="s4"> of</span> bond<span style="s4"> series</span> will<span style="s3"> have</span></p>
+<p begin="00:21:27.190" end="00:21:30.910" style="s2">more cool visualizations lots of data</p>
+<p begin="00:21:29.470" end="00:21:33.280" style="s2">and this time we you know really</p>
+<p begin="00:21:30.910" end="00:21:35.170" style="s2">collected it ourselves so it&#39;s a really</p>
+<p begin="00:21:33.280" end="00:21:40.000" style="s2">cool project that<span style="s4"> we&#39;re</span> really excited</p>
+<p begin="00:21:35.170" end="00:21:41.680" style="s2">to be working on and yep that&#39;s all I</p>
+<p begin="00:21:40.000" end="00:21:43.390" style="s2">have for you tonight other<span style="s4"> than</span></p>
+<p begin="00:21:41.680" end="00:21:45.640" style="s2">questions so just make<span style="s3"> sure</span> you give us</p>
+<p begin="00:21:43.390" end="00:21:47.140" style="s2">a follow and we&#39;re also on github</p>
+<p begin="00:21:45.640" end="00:21:51.220" style="s2">there&#39;s not a whole lot<span style="s4"> there</span> at the</p>
+<p begin="00:21:47.140" end="00:21:54.480" style="s2">moment<span style="s4"> but</span> there will be<span style="s3"> um</span> and<span style="s3"> so</span> yeah</p>
+<p begin="00:21:51.220" end="00:21:54.480" style="s2">it gives<span style="s4"> its</span> time for questions</p>
+<p begin="00:21:56.830" end="00:22:04.510" style="s2">kiss me<span style="s4"> was</span><span style="s3"> already with it just a</span></p>
+<p begin="00:22:01.809" end="00:22:10.630" style="s2">farmer market if anybody doing a study</p>
+<p begin="00:22:04.510" end="00:22:16.630" style="s2">about work stops they had result in stop</p>
+<p begin="00:22:10.630" end="00:22:20.500" style="s2">him climb or<span style="s4"> taking</span> crying yeah that&#39;s a</p>
+<p begin="00:22:16.630" end="00:22:22.740" style="s2">good question Emily I think we<span style="s3"> found</span> out</p>
+<p begin="00:22:20.500" end="00:22:25.330" style="s2">an increase in stop wasn&#39;t predictive of</p>
+<p begin="00:22:22.740" end="00:22:27.899" style="s2">stopping crime but it you can probably</p>
+<p begin="00:22:25.330" end="00:22:27.899" style="s2">speak to that</p>
+<p begin="00:22:34.030" end="00:22:38.590" style="s2">they had the stuff you know</p>
+<p begin="00:22:39.800" end="00:22:43.900" style="s2">fellow and so you know</p>
+<p begin="00:22:46.770" end="00:22:49.770" style="s2">there&#39;s</p>
+<p begin="00:22:52.429" end="00:23:03.509" style="s2"><span style="s4">Thanks</span> machine yes that was just kind of</p>
+<p begin="00:23:00.809" end="00:23:06.659" style="s2">where it hit I kind of just mentally set</p>
+<p begin="00:23:03.509" end="00:23:08.249" style="s2">an upper limit of 500 data points to be</p>
+<p begin="00:23:06.659" end="00:23:12.359" style="s2"><span style="s3">processed</span> by<span style="s3"> the</span> browser and that was</p>
+<p begin="00:23:08.249" end="00:23:14.489" style="s2">just kind of where they cut off so not</p>
+<p begin="00:23:12.359" end="00:23:16.709" style="s2">really anything scientific but<span style="s4"> I</span> still</p>
+<p begin="00:23:14.489" end="00:23:19.399" style="s2">think that what we showed was</p>
+<p begin="00:23:16.709" end="00:23:19.399" style="s2">significant</p>
+<p begin="00:23:22.170" end="00:23:27.520" style="s2">you&#39;re this is a great presentation by</p>
+<p begin="00:23:24.760" end="00:23:29.860" style="s2">the way very much the question I<span style="s4"> have</span><span style="s3"> is</span></p>
+<p begin="00:23:27.520" end="00:23:33.640" style="s2">in trying to gather aveda know you&#39;re</p>
+<p begin="00:23:29.860" end="00:23:37.120" style="s2">focusing on stopping a cop interactive</p>
+<p begin="00:23:33.640" end="00:23:40.180" style="s2">it did you run any issues in<span style="s3"> terms</span> of an</p>
+<p begin="00:23:37.120" end="00:23:42.880" style="s2"><span style="s3">internal resume pumped</span> about data in</p>
+<p begin="00:23:40.180" end="00:23:46.180" style="s2">general with police the<span style="s4"> number</span> piece of</p>
+<p begin="00:23:42.880" end="00:23:48.310" style="s2">it<span style="s4"> pull</span> their guns or overhead since</p>
+<p begin="00:23:46.180" end="00:23:51.730" style="s2">we&#39;re<span style="s4"> going to play the ball he talked a</span></p>
+<p begin="00:23:48.310" end="00:23:54.780" style="s2">little bit about you come across that</p>
+<p begin="00:23:51.730" end="00:24:01.090" style="s2">infants in what you&#39;re looking at<span style="s3"> and</span></p>
+<p begin="00:23:54.780" end="00:24:03.340" style="s2">talk moving out what the issues are some</p>
+<p begin="00:24:01.090" end="00:24:07.170" style="s2">issues in<span style="s4"> terms</span> of in terms of getting</p>
+<p begin="00:24:03.340" end="00:24:11.680" style="s2">gathering your data<span style="s3"> aragis</span> as<span style="s4"> you</span><span style="s3"> round</span></p>
+<p begin="00:24:07.170" end="00:24:13.570" style="s2">right um I don&#39;t really recall finding</p>
+<p begin="00:24:11.680" end="00:24:18.100" style="s2">anything specific about guns and again</p>
+<p begin="00:24:13.570" end="00:24:20.350" style="s2"><span style="s4">um</span> this data was very nicely compiled by</p>
+<p begin="00:24:18.100" end="00:24:23.890" style="s2">the ACLU can read the<span style="s3"> full</span> report it&#39;s</p>
+<p begin="00:24:20.350" end="00:24:26.050" style="s2">very informative Emily did you come</p>
+<p begin="00:24:23.890" end="00:24:28.420" style="s2">across<span style="s4"> anything</span> on guns so I keep too</p>
+<p begin="00:24:26.050" end="00:24:30.710" style="s2">afraid to you but she did a lot of work</p>
+<p begin="00:24:28.420" end="00:24:35.049" style="s2"><span style="s4">on</span> the reporting</p>
+<p begin="00:24:30.710" end="00:24:38.510" style="s2">please<span style="s4"> but I know</span><span style="s3"> that</span> you sound like a</p>
+<p begin="00:24:35.049" end="00:24:41.480" style="s2">very long time to<span style="s3"> get</span> that data set I</p>
+<p begin="00:24:38.510" end="00:24:44.620" style="s2">think bought it for a very long time so</p>
+<p begin="00:24:41.480" end="00:24:44.620" style="s2">I think<span style="s4"> like</span> getting</p>
+<p begin="00:24:58.390" end="00:25:00.450" style="s2">uh</p>
+<p begin="00:25:00.780" end="00:25:05.010" style="s2">matters<span style="s4"> to the organization</span></p>
+<p begin="00:25:05.169" end="00:25:08.649" style="s2">talk to each<span style="s4"> other</span></p>
+<p begin="00:25:25.970" end="00:25:38.010" style="s2">well next one yes 299 is from<span style="s3"> 2016</span><span style="s4"> how</span></p>
+<p begin="00:25:35.010" end="00:25:41.580" style="s2">did you choose those the<span style="s4"> ACLU</span> actually</p>
+<p begin="00:25:38.010" end="00:25:43.770" style="s2">chose those so they had the larger 2013</p>
+<p begin="00:25:41.580" end="00:25:46.200" style="s2"><span style="s4">data set but then just randomly sampled</span></p>
+<p begin="00:25:43.770" end="00:25:58.980" style="s2">299 of them and got the narratives for</p>
+<p begin="00:25:46.200" end="00:26:01.070" style="s2">them features in the entire life here</p>
+<p begin="00:25:58.980" end="00:26:05.090" style="s2">activated hesitation increase of<span style="s3"> the</span></p>
+<p begin="00:26:01.070" end="00:26:05.090" style="s2">sort of design process was</p>
+<p begin="00:26:07.240" end="00:26:13.730" style="s2">did you like I guess you just agree but</p>
+<p begin="00:26:12.080" end="00:26:16.240" style="s2"><span style="s4">Leigh did you</span> did you like how do you</p>
+<p begin="00:26:13.730" end="00:26:16.240" style="s2">try to figure<span style="s4"> out</span></p>
+<p begin="00:26:24.910" end="00:26:32.960" style="s2">yeah that&#39;s a great<span style="s4"> question</span> um we again</p>
+<p begin="00:26:30.740" end="00:26:34.940" style="s2">I&#39;ll say giving again those<span style="s4"> again</span> and</p>
+<p begin="00:26:32.960" end="00:26:36.910" style="s2">again this was kind of a dream project</p>
+<p begin="00:26:34.940" end="00:26:41.330" style="s2">because we had<span style="s4"> this</span> super clean data</p>
+<p begin="00:26:36.910" end="00:26:45.919" style="s2">from the ACLU that already contained all</p>
+<p begin="00:26:41.330" end="00:26:49.100" style="s2">of these you know important aspects</p>
+<p begin="00:26:45.919" end="00:26:51.740" style="s2">about race and geographic location that</p>
+<p begin="00:26:49.100" end="00:26:53.750" style="s2"><span style="s4">was</span> all done for<span style="s3"> us</span> so I think<span style="s4"> like</span></p>
+<p begin="00:26:51.740" end="00:26:55.580" style="s2">pretty much<span style="s4"> from</span> the<span style="s4"> very</span> beginning<span style="s3"> we</span></p>
+<p begin="00:26:53.750" end="00:26:58.250" style="s2">could just kind of smell<span style="s4"> it</span> you know we</p>
+<p begin="00:26:55.580" end="00:27:02.510" style="s2">wanted a map we wanted to<span style="s3"> look</span> at the</p>
+<p begin="00:26:58.250" end="00:27:06.200" style="s2">geographic element of this story um and</p>
+<p begin="00:27:02.510" end="00:27:09.080" style="s2">then I I sort of think you know from</p>
+<p begin="00:27:06.200" end="00:27:15.470" style="s2">there we knew we<span style="s3"> wanted to</span><span style="s4"> make</span> a point</p>
+<p begin="00:27:09.080" end="00:27:17.929" style="s2">about race so you know coding the colors</p>
+<p begin="00:27:15.470" end="00:27:20.169" style="s2">by racial majority and then color coding</p>
+<p begin="00:27:17.929" end="00:27:26.150" style="s2">the<span style="s3"> neighborhoods</span> biracial majority</p>
+<p begin="00:27:20.169" end="00:27:28.309" style="s2">followed that let&#39;s see what else the</p>
+<p begin="00:27:26.150" end="00:27:30.860" style="s2">end then we knew you know we are</p>
+<p begin="00:27:28.309" end="00:27:33.500" style="s2">primarily<span style="s4"> probably</span> reaching a Chicago</p>
+<p begin="00:27:30.860" end="00:27:35.929" style="s2">audience but to make<span style="s3"> it</span> amenable to</p>
+<p begin="00:27:33.500" end="00:27:38.830" style="s2">people<span style="s4"> from</span> all across the country you</p>
+<p begin="00:27:35.929" end="00:27:40.730" style="s2">know presenting background about the</p>
+<p begin="00:27:38.830" end="00:27:42.559" style="s2">neighborhoods<span style="s4"> and</span> their racial</p>
+<p begin="00:27:40.730" end="00:27:44.510" style="s2">majorities and how segregated the city</p>
+<p begin="00:27:42.559" end="00:27:48.320" style="s2">was that was really important to<span style="s3"> us</span> as</p>
+<p begin="00:27:44.510" end="00:27:52.370" style="s2"><span style="s3">well</span> basically<span style="s4"> though</span> this project was</p>
+<p begin="00:27:48.320" end="00:27:54.559" style="s2">sort of like the ACLU has done this be</p>
+<p begin="00:27:52.370" end="00:27:57.610" style="s2">of<span style="s4"> Illinois</span> isms beautiful work on</p>
+<p begin="00:27:54.559" end="00:27:59.990" style="s2">stop-and-frisk in<span style="s3"> Chicago</span> and the<span style="s3"> P</span> the</p>
+<p begin="00:27:57.610" end="00:28:03.200" style="s2"><span style="s4">spreadsheet is literally too large to</span></p>
+<p begin="00:27:59.990" end="00:28:05.330" style="s2">the hosts on their website so we&#39;d</p>
+<p begin="00:28:03.200" end="00:28:07.220" style="s2">really just wanted to kind of give the</p>
+<p begin="00:28:05.330" end="00:28:10.250" style="s2"><span style="s4">public</span> a glimpse of what they&#39;ve been</p>
+<p begin="00:28:07.220" end="00:28:14.120" style="s2">doing and make sure<span style="s3"> that</span> you know this</p>
+<p begin="00:28:10.250" end="00:28:17.330" style="s2">data<span style="s4"> is</span> really getting out there so we</p>
+<p begin="00:28:14.120" end="00:28:19.309" style="s2">just wanted to for our users to be able</p>
+<p begin="00:28:17.330" end="00:28:21.289" style="s2">to explore it as much as we<span style="s4"> could</span></p>
+<p begin="00:28:19.309" end="00:28:23.179" style="s2">provide for them to do that which<span style="s3"> is</span> why</p>
+<p begin="00:28:21.289" end="00:28:26.480" style="s2">you know<span style="s4"> there&#39;s</span> just<span style="s4"> like</span> a lot on that</p>
+<p begin="00:28:23.179" end="00:28:28.070" style="s2"><span style="s4">map</span> but they can hover and see the exact</p>
+<p begin="00:28:26.480" end="00:28:28.640" style="s2">racial makeup so if they want<span style="s3"> they</span> can</p>
+<p begin="00:28:28.070" end="00:28:31.520" style="s2">see</p>
+<p begin="00:28:28.640" end="00:28:33.320" style="s2">the block to the nearest hundred and</p>
+<p begin="00:28:31.520" end="00:28:35.270" style="s2">then with the narratives they can<span style="s4"> just</span></p>
+<p begin="00:28:33.320" end="00:28:37.880" style="s2">like flick through and just get an idea</p>
+<p begin="00:28:35.270" end="00:28:40.480" style="s2">of what&#39;s<span style="s3"> going</span> on what these cops are</p>
+<p begin="00:28:37.880" end="00:28:43.970" style="s2">how they&#39;re justifying their stops</p>
+<p begin="00:28:40.480" end="00:28:46.040" style="s2"><span style="s3">thanks</span> question<span style="s4"> go from here</span> do you</p>
+<p begin="00:28:43.970" end="00:28:50.180" style="s2">think it&#39;s important to consider before</p>
+<p begin="00:28:46.040" end="00:28:52.460" style="s2">the displaced socioeconomic factors you</p>
+<p begin="00:28:50.180" end="00:28:56.570" style="s2">can you look for it I&#39;m not saying it&#39;s</p>
+<p begin="00:28:52.460" end="00:28:59.570" style="s2">true it could<span style="s3"> be</span> possible way or like<span style="s3"> a</span></p>
+<p begin="00:28:56.570" end="00:29:01.850" style="s2"><span style="s3">clerk</span> things like it or we have to<span style="s3"> make</span></p>
+<p begin="00:28:59.570" end="00:29:04.220" style="s2"><span style="s4">it</span> to<span style="s4"> are things looking for is it so me</span></p>
+<p begin="00:29:01.850" end="00:29:08.540" style="s2">if it&#39;s eerie thank you say something</p>
+<p begin="00:29:04.220" end="00:29:11.420" style="s2">that should<span style="s3"> be</span> considered I think<span style="s3"> that</span></p>
+<p begin="00:29:08.540" end="00:29:14.180" style="s2"><span style="s4">like</span> is a really good<span style="s4"> point</span> and I think</p>
+<p begin="00:29:11.420" end="00:29:17.150" style="s2"><span style="s4">the</span> simple answer is it&#39;s harder sort of</p>
+<p begin="00:29:14.180" end="00:29:19.220" style="s2">to you know map out the socioeconomic</p>
+<p begin="00:29:17.150" end="00:29:23.350" style="s2">status of these people who<span style="s3"> are</span> being</p>
+<p begin="00:29:19.220" end="00:29:25.490" style="s2">stopped I think<span style="s4"> that</span> it really sort of</p>
+<p begin="00:29:23.350" end="00:29:29.030" style="s2"><span style="s4">socioeconomic</span> status really goes hand</p>
+<p begin="00:29:25.490" end="00:29:31.520" style="s2">and hand with race in this case and<span style="s4"> in</span></p>
+<p begin="00:29:29.030" end="00:29:35.590" style="s2">the city but that&#39;s a really good</p>
+<p begin="00:29:31.520" end="00:29:37.880" style="s2">question I think we could<span style="s3"> have</span> shown</p>
+<p begin="00:29:35.590" end="00:29:39.320" style="s2">socio-economic makeups of neighborhoods</p>
+<p begin="00:29:37.880" end="00:29:41.480" style="s2">that these were occurring in because i</p>
+<p begin="00:29:39.320" end="00:29:44.690" style="s2">think you know you have a lot of stops</p>
+<p begin="00:29:41.480" end="00:29:48.260" style="s2">across the west side but you also had a</p>
+<p begin="00:29:44.690" end="00:29:51.920" style="s2">lot happening in lakeview which is you</p>
+<p begin="00:29:48.260" end="00:29:54.530" style="s2">know one of the higher socioeconomic</p>
+<p begin="00:29:51.920" end="00:29:55.790" style="s2">status neighborhoods in the city so</p>
+<p begin="00:29:54.530" end="00:29:58.310" style="s2">that&#39;s an interesting point to be made</p>
+<p begin="00:29:55.790" end="00:30:01.100" style="s2">and<span style="s4"> i</span> would say we were really focusing</p>
+<p begin="00:29:58.310" end="00:30:02.540" style="s2">on race but that raises a good point is</p>
+<p begin="00:30:01.100" end="00:30:04.040" style="s2">their responsibility when you&#39;re</p>
+<p begin="00:30:02.540" end="00:30:07.310" style="s2">building something like this you&#39;re</p>
+<p begin="00:30:04.040" end="00:30:08.179" style="s2">great they&#39;re obviously<span style="s4"> ACLU</span> has their</p>
+<p begin="00:30:07.310" end="00:30:12.110" style="s2">own things</p>
+<p begin="00:30:08.179" end="00:30:14.330" style="s2">the area to leave a great suit if it&#39;s</p>
+<p begin="00:30:12.110" end="00:30:17.629" style="s2"><span style="s4">not</span> actually about<span style="s4"> race</span><span style="s3"> it</span> just happens</p>
+<p begin="00:30:14.330" end="00:30:20.869" style="s2"><span style="s4">to</span> be convenient if our tour de fresas</p>
+<p begin="00:30:17.629" end="00:30:24.440" style="s2">not the only component and looked it is</p>
+<p begin="00:30:20.869" end="00:30:29.119" style="s2">their responsibility<span style="s3"> they&#39;ve decided</span><span style="s4"> to</span></p>
+<p begin="00:30:24.440" end="00:30:30.619" style="s2">actually consider more fat right I mean</p>
+<p begin="00:30:29.119" end="00:30:34.100" style="s2">I think there&#39;s no<span style="s3"> question</span> that race is</p>
+<p begin="00:30:30.619" end="00:30:36.970" style="s2">a huge factor in this but<span style="s4"> I</span> do<span style="s4"> think</span> you</p>
+<p begin="00:30:34.100" end="00:30:36.970" style="s2">raise a valid point</p>
+<p begin="00:30:39.630" end="00:30:45.400" style="s2">so the ACLU look at any of the Cook</p>
+<p begin="00:30:43.480" end="00:30:48.820" style="s2">County suburb<span style="s4"> as</span> similar<span style="s4"> racial</span></p>
+<p begin="00:30:45.400" end="00:30:51.820" style="s2">breakdown<span style="s3"> to</span> see<span style="s3"> so</span><span style="s4"> many</span><span style="s3"> people</span><span style="s4"> over</span> or</p>
+<p begin="00:30:48.820" end="00:30:53.710" style="s2"><span style="s4">maybe</span> you like very<span style="s3"> fancy</span> I would be</p>
+<p begin="00:30:51.820" end="00:30:58.990" style="s2">really curious I think they actually did</p>
+<p begin="00:30:53.710" end="00:31:01.300" style="s2">didn&#39;t they Emily down see I they drew</p>
+<p begin="00:30:58.990" end="00:31:03.550" style="s2">definitely focusing on Chicago but I</p>
+<p begin="00:31:01.300" end="00:31:07.420" style="s2">think there<span style="s3"> is</span> a section in this study</p>
+<p begin="00:31:03.550" end="00:31:08.920" style="s2">that breaks down other<span style="s4"> places</span> in<span style="s3"> the</span></p>
+<p begin="00:31:07.420" end="00:31:11.200" style="s2">state like Carbondale and they certainly</p>
+<p begin="00:31:08.920" end="00:31:15.790" style="s2">compared to other major cities New York</p>
+<p begin="00:31:11.200" end="00:31:17.950" style="s2">and Los Angeles but as far as suburbs go</p>
+<p begin="00:31:15.790" end="00:31:20.920" style="s2">I think that&#39;s<span style="s4"> a great question I don&#39;t</span></p>
+<p begin="00:31:17.950" end="00:31:22.900" style="s2">know that they addressed the suburbs I&#39;m</p>
+<p begin="00:31:20.920" end="00:31:26.170" style="s2">fresh I for sure know<span style="s3"> that</span> they<span style="s4"> dress</span></p>
+<p begin="00:31:22.900" end="00:31:31.710" style="s2">down state but yeah so I think<span style="s4"> we have</span></p>
+<p begin="00:31:26.170" end="00:31:34.740" style="s2">time for one more question yes Oh</p>
+<p begin="00:31:31.710" end="00:31:38.320" style="s2">question sort of clarify be sure to</p>
+<p begin="00:31:34.740" end="00:31:40.860" style="s2">previous equations so the contact card</p>
+<p begin="00:31:38.320" end="00:31:42.500" style="s2">information that you got didn&#39;t have</p>
+<p begin="00:31:40.860" end="00:31:45.410" style="s2">like the</p>
+<p begin="00:31:42.500" end="00:31:48.290" style="s2">of the person<span style="s3"> to</span> stop it<span style="s4"> just</span> have their</p>
+<p begin="00:31:45.410" end="00:31:50.150" style="s2">race so even if you couldn&#39;t you could</p>
+<p begin="00:31:48.290" end="00:31:52.430" style="s2">look at the socio-economic background</p>
+<p begin="00:31:50.150" end="00:31:54.140" style="s2">where they were stopped you don&#39;t know</p>
+<p begin="00:31:52.430" end="00:31:57.260" style="s2"><span style="s4">anything</span> about personal stuff is I</p>
+<p begin="00:31:54.140" end="00:32:00.950" style="s2">thought that&#39;s correct yeah I also</p>
+<p begin="00:31:57.260" end="00:32:04.400" style="s2">clarified this this is that include</p>
+<p begin="00:32:00.950" end="00:32:07.880" style="s2">traffic stops or just stops of people</p>
+<p begin="00:32:04.400" end="00:32:10.220" style="s2">who were honestly it included traffic</p>
+<p begin="00:32:07.880" end="00:32:12.260" style="s2">stops for sure but we definitely looked</p>
+<p begin="00:32:10.220" end="00:32:14.900" style="s2">at that<span style="s4"> number</span> and determined it wasn&#39;t</p>
+<p begin="00:32:12.260" end="00:32:17.030" style="s2">that it wasn&#39;t a<span style="s4"> huge</span> portion<span style="s4"> of</span> them it</p>
+<p begin="00:32:14.900" end="00:32:21.880" style="s2">was mostly<span style="s3"> street</span> stops and then there</p>
+<p begin="00:32:17.030" end="00:32:24.020" style="s2">some of them were marked other<span style="s3"> alright</span></p>
+<p begin="00:32:21.880" end="00:32:25.520" style="s2">that&#39;s<span style="s4"> all</span> the questions we have can you</p>
+<p begin="00:32:24.020" end="00:32:29.980" style="s2"><span style="s4">sticker</span> off a little bit k people have</p>
+<p begin="00:32:25.520" end="00:32:29.980" style="s2">more cattle absolutely yeah<span style="s4"> okay</span></p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:09.960" style="s2"><span style="s3">I</span> have a night class in graph theory</p>
+<p begin="00:00:07.830" end="00:00:12.000" style="s2">that I hate because it&#39;s a night class</p>
+<p begin="00:00:09.960" end="00:00:14.610" style="s2">and it&#39;s filled with<span style="s3"> algorithms</span> that are</p>
+<p begin="00:00:12.000" end="00:00:17.460" style="s2">hard to pronounce but last week&#39;s class</p>
+<p begin="00:00:14.610" end="00:00:19.380" style="s2">was particularly weird after the lecture</p>
+<p begin="00:00:17.460" end="00:00:21.539" style="s2">the professor took questions from the</p>
+<p begin="00:00:19.380" end="00:00:23.100" style="s2">class that weren&#39;t so much questions as</p>
+<p begin="00:00:21.539" end="00:00:24.960" style="s2"><span style="s4">they</span> were<span style="s3"> long-winded commentary</span></p>
+<p begin="00:00:23.100" end="00:00:31.679" style="s2">punctuated by question marks because the</p>
+<p begin="00:00:24.960" end="00:00:33.390" style="s2">asker had an inflection but then the</p>
+<p begin="00:00:31.679" end="00:00:37.050" style="s2">class changed when<span style="s4"> the</span> professor ended</p>
+<p begin="00:00:33.390" end="00:00:38.640" style="s2">his lecture and said and now it&#39;s<span style="s3"> time</span></p>
+<p begin="00:00:37.050" end="00:00:41.040" style="s2"><span style="s3">for</span><span style="s4"> the</span> civic hacking portion of the</p>
+<p begin="00:00:38.640" end="00:00:43.590" style="s2">evening all of a sudden<span style="s4"> the</span> class</p>
+<p begin="00:00:41.040" end="00:00:45.719" style="s2">exploded people were by<span style="s3"> white boards and</span></p>
+<p begin="00:00:43.590" end="00:00:48.390" style="s2">desks and groups working on problems</p>
+<p begin="00:00:45.719" end="00:00:50.430" style="s2">like making it more effective to spread</p>
+<p begin="00:00:48.390" end="00:00:53.100" style="s2">resources and support<span style="s4"> to</span><span style="s3"> parts</span> of the</p>
+<p begin="00:00:50.430" end="00:00:54.809" style="s2">city and even designing more efficient</p>
+<p begin="00:00:53.100" end="00:00:57.390" style="s2">transport so that citizens could have</p>
+<p begin="00:00:54.809" end="00:00:59.579" style="s2">better access to<span style="s3"> jobs</span> not only<span style="s3"> were</span> we</p>
+<p begin="00:00:57.390" end="00:01:02.309" style="s2">finally learning what Dijkstra&#39;s theorem</p>
+<p begin="00:00:59.579" end="00:01:05.369" style="s2">was good for but we had choice over what</p>
+<p begin="00:01:02.309" end="00:01:08.070" style="s2">we got to work on<span style="s3"> with</span> a real impact and</p>
+<p begin="00:01:05.369" end="00:01:10.470" style="s2">I hadn&#39;t noticed it but<span style="s3"> a</span> few a few</p>
+<p begin="00:01:08.070" end="00:01:12.180" style="s2"><span style="s3">people</span> who were psychology and policy</p>
+<p begin="00:01:10.470" end="00:01:15.000" style="s2">majors had snuck in helping us build</p>
+<p begin="00:01:12.180" end="00:01:17.280" style="s2">maps and CS students don&#39;t like to admit</p>
+<p begin="00:01:15.000" end="00:01:18.659" style="s2">it<span style="s4"> but</span> since they were there we felt a</p>
+<p begin="00:01:17.280" end="00:01:22.250" style="s2"><span style="s4">little</span> more comfortable looking up<span style="s3"> from</span></p>
+<p begin="00:01:18.659" end="00:01:24.960" style="s2">our laptop and talking to each other</p>
+<p begin="00:01:22.250" end="00:01:27.060" style="s2">people even stayed afterwards late into</p>
+<p begin="00:01:24.960" end="00:01:28.470" style="s2">the night working on problems and that</p>
+<p begin="00:01:27.060" end="00:01:32.850" style="s2">may have had<span style="s4"> something</span> to<span style="s3"> do</span> with<span style="s3"> their</span></p>
+<p begin="00:01:28.470" end="00:01:34.409" style="s2">being empanadas<span style="s4"> in</span> the room<span style="s3"> but</span> when I</p>
+<p begin="00:01:32.850" end="00:01:37.590" style="s2">took a bite of one of those empanadas</p>
+<p begin="00:01:34.409" end="00:01:40.530" style="s2">and it tasted just like the brown rice</p>
+<p begin="00:01:37.590" end="00:01:42.540" style="s2">from our school&#39;s cafeteria I knew that</p>
+<p begin="00:01:40.530" end="00:01:44.740" style="s2"><span style="s4">I</span> had fallen asleep<span style="s3"> in</span> lecture again and</p>
+<p begin="00:01:42.540" end="00:01:48.820" style="s2">it all just been<span style="s3"> a</span> dream</p>
+<p begin="00:01:44.740" end="00:01:50.200" style="s2">I should have I should have realized</p>
+<p begin="00:01:48.820" end="00:01:51.490" style="s2">sooner because in the back of the</p>
+<p begin="00:01:50.200" end="00:01:56.649" style="s2">classroom there was a pool with a</p>
+<p begin="00:01:51.490" end="00:02:01.409" style="s2"><span style="s3">dolphin</span> in it and unlike my professor</p>
+<p begin="00:01:56.649" end="00:02:08.170" style="s2">this dolphin never criticized me so</p>
+<p begin="00:02:01.409" end="00:02:11.620" style="s2"><span style="s3">finally</span><span style="s4"> I dolphin table what hit every</span></p>
+<p begin="00:02:08.170" end="00:02:16.330" style="s2">class<span style="s4"> and</span> in a series of trips and</p>
+<p begin="00:02:11.620" end="00:02:18.340" style="s2"><span style="s4">splitters</span> she told<span style="s3"> me</span> it&#39;s going<span style="s3"> to</span> be a</p>
+<p begin="00:02:16.330" end="00:02:20.680" style="s2">long time when<span style="s3"> H</span> before your classroom</p>
+<p begin="00:02:18.340" end="00:02:24.730" style="s2">looks like this but your other night</p>
+<p begin="00:02:20.680" end="00:02:28.470" style="s2">class on Tuesday at 6pm tells you that</p>
+<p begin="00:02:24.730" end="00:02:28.470" style="s2">the city is your<span style="s4"> classroom</span></p>
+<p begin="00:02:35.390" end="00:02:37.450" style="s2">you</p>
+</div>
+</body>
+</tt>

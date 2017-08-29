@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.120" end="00:00:11.070" style="s2">robocat nausea is when you see the same</p>
+<p begin="00:00:08.730" end="00:00:13.500" style="s2">person and you introduce yourself to</p>
+<p begin="00:00:11.070" end="00:00:18.750" style="s2">them every time just like Groundhog Day</p>
+<p begin="00:00:13.500" end="00:00:20.609" style="s2">and that&#39;s<span style="s3"> just</span> part of who I am it gets</p>
+<p begin="00:00:18.750" end="00:00:25.849" style="s2">a little better<span style="s3"> as</span> i get to<span style="s3"> know</span> people</p>
+<p begin="00:00:20.609" end="00:00:28.260" style="s2">better but not perfect and when<span style="s3"> i</span></p>
+<p begin="00:00:25.849" end="00:00:30.810" style="s2">started coming to hack night about three</p>
+<p begin="00:00:28.260" end="00:00:34.050" style="s2">and a half years ago there were a lot of</p>
+<p begin="00:00:30.810" end="00:00:39.870" style="s2">new faces not<span style="s3"> quite</span> as<span style="s3"> many</span> as there are</p>
+<p begin="00:00:34.050" end="00:00:41.969" style="s2">now because our room was smaller so<span style="s4"> i&#39;m</span></p>
+<p begin="00:00:39.870" end="00:00:45.120" style="s2">just<span style="s3"> going</span> to mention a few of them</p>
+<p begin="00:00:41.969" end="00:00:48.289" style="s2">because we do not always know how cool</p>
+<p begin="00:00:45.120" end="00:00:52.350" style="s2">each other is and how the people who are</p>
+<p begin="00:00:48.289" end="00:00:53.910" style="s2">right here with you can help you do cool</p>
+<p begin="00:00:52.350" end="00:00:56.760" style="s2">things and to meet some of the</p>
+<p begin="00:00:53.910" end="00:01:00.140" style="s2">challenges that people in times like</p>
+<p begin="00:00:56.760" end="00:01:08.820" style="s2">this are looking to Civic hackers and</p>
+<p begin="00:01:00.140" end="00:01:12.290" style="s2">civic folk to do so Eric who isn&#39;t here</p>
+<p begin="00:01:08.820" end="00:01:17.040" style="s2">tonight calls himself oftentimes a</p>
+<p begin="00:01:12.290" end="00:01:19.920" style="s2">janitor of data now if you have ever had</p>
+<p begin="00:01:17.040" end="00:01:25.170" style="s2">to clean a<span style="s3"> data set you know that that</span></p>
+<p begin="00:01:19.920" end="00:01:28.680" style="s2">is actually very high calling<span style="s3"> josh</span> makes</p>
+<p begin="00:01:25.170" end="00:01:31.350" style="s2">math and<span style="s3"> you</span> know we&#39;re living<span style="s3"> at</span> a<span style="s3"> time</span></p>
+<p begin="00:01:28.680" end="00:01:33.240" style="s2">when it&#39;s really really easy to make<span style="s3"> a</span></p>
+<p begin="00:01:31.350" end="00:01:34.560" style="s2">map anyone can do<span style="s4"> it</span> you you put</p>
+<p begin="00:01:33.240" end="00:01:36.600" style="s2">together<span style="s4"> a</span> spreadsheet and you throw it</p>
+<p begin="00:01:34.560" end="00:01:39.869" style="s2">into Google Fusion Tables and you press</p>
+<p begin="00:01:36.600" end="00:01:50.090" style="s2">a button<span style="s3"> and</span> it makes a nap or sometimes</p>
+<p begin="00:01:39.869" end="00:01:52.880" style="s2">it doesn&#39;t yeah<span style="s3"> Steve</span> he also makes maps</p>
+<p begin="00:01:50.090" end="00:01:56.790" style="s2">but he&#39;s done a bunch of other things</p>
+<p begin="00:01:52.880" end="00:02:02.520" style="s2">and I&#39;m not even going to start on some</p>
+<p begin="00:01:56.790" end="00:02:05.369" style="s2">of the stuff he helped me<span style="s4"> with</span> Jill wall</p>
+<p begin="00:02:02.520" end="00:02:07.860" style="s2">she hardly<span style="s4"> ever</span> comes but she&#39;s come two</p>
+<p begin="00:02:05.369" end="00:02:11.819" style="s2">or<span style="s3"> three</span> times and the very second time</p>
+<p begin="00:02:07.860" end="00:02:13.330" style="s2">that<span style="s4"> i</span> was here at hack night she wanted</p>
+<p begin="00:02:11.819" end="00:02:14.830" style="s2"><span style="s3">to</span> connect</p>
+<p begin="00:02:13.330" end="00:02:16.840" style="s2">sometimes they&#39;re just these</p>
+<p begin="00:02:14.830" end="00:02:19.210" style="s2">serendipitous connections that happen</p>
+<p begin="00:02:16.840" end="00:02:20.650" style="s2">she is no longer at health and</p>
+<p begin="00:02:19.210" end="00:02:24.310" style="s2">disability advocates but i am still</p>
+<p begin="00:02:20.650" end="00:02:27.670" style="s2">there and this is one<span style="s4"> of</span> the kinds of</p>
+<p begin="00:02:24.310" end="00:02:31.680" style="s2"><span style="s4">things</span> that happen here um so if<span style="s3"> you</span></p>
+<p begin="00:02:27.670" end="00:02:34.030" style="s2">have jobs to offer or jobs to seek or</p>
+<p begin="00:02:31.680" end="00:02:37.840" style="s2">just networking connections you want to</p>
+<p begin="00:02:34.030" end="00:02:41.170" style="s2">make this is this<span style="s3"> is</span> a good place there</p>
+<p begin="00:02:37.840" end="00:02:46.720" style="s2">have also been some familiar faces that</p>
+<p begin="00:02:41.170" end="00:02:52.570" style="s2">i encountered here some odd reunions car</p>
+<p begin="00:02:46.720" end="00:02:58.510" style="s2">logo<span style="s4"> i</span> I know him<span style="s3"> because</span> my husband was</p>
+<p begin="00:02:52.570" end="00:03:04.690" style="s2">friends with his dad so yeah you never</p>
+<p begin="00:02:58.510" end="00:03:08.740" style="s2"><span style="s3">know</span> what&#39;s going to happen Rob&#39;s peril</p>
+<p begin="00:03:04.690" end="00:03:11.110" style="s2">my neighbor my<span style="s4"> buddy</span> he knows census</p>
+<p begin="00:03:08.740" end="00:03:17.739" style="s2">data the way that some people know</p>
+<p begin="00:03:11.110" end="00:03:20.650" style="s2"><span style="s3">chocolate</span> and he is thinking of giving a</p>
+<p begin="00:03:17.739" end="00:03:22.300" style="s2">free class in it so you<span style="s4"> know</span> if it&#39;s</p>
+<p begin="00:03:20.650" end="00:03:28.660" style="s2">standing you guys know I&#39;m call him and</p>
+<p begin="00:03:22.300" end="00:03:31.870" style="s2">tell him to do it<span style="s4"> Michaela</span> blaze when I</p>
+<p begin="00:03:28.660" end="00:03:34.120" style="s2">um when she works for me<span style="s3"> she</span> was 14</p>
+<p begin="00:03:31.870" end="00:03:36.160" style="s2">years old my I would have had to walk</p>
+<p begin="00:03:34.120" end="00:03:40.570" style="s2">her home in the evening if she stayed</p>
+<p begin="00:03:36.160" end="00:03:45.430" style="s2">late and her mom would give me a glass</p>
+<p begin="00:03:40.570" end="00:03:51.550" style="s2">of<span style="s4"> milk</span> her mom was my exact same age to</p>
+<p begin="00:03:45.430" end="00:03:53.590" style="s2">this day I I call her mrs. Johnson one</p>
+<p begin="00:03:51.550" end="00:03:58.300" style="s2">day I was<span style="s3"> I</span> was sitting there on<span style="s4"> on the</span></p>
+<p begin="00:03:53.590" end="00:04:01.930" style="s2">on that<span style="s3"> backstage</span> and<span style="s4"> michaela</span> now a mom</p>
+<p begin="00:03:58.300" end="00:04:03.940" style="s2">and a political organizer had brought a</p>
+<p begin="00:04:01.930" end="00:04:06.610" style="s2">bunch of students here to learn about</p>
+<p begin="00:04:03.940" end="00:04:09.780" style="s2"><span style="s3">civic</span> hacking because it was important</p>
+<p begin="00:04:06.610" end="00:04:14.140" style="s2">for politics sat<span style="s4"> down</span> right next to me</p>
+<p begin="00:04:09.780" end="00:04:19.560" style="s2">you know we we stood up and we hugged</p>
+<p begin="00:04:14.140" end="00:04:19.560" style="s2">each other and everyone applauded um</p>
+<p begin="00:04:20.100" end="00:04:26.740" style="s2">honey /<span style="s4"> clinkle</span> the stuff she said when</p>
+<p begin="00:04:23.740" end="00:04:27.290" style="s2">she was here last month<span style="s4"> in mental locks</span></p>
+<p begin="00:04:26.740" end="00:04:30.350" style="s2"><span style="s4">and</span> maybe</p>
+<p begin="00:04:27.290" end="00:04:35.720" style="s2">because it was about<span style="s4"> hands-on</span> practical</p>
+<p begin="00:04:30.350" end="00:04:37.670" style="s2">democracy of a kind that the life force</p>
+<p begin="00:04:35.720" end="00:04:45.770" style="s2">needs to be there just what she looked</p>
+<p begin="00:04:37.670" end="00:04:47.330" style="s2">like when<span style="s3"> I</span> worked with her yeah people</p>
+<p begin="00:04:45.770" end="00:04:51.170" style="s2">just<span style="s3"> come</span> in here and and they say</p>
+<p begin="00:04:47.330" end="00:04:54.740" style="s2">amazing<span style="s3"> things</span> here&#39;s just a few</p>
+<p begin="00:04:51.170" end="00:04:56.390" style="s2"><span style="s4">examples</span> of ones that<span style="s3"> have</span> meant a lot</p>
+<p begin="00:04:54.740" end="00:05:02.590" style="s2">to<span style="s3"> me</span> they&#39;re certainly not the only</p>
+<p begin="00:04:56.390" end="00:05:09.230" style="s2">ones um people have been<span style="s3"> shouting</span> out</p>
+<p begin="00:05:02.590" end="00:05:10.730" style="s2">examples of amazing talks and the thing</p>
+<p begin="00:05:09.230" end="00:05:13.190" style="s2"><span style="s3">about</span> this place is that it&#39;s<span style="s4"> not</span> that</p>
+<p begin="00:05:10.730" end="00:05:16.270" style="s2"><span style="s4">unusual</span> for<span style="s4"> people</span> to come and say</p>
+<p begin="00:05:13.190" end="00:05:22.250" style="s2"><span style="s3">amazing</span> and inspiring things and</p>
+<p begin="00:05:16.270" end="00:05:24.980" style="s2">therefore whatever your problem is if</p>
+<p begin="00:05:22.250" end="00:05:27.760" style="s2">you can&#39;t recognize other people or</p>
+<p begin="00:05:24.980" end="00:05:32.180" style="s2"><span style="s4">whatever</span> your issue is<span style="s3"> that is that</span></p>
+<p begin="00:05:27.760" end="00:05:34.520" style="s2">doesn&#39;t mean that<span style="s4"> you</span> shouldn&#39;t get to</p>
+<p begin="00:05:32.180" end="00:05:37.760" style="s2">know the people around you because in</p>
+<p begin="00:05:34.520" end="00:05:42.880" style="s2">the times we&#39;re in they can help you be</p>
+<p begin="00:05:37.760" end="00:05:42.880" style="s2">your coolest self and that&#39;s all</p>
+<p begin="00:05:43.100" end="00:05:50.199" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

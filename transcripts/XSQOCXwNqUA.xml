@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.790" end="00:00:10.230" style="s2">so we are from<span style="s3"> civis</span> analytics we</p>
+<p begin="00:00:06.930" end="00:00:12.000" style="s2">brought<span style="s4"> our</span><span style="s3"> whole</span> squad<span style="s3"> but</span> we&#39;re<span style="s4"> here</span></p>
+<p begin="00:00:10.230" end="00:00:13.830" style="s2">today<span style="s4"> to talk</span><span style="s3"> to</span> you about is a<span style="s4"> project</span></p>
+<p begin="00:00:12.000" end="00:00:16.080" style="s2">we worked on with<span style="s4"> an</span> organization in<span style="s4"> the</span></p>
+<p begin="00:00:13.830" end="00:00:18.570" style="s2"><span style="s3">city</span> of New York<span style="s3"> we</span> were trying<span style="s4"> to</span> do</p>
+<p begin="00:00:16.080" end="00:00:19.920" style="s2">with them is<span style="s4"> help</span> figure out<span style="s4"> where</span></p>
+<p begin="00:00:18.570" end="00:00:21.480" style="s2"><span style="s4">people were eligible for certain</span></p>
+<p begin="00:00:19.920" end="00:00:22.920" style="s2">benefits<span style="s3"> and</span> weren&#39;t taking advantage of</p>
+<p begin="00:00:21.480" end="00:00:26.010" style="s2"><span style="s3">them</span> so we&#39;ll dive into<span style="s4"> that</span> a little</p>
+<p begin="00:00:22.920" end="00:00:27.449" style="s2"><span style="s4">bit</span> we can also reintroduce ourselves<span style="s3"> my</span></p>
+<p begin="00:00:26.010" end="00:00:30.570" style="s2">name is<span style="s3"> Kelly</span> Kraft I&#39;m a senior<span style="s4"> applied</span></p>
+<p begin="00:00:27.449" end="00:00:32.189" style="s2"><span style="s4">data</span> scientist at<span style="s4"> civis I&#39;m at Victory</span></p>
+<p begin="00:00:30.570" end="00:00:34.860" style="s2">Kumar<span style="s4"> and</span> applied<span style="s4"> data</span> scientist at</p>
+<p begin="00:00:32.189" end="00:00:37.460" style="s2"><span style="s4">service</span> thanks and<span style="s3"> I&#39;m Ola to Chaves</span></p>
+<p begin="00:00:34.860" end="00:00:40.440" style="s2">crime also<span style="s4"> an applied data scientist</span></p>
+<p begin="00:00:37.460" end="00:00:42.149" style="s2"><span style="s4">thank</span> you<span style="s4"> and</span> yeah so a little<span style="s4"> bit</span><span style="s3"> about</span></p>
+<p begin="00:00:40.440" end="00:00:45.510" style="s2"><span style="s3">us</span> and<span style="s3"> the</span> organization we were working</p>
+<p begin="00:00:42.149" end="00:00:49.920" style="s2">with<span style="s3"> so civis was formed out of</span> the</p>
+<p begin="00:00:45.510" end="00:00:52.020" style="s2">Obama 2012 analytics<span style="s3"> department</span> so we</p>
+<p begin="00:00:49.920" end="00:00:54.960" style="s2">worked on the reelect campaign we had a</p>
+<p begin="00:00:52.020" end="00:00:56.879" style="s2">big analytics team about 50 people<span style="s3"> we</span></p>
+<p begin="00:00:54.960" end="00:00:58.410" style="s2">kind of worked<span style="s4"> across the campaign to</span></p>
+<p begin="00:00:56.879" end="00:00:59.940" style="s2">try<span style="s4"> to</span> figure out<span style="s4"> ways where we could</span></p>
+<p begin="00:00:58.410" end="00:01:01.050" style="s2">influence the strategy and make sure</p>
+<p begin="00:00:59.940" end="00:01:02.699" style="s2">that we were targeting<span style="s3"> the</span> right voters</p>
+<p begin="00:01:01.050" end="00:01:04.049" style="s2">and providing the right messages the</p>
+<p begin="00:01:02.699" end="00:01:06.000" style="s2">right people and<span style="s4"> saving</span> money where we</p>
+<p begin="00:01:04.049" end="00:01:07.200" style="s2">could by placing ads<span style="s3"> correctly</span><span style="s4"> and</span> that</p>
+<p begin="00:01:06.000" end="00:01:09.360" style="s2"><span style="s4">sort</span> of thing</p>
+<p begin="00:01:07.200" end="00:01:11.159" style="s2">and so then our CEO and<span style="s3"> Founder</span> as well</p>
+<p begin="00:01:09.360" end="00:01:12.960" style="s2">as some of our<span style="s4"> early</span> members<span style="s3"> of</span><span style="s4"> civics</span></p>
+<p begin="00:01:11.159" end="00:01:16.020" style="s2">were all on the Obama analytics team in</p>
+<p begin="00:01:12.960" end="00:01:17.790" style="s2">2012<span style="s4"> but</span> we&#39;ve<span style="s4"> moved</span> on from<span style="s4"> politics</span></p>
+<p begin="00:01:16.020" end="00:01:19.380" style="s2">we&#39;re still doing<span style="s4"> politics</span> but we&#39;re</p>
+<p begin="00:01:17.790" end="00:01:20.820" style="s2">also<span style="s4"> trying</span><span style="s3"> to</span> apply our data science</p>
+<p begin="00:01:19.380" end="00:01:23.810" style="s2"><span style="s3">methods</span> and products<span style="s3"> across</span> other</p>
+<p begin="00:01:20.820" end="00:01:27.150" style="s2">industries so nonprofit groups and</p>
+<p begin="00:01:23.810" end="00:01:29.460" style="s2">government<span style="s3"> we&#39;re</span><span style="s4"> working</span> with the media</p>
+<p begin="00:01:27.150" end="00:01:30.570" style="s2"><span style="s4">team</span> of the 2020 census<span style="s4"> with</span> the city<span style="s4"> of</span></p>
+<p begin="00:01:29.460" end="00:01:32.430" style="s2">New<span style="s3"> York</span> we also have some corporate</p>
+<p begin="00:01:30.570" end="00:01:33.780" style="s2">clients so trying to figure<span style="s3"> out</span> ways</p>
+<p begin="00:01:32.430" end="00:01:36.270" style="s2"><span style="s3">that</span> we<span style="s3"> can</span><span style="s4"> apply</span> what<span style="s3"> we&#39;ve</span> learned<span style="s4"> in</span></p>
+<p begin="00:01:33.780" end="00:01:37.860" style="s2">the campaign and since then to help</p>
+<p begin="00:01:36.270" end="00:01:41.640" style="s2">these organizations operate more</p>
+<p begin="00:01:37.860" end="00:01:43.020" style="s2">efficiently<span style="s4"> for</span><span style="s3"> this</span><span style="s4"> project</span></p>
+<p begin="00:01:41.640" end="00:01:44.460" style="s2">specifically<span style="s4"> we</span> were working with the</p>
+<p begin="00:01:43.020" end="00:01:46.320" style="s2">Robin Hood<span style="s3"> Foundation</span> which is<span style="s4"> a</span> really</p>
+<p begin="00:01:44.460" end="00:01:48.720" style="s2">large anti-poverty organization in New</p>
+<p begin="00:01:46.320" end="00:01:51.000" style="s2">York City<span style="s4"> so</span> what they do is they want</p>
+<p begin="00:01:48.720" end="00:01:52.409" style="s2"><span style="s4">to</span> find organizations<span style="s3"> that</span> are<span style="s3"> working</span></p>
+<p begin="00:01:51.000" end="00:01:54.149" style="s2"><span style="s4">on</span> the ground<span style="s4"> to</span><span style="s3"> help</span> lift<span style="s4"> people</span><span style="s3"> out</span> of</p>
+<p begin="00:01:52.409" end="00:01:57.450" style="s2">poverty<span style="s4"> so</span> they provide grants to<span style="s4"> these</span></p>
+<p begin="00:01:54.149" end="00:01:59.280" style="s2">groups on the ground<span style="s3"> and</span> last in<span style="s4"> the</span></p>
+<p begin="00:01:57.450" end="00:02:02.490" style="s2"><span style="s4">last</span> year they invested over<span style="s4"> 130</span> million</p>
+<p begin="00:01:59.280" end="00:02:04.170" style="s2"><span style="s3">dollars</span><span style="s4"> in</span> the city of New York<span style="s4"> so</span> what</p>
+<p begin="00:02:02.490" end="00:02:07.110" style="s2">they came<span style="s4"> to</span><span style="s3"> us</span> for<span style="s4"> our</span><span style="s3"> help with</span><span style="s4"> is</span></p>
+<p begin="00:02:04.170" end="00:02:08.190" style="s2">that they<span style="s3"> wanted</span><span style="s4"> to</span> figure<span style="s4"> out</span> where</p>
+<p begin="00:02:07.110" end="00:02:09.660" style="s2"><span style="s4">people</span><span style="s3"> were eligible for</span><span style="s4"> the</span> Earned</p>
+<p begin="00:02:08.190" end="00:02:11.940" style="s2">Income Tax Credit and<span style="s4"> where people were</span></p>
+<p begin="00:02:09.660" end="00:02:14.840" style="s2">eligible<span style="s4"> for food stamps</span><span style="s3"> and</span> weren&#39;t</p>
+<p begin="00:02:11.940" end="00:02:14.840" style="s2">taking advantage of<span style="s4"> those</span> opportunities</p>
+<p begin="00:02:15.280" end="00:02:18.489" style="s2">so snap in the<span style="s3"> earned income tax credit</span></p>
+<p begin="00:02:17.260" end="00:02:20.049" style="s2">are actually two<span style="s3"> of</span> the<span style="s4"> most</span> effective</p>
+<p begin="00:02:18.489" end="00:02:22.150" style="s2">anti-poverty programs in the United</p>
+<p begin="00:02:20.049" end="00:02:23.739" style="s2">States but<span style="s4"> there</span> is a gap<span style="s4"> of</span> people who</p>
+<p begin="00:02:22.150" end="00:02:26.650" style="s2">are eligible<span style="s4"> but</span> aren&#39;t participating<span style="s3"> so</span></p>
+<p begin="00:02:23.739" end="00:02:27.970" style="s2"><span style="s3">that&#39;s</span> about<span style="s4"> 20%</span><span style="s3"> of</span><span style="s4"> those</span> folks<span style="s3"> so</span> that</p>
+<p begin="00:02:26.650" end="00:02:29.739" style="s2">was the<span style="s4"> goal</span> for<span style="s4"> this project was</span> to</p>
+<p begin="00:02:27.970" end="00:02:32.290" style="s2"><span style="s4">figure out where the participation gaps</span></p>
+<p begin="00:02:29.739" end="00:02:33.970" style="s2">were in the city<span style="s3"> of</span> New York<span style="s4"> understand</span></p>
+<p begin="00:02:32.290" end="00:02:37.629" style="s2">who those eligible<span style="s3"> non-participating</span></p>
+<p begin="00:02:33.970" end="00:02:39.280" style="s2"><span style="s3">individuals</span> are and then find a way<span style="s4"> to</span></p>
+<p begin="00:02:37.629" end="00:02:42.609" style="s2">connect them<span style="s4"> with</span><span style="s3"> robin hood</span><span style="s4"> and</span> the</p>
+<p begin="00:02:39.280" end="00:02:43.780" style="s2"><span style="s3">organizations</span> on the ground<span style="s3"> so</span><span style="s4"> there&#39;s a</span></p>
+<p begin="00:02:42.609" end="00:02:46.389" style="s2">couple<span style="s4"> of</span> challenges<span style="s3"> that</span> we&#39;ll talk<span style="s3"> a</span></p>
+<p begin="00:02:43.780" end="00:02:48.579" style="s2"><span style="s4">little bit</span><span style="s3"> about</span> but this<span style="s4"> is</span> a group<span style="s4"> of</span></p>
+<p begin="00:02:46.389" end="00:02:50.709" style="s2">people that&#39;s<span style="s4"> hard</span> to find data about<span style="s3"> so</span></p>
+<p begin="00:02:48.579" end="00:02:52.000" style="s2">you know we know who we know<span style="s4"> roughly the</span></p>
+<p begin="00:02:50.709" end="00:02:54.430" style="s2">number<span style="s3"> of</span><span style="s4"> people</span> who participate in</p>
+<p begin="00:02:52.000" end="00:02:56.440" style="s2"><span style="s3">these programs and</span><span style="s4"> we</span> know based<span style="s4"> on</span></p>
+<p begin="00:02:54.430" end="00:02:57.790" style="s2">criteria who should be eligible<span style="s4"> but we</span></p>
+<p begin="00:02:56.440" end="00:02:59.319" style="s2"><span style="s4">don&#39;t</span> have a list<span style="s4"> of</span> like these</p>
+<p begin="00:02:57.790" end="00:03:01.359" style="s2">participating families<span style="s4"> we</span> don&#39;t have a</p>
+<p begin="00:02:59.319" end="00:03:03.579" style="s2">list<span style="s4"> of</span> these eligible and participating</p>
+<p begin="00:03:01.359" end="00:03:04.840" style="s2">individuals<span style="s4"> and</span> a lot<span style="s3"> of</span> the thing below</p>
+<p begin="00:03:03.579" end="00:03:06.370" style="s2">the data sources we were working with</p>
+<p begin="00:03:04.840" end="00:03:07.840" style="s2"><span style="s4">which</span> we&#39;ll talk<span style="s4"> about we&#39;re at a</span></p>
+<p begin="00:03:06.370" end="00:03:09.909" style="s2">different<span style="s3"> level so we were looking</span><span style="s4"> at</span></p>
+<p begin="00:03:07.840" end="00:03:11.109" style="s2">specific neighborhoods in New<span style="s4"> York</span> but</p>
+<p begin="00:03:09.909" end="00:03:13.359" style="s2"><span style="s4">we had</span><span style="s3"> access</span> to<span style="s4"> data</span> that<span style="s4"> was</span> maybe</p>
+<p begin="00:03:11.109" end="00:03:14.799" style="s2"><span style="s3">state level or you know we</span><span style="s4"> could</span> look at</p>
+<p begin="00:03:13.359" end="00:03:16.540" style="s2">national trends but<span style="s4"> we</span> had to kind<span style="s4"> of</span></p>
+<p begin="00:03:14.799" end="00:03:18.129" style="s2">figure<span style="s3"> out</span> a way<span style="s4"> to</span> apply<span style="s4"> that</span> to a</p>
+<p begin="00:03:16.540" end="00:03:23.169" style="s2">geography that would be useful<span style="s4"> for</span><span style="s3"> robin</span></p>
+<p begin="00:03:18.129" end="00:03:25.299" style="s2"><span style="s3">hood</span> so we<span style="s3"> combine</span> a difference<span style="s4"> at</span> a</p>
+<p begin="00:03:23.169" end="00:03:27.609" style="s2">large set<span style="s3"> of</span> tools<span style="s4"> and</span> data sources<span style="s4"> to</span></p>
+<p begin="00:03:25.299" end="00:03:29.379" style="s2">answer<span style="s3"> this</span> question<span style="s4"> to calculate and</span></p>
+<p begin="00:03:27.609" end="00:03:30.940" style="s2">figure out where<span style="s3"> people</span> are<span style="s3"> eligible but</span></p>
+<p begin="00:03:29.379" end="00:03:32.859" style="s2">not participating<span style="s4"> in</span> the program we</p>
+<p begin="00:03:30.940" end="00:03:35.379" style="s2">started<span style="s3"> by</span> taking participation data</p>
+<p begin="00:03:32.859" end="00:03:37.419" style="s2">that the IRS releases for<span style="s4"> the Earned</span></p>
+<p begin="00:03:35.379" end="00:03:39.010" style="s2">Income Tax Credit<span style="s3"> and</span> that one of<span style="s3"> Robin</span></p>
+<p begin="00:03:37.419" end="00:03:41.169" style="s2"><span style="s3">Hood&#39;s</span> partner foundations in New York</p>
+<p begin="00:03:39.010" end="00:03:43.569" style="s2"><span style="s4">releases for food stamps</span></p>
+<p begin="00:03:41.169" end="00:03:45.220" style="s2">we combine<span style="s3"> that</span> with eligibility<span style="s4"> data</span> to</p>
+<p begin="00:03:43.569" end="00:03:47.530" style="s2">estimate<span style="s4"> the</span> overall<span style="s4"> size of</span><span style="s3"> the</span></p>
+<p begin="00:03:45.220" end="00:03:50.019" style="s2">eligible<span style="s3"> population</span> we use data that<span style="s4"> the</span></p>
+<p begin="00:03:47.530" end="00:03:51.549" style="s2"><span style="s3">census</span> releases publicly about American</p>
+<p begin="00:03:50.019" end="00:03:54.459" style="s2">communities in a survey<span style="s4"> called</span> the</p>
+<p begin="00:03:51.549" end="00:03:55.810" style="s2">American Community Survey there<span style="s3"> we</span> also</p>
+<p begin="00:03:54.459" end="00:03:58.750" style="s2">rolled in a lot of<span style="s3"> New</span><span style="s4"> York City</span></p>
+<p begin="00:03:55.810" end="00:04:01.569" style="s2">specific data<span style="s4"> so</span> things like<span style="s3"> 303</span> 1 1</p>
+<p begin="00:03:58.750" end="00:04:03.220" style="s2"><span style="s3">calls</span> locations of benefit centers and</p>
+<p begin="00:04:01.569" end="00:04:04.569" style="s2"><span style="s4">things</span> like<span style="s4"> that to</span><span style="s3"> help</span> sharpen<span style="s4"> our</span></p>
+<p begin="00:04:03.220" end="00:04:06.190" style="s2">inference in these<span style="s3"> particular</span></p>
+<p begin="00:04:04.569" end="00:04:08.560" style="s2">neighborhoods we were<span style="s3"> able</span> to combine<span style="s4"> a</span></p>
+<p begin="00:04:06.190" end="00:04:10.449" style="s2">lot<span style="s4"> of</span><span style="s3"> these</span> in a<span style="s4"> platform a data</span></p>
+<p begin="00:04:08.560" end="00:04:12.699" style="s2"><span style="s4">modeling</span> and<span style="s4"> use</span> platform that we</p>
+<p begin="00:04:10.449" end="00:04:15.069" style="s2">develop and<span style="s4"> use</span> internally and that</p>
+<p begin="00:04:12.699" end="00:04:16.720" style="s2"><span style="s4">allowed</span> us<span style="s4"> to</span> combine<span style="s4"> sort</span> data sources</p>
+<p begin="00:04:15.069" end="00:04:18.780" style="s2">at different levels<span style="s4"> and</span> funnel<span style="s4"> it</span></p>
+<p begin="00:04:16.720" end="00:04:21.760" style="s2">through<span style="s4"> different stages of our workflow</span></p>
+<p begin="00:04:18.780" end="00:04:23.200" style="s2">so once we collected our<span style="s3"> data</span> sources<span style="s4"> we</span></p>
+<p begin="00:04:21.760" end="00:04:26.349" style="s2">came up<span style="s3"> with</span> a series of direct</p>
+<p begin="00:04:23.200" end="00:04:27.460" style="s2">estimates for<span style="s3"> non-participation for</span></p>
+<p begin="00:04:26.349" end="00:04:30.090" style="s2">these different<span style="s4"> programs</span> and</p>
+<p begin="00:04:27.460" end="00:04:31.900" style="s2">and we did that<span style="s3"> by</span> taking<span style="s4"> these</span></p>
+<p begin="00:04:30.090" end="00:04:33.970" style="s2"><span style="s3">eligibility</span> requirements for<span style="s3"> each</span></p>
+<p begin="00:04:31.900" end="00:04:35.650" style="s2"><span style="s4">program</span><span style="s3"> and</span> applying them directly to</p>
+<p begin="00:04:33.970" end="00:04:38.650" style="s2"><span style="s3">data</span><span style="s4"> that</span> the<span style="s3"> census</span> releases about</p>
+<p begin="00:04:35.650" end="00:04:40.360" style="s2"><span style="s4">these communities</span><span style="s3"> we</span> did<span style="s4"> that</span> in our and</p>
+<p begin="00:04:38.650" end="00:04:43.240" style="s2">we<span style="s3"> scripted</span> a little bit of that with</p>
+<p begin="00:04:40.360" end="00:04:45.699" style="s2">our platform<span style="s4"> as</span> well<span style="s4"> so</span> what this gave</p>
+<p begin="00:04:43.240" end="00:04:48.580" style="s2">us<span style="s4"> was</span> a starting point<span style="s4"> an</span> estimate of</p>
+<p begin="00:04:45.699" end="00:04:50.380" style="s2"><span style="s3">what we thought of where</span> we thought the</p>
+<p begin="00:04:48.580" end="00:04:52.210" style="s2">participation gaps were in<span style="s4"> New York</span><span style="s3"> City</span></p>
+<p begin="00:04:50.380" end="00:04:54.789" style="s2">but we thought<span style="s4"> we</span> could do one better</p>
+<p begin="00:04:52.210" end="00:04:56.169" style="s2"><span style="s4">than</span> just<span style="s4"> that</span> direct estimate and to</p>
+<p begin="00:04:54.789" end="00:04:58.539" style="s2"><span style="s4">incorporate</span> a<span style="s4"> lot</span><span style="s3"> of</span><span style="s4"> the</span> information</p>
+<p begin="00:04:56.169" end="00:05:00.849" style="s2">about<span style="s4"> New</span><span style="s3"> York</span><span style="s4"> City specifically we</span></p>
+<p begin="00:04:58.539" end="00:05:02.410" style="s2">built in a second modeling step<span style="s4"> to</span></p>
+<p begin="00:05:00.849" end="00:05:03.880" style="s2">refine those<span style="s4"> estimates</span> based on data</p>
+<p begin="00:05:02.410" end="00:05:05.979" style="s2"><span style="s4">outside</span> the American Community Survey</p>
+<p begin="00:05:03.880" end="00:05:08.199" style="s2"><span style="s3">that was more specific to</span> New York City</p>
+<p begin="00:05:05.979" end="00:05:10.000" style="s2">and that&#39;s<span style="s4"> where</span> our platform really</p>
+<p begin="00:05:08.199" end="00:05:12.550" style="s2"><span style="s4">helped</span><span style="s3"> us</span> out<span style="s4"> in</span><span style="s3"> terms</span> of building<span style="s3"> a</span></p>
+<p begin="00:05:10.000" end="00:05:14.020" style="s2">series<span style="s3"> of</span> models<span style="s4"> quality</span> control for</p>
+<p begin="00:05:12.550" end="00:05:15.130" style="s2"><span style="s4">these models and things</span><span style="s3"> like</span> that<span style="s4"> that</span></p>
+<p begin="00:05:14.020" end="00:05:17.979" style="s2">allowed us<span style="s3"> to</span> focus<span style="s4"> more</span><span style="s3"> on</span> the</p>
+<p begin="00:05:15.130" end="00:05:19.180" style="s2">conceptual<span style="s4"> questions and structuring the</span></p>
+<p begin="00:05:17.979" end="00:05:22.090" style="s2">entire workflow<span style="s4"> in</span> a way that was</p>
+<p begin="00:05:19.180" end="00:05:24.340" style="s2"><span style="s4">helpful</span> to<span style="s4"> our</span> client so let&#39;s talk a</p>
+<p begin="00:05:22.090" end="00:05:26.139" style="s2">little<span style="s4"> bit</span><span style="s3"> about</span><span style="s4"> how</span> we read eligibility</p>
+<p begin="00:05:24.340" end="00:05:28.060" style="s2">criteria out of the<span style="s4"> census and came up</span></p>
+<p begin="00:05:26.139" end="00:05:29.440" style="s2">with<span style="s3"> our</span> direct estimates for simplicity</p>
+<p begin="00:05:28.060" end="00:05:31.780" style="s2">we&#39;ll focus on the Earned Income Tax</p>
+<p begin="00:05:29.440" end="00:05:35.110" style="s2">Credit<span style="s3"> though</span> our process for<span style="s4"> snap food</span></p>
+<p begin="00:05:31.780" end="00:05:36.849" style="s2">stamps is similar to this so the ACS is</p>
+<p begin="00:05:35.110" end="00:05:39.009" style="s2"><span style="s3">this</span> large survey that the<span style="s3"> census</span></p>
+<p begin="00:05:36.849" end="00:05:41.770" style="s2">administers every year to about<span style="s3"> 1%</span><span style="s4"> of</span></p>
+<p begin="00:05:39.009" end="00:05:43.960" style="s2"><span style="s4">the US population</span><span style="s3"> it</span> gives us detailed</p>
+<p begin="00:05:41.770" end="00:05:46.150" style="s2">information about<span style="s4"> people</span> and<span style="s3"> the</span></p>
+<p begin="00:05:43.960" end="00:05:48.159" style="s2">households that<span style="s4"> they</span> lived in the two</p>
+<p begin="00:05:46.150" end="00:05:50.169" style="s2">catches are first<span style="s4"> the</span> data is<span style="s3"> anonymized</span></p>
+<p begin="00:05:48.159" end="00:05:52.060" style="s2">so as Kelly was saying<span style="s4"> it&#39;s not tied to</span></p>
+<p begin="00:05:50.169" end="00:05:55.270" style="s2"><span style="s3">specific</span> people<span style="s4"> or</span> specific households</p>
+<p begin="00:05:52.060" end="00:05:58.090" style="s2">in a way that you can<span style="s3"> really</span> so it&#39;s</p>
+<p begin="00:05:55.270" end="00:06:00.159" style="s2">released with these random<span style="s4"> IDs</span> attached</p>
+<p begin="00:05:58.090" end="00:06:02.139" style="s2">to these records<span style="s3"> and</span> it&#39;s released at a</p>
+<p begin="00:06:00.159" end="00:06:05.169" style="s2">geographic<span style="s4"> level</span> called the<span style="s4"> public</span> use</p>
+<p begin="00:06:02.139" end="00:06:07.900" style="s2">microdata area or<span style="s3"> Puma</span> so in addition<span style="s3"> to</span></p>
+<p begin="00:06:05.169" end="00:06:09.729" style="s2">being majestic beasts<span style="s4"> Pumas</span> are</p>
+<p begin="00:06:07.900" end="00:06:12.219" style="s2">geographies that<span style="s4"> contain</span> at least<span style="s3"> a</span></p>
+<p begin="00:06:09.729" end="00:06:14.560" style="s2"><span style="s3">hundred</span> thousand people<span style="s3"> they&#39;re</span> built</p>
+<p begin="00:06:12.219" end="00:06:16.960" style="s2">from<span style="s4"> census</span> tracts and their statistical</p>
+<p begin="00:06:14.560" end="00:06:18.520" style="s2">geographies that<span style="s3"> the census uses to</span></p>
+<p begin="00:06:16.960" end="00:06:20.949" style="s2">maintain<span style="s3"> consistency</span> with its sampling</p>
+<p begin="00:06:18.520" end="00:06:22.570" style="s2">and survey procedures<span style="s4"> year over year</span> so</p>
+<p begin="00:06:20.949" end="00:06:25.210" style="s2">to give<span style="s3"> you</span> an idea<span style="s4"> of what Pumas look</span></p>
+<p begin="00:06:22.570" end="00:06:28.360" style="s2">like<span style="s4"> pretty</span> sure we are currently<span style="s4"> in</span></p>
+<p begin="00:06:25.210" end="00:06:30.880" style="s2">this Puma in Chicago who must tend to</p>
+<p begin="00:06:28.360" end="00:06:32.650" style="s2">map to<span style="s4"> groups</span> of neighborhoods so the</p>
+<p begin="00:06:30.880" end="00:06:35.620" style="s2">Puma<span style="s3"> we&#39;re</span><span style="s4"> in</span> is a combination<span style="s3"> of</span> the</p>
+<p begin="00:06:32.650" end="00:06:36.760" style="s2">loop South<span style="s4"> Loop</span> and<span style="s3"> River</span><span style="s4"> north so it&#39;s</span></p>
+<p begin="00:06:35.620" end="00:06:38.560" style="s2">a<span style="s3"> combination</span> of neighborhoods and<span style="s3"> that</span></p>
+<p begin="00:06:36.760" end="00:06:40.510" style="s2"><span style="s4">tends</span> to apply for<span style="s4"> other</span> parts of the</p>
+<p begin="00:06:38.560" end="00:06:41.230" style="s2">city as<span style="s4"> well</span> one of<span style="s3"> these</span> difficult</p>
+<p begin="00:06:40.510" end="00:06:42.730" style="s2">pieces then</p>
+<p begin="00:06:41.230" end="00:06:44.800" style="s2">taking data that&#39;s released at this</p>
+<p begin="00:06:42.730" end="00:06:46.840" style="s2"><span style="s3">geography</span> and combining<span style="s3"> with</span> data<span style="s4"> that&#39;s</span></p>
+<p begin="00:06:44.800" end="00:06:48.730" style="s2">released at zip code levels<span style="s3"> at County</span></p>
+<p begin="00:06:46.840" end="00:06:53.650" style="s2">levels<span style="s3"> when</span> all those pieces might not</p>
+<p begin="00:06:48.730" end="00:06:55.240" style="s2">align entirely so this is what ACS data</p>
+<p begin="00:06:53.650" end="00:06:57.190" style="s2">looks like<span style="s3"> this is the information</span><span style="s4"> we</span></p>
+<p begin="00:06:55.240" end="00:06:59.950" style="s2"><span style="s3">have</span> about<span style="s3"> people</span> that live in<span style="s4"> each</span> Puma</p>
+<p begin="00:06:57.190" end="00:07:01.870" style="s2"><span style="s4">we</span> have a serial number that<span style="s4"> ties</span> people</p>
+<p begin="00:06:59.950" end="00:07:03.490" style="s2"><span style="s4">to</span> specific households<span style="s3"> and</span> then we have</p>
+<p begin="00:07:01.870" end="00:07:05.590" style="s2">detailed information<span style="s3"> that people</span></p>
+<p begin="00:07:03.490" end="00:07:08.440" style="s2">reported to the Census Bureau including</p>
+<p begin="00:07:05.590" end="00:07:09.850" style="s2">their age different types of income<span style="s4"> some</span></p>
+<p begin="00:07:08.440" end="00:07:13.060" style="s2"><span style="s3">information</span> about how they&#39;re related to</p>
+<p begin="00:07:09.850" end="00:07:14.230" style="s2"><span style="s3">each</span> other<span style="s3"> and</span><span style="s4"> so</span> on<span style="s3"> you</span><span style="s4"> don&#39;t need to</span></p>
+<p begin="00:07:13.060" end="00:07:15.520" style="s2"><span style="s3">focus</span> on the specifics of<span style="s4"> this</span></p>
+<p begin="00:07:14.230" end="00:07:17.050" style="s2">information<span style="s4"> we</span><span style="s3"> just</span> wanted<span style="s4"> to give you</span></p>
+<p begin="00:07:15.520" end="00:07:20.260" style="s2"><span style="s3">an</span> idea<span style="s4"> of the structure of the data</span></p>
+<p begin="00:07:17.050" end="00:07:22.420" style="s2">we&#39;re working with so<span style="s4"> a</span> ITC eligibility</p>
+<p begin="00:07:20.260" end="00:07:24.250" style="s2">depends on a series of facts<span style="s3"> about you</span></p>
+<p begin="00:07:22.420" end="00:07:26.260" style="s2">and your family<span style="s3"> depends</span><span style="s4"> on</span> your<span style="s4"> income</span></p>
+<p begin="00:07:24.250" end="00:07:28.000" style="s2"><span style="s4">depends</span> on how many whether you&#39;re</p>
+<p begin="00:07:26.260" end="00:07:31.240" style="s2">married depends on whether you have<span style="s4"> kids</span></p>
+<p begin="00:07:28.000" end="00:07:33.070" style="s2">and a few other things<span style="s4"> so</span> what we do<span style="s3"> to</span></p>
+<p begin="00:07:31.240" end="00:07:35.530" style="s2">read<span style="s4"> this</span><span style="s3"> information</span> out of the ACS is</p>
+<p begin="00:07:33.070" end="00:07:37.750" style="s2">we split<span style="s4"> the</span> data into households as</p>
+<p begin="00:07:35.530" end="00:07:40.840" style="s2">identified by<span style="s3"> a</span> household flag in the</p>
+<p begin="00:07:37.750" end="00:07:42.190" style="s2">data and then we<span style="s4"> identify sub units</span></p>
+<p begin="00:07:40.840" end="00:07:44.020" style="s2">within each household people we think</p>
+<p begin="00:07:42.190" end="00:07:46.060" style="s2">are married to<span style="s4"> each</span> other<span style="s3"> who</span> we think</p>
+<p begin="00:07:44.020" end="00:07:48.900" style="s2">their kids are their<span style="s4"> total</span> income<span style="s3"> for</span></p>
+<p begin="00:07:46.060" end="00:07:52.300" style="s2"><span style="s3">each</span> unit<span style="s3"> and</span> so on so we directly apply</p>
+<p begin="00:07:48.900" end="00:07:54.580" style="s2"><span style="s4">program</span> logic<span style="s4"> to</span> these households and</p>
+<p begin="00:07:52.300" end="00:07:56.230" style="s2"><span style="s4">say</span> what is the income how many kids</p>
+<p begin="00:07:54.580" end="00:07:57.670" style="s2">does<span style="s4"> this</span> married couple have are they</p>
+<p begin="00:07:56.230" end="00:08:02.050" style="s2">eligible<span style="s4"> for</span> the<span style="s3"> the Earned Income Tax</span></p>
+<p begin="00:07:57.670" end="00:08:05.680" style="s2">Credit<span style="s3"> the</span> catch<span style="s4"> is the EITC eligibility</span></p>
+<p begin="00:08:02.050" end="00:08:07.390" style="s2">criteria are<span style="s3"> very</span> detailed<span style="s3"> and</span> the ACS</p>
+<p begin="00:08:05.680" end="00:08:11.830" style="s2">does not ask about information at that</p>
+<p begin="00:08:07.390" end="00:08:13.240" style="s2"><span style="s3">level</span><span style="s4"> of</span><span style="s3"> detail</span><span style="s4"> so</span> for<span style="s4"> example</span> you for</p>
+<p begin="00:08:11.830" end="00:08:14.890" style="s2"><span style="s4">someone</span> to be your qualifying<span style="s4"> child</span> for</p>
+<p begin="00:08:13.240" end="00:08:17.620" style="s2">the Earned Income Tax Credit<span style="s3"> they</span> have</p>
+<p begin="00:08:14.890" end="00:08:20.830" style="s2">to be either a related to you by blood</p>
+<p begin="00:08:17.620" end="00:08:22.480" style="s2">or<span style="s3"> by</span> legal ties and that&#39;s not</p>
+<p begin="00:08:20.830" end="00:08:24.460" style="s2"><span style="s3">necessarily</span> what people will<span style="s3"> report</span> to</p>
+<p begin="00:08:22.480" end="00:08:27.070" style="s2"><span style="s4">the</span> census that&#39;s not perfectly captured</p>
+<p begin="00:08:24.460" end="00:08:30.040" style="s2"><span style="s3">information</span><span style="s4"> there</span> in the American</p>
+<p begin="00:08:27.070" end="00:08:31.870" style="s2">Community Survey<span style="s4"> so</span> what we&#39;ve shown<span style="s3"> you</span></p>
+<p begin="00:08:30.040" end="00:08:33.970" style="s2">here<span style="s4"> is that from the get-go if we&#39;re</span></p>
+<p begin="00:08:31.870" end="00:08:36.099" style="s2">trying<span style="s4"> to</span> read eligibility out of the</p>
+<p begin="00:08:33.970" end="00:08:37.690" style="s2">American Community Survey<span style="s3"> we&#39;re</span><span style="s4"> not</span></p>
+<p begin="00:08:36.099" end="00:08:39.460" style="s2">going<span style="s3"> to</span><span style="s4"> get</span> all the information<span style="s4"> we</span> need</p>
+<p begin="00:08:37.690" end="00:08:41.229" style="s2"><span style="s4">and</span> this<span style="s4"> is</span><span style="s3"> one</span> of our motivations for</p>
+<p begin="00:08:39.460" end="00:08:43.240" style="s2"><span style="s4">building modeled estimates on</span> top of our</p>
+<p begin="00:08:41.229" end="00:08:45.130" style="s2">direct estimates<span style="s4"> is</span> that we think<span style="s3"> direct</span></p>
+<p begin="00:08:43.240" end="00:08:46.780" style="s2">estimates can&#39;t do the<span style="s4"> job</span> perfectly<span style="s3"> and</span></p>
+<p begin="00:08:45.130" end="00:08:48.730" style="s2">we can<span style="s4"> supplement them and improve them</span></p>
+<p begin="00:08:46.780" end="00:08:52.780" style="s2"><span style="s3">by</span> incorporating<span style="s4"> other</span> pieces<span style="s3"> of</span></p>
+<p begin="00:08:48.730" end="00:08:55.000" style="s2"><span style="s4">information so the other thing that we</span></p>
+<p begin="00:08:52.780" end="00:08:56.770" style="s2">do is we try to<span style="s3"> validate</span> our model<span style="s3"> our</span></p>
+<p begin="00:08:55.000" end="00:08:58.600" style="s2"><span style="s3">direct</span> estimates against external<span style="s4"> data</span></p>
+<p begin="00:08:56.770" end="00:09:00.970" style="s2">sources where possible<span style="s3"> so one of</span><span style="s4"> the</span></p>
+<p begin="00:08:58.600" end="00:09:03.610" style="s2">things that we do to<span style="s3"> calculate</span> a EITC</p>
+<p begin="00:09:00.970" end="00:09:05.830" style="s2">eligibility is calculate<span style="s3"> the</span> adjusted</p>
+<p begin="00:09:03.610" end="00:09:07.690" style="s2">gross<span style="s4"> income</span> for<span style="s4"> each</span> family member<span style="s4"> your</span></p>
+<p begin="00:09:05.830" end="00:09:09.790" style="s2">adjusted gross<span style="s4"> income</span> is a combination</p>
+<p begin="00:09:07.690" end="00:09:13.840" style="s2">of<span style="s4"> different income types depends on</span></p>
+<p begin="00:09:09.790" end="00:09:16.570" style="s2">like 15 lines of your 1040<span style="s3"> form and what</span></p>
+<p begin="00:09:13.840" end="00:09:18.610" style="s2">we do is we compare the average income</p>
+<p begin="00:09:16.570" end="00:09:21.250" style="s2">that<span style="s4"> people</span><span style="s3"> make</span> in our model from<span style="s4"> the</span></p>
+<p begin="00:09:18.610" end="00:09:24.490" style="s2">ACS what data that&#39;s released by the IRS</p>
+<p begin="00:09:21.250" end="00:09:26.590" style="s2"><span style="s4">at</span> the zip<span style="s4"> code</span><span style="s3"> level</span><span style="s4"> so</span> we say<span style="s4"> among</span></p>
+<p begin="00:09:24.490" end="00:09:28.590" style="s2">three key income brackets where people</p>
+<p begin="00:09:26.590" end="00:09:31.090" style="s2">could<span style="s4"> be</span> eligible<span style="s3"> for</span><span style="s4"> these programs</span></p>
+<p begin="00:09:28.590" end="00:09:32.890" style="s2"><span style="s4">what</span> does our average person make</p>
+<p begin="00:09:31.090" end="00:09:35.950" style="s2">compared<span style="s4"> to</span> the<span style="s4"> average</span> filer<span style="s4"> that</span> the</p>
+<p begin="00:09:32.890" end="00:09:38.230" style="s2">IRS releases and we find that in<span style="s3"> general</span></p>
+<p begin="00:09:35.950" end="00:09:40.000" style="s2">over years for our<span style="s4"> model we&#39;re able to</span></p>
+<p begin="00:09:38.230" end="00:09:41.380" style="s2"><span style="s4">track</span> income pretty well for<span style="s4"> people who</span></p>
+<p begin="00:09:40.000" end="00:09:44.140" style="s2">make<span style="s3"> twenty four to seventy four</span></p>
+<p begin="00:09:41.380" end="00:09:46.150" style="s2">thousand dollars<span style="s4"> if</span> you look at<span style="s4"> these</span></p>
+<p begin="00:09:44.140" end="00:09:48.220" style="s2">points they line up at<span style="s4"> about</span><span style="s3"> 95</span><span style="s4"> percent</span></p>
+<p begin="00:09:46.150" end="00:09:50.980" style="s2"><span style="s4">so</span> the people in<span style="s4"> our</span> model are earning</p>
+<p begin="00:09:48.220" end="00:09:53.200" style="s2">slightly less<span style="s3"> than</span> the typical<span style="s4"> person in</span></p>
+<p begin="00:09:50.980" end="00:09:55.030" style="s2">the that the IRS reports but<span style="s4"> we</span> don&#39;t</p>
+<p begin="00:09:53.200" end="00:09:56.410" style="s2"><span style="s4">think it&#39;s a large enough</span> amount<span style="s4"> to</span></p>
+<p begin="00:09:55.030" end="00:09:58.450" style="s2">throw our estimates off<span style="s3"> significantly</span></p>
+<p begin="00:09:56.410" end="00:10:01.600" style="s2"><span style="s4">well</span> we do notice<span style="s4"> though</span> is<span style="s3"> that</span><span style="s4"> our</span></p>
+<p begin="00:09:58.450" end="00:10:03.820" style="s2">estimates are noisy but roughly in the</p>
+<p begin="00:10:01.600" end="00:10:05.410" style="s2">right ballpark<span style="s3"> for people who earn one</span></p>
+<p begin="00:10:03.820" end="00:10:07.660" style="s2"><span style="s3">dollar</span><span style="s4"> to</span> twenty four<span style="s4"> thousand</span> dollars</p>
+<p begin="00:10:05.410" end="00:10:09.339" style="s2"><span style="s4">so</span><span style="s3"> on</span> the bottom<span style="s4"> income</span> bracket<span style="s4"> there&#39;s</span></p>
+<p begin="00:10:07.660" end="00:10:11.110" style="s2">a lot of noise and<span style="s4"> reported</span> income to</p>
+<p begin="00:10:09.339" end="00:10:12.760" style="s2">the ACS and<span style="s4"> we</span> think there<span style="s4"> are</span> a couple</p>
+<p begin="00:10:11.110" end="00:10:14.920" style="s2"><span style="s3">of</span> other<span style="s4"> factors</span><span style="s3"> going</span> into<span style="s3"> this</span> as well</p>
+<p begin="00:10:12.760" end="00:10:16.930" style="s2"><span style="s4">but basically what</span> this diagnostic told</p>
+<p begin="00:10:14.920" end="00:10:19.150" style="s2">us is that<span style="s3"> our</span> income<span style="s3"> model</span> while good</p>
+<p begin="00:10:16.930" end="00:10:21.310" style="s2">is far<span style="s4"> from perfect and</span> we can probably</p>
+<p begin="00:10:19.150" end="00:10:22.720" style="s2"><span style="s3">improve</span> these<span style="s4"> estimates</span> by adding a</p>
+<p begin="00:10:21.310" end="00:10:25.180" style="s2"><span style="s4">modeling</span> step right so<span style="s4"> this</span><span style="s3"> is</span> our</p>
+<p begin="00:10:22.720" end="00:10:27.430" style="s2">second motivation<span style="s4"> for</span> modeling<span style="s3"> it&#39;s not</span></p>
+<p begin="00:10:25.180" end="00:10:29.350" style="s2">just that<span style="s4"> the</span> criteria are hard to read</p>
+<p begin="00:10:27.430" end="00:10:33.580" style="s2"><span style="s4">but</span> our best reading<span style="s4"> of</span> the criteria</p>
+<p begin="00:10:29.350" end="00:10:39.040" style="s2">isn&#39;t where we<span style="s4"> want</span><span style="s3"> it</span><span style="s4"> to</span> be so<span style="s3"> pass the</span></p>
+<p begin="00:10:33.580" end="00:10:40.660" style="s2"><span style="s3">things</span> to<span style="s4"> Ola</span><span style="s3"> thanks</span><span style="s4"> so</span><span style="s3"> Mike advic</span></p>
+<p begin="00:10:39.040" end="00:10:42.790" style="s2">mentioned<span style="s4"> our</span> next step with modeling</p>
+<p begin="00:10:40.660" end="00:10:45.100" style="s2">and basically we use the features that</p>
+<p begin="00:10:42.790" end="00:10:47.650" style="s2"><span style="s4">we</span> had collected<span style="s4"> from</span><span style="s3"> public</span><span style="s4"> sources</span> as</p>
+<p begin="00:10:45.100" end="00:10:49.060" style="s2">well<span style="s3"> as</span> from these open<span style="s3"> data</span> sources in</p>
+<p begin="00:10:47.650" end="00:10:51.160" style="s2">New York City open data portal and</p>
+<p begin="00:10:49.060" end="00:10:52.960" style="s2">partners<span style="s3"> of</span> the Robin Hood<span style="s4"> Foundation to</span></p>
+<p begin="00:10:51.160" end="00:10:55.000" style="s2">construct a modeling file where<span style="s3"> the</span></p>
+<p begin="00:10:52.960" end="00:10:56.650" style="s2">dependent<span style="s4"> variable</span> the<span style="s4"> thing</span> that we</p>
+<p begin="00:10:55.000" end="00:10:59.320" style="s2">were interested in predicting<span style="s3"> was</span> that</p>
+<p begin="00:10:56.650" end="00:11:01.960" style="s2">direct estimate of<span style="s4"> participation</span> so that</p>
+<p begin="00:10:59.320" end="00:11:03.970" style="s2">estimate was basically<span style="s4"> just</span><span style="s3"> the</span> ratio<span style="s4"> of</span></p>
+<p begin="00:11:01.960" end="00:11:05.890" style="s2">the<span style="s3"> number</span> of people<span style="s4"> that</span><span style="s3"> we</span> had from</p>
+<p begin="00:11:03.970" end="00:11:07.780" style="s2">reported sources participating in a</p>
+<p begin="00:11:05.890" end="00:11:08.890" style="s2">given<span style="s3"> program</span> or tax units in the case</p>
+<p begin="00:11:07.780" end="00:11:11.290" style="s2">of EITC</p>
+<p begin="00:11:08.890" end="00:11:13.870" style="s2">/ the number of families or individuals</p>
+<p begin="00:11:11.290" end="00:11:17.590" style="s2"><span style="s3">that</span> we estimated were<span style="s3"> eligible</span> from<span style="s4"> the</span></p>
+<p begin="00:11:13.870" end="00:11:19.900" style="s2"><span style="s4">ACS</span><span style="s3"> and</span> we<span style="s4"> fed</span> a model on<span style="s3"> top</span> of that to</p>
+<p begin="00:11:17.590" end="00:11:23.010" style="s2"><span style="s4">basically</span> improve<span style="s3"> our</span> estimates and</p>
+<p begin="00:11:19.900" end="00:11:26.170" style="s2">bring in a lot of this<span style="s4"> additional</span> data</p>
+<p begin="00:11:23.010" end="00:11:29.530" style="s2"><span style="s3">we</span> did<span style="s4"> this in two steps</span><span style="s3"> so</span> our first</p>
+<p begin="00:11:26.170" end="00:11:31.630" style="s2">step was a lasso model so a regularized</p>
+<p begin="00:11:29.530" end="00:11:33.730" style="s2">linear regression where we were<span style="s4"> trying</span></p>
+<p begin="00:11:31.630" end="00:11:35.170" style="s2"><span style="s3">to</span><span style="s4"> identify which features were most</span></p>
+<p begin="00:11:33.730" end="00:11:37.900" style="s2">predictive for this particular problem</p>
+<p begin="00:11:35.170" end="00:11:39.970" style="s2"><span style="s3">and because we had such rich data from</span></p>
+<p begin="00:11:37.900" end="00:11:41.350" style="s2">our commercial data from these</p>
+<p begin="00:11:39.970" end="00:11:43.510" style="s2">additional<span style="s4"> data</span> sources<span style="s4"> that we brought</span></p>
+<p begin="00:11:41.350" end="00:11:45.100" style="s2">in<span style="s3"> we</span><span style="s4"> weren&#39;t sure exactly which</span> of</p>
+<p begin="00:11:43.510" end="00:11:46.950" style="s2"><span style="s4">those</span> hundreds of<span style="s4"> features would</span><span style="s3"> be</span> most</p>
+<p begin="00:11:45.100" end="00:11:49.780" style="s2">predictive and we didn&#39;t want<span style="s3"> to overfit</span></p>
+<p begin="00:11:46.950" end="00:11:51.880" style="s2"><span style="s3">after</span> we had<span style="s4"> selected</span> features<span style="s4"> using</span></p>
+<p begin="00:11:49.780" end="00:11:53.740" style="s2"><span style="s4">that</span> lasso model we<span style="s4"> put</span> a<span style="s4"> fit a</span></p>
+<p begin="00:11:51.880" end="00:11:55.570" style="s2">multi-level<span style="s3"> bayesian</span> model<span style="s4"> to actually</span></p>
+<p begin="00:11:53.740" end="00:11:57.730" style="s2">come up<span style="s3"> with</span> our ultimate<span style="s4"> participation</span></p>
+<p begin="00:11:55.570" end="00:11:59.470" style="s2">rates and what this allowed us<span style="s4"> to</span> do is</p>
+<p begin="00:11:57.730" end="00:12:02.500" style="s2">incorporate<span style="s4"> changes</span> that were happening</p>
+<p begin="00:11:59.470" end="00:12:05.050" style="s2"><span style="s4">at the tract level at</span> the<span style="s4"> Puma</span> level and</p>
+<p begin="00:12:02.500" end="00:12:06.430" style="s2">over four years<span style="s4"> of</span> time<span style="s3"> in</span> our data to</p>
+<p begin="00:12:05.050" end="00:12:08.890" style="s2"><span style="s4">be able to come</span><span style="s3"> up with much</span><span style="s4"> more</span></p>
+<p begin="00:12:06.430" end="00:12:10.210" style="s2">precise<span style="s4"> less</span> variable estimates of<span style="s4"> what</span></p>
+<p begin="00:12:08.890" end="00:12:13.180" style="s2">we thought the actual<span style="s3"> non-participation</span></p>
+<p begin="00:12:10.210" end="00:12:14.770" style="s2"><span style="s4">was</span> and in practice this turned out to</p>
+<p begin="00:12:13.180" end="00:12:16.030" style="s2"><span style="s4">do</span> the thing<span style="s3"> that</span><span style="s4"> we</span> had<span style="s3"> hoped</span><span style="s4"> it</span> would</p>
+<p begin="00:12:14.770" end="00:12:19.150" style="s2">which is<span style="s3"> that</span> it brought our most</p>
+<p begin="00:12:16.030" end="00:12:22.090" style="s2">extreme point estimates down closer to</p>
+<p begin="00:12:19.150" end="00:12:23.830" style="s2">the median<span style="s3"> and</span> we think that<span style="s3"> is</span> both an</p>
+<p begin="00:12:22.090" end="00:12:25.780" style="s2">indication of adjusting<span style="s4"> for</span> some of</p>
+<p begin="00:12:23.830" end="00:12:27.190" style="s2">those<span style="s4"> errors</span> in the ACS but also</p>
+<p begin="00:12:25.780" end="00:12:28.870" style="s2">controlling for the fact that some<span style="s3"> of</span></p>
+<p begin="00:12:27.190" end="00:12:31.060" style="s2"><span style="s3">those</span> geographies were really small<span style="s4"> and</span></p>
+<p begin="00:12:28.870" end="00:12:35.830" style="s2">there was<span style="s4"> just</span> inherently a<span style="s3"> lot</span><span style="s4"> of</span> noise</p>
+<p begin="00:12:31.060" end="00:12:37.720" style="s2">in<span style="s3"> the</span> survey estimates<span style="s4"> so</span> we handed</p>
+<p begin="00:12:35.830" end="00:12:40.090" style="s2"><span style="s4">Robin Hood</span><span style="s3"> a</span><span style="s4"> series</span> of Puma level</p>
+<p begin="00:12:37.720" end="00:12:41.590" style="s2">estimates<span style="s3"> of</span> communities in New York</p>
+<p begin="00:12:40.090" end="00:12:44.680" style="s2">where they should target<span style="s4"> their</span> outreach</p>
+<p begin="00:12:41.590" end="00:12:46.900" style="s2">but New York<span style="s3"> City is</span><span style="s4"> about</span> 55 Pumas</p>
+<p begin="00:12:44.680" end="00:12:48.010" style="s2">total so it still wasn&#39;t<span style="s3"> add</span> a level of</p>
+<p begin="00:12:46.900" end="00:12:50.410" style="s2"><span style="s4">granularity</span> where they could identify</p>
+<p begin="00:12:48.010" end="00:12:51.670" style="s2">the subway stops or particular</p>
+<p begin="00:12:50.410" end="00:12:54.010" style="s2">intersections where they should<span style="s4"> be</span> doing</p>
+<p begin="00:12:51.670" end="00:12:56.650" style="s2"><span style="s4">outreach</span><span style="s3"> and they were</span><span style="s4"> interested</span> really</p>
+<p begin="00:12:54.010" end="00:12:58.150" style="s2">in doing direct<span style="s4"> canvassing</span> to</p>
+<p begin="00:12:56.650" end="00:13:00.070" style="s2">individuals working<span style="s3"> with</span> partner</p>
+<p begin="00:12:58.150" end="00:13:01.630" style="s2">organizations in the community<span style="s4"> and</span></p>
+<p begin="00:13:00.070" end="00:13:04.420" style="s2"><span style="s3">really</span> getting<span style="s4"> as</span> granular as possible</p>
+<p begin="00:13:01.630" end="00:13:05.860" style="s2">into<span style="s4"> specific</span> ethnic communities or<span style="s4"> you</span></p>
+<p begin="00:13:04.420" end="00:13:08.560" style="s2">know immigrant communities reaching<span style="s3"> out</span></p>
+<p begin="00:13:05.860" end="00:13:10.300" style="s2">to<span style="s4"> people</span> through<span style="s4"> different</span> channels<span style="s4"> and</span></p>
+<p begin="00:13:08.560" end="00:13:12.130" style="s2">so a<span style="s3"> question</span><span style="s4"> that</span> they had for us<span style="s4"> at</span></p>
+<p begin="00:13:10.300" end="00:13:14.200" style="s2"><span style="s4">this</span><span style="s3"> stage</span> was can we<span style="s4"> drill</span> all the way</p>
+<p begin="00:13:12.130" end="00:13:16.120" style="s2">down to the track<span style="s3"> level</span> which<span style="s4"> would</span> get</p>
+<p begin="00:13:14.200" end="00:13:17.710" style="s2"><span style="s3">us</span> into you know several thousand</p>
+<p begin="00:13:16.120" end="00:13:19.930" style="s2">observations of the city of New<span style="s3"> York</span> as</p>
+<p begin="00:13:17.710" end="00:13:22.300" style="s2">opposed to<span style="s4"> fifty five and</span> this<span style="s4"> is</span> a</p>
+<p begin="00:13:19.930" end="00:13:22.850" style="s2">challenge<span style="s4"> for</span><span style="s3"> us</span> because<span style="s3"> our</span> the<span style="s3"> data</span></p>
+<p begin="00:13:22.300" end="00:13:24.470" style="s2">that<span style="s4"> we</span> have</p>
+<p begin="00:13:22.850" end="00:13:27.050" style="s2"><span style="s4">of</span> the administrative data<span style="s4"> about</span></p>
+<p begin="00:13:24.470" end="00:13:28.699" style="s2">participation<span style="s4"> really</span> came in at the Puma</p>
+<p begin="00:13:27.050" end="00:13:31.730" style="s2">level or had been<span style="s3"> rolled</span><span style="s4"> up</span> to the<span style="s4"> Puma</span></p>
+<p begin="00:13:28.699" end="00:13:32.930" style="s2">level<span style="s3"> and</span> we didn&#39;t<span style="s4"> have</span> a direct<span style="s3"> model</span></p>
+<p begin="00:13:31.730" end="00:13:35.000" style="s2">way of getting at track level</p>
+<p begin="00:13:32.930" end="00:13:37.069" style="s2"><span style="s3">information</span> we<span style="s4"> couldn&#39;t</span> get a CS</p>
+<p begin="00:13:35.000" end="00:13:40.100" style="s2">eligibility as a track level<span style="s3"> so</span> we had</p>
+<p begin="00:13:37.069" end="00:13:42.380" style="s2">to do some creative<span style="s3"> thinking</span> here<span style="s3"> and</span> we</p>
+<p begin="00:13:40.100" end="00:13:44.329" style="s2">tried a bunch<span style="s4"> of things</span><span style="s3"> in</span> consultation</p>
+<p begin="00:13:42.380" end="00:13:46.100" style="s2">with<span style="s3"> our</span> some<span style="s4"> of</span> the data scientists at</p>
+<p begin="00:13:44.329" end="00:13:48.680" style="s2">our company<span style="s4"> and</span> we ended<span style="s4"> up building a</span></p>
+<p begin="00:13:46.100" end="00:13:51.709" style="s2">track level<span style="s4"> model</span> where our<span style="s4"> Puma</span> so our</p>
+<p begin="00:13:48.680" end="00:13:53.600" style="s2">higher level of demographic estimates</p>
+<p begin="00:13:51.709" end="00:13:56.000" style="s2"><span style="s4">were</span> the dependent variable<span style="s4"> and</span> then<span style="s3"> we</span></p>
+<p begin="00:13:53.600" end="00:13:58.639" style="s2">used track<span style="s4"> level</span> variables as the</p>
+<p begin="00:13:56.000" end="00:14:00.170" style="s2"><span style="s3">explanatory</span> variables<span style="s3"> and</span> this was the</p>
+<p begin="00:13:58.639" end="00:14:02.389" style="s2">approach that<span style="s3"> came</span> up with estimates</p>
+<p begin="00:14:00.170" end="00:14:04.579" style="s2"><span style="s3">that</span> were similar<span style="s3"> to</span><span style="s4"> our</span><span style="s3"> promo</span><span style="s4"> level</span></p>
+<p begin="00:14:02.389" end="00:14:06.649" style="s2">estimates<span style="s4"> but</span> still had what we thought</p>
+<p begin="00:14:04.579" end="00:14:07.819" style="s2"><span style="s4">was</span> a plausible<span style="s4"> level</span> variation in a way</p>
+<p begin="00:14:06.649" end="00:14:09.079" style="s2">that we thought would<span style="s4"> help</span> the Robin</p>
+<p begin="00:14:07.819" end="00:14:12.079" style="s2">Hood<span style="s3"> Foundation</span> better target<span style="s3"> their</span></p>
+<p begin="00:14:09.079" end="00:14:13.699" style="s2">outreach<span style="s3"> in</span> addition to varying kind of</p>
+<p begin="00:14:12.079" end="00:14:16.190" style="s2">what was<span style="s4"> the</span> level<span style="s4"> of</span> granularity that</p>
+<p begin="00:14:13.699" end="00:14:18.139" style="s2"><span style="s4">we</span> modeled we also tested out different</p>
+<p begin="00:14:16.190" end="00:14:20.660" style="s2">algorithm types so linear<span style="s4"> tree based</span></p>
+<p begin="00:14:18.139" end="00:14:22.519" style="s2">ensemble methods<span style="s3"> whether</span><span style="s4"> we</span> apply<span style="s4"> to</span></p>
+<p begin="00:14:20.660" end="00:14:25.069" style="s2">transformation<span style="s3"> to</span> the dependent variable</p>
+<p begin="00:14:22.519" end="00:14:26.509" style="s2">and then whether we<span style="s4"> capped the features</span></p>
+<p begin="00:14:25.069" end="00:14:27.920" style="s2">that<span style="s4"> went</span><span style="s3"> into</span> the model at some</p>
+<p begin="00:14:26.509" end="00:14:32.839" style="s2">proportion<span style="s4"> of</span> what we observed at the</p>
+<p begin="00:14:27.920" end="00:14:34.310" style="s2"><span style="s4">track</span> level so here&#39;s an example<span style="s4"> of</span> some</p>
+<p begin="00:14:32.839" end="00:14:36.439" style="s2"><span style="s3">of</span> the diagnostic plots that<span style="s4"> we</span> made</p>
+<p begin="00:14:34.310" end="00:14:39.050" style="s2">these are all different<span style="s4"> representations</span></p>
+<p begin="00:14:36.439" end="00:14:40.850" style="s2">of<span style="s4"> Bushwick</span><span style="s3"> which</span> was one<span style="s3"> of</span><span style="s4"> the</span> Pumas</p>
+<p begin="00:14:39.050" end="00:14:43.279" style="s2">that we<span style="s4"> thought</span> was a high target<span style="s4"> for</span></p>
+<p begin="00:14:40.850" end="00:14:45.410" style="s2"><span style="s4">EITC</span> and we&#39;re looking<span style="s4"> at</span> what is<span style="s4"> the</span></p>
+<p begin="00:14:43.279" end="00:14:47.000" style="s2">relative<span style="s4"> density</span><span style="s3"> of non-participation</span></p>
+<p begin="00:14:45.410" end="00:14:49.370" style="s2">according to<span style="s3"> our</span><span style="s4"> different</span> modeling</p>
+<p begin="00:14:47.000" end="00:14:50.779" style="s2">approaches and so this one in the<span style="s3"> bottom</span></p>
+<p begin="00:14:49.370" end="00:14:52.610" style="s2">right<span style="s3"> hand</span> corner was<span style="s4"> the</span> one<span style="s4"> that</span> we</p>
+<p begin="00:14:50.779" end="00:14:56.269" style="s2"><span style="s3">ultimately</span> selected which was the tract</p>
+<p begin="00:14:52.610" end="00:14:58.339" style="s2"><span style="s4">based tract level model</span><span style="s3"> which</span> was you</p>
+<p begin="00:14:56.269" end="00:15:00.019" style="s2"><span style="s3">know</span> it had the<span style="s3"> trade-off of both</span></p>
+<p begin="00:14:58.339" end="00:15:02.029" style="s2">providing additional<span style="s3"> variance</span> that<span style="s4"> we</span></p>
+<p begin="00:15:00.019" end="00:15:03.439" style="s2"><span style="s4">thought was helpful</span><span style="s3"> also</span> not introducing</p>
+<p begin="00:15:02.029" end="00:15:07.880" style="s2">a lot<span style="s4"> of</span> noise<span style="s4"> into</span> the problem<span style="s4"> that</span></p>
+<p begin="00:15:03.439" end="00:15:10.160" style="s2"><span style="s4">would</span> have been distracting<span style="s3"> and</span> this is</p>
+<p begin="00:15:07.880" end="00:15:11.870" style="s2">an<span style="s4"> example of how we communicated that</span></p>
+<p begin="00:15:10.160" end="00:15:14.240" style="s2">information so we&#39;re looking<span style="s4"> at</span> Bushwick</p>
+<p begin="00:15:11.870" end="00:15:15.709" style="s2">again and we flagged particular<span style="s4"> tracts</span></p>
+<p begin="00:15:14.240" end="00:15:16.730" style="s2">or we<span style="s4"> thought</span> there was<span style="s3"> especially</span> high</p>
+<p begin="00:15:15.709" end="00:15:19.880" style="s2">non-participation</p>
+<p begin="00:15:16.730" end="00:15:21.920" style="s2">as well as particular you know stations</p>
+<p begin="00:15:19.880" end="00:15:23.089" style="s2">and social service<span style="s4"> organizations</span> in</p>
+<p begin="00:15:21.920" end="00:15:25.149" style="s2">those<span style="s4"> tracts that the Robin Hood</span></p>
+<p begin="00:15:23.089" end="00:15:28.100" style="s2"><span style="s4">Foundation could begin</span><span style="s3"> to</span> do outreach<span style="s4"> to</span></p>
+<p begin="00:15:25.149" end="00:15:29.689" style="s2"><span style="s4">and</span> you know one thing<span style="s3"> that is</span><span style="s4"> kind of</span></p>
+<p begin="00:15:28.100" end="00:15:31.519" style="s2">reassuring here is you<span style="s4"> see</span> the bottom</p>
+<p begin="00:15:29.689" end="00:15:33.680" style="s2"><span style="s3">right-hand</span><span style="s4"> green</span> corner<span style="s4"> that&#39;s</span> actually</p>
+<p begin="00:15:31.519" end="00:15:37.339" style="s2">a cemetery<span style="s3"> so</span> totally<span style="s3"> make sense that we</span></p>
+<p begin="00:15:33.680" end="00:15:39.959" style="s2">wouldn&#39;t<span style="s3"> see non-participation there</span></p>
+<p begin="00:15:37.339" end="00:15:42.449" style="s2">cool<span style="s4"> so</span> to kind of zoom out we&#39;ve been</p>
+<p begin="00:15:39.959" end="00:15:44.100" style="s2"><span style="s3">talking about</span><span style="s4"> a</span> ITC but we presented</p>
+<p begin="00:15:42.449" end="00:15:47.369" style="s2">results<span style="s4"> to</span><span style="s3"> Robinhood</span> for both a ITC and</p>
+<p begin="00:15:44.100" end="00:15:49.319" style="s2"><span style="s3">for</span> snap<span style="s3"> this</span> is kind of<span style="s4"> like</span> how<span style="s3"> we</span></p>
+<p begin="00:15:47.369" end="00:15:52.769" style="s2"><span style="s4">present it to them but what</span> we found<span style="s4"> was</span></p>
+<p begin="00:15:49.319" end="00:15:55.529" style="s2">that<span style="s3"> 89%</span><span style="s4"> of</span><span style="s3"> eligible</span> people receive<span style="s4"> the</span></p>
+<p begin="00:15:52.769" end="00:15:58.379" style="s2">EITC in 2013 and<span style="s4"> 76%</span> of eligible</p>
+<p begin="00:15:55.529" end="00:16:00.149" style="s2">eligible people<span style="s4"> received</span> snap in 2014<span style="s3"> we</span></p>
+<p begin="00:15:58.379" end="00:16:02.549" style="s2"><span style="s4">use</span> different years<span style="s4"> 2013</span><span style="s3"> and</span> 2014</p>
+<p begin="00:16:00.149" end="00:16:03.989" style="s2">because that was the participation<span style="s3"> data</span></p>
+<p begin="00:16:02.549" end="00:16:05.549" style="s2">that we had available to<span style="s4"> us from their</span></p>
+<p begin="00:16:03.989" end="00:16:07.290" style="s2">partner<span style="s4"> organizations so we</span> use the</p>
+<p begin="00:16:05.549" end="00:16:09.059" style="s2">corresponding<span style="s4"> ACS</span> data for those years</p>
+<p begin="00:16:07.290" end="00:16:10.889" style="s2">but we thought it<span style="s4"> would give a good idea</span></p>
+<p begin="00:16:09.059" end="00:16:12.779" style="s2"><span style="s3">of</span> like<span style="s4"> the</span> trends<span style="s3"> of</span> participation</p>
+<p begin="00:16:10.889" end="00:16:14.339" style="s2"><span style="s4">there</span> so we expected<span style="s3"> more</span> people<span style="s4"> who</span></p>
+<p begin="00:16:12.779" end="00:16:16.949" style="s2">were eligible<span style="s4"> to</span><span style="s3"> take</span> advantage of<span style="s4"> the</span></p>
+<p begin="00:16:14.339" end="00:16:18.509" style="s2">EITC<span style="s4"> and</span> slightly less<span style="s3"> of</span> people who</p>
+<p begin="00:16:16.949" end="00:16:21.689" style="s2">were<span style="s4"> eligible for snap</span> to take advantage</p>
+<p begin="00:16:18.509" end="00:16:25.230" style="s2">of<span style="s4"> those</span> benefits<span style="s3"> and</span> we have theories</p>
+<p begin="00:16:21.689" end="00:16:27.749" style="s2"><span style="s4">on</span> why but the EITC participation<span style="s4"> gap</span> we</p>
+<p begin="00:16:25.230" end="00:16:29.369" style="s2">found was<span style="s3"> closely</span><span style="s4"> associated</span> with<span style="s4"> an</span></p>
+<p begin="00:16:27.749" end="00:16:30.480" style="s2"><span style="s4">area&#39;s</span> economic<span style="s4"> condition so we ran</span></p>
+<p begin="00:16:29.369" end="00:16:32.850" style="s2"><span style="s4">these</span> models when we did the direct</p>
+<p begin="00:16:30.480" end="00:16:34.139" style="s2">estimates<span style="s3"> the</span> variables<span style="s3"> that we picked</span></p>
+<p begin="00:16:32.850" end="00:16:36.480" style="s2">up and we were building<span style="s4"> our</span> model were</p>
+<p begin="00:16:34.139" end="00:16:38.970" style="s2">things like<span style="s4"> vacant</span> housing units<span style="s4"> like</span></p>
+<p begin="00:16:36.480" end="00:16:41.459" style="s2">availability public housing<span style="s4"> so</span> kind of</p>
+<p begin="00:16:38.970" end="00:16:43.769" style="s2">like some indicators of the economic</p>
+<p begin="00:16:41.459" end="00:16:46.739" style="s2">condition of<span style="s4"> that area</span><span style="s3"> so</span> we didn&#39;t</p>
+<p begin="00:16:43.769" end="00:16:47.999" style="s2"><span style="s3">actually</span> find significant<span style="s4"> differences</span></p>
+<p begin="00:16:46.739" end="00:16:49.860" style="s2">between<span style="s4"> different ethnic groups among</span></p>
+<p begin="00:16:47.999" end="00:16:51.209" style="s2"><span style="s3">different</span> neighborhoods so the areas</p>
+<p begin="00:16:49.860" end="00:16:53.279" style="s2">that we recommended<span style="s4"> that</span><span style="s3"> Robinhood</span></p>
+<p begin="00:16:51.209" end="00:16:55.319" style="s2"><span style="s3">consist</span> conduct their outreach<span style="s4"> were</span> just</p>
+<p begin="00:16:53.279" end="00:16:57.179" style="s2">places<span style="s4"> that</span> had a high<span style="s3"> density</span> of<span style="s3"> these</span></p>
+<p begin="00:16:55.319" end="00:16:59.249" style="s2"><span style="s4">non participating eligible</span> individuals</p>
+<p begin="00:16:57.179" end="00:17:00.809" style="s2">so we<span style="s4"> just</span> gave them a rank order<span style="s3"> list</span></p>
+<p begin="00:16:59.249" end="00:17:02.399" style="s2">of here the neighborhoods<span style="s4"> where</span> we think</p>
+<p begin="00:17:00.809" end="00:17:03.989" style="s2">you would<span style="s4"> have the most</span><span style="s3"> impact</span> if you</p>
+<p begin="00:17:02.399" end="00:17:05.339" style="s2">walked up to someone on the<span style="s3"> street you</span></p>
+<p begin="00:17:03.989" end="00:17:07.470" style="s2">have a higher<span style="s3"> chance</span> of<span style="s4"> that</span> person</p>
+<p begin="00:17:05.339" end="00:17:09.269" style="s2"><span style="s4">being</span> eligible<span style="s3"> for</span> the EITC<span style="s4"> but</span> not</p>
+<p begin="00:17:07.470" end="00:17:10.919" style="s2">taking advantage<span style="s4"> of</span> it<span style="s4"> so</span> some of<span style="s4"> those</span></p>
+<p begin="00:17:09.269" end="00:17:13.380" style="s2"><span style="s3">neighborhoods</span> are highlighted<span style="s3"> here</span> the</p>
+<p begin="00:17:10.919" end="00:17:15.000" style="s2">one on<span style="s3"> the very bottom</span><span style="s4"> this</span> one is</p>
+<p begin="00:17:13.380" end="00:17:16.019" style="s2">Staten Island<span style="s4"> which</span> is<span style="s4"> actually</span> it was</p>
+<p begin="00:17:15.000" end="00:17:17.880" style="s2"><span style="s4">kind</span> of an interesting<span style="s3"> finding</span> because</p>
+<p begin="00:17:16.019" end="00:17:20.459" style="s2">Sutton Island in general is<span style="s4"> like</span> a</p>
+<p begin="00:17:17.880" end="00:17:21.839" style="s2">higher<span style="s3"> has</span> a higher median<span style="s4"> income</span> than</p>
+<p begin="00:17:20.459" end="00:17:24.029" style="s2">the rest<span style="s4"> of</span> some of these areas<span style="s3"> that</span></p>
+<p begin="00:17:21.839" end="00:17:25.230" style="s2">we&#39;ve highlighted in<span style="s4"> New York but we</span> had</p>
+<p begin="00:17:24.029" end="00:17:26.639" style="s2">a chance<span style="s3"> to present to some of their</span></p>
+<p begin="00:17:25.230" end="00:17:28.139" style="s2">partner organizations so groups that are</p>
+<p begin="00:17:26.639" end="00:17:30.029" style="s2">actually<span style="s3"> doing</span><span style="s4"> this</span> outreach<span style="s4"> on</span> the</p>
+<p begin="00:17:28.139" end="00:17:31.139" style="s2">ground<span style="s4"> and</span><span style="s3"> we</span> got some like positive</p>
+<p begin="00:17:30.029" end="00:17:32.309" style="s2">feedback from<span style="s4"> the folks in Staten</span> Island</p>
+<p begin="00:17:31.139" end="00:17:33.630" style="s2"><span style="s3">we&#39;re</span> saying<span style="s4"> like we actually really</span></p>
+<p begin="00:17:32.309" end="00:17:35.730" style="s2"><span style="s3">want</span><span style="s4"> to open up a</span><span style="s3"> tax Center here so</span></p>
+<p begin="00:17:33.630" end="00:17:39.149" style="s2">it&#39;s like<span style="s3"> makes</span> sense to<span style="s4"> us so we got</span></p>
+<p begin="00:17:35.730" end="00:17:41.789" style="s2">some good validation there and when we</p>
+<p begin="00:17:39.149" end="00:17:44.190" style="s2"><span style="s3">go</span><span style="s4"> to</span> talk<span style="s4"> about</span> snap<span style="s3"> we</span> have some</p>
+<p begin="00:17:41.789" end="00:17:45.419" style="s2">slightly<span style="s3"> more</span> interesting findings<span style="s4"> not</span></p>
+<p begin="00:17:44.190" end="00:17:47.820" style="s2"><span style="s4">more</span><span style="s3"> interesting</span> but there&#39;s more to</p>
+<p begin="00:17:45.419" end="00:17:49.680" style="s2">talk<span style="s4"> about</span><span style="s3"> so we</span><span style="s4"> found that the</span></p>
+<p begin="00:17:47.820" end="00:17:51.270" style="s2">participation<span style="s4"> gap</span> for snap</p>
+<p begin="00:17:49.680" end="00:17:53.370" style="s2"><span style="s4">was</span> greater in areas with significant</p>
+<p begin="00:17:51.270" end="00:17:55.800" style="s2">ethnic communities where English<span style="s3"> isn&#39;t</span></p>
+<p begin="00:17:53.370" end="00:17:57.630" style="s2">the only<span style="s3"> language</span> spoken<span style="s3"> and</span> so we&#39;ve</p>
+<p begin="00:17:55.800" end="00:17:59.610" style="s2"><span style="s4">some</span><span style="s3"> theories</span> there that you know the</p>
+<p begin="00:17:57.630" end="00:18:00.930" style="s2"><span style="s4">eligibility</span><span style="s3"> for</span> the application<span style="s3"> process</span></p>
+<p begin="00:17:59.610" end="00:18:02.820" style="s2">for<span style="s4"> a</span> snap is much different<span style="s3"> than</span><span style="s4"> it</span> is</p>
+<p begin="00:18:00.930" end="00:18:04.860" style="s2"><span style="s3">for</span> ehe CTC you do when you<span style="s4"> file</span> your</p>
+<p begin="00:18:02.820" end="00:18:06.210" style="s2">taxes but<span style="s3"> Snap</span> is<span style="s3"> an</span> entirely different</p>
+<p begin="00:18:04.860" end="00:18:08.430" style="s2"><span style="s4">process</span> where you<span style="s4"> have</span> to<span style="s3"> sell at a</span></p>
+<p begin="00:18:06.210" end="00:18:10.740" style="s2">separate<span style="s4"> location</span> recertification is</p>
+<p begin="00:18:08.430" end="00:18:11.880" style="s2">much more difficult<span style="s3"> so</span> we figure there&#39;s</p>
+<p begin="00:18:10.740" end="00:18:13.410" style="s2">some sort<span style="s3"> of</span> language barrier there</p>
+<p begin="00:18:11.880" end="00:18:14.970" style="s2"><span style="s4">where the materials that folks need</span></p>
+<p begin="00:18:13.410" end="00:18:17.190" style="s2"><span style="s4">maybe isn&#39;t available in</span> their</p>
+<p begin="00:18:14.970" end="00:18:18.780" style="s2"><span style="s4">neighborhood</span> in<span style="s4"> their</span> language<span style="s4"> so</span> the</p>
+<p begin="00:18:17.190" end="00:18:21.660" style="s2">areas that we highlighted for them<span style="s4"> were</span></p>
+<p begin="00:18:18.780" end="00:18:23.370" style="s2">some areas<span style="s3"> that</span> had just as with<span style="s3"> AIT see</span></p>
+<p begin="00:18:21.660" end="00:18:25.260" style="s2">a high density<span style="s3"> of</span><span style="s4"> non-participating</span></p>
+<p begin="00:18:23.370" end="00:18:26.670" style="s2">eligibles<span style="s4"> that&#39;s</span> the one we&#39;ve</p>
+<p begin="00:18:25.260" end="00:18:28.890" style="s2">highlighted here in Jackson Heights</p>
+<p begin="00:18:26.670" end="00:18:29.940" style="s2">Queens<span style="s3"> that</span> was<span style="s3"> actually</span> a target<span style="s4"> for</span></p>
+<p begin="00:18:28.890" end="00:18:32.640" style="s2">both neighborhoods<span style="s3"> you&#39;ll</span> see it&#39;s</p>
+<p begin="00:18:29.940" end="00:18:34.620" style="s2">highlighted in<span style="s4"> both</span> so in both<span style="s4"> cases</span><span style="s3"> we</span></p>
+<p begin="00:18:32.640" end="00:18:36.690" style="s2">found<span style="s4"> that</span> there was a high</p>
+<p begin="00:18:34.620" end="00:18:39.120" style="s2">concentration of folks who we expected</p>
+<p begin="00:18:36.690" end="00:18:41.970" style="s2">to<span style="s4"> be</span><span style="s3"> eligible</span> for not participating<span style="s3"> we</span></p>
+<p begin="00:18:39.120" end="00:18:43.380" style="s2">also found some ethnic communities that</p>
+<p begin="00:18:41.970" end="00:18:44.790" style="s2"><span style="s4">we</span> thought would<span style="s3"> be</span> good targets for</p>
+<p begin="00:18:43.380" end="00:18:46.290" style="s2">outreach so specifically<span style="s4"> we</span> talked to</p>
+<p begin="00:18:44.790" end="00:18:48.330" style="s2">them about plurality Asian communities</p>
+<p begin="00:18:46.290" end="00:18:50.970" style="s2">so areas where we expect there&#39;s a large</p>
+<p begin="00:18:48.330" end="00:18:52.890" style="s2">immigrant population<span style="s4"> and</span> English<span style="s4"> isn&#39;t</span></p>
+<p begin="00:18:50.970" end="00:18:54.510" style="s2">the only<span style="s3"> language</span> so we highlight<span style="s3"> their</span></p>
+<p begin="00:18:52.890" end="00:18:56.490" style="s2">Flushing Queens as a possible place for</p>
+<p begin="00:18:54.510" end="00:18:59.040" style="s2"><span style="s4">them</span> to<span style="s3"> reach</span> out<span style="s4"> so</span> we saw there was</p>
+<p begin="00:18:56.490" end="00:19:01.490" style="s2"><span style="s3">above-average</span><span style="s4"> eligibility</span> in Flushing</p>
+<p begin="00:18:59.040" end="00:19:06.300" style="s2">but a below average participation rate</p>
+<p begin="00:19:01.490" end="00:19:07.830" style="s2">and then what&#39;s<span style="s4"> happening</span> now<span style="s3"> Robyn</span> is</p>
+<p begin="00:19:06.300" end="00:19:10.820" style="s2">actually working right now to roll out<span style="s3"> a</span></p>
+<p begin="00:19:07.830" end="00:19:13.440" style="s2"><span style="s4">cby</span> ad campaign<span style="s3"> and</span> a grassroots</p>
+<p begin="00:19:10.820" end="00:19:14.940" style="s2">canvassing campaign to drive enrollment</p>
+<p begin="00:19:13.440" end="00:19:16.470" style="s2">in these<span style="s4"> programs so they have folks who</span></p>
+<p begin="00:19:14.940" end="00:19:17.640" style="s2">are<span style="s3"> actually</span><span style="s4"> standing</span> out with</p>
+<p begin="00:19:16.470" end="00:19:18.780" style="s2"><span style="s3">supporters</span><span style="s4"> and</span> talking to people<span style="s4"> and</span></p>
+<p begin="00:19:17.640" end="00:19:20.910" style="s2">telling them<span style="s3"> about</span><span style="s4"> the</span> program<span style="s3"> to</span> get</p>
+<p begin="00:19:18.780" end="00:19:22.560" style="s2">them<span style="s4"> involved</span> just<span style="s4"> figure</span> out are</p>
+<p begin="00:19:20.910" end="00:19:25.350" style="s2">eligible and if they are<span style="s3"> help</span> them in to</p>
+<p begin="00:19:22.560" end="00:19:26.760" style="s2">enroll and they&#39;re also<span style="s4"> doing this ad</span></p>
+<p begin="00:19:25.350" end="00:19:28.830" style="s2">campaign which is called start by asking</p>
+<p begin="00:19:26.760" end="00:19:31.110" style="s2">and so that&#39;s trying<span style="s4"> to</span> figure out<span style="s4"> if</span></p>
+<p begin="00:19:28.830" end="00:19:32.700" style="s2">folks are eligible<span style="s3"> for</span> benefits and<span style="s4"> then</span></p>
+<p begin="00:19:31.110" end="00:19:35.160" style="s2">kind of<span style="s3"> kick-starting</span> that<span style="s3"> process</span> where</p>
+<p begin="00:19:32.700" end="00:19:36.810" style="s2">they help them<span style="s4"> to</span> apply<span style="s4"> um</span> so what we</p>
+<p begin="00:19:35.160" end="00:19:38.040" style="s2">hope<span style="s3"> to</span> do<span style="s4"> with</span> our work<span style="s4"> will</span> show them</p>
+<p begin="00:19:36.810" end="00:19:40.230" style="s2">places where their ads in their outreach</p>
+<p begin="00:19:38.040" end="00:19:41.250" style="s2"><span style="s4">could</span> be the most helpful<span style="s4"> and</span><span style="s3"> we</span> also</p>
+<p begin="00:19:40.230" end="00:19:43.050" style="s2">wanted to provide<span style="s3"> them</span><span style="s4"> with</span></p>
+<p begin="00:19:41.250" end="00:19:44.610" style="s2"><span style="s4">recommendations</span> for in the future</p>
+<p begin="00:19:43.050" end="00:19:45.570" style="s2">as<span style="s3"> they&#39;re</span> doing<span style="s4"> this</span> work as their</p>
+<p begin="00:19:44.610" end="00:19:48.120" style="s2">partners are doing<span style="s4"> work</span> on the<span style="s3"> ground</span></p>
+<p begin="00:19:45.570" end="00:19:49.020" style="s2"><span style="s3">what</span><span style="s4"> kind</span> of data they<span style="s3"> could</span> collect to</p>
+<p begin="00:19:48.120" end="00:19:50.880" style="s2">help<span style="s4"> them</span> kind<span style="s4"> of</span> improve these</p>
+<p begin="00:19:49.020" end="00:19:52.140" style="s2"><span style="s4">processes</span><span style="s3"> going</span> forward to get a better</p>
+<p begin="00:19:50.880" end="00:19:55.290" style="s2"><span style="s4">understanding</span> of who is or<span style="s3"> isn&#39;t</span></p>
+<p begin="00:19:52.140" end="00:19:58.320" style="s2"><span style="s4">enrolling</span> in benefits programs<span style="s4"> yeah</span> and</p>
+<p begin="00:19:55.290" end="00:20:01.140" style="s2">so that&#39;s where we<span style="s3"> are</span><span style="s4"> now</span> those are all</p>
+<p begin="00:19:58.320" end="00:20:02.500" style="s2">of<span style="s3"> our</span> prepared materials<span style="s3"> I</span> think we</p>
+<p begin="00:20:01.140" end="00:20:09.580" style="s2">have time<span style="s3"> for</span> questions</p>
+<p begin="00:20:02.500" end="00:20:10.510" style="s2">awesome thank you<span style="s3"> very</span> much your model</p>
+<p begin="00:20:09.580" end="00:20:12.700" style="s2"><span style="s3">looks</span> really cool</p>
+<p begin="00:20:10.510" end="00:20:15.670" style="s2">I just had a quick question<span style="s4"> about the</span></p>
+<p begin="00:20:12.700" end="00:20:18.220" style="s2">track specific model could you clarify</p>
+<p begin="00:20:15.670" end="00:20:21.070" style="s2">again like how you wereyou<span style="s4"> how</span> you</p>
+<p begin="00:20:18.220" end="00:20:22.510" style="s2"><span style="s3">obtained</span> to control a control<span style="s4"> set</span> or</p>
+<p begin="00:20:21.070" end="00:20:24.010" style="s2">like a training set for that since you</p>
+<p begin="00:20:22.510" end="00:20:27.760" style="s2">mentioned<span style="s4"> that</span> your data set didn&#39;t</p>
+<p begin="00:20:24.010" end="00:20:30.400" style="s2"><span style="s4">cover</span> tracks I&#39;m super excited<span style="s3"> because</span></p>
+<p begin="00:20:27.760" end="00:20:34.870" style="s2"><span style="s4">for</span> the<span style="s3"> first</span><span style="s4"> time</span> we have this appendix</p>
+<p begin="00:20:30.400" end="00:20:38.230" style="s2"><span style="s4">slide</span> set of slides on a track model<span style="s3"> so</span></p>
+<p begin="00:20:34.870" end="00:20:40.330" style="s2">yeah<span style="s3"> so</span> the appendix on<span style="s4"> the</span> track model</p>
+<p begin="00:20:38.230" end="00:20:41.920" style="s2"><span style="s4">so</span> we start<span style="s4"> with our Puma level</span></p>
+<p begin="00:20:40.330" end="00:20:44.380" style="s2"><span style="s3">estimates</span><span style="s4"> so</span> each square<span style="s3"> on</span> this<span style="s4"> slide</span></p>
+<p begin="00:20:41.920" end="00:20:46.420" style="s2">is a<span style="s3"> Fuma</span><span style="s4"> and</span> you can think<span style="s4"> of</span> the Pumas</p>
+<p begin="00:20:44.380" end="00:20:48.430" style="s2">that are redder as being Pumas that have</p>
+<p begin="00:20:46.420" end="00:20:50.830" style="s2">a higher target density<span style="s3"> and</span> the green</p>
+<p begin="00:20:48.430" end="00:20:53.920" style="s2">ones as<span style="s3"> being</span> a lower target<span style="s4"> density we</span></p>
+<p begin="00:20:50.830" end="00:20:57.480" style="s2">segment these Pumas<span style="s4"> into</span> tracks<span style="s3"> and</span> now</p>
+<p begin="00:20:53.920" end="00:21:00.850" style="s2">the dependent variable for<span style="s4"> each track is</span></p>
+<p begin="00:20:57.480" end="00:21:04.060" style="s2"><span style="s3">the</span> target<span style="s4"> density</span> in<span style="s3"> that</span> tracks<span style="s4"> Puma</span></p>
+<p begin="00:21:00.850" end="00:21:05.680" style="s2"><span style="s4">when</span> you train a model<span style="s4"> on</span> this you get</p>
+<p begin="00:21:04.060" end="00:21:07.510" style="s2">two sets of<span style="s4"> things</span> right you<span style="s3"> have</span> the</p>
+<p begin="00:21:05.680" end="00:21:09.310" style="s2">inputs<span style="s4"> that</span><span style="s3"> are</span> going<span style="s4"> in</span> right now<span style="s4"> and</span></p>
+<p begin="00:21:07.510" end="00:21:11.110" style="s2"><span style="s4">then</span><span style="s3"> you</span> have the<span style="s4"> model</span> outputs or the</p>
+<p begin="00:21:09.310" end="00:21:13.770" style="s2">fitted values from the model which are</p>
+<p begin="00:21:11.110" end="00:21:16.180" style="s2">the models estimates<span style="s4"> for</span> that<span style="s4"> area so</span></p>
+<p begin="00:21:13.770" end="00:21:18.760" style="s2">the short of<span style="s4"> it</span><span style="s3"> is</span> we<span style="s3"> take</span> the fitted</p>
+<p begin="00:21:16.180" end="00:21:20.350" style="s2">values<span style="s4"> and</span> what that means<span style="s4"> is our model</span></p>
+<p begin="00:21:18.760" end="00:21:22.270" style="s2">is searching for rules that define</p>
+<p begin="00:21:20.350" end="00:21:24.520" style="s2">differences between these high density</p>
+<p begin="00:21:22.270" end="00:21:27.490" style="s2">areas<span style="s3"> and</span> low density low target<span style="s4"> areas</span></p>
+<p begin="00:21:24.520" end="00:21:29.530" style="s2">so if you take a<span style="s4"> sample</span><span style="s3"> tract</span><span style="s4"> in</span> one of</p>
+<p begin="00:21:27.490" end="00:21:31.480" style="s2">the high<span style="s3"> density</span> areas<span style="s3"> and</span> it looks a</p>
+<p begin="00:21:29.530" end="00:21:33.880" style="s2">lot like a lot of<span style="s4"> the</span> tracks<span style="s4"> in</span> the low</p>
+<p begin="00:21:31.480" end="00:21:35.650" style="s2">density areas the fitted value or the</p>
+<p begin="00:21:33.880" end="00:21:38.680" style="s2">adjusted value for that tract will be</p>
+<p begin="00:21:35.650" end="00:21:40.630" style="s2">lower<span style="s3"> so this isn&#39;t</span> so much a<span style="s4"> training</span></p>
+<p begin="00:21:38.680" end="00:21:42.610" style="s2">and test set question as<span style="s4"> a</span> can we adjust</p>
+<p begin="00:21:40.630" end="00:21:46.170" style="s2"><span style="s4">our</span> direct estimates based on</p>
+<p begin="00:21:42.610" end="00:21:48.880" style="s2">characteristics of<span style="s4"> the</span> estimates<span style="s4"> overall</span></p>
+<p begin="00:21:46.170" end="00:21:49.990" style="s2">first excellent project<span style="s4"> this</span> is</p>
+<p begin="00:21:48.880" end="00:21:51.760" style="s2">something that<span style="s4"> could be valuable</span> in a</p>
+<p begin="00:21:49.990" end="00:21:54.310" style="s2">lot of<span style="s4"> cities including city of Chicago</span></p>
+<p begin="00:21:51.760" end="00:21:56.980" style="s2"><span style="s3">and</span> others one<span style="s4"> of</span> the challenges with</p>
+<p begin="00:21:54.310" end="00:21:59.730" style="s2">ACS data is that well<span style="s4"> first</span> let me<span style="s4"> ask</span></p>
+<p begin="00:21:56.980" end="00:22:02.650" style="s2">did you<span style="s4"> guys</span> use<span style="s3"> one</span> three or<span style="s4"> five year</span></p>
+<p begin="00:21:59.730" end="00:22:03.820" style="s2">one year one<span style="s3"> year</span> as<span style="s3"> one</span> oh you did one</p>
+<p begin="00:22:02.650" end="00:22:06.100" style="s2"><span style="s3">year</span> estimates<span style="s4"> all right so</span><span style="s3"> made</span> this</p>
+<p begin="00:22:03.820" end="00:22:08.950" style="s2">this will I think<span style="s3"> lessen</span> the importance</p>
+<p begin="00:22:06.100" end="00:22:10.450" style="s2">of this question what it&#39;s<span style="s4"> going</span><span style="s3"> to</span> be</p>
+<p begin="00:22:08.950" end="00:22:12.580" style="s2">twofold<span style="s4"> question</span> what is<span style="s3"> your</span> sort of</p>
+<p begin="00:22:10.450" end="00:22:15.010" style="s2">range of standard<span style="s3"> error</span> do<span style="s4"> you</span> see a lot</p>
+<p begin="00:22:12.580" end="00:22:16.809" style="s2">of variation<span style="s3"> between</span> one spot and the</p>
+<p begin="00:22:15.010" end="00:22:18.580" style="s2">other<span style="s4"> and the second one</span></p>
+<p begin="00:22:16.809" end="00:22:21.879" style="s2">is to what<span style="s3"> extent are you able to</span></p>
+<p begin="00:22:18.580" end="00:22:25.389" style="s2">validate<span style="s4"> the</span> notion that<span style="s4"> my estimates</span></p>
+<p begin="00:22:21.879" end="00:22:26.860" style="s2">might<span style="s4"> actually</span> align to reality<span style="s4"> is</span> there</p>
+<p begin="00:22:25.389" end="00:22:28.269" style="s2">on the field testing or anything else</p>
+<p begin="00:22:26.860" end="00:22:32.190" style="s2">that<span style="s4"> you</span> get<span style="s3"> a</span> feedback<span style="s3"> of</span> like<span style="s4"> okay</span></p>
+<p begin="00:22:28.269" end="00:22:32.190" style="s2"><span style="s3">this</span> is a place<span style="s3"> that&#39;s</span> underserved</p>
+<p begin="00:22:33.960" end="00:22:38.740" style="s2"><span style="s4">yeah</span> just<span style="s3"> for</span><span style="s4"> your</span> second question<span style="s4"> about</span></p>
+<p begin="00:22:36.779" end="00:22:40.809" style="s2">collecting<span style="s4"> data</span> from<span style="s4"> the field that&#39;s</span></p>
+<p begin="00:22:38.740" end="00:22:42.159" style="s2">something that we worked with<span style="s3"> the</span> Robin</p>
+<p begin="00:22:40.809" end="00:22:44.379" style="s2">Hood<span style="s3"> Foundation</span><span style="s4"> to</span> kind<span style="s4"> of brainstorm</span></p>
+<p begin="00:22:42.159" end="00:22:46.269" style="s2">some ideas<span style="s3"> so</span> can they be collecting</p>
+<p begin="00:22:44.379" end="00:22:48.100" style="s2">data about<span style="s4"> people</span> who come into<span style="s4"> their</span></p>
+<p begin="00:22:46.269" end="00:22:49.389" style="s2">centers<span style="s4"> can</span><span style="s3"> they</span><span style="s4"> be</span> working<span style="s3"> with</span> their</p>
+<p begin="00:22:48.100" end="00:22:51.460" style="s2">partner organizations to kind of</p>
+<p begin="00:22:49.389" end="00:22:53.230" style="s2">validate<span style="s3"> our</span> expected estimates of how</p>
+<p begin="00:22:51.460" end="00:22:55.749" style="s2"><span style="s4">many</span> people<span style="s3"> in that</span><span style="s4"> neighborhood</span> should</p>
+<p begin="00:22:53.230" end="00:22:58.389" style="s2"><span style="s4">be</span> coming into a<span style="s4"> particular</span> you know</p>
+<p begin="00:22:55.749" end="00:22:59.950" style="s2">beneficiary<span style="s4"> but</span> it is a really<span style="s4"> hard</span></p>
+<p begin="00:22:58.389" end="00:23:01.179" style="s2"><span style="s3">problem</span> and<span style="s4"> I</span> think<span style="s3"> this</span> is<span style="s3"> something</span></p>
+<p begin="00:22:59.950" end="00:23:02.889" style="s2">that<span style="s4"> you</span> know a lot of<span style="s4"> folks here</span></p>
+<p begin="00:23:01.179" end="00:23:04.629" style="s2">probably<span style="s4"> work</span> in<span style="s4"> social</span> service delivery</p>
+<p begin="00:23:02.889" end="00:23:06.070" style="s2">and it&#39;s tough to<span style="s3"> get</span> those accurate</p>
+<p begin="00:23:04.629" end="00:23:08.559" style="s2">counts especially<span style="s4"> with</span> these vulnerable</p>
+<p begin="00:23:06.070" end="00:23:10.840" style="s2"><span style="s3">populations</span> and<span style="s4"> so</span> short<span style="s4"> of</span> something</p>
+<p begin="00:23:08.559" end="00:23:12.460" style="s2"><span style="s4">like an RCT</span><span style="s3"> or</span><span style="s4"> you</span> know using</p>
+<p begin="00:23:10.840" end="00:23:14.980" style="s2">observational data creatively I think</p>
+<p begin="00:23:12.460" end="00:23:18.340" style="s2">that&#39;s an area<span style="s4"> that</span><span style="s3"> were</span> continuing<span style="s4"> to</span></p>
+<p begin="00:23:14.980" end="00:23:19.570" style="s2">do<span style="s3"> research</span><span style="s4"> and</span> explore and then in</p>
+<p begin="00:23:18.340" end="00:23:23.379" style="s2">terms of<span style="s4"> the precision of these</span></p>
+<p begin="00:23:19.570" end="00:23:25.840" style="s2"><span style="s4">estimates</span><span style="s3"> we</span> have<span style="s3"> we have an idea as to</span></p>
+<p begin="00:23:23.379" end="00:23:27.940" style="s2"><span style="s4">how</span> to get standard<span style="s4"> errors</span> for<span style="s4"> the</span> first</p>
+<p begin="00:23:25.840" end="00:23:29.379" style="s2">step as in the direct<span style="s4"> step</span> we&#39;re not</p>
+<p begin="00:23:27.940" end="00:23:33.789" style="s2">sure how to move that standard error</p>
+<p begin="00:23:29.379" end="00:23:35.289" style="s2">through the model<span style="s4"> so</span> we one of<span style="s3"> the</span><span style="s4"> one</span></p>
+<p begin="00:23:33.789" end="00:23:37.179" style="s2">of<span style="s4"> the</span> ways<span style="s3"> that</span><span style="s4"> we</span> handle sort of the</p>
+<p begin="00:23:35.289" end="00:23:40.450" style="s2">uncertainty with<span style="s4"> these estimates is when</span></p>
+<p begin="00:23:37.179" end="00:23:44.019" style="s2">we go back to<span style="s4"> say</span> the<span style="s4"> tract predictions</span></p>
+<p begin="00:23:40.450" end="00:23:47.019" style="s2">that we delivered we identify not just</p>
+<p begin="00:23:44.019" end="00:23:48.580" style="s2">like let&#39;s<span style="s3"> not</span> just specific tracks but</p>
+<p begin="00:23:47.019" end="00:23:50.889" style="s2"><span style="s4">also places within</span> those<span style="s4"> tracks</span> that</p>
+<p begin="00:23:48.580" end="00:23:53.110" style="s2"><span style="s4">might</span> be<span style="s3"> high-traffic</span> areas like public</p>
+<p begin="00:23:50.889" end="00:23:54.999" style="s2">schools or libraries<span style="s4"> where</span> even if we&#39;re</p>
+<p begin="00:23:53.110" end="00:23:56.529" style="s2">you know off<span style="s4"> within</span> this tract we think</p>
+<p begin="00:23:54.999" end="00:23:59.619" style="s2">that other<span style="s3"> people</span> within the<span style="s3"> tract</span> might</p>
+<p begin="00:23:56.529" end="00:24:00.669" style="s2">still go through<span style="s4"> those</span> areas<span style="s3"> so</span> that&#39;s</p>
+<p begin="00:23:59.619" end="00:24:01.779" style="s2">something that<span style="s4"> we&#39;re currently dealing</span></p>
+<p begin="00:24:00.669" end="00:24:03.580" style="s2">with more on the<span style="s3"> practical</span></p>
+<p begin="00:24:01.779" end="00:24:05.350" style="s2">recommendation and strategy side<span style="s4"> as</span></p>
+<p begin="00:24:03.580" end="00:24:06.909" style="s2">opposed to<span style="s4"> on the modeling side</span> but it&#39;s</p>
+<p begin="00:24:05.350" end="00:24:10.480" style="s2">something we&#39;re thinking about<span style="s4"> on</span> the</p>
+<p begin="00:24:06.909" end="00:24:12.009" style="s2">modeling side<span style="s4"> too</span> something<span style="s3"> that</span> stuck</p>
+<p begin="00:24:10.480" end="00:24:13.840" style="s2">out to me<span style="s4"> you mentioned</span><span style="s3"> when</span> you&#39;re</p>
+<p begin="00:24:12.009" end="00:24:15.340" style="s2">looking at snap<span style="s4"> participation</span> and how</p>
+<p begin="00:24:13.840" end="00:24:18.279" style="s2">there are different<span style="s3"> ethnic</span> groups and</p>
+<p begin="00:24:15.340" end="00:24:19.929" style="s2">you<span style="s3"> hypothesize</span><span style="s4"> that</span> language might be a</p>
+<p begin="00:24:18.279" end="00:24:22.269" style="s2">barrier and I&#39;m just<span style="s3"> wondering</span> if<span style="s3"> that</span></p>
+<p begin="00:24:19.929" end="00:24:23.889" style="s2">was if you had any other<span style="s4"> indication</span> why</p>
+<p begin="00:24:22.269" end="00:24:26.429" style="s2">it would be specifically language not</p>
+<p begin="00:24:23.889" end="00:24:28.840" style="s2"><span style="s4">anything</span> else such as maybe just</p>
+<p begin="00:24:26.429" end="00:24:29.820" style="s2"><span style="s3">lifestyle</span> or time or trust of the</p>
+<p begin="00:24:28.840" end="00:24:31.950" style="s2">government or whether<span style="s3"> it</span></p>
+<p begin="00:24:29.820" end="00:24:33.690" style="s2"><span style="s3">I</span><span style="s4"> along</span><span style="s3"> with the</span><span style="s4"> field</span><span style="s3"> validation</span> if we</p>
+<p begin="00:24:31.950" end="00:24:35.490" style="s2">could just<span style="s4"> survey people in that</span></p>
+<p begin="00:24:33.690" end="00:24:38.670" style="s2"><span style="s3">neighborhood</span> and<span style="s4"> ask</span> them why they don&#39;t</p>
+<p begin="00:24:35.490" end="00:24:40.680" style="s2">participate in<span style="s3"> snap</span><span style="s4"> yeah</span> we were</p>
+<p begin="00:24:38.670" end="00:24:42.240" style="s2">thinking<span style="s4"> language</span> because one<span style="s3"> of</span> the</p>
+<p begin="00:24:40.680" end="00:24:45.840" style="s2">variables we looked at was percent of</p>
+<p begin="00:24:42.240" end="00:24:47.040" style="s2">other languages<span style="s3"> that</span> were spoken<span style="s4"> so</span> kind</p>
+<p begin="00:24:45.840" end="00:24:48.900" style="s2">of<span style="s4"> like</span> looking areas<span style="s4"> for</span> English wasn&#39;t</p>
+<p begin="00:24:47.040" end="00:24:51.120" style="s2">primary and<span style="s3"> that</span> was a variable<span style="s3"> that</span> I</p>
+<p begin="00:24:48.900" end="00:24:52.200" style="s2">think we ended<span style="s3"> up</span> including in our model</p>
+<p begin="00:24:51.120" end="00:24:54.120" style="s2">so<span style="s3"> was</span> one of the reasons we were like</p>
+<p begin="00:24:52.200" end="00:24:55.740" style="s2"><span style="s4">looking</span> at<span style="s3"> language</span> another thing we</p>
+<p begin="00:24:54.120" end="00:24:58.080" style="s2">talked a little bit<span style="s4"> about</span> but I<span style="s4"> don&#39;t</span></p>
+<p begin="00:24:55.740" end="00:25:00.570" style="s2">know if we ever kind<span style="s4"> of</span><span style="s3"> Leyland on</span></p>
+<p begin="00:24:58.080" end="00:25:01.740" style="s2">anything<span style="s4"> was</span> citizenship status<span style="s4"> and</span> so</p>
+<p begin="00:25:00.570" end="00:25:04.320" style="s2">that affects<span style="s4"> eligibility</span> for some of</p>
+<p begin="00:25:01.740" end="00:25:05.790" style="s2">these programs<span style="s4"> but you know it&#39;s not the</span></p>
+<p begin="00:25:04.320" end="00:25:07.710" style="s2">thing<span style="s4"> we</span> could really measure so<span style="s3"> we</span> knew</p>
+<p begin="00:25:05.790" end="00:25:09.420" style="s2">areas that had like a large immigrant</p>
+<p begin="00:25:07.710" end="00:25:11.070" style="s2">population and so we knew that<span style="s4"> could</span></p>
+<p begin="00:25:09.420" end="00:25:13.140" style="s2">affect whether one actually enrolled or</p>
+<p begin="00:25:11.070" end="00:25:15.960" style="s2">not we<span style="s4"> still</span><span style="s3"> kind</span><span style="s4"> of</span> highlighted these</p>
+<p begin="00:25:13.140" end="00:25:17.160" style="s2">as target areas<span style="s4"> with</span> the<span style="s4"> caveat of the</span></p>
+<p begin="00:25:15.960" end="00:25:19.950" style="s2">eligibility there&#39;s a little bit harder</p>
+<p begin="00:25:17.160" end="00:25:21.360" style="s2"><span style="s3">to</span> suss out<span style="s4"> yeah</span> and to your point<span style="s3"> about</span></p>
+<p begin="00:25:19.950" end="00:25:22.410" style="s2">culture I think<span style="s4"> that</span> came up a little</p>
+<p begin="00:25:21.360" end="00:25:24.360" style="s2"><span style="s4">bit</span> when we met with<span style="s3"> some of the</span></p>
+<p begin="00:25:22.410" end="00:25:25.620" style="s2">partners<span style="s3"> on</span> the ground<span style="s4"> that</span> you know</p>
+<p begin="00:25:24.360" end="00:25:27.480" style="s2"><span style="s4">different</span> cultural norms<span style="s3"> you</span> might</p>
+<p begin="00:25:25.620" end="00:25:29.070" style="s2">affect how willing someone is to step</p>
+<p begin="00:25:27.480" end="00:25:31.020" style="s2">forward and get<span style="s4"> involved with benefits</span></p>
+<p begin="00:25:29.070" end="00:25:33.150" style="s2"><span style="s4">to</span> your<span style="s4"> point</span> about<span style="s4"> survey research I</span></p>
+<p begin="00:25:31.020" end="00:25:34.770" style="s2">think<span style="s4"> that&#39;s</span> a lot trickier<span style="s4"> particularly</span></p>
+<p begin="00:25:33.150" end="00:25:36.840" style="s2">in<span style="s4"> these</span> communities where<span style="s3"> you know</span></p>
+<p begin="00:25:34.770" end="00:25:38.100" style="s2">folks might<span style="s3"> not</span> be<span style="s4"> documented</span> or where</p>
+<p begin="00:25:36.840" end="00:25:40.530" style="s2">there&#39;s just<span style="s3"> general</span><span style="s4"> concern about</span></p>
+<p begin="00:25:38.100" end="00:25:41.880" style="s2">participating in<span style="s4"> this kind of work</span><span style="s3"> you</span></p>
+<p begin="00:25:40.530" end="00:25:43.230" style="s2">know surveying<span style="s4"> these</span> populations is</p>
+<p begin="00:25:41.880" end="00:25:45.750" style="s2">really challenging<span style="s3"> and</span><span style="s4"> I think has a lot</span></p>
+<p begin="00:25:43.230" end="00:25:47.280" style="s2"><span style="s3">of</span><span style="s4"> ethical</span> complications<span style="s3"> involved</span> and so</p>
+<p begin="00:25:45.750" end="00:25:48.930" style="s2">that&#39;s part<span style="s3"> of</span><span style="s4"> the reason why we</span><span style="s3"> chose</span></p>
+<p begin="00:25:47.280" end="00:25:50.550" style="s2"><span style="s3">to</span> do<span style="s4"> this</span> public<span style="s3"> data</span> driven approach</p>
+<p begin="00:25:48.930" end="00:25:52.680" style="s2">rather than<span style="s4"> actually</span> collect individual</p>
+<p begin="00:25:50.550" end="00:25:54.270" style="s2">level responses<span style="s4"> both</span> just the</p>
+<p begin="00:25:52.680" end="00:25:58.530" style="s2"><span style="s3">feasibility</span><span style="s4"> and</span> a lot of<span style="s4"> other</span> issues</p>
+<p begin="00:25:54.270" end="00:26:00.750" style="s2"><span style="s4">involved</span> so in one<span style="s4"> of</span> your<span style="s3"> earlier</span></p>
+<p begin="00:25:58.530" end="00:26:02.670" style="s2"><span style="s3">slides</span> you showed<span style="s4"> that</span> the lower income</p>
+<p begin="00:26:00.750" end="00:26:05.550" style="s2"><span style="s4">bracket</span> had<span style="s3"> especially</span> high<span style="s4"> variance</span> and</p>
+<p begin="00:26:02.670" end="00:26:09.120" style="s2">uncertainty<span style="s3"> was</span> there any special</p>
+<p begin="00:26:05.550" end="00:26:11.340" style="s2">consideration<span style="s3"> you</span> paid to make sure that</p>
+<p begin="00:26:09.120" end="00:26:12.930" style="s2">this increase in certainty in the lower</p>
+<p begin="00:26:11.340" end="00:26:15.660" style="s2">income<span style="s3"> bracket</span> wouldn&#39;t lead to any kind</p>
+<p begin="00:26:12.930" end="00:26:17.850" style="s2"><span style="s3">of</span> systemic<span style="s3"> bias ease in your</span><span style="s4"> final</span></p>
+<p begin="00:26:15.660" end="00:26:21.840" style="s2">recommendation</p>
+<p begin="00:26:17.850" end="00:26:24.900" style="s2">so we so what we what<span style="s4"> I&#39;ve</span> plotted here</p>
+<p begin="00:26:21.840" end="00:26:28.680" style="s2"><span style="s4">is this the state-by-state estimates</span><span style="s3"> so</span></p>
+<p begin="00:26:24.900" end="00:26:30.180" style="s2">this is<span style="s4"> overall</span><span style="s3"> I&#39;m I want to</span><span style="s4"> say</span> in New</p>
+<p begin="00:26:28.680" end="00:26:31.860" style="s2">York was closer to<span style="s3"> the</span> mean than<span style="s4"> the</span></p>
+<p begin="00:26:30.180" end="00:26:34.710" style="s2">typical<span style="s3"> state</span><span style="s4"> so</span> the thing that<span style="s4"> was</span> the</p>
+<p begin="00:26:31.860" end="00:26:38.190" style="s2"><span style="s4">first</span> layer<span style="s4"> where</span> we<span style="s3"> think</span> we&#39;re<span style="s3"> doing</span></p>
+<p begin="00:26:34.710" end="00:26:40.920" style="s2"><span style="s4">not</span> as poorly<span style="s4"> in</span> New York as<span style="s4"> in</span> in some</p>
+<p begin="00:26:38.190" end="00:26:42.960" style="s2">other states<span style="s3"> we</span> didn&#39;t do anything</p>
+<p begin="00:26:40.920" end="00:26:44.360" style="s2">particular to take into account<span style="s3"> that</span></p>
+<p begin="00:26:42.960" end="00:26:47.580" style="s2">information</p>
+<p begin="00:26:44.360" end="00:26:49.440" style="s2">apart from relying generally on modeling</p>
+<p begin="00:26:47.580" end="00:26:53.910" style="s2"><span style="s3">tuple</span> estimates back in towards<span style="s3"> I</span> mean</p>
+<p begin="00:26:49.440" end="00:26:56.580" style="s2">if they&#39;re if<span style="s4"> they&#39;re</span> more extreme we so</p>
+<p begin="00:26:53.910" end="00:26:58.410" style="s2">we relied fairly heavily<span style="s4"> on</span> modeling<span style="s4"> I</span></p>
+<p begin="00:26:56.580" end="00:27:00.650" style="s2">guess<span style="s4"> on</span> the modeling step to account</p>
+<p begin="00:26:58.410" end="00:27:03.600" style="s2">for<span style="s4"> any errors we were making here and</span></p>
+<p begin="00:27:00.650" end="00:27:05.850" style="s2">we also tested our definition<span style="s4"> of</span></p>
+<p begin="00:27:03.600" end="00:27:07.770" style="s2">adjusted gross<span style="s4"> income</span> in several ways<span style="s3"> to</span></p>
+<p begin="00:27:05.850" end="00:27:10.380" style="s2">try and<span style="s4"> make</span> that<span style="s4"> bottom</span> income bracket</p>
+<p begin="00:27:07.770" end="00:27:12.120" style="s2">as accurate as<span style="s3"> possible</span><span style="s4"> so</span> this was sort</p>
+<p begin="00:27:10.380" end="00:27:15.600" style="s2">of what we&#39;re<span style="s3"> already</span> plotting here is</p>
+<p begin="00:27:12.120" end="00:27:16.920" style="s2"><span style="s4">sort</span> of<span style="s4"> the</span> trick is the result of a</p>
+<p begin="00:27:15.600" end="00:27:20.250" style="s2"><span style="s4">series</span><span style="s3"> of</span><span style="s4"> steps</span> we<span style="s4"> had</span> taken where</p>
+<p begin="00:27:16.920" end="00:27:22.170" style="s2">initially<span style="s3"> we</span> had a more bias measure of</p>
+<p begin="00:27:20.250" end="00:27:24.210" style="s2">adjusted<span style="s4"> gross</span><span style="s3"> income and this is sort</span></p>
+<p begin="00:27:22.170" end="00:27:27.810" style="s2"><span style="s3">of</span> a less biased<span style="s4"> version</span> than we<span style="s3"> started</span></p>
+<p begin="00:27:24.210" end="00:27:29.520" style="s2"><span style="s3">with</span> and the other<span style="s4"> thing</span><span style="s3"> that</span> we do know</p>
+<p begin="00:27:27.810" end="00:27:31.530" style="s2"><span style="s3">is</span> we<span style="s3"> think</span> so one<span style="s3"> of</span> the things that we</p>
+<p begin="00:27:29.520" end="00:27:32.880" style="s2">do say<span style="s4"> is because we think the income</span></p>
+<p begin="00:27:31.530" end="00:27:35.190" style="s2">estimates are noisier in the bottom</p>
+<p begin="00:27:32.880" end="00:27:37.380" style="s2">income bracket<span style="s4"> we</span> also<span style="s4"> think we might be</span></p>
+<p begin="00:27:35.190" end="00:27:39.240" style="s2">slightly under overestimating</p>
+<p begin="00:27:37.380" end="00:27:41.190" style="s2">participation or under estimating the</p>
+<p begin="00:27:39.240" end="00:27:42.630" style="s2">size<span style="s4"> of</span> the gap<span style="s3"> so one of</span> the things</p>
+<p begin="00:27:41.190" end="00:27:43.860" style="s2">that we passed<span style="s4"> on</span> to Robin<span style="s4"> Hood</span> was the</p>
+<p begin="00:27:42.630" end="00:27:47.220" style="s2">idea that<span style="s3"> the</span><span style="s4"> are</span><span style="s3"> eighty-nine</span><span style="s4"> percent</span></p>
+<p begin="00:27:43.860" end="00:27:48.270" style="s2"><span style="s3">number</span><span style="s4"> in</span> New York City<span style="s4"> might</span> be high we</p>
+<p begin="00:27:47.220" end="00:27:50.160" style="s2"><span style="s3">don&#39;t</span> think it&#39;s going<span style="s3"> to</span><span style="s4"> be</span> especially</p>
+<p begin="00:27:48.270" end="00:27:52.350" style="s2"><span style="s4">high</span> I think<span style="s3"> New</span> York<span style="s4"> state&#39;s</span> average</p>
+<p begin="00:27:50.160" end="00:27:53.610" style="s2">participation is<span style="s3"> eighty-three</span> percent<span style="s4"> so</span></p>
+<p begin="00:27:52.350" end="00:27:55.050" style="s2">we&#39;re willing<span style="s4"> to</span> believe<span style="s4"> that</span> New York</p>
+<p begin="00:27:53.610" end="00:27:57.960" style="s2">City&#39;s participation at<span style="s3"> eighty nine</span></p>
+<p begin="00:27:55.050" end="00:27:59.310" style="s2">percent is not<span style="s4"> unreasonable</span> but really</p>
+<p begin="00:27:57.960" end="00:28:01.350" style="s2">it<span style="s4"> might</span><span style="s3"> be</span> something<span style="s3"> like</span><span style="s4"> eighty seven</span></p>
+<p begin="00:27:59.310" end="00:28:03.750" style="s2">percent<span style="s4"> or</span> something<span style="s3"> like that</span><span style="s4"> so</span> we<span style="s3"> did</span></p>
+<p begin="00:28:01.350" end="00:28:05.760" style="s2">give like a qualitative answer back<span style="s4"> to</span></p>
+<p begin="00:28:03.750" end="00:28:08.970" style="s2">Robin Hood<span style="s3"> but that&#39;s not something</span> we</p>
+<p begin="00:28:05.760" end="00:28:12.360" style="s2">were<span style="s3"> able to quantitatively</span><span style="s4"> figure out</span></p>
+<p begin="00:28:08.970" end="00:28:14.460" style="s2">and<span style="s4"> also</span> um since we were estimating</p>
+<p begin="00:28:12.360" end="00:28:16.200" style="s2">whether someone<span style="s4"> was</span> eligible<span style="s4"> or</span> not<span style="s3"> and</span></p>
+<p begin="00:28:14.460" end="00:28:18.450" style="s2">not<span style="s4"> necessarily</span> the amount<span style="s4"> of</span> benefit</p>
+<p begin="00:28:16.200" end="00:28:19.380" style="s2">they were going to receive<span style="s3"> I</span> think we</p>
+<p begin="00:28:18.450" end="00:28:20.790" style="s2">were<span style="s3"> ok</span> with<span style="s3"> a</span><span style="s4"> little</span> bit more</p>
+<p begin="00:28:19.380" end="00:28:22.290" style="s2">uncertainty<span style="s4"> because</span> we were<span style="s4"> like willing</span></p>
+<p begin="00:28:20.790" end="00:28:24.990" style="s2">to say this<span style="s4"> person</span> is<span style="s3"> eligible</span> if they</p>
+<p begin="00:28:22.290" end="00:28:26.370" style="s2"><span style="s4">fall</span> in this area or<span style="s4"> something</span> like<span style="s3"> that</span></p>
+<p begin="00:28:24.990" end="00:28:27.840" style="s2">but we didn&#39;t have<span style="s4"> to</span> give an exact</p>
+<p begin="00:28:26.370" end="00:28:30.980" style="s2">figure<span style="s4"> of</span> this<span style="s4"> is</span> how much we expect</p>
+<p begin="00:28:27.840" end="00:28:30.980" style="s2">them to get in benefits</p>
+<p begin="00:28:31.420" end="00:28:36.830" style="s2">so actually my<span style="s4"> question</span><span style="s3"> is probably</span></p>
+<p begin="00:28:33.620" end="00:28:38.930" style="s2">related<span style="s4"> to</span> ACS which is very<span style="s3"> high</span><span style="s4"> for</span></p>
+<p begin="00:28:36.830" end="00:28:42.320" style="s2">example<span style="s3"> happy</span> deal<span style="s4"> happy</span><span style="s3"> tale</span></p>
+<p begin="00:28:38.930" end="00:28:44.150" style="s2">distribution<span style="s4"> within</span><span style="s3"> that 100,000 use</span></p>
+<p begin="00:28:42.320" end="00:28:47.090" style="s2">your geographic area<span style="s4"> because</span> it seems</p>
+<p begin="00:28:44.150" end="00:28:49.040" style="s2">like<span style="s3"> are</span> they&#39;re gonna have a<span style="s4"> little</span> bit</p>
+<p begin="00:28:47.090" end="00:28:52.100" style="s2"><span style="s3">of</span> a buyers<span style="s4"> sort of a geographic</span><span style="s3"> by</span></p>
+<p begin="00:28:49.040" end="00:28:54.230" style="s2">because of the way that<span style="s4"> they</span> are split</p>
+<p begin="00:28:52.100" end="00:28:56.120" style="s2">up<span style="s3"> a data so how</span> do you know<span style="s4"> for example</span></p>
+<p begin="00:28:54.230" end="00:28:58.010" style="s2"><span style="s3">you&#39;re</span><span style="s4"> not</span> going to have some sort<span style="s3"> of</span></p>
+<p begin="00:28:56.120" end="00:28:59.930" style="s2"><span style="s3">miss</span> modeling in an area that<span style="s4"> might</span></p>
+<p begin="00:28:58.010" end="00:29:02.840" style="s2">appear to<span style="s4"> have high income because</span></p>
+<p begin="00:28:59.930" end="00:29:04.880" style="s2">there&#39;s two or<span style="s4"> three</span> multi-billionaire</p>
+<p begin="00:29:02.840" end="00:29:11.990" style="s2">people to live there skewing the results</p>
+<p begin="00:29:04.880" end="00:29:15.770" style="s2">of a<span style="s3"> low-income</span><span style="s4"> area like a</span><span style="s3"> date</span><span style="s4"> okay</span></p>
+<p begin="00:29:11.990" end="00:29:17.800" style="s2">yeah so if I&#39;m understanding<span style="s4"> the</span></p>
+<p begin="00:29:15.770" end="00:29:21.260" style="s2">question right<span style="s3"> yeah</span> there could<span style="s3"> be</span></p>
+<p begin="00:29:17.800" end="00:29:24.920" style="s2"><span style="s3">systemic</span><span style="s4"> Geographic</span> differences between</p>
+<p begin="00:29:21.260" end="00:29:27.530" style="s2">geographies<span style="s3"> in</span> the ACS<span style="s3"> that&#39;s</span> going to</p>
+<p begin="00:29:24.920" end="00:29:29.720" style="s2">be a problem<span style="s3"> if</span> those year I<span style="s4"> think</span></p>
+<p begin="00:29:27.530" end="00:29:31.820" style="s2">that&#39;s going to<span style="s4"> be</span><span style="s3"> a</span> problem<span style="s4"> if</span> that<span style="s3"> is</span></p>
+<p begin="00:29:29.720" end="00:29:35.690" style="s2"><span style="s4">characteristic</span> of all of New<span style="s3"> York</span><span style="s4"> City</span></p>
+<p begin="00:29:31.820" end="00:29:37.520" style="s2"><span style="s4">if</span> it&#39;s instead the case that<span style="s4"> in</span> some</p>
+<p begin="00:29:35.690" end="00:29:39.590" style="s2"><span style="s4">places</span> in New<span style="s4"> York</span> City<span style="s4"> we</span> have problems</p>
+<p begin="00:29:37.520" end="00:29:41.380" style="s2">with our estimates<span style="s4"> but in general</span> we</p>
+<p begin="00:29:39.590" end="00:29:43.910" style="s2">trust the validity<span style="s3"> New</span> York City overall</p>
+<p begin="00:29:41.380" end="00:29:46.340" style="s2">building<span style="s4"> a model to adjust outliers</span></p>
+<p begin="00:29:43.910" end="00:29:51.530" style="s2"><span style="s4">outlier</span> direct estimates should account</p>
+<p begin="00:29:46.340" end="00:29:53.960" style="s2"><span style="s4">for that that is if like if our highest</span></p>
+<p begin="00:29:51.530" end="00:29:55.490" style="s2">target<span style="s3"> puma</span> up here is a place where</p>
+<p begin="00:29:53.960" end="00:29:59.590" style="s2">we&#39;re generating a very high estimate</p>
+<p begin="00:29:55.490" end="00:30:02.030" style="s2">because<span style="s4"> the</span> ACS data is bad but<span style="s4"> we</span><span style="s3"> have</span></p>
+<p begin="00:29:59.590" end="00:30:03.260" style="s2">characteristics added to this file like</p>
+<p begin="00:30:02.030" end="00:30:04.850" style="s2">percentage of people<span style="s3"> living</span> in</p>
+<p begin="00:30:03.260" end="00:30:06.680" style="s2"><span style="s4">high-rises which</span><span style="s3"> i don&#39;t know if we had</span></p>
+<p begin="00:30:04.850" end="00:30:11.210" style="s2">but things like vacant housing stock</p>
+<p begin="00:30:06.680" end="00:30:12.980" style="s2">things like data from our consumer file</p>
+<p begin="00:30:11.210" end="00:30:15.920" style="s2">and other data that<span style="s4"> we&#39;ve</span> curated as<span style="s3"> a</span></p>
+<p begin="00:30:12.980" end="00:30:18.260" style="s2"><span style="s3">as</span> a company overall we should be able</p>
+<p begin="00:30:15.920" end="00:30:19.610" style="s2">to<span style="s4"> pick</span> up on biases in the<span style="s3"> acs</span> as long</p>
+<p begin="00:30:18.260" end="00:30:21.710" style="s2">as those biases aren&#39;t there<span style="s4"> and</span> our</p>
+<p begin="00:30:19.610" end="00:30:23.360" style="s2">other data sources so we&#39;re trusting</p>
+<p begin="00:30:21.710" end="00:30:26.330" style="s2"><span style="s3">modeling</span> here<span style="s4"> again</span> a little<span style="s3"> bit</span> yeah</p>
+<p begin="00:30:23.360" end="00:30:29.060" style="s2"><span style="s4">and</span> I would also add<span style="s4"> the</span> ACS includes of</p>
+<p begin="00:30:26.330" end="00:30:30.770" style="s2"><span style="s4">personally</span> field so for each individual</p>
+<p begin="00:30:29.060" end="00:30:32.210" style="s2">response that we use there<span style="s4"> was</span> a weight</p>
+<p begin="00:30:30.770" end="00:30:34.520" style="s2"><span style="s4">assign</span> with that<span style="s3"> person&#39;s</span> that when we</p>
+<p begin="00:30:32.210" end="00:30:36.560" style="s2">rolled it<span style="s4"> up to the</span><span style="s3"> Puma</span> level we had</p>
+<p begin="00:30:34.520" end="00:30:38.630" style="s2">like an<span style="s4"> accurate</span> measure<span style="s4"> of</span> the</p>
+<p begin="00:30:36.560" end="00:30:41.360" style="s2">population as a whole<span style="s4"> so</span> there was</p>
+<p begin="00:30:38.630" end="00:30:42.200" style="s2"><span style="s4">someone</span> in that in certain<span style="s3"> kumo</span> maybe</p>
+<p begin="00:30:41.360" end="00:30:44.300" style="s2"><span style="s4">isn&#39;t</span> represented</p>
+<p begin="00:30:42.200" end="00:30:46.310" style="s2">of the pool overall we would<span style="s3"> hope</span> that</p>
+<p begin="00:30:44.300" end="00:30:48.500" style="s2">that<span style="s3"> ACS weight would account for not</span></p>
+<p begin="00:30:46.310" end="00:30:52.880" style="s2"><span style="s4">taking</span> that person to be representative</p>
+<p begin="00:30:48.500" end="00:30:54.440" style="s2">of the<span style="s3"> whole</span><span style="s4"> geographic</span> area you spoke</p>
+<p begin="00:30:52.880" end="00:30:56.480" style="s2">during the presentation<span style="s3"> about</span> different</p>
+<p begin="00:30:54.440" end="00:30:57.860" style="s2">pieces<span style="s4"> of information</span><span style="s3"> that you delivered</span></p>
+<p begin="00:30:56.480" end="00:31:00.200" style="s2">to<span style="s3"> the client as well</span> as different</p>
+<p begin="00:30:57.860" end="00:31:02.960" style="s2">recommendations<span style="s4"> and</span> one of the major</p>
+<p begin="00:31:00.200" end="00:31:06.500" style="s2">questions<span style="s4"> with</span> different data science</p>
+<p begin="00:31:02.960" end="00:31:09.350" style="s2">firms is where do you<span style="s4"> lie</span> along the line</p>
+<p begin="00:31:06.500" end="00:31:10.850" style="s2">between delivering their<span style="s4"> information</span></p>
+<p begin="00:31:09.350" end="00:31:12.410" style="s2">from your models and delivering</p>
+<p begin="00:31:10.850" end="00:31:14.060" style="s2">recommendations for action</p>
+<p begin="00:31:12.410" end="00:31:15.740" style="s2">so I guess speaking more<span style="s3"> generally</span></p>
+<p begin="00:31:14.060" end="00:31:18.230" style="s2">beyond the scope of this project<span style="s4"> where</span></p>
+<p begin="00:31:15.740" end="00:31:20.600" style="s2">does civis<span style="s4"> or</span> the applied team I<span style="s4"> should</span></p>
+<p begin="00:31:18.230" end="00:31:22.430" style="s2">say in<span style="s4"> service</span> usually<span style="s4"> find</span> itself<span style="s4"> along</span></p>
+<p begin="00:31:20.600" end="00:31:24.710" style="s2">that scale from<span style="s4"> information</span> the</p>
+<p begin="00:31:22.430" end="00:31:25.070" style="s2">recommendations<span style="s4"> yeah</span> that&#39;s a good</p>
+<p begin="00:31:24.710" end="00:31:27.170" style="s2">question</p>
+<p begin="00:31:25.070" end="00:31:29.330" style="s2">um<span style="s3"> I</span><span style="s4"> think</span> it depends a little bit on</p>
+<p begin="00:31:27.170" end="00:31:30.770" style="s2"><span style="s4">where</span> the client comes<span style="s3"> in</span><span style="s4"> to</span> you like</p>
+<p begin="00:31:29.330" end="00:31:33.770" style="s2">kind<span style="s3"> of</span> the level<span style="s3"> that</span> they&#39;re at and</p>
+<p begin="00:31:30.770" end="00:31:35.180" style="s2"><span style="s4">like</span> at what you know what teams and</p>
+<p begin="00:31:33.770" end="00:31:36.470" style="s2">what capability they have to use kind<span style="s4"> of</span></p>
+<p begin="00:31:35.180" end="00:31:39.920" style="s2">raw data if you were to<span style="s4"> deliver</span> it<span style="s4"> to</span></p>
+<p begin="00:31:36.470" end="00:31:41.450" style="s2">them so<span style="s3"> Robinson&#39;s</span> working with another</p>
+<p begin="00:31:39.920" end="00:31:42.830" style="s2">firm that&#39;s going to be like<span style="s4"> that</span> is</p>
+<p begin="00:31:41.450" end="00:31:45.230" style="s2">using<span style="s4"> software&#39;s</span> on the ground and<span style="s3"> is</span></p>
+<p begin="00:31:42.830" end="00:31:46.880" style="s2"><span style="s4">measuring</span> actual field contacts so they</p>
+<p begin="00:31:45.230" end="00:31:48.980" style="s2">wanted<span style="s4"> to</span> use a lot<span style="s3"> of</span><span style="s4"> these actual</span></p>
+<p begin="00:31:46.880" end="00:31:50.780" style="s2">literal numbers of like<span style="s4"> our</span> estimated</p>
+<p begin="00:31:48.980" end="00:31:53.240" style="s2">participation rates in<span style="s4"> these area so</span></p>
+<p begin="00:31:50.780" end="00:31:55.220" style="s2">they were delivered like a file<span style="s4"> of</span> those</p>
+<p begin="00:31:53.240" end="00:31:57.350" style="s2">things as well<span style="s4"> as</span> we did<span style="s3"> a</span> bunch<span style="s4"> of</span></p>
+<p begin="00:31:55.220" end="00:31:58.820" style="s2">presentations and readouts<span style="s3"> to</span><span style="s4"> kind</span><span style="s3"> of</span></p>
+<p begin="00:31:57.350" end="00:31:59.930" style="s2">like the management&#39;s the management</p>
+<p begin="00:31:58.820" end="00:32:01.910" style="s2">team<span style="s4"> there</span> and<span style="s3"> their</span> partner</p>
+<p begin="00:31:59.930" end="00:32:03.350" style="s2">organizations and<span style="s4"> that</span> was less giving</p>
+<p begin="00:32:01.910" end="00:32:04.760" style="s2">them<span style="s4"> kind</span><span style="s3"> of</span><span style="s4"> the</span> raw file and telling</p>
+<p begin="00:32:03.350" end="00:32:06.620" style="s2">them more about choose your target</p>
+<p begin="00:32:04.760" end="00:32:08.390" style="s2"><span style="s3">hotspots here&#39;s why</span><span style="s4"> we</span><span style="s3"> think that is and</span></p>
+<p begin="00:32:06.620" end="00:32:10.850" style="s2">then maybe the numbers we<span style="s4"> would</span> include</p>
+<p begin="00:32:08.390" end="00:32:12.620" style="s2">would be those<span style="s4"> citywide</span> 79 and 83</p>
+<p begin="00:32:10.850" end="00:32:15.920" style="s2">percent<span style="s3"> that&#39;s</span><span style="s4"> all right</span></p>
+<p begin="00:32:12.620" end="00:32:17.210" style="s2">those<span style="s4"> numbers</span> so it&#39;s a little<span style="s4"> bit</span> about</p>
+<p begin="00:32:15.920" end="00:32:19.100" style="s2">like where the client comes<span style="s3"> to</span> you and</p>
+<p begin="00:32:17.210" end="00:32:20.990" style="s2"><span style="s4">also</span><span style="s3"> it&#39;s about</span><span style="s4"> it&#39;s</span> like<span style="s4"> about</span> how</p>
+<p begin="00:32:19.100" end="00:32:22.880" style="s2">confident we are in what we&#39;re actually</p>
+<p begin="00:32:20.990" end="00:32:24.020" style="s2">providing<span style="s4"> so</span> with the Puma level</p>
+<p begin="00:32:22.880" end="00:32:25.370" style="s2">estimates<span style="s4"> we</span> would felt comfortable</p>
+<p begin="00:32:24.020" end="00:32:26.750" style="s2"><span style="s4">giving</span> them like here&#39;s your estimates</p>
+<p begin="00:32:25.370" end="00:32:28.850" style="s2">of participation<span style="s4"> rates</span> in<span style="s3"> these</span> areas</p>
+<p begin="00:32:26.750" end="00:32:30.650" style="s2">with<span style="s4"> the</span> track level estimate because<span style="s4"> of</span></p>
+<p begin="00:32:28.850" end="00:32:32.180" style="s2">this process<span style="s3"> and</span> so since<span style="s4"> there</span> was a</p>
+<p begin="00:32:30.650" end="00:32:34.730" style="s2"><span style="s4">little</span> bit more noise<span style="s3"> and</span> it was harder</p>
+<p begin="00:32:32.180" end="00:32:37.730" style="s2"><span style="s3">to</span> validate we kind of<span style="s4"> presented those</span></p>
+<p begin="00:32:34.730" end="00:32:39.020" style="s2">results as<span style="s3"> you</span> know<span style="s3"> well</span> one<span style="s4"> here</span> all</p>
+<p begin="00:32:37.730" end="00:32:41.420" style="s2">the things<span style="s4"> we&#39;re</span> not totally sure<span style="s3"> about</span></p>
+<p begin="00:32:39.020" end="00:32:44.570" style="s2">and here&#39;s<span style="s4"> the</span> approach we took<span style="s4"> and</span> you</p>
+<p begin="00:32:41.420" end="00:32:45.950" style="s2">know here is relative to<span style="s3"> the</span> Puma which</p>
+<p begin="00:32:44.570" end="00:32:47.060" style="s2">areas we think<span style="s4"> are</span> going to be targets</p>
+<p begin="00:32:45.950" end="00:32:48.830" style="s2"><span style="s3">for</span> you so we presented<span style="s3"> that</span> as a</p>
+<p begin="00:32:47.060" end="00:32:50.360" style="s2">difference from<span style="s4"> the</span> Puma overall but we</p>
+<p begin="00:32:48.830" end="00:32:51.950" style="s2">didn&#39;t give them<span style="s4"> like</span> a<span style="s3"> round</span> number for</p>
+<p begin="00:32:50.360" end="00:32:53.750" style="s2">each tract<span style="s4"> just</span> because those weren&#39;t</p>
+<p begin="00:32:51.950" end="00:32:55.310" style="s2">numbers we<span style="s4"> thought</span> we could validate<span style="s3"> and</span></p>
+<p begin="00:32:53.750" end="00:32:56.060" style="s2">be super confident in but we could tell</p>
+<p begin="00:32:55.310" end="00:32:58.340" style="s2"><span style="s4">them</span> a general</p>
+<p begin="00:32:56.060" end="00:32:59.330" style="s2">trend of you know here&#39;s where<span style="s4"> we</span> think</p>
+<p begin="00:32:58.340" end="00:33:02.720" style="s2"><span style="s3">within</span> this neighborhood you should</p>
+<p begin="00:32:59.330" end="00:33:05.480" style="s2">focus<span style="s3"> so</span> I guess to summarize<span style="s3"> my</span> answer</p>
+<p begin="00:33:02.720" end="00:33:07.220" style="s2">is<span style="s3"> well</span> it&#39;s kind of like for<span style="s4"> the</span></p>
+<p begin="00:33:05.480" end="00:33:08.330" style="s2">applied team generally as<span style="s4"> we</span> try<span style="s4"> to</span></p>
+<p begin="00:33:07.220" end="00:33:10.880" style="s2">present<span style="s4"> things</span> that are gonna be<span style="s3"> useful</span></p>
+<p begin="00:33:08.330" end="00:33:12.320" style="s2">to our<span style="s4"> client like as we deliver them</span> so</p>
+<p begin="00:33:10.880" end="00:33:14.450" style="s2">we<span style="s4"> don&#39;t</span> want<span style="s4"> to</span> give them a raw<span style="s4"> data</span></p>
+<p begin="00:33:12.320" end="00:33:15.140" style="s2"><span style="s4">file</span> they can&#39;t use it<span style="s4"> and too we want</span></p>
+<p begin="00:33:14.450" end="00:33:16.640" style="s2"><span style="s3">to</span> make<span style="s3"> sure</span> that we&#39;re totally</p>
+<p begin="00:33:15.140" end="00:33:18.050" style="s2"><span style="s4">confident in the stuff that we&#39;re giving</span></p>
+<p begin="00:33:16.640" end="00:33:20.150" style="s2">them so we<span style="s4"> don&#39;t</span> want<span style="s4"> to</span> give them</p>
+<p begin="00:33:18.050" end="00:33:22.610" style="s2">numbers<span style="s4"> we</span> think are wrong we want to</p>
+<p begin="00:33:20.150" end="00:33:24.140" style="s2">give them kind<span style="s4"> of</span> like<span style="s4"> our</span> understanding</p>
+<p begin="00:33:22.610" end="00:33:28.850" style="s2"><span style="s4">of</span> the most<span style="s3"> accurate</span> picture<span style="s4"> of the</span></p>
+<p begin="00:33:24.140" end="00:33:29.660" style="s2"><span style="s3">neighborhood&#39;s</span> they&#39;re working in all</p>
+<p begin="00:33:28.850" end="00:33:33.200" style="s2"><span style="s4">right well I think that&#39;s all we</span><span style="s3"> have</span></p>
+<p begin="00:33:29.660" end="00:33:36.299" style="s2">time for<span style="s4"> so</span> thank<span style="s4"> you</span><span style="s3"> very</span> much</p>
+<p begin="00:33:33.200" end="00:33:36.299" style="s2">[Applause]</p>
+<p begin="00:33:36.700" end="00:33:41.490" style="s2"><span style="s4">okay</span></p>
+<p begin="00:33:38.330" end="00:33:41.490" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

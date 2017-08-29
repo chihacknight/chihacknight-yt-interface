@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.549" end="00:00:10.920" style="s2">so this is<span style="s3"> a</span> project<span style="s4"> we</span> worked on with a</p>
+<p begin="00:00:09.179" end="00:00:15.150" style="s2">couple people<span style="s3"> that</span> are in the<span style="s4"> room</span> here</p>
+<p begin="00:00:10.920" end="00:00:16.680" style="s2">Tom shank and and Kevin<span style="s4"> over</span> there so</p>
+<p begin="00:00:15.150" end="00:00:20.279" style="s2">it&#39;s got to<span style="s3"> go</span> quickly well it&#39;s<span style="s3"> it</span> kind</p>
+<p begin="00:00:16.680" end="00:00:26.160" style="s2">of an involved project but it started</p>
+<p begin="00:00:20.279" end="00:00:29.609" style="s2">out looking at the ecole I levels in</p>
+<p begin="00:00:26.160" end="00:00:31.529" style="s2">Chicago beaches and here&#39;s an image of</p>
+<p begin="00:00:29.609" end="00:00:34.620" style="s2">the website where<span style="s3"> the</span> predictions are</p>
+<p begin="00:00:31.529" end="00:00:37.469" style="s2">and<span style="s3"> notice</span> that<span style="s4"> sometimes</span> there&#39;s a</p>
+<p begin="00:00:34.620" end="00:00:40.469" style="s2">restriction they set that<span style="s4"> restriction</span> if</p>
+<p begin="00:00:37.469" end="00:00:43.230" style="s2">it&#39;s above it to 35 that it has to do</p>
+<p begin="00:00:40.469" end="00:00:45.870" style="s2">with the levels of e.coli that are there</p>
+<p begin="00:00:43.230" end="00:00:47.550" style="s2">so they warned sometimes they&#39;re correct</p>
+<p begin="00:00:45.870" end="00:00:51.000" style="s2">in the warning sometimes incorrect and</p>
+<p begin="00:00:47.550" end="00:00:55.020" style="s2">these are the results<span style="s4"> from</span> 2015 4 20</p>
+<p begin="00:00:51.000" end="00:00:57.420" style="s2">beaches in<span style="s4"> Chicago</span> and they&#39;re missing a</p>
+<p begin="00:00:55.020" end="00:01:01.020" style="s2">lot oops missing a lot of<span style="s4"> the</span> warnings</p>
+<p begin="00:00:57.420" end="00:01:03.780" style="s2">so their system<span style="s3"> of</span> monitoring you see</p>
+<p begin="00:01:01.020" end="00:01:06.750" style="s2">the measured in black and the predicted</p>
+<p begin="00:01:03.780" end="00:01:09.030" style="s2"><span style="s4">and</span> a lot<span style="s3"> of</span> it is these quick spikes</p>
+<p begin="00:01:06.750" end="00:01:10.590" style="s2">and it&#39;s very difficult to predict<span style="s3"> that</span></p>
+<p begin="00:01:09.030" end="00:01:13.110" style="s2">you can&#39;t certainly can&#39;t use</p>
+<p begin="00:01:10.590" end="00:01:14.520" style="s2">yesterday&#39;s e.coli to predict today&#39;s</p>
+<p begin="00:01:13.110" end="00:01:16.259" style="s2">but that&#39;s<span style="s4"> really</span> what they&#39;re stuck</p>
+<p begin="00:01:14.520" end="00:01:18.689" style="s2">with because today&#39;s reading won&#39;t get</p>
+<p begin="00:01:16.259" end="00:01:21.330" style="s2">back from the lab until 24 hours<span style="s4"> away</span></p>
+<p begin="00:01:18.689" end="00:01:24.420" style="s2"><span style="s4">and</span> so this<span style="s3"> is</span> a looking at the current</p>
+<p begin="00:01:21.330" end="00:01:25.710" style="s2"><span style="s4">model</span> and I<span style="s4"> don&#39;t</span> want to spend<span style="s4"> too</span> much</p>
+<p begin="00:01:24.420" end="00:01:28.080" style="s2">time because I only have two<span style="s4"> minutes</span> but</p>
+<p begin="00:01:25.710" end="00:01:30.840" style="s2">talking<span style="s4"> about</span><span style="s3"> the</span> model<span style="s3"> and</span> how we did</p>
+<p begin="00:01:28.080" end="00:01:32.490" style="s2">it using<span style="s4"> random</span><span style="s3"> forest</span><span style="s4"> and</span> gradient</p>
+<p begin="00:01:30.840" end="00:01:35.100" style="s2">boosting and you can look that up to</p>
+<p begin="00:01:32.490" end="00:01:39.000" style="s2"><span style="s4">know</span> more about it<span style="s3"> but</span> we ended up<span style="s3"> doing</span></p>
+<p begin="00:01:35.100" end="00:01:40.740" style="s2">a Samba love both of those methods</p>
+<p begin="00:01:39.000" end="00:01:42.270" style="s2">because at first I wanted<span style="s4"> to</span> see which</p>
+<p begin="00:01:40.740" end="00:01:45.600" style="s2"><span style="s3">one</span> worked better and then ended up</p>
+<p begin="00:01:42.270" end="00:01:48.570" style="s2">using them both sort of comparing them</p>
+<p begin="00:01:45.600" end="00:01:52.619" style="s2">just looking at montrose data and seeing</p>
+<p begin="00:01:48.570" end="00:01:54.170" style="s2">it with the models that we built at</p>
+<p begin="00:01:52.619" end="00:01:57.329" style="s2">leaving<span style="s4"> one</span> year out and building</p>
+<p begin="00:01:54.170" end="00:02:00.750" style="s2">building nine different models what was</p>
+<p begin="00:01:57.329" end="00:02:03.689" style="s2">the spread in those predictions and in</p>
+<p begin="00:02:00.750" end="00:02:05.520" style="s2">the<span style="s3"> end</span> oh that&#39;s awful it did not<span style="s4"> turn</span></p>
+<p begin="00:02:03.689" end="00:02:08.160" style="s2">out the way it should<span style="s3"> have</span> on that<span style="s3"> slide</span></p>
+<p begin="00:02:05.520" end="00:02:11.300" style="s2">but I was trying<span style="s3"> to</span><span style="s4"> explain</span> how it was</p>
+<p begin="00:02:08.160" end="00:02:13.830" style="s2">all combining the ensemble of ensembles</p>
+<p begin="00:02:11.300" end="00:02:17.910" style="s2">but we&#39;ll just<span style="s3"> cut</span> to the</p>
+<p begin="00:02:13.830" end="00:02:19.650" style="s2">at the end result you<span style="s3"> could</span> see<span style="s4"> that it</span></p>
+<p begin="00:02:17.910" end="00:02:22.770" style="s2">does better than the current model<span style="s4"> it</span></p>
+<p begin="00:02:19.650" end="00:02:25.620" style="s2">just based on last year&#39;s 2015 but it</p>
+<p begin="00:02:22.770" end="00:02:27.750" style="s2">could probably do better<span style="s3"> I&#39;ll</span><span style="s4"> skip</span> ahead</p>
+<p begin="00:02:25.620" end="00:02:29.940" style="s2">looking at the beaches that have very</p>
+<p begin="00:02:27.750" end="00:02:32.940" style="s2"><span style="s4">few</span> exceedances and the ones that have</p>
+<p begin="00:02:29.940" end="00:02:35.940" style="s2">many exceedances and and we could add</p>
+<p begin="00:02:32.940" end="00:02:40.080" style="s2">more<span style="s3"> things</span> into the model one thing<span style="s3"> is</span></p>
+<p begin="00:02:35.940" end="00:02:41.930" style="s2"><span style="s3">the</span> size of<span style="s4"> the</span> beach you the<span style="s3"> sum</span> of<span style="s4"> the</span></p>
+<p begin="00:02:40.080" end="00:02:44.880" style="s2">things<span style="s3"> that</span> would got left out also</p>
+<p begin="00:02:41.930" end="00:02:46.920" style="s2">noticing it where the angle of the the</p>
+<p begin="00:02:44.880" end="00:02:49.770" style="s2">shoreline is that wasn&#39;t in the model so</p>
+<p begin="00:02:46.920" end="00:02:52.170" style="s2">things can be improved still but it was</p>
+<p begin="00:02:49.770" end="00:02:55.650" style="s2"><span style="s4">encouraging</span> that we did do better than</p>
+<p begin="00:02:52.170" end="00:02:57.959" style="s2">what what they had as their results from</p>
+<p begin="00:02:55.650" end="00:03:02.690" style="s2">2015 but we&#39;ll see how 2016 goes that&#39;s</p>
+<p begin="00:02:57.959" end="00:03:02.690" style="s2">the real test anyway thank<span style="s4"> you</span></p>
+</div>
+</body>
+</tt>

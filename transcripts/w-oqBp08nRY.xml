@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.430" end="00:00:10.290" style="s2">my name is<span style="s3"> Stephen</span> Vance about 14 weeks</p>
+<p begin="00:00:07.049" end="00:00:11.880" style="s2">ago I decided to move to<span style="s4"> the</span> netherlands</p>
+<p begin="00:00:10.290" end="00:00:13.830" style="s2">for three months is a picture<span style="s4"> of me and</span></p>
+<p begin="00:00:11.880" end="00:00:16.020" style="s2"><span style="s4">my</span> sister saying goodbye at a party at</p>
+<p begin="00:00:13.830" end="00:00:18.180" style="s2"><span style="s4">jack&#39;s</span> tap and then there&#39;s a the</p>
+<p begin="00:00:16.020" end="00:00:21.270" style="s2">airport in amsterdam and my three bags</p>
+<p begin="00:00:18.180" end="00:00:23.519" style="s2">that I brought with me this is my</p>
+<p begin="00:00:21.270" end="00:00:26.580" style="s2">bicycle<span style="s4"> and</span> this is the canal on which I</p>
+<p begin="00:00:23.519" end="00:00:28.470" style="s2">lived for<span style="s4"> three</span> months and this is the</p>
+<p begin="00:00:26.580" end="00:00:30.630" style="s2">train station I got to ride my bike to</p>
+<p begin="00:00:28.470" end="00:00:33.510" style="s2">every day and on this special day may</p>
+<p begin="00:00:30.630" end="00:00:35.190" style="s2">18th I wrote<span style="s3"> to</span> the train station and<span style="s3"> I</span></p>
+<p begin="00:00:33.510" end="00:00:37.110" style="s2">went<span style="s4"> to</span> the city called you tricked and</p>
+<p begin="00:00:35.190" end="00:00:39.660" style="s2">so here are some<span style="s4"> three</span> photos of this</p>
+<p begin="00:00:37.110" end="00:00:41.790" style="s2"><span style="s3">beautiful</span> city and who trekked or who</p>
+<p begin="00:00:39.660" end="00:00:43.350" style="s2">trekked and i went to<span style="s4"> the</span> university</p>
+<p begin="00:00:41.790" end="00:00:46.289" style="s2">there because we were having a mapathon</p>
+<p begin="00:00:43.350" end="00:00:48.120" style="s2">or the<span style="s4"> Dutch</span> Red Cross was having a</p>
+<p begin="00:00:46.289" end="00:00:50.820" style="s2">mapathon and we&#39;re going to map a</p>
+<p begin="00:00:48.120" end="00:00:54.300" style="s2">country called benin how many<span style="s4"> of</span> you</p>
+<p begin="00:00:50.820" end="00:01:01.500" style="s2">have<span style="s4"> heard of Benin I had not</span><span style="s3"> heard of</span></p>
+<p begin="00:00:54.300" end="00:01:08.010" style="s2">it so uh it&#39;s like it&#39;s oh well I<span style="s3"> have</span> a</p>
+<p begin="00:01:01.500" end="00:01:10.380" style="s2">map of where it is so it&#39;s next to</p>
+<p begin="00:01:08.010" end="00:01:13.650" style="s2">Nigeria<span style="s4"> and</span> between Nigeria and Ghana in</p>
+<p begin="00:01:10.380" end="00:01:15.000" style="s2">Africa and here&#39;s a crowd of people who</p>
+<p begin="00:01:13.650" end="00:01:17.970" style="s2">also came to<span style="s3"> the</span> mapathon they were</p>
+<p begin="00:01:15.000" end="00:01:20.189" style="s2">mostly Jia geography students at the</p>
+<p begin="00:01:17.970" end="00:01:22.950" style="s2">University of Utrecht and there&#39;s a</p>
+<p begin="00:01:20.189" end="00:01:25.409" style="s2">picture<span style="s4"> of me in the front</span> um and so<span style="s4"> at</span></p>
+<p begin="00:01:22.950" end="00:01:27.540" style="s2">this while we&#39;re sitting here someone</p>
+<p begin="00:01:25.409" end="00:01:29.460" style="s2"><span style="s4">from</span> the Dutch Red Cross<span style="s3"> is</span> explaining</p>
+<p begin="00:01:27.540" end="00:01:31.320" style="s2">why we&#39;re going<span style="s4"> to</span> map<span style="s4"> banan</span> because</p>
+<p begin="00:01:29.460" end="00:01:32.909" style="s2">they&#39;ve been<span style="s4"> doing</span> work there it floods</p>
+<p begin="00:01:31.320" end="00:01:34.979" style="s2">frequently<span style="s4"> there sometimes those floods</span></p>
+<p begin="00:01:32.909" end="00:01:36.689" style="s2">are really bad and so a lot<span style="s4"> of</span><span style="s3"> people</span></p>
+<p begin="00:01:34.979" end="00:01:40.259" style="s2">are displaced and so they want to<span style="s4"> know</span></p>
+<p begin="00:01:36.689" end="00:01:42.329" style="s2">where homes are and so this<span style="s4"> is</span> a</p>
+<p begin="00:01:40.259" end="00:01:45.060" style="s2">screenshot of<span style="s4"> Apple</span> maps satellite view</p>
+<p begin="00:01:42.329" end="00:01:47.759" style="s2">this is just<span style="s3"> showing</span> like where people</p>
+<p begin="00:01:45.060" end="00:01:50.490" style="s2">are living this is where the Dutch Red</p>
+<p begin="00:01:47.759" end="00:01:53.540" style="s2">Cross has their headquarters are sorry</p>
+<p begin="00:01:50.490" end="00:01:55.710" style="s2">the Benin Red Cross has its headquarters</p>
+<p begin="00:01:53.540" end="00:02:00.090" style="s2">here&#39;s a picture of<span style="s4"> what</span> it looks like</p>
+<p begin="00:01:55.710" end="00:02:01.530" style="s2">when it&#39;s about<span style="s4"> to</span><span style="s3"> flood</span> and I didn&#39;t do</p>
+<p begin="00:02:00.090" end="00:02:03.840" style="s2">much mapping because I don&#39;t ended up</p>
+<p begin="00:02:01.530" end="00:02:05.100" style="s2">just helping people learn how to map and</p>
+<p begin="00:02:03.840" end="00:02:07.320" style="s2">I kind of figured that was going to</p>
+<p begin="00:02:05.100" end="00:02:08.849" style="s2">happen because I didn&#39;t there were 150</p>
+<p begin="00:02:07.320" end="00:02:10.709" style="s2">people there<span style="s4"> and</span> only<span style="s4"> about</span> 10 people</p>
+<p begin="00:02:08.849" end="00:02:13.650" style="s2">who actually knew how to do it really</p>
+<p begin="00:02:10.709" end="00:02:13.860" style="s2">well and then on that big screen they</p>
+<p begin="00:02:13.650" end="00:02:17.400" style="s2">were</p>
+<p begin="00:02:13.860" end="00:02:20.330" style="s2">I&#39;m done here it is hahahahaha this is</p>
+<p begin="00:02:17.400" end="00:02:20.330" style="s2">the<span style="s3"> progress</span> we made</p>
+</div>
+</body>
+</tt>

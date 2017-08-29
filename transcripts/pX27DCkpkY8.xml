@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:10.170" style="s2">I would like<span style="s3"> to</span><span style="s4"> thank</span> you for your</p>
+<p begin="00:00:06.839" end="00:00:16.130" style="s2">patience this is<span style="s4"> not</span> meant<span style="s4"> to</span> be in any</p>
+<p begin="00:00:10.170" end="00:00:18.869" style="s2"><span style="s4">way</span> academic but up please bear with me</p>
+<p begin="00:00:16.130" end="00:00:22.080" style="s2">well I&#39;m just<span style="s3"> going</span><span style="s4"> to</span> try<span style="s3"> to</span> give a</p>
+<p begin="00:00:18.869" end="00:00:23.490" style="s2">feel of what it&#39;s like<span style="s4"> to</span> just be up</p>
+<p begin="00:00:22.080" end="00:00:25.710" style="s2">here and<span style="s4"> answer</span> questions as a code</p>
+<p begin="00:00:23.490" end="00:00:28.890" style="s2">clinic something I<span style="s3"> just</span> stepped into it</p>
+<p begin="00:00:25.710" end="00:00:30.330" style="s2">feels like one big question I get all</p>
+<p begin="00:00:28.890" end="00:00:33.780" style="s2">the times how much does this stuff is</p>
+<p begin="00:00:30.330" end="00:00:36.719" style="s2">free that was the most direct question I</p>
+<p begin="00:00:33.780" end="00:00:38.489" style="s2">have ever gotten and I can&#39;t<span style="s4"> really</span></p>
+<p begin="00:00:36.719" end="00:00:39.989" style="s2">answer that myself that seems to<span style="s4"> be</span></p>
+<p begin="00:00:38.489" end="00:00:42.750" style="s2">something that&#39;s<span style="s4"> always</span> changing and</p>
+<p begin="00:00:39.989" end="00:00:44.149" style="s2">gets ever more complex is how much<span style="s3"> of</span></p>
+<p begin="00:00:42.750" end="00:00:46.620" style="s2">this stuff is free a lot of this</p>
+<p begin="00:00:44.149" end="00:00:48.809" style="s2">software<span style="s3"> is</span> built up<span style="s4"> on</span> the work of</p>
+<p begin="00:00:46.620" end="00:00:51.930" style="s2">others before that came before that</p>
+<p begin="00:00:48.809" end="00:00:54.539" style="s2">person key before that person either way</p>
+<p begin="00:00:51.930" end="00:00:56.610" style="s2">when I came in about a hundred hack</p>
+<p begin="00:00:54.539" end="00:01:00.899" style="s2">nights ago I was intrigued and I stayed</p>
+<p begin="00:00:56.610" end="00:01:03.120" style="s2">on for example its box that can talk</p>
+<p begin="00:01:00.899" end="00:01:04.619" style="s2">back<span style="s3"> to</span> ignorance that&#39;s Kevin right</p>
+<p begin="00:01:03.120" end="00:01:06.180" style="s2">there it&#39;s just it&#39;s just one of<span style="s4"> the</span></p>
+<p begin="00:01:04.619" end="00:01:09.030" style="s2">things<span style="s3"> that</span> I think<span style="s3"> about</span> how people</p>
+<p begin="00:01:06.180" end="00:01:10.500" style="s2">come in with fresh ideas and and things</p>
+<p begin="00:01:09.030" end="00:01:11.939" style="s2">like<span style="s3"> this</span> stick around and stay in the</p>
+<p begin="00:01:10.500" end="00:01:15.090" style="s2"><span style="s4">atmosphere</span><span style="s3"> and</span> I really like<span style="s3"> that</span> kind</p>
+<p begin="00:01:11.939" end="00:01:19.740" style="s2">of thing I could kind<span style="s4"> of</span> explain<span style="s3"> this</span></p>
+<p begin="00:01:15.090" end="00:01:21.119" style="s2">one had a person come in and just had</p>
+<p begin="00:01:19.740" end="00:01:24.390" style="s2">this kind<span style="s4"> of</span> joke that I was<span style="s4"> on</span> their</p>
+<p begin="00:01:21.119" end="00:01:25.530" style="s2">understanding at all about<span style="s4"> I</span> want<span style="s4"> to</span> try</p>
+<p begin="00:01:24.390" end="00:01:27.000" style="s2"><span style="s4">to</span> it wouldn&#39;t<span style="s3"> be</span> really funny if I</p>
+<p begin="00:01:25.530" end="00:01:28.380" style="s2">replace all the text here because i read</p>
+<p begin="00:01:27.000" end="00:01:31.470" style="s2">somewhere in<span style="s4"> the huffington post that</span></p>
+<p begin="00:01:28.380" end="00:01:33.630" style="s2">somebody made a comparison of research</p>
+<p begin="00:01:31.470" end="00:01:35.670" style="s2"><span style="s3">studies</span> have said more people see have</p>
+<p begin="00:01:33.630" end="00:01:37.710" style="s2">claimed<span style="s3"> to</span> seen a paranormal the</p>
+<p begin="00:01:35.670" end="00:01:40.680" style="s2">paranormal as opposed to<span style="s4"> a</span> trans person</p>
+<p begin="00:01:37.710" end="00:01:44.070" style="s2">so it you know it took me<span style="s4"> a while to</span></p>
+<p begin="00:01:40.680" end="00:01:46.170" style="s2"><span style="s4">just</span> get the joke<span style="s4"> out but once we once</span></p>
+<p begin="00:01:44.070" end="00:01:48.780" style="s2">we saw that<span style="s3"> the</span> text parser on like</p>
+<p begin="00:01:46.170" end="00:01:52.049" style="s2">unlike<span style="s4"> a web page</span> we were we were we had</p>
+<p begin="00:01:48.780" end="00:01:55.619" style="s2">a laugh and but it was it&#39;s it&#39;s<span style="s3"> great</span></p>
+<p begin="00:01:52.049" end="00:02:00.960" style="s2">to see the diversity of people who come</p>
+<p begin="00:01:55.619" end="00:02:03.689" style="s2">in I&#39;ve there&#39;s also other people that</p>
+<p begin="00:02:00.960" end="00:02:05.399" style="s2">come in and and try to pick stuff up</p>
+<p begin="00:02:03.689" end="00:02:07.560" style="s2">like this<span style="s4"> even though they tried</span><span style="s3"> to</span></p>
+<p begin="00:02:05.399" end="00:02:08.970" style="s2">learn this in the past okay i have<span style="s4"> my</span></p>
+<p begin="00:02:07.560" end="00:02:11.610" style="s2">computers messed up<span style="s4"> from</span> like<span style="s4"> eight</span></p>
+<p begin="00:02:08.970" end="00:02:12.860" style="s2">months ago<span style="s4"> but</span> can you can<span style="s4"> you</span> help me</p>
+<p begin="00:02:11.610" end="00:02:15.920" style="s2">just kind<span style="s4"> of</span></p>
+<p begin="00:02:12.860" end="00:02:18.170" style="s2">saw this thing yeah sure everyone should</p>
+<p begin="00:02:15.920" end="00:02:22.160" style="s2">try<span style="s3"> and</span> keep trying<span style="s4"> again</span> to<span style="s4"> learn</span> this</p>
+<p begin="00:02:18.170" end="00:02:25.010" style="s2">stuff i mean i have been<span style="s4"> here</span> for you</p>
+<p begin="00:02:22.160" end="00:02:27.110" style="s2">know maybe a couple years now and and I</p>
+<p begin="00:02:25.010" end="00:02:32.870" style="s2">could say without a doubt<span style="s4"> that</span> I&#39;m very</p>
+<p begin="00:02:27.110" end="00:02:35.600" style="s2">close<span style="s3"> to</span> building something all right so</p>
+<p begin="00:02:32.870" end="00:02:37.010" style="s2">yeah all these things are you<span style="s3"> know</span> still</p>
+<p begin="00:02:35.600" end="00:02:40.340" style="s2"><span style="s4">trying</span> to answer that question of is it</p>
+<p begin="00:02:37.010" end="00:02:42.530" style="s2">free uh again work that&#39;s been done by</p>
+<p begin="00:02:40.340" end="00:02:45.200" style="s2">others up before before we get here</p>
+<p begin="00:02:42.530" end="00:02:51.130" style="s2">Python Ruby<span style="s4"> JavaScript</span> Carly be all</p>
+<p begin="00:02:45.200" end="00:02:58.280" style="s2">these mapmaking map facilitating things</p>
+<p begin="00:02:51.130" end="00:03:00.920" style="s2">Ruby on Rails and get it<span style="s4"> always</span> seems to</p>
+<p begin="00:02:58.280" end="00:03:03.860" style="s2">come up every time as I think it should</p>
+<p begin="00:03:00.920" end="00:03:07.459" style="s2">I&#39;ll just put up something get log</p>
+<p begin="00:03:03.860" end="00:03:11.330" style="s2">reverse put it in there see who started</p>
+<p begin="00:03:07.459" end="00:03:13.480" style="s2">the project and go talk to them thank</p>
+<p begin="00:03:11.330" end="00:03:13.480" style="s2">you</p>
+</div>
+</body>
+</tt>

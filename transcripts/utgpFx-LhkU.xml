@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.120" end="00:00:15.719" style="s2">yep that&#39;s me<span style="s3"> that&#39;s</span> me and all<span style="s3"> my</span> glory</p>
+<p begin="00:00:08.599" end="00:00:21.330" style="s2"><span style="s3">I</span> am<span style="s4"> an</span> accidental<span style="s4"> health</span> preneur now I</p>
+<p begin="00:00:15.719" end="00:00:25.050" style="s2">say that<span style="s3"> because</span><span style="s4"> I</span> actually was gonna be</p>
+<p begin="00:00:21.330" end="00:00:28.109" style="s2">a health entrepreneur in my life I&#39;ve</p>
+<p begin="00:00:25.050" end="00:00:32.899" style="s2">been<span style="s4"> a</span> ton of things<span style="s4"> I&#39;ve</span> been a chemist</p>
+<p begin="00:00:28.109" end="00:00:36.450" style="s2"><span style="s3">I&#39;ve</span> been an investor<span style="s3"> I&#39;ve</span> been an</p>
+<p begin="00:00:32.899" end="00:00:39.090" style="s2">innovator<span style="s3"> I&#39;ve</span> been a delegate at the</p>
+<p begin="00:00:36.450" end="00:00:44.160" style="s2"><span style="s4">White House you don&#39;t find me there much</span></p>
+<p begin="00:00:39.090" end="00:00:45.989" style="s2"><span style="s4">anymore but I was there and I was even</span></p>
+<p begin="00:00:44.160" end="00:00:49.350" style="s2">in Southeast Asia protecting the</p>
+<p begin="00:00:45.989" end="00:00:52.260" style="s2">Sumatran rhino<span style="s4"> from</span><span style="s3"> extinction</span> which is</p>
+<p begin="00:00:49.350" end="00:00:57.930" style="s2">a tall order<span style="s3"> and I&#39;m</span><span style="s4"> very</span> short so it</p>
+<p begin="00:00:52.260" end="00:01:01.489" style="s2">was tough fighting<span style="s4"> palm oil so I have a</span></p>
+<p begin="00:00:57.930" end="00:01:05.820" style="s2">habit<span style="s4"> of doing the impossible and</span></p>
+<p begin="00:01:01.489" end="00:01:11.010" style="s2">creating<span style="s4"> awareness</span> around<span style="s3"> those</span> things</p>
+<p begin="00:01:05.820" end="00:01:15.060" style="s2"><span style="s4">that</span> are really not<span style="s4"> obvious</span> and so my</p>
+<p begin="00:01:11.010" end="00:01:18.689" style="s2">journey from college<span style="s4"> and</span> from the last</p>
+<p begin="00:01:15.060" end="00:01:21.210" style="s2">several years<span style="s3"> have</span> taken<span style="s3"> me</span> from<span style="s4"> a</span> place</p>
+<p begin="00:01:18.689" end="00:01:25.350" style="s2">where<span style="s3"> I</span> thought<span style="s4"> I</span> was<span style="s4"> going to do the</span></p>
+<p begin="00:01:21.210" end="00:01:28.890" style="s2">kind of expected thing be a doctor<span style="s4"> like</span></p>
+<p begin="00:01:25.350" end="00:01:30.720" style="s2">my dad and live that dream</p>
+<p begin="00:01:28.890" end="00:01:33.750" style="s2">well I experienced my first</p>
+<p begin="00:01:30.720" end="00:01:35.820" style="s2">entrepreneurial pivot in college and I</p>
+<p begin="00:01:33.750" end="00:01:38.369" style="s2">decided<span style="s3"> that</span><span style="s4"> that</span> wasn&#39;t going<span style="s4"> to be for</span></p>
+<p begin="00:01:35.820" end="00:01:40.049" style="s2">me that I was going<span style="s4"> to</span> go and take<span style="s3"> that</span></p>
+<p begin="00:01:38.369" end="00:01:41.909" style="s2"><span style="s3">chemistry</span> degree<span style="s4"> and actually work for</span></p>
+<p begin="00:01:40.049" end="00:01:45.780" style="s2"><span style="s4">this little company that</span> that made a</p>
+<p begin="00:01:41.909" end="00:01:47.759" style="s2">white powder but I wanted to<span style="s4"> market</span> it</p>
+<p begin="00:01:45.780" end="00:01:50.009" style="s2">internationally<span style="s4"> and</span><span style="s3"> so that&#39;s what I</span><span style="s4"> did</span></p>
+<p begin="00:01:47.759" end="00:01:54.060" style="s2">with both feet<span style="s3"> I</span> convinced<span style="s3"> them</span> to hire</p>
+<p begin="00:01:50.009" end="00:01:56.369" style="s2"><span style="s4">me believe it or</span> not and then I ended up</p>
+<p begin="00:01:54.060" end="00:01:58.829" style="s2">in<span style="s4"> this</span> first-of-its-kind corporate</p>
+<p begin="00:01:56.369" end="00:02:01.560" style="s2">incubator where I was trying<span style="s3"> to</span> replace</p>
+<p begin="00:01:58.829" end="00:02:04.460" style="s2">that beautiful powder that was the cash</p>
+<p begin="00:02:01.560" end="00:02:06.659" style="s2">cow for<span style="s4"> that</span> company<span style="s3"> and</span><span style="s4"> so</span> I spent</p>
+<p begin="00:02:04.460" end="00:02:09.330" style="s2">number<span style="s4"> of</span> years commercializing new</p>
+<p begin="00:02:06.659" end="00:02:11.670" style="s2">business ideas or trying<span style="s3"> to</span> and<span style="s3"> what&#39;s</span></p>
+<p begin="00:02:09.330" end="00:02:13.319" style="s2">successful<span style="s4"> are</span> doing so and so over the</p>
+<p begin="00:02:11.670" end="00:02:15.299" style="s2"><span style="s3">years</span><span style="s4"> I&#39;ve</span></p>
+<p begin="00:02:13.319" end="00:02:19.280" style="s2">looked at things and examined things and</p>
+<p begin="00:02:15.299" end="00:02:23.790" style="s2">tried<span style="s3"> to</span> find a way<span style="s4"> to</span> make<span style="s4"> things work</span></p>
+<p begin="00:02:19.280" end="00:02:29.719" style="s2"><span style="s4">but</span> today<span style="s3"> I</span> stand<span style="s3"> here</span><span style="s4"> before</span> you as a</p>
+<p begin="00:02:23.790" end="00:02:33.560" style="s2">stem<span style="s3"> ba</span> that promotes stem steam stream</p>
+<p begin="00:02:29.719" end="00:02:37.920" style="s2">but what makes me<span style="s4"> tick is stem squared</span></p>
+<p begin="00:02:33.560" end="00:02:41.010" style="s2">that squared M is all about medicine<span style="s4"> and</span></p>
+<p begin="00:02:37.920" end="00:02:44.040" style="s2">so<span style="s3"> I</span> have<span style="s3"> taken</span> my life and this is<span style="s4"> what</span></p>
+<p begin="00:02:41.010" end="00:02:47.519" style="s2">I do all<span style="s3"> day</span><span style="s4"> every</span> day<span style="s3"> is</span> 3d print body</p>
+<p begin="00:02:44.040" end="00:02:52.409" style="s2">parts<span style="s4"> I</span> innovate around<span style="s4"> the</span> 3d</p>
+<p begin="00:02:47.519" end="00:02:54.239" style="s2">technology after<span style="s3"> that</span> first pivot<span style="s3"> I</span></p>
+<p begin="00:02:52.409" end="00:02:58.859" style="s2"><span style="s4">never</span> thought I&#39;d find<span style="s4"> myself</span> back<span style="s3"> here</span></p>
+<p begin="00:02:54.239" end="00:03:02.430" style="s2">but here I am<span style="s4"> I</span> now not only print 3d</p>
+<p begin="00:02:58.859" end="00:03:05.579" style="s2">but I think 3d<span style="s4"> and</span> I find my<span style="s3"> heartbeats</span></p>
+<p begin="00:03:02.430" end="00:03:10.469" style="s2">in 3d and I&#39;m always in the 3d dimension</p>
+<p begin="00:03:05.579" end="00:03:13.650" style="s2">and so I&#39;m focused on how do<span style="s4"> we</span> take the</p>
+<p begin="00:03:10.469" end="00:03:15.389" style="s2">in personalized medicine<span style="s3"> and</span><span style="s4"> make</span> it</p>
+<p begin="00:03:13.650" end="00:03:19.340" style="s2">more personalized<span style="s3"> how</span> do we take the</p>
+<p begin="00:03:15.389" end="00:03:23.909" style="s2">imprecise<span style="s4"> and make it more precise</span></p>
+<p begin="00:03:19.340" end="00:03:26.099" style="s2"><span style="s4">because</span> innovation<span style="s4"> abounds</span><span style="s3"> and</span><span style="s4"> the</span> world</p>
+<p begin="00:03:23.909" end="00:03:30.209" style="s2">is becoming<span style="s4"> very personal everything we</span></p>
+<p begin="00:03:26.099" end="00:03:33.419" style="s2">do has<span style="s3"> to</span><span style="s4"> cater</span> to you businesses<span style="s4"> are</span></p>
+<p begin="00:03:30.209" end="00:03:36.329" style="s2">finding that that&#39;s the<span style="s3"> x-factor</span><span style="s4"> that&#39;s</span></p>
+<p begin="00:03:33.419" end="00:03:39.509" style="s2">the success<span style="s4"> factor</span> how does how<span style="s4"> does a</span></p>
+<p begin="00:03:36.329" end="00:03:43.199" style="s2">company<span style="s4"> like</span> uber<span style="s4"> work well it thinks</span></p>
+<p begin="00:03:39.509" end="00:03:46.709" style="s2"><span style="s4">about</span> you and me<span style="s4"> and</span> what we need and<span style="s3"> so</span></p>
+<p begin="00:03:43.199" end="00:03:48.870" style="s2">as I look<span style="s3"> around</span> in across<span style="s3"> the globe I&#39;m</span></p>
+<p begin="00:03:46.709" end="00:03:53.340" style="s2">seeing all these innovation hubs pop up</p>
+<p begin="00:03:48.870" end="00:03:57.030" style="s2"><span style="s3">in</span> Chicago albeit these are<span style="s3"> FinTech</span> hub</p>
+<p begin="00:03:53.340" end="00:04:01.109" style="s2">is represented in kind of the the</p>
+<p begin="00:03:57.030" end="00:04:03.780" style="s2">laggard<span style="s4"> cohort because they&#39;re less in</span></p>
+<p begin="00:04:01.109" end="00:04:06.359" style="s2">number and less evolved than<span style="s4"> the</span></p>
+<p begin="00:04:03.780" end="00:04:10.439" style="s2"><span style="s4">european</span> company so<span style="s4"> we&#39;ve</span> we&#39;ve<span style="s3"> got</span> a</p>
+<p begin="00:04:06.359" end="00:04:13.639" style="s2">long way to kind of level set within the</p>
+<p begin="00:04:10.439" end="00:04:17.759" style="s2"><span style="s4">money</span> sector but as I have always found</p>
+<p begin="00:04:13.639" end="00:04:21.959" style="s2">where money<span style="s3"> goes</span> businesses grow<span style="s4"> and</span> so</p>
+<p begin="00:04:17.759" end="00:04:25.979" style="s2">in healthcare it&#39;s no different but</p>
+<p begin="00:04:21.959" end="00:04:27.010" style="s2">what&#39;s been remarkable<span style="s4"> is</span> that<span style="s4"> there&#39;s</span></p>
+<p begin="00:04:25.979" end="00:04:29.140" style="s2">reports out<span style="s3"> there</span></p>
+<p begin="00:04:27.010" end="00:04:34.150" style="s2"><span style="s4">saying</span> that there are<span style="s4"> more</span> hubs out</p>
+<p begin="00:04:29.140" end="00:04:36.430" style="s2">there<span style="s4"> and</span> not enough startups<span style="s3"> 15,000</span></p>
+<p begin="00:04:34.150" end="00:04:39.490" style="s2"><span style="s4">startups</span> in this mobile<span style="s4"> health</span> space</p>
+<p begin="00:04:36.430" end="00:04:41.350" style="s2"><span style="s4">right other related</span> communities and<span style="s4"> that</span></p>
+<p begin="00:04:39.490" end="00:04:45.610" style="s2">the growth rate<span style="s4"> is going</span><span style="s3"> down</span></p>
+<p begin="00:04:41.350" end="00:04:48.790" style="s2">I find<span style="s4"> that</span> astonishing because<span style="s3"> where</span> I</p>
+<p begin="00:04:45.610" end="00:04:52.840" style="s2"><span style="s4">come</span> from<span style="s3"> I&#39;ve</span> got places like<span style="s4"> mater</span></p>
+<p begin="00:04:48.790" end="00:04:54.820" style="s2">next door in Texas<span style="s4"> the TMC X</span> that are</p>
+<p begin="00:04:52.840" end="00:04:58.210" style="s2"><span style="s3">leveraging</span> public-private partnerships</p>
+<p begin="00:04:54.820" end="00:05:00.820" style="s2">and they&#39;re<span style="s3"> leveraging</span> dollars beyond my</p>
+<p begin="00:04:58.210" end="00:05:03.970" style="s2">wildest imagination<span style="s3"> and</span> they&#39;re<span style="s3"> really</span></p>
+<p begin="00:05:00.820" end="00:05:07.300" style="s2">building<span style="s4"> around</span> ecosystems<span style="s3"> like</span> we have</p>
+<p begin="00:05:03.970" end="00:05:09.840" style="s2">here<span style="s3"> in</span><span style="s4"> Chicago</span><span style="s3"> in</span> Minnesota they&#39;ve</p>
+<p begin="00:05:07.300" end="00:05:13.000" style="s2">just announced<span style="s4"> in</span> the<span style="s3"> last</span> few months</p>
+<p begin="00:05:09.840" end="00:05:17.520" style="s2"><span style="s4">like</span> a practically<span style="s3"> a</span> billion dollar</p>
+<p begin="00:05:13.000" end="00:05:21.490" style="s2">investment<span style="s3"> across</span> healthcare to bridge</p>
+<p begin="00:05:17.520" end="00:05:23.530" style="s2"><span style="s4">the patients with</span><span style="s3"> the</span> doctors with the</p>
+<p begin="00:05:21.490" end="00:05:27.700" style="s2">entrepreneurs to bring<span style="s4"> this</span> innovation</p>
+<p begin="00:05:23.530" end="00:05:30.070" style="s2">to bear but no matter what<span style="s4"> every</span> one of</p>
+<p begin="00:05:27.700" end="00:05:32.800" style="s2"><span style="s4">us</span> in this room knows that<span style="s3"> even</span> if you</p>
+<p begin="00:05:30.070" end="00:05:37.240" style="s2">have the best idea<span style="s4"> it</span> is<span style="s3"> the</span> market that</p>
+<p begin="00:05:32.800" end="00:05:39.490" style="s2"><span style="s3">needs</span><span style="s4"> to</span> find the home<span style="s4"> so</span> in my life</p>
+<p begin="00:05:37.240" end="00:05:43.960" style="s2">I&#39;ve<span style="s3"> been</span> continually<span style="s4"> looking</span> for how do</p>
+<p begin="00:05:39.490" end="00:05:46.330" style="s2">I fit<span style="s4"> where</span> do I go how do I<span style="s3"> grow</span> and in</p>
+<p begin="00:05:43.960" end="00:05:48.960" style="s2">the world of<span style="s4"> health care we</span> all have to</p>
+<p begin="00:05:46.330" end="00:05:53.200" style="s2">do<span style="s4"> the same</span><span style="s3"> kind</span> of thing<span style="s3"> now</span> when I was</p>
+<p begin="00:05:48.960" end="00:05:54.970" style="s2">trying<span style="s3"> to</span> adapt and fit in you know<span style="s4"> when</span></p>
+<p begin="00:05:53.200" end="00:05:56.860" style="s2">I<span style="s4"> was</span> a kid I was selling candy and I</p>
+<p begin="00:05:54.970" end="00:05:59.110" style="s2">figured that that was<span style="s4"> the</span> way<span style="s3"> to</span><span style="s4"> get</span></p>
+<p begin="00:05:56.860" end="00:06:01.180" style="s2">friends and<span style="s4"> to</span> build a market and to</p>
+<p begin="00:05:59.110" end="00:06:03.550" style="s2">scale and to<span style="s4"> figure</span><span style="s3"> out</span><span style="s4"> how</span> do you</p>
+<p begin="00:06:01.180" end="00:06:06.610" style="s2"><span style="s4">connect</span> with<span style="s3"> people</span><span style="s4"> the</span> same thing<span style="s3"> has</span></p>
+<p begin="00:06:03.550" end="00:06:09.070" style="s2">to<span style="s3"> happen</span><span style="s4"> here</span><span style="s3"> right</span><span style="s4"> well</span> what&#39;s been</p>
+<p begin="00:06:06.610" end="00:06:11.590" style="s2">interesting<span style="s3"> for</span><span style="s4"> me</span> as I&#39;ve<span style="s3"> been</span></p>
+<p begin="00:06:09.070" end="00:06:14.820" style="s2">privileged and I do mean privileged to</p>
+<p begin="00:06:11.590" end="00:06:20.800" style="s2">have<span style="s4"> a</span> seat at this<span style="s3"> healthcare</span> table is</p>
+<p begin="00:06:14.820" end="00:06:26.460" style="s2">that I&#39;m<span style="s4"> finding</span> that<span style="s4"> there&#39;s</span> a lot<span style="s4"> of</span></p>
+<p begin="00:06:20.800" end="00:06:30.130" style="s2">inequity there&#39;s a lot of exclusion</p>
+<p begin="00:06:26.460" end="00:06:34.500" style="s2">there&#39;s perhaps<span style="s4"> some</span> lack of fairness<span style="s4"> in</span></p>
+<p begin="00:06:30.130" end="00:06:38.710" style="s2"><span style="s4">this</span> space<span style="s4"> and</span> place of<span style="s3"> health care that</span></p>
+<p begin="00:06:34.500" end="00:06:39.849" style="s2"><span style="s3">somehow</span> I<span style="s4"> haven&#39;t</span> been counted as a</p>
+<p begin="00:06:38.710" end="00:06:43.559" style="s2">woman</p>
+<p begin="00:06:39.849" end="00:06:46.360" style="s2"><span style="s3">I</span> haven&#39;t really<span style="s3"> been</span> factored in the</p>
+<p begin="00:06:43.559" end="00:06:50.740" style="s2">overall<span style="s4"> approach</span> and planning<span style="s4"> for</span></p>
+<p begin="00:06:46.360" end="00:06:52.240" style="s2">devising<span style="s4"> quality health care</span> so I&#39;m</p>
+<p begin="00:06:50.740" end="00:06:54.459" style="s2">going to tell you made my head scratch</p>
+<p begin="00:06:52.240" end="00:06:57.249" style="s2"><span style="s4">because</span> I thought this<span style="s4"> is</span><span style="s3"> a</span> pretty</p>
+<p begin="00:06:54.459" end="00:07:00.339" style="s2">fundamental thought<span style="s4"> right I&#39;m a woman</span></p>
+<p begin="00:06:57.249" end="00:07:03.459" style="s2"><span style="s3">I&#39;m</span> needing health care I<span style="s4"> should</span> be</p>
+<p begin="00:07:00.339" end="00:07:05.949" style="s2">treated for me specifically<span style="s4"> but</span> what I&#39;m</p>
+<p begin="00:07:03.459" end="00:07:09.599" style="s2">finding<span style="s4"> is</span> that<span style="s3"> in</span> this<span style="s4"> world of health</span></p>
+<p begin="00:07:05.949" end="00:07:12.159" style="s2"><span style="s4">care there is</span> a gender<span style="s3"> blind</span> spot and</p>
+<p begin="00:07:09.599" end="00:07:14.050" style="s2">while no one said life<span style="s3"> was</span> going<span style="s4"> to be</span></p>
+<p begin="00:07:12.159" end="00:07:16.479" style="s2"><span style="s4">fair and I didn&#39;t expect that and</span> I</p>
+<p begin="00:07:14.050" end="00:07:19.569" style="s2">didn&#39;t expect<span style="s3"> to</span> be<span style="s4"> treated</span> equally but</p>
+<p begin="00:07:16.479" end="00:07:21.429" style="s2"><span style="s3">I</span> expected<span style="s4"> to</span> be<span style="s4"> treated</span> fairly<span style="s3"> and</span> I</p>
+<p begin="00:07:19.569" end="00:07:24.639" style="s2">didn&#39;t<span style="s4"> get that scene at the table I had</span></p>
+<p begin="00:07:21.429" end="00:07:27.339" style="s2">to<span style="s3"> earn</span> it<span style="s4"> but</span> what I didn&#39;t realize<span style="s4"> is</span></p>
+<p begin="00:07:24.639" end="00:07:30.279" style="s2"><span style="s4">that the world in every</span><span style="s3"> possible</span> facet</p>
+<p begin="00:07:27.339" end="00:07:34.029" style="s2"><span style="s4">appears</span> to have been<span style="s4"> built</span><span style="s3"> for</span> these</p>
+<p begin="00:07:30.279" end="00:07:37.300" style="s2">guys<span style="s4"> the</span> 75 kilogram white male<span style="s4"> the</span></p>
+<p begin="00:07:34.029" end="00:07:40.179" style="s2">doors<span style="s4"> the</span> cars<span style="s4"> the</span> chairs everything</p>
+<p begin="00:07:37.300" end="00:07:44.079" style="s2"><span style="s3">that</span> we do is<span style="s3"> offensively</span> benchmarked</p>
+<p begin="00:07:40.179" end="00:07:47.409" style="s2">against this figure how does<span style="s4"> that</span> map<span style="s3"> to</span></p>
+<p begin="00:07:44.079" end="00:07:52.110" style="s2"><span style="s3">health care so the drugs that</span> we are</p>
+<p begin="00:07:47.409" end="00:07:55.749" style="s2">given to treat ailments<span style="s3"> yep</span> for that guy</p>
+<p begin="00:07:52.110" end="00:08:00.339" style="s2">the device is designed generally for</p>
+<p begin="00:07:55.749" end="00:08:02.139" style="s2">that guy the treatments<span style="s4"> for</span><span style="s3"> the</span> guy are</p>
+<p begin="00:08:00.339" end="00:08:05.469" style="s2">you counting the<span style="s4"> guys</span> over<span style="s3"> there</span> who&#39;s</p>
+<p begin="00:08:02.139" end="00:08:08.279" style="s2"><span style="s4">doing</span> the app who&#39;s counting that app so</p>
+<p begin="00:08:05.469" end="00:08:12.069" style="s2">so our world is really biased</p>
+<p begin="00:08:08.279" end="00:08:14.679" style="s2"><span style="s4">tremendously and so there are</span> definite</p>
+<p begin="00:08:12.069" end="00:08:16.839" style="s2">differences right we know that<span style="s4"> there are</span></p>
+<p begin="00:08:14.679" end="00:08:19.779" style="s2">things<span style="s3"> like</span><span style="s4"> pregnancy</span> and hormones<span style="s4"> that</span></p>
+<p begin="00:08:16.839" end="00:08:23.439" style="s2">kind of differentiate men from<span style="s3"> women</span></p>
+<p begin="00:08:19.779" end="00:08:26.829" style="s2">right but the point is that<span style="s4"> we</span><span style="s3"> are</span> not</p>
+<p begin="00:08:23.439" end="00:08:28.899" style="s2">all<span style="s4"> the</span> same<span style="s4"> we have learned I learned</span></p>
+<p begin="00:08:26.829" end="00:08:33.399" style="s2">recently that<span style="s4"> every</span> bloody cell has a</p>
+<p begin="00:08:28.899" end="00:08:36.729" style="s2">sex how profound is that I&#39;m sure you</p>
+<p begin="00:08:33.399" end="00:08:38.589" style="s2">you can tell<span style="s3"> us</span> all<span style="s3"> about</span> that<span style="s4"> but</span> the</p>
+<p begin="00:08:36.729" end="00:08:40.959" style="s2"><span style="s3">70-kilogram white male is how we&#39;re</span></p>
+<p begin="00:08:38.589" end="00:08:45.550" style="s2"><span style="s3">building</span> our world and<span style="s4"> and</span> no two<span style="s4"> people</span></p>
+<p begin="00:08:40.959" end="00:08:48.189" style="s2">are alike<span style="s4"> not</span> even twins<span style="s4"> are</span> alike<span style="s3"> and</span> I</p>
+<p begin="00:08:45.550" end="00:08:51.370" style="s2">can recall<span style="s3"> so</span> here&#39;s my dad the</p>
+<p begin="00:08:48.189" end="00:08:53.560" style="s2">cardiovascular surgeon right<span style="s4"> treating me</span></p>
+<p begin="00:08:51.370" end="00:08:55.889" style="s2">for some infection</p>
+<p begin="00:08:53.560" end="00:08:59.860" style="s2">and don&#39;t you<span style="s4"> know</span> that<span style="s4"> my</span> mom</p>
+<p begin="00:08:55.889" end="00:09:02.319" style="s2">intuitively<span style="s4"> would</span> say to me now<span style="s4"> you</span></p>
+<p begin="00:08:59.860" end="00:09:05.410" style="s2">break that pill in half<span style="s4"> because</span><span style="s3"> you</span></p>
+<p begin="00:09:02.319" end="00:09:08.589" style="s2">don&#39;t need the<span style="s4"> whole</span> thing<span style="s4"> now</span> she knew</p>
+<p begin="00:09:05.410" end="00:09:10.809" style="s2">we weren&#39;t the same<span style="s4"> as</span> the<span style="s4"> universal</span></p>
+<p begin="00:09:08.589" end="00:09:13.509" style="s2">treatment<span style="s4"> right</span> because maybe I was</p>
+<p begin="00:09:10.809" end="00:09:15.910" style="s2">smaller maybe I<span style="s4"> wasn&#39;t</span><span style="s3"> meeting</span><span style="s4"> all</span><span style="s3"> of</span></p>
+<p begin="00:09:13.509" end="00:09:17.439" style="s2">that and there&#39;s my<span style="s4"> dad scoffing at her</span></p>
+<p begin="00:09:15.910" end="00:09:22.829" style="s2">because<span style="s4"> he&#39;s</span> got<span style="s3"> all</span> the answers<span style="s4"> right</span></p>
+<p begin="00:09:17.439" end="00:09:27.819" style="s2"><span style="s4">right guys so so I grew up with that</span></p>
+<p begin="00:09:22.829" end="00:09:32.139" style="s2">kind of<span style="s4"> difference</span> and and observation</p>
+<p begin="00:09:27.819" end="00:09:34.420" style="s2">that there was not<span style="s4"> a</span> perfect answer<span style="s3"> for</span></p>
+<p begin="00:09:32.139" end="00:09:37.149" style="s2">everything<span style="s4"> and</span> so as I&#39;ve<span style="s4"> grown</span> into<span style="s4"> the</span></p>
+<p begin="00:09:34.420" end="00:09:40.779" style="s2">health<span style="s4"> where</span><span style="s3"> health</span><span style="s4"> care field</span><span style="s3"> I</span> really</p>
+<p begin="00:09:37.149" end="00:09:43.389" style="s2"><span style="s4">started</span><span style="s3"> to</span> see<span style="s4"> that</span> all of<span style="s3"> these</span> organs</p>
+<p begin="00:09:40.779" end="00:09:44.920" style="s2"><span style="s3">are</span> rendered differently<span style="s4"> between the</span></p>
+<p begin="00:09:43.389" end="00:09:47.379" style="s2">sexes<span style="s4"> and we&#39;re learning more and</span> more</p>
+<p begin="00:09:44.920" end="00:09:49.209" style="s2"><span style="s3">and more and so</span><span style="s4"> if</span> you think<span style="s3"> about</span> how</p>
+<p begin="00:09:47.379" end="00:09:52.720" style="s2">we&#39;ve we&#39;ve managed our<span style="s3"> health</span><span style="s4"> care</span></p>
+<p begin="00:09:49.209" end="00:09:56.529" style="s2">system<span style="s4"> we&#39;ve</span> done we&#39;ve taken<span style="s3"> treatments</span></p>
+<p begin="00:09:52.720" end="00:10:02.129" style="s2"><span style="s4">in</span> a universal fashion and that has I</p>
+<p begin="00:09:56.529" end="00:10:06.879" style="s2">believe<span style="s4"> affected</span> not<span style="s4"> only</span><span style="s3"> the</span><span style="s4"> economic</span></p>
+<p begin="00:10:02.129" end="00:10:08.730" style="s2"><span style="s4">but</span> the quality of life itself<span style="s3"> and</span> so</p>
+<p begin="00:10:06.879" end="00:10:12.850" style="s2">because we didn&#39;t start at<span style="s3"> the</span> beginning</p>
+<p begin="00:10:08.730" end="00:10:16.209" style="s2"><span style="s4">we</span> didn&#39;t factor<span style="s4"> in</span> the considerations</p>
+<p begin="00:10:12.850" end="00:10:17.949" style="s2">of what<span style="s4"> does</span> the individual need and</p>
+<p begin="00:10:16.209" end="00:10:22.480" style="s2">what are the<span style="s4"> factors</span> that<span style="s4"> we</span> need<span style="s4"> to</span></p>
+<p begin="00:10:17.949" end="00:10:26.740" style="s2">include before we formulate and design</p>
+<p begin="00:10:22.480" end="00:10:30.189" style="s2">and deliver because<span style="s3"> that&#39;s</span> where it</p>
+<p begin="00:10:26.740" end="00:10:34.629" style="s2">shows<span style="s4"> up</span> the readmissions<span style="s4"> the</span> repeats</p>
+<p begin="00:10:30.189" end="00:10:36.279" style="s2"><span style="s4">are</span> in my<span style="s4"> opinion partly</span><span style="s3"> due</span> to the fact</p>
+<p begin="00:10:34.629" end="00:10:40.319" style="s2"><span style="s3">that</span> we didn&#39;t really<span style="s3"> factor</span> the</p>
+<p begin="00:10:36.279" end="00:10:44.170" style="s2">individual and so<span style="s4"> the</span> there are clear</p>
+<p begin="00:10:40.319" end="00:10:45.519" style="s2"><span style="s4">evidence-based</span> information about where</p>
+<p begin="00:10:44.170" end="00:10:49.000" style="s2"><span style="s4">these</span> deltas<span style="s4"> are</span> and I&#39;m going<span style="s3"> to</span> talk</p>
+<p begin="00:10:45.519" end="00:10:51.999" style="s2"><span style="s3">about</span> three specific<span style="s3"> areas</span><span style="s4"> and</span> by the</p>
+<p begin="00:10:49.000" end="00:10:55.600" style="s2">way the NIH<span style="s3"> has</span> finally declared that</p>
+<p begin="00:10:51.999" end="00:11:00.040" style="s2">they&#39;re not funding research<span style="s3"> unless</span> it</p>
+<p begin="00:10:55.600" end="00:11:03.309" style="s2">considers sex and gender<span style="s4"> in</span> clinical</p>
+<p begin="00:11:00.040" end="00:11:05.920" style="s2">trials<span style="s3"> so that&#39;s kind</span> of a huge thing</p>
+<p begin="00:11:03.309" end="00:11:07.420" style="s2"><span style="s3">that</span> they have said no money<span style="s4"> unless</span> you</p>
+<p begin="00:11:05.920" end="00:11:10.300" style="s2">can<span style="s4"> demonstrate</span></p>
+<p begin="00:11:07.420" end="00:11:14.830" style="s2">you&#39;re including variables<span style="s4"> across</span> many</p>
+<p begin="00:11:10.300" end="00:11:17.010" style="s2">different sectors<span style="s4"> and so that&#39;s a</span></p>
+<p begin="00:11:14.830" end="00:11:19.600" style="s2"><span style="s3">fundamental</span> change in<span style="s4"> our</span><span style="s3"> healthcare</span></p>
+<p begin="00:11:17.010" end="00:11:21.930" style="s2">drug development<span style="s3"> device</span> development</p>
+<p begin="00:11:19.600" end="00:11:26.230" style="s2"><span style="s4">that&#39;s</span> huge for<span style="s3"> us</span></p>
+<p begin="00:11:21.930" end="00:11:28.510" style="s2">so take the case of a woman<span style="s3"> a</span> woman&#39;s</p>
+<p begin="00:11:26.230" end="00:11:31.930" style="s2"><span style="s4">heart</span> is truly different<span style="s4"> than</span> a<span style="s4"> man&#39;s</span></p>
+<p begin="00:11:28.510" end="00:11:35.920" style="s2">heart our heart attacks<span style="s4"> present</span></p>
+<p begin="00:11:31.930" end="00:11:38.500" style="s2">differently<span style="s4"> the</span> symptoms<span style="s4"> for</span><span style="s3"> a</span> woman she</p>
+<p begin="00:11:35.920" end="00:11:41.320" style="s2"><span style="s4">pretty</span> much declines<span style="s4"> that</span> she even<span style="s4"> has</span></p>
+<p begin="00:11:38.500" end="00:11:44.830" style="s2">symptoms<span style="s4"> right</span> because we<span style="s4"> don&#39;t</span> we don&#39;t</p>
+<p begin="00:11:41.320" end="00:11:46.660" style="s2">show<span style="s4"> we&#39;ve</span> got<span style="s3"> the</span> stiff upper<span style="s3"> lip</span><span style="s4"> the</span></p>
+<p begin="00:11:44.830" end="00:11:50.980" style="s2">treatments that are given for<span style="s3"> example</span></p>
+<p begin="00:11:46.660" end="00:11:52.630" style="s2">like aspirin that<span style="s4"> wonder</span> drug works to</p>
+<p begin="00:11:50.980" end="00:11:57.700" style="s2"><span style="s4">prevent</span> the first heart attack<span style="s3"> in</span> a man</p>
+<p begin="00:11:52.630" end="00:12:01.660" style="s2">but<span style="s3"> not a woman</span><span style="s4"> on</span> that basis alone<span style="s4"> you</span></p>
+<p begin="00:11:57.700" end="00:12:04.870" style="s2">can extrapolate<span style="s4"> numerous applications of</span></p>
+<p begin="00:12:01.660" end="00:12:10.240" style="s2">where these deltas live and exist<span style="s4"> and</span> so</p>
+<p begin="00:12:04.870" end="00:12:15.430" style="s2">we&#39;re<span style="s4"> finding that women are just hiding</span></p>
+<p begin="00:12:10.240" end="00:12:18.010" style="s2">behind the veil of caregiving<span style="s4"> and</span> not</p>
+<p begin="00:12:15.430" end="00:12:20.470" style="s2">taking care<span style="s3"> of</span> themselves<span style="s4"> and</span> the rate</p>
+<p begin="00:12:18.010" end="00:12:23.740" style="s2">of<span style="s4"> heart</span> attacks is increasing and</p>
+<p begin="00:12:20.470" end="00:12:25.720" style="s2">exceeding that<span style="s3"> of</span> males<span style="s4"> and</span><span style="s3"> so</span> we got to</p>
+<p begin="00:12:23.740" end="00:12:29.530" style="s2">take note and we&#39;ve got to start looking</p>
+<p begin="00:12:25.720" end="00:12:34.120" style="s2"><span style="s3">at</span> the front end of things<span style="s3"> the arthritis</span></p>
+<p begin="00:12:29.530" end="00:12:36.250" style="s2">another example<span style="s4"> so</span> women are more<span style="s3"> likely</span></p>
+<p begin="00:12:34.120" end="00:12:39.550" style="s2">to injure their knees playing sports</p>
+<p begin="00:12:36.250" end="00:12:41.290" style="s2">because they&#39;ve got imbalanced<span style="s4"> muscle</span></p>
+<p begin="00:12:39.550" end="00:12:43.420" style="s2">strength in their legs<span style="s4"> and looser</span></p>
+<p begin="00:12:41.290" end="00:12:46.630" style="s2">typically ligaments<span style="s4"> and</span> so that</p>
+<p begin="00:12:43.420" end="00:12:50.560" style="s2">manifests into<span style="s4"> more</span> injuries<span style="s4"> and</span> ACL</p>
+<p begin="00:12:46.630" end="00:12:52.210" style="s2">tears and of course walking<span style="s3"> in</span> these</p>
+<p begin="00:12:50.560" end="00:12:55.660" style="s2">high-heeled shoes doesn&#39;t help us<span style="s4"> much</span></p>
+<p begin="00:12:52.210" end="00:13:00.490" style="s2"><span style="s3">either right</span><span style="s4"> so</span> we&#39;re our own<span style="s3"> worst</span></p>
+<p begin="00:12:55.660" end="00:13:02.380" style="s2">enemy<span style="s4"> but</span> at the end<span style="s4"> of the day those</span></p>
+<p begin="00:13:00.490" end="00:13:05.920" style="s2">are<span style="s4"> things</span> that<span style="s4"> are</span> compounded by</p>
+<p begin="00:13:02.380" end="00:13:08.020" style="s2"><span style="s4">environmental</span> and physiological factors</p>
+<p begin="00:13:05.920" end="00:13:12.340" style="s2">and we&#39;ve got to<span style="s4"> consider all of those</span></p>
+<p begin="00:13:08.020" end="00:13:15.190" style="s2">as we treat implants so in my world of</p>
+<p begin="00:13:12.340" end="00:13:17.740" style="s2"><span style="s4">3d</span> printing it&#39;s moving towards a custom</p>
+<p begin="00:13:15.190" end="00:13:19.770" style="s2">printed solution but today<span style="s4"> men</span> women</p>
+<p begin="00:13:17.740" end="00:13:21.279" style="s2">children</p>
+<p begin="00:13:19.770" end="00:13:24.970" style="s2">seniors</p>
+<p begin="00:13:21.279" end="00:13:28.300" style="s2">have basically eight<span style="s4"> models</span> of knee</p>
+<p begin="00:13:24.970" end="00:13:31.389" style="s2">implants<span style="s4"> from</span> which to choose<span style="s3"> I</span> don&#39;t</p>
+<p begin="00:13:28.300" end="00:13:34.269" style="s2"><span style="s3">know</span> about you but<span style="s4"> I&#39;m</span> certainly</p>
+<p begin="00:13:31.389" end="00:13:37.149" style="s2">different than<span style="s4"> you</span> are<span style="s4"> and</span> you are and</p>
+<p begin="00:13:34.269" end="00:13:39.819" style="s2"><span style="s3">our</span> knees are very<span style="s3"> different</span><span style="s4"> so</span> I have</p>
+<p begin="00:13:37.149" end="00:13:41.410" style="s2">to figure<span style="s4"> out</span> if I pick one<span style="s3"> of</span> those</p>
+<p begin="00:13:39.819" end="00:13:42.550" style="s2">eight or my<span style="s3"> doctor</span> picks one of those</p>
+<p begin="00:13:41.410" end="00:13:45.759" style="s2">eight<span style="s4"> that</span><span style="s3"> means</span> that he&#39;s going<span style="s3"> to</span></p>
+<p begin="00:13:42.550" end="00:13:49.420" style="s2">conform my body to fit<span style="s4"> that</span> or<span style="s3"> tailor</span></p>
+<p begin="00:13:45.759" end="00:13:51.579" style="s2">the implant to<span style="s3"> fit</span> me<span style="s3"> I</span> can tell you</p>
+<p begin="00:13:49.420" end="00:13:54.850" style="s2">that&#39;s not<span style="s4"> a perfect solution</span> the</p>
+<p begin="00:13:51.579" end="00:13:57.730" style="s2">readmissions and the failed<span style="s4"> implants</span> are</p>
+<p begin="00:13:54.850" end="00:13:59.559" style="s2">prevalent<span style="s4"> because</span><span style="s3"> it&#39;s</span> not a<span style="s4"> perfect</span></p>
+<p begin="00:13:57.730" end="00:14:03.550" style="s2"><span style="s4">solution</span> and we&#39;re struggling<span style="s3"> with</span> how</p>
+<p begin="00:13:59.559" end="00:14:07.779" style="s2">do we get<span style="s4"> to perfect or</span> as<span style="s4"> close</span><span style="s3"> to</span></p>
+<p begin="00:14:03.550" end="00:14:12.809" style="s2">perfect as we can<span style="s3"> to</span><span style="s4"> make</span> it<span style="s4"> good now</span></p>
+<p begin="00:14:07.779" end="00:14:14.920" style="s2">interestingly<span style="s4"> here&#39;s</span> a converse scenario</p>
+<p begin="00:14:12.809" end="00:14:17.709" style="s2"><span style="s4">osteoporosis it&#39;s more common in women</span></p>
+<p begin="00:14:14.920" end="00:14:20.980" style="s2">yes<span style="s4"> because</span> they&#39;ve<span style="s4"> got</span> less bone<span style="s3"> tissue</span></p>
+<p begin="00:14:17.709" end="00:14:24.040" style="s2"><span style="s3">than men and they experience a lot of</span></p>
+<p begin="00:14:20.980" end="00:14:27.360" style="s2"><span style="s3">rapid</span> bone loss<span style="s4"> they</span> get that<span style="s4"> thing</span></p>
+<p begin="00:14:24.040" end="00:14:30.550" style="s2"><span style="s4">called menopause and the</span> hormone<span style="s4"> chips</span></p>
+<p begin="00:14:27.360" end="00:14:34.059" style="s2"><span style="s4">so</span> it manifests into<span style="s4"> this well</span></p>
+<p begin="00:14:30.550" end="00:14:37.319" style="s2">recognized and stereotypical description</p>
+<p begin="00:14:34.059" end="00:14:42.600" style="s2">that<span style="s4"> osteoporosis</span> is a woman&#39;s disease</p>
+<p begin="00:14:37.319" end="00:14:45.939" style="s2"><span style="s4">however</span> men that are over the age<span style="s4"> of</span> 50</p>
+<p begin="00:14:42.600" end="00:14:48.480" style="s2">often go undetected for this condition</p>
+<p begin="00:14:45.939" end="00:14:51.759" style="s2">because we<span style="s4"> think</span> it&#39;s a woman&#39;s disease</p>
+<p begin="00:14:48.480" end="00:14:55.449" style="s2">so these<span style="s4"> factors</span> play<span style="s4"> in both sides of</span></p>
+<p begin="00:14:51.759" end="00:14:58.389" style="s2">the gender divide but at the<span style="s3"> end</span> of the</p>
+<p begin="00:14:55.449" end="00:15:01.209" style="s2">day today<span style="s3"> health</span><span style="s4"> care</span> is is really</p>
+<p begin="00:14:58.389" end="00:15:03.819" style="s2"><span style="s4">measuring</span> us on very few<span style="s4"> things that</span></p>
+<p begin="00:15:01.209" end="00:15:06.339" style="s2"><span style="s3">have</span> to do with<span style="s4"> value-based outcomes are</span></p>
+<p begin="00:15:03.819" end="00:15:08.759" style="s2">you lowering cost<span style="s4"> are</span> you increasing</p>
+<p begin="00:15:06.339" end="00:15:11.769" style="s2"><span style="s4">productivity</span> by creating digital</p>
+<p begin="00:15:08.759" end="00:15:14.889" style="s2">connectedness<span style="s3"> to make things move faster</span></p>
+<p begin="00:15:11.769" end="00:15:17.559" style="s2">and<span style="s4"> work</span> faster<span style="s4"> or</span> are you giving<span style="s3"> us</span> a</p>
+<p begin="00:15:14.889" end="00:15:19.980" style="s2">better quality<span style="s4"> of</span> life<span style="s4"> and those are the</span></p>
+<p begin="00:15:17.559" end="00:15:23.050" style="s2">factors<span style="s3"> that</span> today are the measures</p>
+<p begin="00:15:19.980" end="00:15:26.639" style="s2">tomorrow<span style="s4"> they could be impacted</span></p>
+<p begin="00:15:23.050" end="00:15:30.279" style="s2">tremendously by more thoughtful</p>
+<p begin="00:15:26.639" end="00:15:32.889" style="s2">deliberate intentional upfront work that</p>
+<p begin="00:15:30.279" end="00:15:34.290" style="s2">consider sex and gender<span style="s3"> I</span> believe we can</p>
+<p begin="00:15:32.889" end="00:15:36.630" style="s2">do more<span style="s3"> to</span></p>
+<p begin="00:15:34.290" end="00:15:39.509" style="s2">pack these value-based outcomes<span style="s3"> if</span> we</p>
+<p begin="00:15:36.630" end="00:15:41.790" style="s2">start at<span style="s4"> the</span><span style="s3"> beginning</span><span style="s4"> and</span> consider how</p>
+<p begin="00:15:39.509" end="00:15:43.920" style="s2">do we treat the individual how do we</p>
+<p begin="00:15:41.790" end="00:15:46.170" style="s2">personalize the approach to medicine</p>
+<p begin="00:15:43.920" end="00:15:49.560" style="s2"><span style="s4">through</span> the<span style="s4"> available</span> tools to deliver</p>
+<p begin="00:15:46.170" end="00:15:52.620" style="s2"><span style="s4">the</span> right solution to<span style="s3"> the</span> right<span style="s4"> person</span></p>
+<p begin="00:15:49.560" end="00:15:56.699" style="s2">at<span style="s3"> the right time</span><span style="s4"> and</span> achieve better</p>
+<p begin="00:15:52.620" end="00:15:58.949" style="s2"><span style="s4">outcomes in</span><span style="s3"> healthcare</span><span style="s4"> because</span><span style="s3"> no</span> two</p>
+<p begin="00:15:56.699" end="00:16:02.639" style="s2">people<span style="s3"> are</span> alike<span style="s3"> and</span> because every cell</p>
+<p begin="00:15:58.949" end="00:16:06.000" style="s2">has<span style="s4"> a</span> sex we&#39;ve got to learn to</p>
+<p begin="00:16:02.639" end="00:16:07.740" style="s2">eliminate the gender<span style="s3"> blind</span> spots<span style="s4"> but how</span></p>
+<p begin="00:16:06.000" end="00:16:10.139" style="s2">are we<span style="s4"> going to do</span><span style="s3"> that</span> and<span style="s4"> in</span> my world</p>
+<p begin="00:16:07.740" end="00:16:14.279" style="s2"><span style="s4">I&#39;ve</span> said I look at everything<span style="s4"> in</span> 3d</p>
+<p begin="00:16:10.139" end="00:16:18.290" style="s2"><span style="s4">right</span> because I&#39;m able<span style="s4"> to</span><span style="s3"> investigate</span></p>
+<p begin="00:16:14.279" end="00:16:23.579" style="s2">and<span style="s4"> see</span><span style="s3"> Anatomy</span><span style="s4"> that&#39;s personal</span></p>
+<p begin="00:16:18.290" end="00:16:26.459" style="s2">individual and I love what<span style="s3"> I</span> do<span style="s4"> not only</span></p>
+<p begin="00:16:23.579" end="00:16:28.170" style="s2">we are<span style="s3"> we</span> 3d printing body parts<span style="s4"> that&#39;s</span></p>
+<p begin="00:16:26.459" end="00:16:32.790" style="s2">just the tip of<span style="s4"> the</span> iceberg</p>
+<p begin="00:16:28.170" end="00:16:35.940" style="s2">so what<span style="s4"> we&#39;re</span> also<span style="s4"> doing</span> is building<span style="s4"> in</span></p>
+<p begin="00:16:32.790" end="00:16:39.769" style="s2">AI<span style="s4"> to</span> do everything<span style="s4"> from anomaly</span></p>
+<p begin="00:16:35.940" end="00:16:44.160" style="s2">detection<span style="s4"> to</span> predictive intelligence<span style="s4"> in</span></p>
+<p begin="00:16:39.769" end="00:16:46.410" style="s2">what&#39;s<span style="s4"> interesting</span> not just<span style="s3"> the</span> body but</p>
+<p begin="00:16:44.160" end="00:16:50.339" style="s2">manufactured parts because we can learn</p>
+<p begin="00:16:46.410" end="00:16:52.319" style="s2">to discern<span style="s3"> the</span> deltas and anomalies in</p>
+<p begin="00:16:50.339" end="00:16:55.160" style="s2"><span style="s3">healthcare</span><span style="s4"> through the 3d scan</span></p>
+<p begin="00:16:52.319" end="00:16:58.230" style="s2">technology<span style="s3"> and</span> so we&#39;re focused on</p>
+<p begin="00:16:55.160" end="00:17:00.510" style="s2">employing the digital space<span style="s4"> so that the</span></p>
+<p begin="00:16:58.230" end="00:17:04.409" style="s2"><span style="s4">MRI</span> machines that that are<span style="s4"> being</span> used</p>
+<p begin="00:17:00.510" end="00:17:08.549" style="s2">like Siemens and GE and others have a</p>
+<p begin="00:17:04.409" end="00:17:12.270" style="s2"><span style="s4">chance</span> to at the<span style="s3"> upfront</span><span style="s4"> without</span> human</p>
+<p begin="00:17:08.549" end="00:17:17.209" style="s2">intervention<span style="s3"> actually</span> reduce<span style="s4"> cost and</span></p>
+<p begin="00:17:12.270" end="00:17:19.290" style="s2">identifying anomalies or perhaps</p>
+<p begin="00:17:17.209" end="00:17:21.600" style="s2">characteristics that are indicative of</p>
+<p begin="00:17:19.290" end="00:17:24.839" style="s2"><span style="s4">certain diseases and disease</span> states<span style="s4"> or</span></p>
+<p begin="00:17:21.600" end="00:17:28.199" style="s2">perhaps<span style="s4"> temporal</span> 3d scans that can be</p>
+<p begin="00:17:24.839" end="00:17:32.040" style="s2">compared across the ages for<span style="s3"> a</span></p>
+<p begin="00:17:28.199" end="00:17:35.610" style="s2">particular individual<span style="s3"> and</span> so I<span style="s3"> think</span></p>
+<p begin="00:17:32.040" end="00:17:40.200" style="s2">this technology<span style="s4"> holds</span> a lot of promise</p>
+<p begin="00:17:35.610" end="00:17:44.960" style="s2"><span style="s4">to</span> be able<span style="s3"> to</span> impact both<span style="s4"> the implants</span></p>
+<p begin="00:17:40.200" end="00:17:47.640" style="s2">and detection<span style="s4"> of healthcare conditions</span></p>
+<p begin="00:17:44.960" end="00:17:49.260" style="s2"><span style="s4">printing</span> 3d parts of</p>
+<p begin="00:17:47.640" end="00:17:52.530" style="s2">of bodies which<span style="s4"> I</span> don&#39;t<span style="s4"> think</span><span style="s3"> is</span> going</p>
+<p begin="00:17:49.260" end="00:17:56.010" style="s2">to<span style="s4"> take</span><span style="s3"> very long</span><span style="s4"> but</span> we need<span style="s4"> to</span> get</p>
+<p begin="00:17:52.530" end="00:17:57.540" style="s2">together and we<span style="s3"> need</span> to coalesce<span style="s3"> a</span> team</p>
+<p begin="00:17:56.010" end="00:18:00.530" style="s2">and a group of like-minded individuals</p>
+<p begin="00:17:57.540" end="00:18:02.760" style="s2">that see the value the value<span style="s4"> of</span></p>
+<p begin="00:18:00.530" end="00:18:05.100" style="s2">individualized personalized<span style="s3"> precision</span></p>
+<p begin="00:18:02.760" end="00:18:08.070" style="s2">medicine and the groups<span style="s3"> that</span> I&#39;m</p>
+<p begin="00:18:05.100" end="00:18:09.720" style="s2">associated<span style="s3"> with</span> specifically<span style="s4"> the women</span></p>
+<p begin="00:18:08.070" end="00:18:12.000" style="s2">in bio chapter of Chicago<span style="s3"> that</span> I</p>
+<p begin="00:18:09.720" end="00:18:13.740" style="s2">currently<span style="s4"> serve</span> as president along<span style="s4"> with</span></p>
+<p begin="00:18:12.000" end="00:18:17.330" style="s2"><span style="s3">the American Medical</span><span style="s4"> Women&#39;s</span> Association</p>
+<p begin="00:18:13.740" end="00:18:20.210" style="s2">where I am the tech<span style="s4"> and</span> innovation lead</p>
+<p begin="00:18:17.330" end="00:18:23.640" style="s2"><span style="s4">coupled</span> with the<span style="s4"> white house and</span></p>
+<p begin="00:18:20.210" end="00:18:26.250" style="s2">precision medicine<span style="s3"> initiatives</span> and all</p>
+<p begin="00:18:23.640" end="00:18:29.430" style="s2">of the other groups that<span style="s4"> are</span> fundamental</p>
+<p begin="00:18:26.250" end="00:18:32.210" style="s2">in funding and supporting this gendered</p>
+<p begin="00:18:29.430" end="00:18:34.770" style="s2">innovation Stanford and other<span style="s4"> groups</span></p>
+<p begin="00:18:32.210" end="00:18:37.710" style="s2">that<span style="s4"> that</span> are coming together<span style="s4"> to really</span></p>
+<p begin="00:18:34.770" end="00:18:40.170" style="s2">create<span style="s4"> some</span> transparency and some</p>
+<p begin="00:18:37.710" end="00:18:43.140" style="s2">visibility<span style="s3"> around</span> this the importance of</p>
+<p begin="00:18:40.170" end="00:18:46.640" style="s2">this topic<span style="s4"> we&#39;ve</span> got to learn<span style="s3"> to</span> start</p>
+<p begin="00:18:43.140" end="00:18:50.940" style="s2">taking<span style="s4"> in</span> genetics<span style="s4"> age body composition</span></p>
+<p begin="00:18:46.640" end="00:18:53.180" style="s2"><span style="s4">body</span> size<span style="s4"> ethnicity</span> disabilities as</p>
+<p begin="00:18:50.940" end="00:18:56.790" style="s2">factors<span style="s4"> that really impact and influence</span></p>
+<p begin="00:18:53.180" end="00:19:00.150" style="s2"><span style="s4">the</span> outcome of health treatment<span style="s3"> but</span></p>
+<p begin="00:18:56.790" end="00:19:03.870" style="s2"><span style="s4">we&#39;ve</span> got to start with data<span style="s4"> which</span> all</p>
+<p begin="00:19:00.150" end="00:19:05.460" style="s2">of you know<span style="s3"> all</span> about right we&#39;ve got to</p>
+<p begin="00:19:03.870" end="00:19:07.410" style="s2"><span style="s4">start</span> collecting<span style="s4"> the</span> right kind<span style="s3"> of</span><span style="s4"> data</span></p>
+<p begin="00:19:05.460" end="00:19:10.670" style="s2">we&#39;ve got to understand at the front end</p>
+<p begin="00:19:07.410" end="00:19:14.430" style="s2">not<span style="s3"> the</span> back end how to design<span style="s4"> a</span> device</p>
+<p begin="00:19:10.670" end="00:19:17.730" style="s2"><span style="s4">based on individualized approaches to</span></p>
+<p begin="00:19:14.430" end="00:19:18.210" style="s2">treatments not the 75 kilogram white</p>
+<p begin="00:19:17.730" end="00:19:24.440" style="s2">male</p>
+<p begin="00:19:18.210" end="00:19:29.420" style="s2">so together<span style="s3"> we are employing</span><span style="s4"> these</span> these</p>
+<p begin="00:19:24.440" end="00:19:33.740" style="s2">initiatives<span style="s4"> and</span> inserting our expertise</p>
+<p begin="00:19:29.420" end="00:19:35.670" style="s2">what I&#39;m doing personally<span style="s4"> in</span> addition to</p>
+<p begin="00:19:33.740" end="00:19:38.390" style="s2">recognizing<span style="s3"> that</span><span style="s4"> this</span><span style="s3"> is</span> really</p>
+<p begin="00:19:35.670" end="00:19:43.320" style="s2">important<span style="s3"> and</span> could have tremendous</p>
+<p begin="00:19:38.390" end="00:19:46.350" style="s2"><span style="s4">impact</span> on the<span style="s3"> overall</span> way we proceed</p>
+<p begin="00:19:43.320" end="00:19:49.470" style="s2">with<span style="s4"> health</span> care<span style="s4"> and</span><span style="s3"> treatment</span> working</p>
+<p begin="00:19:46.350" end="00:19:52.260" style="s2"><span style="s3">with</span> the<span style="s3"> IOT</span> side of the house I&#39;m also</p>
+<p begin="00:19:49.470" end="00:19:54.510" style="s2">part of the EM hub board and if<span style="s4"> you</span></p>
+<p begin="00:19:52.260" end="00:19:58.050" style="s2"><span style="s4">haven&#39;t</span> visited<span style="s4"> the EM hub</span> facility on</p>
+<p begin="00:19:54.510" end="00:20:00.210" style="s2">Chicago please do<span style="s4"> come as my guest it&#39;s</span></p>
+<p begin="00:19:58.050" end="00:20:01.500" style="s2"><span style="s3">sixty three thousand square</span><span style="s4"> feet</span><span style="s3"> of</span></p>
+<p begin="00:20:00.210" end="00:20:05.310" style="s2">prototyping space</p>
+<p begin="00:20:01.500" end="00:20:08.790" style="s2">with all kinds of toys for those that</p>
+<p begin="00:20:05.310" end="00:20:11.010" style="s2"><span style="s4">love</span> to build and make stuff<span style="s3"> and</span> so this</p>
+<p begin="00:20:08.790" end="00:20:13.890" style="s2">is a particularly unique value</p>
+<p begin="00:20:11.010" end="00:20:16.500" style="s2">proposition<span style="s4"> that I see as an</span><span style="s3"> opportunity</span></p>
+<p begin="00:20:13.890" end="00:20:18.620" style="s2"><span style="s3">for</span><span style="s4"> innovators</span> in the IOT<span style="s3"> space</span><span style="s4"> and</span></p>
+<p begin="00:20:16.500" end="00:20:20.510" style="s2">particularly<span style="s4"> in</span> the<span style="s4"> healthcare</span> space</p>
+<p begin="00:20:18.620" end="00:20:23.790" style="s2"><span style="s4">there</span> are<span style="s4"> others</span></p>
+<p begin="00:20:20.510" end="00:20:26.700" style="s2">companies like transcelerator<span style="s3"> who</span> are</p>
+<p begin="00:20:23.790" end="00:20:29.970" style="s2">taking clinical trial and and changing</p>
+<p begin="00:20:26.700" end="00:20:32.850" style="s2">how<span style="s4"> it&#39;s</span> manifested so they<span style="s4"> take</span> and</p>
+<p begin="00:20:29.970" end="00:20:35.520" style="s2">they<span style="s4"> centralize</span> and<span style="s4"> streamline</span> principal</p>
+<p begin="00:20:32.850" end="00:20:37.320" style="s2">investigator data all in<span style="s3"> one</span> place<span style="s4"> so</span></p>
+<p begin="00:20:35.520" end="00:20:39.690" style="s2"><span style="s4">you don&#39;t have to do</span><span style="s3"> it</span> twice<span style="s4"> and</span> repeat</p>
+<p begin="00:20:37.320" end="00:20:41.940" style="s2">and waste time<span style="s4"> and</span> so<span style="s4"> that</span> kind<span style="s3"> of</span></p>
+<p begin="00:20:39.690" end="00:20:45.060" style="s2"><span style="s4">efficiency and productivity is profound</span></p>
+<p begin="00:20:41.940" end="00:20:48.330" style="s2"><span style="s4">and</span> will impact the way these trials can</p>
+<p begin="00:20:45.060" end="00:20:50.280" style="s2"><span style="s4">be done and speed to</span> market<span style="s4"> and</span> I think</p>
+<p begin="00:20:48.330" end="00:20:53.700" style="s2"><span style="s3">that</span> those<span style="s3"> are</span> where the opportunities</p>
+<p begin="00:20:50.280" end="00:20:55.800" style="s2">lie<span style="s4"> in</span> the data fields as well so you</p>
+<p begin="00:20:53.700" end="00:20:57.690" style="s2"><span style="s4">have</span> different portable different</p>
+<p begin="00:20:55.800" end="00:21:01.200" style="s2">portals<span style="s4"> for</span> different<span style="s4"> organizations</span> but</p>
+<p begin="00:20:57.690" end="00:21:05.060" style="s2">they still maintain the same<span style="s4"> centralized</span></p>
+<p begin="00:21:01.200" end="00:21:07.860" style="s2">data for the<span style="s4"> the</span> principles involved<span style="s4"> so</span></p>
+<p begin="00:21:05.060" end="00:21:09.480" style="s2">biopharma is going to change radically</p>
+<p begin="00:21:07.860" end="00:21:13.410" style="s2">with these kinds of collaborative</p>
+<p begin="00:21:09.480" end="00:21:17.030" style="s2">solutions what I&#39;m doing to change<span style="s4"> the</span></p>
+<p begin="00:21:13.410" end="00:21:19.200" style="s2"><span style="s4">world</span><span style="s3"> is</span> launching an idea accelerator</p>
+<p begin="00:21:17.030" end="00:21:22.470" style="s2"><span style="s4">with</span> the American<span style="s3"> Medical</span><span style="s4"> Women&#39;s</span></p>
+<p begin="00:21:19.200" end="00:21:25.140" style="s2">Association<span style="s4"> because</span> not only<span style="s4"> is</span> there a</p>
+<p begin="00:21:22.470" end="00:21:27.360" style="s2">need to<span style="s4"> factor sex and gender on the</span></p>
+<p begin="00:21:25.140" end="00:21:29.520" style="s2">front<span style="s4"> end</span> of anything<span style="s4"> but we need to</span></p>
+<p begin="00:21:27.360" end="00:21:32.510" style="s2">invite those women that are<span style="s4"> not</span><span style="s3"> only</span></p>
+<p begin="00:21:29.520" end="00:21:35.070" style="s2"><span style="s4">having full-time jobs but</span> they&#39;re also</p>
+<p begin="00:21:32.510" end="00:21:37.500" style="s2">coming<span style="s4"> up</span><span style="s3"> with</span> the ideas that<span style="s4"> they</span> don&#39;t</p>
+<p begin="00:21:35.070" end="00:21:40.170" style="s2">have<span style="s4"> time to take forward so</span> this is a</p>
+<p begin="00:21:37.500" end="00:21:43.590" style="s2">safe harbor<span style="s3"> where</span> they can be part of a</p>
+<p begin="00:21:40.170" end="00:21:46.770" style="s2">community<span style="s3"> that</span> respects<span style="s4"> and</span> recognizes</p>
+<p begin="00:21:43.590" end="00:21:49.710" style="s2">they have value and that<span style="s4"> their</span> value is</p>
+<p begin="00:21:46.770" end="00:21:52.080" style="s2"><span style="s4">really</span> profound<span style="s4"> and</span> we want to<span style="s4"> help</span></p>
+<p begin="00:21:49.710" end="00:21:55.050" style="s2">extract<span style="s4"> the</span> ideas<span style="s4"> and</span> help to</p>
+<p begin="00:21:52.080" end="00:21:57.600" style="s2">commercialize them or vet them in the</p>
+<p begin="00:21:55.050" end="00:22:00.660" style="s2">right place the right<span style="s3"> time</span> in the right</p>
+<p begin="00:21:57.600" end="00:22:02.960" style="s2">manner<span style="s4"> and</span> I invite<span style="s4"> you</span> to join me and</p>
+<p begin="00:22:00.660" end="00:22:05.940" style="s2"><span style="s4">dr.</span> Neelam<span style="s4"> Agarwal</span> from Rush University</p>
+<p begin="00:22:02.960" end="00:22:10.140" style="s2"><span style="s3">she&#39;s</span> a highly recognized Alzheimer</p>
+<p begin="00:22:05.940" end="00:22:13.550" style="s2">specialist<span style="s4"> and she is with</span> me moving</p>
+<p begin="00:22:10.140" end="00:22:14.909" style="s2"><span style="s3">forward and disrupting the</span><span style="s4"> way</span> that</p>
+<p begin="00:22:13.550" end="00:22:16.739" style="s2">entrepreneurs</p>
+<p begin="00:22:14.909" end="00:22:18.720" style="s2">connect with doctors and the community</p>
+<p begin="00:22:16.739" end="00:22:20.970" style="s2">and<span style="s4"> the</span><span style="s3"> patient</span><span style="s4"> so</span> that<span style="s4"> we</span> can run</p>
+<p begin="00:22:18.720" end="00:22:23.340" style="s2"><span style="s4">pilots</span> and we can take<span style="s4"> these</span> ideas<span style="s4"> and</span></p>
+<p begin="00:22:20.970" end="00:22:26.759" style="s2"><span style="s3">figure</span> out how<span style="s4"> to</span> make them<span style="s3"> work</span> and how</p>
+<p begin="00:22:23.340" end="00:22:30.419" style="s2">to<span style="s4"> make</span><span style="s3"> them successful</span><span style="s4"> quickly</span> because</p>
+<p begin="00:22:26.759" end="00:22:36.359" style="s2"><span style="s4">time kills all deals and</span> opportunities</p>
+<p begin="00:22:30.419" end="00:22:39.149" style="s2">and that is my life&#39;s<span style="s3"> work</span> and my</p>
+<p begin="00:22:36.359" end="00:22:42.619" style="s2"><span style="s3">passion</span> and I invite<span style="s3"> you</span> to join me<span style="s3"> if</span></p>
+<p begin="00:22:39.149" end="00:22:45.690" style="s2">you want<span style="s3"> to</span> join our<span style="s4"> AI</span> efforts<span style="s4"> our</span></p>
+<p begin="00:22:42.619" end="00:22:50.639" style="s2">accelerator efforts 3d printing efforts</p>
+<p begin="00:22:45.690" end="00:22:53.369" style="s2"><span style="s3">M hub any</span> of the various<span style="s3"> areas I invite</span></p>
+<p begin="00:22:50.639" end="00:23:13.049" style="s2">you<span style="s4"> and</span> welcome you<span style="s4"> happy</span> to take any</p>
+<p begin="00:22:53.369" end="00:23:16.259" style="s2">questions<span style="s3"> all right first</span> question um is</p>
+<p begin="00:23:13.049" end="00:23:17.399" style="s2">there anything that you or<span style="s3"> the</span><span style="s4"> people</span></p>
+<p begin="00:23:16.259" end="00:23:19.799" style="s2">you&#39;re working<span style="s4"> with are doing</span> to change</p>
+<p begin="00:23:17.399" end="00:23:22.679" style="s2"><span style="s4">medical</span> education<span style="s3"> to</span> make students<span style="s4"> more</span></p>
+<p begin="00:23:19.799" end="00:23:24.269" style="s2"><span style="s3">aware</span> of that<span style="s4"> 75</span> kilogram white male is</p>
+<p begin="00:23:22.679" end="00:23:27.419" style="s2"><span style="s4">not</span> necessarily the<span style="s3"> right</span> standard to</p>
+<p begin="00:23:24.269" end="00:23:30.179" style="s2"><span style="s4">use</span> absolutely<span style="s4"> so</span> Stanford</p>
+<p begin="00:23:27.419" end="00:23:35.549" style="s2">is really<span style="s4"> the</span> the leader in in doing</p>
+<p begin="00:23:30.179" end="00:23:39.090" style="s2">this<span style="s4"> Laura</span> Bush is at Texas<span style="s4"> Tech</span> put</p>
+<p begin="00:23:35.549" end="00:23:41.159" style="s2">together an entire curriculum and</p>
+<p begin="00:23:39.090" end="00:23:43.429" style="s2"><span style="s4">symposium</span> around the<span style="s4"> technology</span> this</p>
+<p begin="00:23:41.159" end="00:23:46.379" style="s2">topic and<span style="s4"> it&#39;s</span> pushing<span style="s4"> it</span> forward</p>
+<p begin="00:23:43.429" end="00:23:48.450" style="s2"><span style="s3">there&#39;s</span> efforts<span style="s4"> to</span> try<span style="s4"> to</span> integrate it</p>
+<p begin="00:23:46.379" end="00:23:50.570" style="s2"><span style="s4">into</span> the medical<span style="s3"> education</span> curriculum if</p>
+<p begin="00:23:48.450" end="00:23:54.960" style="s2">you&#39;ve tried to<span style="s3"> do</span> that<span style="s4"> with</span><span style="s3"> anything</span></p>
+<p begin="00:23:50.570" end="00:23:56.369" style="s2"><span style="s3">there&#39;s</span> extreme<span style="s4"> pushback because there&#39;s</span></p>
+<p begin="00:23:54.960" end="00:23:58.320" style="s2">no room<span style="s3"> for</span> anything anymore</p>
+<p begin="00:23:56.369" end="00:24:01.229" style="s2"><span style="s4">but</span> I think they have to<span style="s4"> get</span> smarter</p>
+<p begin="00:23:58.320" end="00:24:04.249" style="s2"><span style="s3">about</span> how<span style="s3"> to</span> introduce this<span style="s4"> we&#39;ve</span> we&#39;ve</p>
+<p begin="00:24:01.229" end="00:24:08.999" style="s2">worked with<span style="s4"> and</span> talked<span style="s3"> with</span> a lot<span style="s3"> of</span> the</p>
+<p begin="00:24:04.249" end="00:24:12.529" style="s2">AMA folks and<span style="s3"> animal</span> folks about<span style="s4"> how</span><span style="s3"> do</span></p>
+<p begin="00:24:08.999" end="00:24:16.019" style="s2"><span style="s4">we</span> get this<span style="s4"> to</span> be<span style="s4"> a</span> topic of import<span style="s4"> and</span></p>
+<p begin="00:24:12.529" end="00:24:17.340" style="s2">there are committees within<span style="s4"> that</span></p>
+<p begin="00:24:16.019" end="00:24:20.639" style="s2"><span style="s4">structure</span> that<span style="s4"> we&#39;re</span> working with</p>
+<p begin="00:24:17.340" end="00:24:23.659" style="s2">collaboratively and in fact dr. Nancy</p>
+<p begin="00:24:20.639" end="00:24:26.700" style="s2"><span style="s4">church</span> sits on the AMA<span style="s4"> diversity</span> board</p>
+<p begin="00:24:23.659" end="00:24:28.380" style="s2"><span style="s4">and</span> she&#39;s the president of<span style="s4"> the</span><span style="s3"> Chicago</span></p>
+<p begin="00:24:26.700" end="00:24:32.730" style="s2">chapter of<span style="s3"> Ann was--oh</span></p>
+<p begin="00:24:28.380" end="00:24:35.190" style="s2">we are trying<span style="s3"> to</span> position<span style="s3"> our</span> key</p>
+<p begin="00:24:32.730" end="00:24:37.170" style="s2">opinion leaders<span style="s3"> and</span> thought leaders<span style="s3"> to</span></p>
+<p begin="00:24:35.190" end="00:24:39.210" style="s2">make that change happen but it never</p>
+<p begin="00:24:37.170" end="00:24:47.940" style="s2">happens as fast<span style="s3"> as</span><span style="s4"> certainly</span> I want<span style="s4"> it</span></p>
+<p begin="00:24:39.210" end="00:24:55.260" style="s2">or most<span style="s4"> people want it so I have three</span></p>
+<p begin="00:24:47.940" end="00:24:58.200" style="s2">questions<span style="s3"> okay</span><span style="s4"> just</span> one<span style="s4"> okay</span><span style="s3"> okay</span> so the</p>
+<p begin="00:24:55.260" end="00:25:02.550" style="s2">population<span style="s4"> is</span> aging<span style="s3"> right</span> and we know</p>
+<p begin="00:24:58.200" end="00:25:05.910" style="s2">for<span style="s3"> sure</span><span style="s4"> women&#39;s</span> lives more<span style="s3"> than</span><span style="s4"> men</span> do</p>
+<p begin="00:25:02.550" end="00:25:09.330" style="s2"><span style="s3">how</span> do you think<span style="s4"> this</span><span style="s3"> is</span> shaping<span style="s4"> the</span></p>
+<p begin="00:25:05.910" end="00:25:11.610" style="s2">forces of<span style="s4"> the</span><span style="s3"> market</span> through<span style="s4"> this</span> kind</p>
+<p begin="00:25:09.330" end="00:25:15.390" style="s2">of I mean<span style="s3"> the</span><span style="s4"> future maybe it&#39;s not</span></p>
+<p begin="00:25:11.610" end="00:25:17.400" style="s2"><span style="s4">going</span> to be<span style="s4"> futurist female yeah</span> just</p>
+<p begin="00:25:15.390" end="00:25:20.090" style="s2"><span style="s4">ask during</span><span style="s3"> the</span> quarter from the<span style="s3"> why</span> me</p>
+<p begin="00:25:17.400" end="00:25:24.660" style="s2">so this forces are pushing<span style="s3"> their</span><span style="s4"> market</span></p>
+<p begin="00:25:20.090" end="00:25:27.300" style="s2"><span style="s3">that&#39;s</span> my question I&#39;m not<span style="s3"> sure what</span></p>
+<p begin="00:25:24.660" end="00:25:29.310" style="s2">you&#39;re asking<span style="s3"> are</span><span style="s4"> you</span> wanting to<span style="s4"> know</span></p>
+<p begin="00:25:27.300" end="00:25:34.290" style="s2">how is how<span style="s3"> is</span> the fact<span style="s3"> that</span> women are</p>
+<p begin="00:25:29.310" end="00:25:40.950" style="s2"><span style="s4">going to live</span> longer<span style="s3"> going</span><span style="s4"> to</span><span style="s3"> affect</span> I&#39;m</p>
+<p begin="00:25:34.290" end="00:25:44.730" style="s2">I may have missed something yeah I mean</p>
+<p begin="00:25:40.950" end="00:25:48.600" style="s2">the woman living longer<span style="s3"> they&#39;re</span><span style="s4"> going to</span></p>
+<p begin="00:25:44.730" end="00:25:51.480" style="s2">pay and the market is moving my money so</p>
+<p begin="00:25:48.600" end="00:25:53.790" style="s2">how is this<span style="s4"> going to affect the</span> medical</p>
+<p begin="00:25:51.480" end="00:25:57.210" style="s2"><span style="s4">industry</span> of the<span style="s4"> future</span><span style="s3"> that&#39;s</span><span style="s4"> my</span> point</p>
+<p begin="00:25:53.790" end="00:26:00.990" style="s2">Wow<span style="s3"> if</span> I could answer<span style="s4"> that</span><span style="s3"> question</span> I</p>
+<p begin="00:25:57.210" end="00:26:05.210" style="s2">think<span style="s4"> I</span> wouldn&#39;t be<span style="s4"> here</span><span style="s3"> that&#39;s</span> that&#39;s<span style="s4"> a</span></p>
+<p begin="00:26:00.990" end="00:26:08.610" style="s2"><span style="s4">really</span> difficult<span style="s4"> question</span> for<span style="s4"> me</span> I think</p>
+<p begin="00:26:05.210" end="00:26:12.440" style="s2"><span style="s4">I&#39;m</span> not I&#39;m<span style="s3"> not</span> the person<span style="s3"> to</span> answer</p>
+<p begin="00:26:08.610" end="00:26:15.440" style="s2"><span style="s4">that</span><span style="s3"> question</span><span style="s4"> but it&#39;s a hell of a</span></p>
+<p begin="00:26:12.440" end="00:26:15.440" style="s2"><span style="s4">question</span></p>
+<p begin="00:26:22.190" end="00:26:27.479" style="s2">eventually<span style="s4"> I</span><span style="s3"> will</span> invest in a drone<span style="s3"> that</span></p>
+<p begin="00:26:25.320" end="00:26:35.849" style="s2">will fly<span style="s4"> the</span> microphone to the right</p>
+<p begin="00:26:27.479" end="00:26:38.789" style="s2">spot hello my family is<span style="s3"> in</span> the<span style="s4"> medical</span></p>
+<p begin="00:26:35.849" end="00:26:42.749" style="s2">field and my mom is a lactation</p>
+<p begin="00:26:38.789" end="00:26:45.690" style="s2">consultant<span style="s3"> and</span> I&#39;ve seen with her</p>
+<p begin="00:26:42.749" end="00:26:48.509" style="s2">profession<span style="s3"> and</span><span style="s4"> my</span> dad is an infectious</p>
+<p begin="00:26:45.690" end="00:26:50.999" style="s2">disease<span style="s3"> doctor</span> in<span style="s4"> academia and I&#39;ve seen</span></p>
+<p begin="00:26:48.509" end="00:26:54.629" style="s2"><span style="s4">with</span> her profession kind of almost a</p>
+<p begin="00:26:50.999" end="00:26:57.809" style="s2">derisive miss<span style="s3"> woman&#39;s</span> specific<span style="s3"> health</span></p>
+<p begin="00:26:54.629" end="00:27:02.609" style="s2"><span style="s3">care</span> and I&#39;m<span style="s4"> wondering</span> is that<span style="s4"> just</span> my</p>
+<p begin="00:26:57.809" end="00:27:04.529" style="s2"><span style="s4">family</span><span style="s3"> and</span> it was<span style="s4"> at</span> an attitude and</p>
+<p begin="00:27:02.609" end="00:27:10.320" style="s2">medicine in general<span style="s4"> and</span> what is<span style="s4"> being</span></p>
+<p begin="00:27:04.529" end="00:27:13.529" style="s2"><span style="s4">done</span> to<span style="s3"> address</span> that so<span style="s4"> I</span> don&#39;t<span style="s4"> think</span></p>
+<p begin="00:27:10.320" end="00:27:17.929" style="s2">it&#39;s you I think<span style="s4"> it&#39;s</span> a broad problem</p>
+<p begin="00:27:13.529" end="00:27:23.460" style="s2"><span style="s4">and</span> you know it<span style="s4"> comes</span> down to<span style="s4"> almost</span></p>
+<p begin="00:27:17.929" end="00:27:26.460" style="s2"><span style="s3">this</span> simple<span style="s4"> little</span> fact that the mice in</p>
+<p begin="00:27:23.460" end="00:27:30.210" style="s2">clinical trials are cheaper as male mice</p>
+<p begin="00:27:26.460" end="00:27:32.219" style="s2"><span style="s4">than</span> female mice and so the path of</p>
+<p begin="00:27:30.210" end="00:27:35.820" style="s2">least resistance is what<span style="s4"> typically</span> gets</p>
+<p begin="00:27:32.219" end="00:27:38.190" style="s2"><span style="s3">adopted</span> right you don&#39;t<span style="s4"> have to employ</span></p>
+<p begin="00:27:35.820" end="00:27:39.989" style="s2">the<span style="s3"> the</span> female<span style="s3"> mice</span><span style="s4"> because</span> they have</p>
+<p begin="00:27:38.190" end="00:27:42.179" style="s2">hormonal complexities and<span style="s4"> they</span> get</p>
+<p begin="00:27:39.989" end="00:27:45.989" style="s2">pregnant and<span style="s4"> they</span> cost more and so I</p>
+<p begin="00:27:42.179" end="00:27:48.869" style="s2"><span style="s3">think</span><span style="s4"> that</span> we&#39;re more<span style="s4"> a</span> little<span style="s4"> more</span></p>
+<p begin="00:27:45.989" end="00:27:50.669" style="s2">complicated and that&#39;s an</p>
+<p begin="00:27:48.869" end="00:27:55.429" style="s2"><span style="s4">overgeneralization</span> but I think that&#39;s</p>
+<p begin="00:27:50.669" end="00:27:57.960" style="s2">what<span style="s3"> tend to happen</span> because<span style="s4"> we&#39;re</span></p>
+<p begin="00:27:55.429" end="00:28:03.919" style="s2">multitaskers we think<span style="s4"> about</span> so many</p>
+<p begin="00:27:57.960" end="00:28:05.879" style="s2"><span style="s4">things and we</span> create a more thoughtful</p>
+<p begin="00:28:03.919" end="00:28:10.649" style="s2"><span style="s4">engagement</span> with the<span style="s3"> healthcare</span> community</p>
+<p begin="00:28:05.879" end="00:28:14.369" style="s2"><span style="s4">and</span> I think we bear<span style="s3"> the</span> burden of</p>
+<p begin="00:28:10.649" end="00:28:18.539" style="s2">caregiving especially in<span style="s4"> all-timer cases</span></p>
+<p begin="00:28:14.369" end="00:28:22.609" style="s2">and I see<span style="s4"> that</span> as a persistent<span style="s4"> problem</span></p>
+<p begin="00:28:18.539" end="00:28:27.179" style="s2"><span style="s3">that</span> we get<span style="s4"> saddled</span> with more and can&#39;t</p>
+<p begin="00:28:22.609" end="00:28:30.169" style="s2">do more to heal ourselves and take care</p>
+<p begin="00:28:27.179" end="00:28:34.830" style="s2"><span style="s4">of</span> ourselves in<span style="s4"> many</span> cases but I<span style="s4"> think</span></p>
+<p begin="00:28:30.169" end="00:28:38.640" style="s2">it is a<span style="s3"> recognised</span> problem<span style="s4"> it&#39;s</span> not</p>
+<p begin="00:28:34.830" end="00:28:42.960" style="s2">yours<span style="s3"> solely</span><span style="s4"> what&#39;s</span> being done<span style="s3"> about</span> it</p>
+<p begin="00:28:38.640" end="00:28:45.960" style="s2"><span style="s3">I</span> think<span style="s3"> women</span> are<span style="s4"> starting</span> to speak up</p>
+<p begin="00:28:42.960" end="00:28:50.610" style="s2">and in be empowered<span style="s3"> and</span> through groups</p>
+<p begin="00:28:45.960" end="00:28:53.250" style="s2">like women in bio<span style="s4"> a moi and other groups</span></p>
+<p begin="00:28:50.610" end="00:28:55.470" style="s2">were starting to partner together and</p>
+<p begin="00:28:53.250" end="00:28:58.289" style="s2">and we&#39;ve<span style="s4"> been doing that</span> and that&#39;s</p>
+<p begin="00:28:55.470" end="00:29:00.649" style="s2">that&#39;s getting around our table<span style="s3"> and</span></p>
+<p begin="00:28:58.289" end="00:29:03.029" style="s2">having those<span style="s3"> conversations</span> to declare</p>
+<p begin="00:29:00.649" end="00:29:06.769" style="s2">what the problems are<span style="s4"> I</span> was at an</p>
+<p begin="00:29:03.029" end="00:29:09.059" style="s2">Alzheimer&#39;s<span style="s4"> roundtable</span> last<span style="s4"> month and</span></p>
+<p begin="00:29:06.769" end="00:29:11.899" style="s2">people from across<span style="s3"> the</span> country<span style="s4"> coming</span></p>
+<p begin="00:29:09.059" end="00:29:15.240" style="s2"><span style="s4">together</span> to share their stories about</p>
+<p begin="00:29:11.899" end="00:29:19.370" style="s2"><span style="s4">their</span> problems and and their challenges</p>
+<p begin="00:29:15.240" end="00:29:19.370" style="s2">as physicians<span style="s4"> and</span> how are they going to</p>
+<p begin="00:29:19.639" end="00:29:27.419" style="s2">basically traverse the climate within</p>
+<p begin="00:29:24.990" end="00:29:31.159" style="s2"><span style="s4">their</span> own<span style="s3"> Hospital</span> systems within their</p>
+<p begin="00:29:27.419" end="00:29:34.440" style="s2"><span style="s3">own</span> kind of<span style="s3"> healthcare</span> handcuffs<span style="s4"> and</span></p>
+<p begin="00:29:31.159" end="00:29:35.909" style="s2">those are real<span style="s4"> problems</span> in the</p>
+<p begin="00:29:34.440" end="00:29:38.039" style="s2"><span style="s4">healthcare</span><span style="s3"> field</span><span style="s4"> as</span> a<span style="s4"> patient</span> as a</p>
+<p begin="00:29:35.909" end="00:29:41.490" style="s2">doctor there&#39;s there&#39;s so many<span style="s4"> things</span></p>
+<p begin="00:29:38.039" end="00:29:44.210" style="s2">and<span style="s4"> that&#39;s</span> why I see the value<span style="s3"> of an my</span></p>
+<p begin="00:29:41.490" end="00:29:48.600" style="s2">accelerator to be profound because<span style="s4"> those</span></p>
+<p begin="00:29:44.210" end="00:29:51.480" style="s2">women identify the problems that they</p>
+<p begin="00:29:48.600" end="00:29:53.549" style="s2">also see solutions<span style="s4"> for</span> and if we can</p>
+<p begin="00:29:51.480" end="00:29:57.929" style="s2">give<span style="s3"> them</span> a safe harbor to bring that</p>
+<p begin="00:29:53.549" end="00:30:01.710" style="s2">into<span style="s3"> the</span> mix we can help<span style="s4"> liberate</span> or at</p>
+<p begin="00:29:57.929" end="00:30:05.510" style="s2">least catalyze ideas to break the<span style="s3"> wait</span></p>
+<p begin="00:30:01.710" end="00:30:05.510" style="s2"><span style="s4">the</span> patterns that<span style="s4"> are in place today</span></p>
+<p begin="00:30:08.250" end="00:30:15.210" style="s2"><span style="s4">um</span> I&#39;m going<span style="s4"> to do my best to articulate</span></p>
+<p begin="00:30:11.610" end="00:30:17.430" style="s2"><span style="s3">a</span><span style="s4"> very</span> complicated<span style="s4"> question</span><span style="s3"> I&#39;m</span><span style="s4"> curious</span></p>
+<p begin="00:30:15.210" end="00:30:19.170" style="s2">is<span style="s4"> your</span> working<span style="s3"> in</span> this field that&#39;s</p>
+<p begin="00:30:17.430" end="00:30:23.090" style="s2">essentially trying<span style="s4"> to</span> make<span style="s3"> health care</span></p>
+<p begin="00:30:19.170" end="00:30:26.600" style="s2">more personalized<span style="s4"> and</span> less<span style="s3"> model based</span></p>
+<p begin="00:30:23.090" end="00:30:30.030" style="s2"><span style="s4">do</span> you see like an<span style="s4"> intersection</span> between</p>
+<p begin="00:30:26.600" end="00:30:33.090" style="s2">the need for systemic<span style="s4"> health</span> care reform</p>
+<p begin="00:30:30.030" end="00:30:35.330" style="s2">and like<span style="s4"> politics and public policy</span><span style="s3"> does</span></p>
+<p begin="00:30:33.090" end="00:30:37.770" style="s2"><span style="s4">that</span> intersect<span style="s3"> with</span><span style="s4"> is</span> more personalized</p>
+<p begin="00:30:35.330" end="00:30:40.260" style="s2"><span style="s4">technology</span> so<span style="s3"> that</span> people have<span style="s4"> more of a</span></p>
+<p begin="00:30:37.770" end="00:30:42.180" style="s2">role<span style="s3"> in</span> the<span style="s4"> health</span> care that<span style="s3"> they</span></p>
+<p begin="00:30:40.260" end="00:30:45.270" style="s2">receive and<span style="s3"> that</span><span style="s4"> it&#39;s</span> personalized for</p>
+<p begin="00:30:42.180" end="00:30:47.190" style="s2"><span style="s3">them</span> not<span style="s3"> only</span> you know<span style="s4"> physically</span> but</p>
+<p begin="00:30:45.270" end="00:30:50.610" style="s2"><span style="s4">also</span> you know they also have more</p>
+<p begin="00:30:47.190" end="00:30:56.340" style="s2">equitable access<span style="s3"> to</span> it in ways<span style="s3"> that</span> they</p>
+<p begin="00:30:50.610" end="00:30:57.990" style="s2"><span style="s3">can</span> afford<span style="s4"> and</span> yeah yeah<span style="s3"> I</span><span style="s4"> think</span> my</p>
+<p begin="00:30:56.340" end="00:31:01.140" style="s2">quick<span style="s4"> answer</span> is<span style="s4"> yes</span></p>
+<p begin="00:30:57.990" end="00:31:03.840" style="s2"><span style="s3">absolutely</span> yes how are<span style="s4"> we going to</span> do</p>
+<p begin="00:31:01.140" end="00:31:06.960" style="s2"><span style="s4">that</span><span style="s3"> I</span> think disruptive technologies</p>
+<p begin="00:31:03.840" end="00:31:11.090" style="s2"><span style="s4">like</span> the<span style="s4"> 3d</span> printing world<span style="s4"> are going to</span></p>
+<p begin="00:31:06.960" end="00:31:13.170" style="s2">be profound<span style="s4"> in</span> allowing<span style="s4"> us</span> to deliver</p>
+<p begin="00:31:11.090" end="00:31:15.480" style="s2"><span style="s4">solutions</span> that are customized and</p>
+<p begin="00:31:13.170" end="00:31:18.120" style="s2">tailored to<span style="s3"> each</span><span style="s4"> of</span> us<span style="s4"> so</span> everything</p>
+<p begin="00:31:15.480" end="00:31:19.380" style="s2"><span style="s3">from</span><span style="s4"> shoes</span><span style="s3"> you&#39;re</span> seeing 3d printed</p>
+<p begin="00:31:18.120" end="00:31:24.630" style="s2">shoes becoming more and more mainstream</p>
+<p begin="00:31:19.380" end="00:31:26.400" style="s2"><span style="s4">and</span> accessible and affordable<span style="s4"> and</span> I</p>
+<p begin="00:31:24.630" end="00:31:29.190" style="s2">think that&#39;s where we&#39;re going<span style="s4"> to</span> see it</p>
+<p begin="00:31:26.400" end="00:31:34.350" style="s2">but we&#39;ve got to check<span style="s3"> and</span> put the lens</p>
+<p begin="00:31:29.190" end="00:31:36.180" style="s2">of<span style="s3"> gender</span><span style="s4"> before we start looking at the</span></p>
+<p begin="00:31:34.350" end="00:31:39.870" style="s2">treatment<span style="s4"> options and I think</span> that&#39;s</p>
+<p begin="00:31:36.180" end="00:31:41.730" style="s2">where we can<span style="s3"> begin</span> moving<span style="s4"> in</span> the right</p>
+<p begin="00:31:39.870" end="00:31:47.340" style="s2">direction<span style="s4"> and making the right decisions</span></p>
+<p begin="00:31:41.730" end="00:31:48.840" style="s2"><span style="s3">to</span> get us down<span style="s4"> the</span> pipe of better</p>
+<p begin="00:31:47.340" end="00:31:52.410" style="s2">healthcare<span style="s4"> but</span> I think it&#39;s</p>
+<p begin="00:31:48.840" end="00:31:54.090" style="s2"><span style="s3">intrinsically</span><span style="s4"> inseparable</span> and I feel</p>
+<p begin="00:31:52.410" end="00:31:56.340" style="s2"><span style="s4">really</span> bad do<span style="s4"> you</span> have another<span style="s3"> question</span></p>
+<p begin="00:31:54.090" end="00:32:00.770" style="s2">because<span style="s4"> I&#39;m</span> not a health care economist</p>
+<p begin="00:31:56.340" end="00:32:00.770" style="s2">and I couldn&#39;t<span style="s3"> even</span> pretend to<span style="s4"> be</span><span style="s3"> okay</span></p>
+<p begin="00:32:04.910" end="00:32:10.410" style="s2"><span style="s3">um</span><span style="s4"> my</span> question<span style="s3"> is</span> sort<span style="s3"> of</span><span style="s4"> based</span> on<span style="s4"> that</span></p>
+<p begin="00:32:08.670" end="00:32:11.760" style="s2">a<span style="s4"> little bit but it&#39;s kind of</span></p>
+<p begin="00:32:10.410" end="00:32:13.350" style="s2"><span style="s3">interesting</span> I think<span style="s3"> in</span> healthcare right</p>
+<p begin="00:32:11.760" end="00:32:16.200" style="s2">now<span style="s4"> and</span> looking at the way<span style="s4"> that</span> it used</p>
+<p begin="00:32:13.350" end="00:32:17.610" style="s2"><span style="s3">to</span> be<span style="s4"> really about charts right</span> it was</p>
+<p begin="00:32:16.200" end="00:32:19.140" style="s2">all<span style="s3"> about</span> the individual charts and you</p>
+<p begin="00:32:17.610" end="00:32:21.510" style="s2">might see a chart<span style="s3"> that</span> has a long</p>
+<p begin="00:32:19.140" end="00:32:22.020" style="s2">narrative<span style="s4"> about</span><span style="s3"> the</span> patient<span style="s4"> a patient</span></p>
+<p begin="00:32:21.510" end="00:32:24.180" style="s2">the<span style="s3"> client</span></p>
+<p begin="00:32:22.020" end="00:32:25.860" style="s2">and their whole medical history and<span style="s4"> we</span></p>
+<p begin="00:32:24.180" end="00:32:27.450" style="s2">really shifted away from<span style="s4"> that</span> when<span style="s3"> we</span> go</p>
+<p begin="00:32:25.860" end="00:32:29.070" style="s2"><span style="s4">to</span> electronic<span style="s4"> medical</span> records<span style="s4"> and</span> we</p>
+<p begin="00:32:27.450" end="00:32:31.160" style="s2">start looking<span style="s4"> at</span> a lot of<span style="s4"> big data and</span></p>
+<p begin="00:32:29.070" end="00:32:34.440" style="s2">we&#39;re looking<span style="s4"> at</span> a lot of</p>
+<p begin="00:32:31.160" end="00:32:36.960" style="s2"><span style="s3">results-oriented</span> data at a hospital</p>
+<p begin="00:32:34.440" end="00:32:38.940" style="s2"><span style="s4">level</span> and then you know city and county</p>
+<p begin="00:32:36.960" end="00:32:40.770" style="s2">and<span style="s4"> up up right</span> so I&#39;m<span style="s4"> just</span> wondering</p>
+<p begin="00:32:38.940" end="00:32:43.230" style="s2">it&#39;s sort of<span style="s4"> similar</span> to<span style="s4"> your</span> question a</p>
+<p begin="00:32:40.770" end="00:32:45.270" style="s2"><span style="s3">little</span><span style="s4"> bit</span><span style="s3"> just</span><span style="s4"> on</span> how it&#39;s interesting</p>
+<p begin="00:32:43.230" end="00:32:47.370" style="s2">the<span style="s3"> idea</span> of and I<span style="s4"> fully</span> agree obviously</p>
+<p begin="00:32:45.270" end="00:32:48.990" style="s2"><span style="s3">of</span> needing<span style="s3"> to</span> get close to<span style="s3"> the patient</span></p>
+<p begin="00:32:47.370" end="00:32:51.510" style="s2"><span style="s3">and</span> understand the individual<span style="s4"> on</span> those</p>
+<p begin="00:32:48.990" end="00:32:54.420" style="s2">individual issues but it almost<span style="s4"> feels</span></p>
+<p begin="00:32:51.510" end="00:32:57.120" style="s2"><span style="s3">like</span><span style="s4"> we</span> have<span style="s4"> for</span> good<span style="s4"> and</span><span style="s3"> bad</span> reasons</p>
+<p begin="00:32:54.420" end="00:32:59.790" style="s2"><span style="s3">gone</span> a bit<span style="s3"> away</span><span style="s4"> from</span><span style="s3"> that within</span></p>
+<p begin="00:32:57.120" end="00:33:03.210" style="s2"><span style="s4">healthcare</span><span style="s3"> and</span> I&#39;m just wondering<span style="s4"> if you</span></p>
+<p begin="00:32:59.790" end="00:33:05.550" style="s2">can if you<span style="s3"> can</span> speak<span style="s3"> to</span> that<span style="s4"> this</span><span style="s3"> it</span></p>
+<p begin="00:33:03.210" end="00:33:07.410" style="s2">seems like a<span style="s4"> push pull a little bit</span> on</p>
+<p begin="00:33:05.550" end="00:33:09.420" style="s2">moving away from<span style="s3"> individuals</span> so that<span style="s3"> we</span></p>
+<p begin="00:33:07.410" end="00:33:11.100" style="s2">can say you know<span style="s4"> these</span> hospitals meet</p>
+<p begin="00:33:09.420" end="00:33:13.680" style="s2">these requirements<span style="s3"> even within a ACA</span></p>
+<p begin="00:33:11.100" end="00:33:17.160" style="s2">which I mean<span style="s4"> you</span> can&#39;t even<span style="s3"> go</span> into<span style="s3"> that</span></p>
+<p begin="00:33:13.680" end="00:33:19.170" style="s2">right now<span style="s4"> but you</span><span style="s3"> know</span><span style="s4"> I</span> don&#39;t know if</p>
+<p begin="00:33:17.160" end="00:33:21.240" style="s2"><span style="s3">you&#39;re good to</span><span style="s4"> speak</span><span style="s3"> to</span><span style="s4"> that</span> in it so I</p>
+<p begin="00:33:19.170" end="00:33:25.290" style="s2">think<span style="s4"> we&#39;re</span> collecting tons of<span style="s4"> data</span></p>
+<p begin="00:33:21.240" end="00:33:26.310" style="s2">right it&#39;s the new norm<span style="s4"> and</span> as we</p>
+<p begin="00:33:25.290" end="00:33:28.290" style="s2">collect<span style="s3"> more</span> data</p>
+<p begin="00:33:26.310" end="00:33:31.590" style="s2">we&#39;re<span style="s4"> actually</span><span style="s3"> deep</span> personalizing the</p>
+<p begin="00:33:28.290" end="00:33:33.420" style="s2">intersect engagement of the physician</p>
+<p begin="00:33:31.590" end="00:33:35.760" style="s2">with the<span style="s3"> patients</span><span style="s4"> right</span> because they&#39;ve</p>
+<p begin="00:33:33.420" end="00:33:37.050" style="s2">got their backs and they&#39;re<span style="s4"> doing all</span></p>
+<p begin="00:33:35.760" end="00:33:40.770" style="s2">the data and they&#39;re trying to<span style="s4"> check</span> all</p>
+<p begin="00:33:37.050" end="00:33:42.860" style="s2">the boxes<span style="s3"> and</span> it&#39;s not a happy<span style="s3"> place</span> for</p>
+<p begin="00:33:40.770" end="00:33:48.720" style="s2"><span style="s3">them</span></p>
+<p begin="00:33:42.860" end="00:33:51.630" style="s2">tremendous amount<span style="s4"> of</span> I guess</p>
+<p begin="00:33:48.720" end="00:33:53.730" style="s2">disillusionment<span style="s4"> and</span> depression in the</p>
+<p begin="00:33:51.630" end="00:33:57.300" style="s2">medical field<span style="s3"> with</span> doctors committing</p>
+<p begin="00:33:53.730" end="00:33:59.400" style="s2">suicide it&#39;s a it&#39;s a real problem<span style="s4"> and</span> I</p>
+<p begin="00:33:57.300" end="00:34:01.710" style="s2"><span style="s3">don&#39;t</span><span style="s4"> think</span> that&#39;s because<span style="s4"> of</span> data I</p>
+<p begin="00:33:59.400" end="00:34:05.220" style="s2"><span style="s3">think</span> there&#39;s just a lot<span style="s3"> of</span> factors that</p>
+<p begin="00:34:01.710" end="00:34:07.740" style="s2"><span style="s4">play</span><span style="s3"> into</span> that but I think<span style="s3"> it&#39;s</span> really</p>
+<p begin="00:34:05.220" end="00:34:10.169" style="s2">important<span style="s3"> that</span> we do<span style="s4"> find</span> a way to</p>
+<p begin="00:34:07.740" end="00:34:14.310" style="s2"><span style="s4">streamline and collect data and</span> I<span style="s4"> think</span></p>
+<p begin="00:34:10.169" end="00:34:17.340" style="s2"><span style="s4">where</span> we&#39;re going to eventually find</p>
+<p begin="00:34:14.310" end="00:34:20.010" style="s2">ourselves<span style="s4"> is</span> with some tremendously</p>
+<p begin="00:34:17.340" end="00:34:22.980" style="s2">intelligent<span style="s3"> algorithms</span> that are<span style="s4"> going to</span></p>
+<p begin="00:34:20.010" end="00:34:25.649" style="s2">employ AI and machine<span style="s3"> learning</span> to do</p>
+<p begin="00:34:22.980" end="00:34:29.840" style="s2">some<span style="s4"> complex</span> reasoning that will allow</p>
+<p begin="00:34:25.649" end="00:34:32.980" style="s2">us<span style="s3"> to</span><span style="s4"> do</span> the job<span style="s4"> more</span> efficiently and</p>
+<p begin="00:34:29.840" end="00:34:37.260" style="s2">release the time that the doctor</p>
+<p begin="00:34:32.980" end="00:34:41.830" style="s2">is encumbered<span style="s4"> by</span> delta-t</p>
+<p begin="00:34:37.260" end="00:34:45.010" style="s2"><span style="s3">keep-keep or they call it keyboarding</span></p>
+<p begin="00:34:41.830" end="00:34:49.470" style="s2">keyboarding<span style="s4"> and and</span><span style="s3"> and</span><span style="s4"> or</span><span style="s3"> we keying or</span></p>
+<p begin="00:34:45.010" end="00:34:51.909" style="s2">correcting and<span style="s4"> I</span> think that kind of<span style="s4"> the</span></p>
+<p begin="00:34:49.470" end="00:34:54.040" style="s2">salvo that we should be shooting<span style="s4"> for</span><span style="s3"> is</span></p>
+<p begin="00:34:51.909" end="00:34:57.460" style="s2">if we&#39;re<span style="s4"> going to collect this we</span> got<span style="s4"> to</span></p>
+<p begin="00:34:54.040" end="00:35:00.040" style="s2"><span style="s4">figure</span> out<span style="s4"> how</span> to<span style="s4"> make</span> it<span style="s4"> less</span> heavy on</p>
+<p begin="00:34:57.460" end="00:35:02.590" style="s2">the system and<span style="s4"> the</span> people<span style="s3"> delivering</span> the</p>
+<p begin="00:35:00.040" end="00:35:06.580" style="s2">care and<span style="s4"> it&#39;s</span> it&#39;s got to go back<span style="s3"> to</span> a</p>
+<p begin="00:35:02.590" end="00:35:09.310" style="s2">more personal approach right<span style="s4"> so</span> I think</p>
+<p begin="00:35:06.580" end="00:35:11.550" style="s2">if we can reach<span style="s3"> that</span> level<span style="s3"> that</span><span style="s4"> would</span> be</p>
+<p begin="00:35:09.310" end="00:35:11.550" style="s2">amazing</p>
+<p begin="00:35:11.640" end="00:35:19.450" style="s2">yeah<span style="s4"> so</span> my question is<span style="s3"> about they&#39;d</span><span style="s4"> ever</span></p>
+<p begin="00:35:16.090" end="00:35:23.500" style="s2"><span style="s4">know so I know how it</span><span style="s3"> works</span> okay<span style="s3"> so</span> you</p>
+<p begin="00:35:19.450" end="00:35:26.650" style="s2">go<span style="s3"> a</span> patient goes to a clinic or</p>
+<p begin="00:35:23.500" end="00:35:30.280" style="s2">whatever<span style="s4"> go</span> to the MRI machine<span style="s3"> and</span> then</p>
+<p begin="00:35:26.650" end="00:35:34.990" style="s2">there is a bunch of data there but who</p>
+<p begin="00:35:30.280" end="00:35:37.960" style="s2"><span style="s3">owns</span><span style="s4"> that this data so</span> right now<span style="s3"> Watson</span></p>
+<p begin="00:35:34.990" end="00:35:41.380" style="s2"><span style="s3">for</span> example<span style="s3"> day Watson guys</span><span style="s4"> on</span> stones</p>
+<p begin="00:35:37.960" end="00:35:44.320" style="s2">and tons of data<span style="s4"> so</span><span style="s3"> how</span> we liberate this</p>
+<p begin="00:35:41.380" end="00:35:47.200" style="s2">data for<span style="s4"> people like that</span><span style="s3"> is</span> here worst</p>
+<p begin="00:35:44.320" end="00:35:48.700" style="s2">of<span style="s3"> that</span> so I would love to get all that</p>
+<p begin="00:35:47.200" end="00:35:52.990" style="s2">data there<span style="s3"> are</span> a number<span style="s3"> of</span><span style="s4"> companies</span></p>
+<p begin="00:35:48.700" end="00:35:56.740" style="s2"><span style="s3">that</span> have have these incredible bulk in</p>
+<p begin="00:35:52.990" end="00:36:01.600" style="s2">the<span style="s4"> cloud</span> of all of your<span style="s4"> MRI</span> data right</p>
+<p begin="00:35:56.740" end="00:36:03.900" style="s2">and there&#39;s a challenge<span style="s3"> because</span> it used</p>
+<p begin="00:36:01.600" end="00:36:06.670" style="s2">to<span style="s4"> be Dell had one of the biggest</span><span style="s3"> VN RS</span></p>
+<p begin="00:36:03.900" end="00:36:09.490" style="s2"><span style="s4">vendor-neutral archives from</span><span style="s3"> enas</span></p>
+<p begin="00:36:06.670" end="00:36:11.590" style="s2">and you store<span style="s3"> all</span><span style="s4"> this</span> data<span style="s4"> and</span> it stays</p>
+<p begin="00:36:09.490" end="00:36:15.400" style="s2"><span style="s3">there</span> who owns it</p>
+<p begin="00:36:11.590" end="00:36:22.290" style="s2">I suspect the patient has rights because</p>
+<p begin="00:36:15.400" end="00:36:26.950" style="s2">it&#39;s their data<span style="s4"> the</span> truth or the</p>
+<p begin="00:36:22.290" end="00:36:30.220" style="s2">ideology goes if you<span style="s4"> D</span> identify the data</p>
+<p begin="00:36:26.950" end="00:36:34.270" style="s2">then it&#39;s generic</p>
+<p begin="00:36:30.220" end="00:36:38.800" style="s2"><span style="s3">no</span> one knows whose it is unless<span style="s4"> you</span> have</p>
+<p begin="00:36:34.270" end="00:36:41.890" style="s2"><span style="s3">a</span> really unique use case and you by</p>
+<p begin="00:36:38.800" end="00:36:44.290" style="s2"><span style="s4">virtue</span> of the disease state can identify</p>
+<p begin="00:36:41.890" end="00:36:46.380" style="s2">and connect with<span style="s4"> someone then it&#39;s no</span></p>
+<p begin="00:36:44.290" end="00:36:48.690" style="s2"><span style="s3">longer</span> really be identified</p>
+<p begin="00:36:46.380" end="00:36:50.490" style="s2">and so there&#39;s there&#39;s<span style="s4"> a</span> huge<span style="s4"> number</span> of</p>
+<p begin="00:36:48.690" end="00:36:53.910" style="s2">layers that<span style="s3"> we</span> have to go through<span style="s4"> and</span></p>
+<p begin="00:36:50.490" end="00:36:57.480" style="s2">then once the<span style="s4"> people die does</span> their</p>
+<p begin="00:36:53.910" end="00:37:00.450" style="s2">family on<span style="s3"> it</span><span style="s4"> does</span> it go to<span style="s4"> the</span> company</p>
+<p begin="00:36:57.480" end="00:37:05.160" style="s2">who&#39;s paying the<span style="s4"> money</span> to store the<span style="s3"> data</span></p>
+<p begin="00:37:00.450" end="00:37:07.500" style="s2"><span style="s3">the</span> hospital or the the provider<span style="s4"> lots</span> of</p>
+<p begin="00:37:05.160" end="00:37:11.460" style="s2">complexities<span style="s4"> there</span> are companies</p>
+<p begin="00:37:07.500" end="00:37:14.460" style="s2">overseas<span style="s4"> that</span> have aggregated<span style="s4"> population</span></p>
+<p begin="00:37:11.460" end="00:37:20.400" style="s2">data in these archives and are selling</p>
+<p begin="00:37:14.460" end="00:37:24.840" style="s2">access<span style="s4"> to</span> it<span style="s3"> for</span> researchers to borrow</p>
+<p begin="00:37:20.400" end="00:37:27.540" style="s2">and create<span style="s3"> algorithms that then they get</span></p>
+<p begin="00:37:24.840" end="00:37:29.100" style="s2"><span style="s4">a piece</span><span style="s3"> of</span> the you<span style="s4"> know</span> license for it</p>
+<p begin="00:37:27.540" end="00:37:30.660" style="s2">so there&#39;s there&#39;s<span style="s4"> lots</span> of things</p>
+<p begin="00:37:29.100" end="00:37:33.660" style="s2"><span style="s4">happening</span> all across the<span style="s3"> globe</span> and I</p>
+<p begin="00:37:30.660" end="00:37:36.570" style="s2">think it&#39;s<span style="s4"> very</span> variable<span style="s3"> I</span> don&#39;t know</p>
+<p begin="00:37:33.660" end="00:37:42.350" style="s2">that that that that<span style="s4"> personal</span> security</p>
+<p begin="00:37:36.570" end="00:37:46.740" style="s2">and privacy has<span style="s3"> been</span> even talked about</p>
+<p begin="00:37:42.350" end="00:37:48.720" style="s2">very<span style="s3"> much</span> about those scans<span style="s4"> but</span> I</p>
+<p begin="00:37:46.740" end="00:37:51.180" style="s2">certainly<span style="s4"> would love to have access to</span><span style="s3"> a</span></p>
+<p begin="00:37:48.720" end="00:37:53.580" style="s2">lot of<span style="s4"> that data I could do</span> so<span style="s4"> many</span></p>
+<p begin="00:37:51.180" end="00:37:56.700" style="s2">things<span style="s4"> with</span> the AI<span style="s4"> technology</span> that&#39;s</p>
+<p begin="00:37:53.580" end="00:37:59.430" style="s2">that we&#39;re<span style="s3"> doing</span> but it&#39;s it&#39;s much like</p>
+<p begin="00:37:56.700" end="00:38:02.400" style="s2">a lot of<span style="s3"> the</span> privacy<span style="s4"> concerns</span> we have on</p>
+<p begin="00:37:59.430" end="00:38:04.680" style="s2">other types of data<span style="s4"> but</span> this<span style="s3"> is</span> real and</p>
+<p begin="00:38:02.400" end="00:38:08.040" style="s2"><span style="s3">this is</span><span style="s4"> your</span> body<span style="s4"> and</span> at what point do</p>
+<p begin="00:38:04.680" end="00:38:12.240" style="s2">you relinquish ownership of that<span style="s4"> kind</span> of</p>
+<p begin="00:38:08.040" end="00:38:14.670" style="s2">a scan it&#39;s a<span style="s4"> lovely</span> conversation<span style="s4"> that</span></p>
+<p begin="00:38:12.240" end="00:38:16.890" style="s2">we could talk<span style="s4"> about forever but</span> but be</p>
+<p begin="00:38:14.670" end="00:38:20.010" style="s2"><span style="s3">aware</span> that<span style="s4"> that&#39;s</span> there and most<span style="s4"> of your</span></p>
+<p begin="00:38:16.890" end="00:38:21.630" style="s2"><span style="s4">data</span> is in<span style="s3"> the</span> cloud and actually Dell</p>
+<p begin="00:38:20.010" end="00:38:25.170" style="s2">has sold<span style="s4"> to</span> NTT DATA</p>
+<p begin="00:38:21.630" end="00:38:28.340" style="s2">so that&#39;s<span style="s3"> their</span><span style="s4"> and</span> then you<span style="s3"> have</span> to</p>
+<p begin="00:38:25.170" end="00:38:33.660" style="s2"><span style="s3">ship up with vital images and you have</span></p>
+<p begin="00:38:28.340" end="00:38:39.290" style="s2"><span style="s4">Siemens and GE with other partners as</span></p>
+<p begin="00:38:33.660" end="00:38:42.120" style="s2">well<span style="s3"> so</span> great<span style="s3"> question no answer and</span> I</p>
+<p begin="00:38:39.290" end="00:38:43.530" style="s2">suspect<span style="s4"> it&#39;s</span> one of<span style="s4"> those</span> things where</p>
+<p begin="00:38:42.120" end="00:38:50.010" style="s2">the data lives where it lives<span style="s3"> and</span></p>
+<p begin="00:38:43.530" end="00:38:53.580" style="s2">whoever accesses it can decide<span style="s4"> and</span> have</p>
+<p begin="00:38:50.010" end="00:38:56.250" style="s2">decision rights<span style="s4"> around</span> it so<span style="s4"> we</span> think<span style="s4"> we</span></p>
+<p begin="00:38:53.580" end="00:38:59.320" style="s2"><span style="s4">will turn</span><span style="s3"> to</span><span style="s4"> one more question we have</span></p>
+<p begin="00:38:56.250" end="00:39:01.400" style="s2">one<span style="s4"> here and there</span></p>
+<p begin="00:38:59.320" end="00:39:03.890" style="s2"><span style="s3">how</span> does the<span style="s4"> current</span> regulatory</p>
+<p begin="00:39:01.400" end="00:39:06.290" style="s2">environment<span style="s4"> on</span> 3d printing<span style="s3"> and</span> on</p>
+<p begin="00:39:03.890" end="00:39:10.700" style="s2">medical devices affect the work that</p>
+<p begin="00:39:06.290" end="00:39:15.080" style="s2">you&#39;re doing<span style="s4"> great</span> question<span style="s4"> so if it&#39;s</span></p>
+<p begin="00:39:10.700" end="00:39:18.410" style="s2">less about<span style="s4"> the regulatory space although</span></p>
+<p begin="00:39:15.080" end="00:39:21.200" style="s2"><span style="s4">they&#39;ve</span><span style="s3"> been</span> more reactive<span style="s4"> to the market</span></p>
+<p begin="00:39:18.410" end="00:39:23.900" style="s2">so they&#39;ve accepted<span style="s4"> submissions and in</span></p>
+<p begin="00:39:21.200" end="00:39:26.750" style="s2">some cases in an express fashion<span style="s4"> to</span></p>
+<p begin="00:39:23.900" end="00:39:29.560" style="s2">accelerate the adoption<span style="s4"> so</span> it&#39;s it&#39;s</p>
+<p begin="00:39:26.750" end="00:39:32.120" style="s2">more<span style="s4"> they</span> haven&#39;t kind of globally</p>
+<p begin="00:39:29.560" end="00:39:36.290" style="s2"><span style="s4">approved</span> anything but they are<span style="s3"> being</span></p>
+<p begin="00:39:32.120" end="00:39:42.040" style="s2">responsive and<span style="s4"> and</span> they I think<span style="s4"> last</span></p>
+<p begin="00:39:36.290" end="00:39:42.040" style="s2">year there were like<span style="s3"> 85</span> 3d printed</p>
+<p begin="00:39:42.280" end="00:39:50.720" style="s2"><span style="s3">things</span> devices<span style="s4"> or</span> drugs or whatever that</p>
+<p begin="00:39:47.000" end="00:39:54.460" style="s2">were approved in<span style="s3"> that</span> pipeline<span style="s4"> and</span> that</p>
+<p begin="00:39:50.720" end="00:39:57.020" style="s2"><span style="s4">continues</span> to flow the hiccup for<span style="s4"> us</span> in</p>
+<p begin="00:39:54.460" end="00:39:59.990" style="s2">employing 3d printing in<span style="s4"> the</span> medical</p>
+<p begin="00:39:57.020" end="00:40:02.990" style="s2">space really<span style="s4"> has</span> to do with<span style="s4"> who&#39;s</span> going</p>
+<p begin="00:39:59.990" end="00:40:06.950" style="s2">to pay there&#39;s no CPT codes</p>
+<p begin="00:40:02.990" end="00:40:09.800" style="s2">there&#39;s<span style="s4"> nobody</span> willing<span style="s4"> to</span> charge<span style="s4"> back</span></p>
+<p begin="00:40:06.950" end="00:40:10.940" style="s2"><span style="s4">the hospital doesn&#39;t want</span> to pay the</p>
+<p begin="00:40:09.800" end="00:40:15.250" style="s2"><span style="s3">doctor</span> doesn&#39;t want<span style="s3"> to</span><span style="s4"> paying the</span></p>
+<p begin="00:40:10.940" end="00:40:20.510" style="s2">patient likely<span style="s4"> won&#39;t</span> unless it&#39;s a</p>
+<p begin="00:40:15.250" end="00:40:22.810" style="s2">vanity<span style="s4"> play</span> so<span style="s3"> mérimée</span> 3d out of New</p>
+<p begin="00:40:20.510" end="00:40:27.550" style="s2"><span style="s4">York</span> does the pre<span style="s4"> and</span> post</p>
+<p begin="00:40:22.810" end="00:40:32.840" style="s2">reconstructive augmentation you know</p>
+<p begin="00:40:27.550" end="00:40:34.760" style="s2"><span style="s4">face plastic surgery so</span> in those<span style="s4"> cases</span></p>
+<p begin="00:40:32.840" end="00:40:36.800" style="s2">that&#39;s discretionary<span style="s3"> in common they</span> can</p>
+<p begin="00:40:34.760" end="00:40:40.190" style="s2"><span style="s4">decide</span> to do that they<span style="s4"> can</span> have 3d</p>
+<p begin="00:40:36.800" end="00:40:43.460" style="s2">printed selfie which we also do but if</p>
+<p begin="00:40:40.190" end="00:40:47.480" style="s2">it&#39;s more right now<span style="s4"> that that there&#39;s</span> no</p>
+<p begin="00:40:43.460" end="00:40:51.770" style="s2"><span style="s4">gateway</span> to reimbursement<span style="s4"> and the</span><span style="s3"> value</span></p>
+<p begin="00:40:47.480" end="00:40:56.540" style="s2">has not been quantified sufficiently to</p>
+<p begin="00:40:51.770" end="00:40:59.930" style="s2">move people<span style="s4"> to</span> make this a priority<span style="s4"> and</span></p>
+<p begin="00:40:56.540" end="00:41:03.200" style="s2"><span style="s4">and</span> we try to push on that as well</p>
+<p begin="00:40:59.930" end="00:41:06.320" style="s2"><span style="s3">I</span> serve on the<span style="s4"> subcommittee for 3d</span></p>
+<p begin="00:41:03.200" end="00:41:09.790" style="s2">imaging standards in across<span style="s4"> the country</span></p>
+<p begin="00:41:06.320" end="00:41:12.790" style="s2">and we&#39;re trying to at<span style="s3"> least</span><span style="s4"> create a</span></p>
+<p begin="00:41:09.790" end="00:41:15.980" style="s2">repeatable<span style="s4"> credible</span></p>
+<p begin="00:41:12.790" end="00:41:20.450" style="s2"><span style="s3">definition</span> of what a good scan is so</p>
+<p begin="00:41:15.980" end="00:41:23.500" style="s2">that you&#39;d have some<span style="s4"> something</span><span style="s3"> to</span><span style="s4"> stand</span></p>
+<p begin="00:41:20.450" end="00:41:28.400" style="s2">on when you&#39;re seeking<span style="s4"> that</span> kind of</p>
+<p begin="00:41:23.500" end="00:41:29.880" style="s2">reimbursement<span style="s4"> great</span> well<span style="s3"> let&#39;s</span> give a</p>
+<p begin="00:41:28.400" end="00:41:38.399" style="s2"><span style="s3">big hand to our</span><span style="s4"> speaker</span></p>
+<p begin="00:41:29.880" end="00:41:38.399" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

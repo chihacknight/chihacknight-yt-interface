@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.670" end="00:00:11.429" style="s2">hi everyone I&#39;m<span style="s3"> Cathy</span> ding and<span style="s3"> I&#39;m</span> here</p>
+<p begin="00:00:08.040" end="00:00:13.170" style="s2">to talk to you about avoiding apps so as</p>
+<p begin="00:00:11.429" end="00:00:15.540" style="s2">a disclaimer I&#39;m not like railing</p>
+<p begin="00:00:13.170" end="00:00:18.119" style="s2">against all apps<span style="s4"> i</span> actually love apps i</p>
+<p begin="00:00:15.540" end="00:00:20.189" style="s2">love<span style="s4"> google</span> maps<span style="s4"> i</span> love snapchat<span style="s4"> i</span> love</p>
+<p begin="00:00:18.119" end="00:00:22.100" style="s2">Instagram but that&#39;s not what I&#39;m</p>
+<p begin="00:00:20.189" end="00:00:26.460" style="s2">talking<span style="s3"> about</span> here<span style="s4"> I&#39;m</span> talking about</p>
+<p begin="00:00:22.100" end="00:00:29.010" style="s2">volunteer<span style="s3"> Civic</span> apps<span style="s3"> um</span> and I think it&#39;s</p>
+<p begin="00:00:26.460" end="00:00:31.980" style="s2">really<span style="s3"> easy</span> for<span style="s4"> people</span> to<span style="s4"> kind</span> of equate</p>
+<p begin="00:00:29.010" end="00:00:35.219" style="s2">Civic tech and civic apps when people</p>
+<p begin="00:00:31.980" end="00:00:36.809" style="s2">talk about<span style="s4"> civic</span> apps um they&#39;ll they&#39;ll</p>
+<p begin="00:00:35.219" end="00:00:39.989" style="s2">always talk about like the technology</p>
+<p begin="00:00:36.809" end="00:00:42.750" style="s2">first and<span style="s4"> also</span> there&#39;s like no shortage</p>
+<p begin="00:00:39.989" end="00:00:44.820" style="s2">of hackathons and amp competitions that</p>
+<p begin="00:00:42.750" end="00:00:48.180" style="s2">kind<span style="s4"> of</span> like elevate apps as something</p>
+<p begin="00:00:44.820" end="00:00:51.180" style="s2">you should aspire to um but I think that</p>
+<p begin="00:00:48.180" end="00:00:55.050" style="s2">tech can mean a lot of<span style="s3"> things</span> and apps</p>
+<p begin="00:00:51.180" end="00:00:57.390" style="s2">are just a tiny<span style="s4"> tiny</span> sliver um and one</p>
+<p begin="00:00:55.050" end="00:00:59.730" style="s2">thing<span style="s3"> about</span> apps is that they&#39;re<span style="s4"> really</span></p>
+<p begin="00:00:57.390" end="00:01:02.100" style="s2">hard to<span style="s3"> make</span> there&#39;s a reason<span style="s3"> why</span></p>
+<p begin="00:00:59.730" end="00:01:04.979" style="s2">instagram has like a giant team of paid</p>
+<p begin="00:01:02.100" end="00:01:07.020" style="s2">engineers so while apps are great<span style="s3"> i</span></p>
+<p begin="00:01:04.979" end="00:01:11.189" style="s2">don&#39;t think<span style="s4"> they&#39;re</span> they&#39;re the best fit</p>
+<p begin="00:01:07.020" end="00:01:14.250" style="s2"><span style="s3">for</span> volunteer projects and also<span style="s3"> there&#39;s</span></p>
+<p begin="00:01:11.189" end="00:01:17.520" style="s2">a<span style="s4"> kind of more subtle issue with</span></p>
+<p begin="00:01:14.250" end="00:01:19.799" style="s2">focusing on apps which is that apps are</p>
+<p begin="00:01:17.520" end="00:01:23.460" style="s2">often not inclusive it&#39;s<span style="s4"> really hard to</span></p>
+<p begin="00:01:19.799" end="00:01:25.140" style="s2">get a<span style="s4"> volunteer</span> project<span style="s4"> that&#39;s</span> a nap and</p>
+<p begin="00:01:23.460" end="00:01:26.759" style="s2">also involve a lot of<span style="s4"> people</span> who are not</p>
+<p begin="00:01:25.140" end="00:01:28.799" style="s2">developers because having apps just</p>
+<p begin="00:01:26.759" end="00:01:32.579" style="s2"><span style="s4">really</span> privileges coating over other</p>
+<p begin="00:01:28.799" end="00:01:34.590" style="s2">types of work um so anyways let&#39;s talk</p>
+<p begin="00:01:32.579" end="00:01:37.140" style="s2">about some<span style="s3"> other</span> types of<span style="s3"> cool</span> projects</p>
+<p begin="00:01:34.590" end="00:01:39.600" style="s2">that aren&#39;t app so if you&#39;re<span style="s4"> looking</span> to</p>
+<p begin="00:01:37.140" end="00:01:41.970" style="s2">volunteer here and you&#39;re like not</p>
+<p begin="00:01:39.600" end="00:01:45.329" style="s2">really<span style="s4"> sure</span> how here are a bunch of free</p>
+<p begin="00:01:41.970" end="00:01:48.899" style="s2">breakout group ideas um so one thing I</p>
+<p begin="00:01:45.329" end="00:01:51.329" style="s2">love is Bob so Bob are much more</p>
+<p begin="00:01:48.899" end="00:01:53.579" style="s2">lightweight than apps and require much</p>
+<p begin="00:01:51.329" end="00:01:56.159" style="s2">less maintenance what I really like is a</p>
+<p begin="00:01:53.579" end="00:01:58.740" style="s2"><span style="s4">Twitter</span> bot called census Americans a</p>
+<p begin="00:01:56.159" end="00:02:01.890" style="s2">lot of census data is like aggregate</p>
+<p begin="00:01:58.740" end="00:02:05.549" style="s2">data it&#39;ll be like the<span style="s4"> per capita income</span></p>
+<p begin="00:02:01.890" end="00:02:07.350" style="s2">of this zip code is X and it&#39;s hard<span style="s4"> to</span></p>
+<p begin="00:02:05.549" end="00:02:10.259" style="s2">see the people<span style="s4"> behind</span> it so the spot</p>
+<p begin="00:02:07.350" end="00:02:12.690" style="s2">kind of personalizes and humanizes the</p>
+<p begin="00:02:10.259" end="00:02:15.180" style="s2">people behind behind the data</p>
+<p begin="00:02:12.690" end="00:02:17.010" style="s2">so hey I carpool with another person<span style="s4"> I</span></p>
+<p begin="00:02:15.180" end="00:02:19.830" style="s2">served during the Vietnam and Korea and</p>
+<p begin="00:02:17.010" end="00:02:22.080" style="s2">era it&#39;s kind of cool<span style="s3"> to</span> see um another</p>
+<p begin="00:02:19.830" end="00:02:24.150" style="s2"><span style="s4">type</span> of bot you can make<span style="s4"> it</span> doesn&#39;t have</p>
+<p begin="00:02:22.080" end="00:02:26.610" style="s2">to be a<span style="s3"> Twitter</span> bot is<span style="s3"> live</span> but<span style="s4"> um</span></p>
+<p begin="00:02:24.150" end="00:02:28.920" style="s2">here&#39;s about we have an art slackware if</p>
+<p begin="00:02:26.610" end="00:02:32.190" style="s2">you address a group of people<span style="s4"> that</span> are</p>
+<p begin="00:02:28.920" end="00:02:35.760" style="s2">not all guys as guys<span style="s4"> it&#39;ll</span> say hey did</p>
+<p begin="00:02:32.190" end="00:02:37.830" style="s2">you mean nerds or Pete and also the code</p>
+<p begin="00:02:35.760" end="00:02:40.410" style="s2">for this is on github we&#39;ve been</p>
+<p begin="00:02:37.830" end="00:02:42.780" style="s2"><span style="s4">thinking</span> a lot about ways to automate</p>
+<p begin="00:02:40.410" end="00:02:45.000" style="s2">kind of having people introduce</p>
+<p begin="00:02:42.780" end="00:02:46.770" style="s2">themselves or give a little orientation</p>
+<p begin="00:02:45.000" end="00:02:47.880" style="s2">when people join our slack channels if</p>
+<p begin="00:02:46.770" end="00:02:50.340" style="s2">that&#39;s something you want<span style="s4"> to</span> work on</p>
+<p begin="00:02:47.880" end="00:02:52.620" style="s2">talk to me another thing I love is</p>
+<p begin="00:02:50.340" end="00:02:56.100" style="s2"><span style="s4">tutorial</span> so we have a blog at hack night</p>
+<p begin="00:02:52.620" end="00:02:58.770" style="s2">and the first post on<span style="s4"> our</span> blog was a</p>
+<p begin="00:02:56.100" end="00:03:00.270" style="s2">tutorial about web scraping and</p>
+<p begin="00:02:58.770" end="00:03:01.950" style="s2">tutorials are really cool because you</p>
+<p begin="00:03:00.270" end="00:03:05.940" style="s2">can learn a small thing but then share</p>
+<p begin="00:03:01.950" end="00:03:08.160" style="s2">it with a bunch of people<span style="s4"> and</span> I also</p>
+<p begin="00:03:05.940" end="00:03:11.340" style="s2">think super simple web sites are really</p>
+<p begin="00:03:08.160" end="00:03:13.470" style="s2">underrated relative to apps um so this</p>
+<p begin="00:03:11.340" end="00:03:15.330" style="s2">is<span style="s4"> something</span> we worked on at hack night</p>
+<p begin="00:03:13.470" end="00:03:17.610" style="s2">we did most of the work<span style="s3"> for</span> this in like</p>
+<p begin="00:03:15.330" end="00:03:20.430" style="s2">one evening and is really<span style="s4"> fun</span> because a</p>
+<p begin="00:03:17.610" end="00:03:22.380" style="s2">lot of the work wasn&#39;t coding we got</p>
+<p begin="00:03:20.430" end="00:03:24.330" style="s2">like 15 people together and<span style="s3"> everyone</span> was</p>
+<p begin="00:03:22.380" end="00:03:26.880" style="s2">like<span style="s4"> researching</span> articles about the</p>
+<p begin="00:03:24.330" end="00:03:31.350" style="s2"><span style="s3">Illinois</span> budget crisis and they show up</p>
+<p begin="00:03:26.880" end="00:03:33.750" style="s2">here uh<span style="s4"> and</span> then another thing<span style="s4"> that</span><span style="s3"> you</span></p>
+<p begin="00:03:31.350" end="00:03:36.230" style="s2"><span style="s3">can</span> do<span style="s3"> with</span> documentation so tech</p>
+<p begin="00:03:33.750" end="00:03:38.310" style="s2">projects involve a<span style="s3"> lot</span> more<span style="s4"> than</span><span style="s3"> code</span></p>
+<p begin="00:03:36.230" end="00:03:41.790" style="s2">communication is also really important</p>
+<p begin="00:03:38.310" end="00:03:43.950" style="s2">but it&#39;s often undervalued and a lot of</p>
+<p begin="00:03:41.790" end="00:03:45.989" style="s2"><span style="s4">projects</span> it&#39;s hard for<span style="s3"> an</span> outsider to</p>
+<p begin="00:03:43.950" end="00:03:47.940" style="s2">figure out like what is this<span style="s4"> even</span> and</p>
+<p begin="00:03:45.989" end="00:03:50.790" style="s2">like how can<span style="s3"> I</span> help so if you want<span style="s4"> to</span></p>
+<p begin="00:03:47.940" end="00:03:53.790" style="s2">help do that that&#39;s awesome too this is</p>
+<p begin="00:03:50.790" end="00:03:57.540" style="s2">another example that<span style="s4"> I</span> love<span style="s4"> ah</span> so this</p>
+<p begin="00:03:53.790" end="00:03:59.010" style="s2">is mystery shopping<span style="s4"> City Hall so you get</span></p>
+<p begin="00:03:57.540" end="00:04:01.350" style="s2">a bunch<span style="s4"> of people and make you things</span></p>
+<p begin="00:03:59.010" end="00:04:05.070" style="s2">like try to get<span style="s3"> a</span> permit<span style="s4"> or</span> try to get</p>
+<p begin="00:04:01.350" end="00:04:07.440" style="s2">water turned on and then you<span style="s4"> you</span> kind of</p>
+<p begin="00:04:05.070" end="00:04:09.840" style="s2">log<span style="s4"> your</span> experience and talk about how</p>
+<p begin="00:04:07.440" end="00:04:11.820" style="s2">difficult it was and I think this</p>
+<p begin="00:04:09.840" end="00:04:13.650" style="s2">involves no code whatsoever but I think</p>
+<p begin="00:04:11.820" end="00:04:16.549" style="s2">it&#39;s a<span style="s3"> really</span> cool tech project because</p>
+<p begin="00:04:13.650" end="00:04:21.359" style="s2">it<span style="s4"> requires</span> a pretty holistic view of</p>
+<p begin="00:04:16.549" end="00:04:24.169" style="s2">what a digital process should be and now</p>
+<p begin="00:04:21.359" end="00:04:24.169" style="s2">go forth and</p>
+</div>
+</body>
+</tt>

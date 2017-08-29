@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.150" end="00:00:09.900" style="s2">so<span style="s3"> I&#39;m going to go through</span> what this</p>
+<p begin="00:00:07.589" end="00:00:11.460" style="s2">community was like we&#39;re a young</p>
+<p begin="00:00:09.900" end="00:00:13.950" style="s2">movement I want<span style="s3"> to</span> talk<span style="s4"> about</span> the last</p>
+<p begin="00:00:11.460" end="00:00:16.590" style="s2">five<span style="s4"> years</span><span style="s3"> that</span><span style="s4"> some</span><span style="s3"> all about this</span></p>
+<p begin="00:00:13.950" end="00:00:20.070" style="s2">Civic tech movement has been<span style="s3"> around</span> in a</p>
+<p begin="00:00:16.590" end="00:00:23.039" style="s2">meaningful way five years half of the</p>
+<p begin="00:00:20.070" end="00:00:25.170" style="s2">decade right now I even existing at the</p>
+<p begin="00:00:23.039" end="00:00:27.150" style="s2">turn of millennium so were the last five</p>
+<p begin="00:00:25.170" end="00:00:29.160" style="s2"><span style="s4">years</span> look like how far have we come to</p>
+<p begin="00:00:27.150" end="00:00:31.260" style="s2">be able<span style="s3"> to</span> get here today what<span style="s3"> is</span> it</p>
+<p begin="00:00:29.160" end="00:00:33.149" style="s2"><span style="s3">going</span> to look like for the next five</p>
+<p begin="00:00:31.260" end="00:00:35.070" style="s2">years the rest of the decade what is</p>
+<p begin="00:00:33.149" end="00:00:37.200" style="s2"><span style="s3">even possibly going to look</span> like in 50</p>
+<p begin="00:00:35.070" end="00:00:40.020" style="s2">years from now<span style="s3"> I</span> want to<span style="s4"> talk</span> about</p>
+<p begin="00:00:37.200" end="00:00:42.149" style="s2">where it&#39;s been so how many p 100 people</p>
+<p begin="00:00:40.020" end="00:00:46.590" style="s2">here maybe this<span style="s4"> is look about 100 little</span></p>
+<p begin="00:00:42.149" end="00:00:50.190" style="s2">over 100 120<span style="s3"> okay</span> so 120 people here it</p>
+<p begin="00:00:46.590" end="00:00:54.090" style="s2">was I<span style="s3"> think</span> in 2012 was the gapers block</p>
+<p begin="00:00:50.190" end="00:00:55.739" style="s2">when they came by Tony 2014 I think and</p>
+<p begin="00:00:54.090" end="00:00:57.809" style="s2"><span style="s3">this</span> is the one<span style="s3"> year</span> birthday you</p>
+<p begin="00:00:55.739" end="00:01:01.770" style="s2">remember this they&#39;re the one year</p>
+<p begin="00:00:57.809" end="00:01:04.799" style="s2">birthday 20 30 people crammed into a</p>
+<p begin="00:01:01.770" end="00:01:07.229" style="s2">room couple floors up 23 people that was</p>
+<p begin="00:01:04.799" end="00:01:09.270" style="s2">a pack night it was ungodly hot in those</p>
+<p begin="00:01:07.229" end="00:01:12.750" style="s2">I think I&#39;ve presented the<span style="s3"> second most</span></p>
+<p begin="00:01:09.270" end="00:01:14.939" style="s2">spot behind Eric for all hack nights and</p>
+<p begin="00:01:12.750" end="00:01:16.229" style="s2">when he when you presented you made a</p>
+<p begin="00:01:14.939" end="00:01:19.350" style="s2">commitment<span style="s3"> that</span> you were going<span style="s3"> to</span> sweat</p>
+<p begin="00:01:16.229" end="00:01:21.360" style="s2">I really mean that you it was a tight</p>
+<p begin="00:01:19.350" end="00:01:24.090" style="s2">fitting group now we moved into this</p>
+<p begin="00:01:21.360" end="00:01:26.070" style="s2">space shot hack night has moved into</p>
+<p begin="00:01:24.090" end="00:01:28.200" style="s2">this space and the group has grown</p>
+<p begin="00:01:26.070" end="00:01:30.420" style="s2">because it&#39;s physically been allowed</p>
+<p begin="00:01:28.200" end="00:01:31.920" style="s2">other folks come in but right about the</p>
+<p begin="00:01:30.420" end="00:01:35.310" style="s2">same time of that that video that<span style="s4"> very</span></p>
+<p begin="00:01:31.920" end="00:01:37.350" style="s2">short video is the city of<span style="s4"> Chicago</span></p>
+<p begin="00:01:35.310" end="00:01:39.869" style="s2">issued the executive order<span style="s3"> round</span> open</p>
+<p begin="00:01:37.350" end="00:01:41.939" style="s2">data Steve Chicago the first minute</p>
+<p begin="00:01:39.869" end="00:01:44.430" style="s2">spotty in the United States<span style="s4"> whoever</span> have</p>
+<p begin="00:01:41.939" end="00:01:47.369" style="s2">named a chief data officer now there&#39;s</p>
+<p begin="00:01:44.430" end="00:01:49.439" style="s2">over 30 cities and of course across<span style="s4"> the</span></p>
+<p begin="00:01:47.369" end="00:01:51.180" style="s2">globe we also made a commitment around</p>
+<p begin="00:01:49.439" end="00:01:52.979" style="s2">open data so what<span style="s3"> does</span> that look like</p>
+<p begin="00:01:51.180" end="00:01:56.340" style="s2">since<span style="s3"> that</span> time that one year birthday</p>
+<p begin="00:01:52.979" end="00:01:57.659" style="s2">of<span style="s3"> shy</span> hack night the initiation of a</p>
+<p begin="00:01:56.340" end="00:02:00.299" style="s2">formal executive or something with the</p>
+<p begin="00:01:57.659" end="00:02:05.310" style="s2">power<span style="s3"> of</span> law around open data I stepped</p>
+<p begin="00:02:00.299" end="00:02:06.570" style="s2"><span style="s3">on</span> something power law of open data well</p>
+<p begin="00:02:05.310" end="00:02:08.489" style="s2">one thing that&#39;s happened is of course</p>
+<p begin="00:02:06.570" end="00:02:10.709" style="s2">the community has grown from that very</p>
+<p begin="00:02:08.489" end="00:02:12.540" style="s2">tight space of 30 people being very</p>
+<p begin="00:02:10.709" end="00:02:13.780" style="s2">tight<span style="s4"> there are</span><span style="s3"> people</span> people standing</p>
+<p begin="00:02:12.540" end="00:02:16.569" style="s2">outside<span style="s3"> of the glass</span></p>
+<p begin="00:02:13.780" end="00:02:18.010" style="s2">listening<span style="s4"> to</span> the presenter and now we&#39;re</p>
+<p begin="00:02:16.569" end="00:02:19.480" style="s2">able to grow into this space and what&#39;s</p>
+<p begin="00:02:18.010" end="00:02:21.340" style="s2">key is that this<span style="s3"> has been a productive</span></p>
+<p begin="00:02:19.480" end="00:02:22.959" style="s2">committee you come here and you talk</p>
+<p begin="00:02:21.340" end="00:02:24.910" style="s2">about projects<span style="s4"> they&#39;ve</span><span style="s3"> done</span> you&#39;ve</p>
+<p begin="00:02:22.959" end="00:02:27.640" style="s2">talked about your passions you&#39;ve tried</p>
+<p begin="00:02:24.910" end="00:02:29.350" style="s2"><span style="s4">to</span> educate each other and that&#39;s key</p>
+<p begin="00:02:27.640" end="00:02:31.000" style="s2">want to look<span style="s3"> at</span> other cities when you go</p>
+<p begin="00:02:29.350" end="00:02:33.459" style="s2">to<span style="s3"> other</span> cities there&#39;s other cities</p>
+<p begin="00:02:31.000" end="00:02:35.860" style="s2">trying to mimic this phone through</p>
+<p begin="00:02:33.459" end="00:02:37.510" style="s2">trying to mimic this habit not New York</p>
+<p begin="00:02:35.860" end="00:02:40.840" style="s2"><span style="s3">City</span> has<span style="s4"> been</span><span style="s3"> able to do it not Los</span></p>
+<p begin="00:02:37.510" end="00:02:42.160" style="s2">Angeles not Barcelona not London but</p>
+<p begin="00:02:40.840" end="00:02:44.470" style="s2">we&#39;ve always been seeking to help each</p>
+<p begin="00:02:42.160" end="00:02:46.870" style="s2">other at the same time the city<span style="s3"> of</span></p>
+<p begin="00:02:44.470" end="00:02:49.090" style="s2"><span style="s4">Chicago</span> we took a very fundamental</p>
+<p begin="00:02:46.870" end="00:02:51.580" style="s2">analogue issues such as potholes and</p>
+<p begin="00:02:49.090" end="00:02:53.170" style="s2">we&#39;ve been able<span style="s3"> to</span> convert it so you can</p>
+<p begin="00:02:51.580" end="00:02:55.690" style="s2">take a look<span style="s3"> at</span> a pothole and you can use</p>
+<p begin="00:02:53.170" end="00:02:58.030" style="s2">an app using an open API and you&#39;re able</p>
+<p begin="00:02:55.690" end="00:03:00.700" style="s2"><span style="s4">to</span><span style="s3"> report</span> that pothole by taking a</p>
+<p begin="00:02:58.030" end="00:03:03.730" style="s2">picture and submitting it to us that was</p>
+<p begin="00:03:00.700" end="00:03:05.410" style="s2">one of<span style="s4"> our</span> first steps by you being<span style="s4"> able</span></p>
+<p begin="00:03:03.730" end="00:03:07.720" style="s2">to submit data make it easier in a way</p>
+<p begin="00:03:05.410" end="00:03:10.120" style="s2">that<span style="s4"> you</span><span style="s3"> want</span> to through an app or</p>
+<p begin="00:03:07.720" end="00:03:11.590" style="s2">through a phone or through a website but</p>
+<p begin="00:03:10.120" end="00:03:13.030" style="s2">do we<span style="s3"> took</span> it yet another step further</p>
+<p begin="00:03:11.590" end="00:03:14.230" style="s2"><span style="s3">and</span> we said we&#39;re going<span style="s3"> to</span> start</p>
+<p begin="00:03:13.030" end="00:03:16.780" style="s2"><span style="s4">open-source</span> we&#39;re gonna have a github</p>
+<p begin="00:03:14.230" end="00:03:19.019" style="s2">account github.com /<span style="s3"> Chicago</span> right one</p>
+<p begin="00:03:16.780" end="00:03:22.810" style="s2">of the best github account names</p>
+<p begin="00:03:19.019" end="00:03:24.280" style="s2">organizations you<span style="s3"> can</span> possibly name so</p>
+<p begin="00:03:22.810" end="00:03:25.900" style="s2">we did that and<span style="s3"> not only just</span> make</p>
+<p begin="00:03:24.280" end="00:03:28.000" style="s2">things open source<span style="s3"> that</span> has been done by</p>
+<p begin="00:03:25.900" end="00:03:29.709" style="s2">software developers but when we start</p>
+<p begin="00:03:28.000" end="00:03:31.060" style="s2">our predictive analytics program and</p>
+<p begin="00:03:29.709" end="00:03:32.829" style="s2">trying to predict things across the<span style="s3"> city</span></p>
+<p begin="00:03:31.060" end="00:03:35.260" style="s2">of Chicago<span style="s4"> we</span> also made the code that</p>
+<p begin="00:03:32.829" end="00:03:36.720" style="s2"><span style="s3">driver</span> predictions for instance driving</p>
+<p begin="00:03:35.260" end="00:03:38.380" style="s2">the predictions of where we think</p>
+<p begin="00:03:36.720" end="00:03:40.000" style="s2">restaurants are going to fail food</p>
+<p begin="00:03:38.380" end="00:03:42.519" style="s2">inspections we made that code publicly</p>
+<p begin="00:03:40.000" end="00:03:44.380" style="s2">available and challenge you can you do a</p>
+<p begin="00:03:42.519" end="00:03:46.299" style="s2">better job and if you do a better<span style="s3"> job</span></p>
+<p begin="00:03:44.380" end="00:03:49.450" style="s2">will take your code and<span style="s3"> will</span> use it and</p>
+<p begin="00:03:46.299" end="00:03:51.700" style="s2">you can have a direct impact on the city</p>
+<p begin="00:03:49.450" end="00:03:55.359" style="s2">of Chicago<span style="s4"> it&#39;s</span> 2.7 million residents on</p>
+<p begin="00:03:51.700" end="00:03:57.630" style="s2">the<span style="s4"> 16,000 423 restaurants in the city</span></p>
+<p begin="00:03:55.359" end="00:04:00.220" style="s2">of Chicago<span style="s3"> you</span> can have<span style="s4"> that</span> impact</p>
+<p begin="00:03:57.630" end="00:04:02.079" style="s2">increasing the ability of our design to</p>
+<p begin="00:04:00.220" end="00:04:04.930" style="s2">be able<span style="s3"> to make things</span> easier to<span style="s3"> read</span></p>
+<p begin="00:04:02.079" end="00:04:06.820" style="s2">and also to want to look at a city of</p>
+<p begin="00:04:04.930" end="00:04:10.210" style="s2"><span style="s4">Chicago</span> website and we solve many</p>
+<p begin="00:04:06.820" end="00:04:12.680" style="s2">websites that are awful to look at</p>
+<p begin="00:04:10.210" end="00:04:14.270" style="s2">by being<span style="s3"> able to take that same</span> open</p>
+<p begin="00:04:12.680" end="00:04:15.800" style="s2">data<span style="s4"> we</span><span style="s3"> published</span> in a raw form and be</p>
+<p begin="00:04:14.270" end="00:04:18.110" style="s2">able to translate into<span style="s4"> a</span> way that you</p>
+<p begin="00:04:15.800" end="00:04:19.340" style="s2"><span style="s3">can</span> easily see<span style="s3"> with</span> our open grid</p>
+<p begin="00:04:18.110" end="00:04:21.500" style="s2">platform which is an<span style="s4"> open source</span></p>
+<p begin="00:04:19.340" end="00:04:23.150" style="s2">platform<span style="s3"> which</span> displays open data but</p>
+<p begin="00:04:21.500" end="00:04:25.280" style="s2">that code<span style="s4"> is</span> also used internally<span style="s3"> to</span></p>
+<p begin="00:04:23.150" end="00:04:26.630" style="s2">drive our operational systems so when</p>
+<p begin="00:04:25.280" end="00:04:28.490" style="s2">you make a contribution out code when</p>
+<p begin="00:04:26.630" end="00:04:29.330" style="s2">you critique that you&#39;re also making a</p>
+<p begin="00:04:28.490" end="00:04:31.490" style="s2">critique and you&#39;re making<span style="s3"> a</span></p>
+<p begin="00:04:29.330" end="00:04:33.860" style="s2">contribution to programs that city of</p>
+<p begin="00:04:31.490" end="00:04:36.950" style="s2"><span style="s3">Chicago</span> employees use on a day-to-day</p>
+<p begin="00:04:33.860" end="00:04:40.580" style="s2">basis and we&#39;re relying on you in</p>
+<p begin="00:04:36.950" end="00:04:42.170" style="s2">particular<span style="s3"> to</span> get<span style="s4"> feedback</span> on how these</p>
+<p begin="00:04:40.580" end="00:04:44.240" style="s2">programs work whether or not they work</p>
+<p begin="00:04:42.170" end="00:04:46.250" style="s2">well for you and what modifications we</p>
+<p begin="00:04:44.240" end="00:04:48.620" style="s2">need to make to<span style="s3"> make</span> it a<span style="s3"> better</span> program</p>
+<p begin="00:04:46.250" end="00:04:51.440" style="s2">so it was just<span style="s3"> starting</span> off with what</p>
+<p begin="00:04:48.620" end="00:04:53.000" style="s2">can<span style="s3"> you</span> submit a pothole to us getting</p>
+<p begin="00:04:51.440" end="00:04:55.070" style="s2">together can you<span style="s3"> also</span> now start</p>
+<p begin="00:04:53.000" end="00:04:56.900" style="s2">contributing to the same leveraging</p>
+<p begin="00:04:55.070" end="00:05:00.260" style="s2">technology in the tools<span style="s4"> that</span> exist today</p>
+<p begin="00:04:56.900" end="00:05:02.510" style="s2">this<span style="s4"> is</span> what volunteerism looks like in</p>
+<p begin="00:05:00.260" end="00:05:04.670" style="s2">the 21st century instead of</p>
+<p begin="00:05:02.510" end="00:05:08.500" style="s2">adopt-a-highway in soup kitchens<span style="s3"> it&#39;s</span></p>
+<p begin="00:05:04.670" end="00:05:11.180" style="s2">pull requests and issues being open and</p>
+<p begin="00:05:08.500" end="00:05:14.450" style="s2">of course the community here has even</p>
+<p begin="00:05:11.180" end="00:05:16.250" style="s2">matured more we&#39;re now again 120 150</p>
+<p begin="00:05:14.450" end="00:05:18.440" style="s2">people coming together this is what an</p>
+<p begin="00:05:16.250" end="00:05:20.000" style="s2">anniversary looks like now<span style="s3"> for</span><span style="s4"> shy</span></p>
+<p begin="00:05:18.440" end="00:05:21.950" style="s2"><span style="s3">hackney</span> again<span style="s3"> I&#39;m</span><span style="s4"> not</span> a leader of<span style="s3"> this</span></p>
+<p begin="00:05:20.000" end="00:05:24.110" style="s2">I&#39;m a participant<span style="s3"> in</span> the community and</p>
+<p begin="00:05:21.950" end="00:05:27.050" style="s2">we&#39;ve in<span style="s3"> the</span> past<span style="s3"> year</span> we&#39;ve been able</p>
+<p begin="00:05:24.110" end="00:05:29.210" style="s2"><span style="s3">to</span> work<span style="s3"> together</span> let no other city has</p>
+<p begin="00:05:27.050" end="00:05:32.260" style="s2">been able<span style="s3"> to work with its respective</span></p>
+<p begin="00:05:29.210" end="00:05:33.980" style="s2">community as in the case of when we and</p>
+<p begin="00:05:32.260" end="00:05:36.200" style="s2">community members here were very</p>
+<p begin="00:05:33.980" end="00:05:38.930" style="s2">interested in e.coli levels in Chicago&#39;s</p>
+<p begin="00:05:36.200" end="00:05:41.030" style="s2">beaches and because of that because of</p>
+<p begin="00:05:38.930" end="00:05:44.450" style="s2">that the city of Chicago<span style="s4"> my</span> team built</p>
+<p begin="00:05:41.030" end="00:05:46.910" style="s2">out applications to better record what</p>
+<p begin="00:05:44.450" end="00:05:48.770" style="s2">ecoli levels were on a<span style="s4"> day to day</span> basis</p>
+<p begin="00:05:46.910" end="00:05:50.810" style="s2">and record it on this website which is</p>
+<p begin="00:05:48.770" end="00:05:53.690" style="s2">internal and then make that data</p>
+<p begin="00:05:50.810" end="00:05:56.060" style="s2">publicly available which in turn data</p>
+<p begin="00:05:53.690" end="00:05:57.650" style="s2">scientists here every Tuesday worked on</p>
+<p begin="00:05:56.060" end="00:05:59.840" style="s2">trying to create a and creating a</p>
+<p begin="00:05:57.650" end="00:06:02.210" style="s2">predictive model an<span style="s4"> open-source</span></p>
+<p begin="00:05:59.840" end="00:06:05.570" style="s2">predictive model to predict ecoli beach</p>
+<p begin="00:06:02.210" end="00:06:07.669" style="s2"><span style="s4">ecoli</span><span style="s3"> levels</span> at<span style="s4"> Chicago&#39;s</span> beaches so</p>
+<p begin="00:06:05.570" end="00:06:09.710" style="s2">taking<span style="s4"> that</span> moment of working internally</p>
+<p begin="00:06:07.669" end="00:06:12.020" style="s2">and having staff within the sea of</p>
+<p begin="00:06:09.710" end="00:06:14.000" style="s2"><span style="s4">Chicago</span> work to create things to reveal</p>
+<p begin="00:06:12.020" end="00:06:16.160" style="s2">data to you as we have been for the last</p>
+<p begin="00:06:14.000" end="00:06:20.090" style="s2">four years so we can make an<span style="s3"> improvement</span></p>
+<p begin="00:06:16.160" end="00:06:21.830" style="s2">but<span style="s4"> going</span> forward I&#39;ve co-founded the</p>
+<p begin="00:06:20.090" end="00:06:23.000" style="s2">city of Chicago<span style="s4"> co-founded</span> with Harvard</p>
+<p begin="00:06:21.830" end="00:06:24.950" style="s2">University which</p>
+<p begin="00:06:23.000" end="00:06:26.780" style="s2">three<span style="s3"> million</span> dollar from a foundation a</p>
+<p begin="00:06:24.950" end="00:06:28.550" style="s2">network of CDOs called the<span style="s4"> civic</span></p>
+<p begin="00:06:26.780" end="00:06:30.770" style="s2">analytics network and this is us getting</p>
+<p begin="00:06:28.550" end="00:06:33.080" style="s2">together and talking about<span style="s4"> how we can</span></p>
+<p begin="00:06:30.770" end="00:06:35.680" style="s2">collaborate amongst all of our cities la</p>
+<p begin="00:06:33.080" end="00:06:39.590" style="s2">San Francisco Philadelphia Pittsburgh</p>
+<p begin="00:06:35.680" end="00:06:41.510" style="s2">New Orleans and the like so if we really</p>
+<p begin="00:06:39.590" end="00:06:43.370" style="s2">take this moment of you being<span style="s3"> able</span> to</p>
+<p begin="00:06:41.510" end="00:06:44.480" style="s2">contribute<span style="s3"> to</span> city of<span style="s3"> Chicago</span> projects</p>
+<p begin="00:06:43.370" end="00:06:46.460" style="s2">you&#39;re being able to contribute<span style="s3"> to</span></p>
+<p begin="00:06:44.480" end="00:06:48.620" style="s2">projects here and those projects can be</p>
+<p begin="00:06:46.460" end="00:06:50.570" style="s2">adopted elsewhere and governments are</p>
+<p begin="00:06:48.620" end="00:06:51.890" style="s2">working together it is possible<span style="s4"> that</span></p>
+<p begin="00:06:50.570" end="00:06:53.360" style="s2">you&#39;re<span style="s3"> going to come here</span><span style="s4"> on</span> a Tuesday</p>
+<p begin="00:06:51.890" end="00:06:55.640" style="s2"><span style="s4">night</span> and you<span style="s4"> can</span> make direct</p>
+<p begin="00:06:53.360" end="00:06:59.030" style="s2">contributions to other cities in the</p>
+<p begin="00:06:55.640" end="00:07:00.320" style="s2">United<span style="s4"> States</span> and across<span style="s3"> the</span> globe so</p>
+<p begin="00:06:59.030" end="00:07:03.050" style="s2">the only question that&#39;s really left</p>
+<p begin="00:07:00.320" end="00:07:05.990" style="s2">here at the end of<span style="s3"> the</span> day is what&#39;s</p>
+<p begin="00:07:03.050" end="00:07:07.490" style="s2">left is what is left to<span style="s3"> do</span> what else do</p>
+<p begin="00:07:05.990" end="00:07:09.680" style="s2">we need as a community to be able to</p>
+<p begin="00:07:07.490" end="00:07:11.870" style="s2">achieve in the last five years<span style="s4"> we&#39;ve</span></p>
+<p begin="00:07:09.680" end="00:07:14.000" style="s2">been<span style="s3"> able</span><span style="s4"> to</span> for governments to work</p>
+<p begin="00:07:11.870" end="00:07:16.610" style="s2">with community members in ways that have</p>
+<p begin="00:07:14.000" end="00:07:18.050" style="s2">never been able<span style="s3"> to</span> be done<span style="s3"> before</span> so</p>
+<p begin="00:07:16.610" end="00:07:21.260" style="s2">what does<span style="s4"> it</span> look like in<span style="s4"> the</span><span style="s3"> next</span> five</p>
+<p begin="00:07:18.050" end="00:07:22.669" style="s2">years and how can people whether or not</p>
+<p begin="00:07:21.260" end="00:07:24.860" style="s2">your government or non-government can</p>
+<p begin="00:07:22.669" end="00:07:26.720" style="s2">come together to improve society and</p>
+<p begin="00:07:24.860" end="00:07:28.460" style="s2">this<span style="s4"> is</span> going<span style="s3"> to</span> start here there&#39;s</p>
+<p begin="00:07:26.720" end="00:07:29.540" style="s2">great amount of promise that goes for</p>
+<p begin="00:07:28.460" end="00:07:33.040" style="s2"><span style="s3">but that&#39;s the</span> question that&#39;s going to</p>
+<p begin="00:07:29.540" end="00:07:33.040" style="s2">be facing all those all right</p>
+<p begin="00:07:37.000" end="00:07:39.060" style="s2">you</p>
+</div>
+</body>
+</tt>

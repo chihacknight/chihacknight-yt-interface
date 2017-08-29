@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.850" end="00:00:11.580" style="s2">thank you um so this<span style="s3"> is</span><span style="s4"> the</span> 5 p&#39;s of</p>
+<p begin="00:00:08.820" end="00:00:13.469" style="s2"><span style="s3">civic</span> tech and this is my buddy Adam so</p>
+<p begin="00:00:11.580" end="00:00:16.830" style="s2">we just go ahead and get started so this</p>
+<p begin="00:00:13.469" end="00:00:19.109" style="s2"><span style="s4">is</span> me in a<span style="s4"> penguin</span> suits and<span style="s4"> I</span> am a</p>
+<p begin="00:00:16.830" end="00:00:21.869" style="s2">student at the University of Chicago and</p>
+<p begin="00:00:19.109" end="00:00:23.820" style="s2">a Microsoft Civic tech fellow but at shy</p>
+<p begin="00:00:21.869" end="00:00:27.029" style="s2">hack night I lead to<span style="s3"> beginner friendly</span></p>
+<p begin="00:00:23.820" end="00:00:29.099" style="s2">breakout sessions one is Civic tech 101</p>
+<p begin="00:00:27.029" end="00:00:31.529" style="s2">and as you can see here it&#39;s kind<span style="s4"> of</span></p>
+<p begin="00:00:29.099" end="00:00:33.930" style="s2">like the Welcome Wagon / onboarding</p>
+<p begin="00:00:31.529" end="00:00:36.000" style="s2">session for those of you that are new to</p>
+<p begin="00:00:33.930" end="00:00:37.290" style="s2">civic actually can<span style="s4"> we</span> just get a show<span style="s3"> of</span></p>
+<p begin="00:00:36.000" end="00:00:39.270" style="s2">hands of who&#39;s here<span style="s4"> for</span> the<span style="s4"> first</span> time</p>
+<p begin="00:00:37.290" end="00:00:46.250" style="s2">all<span style="s3"> right give it</span><span style="s4"> up</span> for these guys come</p>
+<p begin="00:00:39.270" end="00:00:49.140" style="s2">on so thank you<span style="s3"> for</span> being interested and</p>
+<p begin="00:00:46.250" end="00:00:51.570" style="s2">if you are<span style="s3"> interested</span> in Civic tech shy</p>
+<p begin="00:00:49.140" end="00:00:53.370" style="s2">hack night and really what we do best</p>
+<p begin="00:00:51.570" end="00:00:54.899" style="s2">here in Chicago which is using text for</p>
+<p begin="00:00:53.370" end="00:00:57.840" style="s2">the public good highly recommend coming</p>
+<p begin="00:00:54.899" end="00:01:00.930" style="s2">to that the next session<span style="s4"> I</span> lead is</p>
+<p begin="00:00:57.840" end="00:01:04.049" style="s2">called manatee tank and manatee tank is</p>
+<p begin="00:01:00.930" end="00:01:07.650" style="s2"><span style="s3">the</span> nice friendly Civic tech version of</p>
+<p begin="00:01:04.049" end="00:01:10.920" style="s2">shark<span style="s4"> tank</span> it&#39;s just this place to throw</p>
+<p begin="00:01:07.650" end="00:01:12.990" style="s2">around app / start-up ideas do some user</p>
+<p begin="00:01:10.920" end="00:01:16.080" style="s2">experience<span style="s4"> testing</span> as we did with<span style="s4"> Tom&#39;s</span></p>
+<p begin="00:01:12.990" end="00:01:18.509" style="s2">data portal and you know just<span style="s3"> a</span> friendly</p>
+<p begin="00:01:16.080" end="00:01:20.130" style="s2">place to throw some ideas around funnily</p>
+<p begin="00:01:18.509" end="00:01:21.720" style="s2">enough it used to be called dolphin tank</p>
+<p begin="00:01:20.130" end="00:01:24.450" style="s2">but that was actually copyrighted and</p>
+<p begin="00:01:21.720" end="00:01:27.720" style="s2">also<span style="s4"> dolphins</span> are pretty nasty in nature</p>
+<p begin="00:01:24.450" end="00:01:29.280" style="s2">so like just just a note but in both of</p>
+<p begin="00:01:27.720" end="00:01:31.409" style="s2">these two groups I do a lot<span style="s3"> of</span></p>
+<p begin="00:01:29.280" end="00:01:34.770" style="s2">explaining about what Civic tech is and</p>
+<p begin="00:01:31.409" end="00:01:37.439" style="s2">in the theme of five years forward five</p>
+<p begin="00:01:34.770" end="00:01:39.000" style="s2">years back five years<span style="s3"> that</span><span style="s4"> this</span> is</p>
+<p begin="00:01:37.439" end="00:01:42.119" style="s2">actually a Microsoft corporate</p>
+<p begin="00:01:39.000" end="00:01:44.310" style="s2">presentation and all use accusations<span style="s4"> I</span></p>
+<p begin="00:01:42.119" end="00:01:47.460" style="s2">wanted<span style="s4"> to come</span><span style="s3"> up with</span><span style="s4"> a</span> framework known</p>
+<p begin="00:01:44.310" end="00:01:50.610" style="s2">as the 5 p&#39;s and I wanted<span style="s4"> to</span> look at the</p>
+<p begin="00:01:47.460" end="00:01:54.240" style="s2">5 p&#39;s as a way of looking at<span style="s4"> where</span> shy</p>
+<p begin="00:01:50.610" end="00:01:57.030" style="s2">hack night was is and will become so</p>
+<p begin="00:01:54.240" end="00:01:59.460" style="s2"><span style="s3">I&#39;ll</span> start<span style="s4"> off</span> with<span style="s3"> the</span> first<span style="s4"> B</span> which is</p>
+<p begin="00:01:57.030" end="00:02:01.920" style="s2">policy and<span style="s3"> you</span> know five<span style="s3"> years</span> ago when</p>
+<p begin="00:01:59.460" end="00:02:03.869" style="s2">Mayor Rahm Emanuel Korea policy to have</p>
+<p begin="00:02:01.920" end="00:02:05.869" style="s2"><span style="s4">a</span> Socratic open data portal to make</p>
+<p begin="00:02:03.869" end="00:02:08.910" style="s2">Chicago the first city to have a CDO</p>
+<p begin="00:02:05.869" end="00:02:11.790" style="s2">opening up FOIA<span style="s4"> logs</span> opening up data</p>
+<p begin="00:02:08.910" end="00:02:13.590" style="s2">opening up really api&#39;s that was a</p>
+<p begin="00:02:11.790" end="00:02:14.520" style="s2">catalyst and Kickstarter for this</p>
+<p begin="00:02:13.590" end="00:02:16.950" style="s2"><span style="s3">community</span></p>
+<p begin="00:02:14.520" end="00:02:18.450" style="s2">next we have people and it&#39;s<span style="s4"> pretty</span></p>
+<p begin="00:02:16.950" end="00:02:20.760" style="s2">clear through all the mantras that we</p>
+<p begin="00:02:18.450" end="00:02:22.830" style="s2">have such as filled with not for and</p>
+<p begin="00:02:20.760" end="00:02:25.710" style="s2">people not code are the heart of this</p>
+<p begin="00:02:22.830" end="00:02:26.910" style="s2">community it does a lot introductions</p>
+<p begin="00:02:25.710" end="00:02:28.860" style="s2">are really important in shy hack night</p>
+<p begin="00:02:26.910" end="00:02:31.290" style="s2">because each of us come from a different</p>
+<p begin="00:02:28.860" end="00:02:33.120" style="s2">background and neighborhood but we&#39;re</p>
+<p begin="00:02:31.290" end="00:02:35.610" style="s2">all united by that motivation to do good</p>
+<p begin="00:02:33.120" end="00:02:40.110" style="s2">with tech afterward<span style="s3"> we</span> have presents</p>
+<p begin="00:02:35.610" end="00:02:41.550" style="s2">right with a misplaced<span style="s4"> e</span> so presents it</p>
+<p begin="00:02:40.110" end="00:02:43.850" style="s2">describes a lot<span style="s4"> of things it&#39;s described</span></p>
+<p begin="00:02:41.550" end="00:02:46.080" style="s2">smart<span style="s3"> Chicago</span> collaborative funding and</p>
+<p begin="00:02:43.850" end="00:02:48.120" style="s2">documenting our journey it describes the</p>
+<p begin="00:02:46.080" end="00:02:50.220" style="s2">presence of government community leaders</p>
+<p begin="00:02:48.120" end="00:02:52.320" style="s2">like<span style="s3"> Tom Cote County Bureau technology</span></p>
+<p begin="00:02:50.220" end="00:02:54.030" style="s2">etc showing up<span style="s4"> in</span> making a two-way</p>
+<p begin="00:02:52.320" end="00:02:55.860" style="s2">street between government and citizen</p>
+<p begin="00:02:54.030" end="00:02:58.590" style="s2">and of course the presence of you all</p>
+<p begin="00:02:55.860" end="00:03:00.660" style="s2">here because we realize that<span style="s4"> the</span> human</p>
+<p begin="00:02:58.590" end="00:03:03.660" style="s2">interaction showing up week to week in</p>
+<p begin="00:03:00.660" end="00:03:05.970" style="s2">person is what makes us productive that</p>
+<p begin="00:03:03.660" end="00:03:07.470" style="s2">leads us to next<span style="s4"> p</span> putting it all</p>
+<p begin="00:03:05.970" end="00:03:09.750" style="s2">together<span style="s4"> is</span> productivity what really</p>
+<p begin="00:03:07.470" end="00:03:11.640" style="s2">sets<span style="s3"> Chicago</span> apart I can go<span style="s3"> on</span> and on</p>
+<p begin="00:03:09.750" end="00:03:14.730" style="s2">about<span style="s4"> all</span><span style="s3"> the</span> things that<span style="s3"> have gone out</span></p>
+<p begin="00:03:11.640" end="00:03:16.860" style="s2"><span style="s3">of</span> this community from M relief to the</p>
+<p begin="00:03:14.730" end="00:03:19.500" style="s2">e.coli project to the Illinois budget</p>
+<p begin="00:03:16.860" end="00:03:21.690" style="s2">clock on and on but the conclusion</p>
+<p begin="00:03:19.500" end="00:03:23.100" style="s2">really is that there&#39;s a<span style="s4"> lot</span> of things</p>
+<p begin="00:03:21.690" end="00:03:25.230" style="s2">going<span style="s3"> on</span> here<span style="s4"> and</span> we have something</p>
+<p begin="00:03:23.100" end="00:03:27.959" style="s2"><span style="s3">really</span> special here but let&#39;s just<span style="s4"> take</span></p>
+<p begin="00:03:25.230" end="00:03:30.720" style="s2">a minute and say how many of you do</p>
+<p begin="00:03:27.959" end="00:03:34.170" style="s2">every single word in<span style="s4"> concept</span> that I just</p>
+<p begin="00:03:30.720" end="00:03:36.720" style="s2">talked about very few right that was</p>
+<p begin="00:03:34.170" end="00:03:39.450" style="s2">just a ton in like a short minute and</p>
+<p begin="00:03:36.720" end="00:03:44.220" style="s2">that kind of leads me to my next p</p>
+<p begin="00:03:39.450" end="00:03:45.360" style="s2">because it&#39;s upon boarding<span style="s4"> um</span> and if you</p>
+<p begin="00:03:44.220" end="00:03:47.040" style="s2"><span style="s4">haven&#39;t</span> noticed it&#39;s just<span style="s3"> onboarding</span></p>
+<p begin="00:03:45.360" end="00:03:49.620" style="s2">with the<span style="s4"> P I&#39;m not a</span> linguist during its</p>
+<p begin="00:03:47.040" end="00:03:52.650" style="s2">major but upon boarding so what<span style="s4"> is</span> it</p>
+<p begin="00:03:49.620" end="00:03:55.530" style="s2">exactly I want to start<span style="s4"> with the next</span></p>
+<p begin="00:03:52.650" end="00:03:58.440" style="s2">what I ask everyone<span style="s4"> who comes to Civic</span></p>
+<p begin="00:03:55.530" end="00:04:00.240" style="s2">tech 101 and manatee tank which is<span style="s4"> why</span></p>
+<p begin="00:03:58.440" end="00:04:02.160" style="s2">are you at shy hack night so these<span style="s3"> are</span></p>
+<p begin="00:04:00.240" end="00:04:03.690" style="s2">some<span style="s4"> of the answers one is I want to</span></p>
+<p begin="00:04:02.160" end="00:04:06.150" style="s2">contribute through my knowledge or code</p>
+<p begin="00:04:03.690" end="00:04:07.650" style="s2">I want to<span style="s4"> learn</span><span style="s3"> more</span> and some are a</p>
+<p begin="00:04:06.150" end="00:04:09.000" style="s2">little bit honest about this some are a</p>
+<p begin="00:04:07.650" end="00:04:11.820" style="s2">little more subtle about it but I come</p>
+<p begin="00:04:09.000" end="00:04:13.080" style="s2">here<span style="s4"> for</span><span style="s3"> the</span> free food and as a starving</p>
+<p begin="00:04:11.820" end="00:04:15.239" style="s2">poor college student I can definitely</p>
+<p begin="00:04:13.080" end="00:04:18.209" style="s2">empathize with that you guys are one of</p>
+<p begin="00:04:15.239" end="00:04:19.919" style="s2">my main sources of sustenance but you</p>
+<p begin="00:04:18.209" end="00:04:22.140" style="s2">know in all of these sentences it</p>
+<p begin="00:04:19.919" end="00:04:24.990" style="s2">doesn&#39;t really contain the complexities</p>
+<p begin="00:04:22.140" end="00:04:27.300" style="s2">and depth of what people have to offer</p>
+<p begin="00:04:24.990" end="00:04:27.990" style="s2">the Civic tech community and shy hack</p>
+<p begin="00:04:27.300" end="00:04:30.150" style="s2">night right</p>
+<p begin="00:04:27.990" end="00:04:32.190" style="s2">we have<span style="s3"> people</span> like what<span style="s4"> would</span><span style="s3"> i</span> hack</p>
+<p begin="00:04:30.150" end="00:04:34.199" style="s2">might be without the transportation</p>
+<p begin="00:04:32.190" end="00:04:36.990" style="s2">experts the data scientists those who do</p>
+<p begin="00:04:34.199" end="00:04:38.400" style="s2">the community organizing work right but</p>
+<p begin="00:04:36.990" end="00:04:41.729" style="s2">these sentences they don&#39;t contain any</p>
+<p begin="00:04:38.400" end="00:04:43.229" style="s2">of that um and all that I presented it</p>
+<p begin="00:04:41.729" end="00:04:45.449" style="s2">was look it was<span style="s3"> very</span> scary it was</p>
+<p begin="00:04:43.229" end="00:04:48.210" style="s2">intimidating right and soap onboarding</p>
+<p begin="00:04:45.449" end="00:04:50.280" style="s2">is kind of the process of you know how</p>
+<p begin="00:04:48.210" end="00:04:52.650" style="s2">do we how do we fix that how do we</p>
+<p begin="00:04:50.280" end="00:04:55.199" style="s2">remove those barriers of entry and so</p>
+<p begin="00:04:52.650" end="00:04:57.900" style="s2">it&#39;s the constant process and so here</p>
+<p begin="00:04:55.199" end="00:04:59.009" style="s2">are some<span style="s4"> of</span> the things and i&#39;m not i&#39;m</p>
+<p begin="00:04:57.900" end="00:05:00.509" style="s2">not the only one to talk about<span style="s3"> this</span></p>
+<p begin="00:04:59.009" end="00:05:03.090" style="s2">Victor gender presentation about</p>
+<p begin="00:05:00.509" end="00:05:04.500" style="s2">introducing and document in<span style="s3"> your</span> code we</p>
+<p begin="00:05:03.090" end="00:05:05.909" style="s2">can make bridges between learning groups</p>
+<p begin="00:05:04.500" end="00:05:09.180" style="s2">and working groups pause for questions</p>
+<p begin="00:05:05.909" end="00:05:11.460" style="s2">this is<span style="s3"> a</span> time for people to ask</p>
+<p begin="00:05:09.180" end="00:05:12.930" style="s2">questions and not feel judged bring Fred</p>
+<p begin="00:05:11.460" end="00:05:14.340" style="s2">I think everyone should just<span style="s3"> be</span> like</p>
+<p begin="00:05:12.930" end="00:05:15.389" style="s2">Steve ants and bring like all the</p>
+<p begin="00:05:14.340" end="00:05:18.240" style="s2"><span style="s3">friends</span> because he has done an amazing</p>
+<p begin="00:05:15.389" end="00:05:20.599" style="s2">job of that and say a lot of a stranger</p>
+<p begin="00:05:18.240" end="00:05:24.080" style="s2">right we can all be friends<span style="s4"> here</span> so and</p>
+<p begin="00:05:20.599" end="00:05:27.690" style="s2">I&#39;ll<span style="s4"> just</span> conclude it really by saying I</p>
+<p begin="00:05:24.080" end="00:05:30.330" style="s2"><span style="s3">compared</span> Chicago Civic tech and shy hack</p>
+<p begin="00:05:27.690" end="00:05:32.580" style="s2">night a lot<span style="s4"> to</span> the breakfast club we</p>
+<p begin="00:05:30.330" end="00:05:36.000" style="s2">have a lot of<span style="s3"> different backgrounds</span></p>
+<p begin="00:05:32.580" end="00:05:38.039" style="s2">right and we also write occasional</p>
+<p begin="00:05:36.000" end="00:05:39.599" style="s2">letters to Authority the principal / the</p>
+<p begin="00:05:38.039" end="00:05:43.169" style="s2">mayor right in the form of blog posts</p>
+<p begin="00:05:39.599" end="00:05:44.699" style="s2">and code and I think we have<span style="s4"> something</span></p>
+<p begin="00:05:43.169" end="00:05:46.650" style="s2">really special here and I think<span style="s3"> I</span> speak</p>
+<p begin="00:05:44.699" end="00:05:49.469" style="s2">for everyone that inclusion is a really</p>
+<p begin="00:05:46.650" end="00:05:50.820" style="s2">important thing but with inclusion I&#39;m</p>
+<p begin="00:05:49.469" end="00:05:53.520" style="s2">actually I&#39;m going<span style="s4"> to</span> tell you a<span style="s3"> little</span></p>
+<p begin="00:05:50.820" end="00:05:56.030" style="s2">bit story when I was small wee lad I</p>
+<p begin="00:05:53.520" end="00:05:59.849" style="s2">wasn&#39;t part of the cool<span style="s3"> kids</span> club and</p>
+<p begin="00:05:56.030" end="00:06:01.770" style="s2">well I find my place here<span style="s3"> as i hack</span> diet</p>
+<p begin="00:05:59.849" end="00:06:04.650" style="s2">is my cool kids club and<span style="s4"> I</span> think we can</p>
+<p begin="00:06:01.770" end="00:06:06.270" style="s2"><span style="s4">make</span> that place a cool kids club for</p>
+<p begin="00:06:04.650" end="00:06:08.969" style="s2">everyone so let&#39;s think<span style="s4"> about</span> onboarding</p>
+<p begin="00:06:06.270" end="00:06:11.960" style="s2">pawn boarding the next time<span style="s3"> we</span> have an</p>
+<p begin="00:06:08.969" end="00:06:16.570" style="s2"><span style="s4">event</span> thank you very much guys</p>
+<p begin="00:06:11.960" end="00:06:16.570" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

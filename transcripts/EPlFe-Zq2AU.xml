@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.700" end="00:00:08.940" style="s2">great well so that this is the lightning</p>
+<p begin="00:00:06.899" end="00:00:10.620" style="s2">talk that I missed unfortunately at<span style="s3"> 200</span></p>
+<p begin="00:00:08.940" end="00:00:13.259" style="s2">so I&#39;m<span style="s3"> glad</span><span style="s4"> that</span> you guys are still</p>
+<p begin="00:00:10.620" end="00:00:17.100" style="s2"><span style="s3">around</span> here we are so so hackers in the</p>
+<p begin="00:00:13.259" end="00:00:19.080" style="s2">mob so what&#39;s the mob so just to be</p>
+<p begin="00:00:17.100" end="00:00:21.270" style="s2">clear by definitions<span style="s3"> this</span> is unruly mob</p>
+<p begin="00:00:19.080" end="00:00:26.039" style="s2">not the mob which organizationally is</p>
+<p begin="00:00:21.270" end="00:00:28.500" style="s2">structured very differently<span style="s3"> unruly mob</span></p>
+<p begin="00:00:26.039" end="00:00:30.269" style="s2">is a mob of loosely organized probably</p>
+<p begin="00:00:28.500" end="00:00:32.279" style="s2">unaffiliated people they<span style="s3"> have</span> no leader</p>
+<p begin="00:00:30.269" end="00:00:34.140" style="s2">they define their<span style="s4"> own</span> goals they act</p>
+<p begin="00:00:32.279" end="00:00:38.250" style="s2">together to do something big only</p>
+<p begin="00:00:34.140" end="00:00:40.680" style="s2">sometimes<span style="s3"> something</span> bad here&#39;s how you</p>
+<p begin="00:00:38.250" end="00:00:42.030" style="s2">run a mob at hack night uh this is</p>
+<p begin="00:00:40.680" end="00:00:44.070" style="s2">simple I&#39;ve done this a bunch of times</p>
+<p begin="00:00:42.030" end="00:00:46.170" style="s2">first of all you pick a tool I<span style="s3"> usually</span></p>
+<p begin="00:00:44.070" end="00:00:48.360" style="s2">had something open source it can be or</p>
+<p begin="00:00:46.170" end="00:00:50.879" style="s2">it can be Python can be QGIS can be</p>
+<p begin="00:00:48.360" end="00:00:52.320" style="s2">databasing can sometimes be Excel you</p>
+<p begin="00:00:50.879" end="00:00:53.879" style="s2">pick a topic which<span style="s4"> is</span> something<span style="s3"> you want</span></p>
+<p begin="00:00:52.320" end="00:00:57.270" style="s2"><span style="s3">to</span> try it<span style="s3"> on</span> you you want<span style="s3"> to</span> be curious</p>
+<p begin="00:00:53.879" end="00:00:58.770" style="s2">you want to start<span style="s3"> an</span> investigation but</p>
+<p begin="00:00:57.270" end="00:01:01.020" style="s2">then special<span style="s3"> magic</span> is you work together</p>
+<p begin="00:00:58.770" end="00:01:03.030" style="s2">you have one screen one keyboard one</p>
+<p begin="00:01:01.020" end="00:01:04.769" style="s2"><span style="s4">mouse</span> and you have one joint effort of</p>
+<p begin="00:01:03.030" end="00:01:06.150" style="s2">sifting in winnowing you know but nobody</p>
+<p begin="00:01:04.769" end="00:01:08.820" style="s2">gets left behind you have nobody&#39;s off</p>
+<p begin="00:01:06.150" end="00:01:10.350" style="s2">on their laptop nobody falls back you</p>
+<p begin="00:01:08.820" end="00:01:12.540" style="s2"><span style="s3">all</span> work together and everybody</p>
+<p begin="00:01:10.350" end="00:01:16.950" style="s2">participates the the one keyboard goes</p>
+<p begin="00:01:12.540" end="00:01:19.110" style="s2">around so in the last year and a half</p>
+<p begin="00:01:16.950" end="00:01:21.420" style="s2">there have been<span style="s3"> dozens</span> of hack nighters</p>
+<p begin="00:01:19.110" end="00:01:22.920" style="s2">a lot of beginners that have<span style="s3"> joined</span> the</p>
+<p begin="00:01:21.420" end="00:01:24.509" style="s2">session store<span style="s3"> and</span><span style="s4"> open-source</span><span style="s3"> tools</span> even</p>
+<p begin="00:01:22.920" end="00:01:26.970" style="s2">even<span style="s4"> Excel</span> because<span style="s3"> it&#39;s</span> a common</p>
+<p begin="00:01:24.509" end="00:01:28.860" style="s2">denominator we have a Google Drive where</p>
+<p begin="00:01:26.970" end="00:01:30.270" style="s2">you can see every single project whether</p>
+<p begin="00:01:28.860" end="00:01:33.509" style="s2">we&#39;ve been working on crime affordable</p>
+<p begin="00:01:30.270" end="00:01:35.369" style="s2">housing city city permits so forth even</p>
+<p begin="00:01:33.509" end="00:01:37.650" style="s2">that great tutorial on predicting who</p>
+<p begin="00:01:35.369" end="00:01:40.200" style="s2">sinks in the Titanic it&#39;s not just women</p>
+<p begin="00:01:37.650" end="00:01:42.479" style="s2">and children some rich debt classes</p>
+<p begin="00:01:40.200" end="00:01:44.130" style="s2">might have gotten<span style="s3"> involved</span> but usually</p>
+<p begin="00:01:42.479" end="00:01:46.770" style="s2">it&#39;s two hours<span style="s3"> we</span> usually get kicked out</p>
+<p begin="00:01:44.130" end="00:01:48.840" style="s2">and<span style="s3"> it&#39;s</span> fussing with syntax messy data</p>
+<p begin="00:01:46.770" end="00:01:52.409" style="s2">new and unfamiliar things<span style="s3"> and</span> we usually</p>
+<p begin="00:01:48.840" end="00:01:54.390" style="s2">leave energized here&#39;s<span style="s3"> the</span> magic as far</p>
+<p begin="00:01:52.409" end="00:01:56.219" style="s2">as<span style="s4"> I</span> can tell the<span style="s3"> first</span> thing is<span style="s4"> you</span></p>
+<p begin="00:01:54.390" end="00:01:58.170" style="s2"><span style="s3">don&#39;t</span> prepare<span style="s3"> anything</span> because</p>
+<p begin="00:01:56.219" end="00:02:00.060" style="s2">ultimately your when you come prepared</p>
+<p begin="00:01:58.170" end="00:02:01.799" style="s2"><span style="s4">you&#39;re</span> you&#39;re filling in do these</p>
+<p begin="00:02:00.060" end="00:02:03.659" style="s2">beautiful gaps you want to use</p>
+<p begin="00:02:01.799" end="00:02:05.340" style="s2">everybody&#39;s natural curiosity and that</p>
+<p begin="00:02:03.659" end="00:02:08.310" style="s2">ultimately<span style="s3"> is the</span><span style="s4"> engine</span> for what you do</p>
+<p begin="00:02:05.340" end="00:02:09.840" style="s2">you get practice not just answering</p>
+<p begin="00:02:08.310" end="00:02:11.160" style="s2">other people&#39;s questions but developing</p>
+<p begin="00:02:09.840" end="00:02:12.780" style="s2">your own questions and figure<span style="s4"> it</span><span style="s3"> out</span> for</p>
+<p begin="00:02:11.160" end="00:02:13.770" style="s2">yourself and you go<span style="s3"> home</span> you feel</p>
+<p begin="00:02:12.780" end="00:02:18.330" style="s2">comfortable you have something</p>
+<p begin="00:02:13.770" end="00:02:22.290" style="s2">else here&#39;s why mopping matters all the</p>
+<p begin="00:02:18.330" end="00:02:24.690" style="s2"><span style="s4">Cathy</span> be so so here&#39;s why<span style="s3"> mommy</span> matters</p>
+<p begin="00:02:22.290" end="00:02:27.060" style="s2">cooperative learning matters you know as</p>
+<p begin="00:02:24.690" end="00:02:28.590" style="s2">it always has you know because we can go</p>
+<p begin="00:02:27.060" end="00:02:30.360" style="s2">out and<span style="s3"> we</span> can be learning independently</p>
+<p begin="00:02:28.590" end="00:02:32.280" style="s2">but there&#39;s nothing that can spark that</p>
+<p begin="00:02:30.360" end="00:02:34.410" style="s2">like a personal connection a blank</p>
+<p begin="00:02:32.280" end="00:02:36.030" style="s2">canvas matters especially because the</p>
+<p begin="00:02:34.410" end="00:02:38.610" style="s2"><span style="s3">value</span> of this community and<span style="s3"> our</span> greatest</p>
+<p begin="00:02:36.030" end="00:02:41.520" style="s2">social and economic potential ultimately</p>
+<p begin="00:02:38.610" end="00:02:43.080" style="s2">is an agency and creativity and the</p>
+<p begin="00:02:41.520" end="00:02:45.120" style="s2">passion<span style="s4"> that</span> comes with creation and</p>
+<p begin="00:02:43.080" end="00:02:46.620" style="s2">ultimately community matters because</p>
+<p begin="00:02:45.120" end="00:02:48.780" style="s2">we&#39;re in a time when social media has</p>
+<p begin="00:02:46.620" end="00:02:51.360" style="s2">the potential to substitute rather than</p>
+<p begin="00:02:48.780" end="00:02:53.400" style="s2">enhance social<span style="s4"> interactions</span> so just on</p>
+<p begin="00:02:51.360" end="00:02:55.710" style="s2">this occasion as on many occasions I</p>
+<p begin="00:02:53.400" end="00:02:57.930" style="s2">wanted<span style="s3"> to</span> give thanks<span style="s3"> I</span> facilitate the</p>
+<p begin="00:02:55.710" end="00:02:59.580" style="s2">group I&#39;m<span style="s3"> not</span> the leader but I wanted<span style="s3"> to</span></p>
+<p begin="00:02:57.930" end="00:03:02.010" style="s2">thank everybody in the community yo who</p>
+<p begin="00:02:59.580" end="00:03:05.510" style="s2">continues to be in this room so see you</p>
+<p begin="00:03:02.010" end="00:03:05.510" style="s2">Tuesday<span style="s3"> thanks</span></p>
+</div>
+</body>
+</tt>

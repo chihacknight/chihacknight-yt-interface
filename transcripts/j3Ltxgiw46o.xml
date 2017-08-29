@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.399" end="00:00:05.879" style="s2">you have a right to be here<span style="s3"> and</span></p>
+<p begin="00:00:03.629" end="00:00:13.110" style="s2"><span style="s3">contribute</span> because<span style="s3"> this</span> era<span style="s4"> on the</span></p>
+<p begin="00:00:05.879" end="00:00:16.260" style="s2"><span style="s4">hoodie</span> hacker is completely gone ideas</p>
+<p begin="00:00:13.110" end="00:00:19.820" style="s2"><span style="s4">it&#39;s</span> very hard to execute ideas it&#39;s a</p>
+<p begin="00:00:16.260" end="00:00:22.820" style="s2">lot more fun<span style="s3"> to</span> think up step one<span style="s4"> hey</span></p>
+<p begin="00:00:19.820" end="00:00:22.820" style="s2"><span style="s4">Lana</span></p>
+<p begin="00:00:31.969" end="00:00:38.280" style="s2"><span style="s3">it&#39;s</span> been<span style="s4"> Tuesday</span> at<span style="s3"> 6 p.m. every</span></p>
+<p begin="00:00:36.450" end="00:00:40.410" style="s2"><span style="s3">Tuesday</span><span style="s4"> this</span> says<span style="s4"> something</span><span style="s3"> about</span></p>
+<p begin="00:00:38.280" end="00:00:42.120" style="s2">perseverance<span style="s3"> those</span> were the guys<span style="s4"> who</span></p>
+<p begin="00:00:40.410" end="00:00:45.809" style="s2">were there whether it was just the two</p>
+<p begin="00:00:42.120" end="00:00:48.570" style="s2"><span style="s4">of</span> them<span style="s3"> or</span><span style="s4"> twenty</span> or<span style="s4"> twelve</span> and it&#39;s</p>
+<p begin="00:00:45.809" end="00:00:50.129" style="s2">that<span style="s4"> consistency</span><span style="s3"> way</span> it&#39;s got<span style="s3"> this</span></p>
+<p begin="00:00:48.570" end="00:00:52.440" style="s2">agility<span style="s4"> like</span> you can make something</p>
+<p begin="00:00:50.129" end="00:00:54.989" style="s2"><span style="s3">really</span><span style="s4"> quickly</span> it&#39;s<span style="s3"> not</span> a supplement to</p>
+<p begin="00:00:52.440" end="00:00:58.020" style="s2"><span style="s3">go</span><span style="s4"> what is</span><span style="s3"> not</span> the<span style="s3"> private</span> sector<span style="s4"> either</span></p>
+<p begin="00:00:54.989" end="00:00:59.309" style="s2">it&#39;s not exactly a<span style="s4"> nonprofit</span><span style="s3"> it&#39;s</span> just a</p>
+<p begin="00:00:58.020" end="00:01:03.030" style="s2">bunch<span style="s4"> of</span><span style="s3"> people</span> making<span style="s3"> something</span><span style="s4"> you</span></p>
+<p begin="00:00:59.309" end="00:01:06.450" style="s2"><span style="s3">come to learn and</span><span style="s4"> I</span> come<span style="s3"> to</span> dabble<span style="s4"> and</span> I</p>
+<p begin="00:01:03.030" end="00:01:08.450" style="s2">come<span style="s3"> to</span> promote the work<span style="s3"> of</span> other<span style="s3"> people</span></p>
+<p begin="00:01:06.450" end="00:01:11.580" style="s2">who<span style="s4"> are</span> here<span style="s3"> it&#39;s just a real real</span></p>
+<p begin="00:01:08.450" end="00:01:16.320" style="s2">congenial group<span style="s3"> very</span> inclusive and<span style="s3"> very</span></p>
+<p begin="00:01:11.580" end="00:01:18.170" style="s2">joyous so what is<span style="s3"> civic technology any</span></p>
+<p begin="00:01:16.320" end="00:01:21.119" style="s2">technology that<span style="s4"> intersects</span> public life</p>
+<p begin="00:01:18.170" end="00:01:23.369" style="s2"><span style="s4">chai</span> hack night is the people part of</p>
+<p begin="00:01:21.119" end="00:01:25.740" style="s2"><span style="s4">the Civic</span><span style="s3"> innovation</span> ecosystem in</p>
+<p begin="00:01:23.369" end="00:01:28.229" style="s2">Chicago and it&#39;s where we bring</p>
+<p begin="00:01:25.740" end="00:01:30.090" style="s2">different<span style="s3"> people</span> together<span style="s3"> to</span> learn from</p>
+<p begin="00:01:28.229" end="00:01:32.790" style="s2">each other and find ways we can leverage</p>
+<p begin="00:01:30.090" end="00:01:34.590" style="s2">technology<span style="s3"> to help our</span> city<span style="s3"> we</span> need</p>
+<p begin="00:01:32.790" end="00:01:36.860" style="s2">everyone whether or not they know how to</p>
+<p begin="00:01:34.590" end="00:01:36.860" style="s2">code</p>
+<p begin="00:01:36.990" end="00:01:42.820" style="s2">to my right<span style="s4"> I&#39;m</span> a telomere<span style="s3"> the</span> Apple</p>
+<p begin="00:01:40.390" end="00:01:45.750" style="s2">first<span style="s4"> report&#39; ban sidewalks and curb</span></p>
+<p begin="00:01:42.820" end="00:01:45.750" style="s2"><span style="s3">Constitution huggers</span></p>
+<p begin="00:01:48.719" end="00:01:54.100" style="s2">and lastly<span style="s4"> provide</span> people with</p>
+<p begin="00:01:51.729" end="00:01:58.149" style="s2">wheelchairs<span style="s4"> a</span> route to<span style="s4"> avoid</span> those</p>
+<p begin="00:01:54.100" end="00:02:00.369" style="s2">problems most reliable data that they</p>
+<p begin="00:01:58.149" end="00:02:03.460" style="s2">have is actually<span style="s3"> the health inspections</span></p>
+<p begin="00:02:00.369" end="00:02:05.200" style="s2">and the<span style="s3"> project</span><span style="s4"> Silla Tator</span><span style="s3"> coordinator</span></p>
+<p begin="00:02:03.460" end="00:02:08.200" style="s2">for the<span style="s3"> chicago</span> nursing home search</p>
+<p begin="00:02:05.200" end="00:02:10.860" style="s2"><span style="s4">project</span><span style="s3"> something map of</span><span style="s4"> Chicago</span></p>
+<p begin="00:02:08.200" end="00:02:13.510" style="s2">we have dots on all the nursing homes</p>
+<p begin="00:02:10.860" end="00:02:16.090" style="s2"><span style="s3">some</span> of them<span style="s4"> are</span> very<span style="s4"> good some of the</span></p>
+<p begin="00:02:13.510" end="00:02:19.540" style="s2"><span style="s4">memory</span> bed and we<span style="s4"> put</span> it point out<span style="s4"> there</span></p>
+<p begin="00:02:16.090" end="00:02:21.640" style="s2">federal ratings<span style="s4"> one</span> of the<span style="s4"> people</span> I</p>
+<p begin="00:02:19.540" end="00:02:25.299" style="s2"><span style="s3">really</span> admire is Brandon Smith he&#39;s the</p>
+<p begin="00:02:21.640" end="00:02:27.610" style="s2">person<span style="s4"> who&#39;s</span> whose FOIA request and</p>
+<p begin="00:02:25.299" end="00:02:29.970" style="s2">subsequent lawsuit<span style="s3"> resulted in the</span></p>
+<p begin="00:02:27.610" end="00:02:33.400" style="s2">release<span style="s3"> of the laQuan McDonald shooting</span></p>
+<p begin="00:02:29.970" end="00:02:34.870" style="s2"><span style="s3">tapes</span><span style="s4"> there&#39;s</span> so many people<span style="s3"> here doing</span></p>
+<p begin="00:02:33.400" end="00:02:37.120" style="s2">cool things<span style="s3"> I</span> wouldn&#39;t know where to</p>
+<p begin="00:02:34.870" end="00:02:39.790" style="s2">start<span style="s3"> school</span> cuts was a website<span style="s4"> we</span></p>
+<p begin="00:02:37.120" end="00:02:41.349" style="s2">developed<span style="s3"> in</span> about seven weeks Chicago</p>
+<p begin="00:02:39.790" end="00:02:43.720" style="s2">Public Schools<span style="s3"> closed</span></p>
+<p begin="00:02:41.349" end="00:02:47.290" style="s2"><span style="s3">50</span> elementary streams<span style="s3"> and it was the</span></p>
+<p begin="00:02:43.720" end="00:02:50.970" style="s2">largest<span style="s4"> you</span><span style="s3"> know one time mass</span><span style="s4"> school</span></p>
+<p begin="00:02:47.290" end="00:02:53.109" style="s2">closings in<span style="s3"> the</span> city&#39;s history<span style="s4"> I</span></p>
+<p begin="00:02:50.970" end="00:02:54.100" style="s2">contributed this idea<span style="s3"> for</span> how do you</p>
+<p begin="00:02:53.109" end="00:02:57.190" style="s2">tell<span style="s3"> the</span> story<span style="s3"> and it</span><span style="s4"> really</span></p>
+<p begin="00:02:54.100" end="00:02:59.150" style="s2"><span style="s3">crystallized</span><span style="s4"> I</span> think the heart of what</p>
+<p begin="00:02:57.190" end="00:03:02.489" style="s2">this<span style="s4"> technical</span></p>
+<p begin="00:02:59.150" end="00:03:05.849" style="s2">this idea about collaboration between</p>
+<p begin="00:03:02.489" end="00:03:08.310" style="s2">citizens<span style="s3"> government</span> and believe that</p>
+<p begin="00:03:05.849" end="00:03:10.709" style="s2"><span style="s3">they</span> can achieve<span style="s3"> something</span> together<span style="s4"> and</span></p>
+<p begin="00:03:08.310" end="00:03:13.129" style="s2"><span style="s3">not</span> just found their own<span style="s3"> silos</span> is really</p>
+<p begin="00:03:10.709" end="00:03:13.129" style="s2">incredible</p>
+</div>
+</body>
+</tt>

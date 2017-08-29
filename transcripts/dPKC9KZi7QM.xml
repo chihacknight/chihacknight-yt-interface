@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.790" end="00:00:10.889" style="s2">hi<span style="s3"> everyone</span> so I&#39;m<span style="s4"> Joel</span> Hanley freelance</p>
+<p begin="00:00:08.790" end="00:00:13.230" style="s2">journalist this is freddie martinez the</p>
+<p begin="00:00:10.889" end="00:00:15.719" style="s2">director of<span style="s4"> lucy parsons</span><span style="s3"> labs</span> we</p>
+<p begin="00:00:13.230" end="00:00:18.480" style="s2">collaborated on a story with another</p>
+<p begin="00:00:15.719" end="00:00:20.400" style="s2">member of<span style="s3"> lucy parsons</span><span style="s4"> jen helsby for</span></p>
+<p begin="00:00:18.480" end="00:00:21.930" style="s2">the<span style="s4"> chicago reader we also partnered a</span></p>
+<p begin="00:00:20.400" end="00:00:24.900" style="s2">little bit with mock rock in the FOIA</p>
+<p begin="00:00:21.930" end="00:00:26.640" style="s2">process our article for the Chicago</p>
+<p begin="00:00:24.900" end="00:00:29.220" style="s2">Reader was inside the Chicago Police</p>
+<p begin="00:00:26.640" end="00:00:31.019" style="s2">Department secret budget and what<span style="s3"> we</span></p>
+<p begin="00:00:29.220" end="00:00:33.059" style="s2">were talking about is the department&#39;s</p>
+<p begin="00:00:31.019" end="00:00:35.239" style="s2">use of civil asset forfeiture which is</p>
+<p begin="00:00:33.059" end="00:00:39.870" style="s2">the process through which they can keep</p>
+<p begin="00:00:35.239" end="00:00:42.000" style="s2">assets cash cars real property that they</p>
+<p begin="00:00:39.870" end="00:00:43.850" style="s2">seized from your person during<span style="s3"> the</span></p>
+<p begin="00:00:42.000" end="00:00:46.770" style="s2">course of a crime whether or not you&#39;re</p>
+<p begin="00:00:43.850" end="00:00:48.809" style="s2">arrested or charged with a crime or they</p>
+<p begin="00:00:46.770" end="00:00:51.570" style="s2">can even<span style="s3"> prove</span> that true it was related</p>
+<p begin="00:00:48.809" end="00:00:53.719" style="s2">to we have<span style="s4"> ten</span> copies<span style="s3"> of</span> the Chicago</p>
+<p begin="00:00:51.570" end="00:00:56.100" style="s2">Reader article if you&#39;re interested if</p>
+<p begin="00:00:53.719" end="00:00:58.050" style="s2">you&#39;d<span style="s3"> like</span> to<span style="s3"> follow</span> along there are</p>
+<p begin="00:00:56.100" end="00:01:01.770" style="s2">like<span style="s3"> URLs</span> and things like that that<span style="s3"> you</span></p>
+<p begin="00:00:58.050" end="00:01:04.680" style="s2">can click so if you go on the shy hack</p>
+<p begin="00:01:01.770" end="00:01:07.700" style="s2">night<span style="s4"> Twitter</span> page<span style="s4"> I</span> had tweeted out<span style="s4"> um</span></p>
+<p begin="00:01:04.680" end="00:01:10.350" style="s2">a link to it basically you follow the</p>
+<p begin="00:01:07.700" end="00:01:12.720" style="s2">folder take the folder<span style="s4"> out</span> and open up</p>
+<p begin="00:01:10.350" end="00:01:17.070" style="s2">the index.html it&#39;ll render in a browser</p>
+<p begin="00:01:12.720" end="00:01:18.960" style="s2"><span style="s4">um</span> if you<span style="s3"> want</span> the slides and so anyway</p>
+<p begin="00:01:17.070" end="00:01:23.040" style="s2">we&#39;ll get started and also thank<span style="s4"> you to</span></p>
+<p begin="00:01:18.960" end="00:01:24.869" style="s2">our translators<span style="s3"> alright</span> so a couple</p>
+<p begin="00:01:23.040" end="00:01:26.310" style="s2">years<span style="s3"> back</span><span style="s4"> a</span> year and a<span style="s4"> half</span> ago or so</p>
+<p begin="00:01:24.869" end="00:01:27.869" style="s2"><span style="s4">freddie</span> was<span style="s3"> working</span> on a stingray</p>
+<p begin="00:01:26.310" end="00:01:29.400" style="s2">project if you<span style="s3"> guys</span> know about the</p>
+<p begin="00:01:27.869" end="00:01:31.500" style="s2">Chicago Police Department&#39;s use of</p>
+<p begin="00:01:29.400" end="00:01:33.060" style="s2">stingrays or cell site simulators that&#39;s</p>
+<p begin="00:01:31.500" end="00:01:34.439" style="s2"><span style="s3">thanks</span> to the freddie martinez he was</p>
+<p begin="00:01:33.060" end="00:01:37.799" style="s2"><span style="s3">very</span> humble about it so don&#39;t<span style="s4"> make</span> him</p>
+<p begin="00:01:34.439" end="00:01:40.110" style="s2">feel bad but so Freddie found out that</p>
+<p begin="00:01:37.799" end="00:01:42.509" style="s2">they were buying cell site simulators</p>
+<p begin="00:01:40.110" end="00:01:44.430" style="s2">through what<span style="s3"> was</span> called 1505<span style="s4"> funds</span> in</p>
+<p begin="00:01:42.509" end="00:01:46.979" style="s2">the purchase orders of the<span style="s3"> Chicago</span></p>
+<p begin="00:01:44.430" end="00:01:49.140" style="s2">Police Department<span style="s3"> I</span> was working on</p>
+<p begin="00:01:46.979" end="00:01:50.909" style="s2">another article about cell site</p>
+<p begin="00:01:49.140" end="00:01:52.829" style="s2">simulators about<span style="s3"> automatic</span> license plate</p>
+<p begin="00:01:50.909" end="00:01:54.390" style="s2">scanners and other high-tech</p>
+<p begin="00:01:52.829" end="00:01:57.960" style="s2">surveillance gear that the<span style="s3"> police</span></p>
+<p begin="00:01:54.390" end="00:02:00.119" style="s2">department was buying for itself and we</p>
+<p begin="00:01:57.960" end="00:02:03.810" style="s2">met and started talking<span style="s3"> about what</span><span style="s4"> is</span></p>
+<p begin="00:02:00.119" end="00:02:06.000" style="s2">this 1505<span style="s3"> fund</span> what what is what are</p>
+<p begin="00:02:03.810" end="00:02:09.750" style="s2"><span style="s3">these</span> purchase order is talking about<span style="s3"> so</span></p>
+<p begin="00:02:06.000" end="00:02:13.200" style="s2">here is<span style="s3"> like a one of the first pieces</span></p>
+<p begin="00:02:09.750" end="00:02:13.560" style="s2">of documentation that we got it&#39;s great</p>
+<p begin="00:02:13.200" end="00:02:15.270" style="s2">when you</p>
+<p begin="00:02:13.560" end="00:02:16.950" style="s2">see<span style="s3"> something</span> that says this<span style="s3"> system</span> is</p>
+<p begin="00:02:15.270" end="00:02:18.390" style="s2">covered in nature and its knowledge</p>
+<p begin="00:02:16.950" end="00:02:20.459" style="s2">should be kept within<span style="s3"> the</span> bureau of</p>
+<p begin="00:02:18.390" end="00:02:22.890" style="s2">organized crime and<span style="s3"> so that was</span> like</p>
+<p begin="00:02:20.459" end="00:02:24.660" style="s2"><span style="s3">okay</span> I&#39;m like I&#39;m<span style="s4"> not</span><span style="s3"> a</span> reporter or</p>
+<p begin="00:02:22.890" end="00:02:26.340" style="s2">journalist by any means but I<span style="s3"> know</span> that</p>
+<p begin="00:02:24.660" end="00:02:27.870" style="s2"><span style="s3">that&#39;s</span> like significant because the</p>
+<p begin="00:02:26.340" end="00:02:29.930" style="s2"><span style="s3">police</span> department put it in bold and</p>
+<p begin="00:02:27.870" end="00:02:33.569" style="s2">says<span style="s3"> don&#39;t</span> tell people about<span style="s3"> it</span> like</p>
+<p begin="00:02:29.930" end="00:02:36.090" style="s2">great cool so then I<span style="s3"> was</span> like let&#39;s keep</p>
+<p begin="00:02:33.569" end="00:02:38.610" style="s2">going and then over here it says 15 0 5</p>
+<p begin="00:02:36.090" end="00:02:40.860" style="s2">15 or 5 ml funds I don&#39;t know what<span style="s4"> that</span></p>
+<p begin="00:02:38.610" end="00:02:44.459" style="s2"><span style="s4">is</span> but like that&#39;s a starting point</p>
+<p begin="00:02:40.860" end="00:02:46.230" style="s2">right so five months ago<span style="s3"> we</span> were</p>
+<p begin="00:02:44.459" end="00:02:48.180" style="s2">presenting at<span style="s3"> cha</span> hack nights about<span style="s4"> a</span></p>
+<p begin="00:02:46.230" end="00:02:51.090" style="s2">separate<span style="s4"> project</span> and one of the<span style="s3"> things</span></p>
+<p begin="00:02:48.180" end="00:02:52.739" style="s2">we said was this story is coming soon it</p>
+<p begin="00:02:51.090" end="00:02:55.319" style="s2">actually<span style="s3"> took</span> a lot longer than that it</p>
+<p begin="00:02:52.739" end="00:02:57.660" style="s2">took about a year and a<span style="s4"> half</span> thousands</p>
+<p begin="00:02:55.319" end="00:03:01.860" style="s2">of<span style="s3"> pages</span> of documentation dozens of</p>
+<p begin="00:02:57.660" end="00:03:05.220" style="s2">foils a few foil lawsuits and like Joel</p>
+<p begin="00:03:01.860" end="00:03:07.319" style="s2">and<span style="s3"> Brian</span> went to like courthouse and</p>
+<p begin="00:03:05.220" end="00:03:09.569" style="s2">things like that so<span style="s3"> it</span> actually was a</p>
+<p begin="00:03:07.319" end="00:03:10.980" style="s2">pretty in-depth investigation that we</p>
+<p begin="00:03:09.569" end="00:03:14.400" style="s2">did so that&#39;s just kind of like</p>
+<p begin="00:03:10.980" end="00:03:18.209" style="s2">historical context<span style="s3"> okay</span> so going back to</p>
+<p begin="00:03:14.400" end="00:03:20.370" style="s2"><span style="s3">what</span> 1505 funds are so 1505 refers to a</p>
+<p begin="00:03:18.209" end="00:03:24.299" style="s2">specific paragraph in the Illinois</p>
+<p begin="00:03:20.370" end="00:03:26.880" style="s2">Controlled Substances Act which lays out</p>
+<p begin="00:03:24.299" end="00:03:29.400" style="s2">by law of what assets are forfeitable if</p>
+<p begin="00:03:26.880" end="00:03:31.260" style="s2">police come across them and it also</p>
+<p begin="00:03:29.400" end="00:03:32.670" style="s2">refers to how those assets will be</p>
+<p begin="00:03:31.260" end="00:03:35.040" style="s2">divvied up between the law enforcement</p>
+<p begin="00:03:32.670" end="00:03:40.890" style="s2"><span style="s4">agencies</span> if they seized and then</p>
+<p begin="00:03:35.040" end="00:03:42.930" style="s2"><span style="s3">successfully</span> forfeit that<span style="s4"> asset</span> so CPD</p>
+<p begin="00:03:40.890" end="00:03:45.780" style="s2">started keeping electronic records of</p>
+<p begin="00:03:42.930" end="00:03:49.170" style="s2">what they kept of through forfeiture in</p>
+<p begin="00:03:45.780" end="00:03:50.730" style="s2">2009 we tried<span style="s3"> to</span> get records from much</p>
+<p begin="00:03:49.170" end="00:03:53.670" style="s2"><span style="s4">farther</span> back than<span style="s3"> that</span> but it just<span style="s4"> made</span></p>
+<p begin="00:03:50.730" end="00:03:57.299" style="s2">sense<span style="s3"> to</span> allow them to give us from 2009</p>
+<p begin="00:03:53.670" end="00:03:59.100" style="s2">onwards<span style="s3"> and</span> so the key the key findings</p>
+<p begin="00:03:57.299" end="00:04:01.079" style="s2"><span style="s4">of</span><span style="s3"> our</span> investigation<span style="s3"> are is that the</span></p>
+<p begin="00:03:59.100" end="00:04:03.630" style="s2">police department brought in 72 million</p>
+<p begin="00:04:01.079" end="00:04:06.569" style="s2">dollars worth of money and assets</p>
+<p begin="00:04:03.630" end="00:04:09.870" style="s2">through civil forfeiture from 2009 to</p>
+<p begin="00:04:06.569" end="00:04:11.760" style="s2">the present the police department gets</p>
+<p begin="00:04:09.870" end="00:04:14.880" style="s2">to keep sixty-five percent of<span style="s3"> this</span> for</p>
+<p begin="00:04:11.760" end="00:04:17.190" style="s2">themselves<span style="s3"> it</span> goes into individual</p>
+<p begin="00:04:14.880" end="00:04:19.380" style="s2">forfeiture accounts that only the<span style="s3"> police</span></p>
+<p begin="00:04:17.190" end="00:04:20.970" style="s2">department oversees it&#39;s<span style="s3"> not</span> part of</p>
+<p begin="00:04:19.380" end="00:04:22.800" style="s2">oversight by the<span style="s4"> City Council is</span><span style="s3"> not</span></p>
+<p begin="00:04:20.970" end="00:04:24.840" style="s2">part of the mayor&#39;s and it is in</p>
+<p begin="00:04:22.800" end="00:04:27.560" style="s2">addition<span style="s4"> to the 1.4 billion dollar</span></p>
+<p begin="00:04:24.840" end="00:04:30.240" style="s2">budget that they get officially</p>
+<p begin="00:04:27.560" end="00:04:31.710" style="s2"><span style="s4">twenty five percent</span><span style="s3"> of</span> their take goes</p>
+<p begin="00:04:30.240" end="00:04:33.930" style="s2">to the Cook County<span style="s4"> State&#39;s</span> Attorney&#39;s</p>
+<p begin="00:04:31.710" end="00:04:36.630" style="s2">Office so since 2009 that would be about</p>
+<p begin="00:04:33.930" end="00:04:38.100" style="s2">18 million dollars and then<span style="s3"> another</span> 7.2</p>
+<p begin="00:04:36.630" end="00:04:41.940" style="s2">million goes to the Illinois<span style="s3"> State</span></p>
+<p begin="00:04:38.100" end="00:04:44.009" style="s2">Police who administers the funds during</p>
+<p begin="00:04:41.940" end="00:04:46.410" style="s2">the time between its seized and forfeit</p>
+<p begin="00:04:44.009" end="00:04:48.449" style="s2">forfeited and just to<span style="s4"> give</span> you a<span style="s3"> little</span></p>
+<p begin="00:04:46.410" end="00:04:51.600" style="s2"><span style="s3">bit</span> of background just<span style="s3"> in</span> case the the</p>
+<p begin="00:04:48.449" end="00:04:53.160" style="s2">words are confusing so seizures when the</p>
+<p begin="00:04:51.600" end="00:04:54.990" style="s2">police department comes to your house or</p>
+<p begin="00:04:53.160" end="00:04:56.850" style="s2">they pull you over and they find what</p>
+<p begin="00:04:54.990" end="00:04:59.009" style="s2">they think is drugs or that what they</p>
+<p begin="00:04:56.850" end="00:05:01.830" style="s2">think isn&#39;t illegal activity and they</p>
+<p begin="00:04:59.009" end="00:05:04.320" style="s2">take the money<span style="s3"> forfeiture</span><span style="s4"> is</span><span style="s3"> the</span> civil</p>
+<p begin="00:05:01.830" end="00:05:06.360" style="s2">legal process that starts from that day</p>
+<p begin="00:05:04.320" end="00:05:07.919" style="s2">forward in which they try to keep that</p>
+<p begin="00:05:06.360" end="00:05:12.960" style="s2">money or your car or your house</p>
+<p begin="00:05:07.919" end="00:05:15.840" style="s2">permanently another key insight from our</p>
+<p begin="00:05:12.960" end="00:05:17.449" style="s2">investigation is what the Chicago Police</p>
+<p begin="00:05:15.840" end="00:05:21.090" style="s2"><span style="s4">Department</span> is spending this money on</p>
+<p begin="00:05:17.449" end="00:05:22.979" style="s2">because this money is outside<span style="s4"> of</span> its</p>
+<p begin="00:05:21.090" end="00:05:25.919" style="s2">normal budget process we had to FOIA</p>
+<p begin="00:05:22.979" end="00:05:27.479" style="s2">extensively to figure out exactly<span style="s4"> how</span></p>
+<p begin="00:05:25.919" end="00:05:29.430" style="s2">much<span style="s3"> they</span> were<span style="s3"> bringing</span> in and then what</p>
+<p begin="00:05:27.479" end="00:05:31.650" style="s2">they were spending it on as they were</p>
+<p begin="00:05:29.430" end="00:05:33.690" style="s2">using<span style="s3"> it</span> and we found<span style="s3"> that</span> of the money</p>
+<p begin="00:05:31.650" end="00:05:34.979" style="s2"><span style="s3">that</span> they were spending more than ninety</p>
+<p begin="00:05:33.690" end="00:05:37.830" style="s2">percent of it went to<span style="s3"> the</span> day-to-day</p>
+<p begin="00:05:34.979" end="00:05:42.419" style="s2"><span style="s4">operations</span> of the drug war it was paying</p>
+<p begin="00:05:37.830" end="00:05:44.729" style="s2">for cars and<span style="s3"> Renault</span> expenses and cell</p>
+<p begin="00:05:42.419" end="00:05:46.949" style="s2">phone bills for undercover officers and</p>
+<p begin="00:05:44.729" end="00:05:48.389" style="s2">that kind of thing and then nine percent</p>
+<p begin="00:05:46.949" end="00:05:50.610" style="s2">went to controversial surveillance</p>
+<p begin="00:05:48.389" end="00:05:52.919" style="s2">equipment like the stingrays<span style="s3"> cell site</span></p>
+<p begin="00:05:50.610" end="00:05:58.650" style="s2">simulators automatic license plate</p>
+<p begin="00:05:52.919" end="00:06:00.150" style="s2">readers and like so yeah just to give</p>
+<p begin="00:05:58.650" end="00:06:02.580" style="s2">you an idea of<span style="s3"> the</span> breakdown I don&#39;t</p>
+<p begin="00:06:00.150" end="00:06:04.620" style="s2">know if you can see this<span style="s3"> I</span> invite you to</p>
+<p begin="00:06:02.580" end="00:06:06.680" style="s2"><span style="s3">go</span> read the Chicago Reader article</p>
+<p begin="00:06:04.620" end="00:06:09.720" style="s2">because<span style="s4"> there is a interactive wheel</span></p>
+<p begin="00:06:06.680" end="00:06:12.530" style="s2">most of it like is the routine day to</p>
+<p begin="00:06:09.720" end="00:06:17.250" style="s2">day war on drugs and these sort of</p>
+<p begin="00:06:12.530" end="00:06:20.159" style="s2">segments just<span style="s4"> are</span> different expenditures</p>
+<p begin="00:06:17.250" end="00:06:22.860" style="s2">then there&#39;s this nine percent which is</p>
+<p begin="00:06:20.159" end="00:06:24.930" style="s2">surveillance there are some<span style="s3"> that</span> are</p>
+<p begin="00:06:22.860" end="00:06:27.030" style="s2">outside of<span style="s3"> our</span> analysis which we&#39;ll talk</p>
+<p begin="00:06:24.930" end="00:06:28.530" style="s2">about in a second and<span style="s4"> then</span> there are</p>
+<p begin="00:06:27.030" end="00:06:31.800" style="s2">some that are like unknown because</p>
+<p begin="00:06:28.530" end="00:06:34.500" style="s2"><span style="s4">they&#39;re</span> overly redacted which is a thing</p>
+<p begin="00:06:31.800" end="00:06:36.270" style="s2">that happens<span style="s4"> in</span> FOIA if you do Freedom</p>
+<p begin="00:06:34.500" end="00:06:39.210" style="s2">of Information Act you know that they</p>
+<p begin="00:06:36.270" end="00:06:40.070" style="s2">redacted everything that they can<span style="s3"> arm</span> so</p>
+<p begin="00:06:39.210" end="00:06:43.490" style="s2">that</p>
+<p begin="00:06:40.070" end="00:06:45.350" style="s2">stuff is just kind of unknown we&#39;ll talk</p>
+<p begin="00:06:43.490" end="00:06:47.510" style="s2"><span style="s3">about it but I invite you to</span> look at for</p>
+<p begin="00:06:45.350" end="00:06:52.010" style="s2">that interactive wheel on the Chicago</p>
+<p begin="00:06:47.510" end="00:06:54.530" style="s2"><span style="s3">Reader</span> website<span style="s4"> okay</span> so I&#39;m<span style="s3"> going</span> to<span style="s3"> talk</span></p>
+<p begin="00:06:52.010" end="00:06:56.630" style="s2">just briefly about how it looks if you</p>
+<p begin="00:06:54.530" end="00:06:59.480" style="s2">have money or<span style="s3"> a</span> car or another asset</p>
+<p begin="00:06:56.630" end="00:07:01.070" style="s2">that&#39;s taken from you so first<span style="s3"> officers</span></p>
+<p begin="00:06:59.480" end="00:07:02.780" style="s2">stopped you and seized the property that</p>
+<p begin="00:07:01.070" end="00:07:05.030" style="s2">they suspect is involved in a legal</p>
+<p begin="00:07:02.780" end="00:07:06.470" style="s2">activity then they have to<span style="s4"> go</span> to the</p>
+<p begin="00:07:05.030" end="00:07:08.750" style="s2">Cook County State&#39;s Attorney&#39;s Office</p>
+<p begin="00:07:06.470" end="00:07:11.360" style="s2">say hey we think this is forfeitable</p>
+<p begin="00:07:08.750" end="00:07:13.370" style="s2">what do you<span style="s4"> guys</span> think they<span style="s3"> say yes we</span></p>
+<p begin="00:07:11.360" end="00:07:15.230" style="s2">agree and so then the civil process</p>
+<p begin="00:07:13.370" end="00:07:17.060" style="s2">continues and that&#39;s when the<span style="s3"> actual</span></p>
+<p begin="00:07:15.230" end="00:07:19.790" style="s2">legal process starts to go into<span style="s3"> the</span></p>
+<p begin="00:07:17.060" end="00:07:21.980" style="s2">courts the seizure is the<span style="s3"> one step</span></p>
+<p begin="00:07:19.790" end="00:07:24.320" style="s2">convincing the court to allow them to</p>
+<p begin="00:07:21.980" end="00:07:25.820" style="s2">legally keep the<span style="s4"> property</span> is a<span style="s3"> separate</span></p>
+<p begin="00:07:24.320" end="00:07:30.320" style="s2">step that&#39;s forfeiture and that&#39;s what</p>
+<p begin="00:07:25.820" end="00:07:32.930" style="s2">we&#39;re talking about here so i&#39;m going to</p>
+<p begin="00:07:30.320" end="00:07:35.480" style="s2">show you an interactive of flow chart</p>
+<p begin="00:07:32.930" end="00:07:36.830" style="s2">here<span style="s3"> i&#39;m</span> not going<span style="s3"> to</span> get into all the</p>
+<p begin="00:07:35.480" end="00:07:39.920" style="s2">details as you&#39;ll see it gets very</p>
+<p begin="00:07:36.830" end="00:07:42.830" style="s2">confusing but this is just a look at how</p>
+<p begin="00:07:39.920" end="00:07:46.490" style="s2">the process works if it is you that is</p>
+<p begin="00:07:42.830" end="00:07:48.410" style="s2">going through it so the average seizure</p>
+<p begin="00:07:46.490" end="00:07:50.600" style="s2">in<span style="s4"> Illinois</span> is only five hundred and</p>
+<p begin="00:07:48.410" end="00:07:52.010" style="s2">thirty dollars or the average median</p>
+<p begin="00:07:50.600" end="00:07:53.420" style="s2">seizure and that&#39;s according<span style="s3"> to</span> the</p>
+<p begin="00:07:52.010" end="00:07:57.350" style="s2">institute for justice which is a</p>
+<p begin="00:07:53.420" end="00:07:59.030" style="s2">national civil libertarian organization</p>
+<p begin="00:07:57.350" end="00:08:01.250" style="s2">that tracks civil forfeiture across the</p>
+<p begin="00:07:59.030" end="00:08:03.170" style="s2">country for our purposes we&#39;re going to</p>
+<p begin="00:08:01.250" end="00:08:06.820" style="s2">look at what would<span style="s3"> happen</span> if you had a</p>
+<p begin="00:08:03.170" end="00:08:09.140" style="s2">thousand dollars taken off<span style="s4"> of</span> you so</p>
+<p begin="00:08:06.820" end="00:08:11.600" style="s2">there are several different outcomes</p>
+<p begin="00:08:09.140" end="00:08:14.210" style="s2">most of them is<span style="s4"> that</span> you lose there are</p>
+<p begin="00:08:11.600" end="00:08:17.060" style="s2">two ways<span style="s4"> that</span> you win almost<span style="s3"> always</span> you</p>
+<p begin="00:08:14.210" end="00:08:18.710" style="s2">lose<span style="s4"> a</span><span style="s3"> yeah</span> it&#39;s rare that you would so</p>
+<p begin="00:08:17.060" end="00:08:21.560" style="s2">the first step is that the department</p>
+<p begin="00:08:18.710" end="00:08:23.090" style="s2">itself after seizing it says actually we</p>
+<p begin="00:08:21.560" end="00:08:26.210" style="s2">don&#39;t<span style="s3"> have</span> probable cause and in that</p>
+<p begin="00:08:23.090" end="00:08:28.070" style="s2"><span style="s3">case</span> you<span style="s3"> get</span> your full $1,000 back but</p>
+<p begin="00:08:26.210" end="00:08:30.050" style="s2">you only<span style="s4"> have</span> 30 days to get<span style="s4"> it</span> you<span style="s3"> got</span></p>
+<p begin="00:08:28.070" end="00:08:33.500" style="s2">to go down<span style="s4"> to</span> the evidence<span style="s3"> and</span> evidence</p>
+<p begin="00:08:30.050" end="00:08:35.990" style="s2">and identify yeah you go to<span style="s4"> an</span> office</p>
+<p begin="00:08:33.500" end="00:08:38.780" style="s2">and home in square the west side black</p>
+<p begin="00:08:35.990" end="00:08:40.640" style="s2">site that they run and you say hey give</p>
+<p begin="00:08:38.780" end="00:08:42.140" style="s2">me<span style="s4"> my</span> money and they do but if you don&#39;t</p>
+<p begin="00:08:40.640" end="00:08:44.900" style="s2">do that within 30 days they&#39;re allowed</p>
+<p begin="00:08:42.140" end="00:08:49.010" style="s2">to keep it the second aspect is that if</p>
+<p begin="00:08:44.900" end="00:08:51.140" style="s2">early on in the court process when CPD</p>
+<p begin="00:08:49.010" end="00:08:53.450" style="s2">tries to prove probable cause to a judge</p>
+<p begin="00:08:51.140" end="00:08:54.030" style="s2">to allow them to start the process<span style="s3"> in</span></p>
+<p begin="00:08:53.450" end="00:08:56.670" style="s2">full</p>
+<p begin="00:08:54.030" end="00:08:58.410" style="s2">that very first probable cause hearing</p>
+<p begin="00:08:56.670" end="00:09:00.180" style="s2">judge says that they don&#39;t have<span style="s3"> it</span></p>
+<p begin="00:08:58.410" end="00:09:03.000" style="s2">that&#39;s the only case in which you<span style="s3"> get</span></p>
+<p begin="00:09:00.180" end="00:09:05.310" style="s2">all<span style="s4"> your</span> money back in every other every</p>
+<p begin="00:09:03.000" end="00:09:07.950" style="s2">other scenario you&#39;re going to lose<span style="s3"> some</span></p>
+<p begin="00:09:05.310" end="00:09:09.780" style="s2">bit of<span style="s3"> money</span> so one is that<span style="s3"> you</span><span style="s4"> don&#39;t</span></p>
+<p begin="00:09:07.950" end="00:09:12.420" style="s2"><span style="s3">even</span><span style="s4"> fight</span> it so your thousand dollars</p>
+<p begin="00:09:09.780" end="00:09:15.180" style="s2">is gone from<span style="s3"> the</span> get-go but you don&#39;t</p>
+<p begin="00:09:12.420" end="00:09:17.070" style="s2">lose any money in court costs the second</p>
+<p begin="00:09:15.180" end="00:09:20.160" style="s2">step is that you start going<span style="s4"> through</span> the</p>
+<p begin="00:09:17.070" end="00:09:22.650" style="s2">court process this<span style="s3"> entails</span> paying about</p>
+<p begin="00:09:20.160" end="00:09:25.230" style="s2"><span style="s3">a</span> two-hundred-dollar appearance fee some</p>
+<p begin="00:09:22.650" end="00:09:26.910" style="s2">ranges between like 170 and two hundred</p>
+<p begin="00:09:25.230" end="00:09:30.510" style="s2"><span style="s4">twenty</span> dollars and you have to put a</p>
+<p begin="00:09:26.910" end="00:09:32.250" style="s2">bond down on your asset that was seized</p>
+<p begin="00:09:30.510" end="00:09:33.510" style="s2">so in our case if it&#39;s a thousand</p>
+<p begin="00:09:32.250" end="00:09:35.400" style="s2">dollars cash you have to put up<span style="s3"> a</span></p>
+<p begin="00:09:33.510" end="00:09:37.200" style="s2">hundred dollars if it was a thirteen</p>
+<p begin="00:09:35.400" end="00:09:39.240" style="s2">thousand dollar vehicle then you would</p>
+<p begin="00:09:37.200" end="00:09:43.680" style="s2">have to put<span style="s4"> up</span> 13 hundred dollars and it</p>
+<p begin="00:09:39.240" end="00:09:45.720" style="s2">goes up<span style="s4"> from</span> there at some point doing</p>
+<p begin="00:09:43.680" end="00:09:48.300" style="s2"><span style="s3">it</span> so yet so let&#39;s pause here the</p>
+<p begin="00:09:45.720" end="00:09:50.010" style="s2">average seizure is 530 bucks if<span style="s3"> you</span> want</p>
+<p begin="00:09:48.300" end="00:09:56.000" style="s2">to challenge it in court you&#39;re putting</p>
+<p begin="00:09:50.010" end="00:09:58.740" style="s2">up already<span style="s4"> $300</span> yeah so like forget<span style="s4"> that</span></p>
+<p begin="00:09:56.000" end="00:10:01.650" style="s2">let&#39;s say that<span style="s4"> it&#39;s</span> your Yeah Yeah right</p>
+<p begin="00:09:58.740" end="00:10:03.690" style="s2">let&#39;s say it&#39;s<span style="s3"> your</span> house right if your</p>
+<p begin="00:10:01.650" end="00:10:06.420" style="s2">house is 130 thousand dollars you have</p>
+<p begin="00:10:03.690" end="00:10:10.020" style="s2">to put up 13 thousand dollars plus your</p>
+<p begin="00:10:06.420" end="00:10:13.080" style="s2">$200 appearance fee so you can see like</p>
+<p begin="00:10:10.020" end="00:10:14.760" style="s2">why there&#39;s such a descent if four</p>
+<p begin="00:10:13.080" end="00:10:21.600" style="s2">people would<span style="s4"> even</span> go to court to</p>
+<p begin="00:10:14.760" end="00:10:23.070" style="s2">challenge it question I mean I<span style="s4"> guess</span> you</p>
+<p begin="00:10:21.600" end="00:10:24.930" style="s2"><span style="s4">should</span> ask cook county state&#39;s attorney</p>
+<p begin="00:10:23.070" end="00:10:26.790" style="s2">or the Illinois State German I think</p>
+<p begin="00:10:24.930" end="00:10:29.280" style="s2">well so part of that bond fee goes</p>
+<p begin="00:10:26.790" end="00:10:34.670" style="s2">toward paying the administrative costs</p>
+<p begin="00:10:29.280" end="00:10:37.440" style="s2">of the court so that&#39;s partially that</p>
+<p begin="00:10:34.670" end="00:10:38.760" style="s2">that&#39;s correct oh yeah I think so I mean</p>
+<p begin="00:10:37.440" end="00:10:42.690" style="s2">but the real answer is you should ask</p>
+<p begin="00:10:38.760" end="00:10:44.550" style="s2">the Illinois State Legislature but yeah</p>
+<p begin="00:10:42.690" end="00:10:50.910" style="s2">it&#39;s for paying for court administrative</p>
+<p begin="00:10:44.550" end="00:10:52.520" style="s2">costs good so you<span style="s4"> go</span> yeah and<span style="s3"> you</span> don&#39;t</p>
+<p begin="00:10:50.910" end="00:10:56.040" style="s2">get it back even if you win that&#39;s</p>
+<p begin="00:10:52.520" end="00:10:58.020" style="s2">that&#39;s not<span style="s3"> true</span> well sorry<span style="s3"> okay okay</span></p>
+<p begin="00:10:56.040" end="00:11:00.210" style="s2"><span style="s3">okay</span> so there there are<span style="s3"> certain</span></p>
+<p begin="00:10:58.020" end="00:11:03.990" style="s2">scenarios in which you may get part of</p>
+<p begin="00:11:00.210" end="00:11:06.270" style="s2"><span style="s3">your</span> fee or all of your feedback well</p>
+<p begin="00:11:03.990" end="00:11:07.440" style="s2">never all of your fee the bond even<span style="s4"> if</span></p>
+<p begin="00:11:06.270" end="00:11:09.600" style="s2">you<span style="s3"> win</span> you lose</p>
+<p begin="00:11:07.440" end="00:11:12.150" style="s2">ten percent of it ten percent of your</p>
+<p begin="00:11:09.600" end="00:11:14.130" style="s2">ten percent bond is always lost even if</p>
+<p begin="00:11:12.150" end="00:11:17.460" style="s2">you<span style="s4"> win</span> because<span style="s3"> that</span> goes to the</p>
+<p begin="00:11:14.130" end="00:11:19.770" style="s2"><span style="s3">administrative</span><span style="s4"> cost</span> of the program there</p>
+<p begin="00:11:17.460" end="00:11:21.690" style="s2">are moments early<span style="s3"> on</span> in the process in</p>
+<p begin="00:11:19.770" end="00:11:23.520" style="s2">which the state&#39;s attorney&#39;s office may</p>
+<p begin="00:11:21.690" end="00:11:25.260" style="s2">offer you a settlement and if<span style="s3"> that&#39;s the</span></p>
+<p begin="00:11:23.520" end="00:11:27.660" style="s2"><span style="s4">case</span> then<span style="s4"> that</span> two hundred dollar fee</p>
+<p begin="00:11:25.260" end="00:11:32.040" style="s2">that you pay to appear in<span style="s4"> court</span> may be</p>
+<p begin="00:11:27.660" end="00:11:34.530" style="s2">returned to you and but again<span style="s3"> that</span> bond</p>
+<p begin="00:11:32.040" end="00:11:36.030" style="s2">would not be returned to you so there</p>
+<p begin="00:11:34.530" end="00:11:38.370" style="s2">are<span style="s3"> different</span> scenarios and it gets a</p>
+<p begin="00:11:36.030" end="00:11:40.950" style="s2">little complicated but for the most part</p>
+<p begin="00:11:38.370" end="00:11:43.590" style="s2">if<span style="s3"> you</span> get any length into this process</p>
+<p begin="00:11:40.950" end="00:11:47.870" style="s2">then at least part of those fees are</p>
+<p begin="00:11:43.590" end="00:11:54.360" style="s2">just gone there are<span style="s3"> other</span> questions or</p>
+<p begin="00:11:47.870" end="00:11:56.190" style="s2">we can continue ok cool oh cool um so</p>
+<p begin="00:11:54.360" end="00:11:58.200" style="s2">then yeah so we&#39;ve gone<span style="s3"> through</span> two ways</p>
+<p begin="00:11:56.190" end="00:11:59.820" style="s2"><span style="s4">that</span> you<span style="s3"> lose</span> the worst way that you can</p>
+<p begin="00:11:58.200" end="00:12:01.350" style="s2"><span style="s3">lose</span> is that you go all the way through</p>
+<p begin="00:11:59.820" end="00:12:04.890" style="s2"><span style="s3">the</span> process you actually get to the</p>
+<p begin="00:12:01.350" end="00:12:06.750" style="s2">civil trial and they&#39;ve rule in CPD&#39;s</p>
+<p begin="00:12:04.890" end="00:12:08.520" style="s2">favor and if<span style="s3"> that&#39;s the case</span> then<span style="s3"> not</span></p>
+<p begin="00:12:06.750" end="00:12:09.900" style="s2">only do you lose the one thousand</p>
+<p begin="00:12:08.520" end="00:12:11.610" style="s2">dollars that<span style="s3"> you</span> started with but you</p>
+<p begin="00:12:09.900" end="00:12:13.920" style="s2">also lose the roughly three hundred</p>
+<p begin="00:12:11.610" end="00:12:18.930" style="s2">dollars worth of fees that you pay so</p>
+<p begin="00:12:13.920" end="00:12:21.270" style="s2">your net loss is<span style="s3"> 1300</span><span style="s4"> okay</span> so<span style="s4"> I&#39;m</span><span style="s3"> just</span></p>
+<p begin="00:12:18.930" end="00:12:24.570" style="s2">going<span style="s4"> to</span> scroll through these slides</p>
+<p begin="00:12:21.270" end="00:12:26.250" style="s2">real quick this is the flowchart that we</p>
+<p begin="00:12:24.570" end="00:12:28.980" style="s2">were talking about<span style="s3"> it&#39;s</span><span style="s4"> complicated</span> i&#39;m</p>
+<p begin="00:12:26.250" end="00:12:32.390" style="s2">not going<span style="s4"> to</span><span style="s3"> go</span> into it<span style="s3"> exactly but as</span></p>
+<p begin="00:12:28.980" end="00:12:38.280" style="s2">you can see there&#39;s three layers here</p>
+<p begin="00:12:32.390" end="00:12:42.060" style="s2">yeah so the main takeaways from this are</p>
+<p begin="00:12:38.280" end="00:12:44.910" style="s2">every arrow in the scenario is a length</p>
+<p begin="00:12:42.060" end="00:12:46.860" style="s2"><span style="s3">of</span> time it takes many<span style="s3"> days</span> the police</p>
+<p begin="00:12:44.910" end="00:12:49.530" style="s2">department has between<span style="s3"> five</span> days if it&#39;s</p>
+<p begin="00:12:46.860" end="00:12:51.180" style="s2">a car or<span style="s3"> 52</span> days if<span style="s3"> it&#39;s</span> cash to tell</p>
+<p begin="00:12:49.530" end="00:12:53.400" style="s2">the state&#39;s<span style="s4"> attorneys</span> that<span style="s3"> they</span> want to</p>
+<p begin="00:12:51.180" end="00:12:56.190" style="s2">keep it the state&#39;s attorneys has 45</p>
+<p begin="00:12:53.400" end="00:12:58.800" style="s2">days to tell the court that it&#39;s<span style="s3"> seeking</span></p>
+<p begin="00:12:56.190" end="00:13:00.900" style="s2">to keep it so all of this<span style="s3"> time</span> is time</p>
+<p begin="00:12:58.800" end="00:13:03.270" style="s2">in which you are living without your</p>
+<p begin="00:13:00.900" end="00:13:04.920" style="s2">money or your car or your house or your</p>
+<p begin="00:13:03.270" end="00:13:06.450" style="s2">house<span style="s3"> although</span> it&#39;s a little quicker if</p>
+<p begin="00:13:04.920" end="00:13:10.560" style="s2">it&#39;s your house because<span style="s4"> they</span> take<span style="s4"> the</span></p>
+<p begin="00:13:06.450" end="00:13:12.660" style="s2"><span style="s4">idea</span><span style="s3"> yeah</span> uh but throughout this process</p>
+<p begin="00:13:10.560" end="00:13:15.690" style="s2">the burden of proof is on the claimant</p>
+<p begin="00:13:12.660" end="00:13:18.180" style="s2">so the Cook County<span style="s4"> State&#39;s</span> Attorney&#39;s</p>
+<p begin="00:13:15.690" end="00:13:20.460" style="s2">Office and<span style="s4"> the</span> police department<span style="s3"> only</span></p>
+<p begin="00:13:18.180" end="00:13:21.180" style="s2">have to prove probable cause they<span style="s3"> only</span></p>
+<p begin="00:13:20.460" end="00:13:22.950" style="s2">have to</p>
+<p begin="00:13:21.180" end="00:13:25.020" style="s2">act your asset to a crime through</p>
+<p begin="00:13:22.950" end="00:13:27.390" style="s2">probable cause which as I&#39;m sure many of</p>
+<p begin="00:13:25.020" end="00:13:30.630" style="s2">you know is the low standard of proof</p>
+<p begin="00:13:27.390" end="00:13:33.090" style="s2">that they need<span style="s4"> to</span> look at<span style="s4"> your</span> car at a</p>
+<p begin="00:13:30.630" end="00:13:35.550" style="s2">traffic stop it&#39;s not an evidentiary</p>
+<p begin="00:13:33.090" end="00:13:37.650" style="s2">standard and probable cause here means</p>
+<p begin="00:13:35.550" end="00:13:39.990" style="s2">they only have to prove that<span style="s4"> they</span><span style="s3"> took</span></p>
+<p begin="00:13:37.650" end="00:13:41.280" style="s2"><span style="s4">it</span> with probable<span style="s3"> cause not that there</span></p>
+<p begin="00:13:39.990" end="00:13:43.410" style="s2"><span style="s4">was</span> probable cause<span style="s4"> that</span> you actually</p>
+<p begin="00:13:41.280" end="00:13:45.150" style="s2">committed<span style="s4"> a</span> crime so you can like<span style="s4"> me</span></p>
+<p begin="00:13:43.410" end="00:13:48.570" style="s2">clear to the crime and still have<span style="s3"> your</span></p>
+<p begin="00:13:45.150" end="00:13:52.050" style="s2">stuff taken you so probable cause here</p>
+<p begin="00:13:48.570" end="00:13:54.870" style="s2"><span style="s4">only</span> means probable cause to see or to</p>
+<p begin="00:13:52.050" end="00:13:59.310" style="s2">forfeit the stuff and do the seizure</p>
+<p begin="00:13:54.870" end="00:14:02.760" style="s2">process through the courts yeah so then</p>
+<p begin="00:13:59.310" end="00:14:04.950" style="s2">the other takeaway is<span style="s3"> that</span> because<span style="s3"> it&#39;s</span></p>
+<p begin="00:14:02.760" end="00:14:07.260" style="s2">a<span style="s3"> civil</span> process in not a<span style="s3"> criminal</span> case</p>
+<p begin="00:14:04.950" end="00:14:09.900" style="s2">there&#39;s no court appointed attorney you</p>
+<p begin="00:14:07.260" end="00:14:11.850" style="s2">don&#39;t get a public defender so as a huge</p>
+<p begin="00:14:09.900" end="00:14:14.070" style="s2">disadvantage to a regular everyday</p>
+<p begin="00:14:11.850" end="00:14:17.460" style="s2">claimant who&#39;s going up against a team</p>
+<p begin="00:14:14.070" end="00:14:18.990" style="s2">of lawyers that<span style="s4"> are</span> hired through the</p>
+<p begin="00:14:17.460" end="00:14:20.550" style="s2">state&#39;s attorney&#39;s office<span style="s3"> and</span> that deal</p>
+<p begin="00:14:18.990" end="00:14:23.130" style="s2"><span style="s3">with</span> these cases day after day week</p>
+<p begin="00:14:20.550" end="00:14:24.750" style="s2">after week and a roster of judges that</p>
+<p begin="00:14:23.130" end="00:14:29.700" style="s2">hear these cases day after day week</p>
+<p begin="00:14:24.750" end="00:14:34.110" style="s2">after week I&#39;m just<span style="s3"> going</span><span style="s4"> to</span><span style="s3"> go</span><span style="s4"> through</span></p>
+<p begin="00:14:29.700" end="00:14:35.370" style="s2">here so I just check<span style="s3"> out</span> the flowchart</p>
+<p begin="00:14:34.110" end="00:14:38.070" style="s2">for yourself yeah<span style="s3"> in</span> the Chicago Reader</p>
+<p begin="00:14:35.370" end="00:14:40.830" style="s2">story so to reiterate it&#39;s a<span style="s3"> civil</span></p>
+<p begin="00:14:38.070" end="00:14:42.660" style="s2">action the legal<span style="s3"> protections</span> that are</p>
+<p begin="00:14:40.830" end="00:14:46.530" style="s2">with you during a criminal case are not</p>
+<p begin="00:14:42.660" end="00:14:48.840" style="s2">with you during the civil case and the</p>
+<p begin="00:14:46.530" end="00:14:52.920" style="s2">burden of proof is on the claimant not</p>
+<p begin="00:14:48.840" end="00:14:55.080" style="s2">on the state so we<span style="s3"> have</span> still have some</p>
+<p begin="00:14:52.920" end="00:14:57.600" style="s2">open questions the biggest<span style="s4"> one</span> that<span style="s3"> we</span></p>
+<p begin="00:14:55.080" end="00:15:00.330" style="s2">try<span style="s3"> to</span> address that we got no answers</p>
+<p begin="00:14:57.600" end="00:15:02.610" style="s2">for was what does<span style="s3"> this</span> program look like</p>
+<p begin="00:15:00.330" end="00:15:05.010" style="s2">racially I mean we know that the word on</p>
+<p begin="00:15:02.610" end="00:15:07.440" style="s2">drugs is applied asymmetrically to pour</p>
+<p begin="00:15:05.010" end="00:15:10.470" style="s2">in brown people so we try<span style="s4"> to</span> figure out</p>
+<p begin="00:15:07.440" end="00:15:12.270" style="s2">whose stuff is getting seized and the</p>
+<p begin="00:15:10.470" end="00:15:13.890" style="s2"><span style="s4">state&#39;s</span> attorney wouldn&#39;t tell us<span style="s3"> we</span></p>
+<p begin="00:15:12.270" end="00:15:16.950" style="s2"><span style="s3">tried to file FOIA as I said it was too</span></p>
+<p begin="00:15:13.890" end="00:15:19.920" style="s2"><span style="s4">much</span> work even though it&#39;s really not I</p>
+<p begin="00:15:16.950" end="00:15:21.570" style="s2">mean it but it&#39;s actually<span style="s3"> a</span> really hard</p>
+<p begin="00:15:19.920" end="00:15:25.080" style="s2">question to answer if you don&#39;t like</p>
+<p begin="00:15:21.570" end="00:15:26.910" style="s2">actually do this stuff every day so we</p>
+<p begin="00:15:25.080" end="00:15:29.580" style="s2">try to answer that question we don&#39;t</p>
+<p begin="00:15:26.910" end="00:15:31.380" style="s2">know what the answer<span style="s4"> is</span> um we don&#39;t know</p>
+<p begin="00:15:29.580" end="00:15:32.850" style="s2">the breakdown of seizures so we know</p>
+<p begin="00:15:31.380" end="00:15:34.950" style="s2">what the average seizure looks like</p>
+<p begin="00:15:32.850" end="00:15:36.750" style="s2">these<span style="s3"> laws</span><span style="s4"> were</span> enacted</p>
+<p begin="00:15:34.950" end="00:15:38.310" style="s2">it you know in<span style="s4"> the</span> 80s because<span style="s4"> we&#39;re</span></p>
+<p begin="00:15:36.750" end="00:15:40.500" style="s2">going<span style="s3"> to</span> take down Pablo Escobar and</p>
+<p begin="00:15:38.310" end="00:15:41.340" style="s2">we&#39;re going<span style="s3"> to</span> take tony montana&#39;s money</p>
+<p begin="00:15:40.500" end="00:15:43.410" style="s2">and we&#39;re going to cripple his</p>
+<p begin="00:15:41.340" end="00:15:44.880" style="s2">organization um but if the average</p>
+<p begin="00:15:43.410" end="00:15:47.250" style="s2">seizure is like five hundred and thirty</p>
+<p begin="00:15:44.880" end="00:15:49.410" style="s2">dollars that&#39;s not what&#39;s happening and</p>
+<p begin="00:15:47.250" end="00:15:51.630" style="s2">from the people that<span style="s4"> we</span> met in court<span style="s4"> and</span></p>
+<p begin="00:15:49.410" end="00:15:53.820" style="s2">the reporting that Joel did that didn&#39;t</p>
+<p begin="00:15:51.630" end="00:15:56.190" style="s2">seem to<span style="s3"> be</span> the case um but we don&#39;t</p>
+<p begin="00:15:53.820" end="00:15:58.020" style="s2"><span style="s4">actually</span> don&#39;t know um these<span style="s3"> are these</span></p>
+<p begin="00:15:56.190" end="00:15:59.760" style="s2">are again kind<span style="s3"> of</span> open and part of the</p>
+<p begin="00:15:58.020" end="00:16:01.590" style="s2">reason we<span style="s3"> don&#39;t</span> know is when the<span style="s3"> Chicago</span></p>
+<p begin="00:15:59.760" end="00:16:03.630" style="s2"><span style="s3">Police Department takes money and then</span></p>
+<p begin="00:16:01.590" end="00:16:05.910" style="s2">sends it along to the Illinois State</p>
+<p begin="00:16:03.630" end="00:16:07.470" style="s2">Police which administers the fun in the</p>
+<p begin="00:16:05.910" end="00:16:09.240" style="s2">interim period between seizure and</p>
+<p begin="00:16:07.470" end="00:16:12.000" style="s2">forfeiture they lump all that money</p>
+<p begin="00:16:09.240" end="00:16:15.290" style="s2">together so when we we were able to FOIA</p>
+<p begin="00:16:12.000" end="00:16:17.760" style="s2">for deposit slips to show how much money</p>
+<p begin="00:16:15.290" end="00:16:20.610" style="s2">CPD&#39;s forfeiture account was making</p>
+<p begin="00:16:17.760" end="00:16:22.800" style="s2">month by month since 2009 to the present</p>
+<p begin="00:16:20.610" end="00:16:24.540" style="s2">but it was on these lump sum checks from</p>
+<p begin="00:16:22.800" end="00:16:26.070" style="s2">the<span style="s4"> Illinois</span> State<span style="s3"> release</span> not the</p>
+<p begin="00:16:24.540" end="00:16:29.670" style="s2">individual so yeah so what we see is</p>
+<p begin="00:16:26.070" end="00:16:33.030" style="s2">like one deposit 4.5 million dollars and</p>
+<p begin="00:16:29.670" end="00:16:34.470" style="s2">then the<span style="s4"> next</span> month we&#39;ll see like forty</p>
+<p begin="00:16:33.030" end="00:16:36.270" style="s2">dollars or something<span style="s3"> that&#39;s</span> not exact</p>
+<p begin="00:16:34.470" end="00:16:40.200" style="s2">figures but anyway that&#39;s kind of a</p>
+<p begin="00:16:36.270" end="00:16:42.210" style="s2">challenge we found and then total</p>
+<p begin="00:16:40.200" end="00:16:44.760" style="s2">expenditures being spent we&#39;re kind of</p>
+<p begin="00:16:42.210" end="00:16:46.770" style="s2">still not sure about<span style="s3"> that I&#39;ll describe</span></p>
+<p begin="00:16:44.760" end="00:16:49.920" style="s2">briefly what we did in our analysis</p>
+<p begin="00:16:46.770" end="00:16:54.780" style="s2">Jonah I guess I can I can do<span style="s4"> this okay</span></p>
+<p begin="00:16:49.920" end="00:16:57.690" style="s2">cool so we had hundreds of checks so</p>
+<p begin="00:16:54.780" end="00:16:59.850" style="s2">what we did was we<span style="s3"> focused</span> on every</p>
+<p begin="00:16:57.690" end="00:17:01.770" style="s2">expenditure that CPD did<span style="s3"> above</span> five</p>
+<p begin="00:16:59.850" end="00:17:04.140" style="s2">thousand dollars we figured that&#39;s where</p>
+<p begin="00:17:01.770" end="00:17:05.400" style="s2">the interesting<span style="s3"> you</span> know that&#39;s where</p>
+<p begin="00:17:04.140" end="00:17:08.690" style="s2">the interesting juicy stuff is going to</p>
+<p begin="00:17:05.400" end="00:17:11.430" style="s2"><span style="s3">be</span> but<span style="s4"> that</span> was still hundreds of checks</p>
+<p begin="00:17:08.690" end="00:17:14.790" style="s2">below<span style="s4"> that</span> threshold its thousands of</p>
+<p begin="00:17:11.430" end="00:17:18.600" style="s2">checks um like you&#39;ll see expenditures</p>
+<p begin="00:17:14.790" end="00:17:20.130" style="s2">for like a dollar thirty-five and it&#39;s</p>
+<p begin="00:17:18.600" end="00:17:22.020" style="s2">just like that&#39;s<span style="s3"> not</span> worth me going</p>
+<p begin="00:17:20.130" end="00:17:24.240" style="s2"><span style="s3">through</span> this aggravation<span style="s4"> to FOIA for</span></p>
+<p begin="00:17:22.020" end="00:17:25.860" style="s2">that so we found anything about five</p>
+<p begin="00:17:24.240" end="00:17:29.330" style="s2">thousand dollars we&#39;re going<span style="s3"> to</span> go look</p>
+<p begin="00:17:25.860" end="00:17:33.600" style="s2">for<span style="s4"> it</span> and we did<span style="s3"> that</span> over five years</p>
+<p begin="00:17:29.330" end="00:17:35.550" style="s2">and that was still too hard<span style="s3"> under the</span></p>
+<p begin="00:17:33.600" end="00:17:38.160" style="s2">Freedom of Information Act if you</p>
+<p begin="00:17:35.550" end="00:17:41.310" style="s2">request too much information to too</p>
+<p begin="00:17:38.160" end="00:17:44.370" style="s2">rapidly you&#39;ll get tagged as what&#39;s</p>
+<p begin="00:17:41.310" end="00:17:46.050" style="s2">called a recurrent requester and that</p>
+<p begin="00:17:44.370" end="00:17:48.179" style="s2">means<span style="s4"> that</span><span style="s3"> the</span> police department can say</p>
+<p begin="00:17:46.050" end="00:17:49.590" style="s2">we&#39;re going to take twice as long</p>
+<p begin="00:17:48.179" end="00:17:53.070" style="s2">to respond to you and they&#39;re already</p>
+<p begin="00:17:49.590" end="00:17:54.779" style="s2"><span style="s3">like</span> four or five<span style="s3"> months</span> behind so you</p>
+<p begin="00:17:53.070" end="00:17:58.230" style="s2">can imagine<span style="s3"> that</span> this threshold becomes</p>
+<p begin="00:17:54.779" end="00:18:00.990" style="s2">like unattainable so what we did is we</p>
+<p begin="00:17:58.230" end="00:18:03.749" style="s2">kind of went out and we said to everyone</p>
+<p begin="00:18:00.990" end="00:18:06.480" style="s2"><span style="s3">in</span> the FOIA community in the United</p>
+<p begin="00:18:03.749" end="00:18:09.779" style="s2">States like send a request<span style="s4"> in</span> our<span style="s4"> behalf</span></p>
+<p begin="00:18:06.480" end="00:18:12.299" style="s2">will like manage the responses but just</p>
+<p begin="00:18:09.779" end="00:18:14.070" style="s2">do it for<span style="s4"> us</span> and and<span style="s3"> that</span> way you know</p>
+<p begin="00:18:12.299" end="00:18:15.899" style="s2">if you have like 30 people sending the</p>
+<p begin="00:18:14.070" end="00:18:17.940" style="s2">same request for four different checks</p>
+<p begin="00:18:15.899" end="00:18:20.610" style="s2">it&#39;s better than like<span style="s3"> one</span> person sending</p>
+<p begin="00:18:17.940" end="00:18:21.840" style="s2">third or<span style="s4"> thirty</span> checks right so yeah you</p>
+<p begin="00:18:20.610" end="00:18:25.110" style="s2">can automate<span style="s4"> this</span> in a<span style="s3"> script</span> or</p>
+<p begin="00:18:21.840" end="00:18:27.720" style="s2">something but like no let&#39;s<span style="s4"> just</span> be<span style="s3"> cute</span></p>
+<p begin="00:18:25.110" end="00:18:29.429" style="s2">about it right um so we used this</p>
+<p begin="00:18:27.720" end="00:18:32.279" style="s2">platform called mock rock if you don&#39;t</p>
+<p begin="00:18:29.429" end="00:18:34.769" style="s2"><span style="s3">know</span> mock rock they basically manage or</p>
+<p begin="00:18:32.279" end="00:18:37.019" style="s2">for your requests they will do follow-up</p>
+<p begin="00:18:34.769" end="00:18:39.629" style="s2">requests so when the police department</p>
+<p begin="00:18:37.019" end="00:18:41.610" style="s2">is inevitably late on responding to your</p>
+<p begin="00:18:39.629" end="00:18:43.499" style="s2">checks they will<span style="s3"> be</span> the ones that<span style="s3"> will</span></p>
+<p begin="00:18:41.610" end="00:18:46.529" style="s2">email like what&#39;s the status what&#39;s the</p>
+<p begin="00:18:43.499" end="00:18:48.330" style="s2">status what&#39;s the status and they will</p>
+<p begin="00:18:46.529" end="00:18:51.600" style="s2">also like<span style="s4"> Closter</span> documents and so we</p>
+<p begin="00:18:48.330" end="00:18:53.759" style="s2"><span style="s3">just</span> created like a little tag and then</p>
+<p begin="00:18:51.600" end="00:18:56.279" style="s2">we could see<span style="s3"> all</span> of the 30 or whatever</p>
+<p begin="00:18:53.759" end="00:18:58.799" style="s2">number of people on hats and requests</p>
+<p begin="00:18:56.279" end="00:19:03.570" style="s2">for us so muck rack was a great partner</p>
+<p begin="00:18:58.799" end="00:19:06.059" style="s2"><span style="s4">in</span> that<span style="s3"> um</span> so so yeah so that helped so</p>
+<p begin="00:19:03.570" end="00:19:08.519" style="s2">here&#39;s what we found the<span style="s4"> bureau</span> of</p>
+<p begin="00:19:06.059" end="00:19:09.929" style="s2">organized crime spent the majority of</p>
+<p begin="00:19:08.519" end="00:19:12.899" style="s2">the<span style="s3"> money</span> they&#39;re also the ones that do</p>
+<p begin="00:19:09.929" end="00:19:16.080" style="s2">the drug seizures which is nice for them</p>
+<p begin="00:19:12.899" end="00:19:20.070" style="s2">they spent like six percent of their</p>
+<p begin="00:19:16.080" end="00:19:24.289" style="s2">budget was coming directly from civil</p>
+<p begin="00:19:20.070" end="00:19:28.950" style="s2">asset forfeiture 4.7 million in 2015</p>
+<p begin="00:19:24.289" end="00:19:32.149" style="s2">overall they spent almost 35 36 million</p>
+<p begin="00:19:28.950" end="00:19:36.600" style="s2">dollars in 4,000 individual purchases</p>
+<p begin="00:19:32.149" end="00:19:38.840" style="s2">the<span style="s3"> average</span> purchase was about 77,000</p>
+<p begin="00:19:36.600" end="00:19:42.330" style="s2">dollars or<span style="s4"> seventy</span> seven hundred dollars</p>
+<p begin="00:19:38.840" end="00:19:44.369" style="s2">and that&#39;s including like all the<span style="s4"> one</span></p>
+<p begin="00:19:42.330" end="00:19:48.539" style="s2"><span style="s4">hundred and fifty</span> dollar checks to the<span style="s3"> 1</span></p>
+<p begin="00:19:44.369" end="00:19:53.990" style="s2">million dollars that<span style="s4"> they</span> spent let&#39;s</p>
+<p begin="00:19:48.539" end="00:19:53.990" style="s2">say they spent close to hold<span style="s3"> on</span> a second</p>
+<p begin="00:19:54.350" end="00:20:02.000" style="s2">these numbers do not add up</p>
+<p begin="00:19:57.860" end="00:20:05.660" style="s2">oh I beg pair of organized crime yeah</p>
+<p begin="00:20:02.000" end="00:20:08.660" style="s2">dirty above<span style="s4"> 5000 ok oh that&#39;s right okay</span></p>
+<p begin="00:20:05.660" end="00:20:10.940" style="s2">that<span style="s3"> makes</span> sense so all the ones that we</p>
+<p begin="00:20:08.660" end="00:20:15.290" style="s2">analyzed above five thousand dollars it</p>
+<p begin="00:20:10.940" end="00:20:16.850" style="s2">was about 25 million so we analyzed</p>
+<p begin="00:20:15.290" end="00:20:20.510" style="s2">about 25<span style="s3"> million</span> dollars of all the</p>
+<p begin="00:20:16.850" end="00:20:22.970" style="s2">checks<span style="s4"> that</span> we actually<span style="s3"> looked</span> at so</p>
+<p begin="00:20:20.510" end="00:20:25.280" style="s2">routine expenditures what we found was</p>
+<p begin="00:20:22.970" end="00:20:27.140" style="s2">most of what we they found<span style="s3"> was</span> spent on</p>
+<p begin="00:20:25.280" end="00:20:28.880" style="s2">was the war on drugs I don&#39;t<span style="s3"> think</span></p>
+<p begin="00:20:27.140" end="00:20:33.140" style="s2">anyone can see this<span style="s3"> right</span> maybe the</p>
+<p begin="00:20:28.880" end="00:20:37.040" style="s2">first row so almost<span style="s4"> like</span><span style="s3"> 7.8</span> million on</p>
+<p begin="00:20:33.140" end="00:20:38.450" style="s2">car rentals 3.3 million on cell phone</p>
+<p begin="00:20:37.040" end="00:20:42.410" style="s2">services which they like give to</p>
+<p begin="00:20:38.450" end="00:20:44.270" style="s2">undercover police officers 2.7 million</p>
+<p begin="00:20:42.410" end="00:20:46.240" style="s2">for squad cars like this is stuff that</p>
+<p begin="00:20:44.270" end="00:20:49.220" style="s2">could be allocated an actual budget</p>
+<p begin="00:20:46.240" end="00:20:50.690" style="s2">right but instead like the<span style="s4"> Bureau</span> of</p>
+<p begin="00:20:49.220" end="00:20:52.910" style="s2">organized crime is just like whatever I</p>
+<p begin="00:20:50.690" end="00:20:54.830" style="s2">got it<span style="s4"> sitting right there go take</span><span style="s3"> it</span></p>
+<p begin="00:20:52.910" end="00:20:57.940" style="s2"><span style="s3">out</span> of the<span style="s4"> evidence</span> Locker or whatever</p>
+<p begin="00:20:54.830" end="00:21:00.169" style="s2">almost a million dollars on computers</p>
+<p begin="00:20:57.940" end="00:21:01.669" style="s2">there&#39;s a money counter here that they</p>
+<p begin="00:21:00.169" end="00:21:03.290" style="s2">spent like<span style="s3"> sixty</span> thousand dollars</p>
+<p begin="00:21:01.669" end="00:21:08.750" style="s2">they&#39;re like raking it in they need<span style="s3"> help</span></p>
+<p begin="00:21:03.290" end="00:21:10.340" style="s2">keeping track police radios they spent</p>
+<p begin="00:21:08.750" end="00:21:14.030" style="s2">almost a million dollars on a ballistics</p>
+<p begin="00:21:10.340" end="00:21:15.919" style="s2">lab yeah so that&#39;s like routine war on</p>
+<p begin="00:21:14.030" end="00:21:17.480" style="s2">drug stuff right stuff that most people</p>
+<p begin="00:21:15.919" end="00:21:19.340" style="s2">could agree that that should be</p>
+<p begin="00:21:17.480" end="00:21:22.190" style="s2">allocated in a police budget if they</p>
+<p begin="00:21:19.340" end="00:21:23.870" style="s2"><span style="s3">really</span> need that stuff then the other</p>
+<p begin="00:21:22.190" end="00:21:26.240" style="s2">section that we<span style="s4"> analyzed</span> was on</p>
+<p begin="00:21:23.870" end="00:21:28.910" style="s2">surveillance which was<span style="s3"> about</span> ten percent</p>
+<p begin="00:21:26.240" end="00:21:32.360" style="s2">of their budget<span style="s4"> um</span> cell phone metadata</p>
+<p begin="00:21:28.910" end="00:21:35.450" style="s2">is like LexisNexis are starting out</p>
+<p begin="00:21:32.360" end="00:21:38.210" style="s2">LexisNexis um these<span style="s3"> programs</span> called like</p>
+<p begin="00:21:35.450" end="00:21:40.130" style="s2">cell bright and a pen link which allows</p>
+<p begin="00:21:38.210" end="00:21:42.679" style="s2">them<span style="s3"> to</span> see who&#39;s calling who at what</p>
+<p begin="00:21:40.130" end="00:21:44.809" style="s2">time allows them to get like pen</p>
+<p begin="00:21:42.679" end="00:21:47.630" style="s2">register orders through the<span style="s3"> court</span> and</p>
+<p begin="00:21:44.809" end="00:21:49.429" style="s2"><span style="s3">install</span> them<span style="s3"> almost</span> four hundred</p>
+<p begin="00:21:47.630" end="00:21:53.330" style="s2">thousand dollars on<span style="s3"> stingray</span></p>
+<p begin="00:21:49.429" end="00:21:54.799" style="s2">surveillance equipment those police</p>
+<p begin="00:21:53.330" end="00:21:56.660" style="s2">observation cameras those blue light</p>
+<p begin="00:21:54.799" end="00:21:59.990" style="s2">cameras that we see around town<span style="s3"> almost</span></p>
+<p begin="00:21:56.660" end="00:22:02.330" style="s2">200,000 license plate readers other</p>
+<p begin="00:21:59.990" end="00:22:03.799" style="s2">things so actually<span style="s4"> that&#39;s</span> where we</p>
+<p begin="00:22:02.330" end="00:22:06.440" style="s2">started from like we were<span style="s4"> actually</span></p>
+<p begin="00:22:03.799" end="00:22:10.529" style="s2">investigating this and this and then we</p>
+<p begin="00:22:06.440" end="00:22:14.139" style="s2">kind<span style="s3"> of</span> worked backwards right</p>
+<p begin="00:22:10.529" end="00:22:18.460" style="s2">okay so we have a full visualization</p>
+<p begin="00:22:14.139" end="00:22:21.279" style="s2">link so if you go this stuff and this</p>
+<p begin="00:22:18.460" end="00:22:24.519" style="s2">stuff is on the Lucy Parsons labs</p>
+<p begin="00:22:21.279" end="00:22:26.559" style="s2">website Lucy Parsons labs com / full</p>
+<p begin="00:22:24.519" end="00:22:29.109" style="s2">audit and you can actually see all the</p>
+<p begin="00:22:26.559" end="00:22:32.169" style="s2">individual checks as well I mean you can</p>
+<p begin="00:22:29.109" end="00:22:37.029" style="s2">search through them we used Derek CBS 2</p>
+<p begin="00:22:32.169" end="00:22:40.330" style="s2">HTML table fantastic<span style="s3"> stuff</span> so yeah I</p>
+<p begin="00:22:37.029" end="00:22:43.629" style="s2">guess Joe<span style="s3"> almost</span> done<span style="s3"> okay</span> yeah so I</p>
+<p begin="00:22:40.330" end="00:22:44.979" style="s2">guess in<span style="s3"> our</span> article we<span style="s4"> talked</span><span style="s3"> about</span></p>
+<p begin="00:22:43.629" end="00:22:48.669" style="s2">some reform efforts that are underway</p>
+<p begin="00:22:44.979" end="00:22:52.149" style="s2">the ACLU of Illinois is trying to put</p>
+<p begin="00:22:48.669" end="00:22:55.239" style="s2">forward draft legislation in January</p>
+<p begin="00:22:52.149" end="00:22:57.339" style="s2"><span style="s3">that</span> would bring some reform to<span style="s4"> the</span></p>
+<p begin="00:22:55.239" end="00:22:58.869" style="s2">civil forfeiture process to make it</p>
+<p begin="00:22:57.339" end="00:23:00.519" style="s2">easier for people<span style="s3"> to</span> defend themselves</p>
+<p begin="00:22:58.869" end="00:23:03.099" style="s2"><span style="s3">get</span> their money back and to make it</p>
+<p begin="00:23:00.519" end="00:23:06.399" style="s2"><span style="s3">harder</span> for the state to keep assets that</p>
+<p begin="00:23:03.099" end="00:23:08.399" style="s2">they can&#39;t tie directly to a crime then</p>
+<p begin="00:23:06.399" end="00:23:11.559" style="s2">the next day after<span style="s4"> our</span> article dropped</p>
+<p begin="00:23:08.399" end="00:23:13.179" style="s2">there was a funny quote to us from</p>
+<p begin="00:23:11.559" end="00:23:15.009" style="s2">alderman Ed Burke who is the</p>
+<p begin="00:23:13.179" end="00:23:17.769" style="s2">longest-serving<span style="s3"> alderman</span> in the city and</p>
+<p begin="00:23:15.009" end="00:23:20.369" style="s2">he was irate at this budget hearing</p>
+<p begin="00:23:17.769" end="00:23:23.440" style="s2">saying quote the department has made</p>
+<p begin="00:23:20.369" end="00:23:26.109" style="s2">4,700 individual purchases since 2009</p>
+<p begin="00:23:23.440" end="00:23:28.299" style="s2">totaling are you listening 30 6.8</p>
+<p begin="00:23:26.109" end="00:23:30.279" style="s2">million dollars I&#39;ve been<span style="s4"> here</span> for 47</p>
+<p begin="00:23:28.299" end="00:23:31.719" style="s2">years gone through 47 budget hearings</p>
+<p begin="00:23:30.279" end="00:23:34.749" style="s2">and I can&#39;t<span style="s4"> recall</span> once that<span style="s4"> this</span> has</p>
+<p begin="00:23:31.719" end="00:23:36.849" style="s2">been disclosed to the City Council in</p>
+<p begin="00:23:34.749" end="00:23:38.289" style="s2">true fashion he wasn&#39;t quite upset that</p>
+<p begin="00:23:36.849" end="00:23:40.450" style="s2">this money was being taken in<span style="s4"> the first</span></p>
+<p begin="00:23:38.289" end="00:23:42.400" style="s2">place but that he</p>
+<p begin="00:23:40.450" end="00:23:43.810" style="s2">didn&#39;t<span style="s3"> know</span> about it he didn&#39;t know</p>
+<p begin="00:23:42.400" end="00:23:46.420" style="s2"><span style="s4">about</span><span style="s3"> it and he couldn&#39;t use it and he</span></p>
+<p begin="00:23:43.810" end="00:23:48.520" style="s2">wanted<span style="s3"> to use</span><span style="s4"> it</span> on his new pet project</p>
+<p begin="00:23:46.420" end="00:23:52.330" style="s2">for police officers which he was</p>
+<p begin="00:23:48.520" end="00:23:55.450" style="s2">expecting to cost 25 million dollars but</p>
+<p begin="00:23:52.330" end="00:23:57.220" style="s2">yeah so then<span style="s4"> Rahm Emanuel&#39;s budget</span></p>
+<p begin="00:23:55.450" end="00:23:59.110" style="s2">director Alexandra hole made a comment</p>
+<p begin="00:23:57.220" end="00:24:01.390" style="s2">that the city was already working on</p>
+<p begin="00:23:59.110" end="00:24:04.780" style="s2">Oversight legislation to clamp down on</p>
+<p begin="00:24:01.390" end="00:24:08.230" style="s2"><span style="s3">this</span> I called her to ask for details</p>
+<p begin="00:24:04.780" end="00:24:11.830" style="s2">never got<span style="s3"> a</span> call back so we&#39;ll see what</p>
+<p begin="00:24:08.230" end="00:24:13.990" style="s2"><span style="s3">happens</span> with that yeah said it I<span style="s3"> think</span></p>
+<p begin="00:24:11.830" end="00:24:16.180" style="s2">that&#39;s<span style="s3"> it</span> oh we got two more things um I</p>
+<p begin="00:24:13.990" end="00:24:19.270" style="s2">guess we learned some pretty important</p>
+<p begin="00:24:16.180" end="00:24:21.820" style="s2">lessons we were on deadline and like I</p>
+<p begin="00:24:19.270" end="00:24:24.160" style="s2">tried<span style="s3"> to</span><span style="s4"> learn</span> d<span style="s3"> 3</span> to like do<span style="s3"> that</span> fancy</p>
+<p begin="00:24:21.820" end="00:24:26.410" style="s2">visualization I didn&#39;t work out so don&#39;t</p>
+<p begin="00:24:24.160" end="00:24:31.690" style="s2">try to learn new programming things on a</p>
+<p begin="00:24:26.410" end="00:24:33.550" style="s2">deadline like seriously don&#39;t um so in</p>
+<p begin="00:24:31.690" end="00:24:36.610" style="s2">it we ended up paying for<span style="s3"> some</span> day data</p>
+<p begin="00:24:33.550" end="00:24:39.010" style="s2">visualization um data visualization is</p>
+<p begin="00:24:36.610" end="00:24:40.660" style="s2">the thing that<span style="s3"> most</span> newsrooms struggle</p>
+<p begin="00:24:39.010" end="00:24:42.520" style="s2">with and probably like if you&#39;ve got</p>
+<p begin="00:24:40.660" end="00:24:44.230" style="s2">some of that free time go talk to the</p>
+<p begin="00:24:42.520" end="00:24:48.160" style="s2">chicago reader because i&#39;m sure<span style="s4"> they</span></p>
+<p begin="00:24:44.230" end="00:24:50.740" style="s2">would<span style="s3"> love</span> your help um we yeah so</p>
+<p begin="00:24:48.160" end="00:24:52.450" style="s2">rabbit holes start very<span style="s3"> shallow</span> we</p>
+<p begin="00:24:50.740" end="00:24:54.400" style="s2">didn&#39;t really know we&#39;re<span style="s3"> getting</span> into</p>
+<p begin="00:24:52.450" end="00:24:57.130" style="s2">like if<span style="s4"> I had known a year</span><span style="s3"> and</span> a half</p>
+<p begin="00:24:54.400" end="00:24:58.570" style="s2">ago that this is how long<span style="s4"> the</span></p>
+<p begin="00:24:57.130" end="00:24:59.830" style="s2">investigation would have taken<span style="s4"> I</span> would</p>
+<p begin="00:24:58.570" end="00:25:03.040" style="s2">have been<span style="s3"> like</span> all right I&#39;m going<span style="s3"> to go</span></p>
+<p begin="00:24:59.830" end="00:25:05.380" style="s2">to<span style="s3"> the</span> bar or<span style="s4"> something</span> and then like</p>
+<p begin="00:25:03.040" end="00:25:08.740" style="s2">yeah<span style="s3"> boyer</span> actually really was the only</p>
+<p begin="00:25:05.380" end="00:25:10.180" style="s2">tool that we could use for this and it</p>
+<p begin="00:25:08.740" end="00:25:11.710" style="s2">was<span style="s3"> really</span> powerful it was also</p>
+<p begin="00:25:10.180" end="00:25:13.270" style="s2">extremely aggravating because we had<span style="s4"> to</span></p>
+<p begin="00:25:11.710" end="00:25:16.900" style="s2">file like multiple lawsuits and things</p>
+<p begin="00:25:13.270" end="00:25:18.730" style="s2">like that<span style="s3"> so</span> yeah those are like three</p>
+<p begin="00:25:16.900" end="00:25:20.380" style="s2">big takeaways and I guess the last thing</p>
+<p begin="00:25:18.730" end="00:25:21.670" style="s2">that Joel and I wanted<span style="s3"> saying</span> is you</p>
+<p begin="00:25:20.380" end="00:25:24.690" style="s2">should end the war on drugs that&#39;s the</p>
+<p begin="00:25:21.670" end="00:25:24.690" style="s2">only way to reform this</p>
+<p begin="00:25:26.260" end="00:25:31.940" style="s2">like that&#39;s it that&#39;s<span style="s3"> me</span> I mean that&#39;s</p>
+<p begin="00:25:30.230" end="00:25:34.850" style="s2">all we have but also that&#39;s the way to</p>
+<p begin="00:25:31.940" end="00:25:37.460" style="s2">fix all<span style="s3"> of</span> this stuff and then I guess</p>
+<p begin="00:25:34.850" end="00:25:40.610" style="s2">we&#39;ll take questions now I have you</p>
+<p begin="00:25:37.460" end="00:25:44.690" style="s2">thought about<span style="s4"> the</span> you get a money that&#39;s</p>
+<p begin="00:25:40.610" end="00:25:47.270" style="s2">legally seize but I know<span style="s3"> if it&#39;s uh from</span></p>
+<p begin="00:25:44.690" end="00:25:49.490" style="s2">myself I<span style="s4"> yourself</span> a<span style="s3"> business</span> Chicago</p>
+<p begin="00:25:47.270" end="00:25:51.440" style="s2">what about the illegal money that cops</p>
+<p begin="00:25:49.490" end="00:25:54.260" style="s2">take off<span style="s4"> a</span><span style="s3"> people</span> if you got any data on</p>
+<p begin="00:25:51.440" end="00:25:56.120" style="s2">that because they used to<span style="s3"> basically</span> rob</p>
+<p begin="00:25:54.260" end="00:25:58.070" style="s2">people in<span style="s4"> a</span> lot<span style="s3"> of</span> bars and cash</p>
+<p begin="00:25:56.120" end="00:26:00.170" style="s2">business I get short money from the</p>
+<p begin="00:25:58.070" end="00:26:03.190" style="s2">river every week so it&#39;s a lot more</p>
+<p begin="00:26:00.170" end="00:26:05.270" style="s2">money involved in that thing you should</p>
+<p begin="00:26:03.190" end="00:26:07.400" style="s2">investigate the illegal money it&#39;s time</p>
+<p begin="00:26:05.270" end="00:26:09.080" style="s2">that<span style="s4"> yours</span> you&#39;re talking about money</p>
+<p begin="00:26:07.400" end="00:26:13.160" style="s2">that cops take that they don&#39;t account</p>
+<p begin="00:26:09.080" end="00:26:16.520" style="s2">for yeah yeah yeah you&#39;re right that</p>
+<p begin="00:26:13.160" end="00:26:18.260" style="s2">that&#39;s a huge problem there there&#39;s a</p>
+<p begin="00:26:16.520" end="00:26:22.130" style="s2">lawsuit that we<span style="s4"> mentioned</span> in the article</p>
+<p begin="00:26:18.260" end="00:26:24.740" style="s2">that<span style="s4"> was</span> the gates vs chicago which was</p>
+<p begin="00:26:22.130" end="00:26:28.460" style="s2">a man who in the course of his<span style="s3"> arrest</span></p>
+<p begin="00:26:24.740" end="00:26:30.290" style="s2">the police took like 110 or 130 dollars</p>
+<p begin="00:26:28.460" end="00:26:32.270" style="s2">off of him<span style="s3"> and</span> they never accounted for</p>
+<p begin="00:26:30.290" end="00:26:34.220" style="s2">it and when he started fighting them to</p>
+<p begin="00:26:32.270" end="00:26:35.960" style="s2"><span style="s3">get</span> his money back they<span style="s3"> found</span> that there</p>
+<p begin="00:26:34.220" end="00:26:40.370" style="s2">were 40,000 other<span style="s3"> people</span> that had</p>
+<p begin="00:26:35.960" end="00:26:45.470" style="s2">happened to so since 2010 when the city</p>
+<p begin="00:26:40.370" end="00:26:46.580" style="s2">made a settlement there seems<span style="s3"> to</span> be like</p>
+<p begin="00:26:45.470" end="00:26:49.430" style="s2">they&#39;ve gotten a little better about</p>
+<p begin="00:26:46.580" end="00:26:51.050" style="s2">that they&#39;ve at least made sure to</p>
+<p begin="00:26:49.430" end="00:26:52.640" style="s2">account for it in made sure that it goes</p>
+<p begin="00:26:51.050" end="00:26:55.430" style="s2"><span style="s4">through</span> this process but<span style="s3"> i&#39;m</span> sure<span style="s3"> that</span></p>
+<p begin="00:26:52.640" end="00:26:59.510" style="s2">it&#39;s<span style="s3"> still</span> happening and we don&#39;t<span style="s3"> know</span></p>
+<p begin="00:26:55.430" end="00:27:02.300" style="s2"><span style="s4">that</span> it<span style="s4"> i&#39;m i&#39;m just wondering if you</span></p>
+<p begin="00:26:59.510" end="00:27:04.160" style="s2">could<span style="s3"> say</span> what in that 1505 section of</p>
+<p begin="00:27:02.300" end="00:27:08.240" style="s2">the law what assets in particular are</p>
+<p begin="00:27:04.160" end="00:27:10.180" style="s2">subject to forfeiture to<span style="s3"> seizure</span> if I&#39;m</p>
+<p begin="00:27:08.240" end="00:27:14.420" style="s2">stopped on the side of the road yeah um</p>
+<p begin="00:27:10.180" end="00:27:16.700" style="s2">so first off cash cash that you have</p>
+<p begin="00:27:14.420" end="00:27:19.670" style="s2">audio if you are caught with like a</p>
+<p begin="00:27:16.700" end="00:27:21.380" style="s2">relatively small amount of drugs<span style="s3"> and</span> a</p>
+<p begin="00:27:19.670" end="00:27:22.910" style="s2">lot<span style="s4"> of money on you then they&#39;re</span></p>
+<p begin="00:27:21.380" end="00:27:25.160" style="s2"><span style="s4">probably</span> just going to assume that that</p>
+<p begin="00:27:22.910" end="00:27:26.690" style="s2">money was made through either selling</p>
+<p begin="00:27:25.160" end="00:27:28.310" style="s2">those drugs or that you were going<span style="s3"> to</span></p>
+<p begin="00:27:26.690" end="00:27:30.200" style="s2"><span style="s3">use that money to buy more and that&#39;s</span></p>
+<p begin="00:27:28.310" end="00:27:32.210" style="s2">that inference is all they need they</p>
+<p begin="00:27:30.200" end="00:27:36.950" style="s2">don&#39;t need anything more<span style="s3"> than</span> that but</p>
+<p begin="00:27:32.210" end="00:27:38.450" style="s2">then cars are<span style="s4"> the</span> second largest in a</p>
+<p begin="00:27:36.950" end="00:27:42.140" style="s2">lot<span style="s4"> of</span> times</p>
+<p begin="00:27:38.450" end="00:27:44.390" style="s2">it&#39;s kids or spouses or your uncle who</p>
+<p begin="00:27:42.140" end="00:27:45.950" style="s2">borrows your car to go pick up drugs to</p>
+<p begin="00:27:44.390" end="00:27:49.580" style="s2">go sell drugs and you don&#39;t know about</p>
+<p begin="00:27:45.950" end="00:27:53.000" style="s2"><span style="s3">it but then you</span><span style="s4"> have</span> to go to court and</p>
+<p begin="00:27:49.580" end="00:27:58.040" style="s2">say hey I didn&#39;t know<span style="s3"> that so and so was</span></p>
+<p begin="00:27:53.000" end="00:28:00.080" style="s2">using this to go pick up but as far as</p>
+<p begin="00:27:58.040" end="00:28:02.420" style="s2">other assets I mean they&#39;ve taken TVs</p>
+<p begin="00:28:00.080" end="00:28:05.720" style="s2">they&#39;ve<span style="s4"> taken</span><span style="s3"> PlayStation</span> beats</p>
+<p begin="00:28:02.420" end="00:28:07.970" style="s2">headphones they love 50-inch plasma TVs</p>
+<p begin="00:28:05.720" end="00:28:09.950" style="s2">so like<span style="s4"> L</span> Brian who&#39;s in the back over</p>
+<p begin="00:28:07.970" end="00:28:11.450" style="s2"><span style="s4">there</span> he got like Cook County&#39;s asset</p>
+<p begin="00:28:09.950" end="00:28:13.640" style="s2">forfeiture stuff and it&#39;s 50 inch</p>
+<p begin="00:28:11.450" end="00:28:17.840" style="s2">plasmas like they&#39;re really<span style="s4"> gonna</span> crack</p>
+<p begin="00:28:13.640" end="00:28:20.150" style="s2">down on these drug rings<span style="s3"> by</span> yes yes</p>
+<p begin="00:28:17.840" end="00:28:22.010" style="s2">again it&#39;s anything that&#39;s in the</p>
+<p begin="00:28:20.150" end="00:28:24.470" style="s2"><span style="s3">furtherance</span> of a crime is how the</p>
+<p begin="00:28:22.010" end="00:28:27.260" style="s2">statute defines it so it&#39;s like if you</p>
+<p begin="00:28:24.470" end="00:28:28.820" style="s2">use your cell phone to buy drugs they</p>
+<p begin="00:28:27.260" end="00:28:30.320" style="s2">can seize yourself and if you<span style="s3"> use</span> your</p>
+<p begin="00:28:28.820" end="00:28:33.260" style="s2">computer to do it they can<span style="s3"> seize</span> your</p>
+<p begin="00:28:30.320" end="00:28:35.180" style="s2">computer and it&#39;s also like that&#39;s also</p>
+<p begin="00:28:33.260" end="00:28:37.130" style="s2">an open question because like they can</p>
+<p begin="00:28:35.180" end="00:28:39.170" style="s2">also just take stuff that&#39;s nearby other</p>
+<p begin="00:28:37.130" end="00:28:41.150" style="s2">stuff so like<span style="s4"> they</span> get automatically</p>
+<p begin="00:28:39.170" end="00:28:43.100" style="s2">yeah they can also like money clear out</p>
+<p begin="00:28:41.150" end="00:28:45.260" style="s2">your living room because like you had a</p>
+<p begin="00:28:43.100" end="00:28:47.570" style="s2">scale there and they took<span style="s3"> a</span> scale and oh</p>
+<p begin="00:28:45.260" end="00:28:51.260" style="s2">the TV&#39;s nearby and that&#39;s also<span style="s3"> very</span></p>
+<p begin="00:28:47.570" end="00:28:55.810" style="s2">legally questionable so it&#39;s like we</p>
+<p begin="00:28:51.260" end="00:28:55.810" style="s2">can&#39;t even<span style="s3"> do</span> it in like an hour so yeah</p>
+<p begin="00:28:56.620" end="00:29:02.390" style="s2">so yeah so Lucy Parsons lab is a</p>
+<p begin="00:29:00.140" end="00:29:05.180" style="s2">collection of data scientists and</p>
+<p begin="00:29:02.390" end="00:29:07.280" style="s2"><span style="s3">transparency</span> advocates it&#39;s a non-profit</p>
+<p begin="00:29:05.180" end="00:29:09.890" style="s2">in<span style="s3"> Chicago</span> and it&#39;s named after the</p>
+<p begin="00:29:07.280" end="00:29:12.440" style="s2">famous<span style="s4"> iww</span> and labor organizer and Lucy</p>
+<p begin="00:29:09.890" end="00:29:16.610" style="s2">Parsons um encourage you to read more</p>
+<p begin="00:29:12.440" end="00:29:18.950" style="s2">about her do you have any statistics on</p>
+<p begin="00:29:16.610" end="00:29:23.660" style="s2">the number<span style="s3"> of</span> people<span style="s3"> that</span> were acquitted</p>
+<p begin="00:29:18.950" end="00:29:27.490" style="s2">who still lost their property oh that&#39;s</p>
+<p begin="00:29:23.660" end="00:29:30.020" style="s2">interesting yeah the short answer is no</p>
+<p begin="00:29:27.490" end="00:29:34.340" style="s2">but the<span style="s3"> way that the law breaks down in</span></p>
+<p begin="00:29:30.020" end="00:29:35.990" style="s2"><span style="s3">Illinois</span> and in other states is that the</p>
+<p begin="00:29:34.340" end="00:29:39.110" style="s2">criminal process in<span style="s4"> the</span> civil process</p>
+<p begin="00:29:35.990" end="00:29:42.860" style="s2">are distinct so you go to court for the</p>
+<p begin="00:29:39.110" end="00:29:46.310" style="s2">crime your cash or car your house your</p>
+<p begin="00:29:42.860" end="00:29:50.150" style="s2">TV goes to court it goes to civil court</p>
+<p begin="00:29:46.310" end="00:29:51.980" style="s2">separately so there I went down to court</p>
+<p begin="00:29:50.150" end="00:29:53.809" style="s2">many<span style="s4"> different</span> days</p>
+<p begin="00:29:51.980" end="00:29:56.540" style="s2">the civil court and there were<span style="s3"> plenty</span> of</p>
+<p begin="00:29:53.809" end="00:29:58.669" style="s2">people there that had been acquitted of</p>
+<p begin="00:29:56.540" end="00:30:00.980" style="s2">the crime or their spouse or their kid</p>
+<p begin="00:29:58.669" end="00:30:03.500" style="s2">had been acquitted of the crime and they</p>
+<p begin="00:30:00.980" end="00:30:05.510" style="s2">were there to<span style="s4"> go</span> through the civil</p>
+<p begin="00:30:03.500" end="00:30:08.840" style="s2">process to get the<span style="s3"> money</span> or the car back</p>
+<p begin="00:30:05.510" end="00:30:11.210" style="s2">we don&#39;t have like hard statistics on</p>
+<p begin="00:30:08.840" end="00:30:12.290" style="s2">that but it&#39;s plenty of people so and</p>
+<p begin="00:30:11.210" end="00:30:14.059" style="s2">then the<span style="s4"> other</span> thing is<span style="s4"> that</span> like it&#39;s</p>
+<p begin="00:30:12.290" end="00:30:16.280" style="s2">also hard to look<span style="s4"> for</span> that stuff in<span style="s4"> the</span></p>
+<p begin="00:30:14.059" end="00:30:18.440" style="s2">civil process because you have to know</p>
+<p begin="00:30:16.280" end="00:30:20.299" style="s2">because<span style="s3"> it&#39;s</span> also like CPD versus nine</p>
+<p begin="00:30:18.440" end="00:30:22.880" style="s2">dollars which is<span style="s4"> a</span> real case that I we</p>
+<p begin="00:30:20.299" end="00:30:24.679" style="s2"><span style="s3">looked</span> at and even if you talk to the</p>
+<p begin="00:30:22.880" end="00:30:26.450" style="s2"><span style="s3">person</span> you say hey how much<span style="s3"> money</span> was</p>
+<p begin="00:30:24.679" end="00:30:28.549" style="s2">taken<span style="s3"> off</span> for<span style="s3"> you</span> and they say about</p>
+<p begin="00:30:26.450" end="00:30:32.570" style="s2">twelve hundred dollars if you don&#39;t say</p>
+<p begin="00:30:28.549" end="00:30:33.830" style="s2">1200 and 0 1 point 73 cents then you&#39;re</p>
+<p begin="00:30:32.570" end="00:30:35.740" style="s2">never going to find<span style="s3"> it</span><span style="s4"> and you actually</span></p>
+<p begin="00:30:33.830" end="00:30:42.559" style="s2">can&#39;t search<span style="s4"> for</span> it through like the</p>
+<p begin="00:30:35.740" end="00:30:44.960" style="s2">whatever tool that they have so I don&#39;t</p>
+<p begin="00:30:42.559" end="00:30:48.200" style="s2"><span style="s3">know yeah there are some reforms in</span></p>
+<p begin="00:30:44.960" end="00:30:52.280" style="s2">place in something like 11 states that</p>
+<p begin="00:30:48.200" end="00:30:53.990" style="s2">if the criminal trial is over through</p>
+<p begin="00:30:52.280" end="00:30:55.669" style="s2">acquittal if the person is found not</p>
+<p begin="00:30:53.990" end="00:30:59.059" style="s2">guilty in the criminal trial then the</p>
+<p begin="00:30:55.669" end="00:31:02.840" style="s2">civil process immediately ends and they</p>
+<p begin="00:30:59.059" end="00:31:04.340" style="s2">get their stuff back and that&#39;s a you</p>
+<p begin="00:31:02.840" end="00:31:05.929" style="s2">know they<span style="s3"> don&#39;t know the</span> specifics of it</p>
+<p begin="00:31:04.340" end="00:31:08.260" style="s2">yet but<span style="s4"> that</span> might<span style="s4"> be</span> part of the</p>
+<p begin="00:31:05.929" end="00:31:11.660" style="s2">legislation<span style="s3"> that&#39;s</span> coming<span style="s4"> to</span> Springfield</p>
+<p begin="00:31:08.260" end="00:31:14.240" style="s2">so is<span style="s3"> this</span> just unique to<span style="s3"> our</span> lovely</p>
+<p begin="00:31:11.660" end="00:31:16.970" style="s2">city in our lovely you know state or do</p>
+<p begin="00:31:14.240" end="00:31:21.440" style="s2">other states have this initiative yeah</p>
+<p begin="00:31:16.970" end="00:31:23.330" style="s2">um most states have it so there there</p>
+<p begin="00:31:21.440" end="00:31:26.179" style="s2">were 11 states that we found that did</p>
+<p begin="00:31:23.330" end="00:31:28.970" style="s2">some recent reform work so there&#39;s at</p>
+<p begin="00:31:26.179" end="00:31:32.390" style="s2">least 39 that still employ it in some</p>
+<p begin="00:31:28.970" end="00:31:35.150" style="s2">way we&#39;re not unique but illinois is one</p>
+<p begin="00:31:32.390" end="00:31:37.100" style="s2">of the worst actors the<span style="s4"> institute</span> for</p>
+<p begin="00:31:35.150" end="00:31:40.370" style="s2"><span style="s3">justice that organization we mentioned</span></p>
+<p begin="00:31:37.100" end="00:31:43.040" style="s2">in the presentation grades each state by</p>
+<p begin="00:31:40.370" end="00:31:46.220" style="s2">how fair unfair their law is in illinois</p>
+<p begin="00:31:43.040" end="00:31:48.740" style="s2">got a d-minus and so yeah this was only</p>
+<p begin="00:31:46.220" end="00:31:50.150" style="s2">CPD right we also have a bunch of</p>
+<p begin="00:31:48.740" end="00:31:52.429" style="s2">documents for like Cook County Illinois</p>
+<p begin="00:31:50.150" end="00:31:54.530" style="s2">State Police loves to spend asset</p>
+<p begin="00:31:52.429" end="00:31:56.240" style="s2">forfeiture money on canines and like</p>
+<p begin="00:31:54.530" end="00:31:58.040" style="s2">putting up at the kennel which like I&#39;m</p>
+<p begin="00:31:56.240" end="00:32:01.400" style="s2"><span style="s3">not</span> for animal cruelty or anything like</p>
+<p begin="00:31:58.040" end="00:32:04.040" style="s2">that but like<span style="s3"> I</span> don&#39;t know it&#39;s it&#39;s</p>
+<p begin="00:32:01.400" end="00:32:05.570" style="s2">it&#39;s very strange<span style="s3"> um</span> and so we have a</p>
+<p begin="00:32:04.040" end="00:32:08.210" style="s2">bunch of documents for Cook County</p>
+<p begin="00:32:05.570" end="00:32:09.770" style="s2">Illinois State Police much like many</p>
+<p begin="00:32:08.210" end="00:32:11.960" style="s2">things<span style="s4"> that</span> we don&#39;t have<span style="s3"> the</span> time to</p>
+<p begin="00:32:09.770" end="00:32:14.600" style="s2">investigate but it&#39;s definitely not like</p>
+<p begin="00:32:11.960" end="00:32:15.980" style="s2">a Chicago thing right and as far as the</p>
+<p begin="00:32:14.600" end="00:32:18.410" style="s2">Cook County State&#39;s Attorney&#39;s Office</p>
+<p begin="00:32:15.980" end="00:32:21.590" style="s2">they get income not only from CPD but</p>
+<p begin="00:32:18.410" end="00:32:24.140" style="s2">from every other law enforcement agency</p>
+<p begin="00:32:21.590" end="00:32:27.170" style="s2">in<span style="s4"> the</span> county illinois state police gets</p>
+<p begin="00:32:24.140" end="00:32:29.150" style="s2">its own income from<span style="s3"> all</span> the other law</p>
+<p begin="00:32:27.170" end="00:32:31.100" style="s2">enforcement agencies<span style="s3"> in</span> the state so</p>
+<p begin="00:32:29.150" end="00:32:32.510" style="s2">yeah I mean<span style="s3"> we</span> focus on CPD because</p>
+<p begin="00:32:31.100" end="00:32:34.400" style="s2">that&#39;s what we were interested in and we</p>
+<p begin="00:32:32.510" end="00:32:37.820" style="s2">live here but it happens across the</p>
+<p begin="00:32:34.400" end="00:32:39.770" style="s2">state and across the<span style="s4"> country</span> is there</p>
+<p begin="00:32:37.820" end="00:32:41.420" style="s2">any legislation currently under</p>
+<p begin="00:32:39.770" end="00:32:45.230" style="s2">consideration at the federal level to</p>
+<p begin="00:32:41.420" end="00:32:48.560" style="s2">make this fair across the board so with</p>
+<p begin="00:32:45.230" end="00:32:54.310" style="s2">I guess I<span style="s3"> don&#39;t</span> I&#39;ll take<span style="s3"> it</span> so with</p>
+<p begin="00:32:48.560" end="00:32:56.120" style="s2">legislation in general arm so at the</p>
+<p begin="00:32:54.310" end="00:32:58.130" style="s2">International Association of police</p>
+<p begin="00:32:56.120" end="00:33:01.420" style="s2"><span style="s3">chiefs</span> conference that happened in</p>
+<p begin="00:32:58.130" end="00:33:05.080" style="s2">October of last year in Chicago the</p>
+<p begin="00:33:01.420" end="00:33:07.070" style="s2">prevailing theme was we&#39;re not going<span style="s4"> to</span></p>
+<p begin="00:33:05.080" end="00:33:09.140" style="s2">we&#39;re going to push back hard on</p>
+<p begin="00:33:07.070" end="00:33:11.300" style="s2">legislation in general and this is a</p>
+<p begin="00:33:09.140" end="00:33:14.930" style="s2">conference<span style="s3"> that&#39;s</span> attended by police</p>
+<p begin="00:33:11.300" end="00:33:16.370" style="s2">chiefs all over the country<span style="s3"> so</span> any kind</p>
+<p begin="00:33:14.930" end="00:33:17.600" style="s2"><span style="s3">of</span> reform efforts going to be pushed</p>
+<p begin="00:33:16.370" end="00:33:22.190" style="s2">back heavily on the<span style="s3"> police department</span></p>
+<p begin="00:33:17.600" end="00:33:25.130" style="s2"><span style="s4">because</span> they rely on<span style="s4"> this</span> money so on</p>
+<p begin="00:33:22.190" end="00:33:27.740" style="s2">the on the federal level I don&#39;t think</p>
+<p begin="00:33:25.130" end="00:33:29.150" style="s2">we&#39;re going to get<span style="s3"> reform</span> unless well I</p>
+<p begin="00:33:27.740" end="00:33:30.260" style="s2">don&#39;t<span style="s4"> think we&#39;re</span><span style="s3"> any</span> reform on<span style="s4"> the</span></p>
+<p begin="00:33:29.150" end="00:33:31.670" style="s2">state level I also don&#39;t think we&#39;re</p>
+<p begin="00:33:30.260" end="00:33:33.800" style="s2">going to get reformed because I mean</p>
+<p begin="00:33:31.670" end="00:33:36.590" style="s2">this<span style="s4"> is</span> the<span style="s3"> police</span> in Chicago<span style="s3"> that</span> are</p>
+<p begin="00:33:33.800" end="00:33:38.450" style="s2">going<span style="s3"> they</span> have a huge conference at</p>
+<p begin="00:33:36.590" end="00:33:42.050" style="s2">mccormick center and they say you know</p>
+<p begin="00:33:38.450" end="00:33:46.130" style="s2">this<span style="s4"> is</span> a vital tool stated so for</p>
+<p begin="00:33:42.050" end="00:33:48.410" style="s2">example there are 41 full-time lawyers</p>
+<p begin="00:33:46.130" end="00:33:51.110" style="s2">at Cook County State&#39;s Attorney&#39;s Office</p>
+<p begin="00:33:48.410" end="00:33:53.090" style="s2">that are employed purely to do<span style="s3"> this sort</span></p>
+<p begin="00:33:51.110" end="00:33:56.300" style="s2">of stuff so imagine if you told anita</p>
+<p begin="00:33:53.090" end="00:33:59.420" style="s2">alvarez<span style="s3"> office</span> you know you&#39;re losing</p>
+<p begin="00:33:56.300" end="00:34:00.950" style="s2">ten percent of your staff like we if you</p>
+<p begin="00:33:59.420" end="00:34:04.100" style="s2">know anything<span style="s4"> about</span> a nude Alvarez she&#39;s</p>
+<p begin="00:34:00.950" end="00:34:07.220" style="s2"><span style="s3">not going to take that very</span> lightly so i</p>
+<p begin="00:34:04.100" end="00:34:08.780" style="s2"><span style="s3">am</span> i&#39;m going to go back<span style="s4"> to</span> this and I</p>
+<p begin="00:34:07.220" end="00:34:11.330" style="s2">don&#39;t<span style="s4"> think</span> that<span style="s3"> like</span> that legislative</p>
+<p begin="00:34:08.780" end="00:34:13.400" style="s2">stuff is is actually that as important</p>
+<p begin="00:34:11.330" end="00:34:15.950" style="s2">as I sort<span style="s3"> of</span> brought social<span style="s3"> movements</span> to</p>
+<p begin="00:34:13.400" end="00:34:19.020" style="s2">end the war on drugs</p>
+<p begin="00:34:15.950" end="00:34:20.399" style="s2">just to clarify real quick that it&#39;s 41</p>
+<p begin="00:34:19.020" end="00:34:22.740" style="s2"><span style="s3">full-time</span> employees at the<span style="s3"> state&#39;s</span></p>
+<p begin="00:34:20.399" end="00:34:24.929" style="s2">attorney&#39;s office it&#39;s<span style="s3"> only</span> like 11 or</p>
+<p begin="00:34:22.740" end="00:34:32.879" style="s2">12 lawyers but it&#39;s like support staff</p>
+<p begin="00:34:24.929" end="00:34:36.599" style="s2"><span style="s3">okay</span> all that yeah<span style="s3"> ilu</span> and<span style="s3"> are</span> you aware</p>
+<p begin="00:34:32.879" end="00:34:39.450" style="s2">of their effort<span style="s4"> to</span> go to reform this law</p>
+<p begin="00:34:36.599" end="00:34:43.710" style="s2">in Illinois uh yeah we haven&#39;t given</p>
+<p begin="00:34:39.450" end="00:34:45.389" style="s2">this presentation but we were both</p>
+<p begin="00:34:43.710" end="00:34:46.950" style="s2"><span style="s4">Freddie</span> and I interviewed them for<span style="s3"> this</span></p>
+<p begin="00:34:45.389" end="00:34:49.050" style="s2">article<span style="s3"> and</span> they&#39;re aware of the article</p>
+<p begin="00:34:46.950" end="00:34:51.929" style="s2">and<span style="s4"> they&#39;ve</span> already spoken at</p>
+<p begin="00:34:49.050" end="00:34:54.780" style="s2">Springfield a couple<span style="s3"> times</span> in support of</p>
+<p begin="00:34:51.929" end="00:34:57.119" style="s2">reforms they&#39;re planning on<span style="s3"> getting</span></p>
+<p begin="00:34:54.780" end="00:35:01.200" style="s2">something<span style="s3"> in</span> the next<span style="s3"> session</span> starting</p>
+<p begin="00:34:57.119" end="00:35:03.660" style="s2">in January we don&#39;t quite know and</p>
+<p begin="00:35:01.200" end="00:35:05.460" style="s2">they&#39;re not quite likely or willing to</p>
+<p begin="00:35:03.660" end="00:35:07.859" style="s2"><span style="s3">share</span> exactly what&#39;s in it<span style="s3"> just</span> because</p>
+<p begin="00:35:05.460" end="00:35:10.829" style="s2">you know that&#39;s the way that goes but</p>
+<p begin="00:35:07.859" end="00:35:14.280" style="s2">they&#39;re<span style="s3"> going to try to be pushing</span></p>
+<p begin="00:35:10.829" end="00:35:16.530" style="s2">reforms that would you know take it<span style="s3"> so</span></p>
+<p begin="00:35:14.280" end="00:35:18.930" style="s2">that if the criminal case is acquitted</p>
+<p begin="00:35:16.530" end="00:35:21.390" style="s2">then the civil case goes away trying<span style="s3"> to</span></p>
+<p begin="00:35:18.930" end="00:35:23.869" style="s2">give trying to put<span style="s4"> the</span> burden of proof</p>
+<p begin="00:35:21.390" end="00:35:26.099" style="s2"><span style="s3">on</span> the state as opposed to the people</p>
+<p begin="00:35:23.869" end="00:35:27.569" style="s2">but we<span style="s3"> know</span> just<span style="s3"> in</span> talking with<span style="s3"> the</span></p>
+<p begin="00:35:26.099" end="00:35:29.460" style="s2">ACLU<span style="s4"> and</span> other people working on this</p>
+<p begin="00:35:27.569" end="00:35:32.220" style="s2">that there is already a lot of pushback</p>
+<p begin="00:35:29.460" end="00:35:34.049" style="s2">against any reform even modest reforms</p>
+<p begin="00:35:32.220" end="00:35:36.089" style="s2">that don&#39;t<span style="s4"> even</span> approach those</p>
+<p begin="00:35:34.049" end="00:35:38.400" style="s2">significant ones so I mean<span style="s3"> it&#39;ll</span></p>
+<p begin="00:35:36.089" end="00:35:41.690" style="s2">definitely be an uphill battle when it</p>
+<p begin="00:35:38.400" end="00:35:44.460" style="s2">happens<span style="s4"> two</span> questions was your work</p>
+<p begin="00:35:41.690" end="00:35:46.700" style="s2">featured on radio lab about stingrays</p>
+<p begin="00:35:44.460" end="00:35:50.040" style="s2"><span style="s4">okay</span> that&#39;s<span style="s3"> awesome</span> or that episode</p>
+<p begin="00:35:46.700" end="00:35:52.380" style="s2">secondly did you look at segregating the</p>
+<p begin="00:35:50.040" end="00:35:54.420" style="s2">data by zip code to see so that&#39;s</p>
+<p begin="00:35:52.380" end="00:35:57.750" style="s2"><span style="s4">exactly</span><span style="s3"> what</span> we tried to do<span style="s3"> okay</span> so we</p>
+<p begin="00:35:54.420" end="00:35:59.400" style="s2">tried to so when when we fired so when</p>
+<p begin="00:35:57.750" end="00:36:02.190" style="s2">the Cook County State&#39;s Attorney&#39;s</p>
+<p begin="00:35:59.400" end="00:36:04.740" style="s2">Office sends a letter of intent<span style="s3"> to</span></p>
+<p begin="00:36:02.190" end="00:36:07.680" style="s2">seizure they it&#39;s<span style="s3"> actually</span> like a</p>
+<p begin="00:36:04.740" end="00:36:10.109" style="s2"><span style="s4">physical</span> letter they say this much<span style="s3"> money</span></p>
+<p begin="00:36:07.680" end="00:36:14.990" style="s2">we intend<span style="s3"> to</span> keep it you have X number</p>
+<p begin="00:36:10.109" end="00:36:16.980" style="s2">of days so what I did was I fired the</p>
+<p begin="00:36:14.990" end="00:36:18.329" style="s2">state&#39;s attorney&#39;s office<span style="s3"> and</span> I said</p>
+<p begin="00:36:16.980" end="00:36:20.490" style="s2">look<span style="s4"> I</span> know that there&#39;s probably</p>
+<p begin="00:36:18.329" end="00:36:23.010" style="s2">personal identifying information open</p>
+<p begin="00:36:20.490" end="00:36:25.589" style="s2">civil legislation I don&#39;t care about</p>
+<p begin="00:36:23.010" end="00:36:26.970" style="s2"><span style="s3">that</span> give me a year&#39;s worth and just</p>
+<p begin="00:36:25.589" end="00:36:28.910" style="s2">read act out everything but the zip code</p>
+<p begin="00:36:26.970" end="00:36:31.430" style="s2">because even if that doesn&#39;t give me an</p>
+<p begin="00:36:28.910" end="00:36:33.500" style="s2">thing<span style="s3"> I</span> can know you know maybe</p>
+<p begin="00:36:31.430" end="00:36:35.390" style="s2">statistics of other statistics right we</p>
+<p begin="00:36:33.500" end="00:36:37.280" style="s2">know like the general breakdown you know</p>
+<p begin="00:36:35.390" end="00:36:39.260" style="s2">they&#39;re probably not a lot of<span style="s4"> those</span> that</p>
+<p begin="00:36:37.280" end="00:36:42.950" style="s2"><span style="s3">get</span> sent in you know this zip code</p>
+<p begin="00:36:39.260" end="00:36:45.440" style="s2">versus like<span style="s4"> Englewood</span> but they wouldn&#39;t</p>
+<p begin="00:36:42.950" end="00:36:47.930" style="s2">give<span style="s4"> me</span> that either um<span style="s3"> because</span> I said it</p>
+<p begin="00:36:45.440" end="00:36:50.030" style="s2">would<span style="s3"> be</span> too<span style="s4"> much</span> work for them um so</p>
+<p begin="00:36:47.930" end="00:36:52.070" style="s2">yeah so that&#39;s exactly<span style="s3"> the</span> approach we</p>
+<p begin="00:36:50.030" end="00:36:54.380" style="s2">try to take like find out data by zip</p>
+<p begin="00:36:52.070" end="00:36:56.750" style="s2">code but they wouldn&#39;t even bite on that</p>
+<p begin="00:36:54.380" end="00:36:59.210" style="s2">so they said<span style="s3"> that</span> we could go to the</p>
+<p begin="00:36:56.750" end="00:37:01.880" style="s2">circuit court<span style="s3"> the</span> records section and</p>
+<p begin="00:36:59.210" end="00:37:04.820" style="s2">pull the letters ourselves which we try</p>
+<p begin="00:37:01.880" end="00:37:06.950" style="s2">to do you can pull<span style="s3"> ten</span> at a<span style="s3"> time</span> and</p>
+<p begin="00:37:04.820" end="00:37:09.440" style="s2">there are thousands for every year so</p>
+<p begin="00:37:06.950" end="00:37:14.630" style="s2">just to pull them to come up<span style="s4"> with</span> a zip</p>
+<p begin="00:37:09.440" end="00:37:17.060" style="s2">code did it make sense timewise so it&#39;s</p>
+<p begin="00:37:14.630" end="00:37:19.910" style="s2"><span style="s3">the</span> data<span style="s3"> that</span> you have<span style="s3"> is</span> a public or is</p>
+<p begin="00:37:17.060" end="00:37:22.340" style="s2">there like in<span style="s4"> the</span> public access the data</p>
+<p begin="00:37:19.910" end="00:37:24.530" style="s2">that you guys have yes some letters out</p>
+<p begin="00:37:22.340" end="00:37:25.910" style="s2">cuz<span style="s3"> I&#39;m</span> a dad of this<span style="s3"> class</span> and the for</p>
+<p begin="00:37:24.530" end="00:37:29.150" style="s2">a final project I think<span style="s4"> would</span> be really</p>
+<p begin="00:37:25.910" end="00:37:32.210" style="s2">cool so I just what we&#39;re all doing</p>
+<p begin="00:37:29.150" end="00:37:34.880" style="s2">everything in d3 so so I think<span style="s3"> this</span> data</p>
+<p begin="00:37:32.210" end="00:37:39.700" style="s2">will be really close so if you go to the</p>
+<p begin="00:37:34.880" end="00:37:43.430" style="s2"><span style="s3">Lucy</span> Parsons labs com 1505 I don&#39;t have</p>
+<p begin="00:37:39.700" end="00:37:46.880" style="s2">internet access it&#39;s 1505 analysis we</p>
+<p begin="00:37:43.430" end="00:37:51.590" style="s2">have every single PDF every<span style="s3"> single</span></p>
+<p begin="00:37:46.880" end="00:37:55.400" style="s2">amount in a CSV<span style="s3"> um</span> and every and also if</p>
+<p begin="00:37:51.590" end="00:37:57.230" style="s2">you go<span style="s3"> through</span> again no internet yeah</p>
+<p begin="00:37:55.400" end="00:37:59.330" style="s2">for sure i&#39;ll send it<span style="s3"> out</span> tonight<span style="s3"> and</span></p>
+<p begin="00:37:57.230" end="00:38:00.830" style="s2">then we<span style="s3"> also</span> in our full analysis you</p>
+<p begin="00:37:59.330" end="00:38:04.670" style="s2">can actually<span style="s3"> look</span> at every individual</p>
+<p begin="00:38:00.830" end="00:38:08.720" style="s2">check and stuff like that so<span style="s3"> it&#39;s</span> all</p>
+<p begin="00:38:04.670" end="00:38:11.110" style="s2">public um cool alright thanks<span style="s4"> for</span> the</p>
+<p begin="00:38:08.720" end="00:38:11.110" style="s2">presentation</p>
+<p begin="00:38:13.839" end="00:38:15.900" style="s2">you</p>
+</div>
+</body>
+</tt>

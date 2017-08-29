@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.060" end="00:00:09.540" style="s2"><span style="s3">alright</span> hello<span style="s4"> everyone</span> thank you<span style="s4"> all</span> so</p>
+<p begin="00:00:07.980" end="00:00:11.849" style="s2">much for being<span style="s4"> here</span> and<span style="s4"> thank</span> you to<span style="s4"> the</span></p>
+<p begin="00:00:09.540" end="00:00:14.070" style="s2">organizers for<span style="s3"> inviting</span> myself and<span style="s3"> tanya</span></p>
+<p begin="00:00:11.849" end="00:00:15.990" style="s2">to speak today and for the incredible</p>
+<p begin="00:00:14.070" end="00:00:17.730" style="s2">work that you do every week I&#39;m selves</p>
+<p begin="00:00:15.990" end="00:00:22.949" style="s2">are really<span style="s4"> nice</span> to<span style="s3"> see</span> Matt here and</p>
+<p begin="00:00:17.730" end="00:00:24.600" style="s2">people<span style="s4"> from vot um ok so my</span> colleague</p>
+<p begin="00:00:22.949" end="00:00:26.250" style="s2">Tanya and I today we&#39;ll be talking<span style="s4"> to</span></p>
+<p begin="00:00:24.600" end="00:00:28.260" style="s2">you about a few<span style="s3"> things</span> that we do at the</p>
+<p begin="00:00:26.250" end="00:00:29.880" style="s2">clerk&#39;s office on<span style="s4"> she&#39;ll</span> be focusing on</p>
+<p begin="00:00:28.260" end="00:00:31.470" style="s2">a<span style="s3"> few</span> things and a few of the larger</p>
+<p begin="00:00:29.880" end="00:00:33.540" style="s2">initiatives that we&#39;ve been<span style="s4"> involved</span> in</p>
+<p begin="00:00:31.470" end="00:00:35.610" style="s2">in the last<span style="s4"> few</span> years and<span style="s4"> then I&#39;ll be</span></p>
+<p begin="00:00:33.540" end="00:00:37.980" style="s2">focusing on one specific application</p>
+<p begin="00:00:35.610" end="00:00:39.300" style="s2">that we developed last year but before</p>
+<p begin="00:00:37.980" end="00:00:41.910" style="s2"><span style="s3">we do that</span><span style="s4"> I&#39;m</span> going<span style="s4"> to</span> just<span style="s4"> give</span> you<span style="s4"> a</span></p>
+<p begin="00:00:39.300" end="00:00:43.860" style="s2">quick<span style="s4"> overview</span> of the work<span style="s3"> that</span> we do<span style="s3"> in</span></p>
+<p begin="00:00:41.910" end="00:00:45.899" style="s2">the<span style="s4"> clerk&#39;s</span> office so as many of you</p>
+<p begin="00:00:43.860" end="00:00:48.600" style="s2">know we run elections in suburban Cook</p>
+<p begin="00:00:45.899" end="00:00:50.879" style="s2">County but in addition to that we have<span style="s3"> a</span></p>
+<p begin="00:00:48.600" end="00:00:53.129" style="s2">real estate and<span style="s4"> tax</span> services department</p>
+<p begin="00:00:50.879" end="00:00:56.280" style="s2">that calculates property tax rates for</p>
+<p begin="00:00:53.129" end="00:00:57.989" style="s2">superb for the entire county and we</p>
+<p begin="00:00:56.280" end="00:00:59.370" style="s2">maintain and create the legal tax</p>
+<p begin="00:00:57.989" end="00:01:00.960" style="s2">districts and boundaries and that they</p>
+<p begin="00:00:59.370" end="00:01:02.280" style="s2">do incredible work in that department</p>
+<p begin="00:01:00.960" end="00:01:04.409" style="s2">unfortunately we don&#39;t have<span style="s4"> that much</span></p>
+<p begin="00:01:02.280" end="00:01:06.150" style="s2"><span style="s3">time</span> today to<span style="s4"> talk</span> about<span style="s4"> that</span> we also</p>
+<p begin="00:01:04.409" end="00:01:08.159" style="s2">run vital records for<span style="s3"> the</span> county birth</p>
+<p begin="00:01:06.150" end="00:01:10.200" style="s2">death and marriage certificates and we</p>
+<p begin="00:01:08.159" end="00:01:12.990" style="s2">also deal with ethics filings lobbyists</p>
+<p begin="00:01:10.200" end="00:01:15.600" style="s2"><span style="s4">and</span> statements of economic interests but</p>
+<p begin="00:01:12.990" end="00:01:18.000" style="s2">today we&#39;re going<span style="s3"> to</span> be focusing<span style="s4"> on</span> some</p>
+<p begin="00:01:15.600" end="00:01:19.860" style="s2">of the work that<span style="s3"> we</span> do<span style="s3"> in</span> elections blue</p>
+<p begin="00:01:18.000" end="00:01:22.409" style="s2">is the city<span style="s4"> of</span> Chicago<span style="s4"> it</span> has its own</p>
+<p begin="00:01:19.860" end="00:01:24.780" style="s2">board of elections we administer</p>
+<p begin="00:01:22.409" end="00:01:27.450" style="s2">elections for suburban Cook County which</p>
+<p begin="00:01:24.780" end="00:01:30.930" style="s2">has 1.5 million registered voters who</p>
+<p begin="00:01:27.450" end="00:01:33.600" style="s2">live in 126 municipalities but we also</p>
+<p begin="00:01:30.930" end="00:01:35.549" style="s2">have<span style="s4"> 600</span> other elected offices school</p>
+<p begin="00:01:33.600" end="00:01:37.560" style="s2"><span style="s4">boards</span> park district&#39;s library district</p>
+<p begin="00:01:35.549" end="00:01:40.159" style="s2">etc this makes us the third largest</p>
+<p begin="00:01:37.560" end="00:01:43.500" style="s2">election jurisdiction after<span style="s3"> la</span><span style="s4"> and</span></p>
+<p begin="00:01:40.159" end="00:01:45.060" style="s2">Houston I&#39;m going<span style="s4"> to</span> pass it out over</p>
+<p begin="00:01:43.500" end="00:01:46.500" style="s2">the time yet to talk<span style="s4"> about</span> some of<span style="s4"> the</span></p>
+<p begin="00:01:45.060" end="00:01:48.439" style="s2">initiatives that we&#39;ve been<span style="s4"> involved</span> in</p>
+<p begin="00:01:46.500" end="00:01:52.250" style="s2">and I&#39;ll be back up in a few<span style="s3"> minutes</span></p>
+<p begin="00:01:48.439" end="00:01:54.659" style="s2">thank you<span style="s3"> very</span><span style="s4"> much</span> for the introduction</p>
+<p begin="00:01:52.250" end="00:01:57.210" style="s2">yesterday we had the privilege to honor</p>
+<p begin="00:01:54.659" end="00:01:59.189" style="s2">the legacy of<span style="s4"> dr.</span> Martin Luther King<span style="s4"> and</span></p>
+<p begin="00:01:57.210" end="00:02:00.990" style="s2">the<span style="s4"> struggle</span> of all of those who fought</p>
+<p begin="00:01:59.189" end="00:02:03.509" style="s2">for voting rights which is the gateway</p>
+<p begin="00:02:00.990" end="00:02:05.610" style="s2">to our democracy today<span style="s4"> the</span> cook county</p>
+<p begin="00:02:03.509" end="00:02:07.829" style="s2">clerk&#39;s office continue to support the</p>
+<p begin="00:02:05.610" end="00:02:10.830" style="s2">advancement of voter registration</p>
+<p begin="00:02:07.829" end="00:02:13.650" style="s2">modernization<span style="s3"> to</span> make sure voters have</p>
+<p begin="00:02:10.830" end="00:02:16.379" style="s2">access to the<span style="s4"> election</span> system</p>
+<p begin="00:02:13.650" end="00:02:18.930" style="s2">but also to limit opportunities for</p>
+<p begin="00:02:16.379" end="00:02:21.299" style="s2">fraud to the system<span style="s4"> today</span> I&#39;m going<span style="s3"> to</span></p>
+<p begin="00:02:18.930" end="00:02:24.390" style="s2"><span style="s4">briefly</span> review for recent data and</p>
+<p begin="00:02:21.299" end="00:02:26.879" style="s2">technology initiatives advocated by Cook</p>
+<p begin="00:02:24.390" end="00:02:29.760" style="s2">County Clerk David or first I&#39;ll talk</p>
+<p begin="00:02:26.879" end="00:02:33.060" style="s2">about<span style="s4"> online</span> voter registration second</p>
+<p begin="00:02:29.760" end="00:02:35.459" style="s2">election day registration third Eric</p>
+<p begin="00:02:33.060" end="00:02:37.140" style="s2">which is the electronic registration<span style="s4"> and</span></p>
+<p begin="00:02:35.459" end="00:02:39.329" style="s2">Information Center which is<span style="s3"> a</span></p>
+<p begin="00:02:37.140" end="00:02:41.250" style="s2"><span style="s4">cutting-edge</span> data sharing and data</p>
+<p begin="00:02:39.329" end="00:02:43.439" style="s2">matching tool that&#39;s used across<span style="s3"> States</span></p>
+<p begin="00:02:41.250" end="00:02:45.750" style="s2">and then last I&#39;ll briefly discuss</p>
+<p begin="00:02:43.439" end="00:02:49.859" style="s2">automatic voter registration which is</p>
+<p begin="00:02:45.750" end="00:02:52.560" style="s2">pending legislation in<span style="s4"> Illinois who</span></p>
+<p begin="00:02:49.859" end="00:02:54.599" style="s2">clerk or supported and advocated for</p>
+<p begin="00:02:52.560" end="00:02:57.989" style="s2">online voter registration which was</p>
+<p begin="00:02:54.599" end="00:03:00.150" style="s2">passed into law and 2014 the<span style="s3"> state&#39;s</span></p>
+<p begin="00:02:57.989" end="00:03:02.159" style="s2">online voter registration system</p>
+<p begin="00:03:00.150" end="00:03:04.680" style="s2">integrates into<span style="s4"> two counties local voter</span></p>
+<p begin="00:03:02.159" end="00:03:09.689" style="s2">registration databases and it offers</p>
+<p begin="00:03:04.680" end="00:03:12.450" style="s2">several benefits the first<span style="s3"> online</span> mode</p>
+<p begin="00:03:09.689" end="00:03:14.159" style="s2">of registration is very efficient it&#39;s</p>
+<p begin="00:03:12.450" end="00:03:16.859" style="s2">very<span style="s4"> easy</span> for local election officials</p>
+<p begin="00:03:14.159" end="00:03:19.739" style="s2">to interact with citizens it saves tons</p>
+<p begin="00:03:16.859" end="00:03:22.590" style="s2">of paper printing and mailing so it&#39;s</p>
+<p begin="00:03:19.739" end="00:03:24.599" style="s2">very<span style="s4"> cost effective also online</span> voter</p>
+<p begin="00:03:22.590" end="00:03:26.940" style="s2">registration is very<span style="s4"> convenient</span> it&#39;s</p>
+<p begin="00:03:24.599" end="00:03:28.500" style="s2">very<span style="s4"> easy</span> for voters to log on from the</p>
+<p begin="00:03:26.940" end="00:03:30.510" style="s2">comfort of their homes use for</p>
+<p begin="00:03:28.500" end="00:03:33.389" style="s2">smartphones at any time of<span style="s3"> day</span> and<span style="s4"> get</span></p>
+<p begin="00:03:30.510" end="00:03:35.519" style="s2">registered to<span style="s4"> vote</span> last online voter</p>
+<p begin="00:03:33.389" end="00:03:38.849" style="s2">registration promotes of data accuracy</p>
+<p begin="00:03:35.519" end="00:03:42.120" style="s2">we&#39;re able to reduce the errors and data</p>
+<p begin="00:03:38.849" end="00:03:43.979" style="s2">entry and also standardized data with</p>
+<p begin="00:03:42.120" end="00:03:46.470" style="s2">online voter registration and makes it</p>
+<p begin="00:03:43.979" end="00:03:50.840" style="s2">very easy for<span style="s4"> us</span> to collect data track</p>
+<p begin="00:03:46.470" end="00:03:53.699" style="s2">trends and analyze performance metrics</p>
+<p begin="00:03:50.840" end="00:03:56.819" style="s2">so you can see here from<span style="s4"> this</span> graph of</p>
+<p begin="00:03:53.699" end="00:03:58.650" style="s2">online voter registration and 2016 we</p>
+<p begin="00:03:56.819" end="00:04:01.109" style="s2">had<span style="s4"> a</span> really steady growth for at the</p>
+<p begin="00:03:58.650" end="00:04:03.690" style="s2">primary<span style="s4"> and</span> then peaked in October right</p>
+<p begin="00:04:01.109" end="00:04:06.560" style="s2">before the November election there&#39;s</p>
+<p begin="00:04:03.690" end="00:04:09.690" style="s2">been very popular for outcome counting</p>
+<p begin="00:04:06.560" end="00:04:11.909" style="s2">another legislative initiative that</p>
+<p begin="00:04:09.690" end="00:04:14.220" style="s2">clerk or advocated for was election day</p>
+<p begin="00:04:11.909" end="00:04:17.459" style="s2">registration this was also<span style="s3"> signed</span> into</p>
+<p begin="00:04:14.220" end="00:04:20.400" style="s2">law in 2014<span style="s4"> the</span> main benefits of</p>
+<p begin="00:04:17.459" end="00:04:22.919" style="s2">election day registration is that it</p>
+<p begin="00:04:20.400" end="00:04:25.289" style="s2">encourages participation and reduces</p>
+<p begin="00:04:22.919" end="00:04:27.389" style="s2">barriers<span style="s4"> to</span> elections it provides a</p>
+<p begin="00:04:25.289" end="00:04:29.729" style="s2">safety net to correct registration</p>
+<p begin="00:04:27.389" end="00:04:32.009" style="s2">errors at the<span style="s3"> polls</span> and it also</p>
+<p begin="00:04:29.729" end="00:04:34.469" style="s2">streamlines electronic data collection</p>
+<p begin="00:04:32.009" end="00:04:39.090" style="s2">and registration operations across the</p>
+<p begin="00:04:34.469" end="00:04:40.860" style="s2">board the election day<span style="s3"> registration</span> was</p>
+<p begin="00:04:39.090" end="00:04:42.389" style="s2">implemented<span style="s4"> fully</span> for the first time in</p>
+<p begin="00:04:40.860" end="00:04:45.270" style="s2">a presidential election this past</p>
+<p begin="00:04:42.389" end="00:04:48.210" style="s2"><span style="s4">November</span> it was<span style="s3"> very</span> popular<span style="s4"> with</span> young</p>
+<p begin="00:04:45.270" end="00:04:50.930" style="s2">voters in particular so you can see here</p>
+<p begin="00:04:48.210" end="00:04:54.389" style="s2"><span style="s4">from</span> the grab that<span style="s4"> between the ages of</span></p>
+<p begin="00:04:50.930" end="00:04:56.389" style="s2">18 and 29 approximately thirty-four</p>
+<p begin="00:04:54.389" end="00:05:00.319" style="s2">percent of the election day<span style="s3"> registration</span></p>
+<p begin="00:04:56.389" end="00:05:03.779" style="s2">participants fell into that age category</p>
+<p begin="00:05:00.319" end="00:05:05.370" style="s2">by gender fifty-three percent of females</p>
+<p begin="00:05:03.779" end="00:05:08.009" style="s2">participated an election day</p>
+<p begin="00:05:05.370" end="00:05:14.189" style="s2">registration and<span style="s4"> forty-seven percent of</span></p>
+<p begin="00:05:08.009" end="00:05:18.360" style="s2">meals so this map<span style="s3"> which is taken from</span></p>
+<p begin="00:05:14.189" end="00:05:19.680" style="s2">our GIS data<span style="s4"> graph</span> geographically the</p>
+<p begin="00:05:18.360" end="00:05:22.379" style="s2">distribution of<span style="s4"> Election Day</span></p>
+<p begin="00:05:19.680" end="00:05:23.969" style="s2">registrations by precinct you can see</p>
+<p begin="00:05:22.379" end="00:05:26.249" style="s2">from the<span style="s4"> red</span> sections that there were</p>
+<p begin="00:05:23.969" end="00:05:27.719" style="s2">some pockets that actually had more<span style="s3"> than</span></p>
+<p begin="00:05:26.249" end="00:05:34.469" style="s2">five percent election day registration</p>
+<p begin="00:05:27.719" end="00:05:37.050" style="s2">in those areas eric is another</p>
+<p begin="00:05:34.469" end="00:05:39.029" style="s2">innovation that clerk or has advocated</p>
+<p begin="00:05:37.050" end="00:05:45.409" style="s2">for and really led in the state of</p>
+<p begin="00:05:39.029" end="00:05:48.330" style="s2"><span style="s3">illinois</span> eric is data matching and</p>
+<p begin="00:05:45.409" end="00:05:50.580" style="s2">collaborative effort among states they</p>
+<p begin="00:05:48.330" end="00:05:53.310" style="s2">use the latest<span style="s4"> data</span> matching tools and</p>
+<p begin="00:05:50.580" end="00:05:55.710" style="s2">technologies so that states can gather</p>
+<p begin="00:05:53.310" end="00:05:58.469" style="s2">information from a wide variety of</p>
+<p begin="00:05:55.710" end="00:06:00.300" style="s2">agencies not only voter registration</p>
+<p begin="00:05:58.469" end="00:06:02.219" style="s2"><span style="s4">databases</span> but also motor vehicle</p>
+<p begin="00:06:00.300" end="00:06:05.009" style="s2">agencies Social<span style="s3"> Security</span> Administration</p>
+<p begin="00:06:02.219" end="00:06:07.500" style="s2">death records and information from the</p>
+<p begin="00:06:05.009" end="00:06:11.250" style="s2">US<span style="s3"> Post Office so once those states</span></p>
+<p begin="00:06:07.500" end="00:06:14.849" style="s2">gather that data the data particularly</p>
+<p begin="00:06:11.250" end="00:06:17.310" style="s2">that data that&#39;s sensitive is<span style="s3"> anonymized</span></p>
+<p begin="00:06:14.849" end="00:06:19.979" style="s2">both at the state level and then once</p>
+<p begin="00:06:17.310" end="00:06:21.770" style="s2"><span style="s4">Eric</span> receives its<span style="s3"> anonymized</span> again so</p>
+<p begin="00:06:19.979" end="00:06:25.939" style="s2"><span style="s3">that</span><span style="s4"> there is security measures in place</span></p>
+<p begin="00:06:21.770" end="00:06:29.159" style="s2">the states are given special security</p>
+<p begin="00:06:25.939" end="00:06:32.370" style="s2">licenses and passwords so that they are</p>
+<p begin="00:06:29.159" end="00:06:35.909" style="s2">able<span style="s4"> to</span> upload the data to an ftp and</p>
+<p begin="00:06:32.370" end="00:06:38.310" style="s2">transfer that<span style="s3"> information</span> securely<span style="s3"> Erika</span></p>
+<p begin="00:06:35.909" end="00:06:40.460" style="s2">then produces reports<span style="s4"> fifth</span> states can</p>
+<p begin="00:06:38.310" end="00:06:42.490" style="s2">analyze the information</p>
+<p begin="00:06:40.460" end="00:06:45.229" style="s2">determine whether there<span style="s4"> are</span> particular</p>
+<p begin="00:06:42.490" end="00:06:49.720" style="s2">inaccuracies or data that they need to</p>
+<p begin="00:06:45.229" end="00:06:53.539" style="s2"><span style="s4">cleanse</span> further the<span style="s3"> tea charitable trust</span></p>
+<p begin="00:06:49.720" end="00:06:56.810" style="s2">did a targeted study of Illinois and</p>
+<p begin="00:06:53.539" end="00:06:59.240" style="s2">they found<span style="s3"> that</span> 700,000 people</p>
+<p begin="00:06:56.810" end="00:07:02.960" style="s2">registered at addresses where they no</p>
+<p begin="00:06:59.240" end="00:07:04.639" style="s2">longer live 34,000 deceased individuals</p>
+<p begin="00:07:02.960" end="00:07:07.430" style="s2">needed to be removed from the Illinois</p>
+<p begin="00:07:04.639" end="00:07:09.470" style="s2">rolls<span style="s4"> sixty</span> thousand voters lived in</p>
+<p begin="00:07:07.430" end="00:07:12.919" style="s2">other states and there were<span style="s4"> 90,000</span></p>
+<p begin="00:07:09.470" end="00:07:14.840" style="s2">duplicate records so<span style="s3"> Eric</span> is really an</p>
+<p begin="00:07:12.919" end="00:07:17.720" style="s2">initiative to<span style="s3"> help</span> alleviate some of</p>
+<p begin="00:07:14.840" end="00:07:18.830" style="s2">these issues<span style="s4"> it</span> has been implemented<span style="s4"> in</span></p>
+<p begin="00:07:17.720" end="00:07:21.979" style="s2">Illinois<span style="s4"> and</span> we&#39;re<span style="s4"> really</span> looking</p>
+<p begin="00:07:18.830" end="00:07:26.870" style="s2">forward to fully utilizing this tool in</p>
+<p begin="00:07:21.979" end="00:07:29.090" style="s2">the future so automatic voter</p>
+<p begin="00:07:26.870" end="00:07:32.060" style="s2">registration is the latest innovation</p>
+<p begin="00:07:29.090" end="00:07:33.919" style="s2">that clerk or is advocating for the</p>
+<p begin="00:07:32.060" end="00:07:36.289" style="s2">brennan center for justice in another</p>
+<p begin="00:07:33.919" end="00:07:38.509" style="s2">study<span style="s4"> and</span> they found<span style="s4"> that</span> one in four</p>
+<p begin="00:07:36.289" end="00:07:40.970" style="s2">eligible citizens is not registered to</p>
+<p begin="00:07:38.509" end="00:07:43.909" style="s2"><span style="s3">vote</span><span style="s4"> one</span> in eight registrations in the</p>
+<p begin="00:07:40.970" end="00:07:46.280" style="s2"><span style="s3">US</span> is invalid or an accurate when a nine</p>
+<p begin="00:07:43.909" end="00:07:48.740" style="s2">Americans move every year and<span style="s4"> voters</span></p>
+<p begin="00:07:46.280" end="00:07:50.300" style="s2">really mistakenly believe<span style="s3"> that</span> their</p>
+<p begin="00:07:48.740" end="00:07:52.460" style="s2">registration follows them whenever they</p>
+<p begin="00:07:50.300" end="00:07:54.409" style="s2">move but they really<span style="s4"> need</span><span style="s3"> to</span> re-register</p>
+<p begin="00:07:52.460" end="00:07:56.750" style="s2">the way that the current<span style="s3"> system</span> is set</p>
+<p begin="00:07:54.409" end="00:08:00.490" style="s2">up so automatic voter registration is</p>
+<p begin="00:07:56.750" end="00:08:02.960" style="s2">designed to correct many<span style="s4"> of</span> these issues</p>
+<p begin="00:08:00.490" end="00:08:05.210" style="s2">eligible citizens who interact with the</p>
+<p begin="00:08:02.960" end="00:08:07.180" style="s2">government agencies are registered</p>
+<p begin="00:08:05.210" end="00:08:09.620" style="s2">automatically unless they opt out</p>
+<p begin="00:08:07.180" end="00:08:11.710" style="s2">agencies transfer voter registration</p>
+<p begin="00:08:09.620" end="00:08:13.639" style="s2">information electronically and</p>
+<p begin="00:08:11.710" end="00:08:16.219" style="s2">particularly with<span style="s3"> all</span> the different</p>
+<p begin="00:08:13.639" end="00:08:18.710" style="s2"><span style="s3">online</span> systems it&#39;s very seamless and</p>
+<p begin="00:08:16.219" end="00:08:21.349" style="s2">saves tons of time for<span style="s3"> all</span> the agencies</p>
+<p begin="00:08:18.710" end="00:08:23.599" style="s2">involved there are<span style="s4"> currently</span> six states</p>
+<p begin="00:08:21.349" end="00:08:27.110" style="s2">that have passed legislation for</p>
+<p begin="00:08:23.599" end="00:08:29.449" style="s2">automatic voter registration and we are</p>
+<p begin="00:08:27.110" end="00:08:32.450" style="s2">really hopeful that<span style="s4"> illenore</span> becomes the</p>
+<p begin="00:08:29.449" end="00:08:36.260" style="s2">next<span style="s4"> state</span> to adopt this really great</p>
+<p begin="00:08:32.450" end="00:08:38.630" style="s2">technology so overall you<span style="s4"> know</span> we&#39;re</p>
+<p begin="00:08:36.260" end="00:08:40.399" style="s2">really excited about leveraging data and</p>
+<p begin="00:08:38.630" end="00:08:43.099" style="s2">technology<span style="s4"> in</span> the<span style="s4"> county</span> clerk&#39;s office</p>
+<p begin="00:08:40.399" end="00:08:45.140" style="s2">we&#39;re looking forward to assuring in a</p>
+<p begin="00:08:43.099" end="00:08:48.829" style="s2">new digital<span style="s4"> era</span> of voter registration</p>
+<p begin="00:08:45.140" end="00:08:52.209" style="s2">and look<span style="s4"> forward to the future so from</span></p>
+<p begin="00:08:48.829" end="00:08:52.209" style="s2">here I&#39;ll turn it over to not</p>
+<p begin="00:08:56.550" end="00:09:02.319" style="s2">Thank<span style="s4"> You</span> Tanya I&#39;m going to<span style="s4"> move</span> on and</p>
+<p begin="00:08:59.589" end="00:09:03.790" style="s2"><span style="s4">focus</span> on a specific application<span style="s3"> that</span> we</p>
+<p begin="00:09:02.319" end="00:09:05.649" style="s2"><span style="s4">just</span> developed the running for office</p>
+<p begin="00:09:03.790" end="00:09:07.180" style="s2">starter kit and this was a tool</p>
+<p begin="00:09:05.649" end="00:09:10.620" style="s2">developed to help strengthen a local</p>
+<p begin="00:09:07.180" end="00:09:13.209" style="s2">democracy in particular and it was</p>
+<p begin="00:09:10.620" end="00:09:14.829" style="s2">designed to<span style="s4"> solve</span> two problems the first</p>
+<p begin="00:09:13.209" end="00:09:18.519" style="s2">is<span style="s3"> that</span> there is little interest in</p>
+<p begin="00:09:14.829" end="00:09:21.430" style="s2">local election in April is 2015</p>
+<p begin="00:09:18.519" end="00:09:23.050" style="s2">sixty-three percent of the nearly 700</p>
+<p begin="00:09:21.430" end="00:09:25.680" style="s2">offices up on the ballot were</p>
+<p begin="00:09:23.050" end="00:09:28.360" style="s2">uncontested in suburban Cook County</p>
+<p begin="00:09:25.680" end="00:09:31.329" style="s2">there&#39;s a pattern of low voter turnout</p>
+<p begin="00:09:28.360" end="00:09:32.949" style="s2">in 2015 as you can see voter turnout<span style="s3"> in</span></p>
+<p begin="00:09:31.329" end="00:09:37.240" style="s2">suburbia Cook was just fourteen percent</p>
+<p begin="00:09:32.949" end="00:09:40.180" style="s2">and in 2013 it was nineteen percent but</p>
+<p begin="00:09:37.240" end="00:09:42.370" style="s2">these local<span style="s4"> elections</span> elected<span style="s3"> officials</span></p>
+<p begin="00:09:40.180" end="00:09:44.500" style="s2">and the districts<span style="s4"> that</span> they represent</p>
+<p begin="00:09:42.370" end="00:09:48.220" style="s2">control significant budget school boards</p>
+<p begin="00:09:44.500" end="00:09:51.339" style="s2">alone in suburban Cook County control of</p>
+<p begin="00:09:48.220" end="00:09:53.769" style="s2">collectives 5.3 billion dollars annually</p>
+<p begin="00:09:51.339" end="00:09:55.630" style="s2">in budget which is not much smaller than</p>
+<p begin="00:09:53.769" end="00:09:59.290" style="s2"><span style="s4">what</span> the Chicago Public Schools budget</p>
+<p begin="00:09:55.630" end="00:10:01.149" style="s2">is the<span style="s3"> other</span> problem it aims to<span style="s4"> solve is</span></p>
+<p begin="00:09:59.290" end="00:10:03.069" style="s2">that it&#39;s daunting for first time</p>
+<p begin="00:10:01.149" end="00:10:05.589" style="s2">candidates to actually get on the ballot</p>
+<p begin="00:10:03.069" end="00:10:07.000" style="s2">ballot access is tough it&#39;s for<span style="s4"> a</span> few</p>
+<p begin="00:10:05.589" end="00:10:09.730" style="s2"><span style="s3">reasons</span> understanding the requirements</p>
+<p begin="00:10:07.000" end="00:10:11.709" style="s2">navigating the process to actually file</p>
+<p begin="00:10:09.730" end="00:10:14.529" style="s2">as a candidate could<span style="s4"> be</span> challenging and</p>
+<p begin="00:10:11.709" end="00:10:16.149" style="s2">times very<span style="s3"> time-consuming</span> you can be</p>
+<p begin="00:10:14.529" end="00:10:18.189" style="s2">thrown<span style="s4"> off</span> the ballot<span style="s3"> for</span> pretty minor</p>
+<p begin="00:10:16.149" end="00:10:21.009" style="s2">errors like not stapling your candidate</p>
+<p begin="00:10:18.189" end="00:10:23.680" style="s2">sheets competition<span style="s4"> is</span> really<span style="s3"> critical</span></p>
+<p begin="00:10:21.009" end="00:10:26.860" style="s2">for<span style="s3"> a</span> thriving democracy but this</p>
+<p begin="00:10:23.680" end="00:10:28.240" style="s2">process discourages it and it keeps</p>
+<p begin="00:10:26.860" end="00:10:31.060" style="s2">candidates very bogged down in</p>
+<p begin="00:10:28.240" end="00:10:33.639" style="s2">challenging in fighting the challenges</p>
+<p begin="00:10:31.060" end="00:10:35.350" style="s2">to their to their candidacies and it</p>
+<p begin="00:10:33.639" end="00:10:36.970" style="s2">costs money our office and<span style="s4"> other</span></p>
+<p begin="00:10:35.350" end="00:10:39.240" style="s2">election jurisdictions spent a</p>
+<p begin="00:10:36.970" end="00:10:41.380" style="s2">considerable amount of time and energy</p>
+<p begin="00:10:39.240" end="00:10:44.829" style="s2">reviewing records from candidates who</p>
+<p begin="00:10:41.380" end="00:10:46.809" style="s2">are being challenged so we created the</p>
+<p begin="00:10:44.829" end="00:10:49.180" style="s2">running for<span style="s4"> office</span> starter kit and<span style="s4"> I&#39;m</span></p>
+<p begin="00:10:46.809" end="00:10:50.800" style="s2">actually going<span style="s3"> to</span> demo it here and then</p>
+<p begin="00:10:49.180" end="00:10:55.540" style="s2">come<span style="s3"> back</span> and<span style="s4"> tell</span> you<span style="s4"> about</span> how it&#39;s</p>
+<p begin="00:10:50.800" end="00:10:57.579" style="s2">been used over<span style="s4"> the</span> last few months<span style="s3"> and</span></p>
+<p begin="00:10:55.540" end="00:11:00.720" style="s2">this is at running for office cook</p>
+<p begin="00:10:57.579" end="00:11:03.480" style="s2">county clerks<span style="s3"> com</span> so</p>
+<p begin="00:11:00.720" end="00:11:04.589" style="s2">the ways if you go to this website this</p>
+<p begin="00:11:03.480" end="00:11:08.519" style="s2">is this page which you&#39;ll find on our</p>
+<p begin="00:11:04.589" end="00:11:10.019" style="s2">website<span style="s4"> and</span> it reduces<span style="s4"> the</span> amount of</p>
+<p begin="00:11:08.519" end="00:11:11.339" style="s2">time that a candidate someone who&#39;s</p>
+<p begin="00:11:10.019" end="00:11:13.949" style="s2">interested in potentially running for</p>
+<p begin="00:11:11.339" end="00:11:15.930" style="s2">office needs to get all of the</p>
+<p begin="00:11:13.949" end="00:11:18.949" style="s2">information but they want to see if they</p>
+<p begin="00:11:15.930" end="00:11:21.899" style="s2">should run for<span style="s4"> office</span> i&#39;m going<span style="s4"> to</span> use</p>
+<p begin="00:11:18.949" end="00:11:23.579" style="s2">frank as arguing today with his data he</p>
+<p begin="00:11:21.899" end="00:11:26.910" style="s2">lived<span style="s4"> in evergreen park</span> which is aina</p>
+<p begin="00:11:23.579" end="00:11:28.379" style="s2">suburban<span style="s4"> cook county and this only works</span></p>
+<p begin="00:11:26.910" end="00:11:36.949" style="s2">for suburban cook county out for the</p>
+<p begin="00:11:28.379" end="00:11:36.949" style="s2">city of<span style="s4"> chicago</span> 2705</p>
+<p begin="00:11:44.309" end="00:11:51.069" style="s2">but once you enter your<span style="s3"> adverse</span> it does</p>
+<p begin="00:11:49.420" end="00:11:52.629" style="s2">a<span style="s4"> quick</span> search and tells you all of the</p>
+<p begin="00:11:51.069" end="00:11:55.480" style="s2">districts<span style="s4"> that</span> are associated<span style="s4"> with</span> your</p>
+<p begin="00:11:52.629" end="00:11:57.850" style="s2"><span style="s4">address</span> and just shows everything from</p>
+<p begin="00:11:55.480" end="00:12:00.970" style="s2"><span style="s4">Township</span> down to parks and libraries and</p>
+<p begin="00:11:57.850" end="00:12:02.649" style="s2">schools school boards etc so here&#39;s here</p>
+<p begin="00:12:00.970" end="00:12:05.350" style="s2">the here are<span style="s4"> all</span><span style="s3"> the</span> offices that Frank</p>
+<p begin="00:12:02.649" end="00:12:07.629" style="s2">could have run for in this coming<span style="s4"> April</span></p>
+<p begin="00:12:05.350" end="00:12:10.329" style="s2">election and tells him<span style="s4"> when</span> he needs<span style="s4"> to</span></p>
+<p begin="00:12:07.629" end="00:12:12.309" style="s2">file his actually tells him<span style="s4"> the</span> election</p>
+<p begin="00:12:10.329" end="00:12:14.889" style="s2"><span style="s4">date</span> to click more information let&#39;s say</p>
+<p begin="00:12:12.309" end="00:12:18.129" style="s2">he wants to run for school board 120 for</p>
+<p begin="00:12:14.889" end="00:12:19.660" style="s2">more information and it gives him plenty</p>
+<p begin="00:12:18.129" end="00:12:21.819" style="s2">of<span style="s4"> information</span> about<span style="s4"> that</span> district how</p>
+<p begin="00:12:19.660" end="00:12:24.220" style="s2">many registered voters how many ballots</p>
+<p begin="00:12:21.819" end="00:12:25.689" style="s2">were cast in the last election it links</p>
+<p begin="00:12:24.220" end="00:12:27.730" style="s2">him to a map of the district or to</p>
+<p begin="00:12:25.689" end="00:12:29.470" style="s2">request voter registration data etc I</p>
+<p begin="00:12:27.730" end="00:12:31.120" style="s2">know a host of other things that<span style="s3"> are</span></p>
+<p begin="00:12:29.470" end="00:12:33.189" style="s2">going to be useful<span style="s4"> and</span> then it gives</p>
+<p begin="00:12:31.120" end="00:12:34.480" style="s2">them information about<span style="s4"> the</span> actual about</p>
+<p begin="00:12:33.189" end="00:12:37.629" style="s2">actually running for office so how many</p>
+<p begin="00:12:34.480" end="00:12:39.430" style="s2">seats are up this coming election how</p>
+<p begin="00:12:37.629" end="00:12:41.139" style="s2">many ballots how many signatures do you</p>
+<p begin="00:12:39.430" end="00:12:44.110" style="s2">need to get<span style="s4"> on</span> the<span style="s3"> ballot</span> what are the</p>
+<p begin="00:12:41.139" end="00:12:45.639" style="s2">forms you<span style="s3"> need</span> etc and then if he</p>
+<p begin="00:12:44.110" end="00:12:48.519" style="s2">chooses that<span style="s4"> he</span> does want<span style="s4"> to</span> run for</p>
+<p begin="00:12:45.639" end="00:12:50.709" style="s2"><span style="s3">office</span> he<span style="s3"> could</span> click create a candidate</p>
+<p begin="00:12:48.519" end="00:12:54.610" style="s2">packet<span style="s4"> they&#39;ll</span> ask<span style="s4"> for</span> some of his</p>
+<p begin="00:12:50.709" end="00:12:57.429" style="s2">information<span style="s4"> all right great he accept</span></p>
+<p begin="00:12:54.610" end="00:13:00.809" style="s2">all<span style="s3"> of</span> these legal leaves which was</p>
+<p begin="00:12:57.429" end="00:13:04.870" style="s2"><span style="s3">actually</span> very important to read and and</p>
+<p begin="00:13:00.809" end="00:13:12.670" style="s2">it generates the candidate packet and it</p>
+<p begin="00:13:04.870" end="00:13:14.230" style="s2">downloads this PDF great<span style="s4"> alright</span> so this</p>
+<p begin="00:13:12.670" end="00:13:16.809" style="s2">gives him basically everything<span style="s3"> that</span> he</p>
+<p begin="00:13:14.230" end="00:13:19.689" style="s2"><span style="s4">needs</span> to<span style="s4"> run</span> for<span style="s4"> office</span> he might need<span style="s4"> to</span></p>
+<p begin="00:13:16.809" end="00:13:21.370" style="s2"><span style="s3">make</span> a few copies of some pages but the</p>
+<p begin="00:13:19.689" end="00:13:23.139" style="s2">first two pages are pretty in-depth</p>
+<p begin="00:13:21.370" end="00:13:24.699" style="s2">instruction and this helps you avoid</p>
+<p begin="00:13:23.139" end="00:13:26.410" style="s2"><span style="s3">getting</span> thrown off the ballot<span style="s3"> for</span> not</p>
+<p begin="00:13:24.699" end="00:13:29.949" style="s2">stapling your sheets are not numbering</p>
+<p begin="00:13:26.410" end="00:13:31.689" style="s2">your petition sheets it gives him his</p>
+<p begin="00:13:29.949" end="00:13:33.069" style="s2">statement<span style="s4"> of</span> candidacy<span style="s4"> prefilled</span> with</p>
+<p begin="00:13:31.689" end="00:13:35.199" style="s2">all his information all he needs to do</p>
+<p begin="00:13:33.069" end="00:13:36.519" style="s2">is get it notarized and signed give some</p>
+<p begin="00:13:35.199" end="00:13:39.939" style="s2">instructions on<span style="s4"> how</span> to submit a</p>
+<p begin="00:13:36.519" end="00:13:41.290" style="s2">statement of economic interest and it</p>
+<p begin="00:13:39.939" end="00:13:44.170" style="s2">has the other forms that he needs</p>
+<p begin="00:13:41.290" end="00:13:45.910" style="s2">including the petition sheet which its</p>
+<p begin="00:13:44.170" end="00:13:47.740" style="s2">pre-sale then again now he can make</p>
+<p begin="00:13:45.910" end="00:13:50.199" style="s2">copies<span style="s3"> of</span> this go get<span style="s3"> two</span> signatures he</p>
+<p begin="00:13:47.740" end="00:13:53.410" style="s2">knows he needs 50 and<span style="s4"> then</span> comes and</p>
+<p begin="00:13:50.199" end="00:13:55.760" style="s2">submits it to our office so with<span style="s4"> this</span></p>
+<p begin="00:13:53.410" end="00:13:57.500" style="s2">with this candidate packet that he</p>
+<p begin="00:13:55.760" end="00:13:59.300" style="s2">in two<span style="s4"> or</span> three minutes he can<span style="s4"> actually</span></p>
+<p begin="00:13:57.500" end="00:14:00.530" style="s2"><span style="s4">spend</span> a little bit<span style="s4"> of</span> time and</p>
+<p begin="00:13:59.300" end="00:14:02.330" style="s2">understand what it<span style="s3"> takes</span> to get on the</p>
+<p begin="00:14:00.530" end="00:14:04.660" style="s2">ballot<span style="s4"> rather</span> than this very daunting</p>
+<p begin="00:14:02.330" end="00:14:06.620" style="s2">and challenging process that</p>
+<p begin="00:14:04.660" end="00:14:09.140" style="s2">unfortunately candidates have<span style="s3"> to</span> go</p>
+<p begin="00:14:06.620" end="00:14:12.020" style="s2">through before so we released this in</p>
+<p begin="00:14:09.140" end="00:14:16.100" style="s2">early<span style="s4"> October</span> and people were able<span style="s4"> to</span></p>
+<p begin="00:14:12.020" end="00:14:18.830" style="s2">use it through the filing deadline which</p>
+<p begin="00:14:16.100" end="00:14:22.820" style="s2">was December 19 and I need to go<span style="s3"> back</span> to</p>
+<p begin="00:14:18.830" end="00:14:25.520" style="s2"><span style="s4">the</span> PowerPoint<span style="s3"> okay</span> so from october to</p>
+<p begin="00:14:22.820" end="00:14:27.380" style="s2">December 406 individuals actually<span style="s4"> used</span></p>
+<p begin="00:14:25.520" end="00:14:29.690" style="s2"><span style="s4">it</span> to create a candidate packet many</p>
+<p begin="00:14:27.380" end="00:14:31.130" style="s2">more must have gone and searched and</p>
+<p begin="00:14:29.690" end="00:14:33.230" style="s2"><span style="s4">actually</span> looked at the information<span style="s4"> but</span></p>
+<p begin="00:14:31.130" end="00:14:35.060" style="s2">this many said to create<span style="s3"> a</span> candidate</p>
+<p begin="00:14:33.230" end="00:14:37.670" style="s2">packet put in all their information and</p>
+<p begin="00:14:35.060" end="00:14:39.230" style="s2">downloaded that packet<span style="s4"> 75%</span> of them were</p>
+<p begin="00:14:37.670" end="00:14:40.820" style="s2">for school boards and community college</p>
+<p begin="00:14:39.230" end="00:14:43.850" style="s2">districts fifteen percent for parks and</p>
+<p begin="00:14:40.820" end="00:14:47.000" style="s2">10 for libraries of the<span style="s4"> 288</span> that</p>
+<p begin="00:14:43.850" end="00:14:48.830" style="s2">generated a school board packet 207</p>
+<p begin="00:14:47.000" end="00:14:50.840" style="s2">actually filed with our office<span style="s3"> to</span> get on</p>
+<p begin="00:14:48.830" end="00:14:52.760" style="s2">the<span style="s4"> ballot</span> and that&#39;s out<span style="s3"> of</span> a total of</p>
+<p begin="00:14:50.840" end="00:14:55.010" style="s2"><span style="s4">over</span> 700 candidates who filed so</p>
+<p begin="00:14:52.760" end="00:14:58.460" style="s2">one-third of those who filed the school</p>
+<p begin="00:14:55.010" end="00:15:02.300" style="s2">board petition with our<span style="s4"> office</span> used the</p>
+<p begin="00:14:58.460" end="00:15:04.220" style="s2">tool and<span style="s4"> 126</span> or 61 percent of those were</p>
+<p begin="00:15:02.300" end="00:15:07.490" style="s2">actually new candidates not incumbents</p>
+<p begin="00:15:04.220" end="00:15:09.110" style="s2">and I<span style="s3"> ran</span> a little<span style="s4"> bit</span> of you<span style="s3"> know</span> I</p>
+<p begin="00:15:07.490" end="00:15:11.180" style="s2">looked at the data<span style="s3"> and</span> the<span style="s4"> age</span> of<span style="s3"> the</span></p>
+<p begin="00:15:09.110" end="00:15:14.060" style="s2">youngest<span style="s4"> person</span> to generate a packet is</p>
+<p begin="00:15:11.180" end="00:15:17.810" style="s2"><span style="s3">19</span> the<span style="s4"> oldest</span> 479 the<span style="s4"> average was forty</span></p>
+<p begin="00:15:14.060" end="00:15:19.640" style="s2">seven and a half<span style="s4"> years</span> old so this this</p>
+<p begin="00:15:17.810" end="00:15:21.200" style="s2">is just<span style="s4"> one</span> tool you know the most</p>
+<p begin="00:15:19.640" end="00:15:23.720" style="s2">recent one<span style="s3"> that</span> we&#39;ve that we were</p>
+<p begin="00:15:21.200" end="00:15:24.890" style="s2">working on on and 15 to 20 minutes</p>
+<p begin="00:15:23.720" end="00:15:26.930" style="s2"><span style="s4">doesn&#39;t</span> give us that much time to go</p>
+<p begin="00:15:24.890" end="00:15:28.070" style="s2">into other things but we hope to be back</p>
+<p begin="00:15:26.930" end="00:15:30.440" style="s2">and to talk to you about some of<span style="s4"> the</span></p>
+<p begin="00:15:28.070" end="00:15:32.720" style="s2">other work that we do and I feel free<span style="s4"> to</span></p>
+<p begin="00:15:30.440" end="00:15:35.380" style="s2">follow us and i look forward to talk to</p>
+<p begin="00:15:32.720" end="00:15:35.380" style="s2">you after<span style="s4"> thank</span></p>
+<p begin="00:15:37.840" end="00:15:52.660" style="s2">oh yeah of course<span style="s4"> most</span> exciting little</p>
+<p begin="00:15:50.050" end="00:16:01.000" style="s2">did you<span style="s4"> clean</span> this thankfully it did you</p>
+<p begin="00:15:52.660" end="00:16:03.190" style="s2">want it<span style="s4"> out</span> any<span style="s4"> other</span> that&#39;s a great</p>
+<p begin="00:16:01.000" end="00:16:05.650" style="s2">question um so the<span style="s4"> running</span> for office</p>
+<p begin="00:16:03.190" end="00:16:08.320" style="s2">I&#39;m sorry the running for office tool</p>
+<p begin="00:16:05.650" end="00:16:10.120" style="s2">specifically it wasn&#39;t model done any</p>
+<p begin="00:16:08.320" end="00:16:11.860" style="s2">existing initiative right at the same</p>
+<p begin="00:16:10.120" end="00:16:14.230" style="s2">time<span style="s3"> as</span> we were doing this there was a</p>
+<p begin="00:16:11.860" end="00:16:16.510" style="s2">national initiative called run<span style="s4"> fraud</span> run</p>
+<p begin="00:16:14.230" end="00:16:18.310" style="s2">for office door get gives you pieces of</p>
+<p begin="00:16:16.510" end="00:16:20.650" style="s2">what&#39;s here doesn&#39;t take you all the way</p>
+<p begin="00:16:18.310" end="00:16:22.240" style="s2">to create<span style="s3"> a</span> packet but this<span style="s4"> like</span> this</p>
+<p begin="00:16:20.650" end="00:16:24.130" style="s2"><span style="s4">has</span> been on<span style="s3"> our</span> idea award for a really</p>
+<p begin="00:16:22.240" end="00:16:25.510" style="s2">long time I mean we&#39;ve known that it</p>
+<p begin="00:16:24.130" end="00:16:27.130" style="s2">that&#39;s<span style="s4"> pretty</span> difficult for people to</p>
+<p begin="00:16:25.510" end="00:16:29.740" style="s2">understand the process of running for</p>
+<p begin="00:16:27.130" end="00:16:32.710" style="s2"><span style="s4">office</span> and to actually do it so it&#39;s</p>
+<p begin="00:16:29.740" end="00:16:34.420" style="s2">been our<span style="s4"> idea</span> board and in the last year</p>
+<p begin="00:16:32.710" end="00:16:38.370" style="s2">we decided that we had the resources at</p>
+<p begin="00:16:34.420" end="00:16:38.370" style="s2">the time to actually make it happen</p>
+<p begin="00:16:39.360" end="00:16:59.200" style="s2"><span style="s4">women&#39;s</span> running for office there was a</p>
+<p begin="00:16:42.130" end="00:17:00.850" style="s2">person that we thank you thank you so</p>
+<p begin="00:16:59.200" end="00:17:02.260" style="s2">that would be that&#39;s<span style="s4"> something</span> that you</p>
+<p begin="00:17:00.850" end="00:17:04.450" style="s2">need<span style="s3"> to</span> ask the Chicago Board of</p>
+<p begin="00:17:02.260" end="00:17:15.880" style="s2">Elections we we wouldn&#39;t be able<span style="s4"> to</span> do</p>
+<p begin="00:17:04.450" end="00:17:18.070" style="s2"><span style="s3">it</span><span style="s4"> for</span> the city<span style="s4"> then you&#39;re going to be</span></p>
+<p begin="00:17:15.880" end="00:17:21.670" style="s2">described a lot<span style="s4"> really</span> entertaining</p>
+<p begin="00:17:18.070" end="00:17:24.880" style="s2"><span style="s4">order</span> registration here<span style="s4"> Thomas</span> is</p>
+<p begin="00:17:21.670" end="00:17:28.330" style="s2">available from the website for John<span style="s3"> way</span></p>
+<p begin="00:17:24.880" end="00:17:31.030" style="s2">if you go to the<span style="s3"> County</span> Clerk&#39;s website</p>
+<p begin="00:17:28.330" end="00:17:34.510" style="s2">you&#39;ll find a link to election data and</p>
+<p begin="00:17:31.030" end="00:17:36.070" style="s2">we have several data sources that are</p>
+<p begin="00:17:34.510" end="00:17:38.620" style="s2">available for download on a monthly</p>
+<p begin="00:17:36.070" end="00:17:40.420" style="s2">basis and then we<span style="s3"> also</span> recently issued</p>
+<p begin="00:17:38.620" end="00:17:42.460" style="s2">the post-election report for the</p>
+<p begin="00:17:40.420" end="00:17:48.110" style="s2">November election and that has a lot of</p>
+<p begin="00:17:42.460" end="00:17:49.809" style="s2">this data in it as well I&#39;m sure</p>
+<p begin="00:17:48.110" end="00:17:53.420" style="s2">going through and automating or</p>
+<p begin="00:17:49.809" end="00:17:55.640" style="s2">digitizing 137 station traffic including</p>
+<p begin="00:17:53.420" end="00:17:57.950" style="s2"><span style="s4">my</span> office which<span style="s3"> is</span> fantastic i love it</p>
+<p begin="00:17:55.640" end="00:18:01.640" style="s2">you guys have you thought about creating</p>
+<p begin="00:17:57.950" end="00:18:05.299" style="s2">a way to electronically<span style="s3"> Nevada</span> a</p>
+<p begin="00:18:01.640" end="00:18:07.370" style="s2">registration database a great question</p>
+<p begin="00:18:05.299" end="00:18:09.740" style="s2">my understanding is that that&#39;s governed</p>
+<p begin="00:18:07.370" end="00:18:11.540" style="s2">by state statute and so you need<span style="s3"> the</span></p>
+<p begin="00:18:09.740" end="00:18:13.580" style="s2">voter signature and then that needs to</p>
+<p begin="00:18:11.540" end="00:18:17.420" style="s2">be compared to<span style="s3"> the</span> actual signature on</p>
+<p begin="00:18:13.580" end="00:18:18.620" style="s2">their voter registration card so that&#39;s</p>
+<p begin="00:18:17.420" end="00:18:21.169" style="s2">something that would be great to explore</p>
+<p begin="00:18:18.620" end="00:18:27.230" style="s2"><span style="s3">I&#39;m</span><span style="s4"> not</span><span style="s3"> sure</span> if that&#39;s something we can</p>
+<p begin="00:18:21.169" end="00:18:31.820" style="s2">do right<span style="s4"> now</span> there was a<span style="s4"> Matthew service</span></p>
+<p begin="00:18:27.230" end="00:18:34.790" style="s2"><span style="s4">identity</span> of people and the registration</p>
+<p begin="00:18:31.820" end="00:18:37.309" style="s2">this video voted and then also why I</p>
+<p begin="00:18:34.790" end="00:18:39.410" style="s2">hate yeah it were a coalition between</p>
+<p begin="00:18:37.309" end="00:18:41.650" style="s2">like those entities and younger</p>
+<p begin="00:18:39.410" end="00:18:44.330" style="s2">populations or<span style="s4"> just</span> to set those density</p>
+<p begin="00:18:41.650" end="00:18:47.480" style="s2">like is<span style="s4"> there</span> any<span style="s4"> policy</span> from<span style="s3"> the</span> other</p>
+<p begin="00:18:44.330" end="00:18:49.340" style="s2">but increases as we saw in that program</p>
+<p begin="00:18:47.480" end="00:18:51.799" style="s2">there<span style="s4"> is</span> an interesting correlation</p>
+<p begin="00:18:49.340" end="00:18:53.210" style="s2">there that data isn&#39;t available on our</p>
+<p begin="00:18:51.799" end="00:18:55.010" style="s2">website<span style="s4"> but</span> if you go into the</p>
+<p begin="00:18:53.210" end="00:18:58.870" style="s2"><span style="s4">post-election</span> report that i mentioned</p>
+<p begin="00:18:55.010" end="00:18:58.870" style="s2">you&#39;ll find more information there I</p>
+<p begin="00:18:59.530" end="00:19:06.370" style="s2">about happy I don&#39;t Electra individually</p>
+<p begin="00:19:04.220" end="00:19:09.640" style="s2">there&#39;s been a lot of talking about</p>
+<p begin="00:19:06.370" end="00:19:12.380" style="s2"><span style="s4">about</span> electronic tracking and and</p>
+<p begin="00:19:09.640" end="00:19:14.480" style="s2">manipulating 11 results what are you</p>
+<p begin="00:19:12.380" end="00:19:18.490" style="s2">guys doing second access do you think</p>
+<p begin="00:19:14.480" end="00:19:21.110" style="s2">that and that of you and where you going</p>
+<p begin="00:19:18.490" end="00:19:23.210" style="s2">we&#39;ve<span style="s3"> worked</span> very closely with the</p>
+<p begin="00:19:21.110" end="00:19:25.429" style="s2">opposite information security for Cook</p>
+<p begin="00:19:23.210" end="00:19:27.500" style="s2">County we&#39;ve had meetings with the FBI</p>
+<p begin="00:19:25.429" end="00:19:29.870" style="s2"><span style="s3">and</span> Department<span style="s4"> of</span> Homeland Security as</p>
+<p begin="00:19:27.500" end="00:19:32.570" style="s2">well we&#39;ve taken extreme measures to</p>
+<p begin="00:19:29.870" end="00:19:34.520" style="s2">make sure that our data and voting</p>
+<p begin="00:19:32.570" end="00:19:37.460" style="s2">systems are safe here in<span style="s4"> cut</span><span style="s3"> county</span> in</p>
+<p begin="00:19:34.520" end="00:19:39.410" style="s2">illinois<span style="s3"> and</span> i just add but there&#39;s no</p>
+<p begin="00:19:37.460" end="00:19:43.179" style="s2">evidence<span style="s4"> that</span> any incident occurred on</p>
+<p begin="00:19:39.410" end="00:19:43.179" style="s2">what during<span style="s4"> the</span> election last year</p>
+<p begin="00:19:53.070" end="00:19:59.279" style="s2">right so the last municipal elections</p>
+<p begin="00:19:56.549" end="00:20:01.080" style="s2">for for these local offices was in 2015</p>
+<p begin="00:19:59.279" end="00:20:04.169" style="s2">the next one is<span style="s4"> coming</span> up<span style="s4"> in</span> april of</p>
+<p begin="00:20:01.080" end="00:20:06.330" style="s2">this year but there is information on</p>
+<p begin="00:20:04.169" end="00:20:08.909" style="s2">our website election results of course 4</p>
+<p begin="00:20:06.330" end="00:20:11.909" style="s2">2016 14 etc going all the way back to</p>
+<p begin="00:20:08.909" end="00:20:17.779" style="s2"><span style="s3">the</span> early<span style="s3"> i</span> think until nineteen<span style="s3"> ninety</span></p>
+<p begin="00:20:11.909" end="00:20:17.779" style="s2"><span style="s3">eight</span> thank you</p>
+<p begin="00:20:19.070" end="00:20:25.030" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

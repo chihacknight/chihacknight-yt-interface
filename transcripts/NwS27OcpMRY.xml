@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.150" end="00:00:11.130" style="s2">this is not an expert presentation this</p>
+<p begin="00:00:08.400" end="00:00:14.960" style="s2">is the data privacy equivalent of a</p>
+<p begin="00:00:11.130" end="00:00:18.900" style="s2"><span style="s3">third</span><span style="s4"> grader</span> doing a book report so</p>
+<p begin="00:00:14.960" end="00:00:22.980" style="s2"><span style="s3">audience</span> participation how many other</p>
+<p begin="00:00:18.900" end="00:00:25.859" style="s2">people<span style="s4"> other</span> than you<span style="s3"> obviously</span> has the</p>
+<p begin="00:00:22.980" end="00:00:32.099" style="s2">same combination of zip code birth date</p>
+<p begin="00:00:25.859" end="00:00:42.210" style="s2">including year and sex show of hands</p>
+<p begin="00:00:32.099" end="00:00:48.390" style="s2">five five or more four three<span style="s4"> two</span><span style="s3"> one</span> or</p>
+<p begin="00:00:42.210" end="00:00:50.300" style="s2">zero or negative one yes sir so for</p>
+<p begin="00:00:48.390" end="00:00:56.910" style="s2">eighty-seven percent of the population</p>
+<p begin="00:00:50.300" end="00:00:58.920" style="s2">the answer is<span style="s4"> zero</span> that&#39;s one study to</p>
+<p begin="00:00:56.910" end="00:01:01.739" style="s2">some other studies that<span style="s4"> have</span> it down in</p>
+<p begin="00:00:58.920" end="00:01:05.790" style="s2">more in the low 60s but that the<span style="s4"> point</span></p>
+<p begin="00:01:01.739" end="00:01:09.810" style="s2">of this is to show<span style="s4"> that</span> very few data</p>
+<p begin="00:01:05.790" end="00:01:15.360" style="s2">points can uniquely identify you the</p>
+<p begin="00:01:09.810" end="00:01:17.310" style="s2">second what I&#39;ve also learned and this<span style="s4"> I</span></p>
+<p begin="00:01:15.360" end="00:01:19.790" style="s2">again this is a book report of an</p>
+<p begin="00:01:17.310" end="00:01:23.729" style="s2"><span style="s4">article</span> in it or long paper air Brook</p>
+<p begin="00:01:19.790" end="00:01:27.810" style="s2">the idea that in the theme of the paper</p>
+<p begin="00:01:23.729" end="00:01:30.840" style="s2">was that anonymization does isn&#39;t</p>
+<p begin="00:01:27.810" end="00:01:33.450" style="s2"><span style="s4">sufficient</span> anymore and we need<span style="s3"> to</span><span style="s4"> change</span></p>
+<p begin="00:01:30.840" end="00:01:37.020" style="s2">basically our privacy laws to reflect</p>
+<p begin="00:01:33.450" end="00:01:39.780" style="s2">that so an<span style="s4"> open</span> data person</p>
+<p begin="00:01:37.020" end="00:01:42.000" style="s2"><span style="s4">well-intentioned</span> researcher what they</p>
+<p begin="00:01:39.780" end="00:01:45.360" style="s2">generally do is they have a data set it</p>
+<p begin="00:01:42.000" end="00:01:48.689" style="s2">may include sensitive information what</p>
+<p begin="00:01:45.360" end="00:01:50.700" style="s2">they do appropriately is redo remove the</p>
+<p begin="00:01:48.689" end="00:01:53.189" style="s2">personally<span style="s3"> identifiable</span> information the</p>
+<p begin="00:01:50.700" end="00:01:54.780" style="s2">PII you&#39;ve probably<span style="s4"> heard</span> of that</p>
+<p begin="00:01:53.189" end="00:01:58.920" style="s2">includes name social security number</p>
+<p begin="00:01:54.780" end="00:02:00.689" style="s2">address etc things like<span style="s4"> that</span> and then</p>
+<p begin="00:01:58.920" end="00:02:03.659" style="s2">they publish the data and they think</p>
+<p begin="00:02:00.689" end="00:02:08.160" style="s2"><span style="s4">they&#39;re</span> in good shape here&#39;s what then</p>
+<p begin="00:02:03.659" end="00:02:10.440" style="s2">can happen so that green database with</p>
+<p begin="00:02:08.160" end="00:02:13.620" style="s2">the personal information<span style="s4"> sliced</span> off of</p>
+<p begin="00:02:10.440" end="00:02:15.930" style="s2">it now<span style="s3"> can</span> be<span style="s4"> combined</span> with</p>
+<p begin="00:02:13.620" end="00:02:18.060" style="s2">other databases that live out<span style="s3"> there</span> so</p>
+<p begin="00:02:15.930" end="00:02:20.040" style="s2">that that database doesn&#39;t live<span style="s3"> in</span> a</p>
+<p begin="00:02:18.060" end="00:02:24.030" style="s2">vacuum or in isolation it can be</p>
+<p begin="00:02:20.040" end="00:02:27.360" style="s2">combined with other data and so you can</p>
+<p begin="00:02:24.030" end="00:02:29.129" style="s2">take that<span style="s4"> data</span> where people do know who</p>
+<p begin="00:02:27.360" end="00:02:31.560" style="s2">you are where you have personally</p>
+<p begin="00:02:29.129" end="00:02:34.440" style="s2">identifiable information you have common</p>
+<p begin="00:02:31.560" end="00:02:37.200" style="s2">fields you can<span style="s3"> combine</span> those two and you</p>
+<p begin="00:02:34.440" end="00:02:39.360" style="s2">can get a lot more<span style="s4"> information</span> and so</p>
+<p begin="00:02:37.200" end="00:02:42.150" style="s2">for example I had a friend show me last</p>
+<p begin="00:02:39.360" end="00:02:46.829" style="s2">week the voter file so he&#39;s a political</p>
+<p begin="00:02:42.150" end="00:02:49.440" style="s2">guy and he showed me that my data in the</p>
+<p begin="00:02:46.829" end="00:02:53.099" style="s2">voter file in the NGP van it&#39;s called</p>
+<p begin="00:02:49.440" end="00:02:55.760" style="s2">and it&#39;s it&#39;s a little scary what they</p>
+<p begin="00:02:53.099" end="00:02:59.280" style="s2">know or what they think<span style="s3"> they</span> know and</p>
+<p begin="00:02:55.760" end="00:03:01.560" style="s2">this process can continue so<span style="s3"> it&#39;s</span> not</p>
+<p begin="00:02:59.280" end="00:03:03.690" style="s2">just<span style="s3"> that</span> one database they can augment</p>
+<p begin="00:03:01.560" end="00:03:05.269" style="s2">that with another database and another</p>
+<p begin="00:03:03.690" end="00:03:08.790" style="s2">and another through a process called</p>
+<p begin="00:03:05.269" end="00:03:13.349" style="s2">accretion and build<span style="s4"> up</span> a lot<span style="s4"> of</span></p>
+<p begin="00:03:08.790" end="00:03:17.940" style="s2">information so now I have<span style="s4"> a</span> bigger</p>
+<p begin="00:03:13.349" end="00:03:21.959" style="s2">better more dangerous database so the so</p>
+<p begin="00:03:17.940" end="00:03:23.400" style="s2">wat here is that simply removing</p>
+<p begin="00:03:21.959" end="00:03:26.669" style="s2">personally identifiable information</p>
+<p begin="00:03:23.400" end="00:03:29.819" style="s2">often isn&#39;t<span style="s4"> enough</span> so when Tom talked</p>
+<p begin="00:03:26.669" end="00:03:32.819" style="s2">about generalizing to a census tract or</p>
+<p begin="00:03:29.819" end="00:03:35.370" style="s2"><span style="s4">15 minute windows etc that&#39;s a slightly</span></p>
+<p begin="00:03:32.819" end="00:03:39.090" style="s2">different technique generalization which</p>
+<p begin="00:03:35.370" end="00:03:43.709" style="s2">is also<span style="s4"> necessary</span> but the key point here</p>
+<p begin="00:03:39.090" end="00:03:45.299" style="s2">is it&#39;s never perfect because<span style="s4"> you</span> can</p>
+<p begin="00:03:43.709" end="00:03:47.459" style="s2">take one database get a little bit<span style="s3"> of</span></p>
+<p begin="00:03:45.299" end="00:03:49.530" style="s2">information get another another database</p>
+<p begin="00:03:47.459" end="00:03:52.769" style="s2">get a little bit<span style="s4"> more</span> information<span style="s4"> build</span></p>
+<p begin="00:03:49.530" end="00:03:55.349" style="s2">that up and what&#39;s the public policy</p>
+<p begin="00:03:52.769" end="00:03:58.379" style="s2"><span style="s4">implication</span> for this is<span style="s3"> that</span> data</p>
+<p begin="00:03:55.349" end="00:04:01.310" style="s2">privacy laws generally focus on removing</p>
+<p begin="00:03:58.379" end="00:04:03.959" style="s2">pup personally identifiable information</p>
+<p begin="00:04:01.310" end="00:04:06.150" style="s2">and then they give you what&#39;s called</p>
+<p begin="00:04:03.959" end="00:04:08.099" style="s2">safe harbor basically saying if you</p>
+<p begin="00:04:06.150" end="00:04:10.650" style="s2">follow these rules then you can&#39;t be</p>
+<p begin="00:04:08.099" end="00:04:12.750" style="s2"><span style="s4">sued</span> so the recommendation from this</p>
+<p begin="00:04:10.650" end="00:04:14.849" style="s2">paper is there&#39;s a<span style="s4"> lot</span> more that needs</p>
+<p begin="00:04:12.750" end="00:04:17.489" style="s2">to be done with<span style="s4"> privacy</span> laws let&#39;s go</p>
+<p begin="00:04:14.849" end="00:04:20.750" style="s2">well beyond PII and factory in other</p>
+<p begin="00:04:17.489" end="00:04:22.810" style="s2">considerations thanks</p>
+<p begin="00:04:20.750" end="00:04:22.810" style="s2">you</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.850" end="00:00:15.330" style="s2">hi I&#39;ve never been doing good all right</p>
+<p begin="00:00:10.950" end="00:00:17.310" style="s2">um here<span style="s3"> we</span> go<span style="s4"> all right so if you build</span></p>
+<p begin="00:00:15.330" end="00:00:20.220" style="s2">it will they come I&#39;m titling my</p>
+<p begin="00:00:17.310" end="00:00:21.570" style="s2">talkback and also you know thinking</p>
+<p begin="00:00:20.220" end="00:00:23.699" style="s2"><span style="s3">about</span> how human centered design</p>
+<p begin="00:00:21.570" end="00:00:26.910" style="s2">principles can direct our products I&#39;m</p>
+<p begin="00:00:23.699" end="00:00:28.800" style="s2">just a little<span style="s3"> bit</span> about me I got my</p>
+<p begin="00:00:26.910" end="00:00:30.990" style="s2">undergraduate degree in human</p>
+<p begin="00:00:28.800" end="00:00:33.870" style="s2">development and<span style="s4"> also</span> visual arts and</p>
+<p begin="00:00:30.990" end="00:00:36.270" style="s2">since then i also got<span style="s4"> i</span> moved here from</p>
+<p begin="00:00:33.870" end="00:00:37.860" style="s2">sunny California to<span style="s3"> Chicago</span> although</p>
+<p begin="00:00:36.270" end="00:00:41.840" style="s2">outside right now it seems pretty</p>
+<p begin="00:00:37.860" end="00:00:44.520" style="s2">logical for me too<span style="s4"> I&#39;ve</span> done that but I</p>
+<p begin="00:00:41.840" end="00:00:47.760" style="s2"><span style="s4">through</span> my Master&#39;s research I also</p>
+<p begin="00:00:44.520" end="00:00:49.860" style="s2">researched um human centered design and</p>
+<p begin="00:00:47.760" end="00:00:52.890" style="s2">how they affect organizations from</p>
+<p begin="00:00:49.860" end="00:00:55.920" style="s2">nonprofits to hybrid organizations to</p>
+<p begin="00:00:52.890" end="00:00:58.260" style="s2">leave in major corporations so there has</p>
+<p begin="00:00:55.920" end="00:01:00.059" style="s2">been a huge sort<span style="s4"> of</span> like slew of</p>
+<p begin="00:00:58.260" end="00:01:02.430" style="s2">journeys that i&#39;ve also been on since</p>
+<p begin="00:01:00.059" end="00:01:04.979" style="s2">studying those things applying them to</p>
+<p begin="00:01:02.430" end="00:01:07.530" style="s2">my day-to-day job and for actually</p>
+<p begin="00:01:04.979" end="00:01:09.600" style="s2">getting paid to do this as<span style="s3"> well</span> so<span style="s4"> it&#39;s</span></p>
+<p begin="00:01:07.530" end="00:01:11.729" style="s2">like you you run into those situations</p>
+<p begin="00:01:09.600" end="00:01:15.000" style="s2">and<span style="s4"> i&#39;d</span> like<span style="s3"> to</span><span style="s4"> kind</span><span style="s3"> of</span> like bring some</p>
+<p begin="00:01:11.729" end="00:01:17.820" style="s2">of those thoughts here and like Derek ad</p>
+<p begin="00:01:15.000" end="00:01:19.950" style="s2">said we live in a build first world</p>
+<p begin="00:01:17.820" end="00:01:22.229" style="s2">right like everyone&#39;s always really</p>
+<p begin="00:01:19.950" end="00:01:25.799" style="s2">ready<span style="s3"> to</span> put<span style="s4"> something</span> out there see how</p>
+<p begin="00:01:22.229" end="00:01:27.960" style="s2"><span style="s4">it</span> reacts and you know but the question</p>
+<p begin="00:01:25.799" end="00:01:30.600" style="s2"><span style="s3">really</span> is are we building for human</p>
+<p begin="00:01:27.960" end="00:01:32.610" style="s2">needs right a lot of times we think</p>
+<p begin="00:01:30.600" end="00:01:35.850" style="s2">about these ideas and we put them<span style="s4"> out</span></p>
+<p begin="00:01:32.610" end="00:01:39.000" style="s2">there and then afterwards we say oh I</p>
+<p begin="00:01:35.850" end="00:01:41.070" style="s2">guess that was the wrong idea<span style="s4"> and</span> then</p>
+<p begin="00:01:39.000" end="00:01:43.740" style="s2">we<span style="s3"> learned</span> to take<span style="s3"> it</span> step<span style="s3"> backwards</span> and</p>
+<p begin="00:01:41.070" end="00:01:45.899" style="s2">I&#39;m actually really happy to hear all</p>
+<p begin="00:01:43.740" end="00:01:48.119" style="s2">the<span style="s4"> UX</span> designers in here and all of the</p>
+<p begin="00:01:45.899" end="00:01:50.549" style="s2">researchers and everybody in here<span style="s4"> even</span></p>
+<p begin="00:01:48.119" end="00:01:52.829" style="s2">if you know the engineers that existing</p>
+<p begin="00:01:50.549" end="00:01:54.720" style="s2">here I&#39;m sure by now you&#39;ve heard of UX</p>
+<p begin="00:01:52.829" end="00:01:58.320" style="s2">and either they pestered you about</p>
+<p begin="00:01:54.720" end="00:02:00.270" style="s2">something already but this is where</p>
+<p begin="00:01:58.320" end="00:02:03.210" style="s2">we&#39;re going<span style="s4"> right</span> i<span style="s4"> think</span> five years ago</p>
+<p begin="00:02:00.270" end="00:02:04.680" style="s2"><span style="s3">and</span> if i would have<span style="s4"> have</span> asked anybody</p>
+<p begin="00:02:03.210" end="00:02:07.560" style="s2">in this room who</p>
+<p begin="00:02:04.680" end="00:02:09.479" style="s2">I do it would have still been kind of</p>
+<p begin="00:02:07.560" end="00:02:11.400" style="s2">like a oh yeah I&#39;ve heard about<span style="s4"> them</span></p>
+<p begin="00:02:09.479" end="00:02:14.580" style="s2">they kind of do some<span style="s4"> like</span> innovation</p>
+<p begin="00:02:11.400" end="00:02:17.070" style="s2">research human centered design but they</p>
+<p begin="00:02:14.580" end="00:02:21.140" style="s2">are kind of ambassadors to make this</p>
+<p begin="00:02:17.070" end="00:02:24.510" style="s2">idea sort of labeled first of<span style="s3"> all</span> and</p>
+<p begin="00:02:21.140" end="00:02:28.470" style="s2">marketed towards people to sort of</p>
+<p begin="00:02:24.510" end="00:02:30.660" style="s2">digest it in a feasible manner on human</p>
+<p begin="00:02:28.470" end="00:02:33.150" style="s2">centered design is really<span style="s3"> just</span> problem</p>
+<p begin="00:02:30.660" end="00:02:35.910" style="s2">solving right and where<span style="s4"> it&#39;s</span> problem</p>
+<p begin="00:02:33.150" end="00:02:40.860" style="s2">solving for people and finding those</p>
+<p begin="00:02:35.910" end="00:02:43.590" style="s2">problems initially this is a really</p>
+<p begin="00:02:40.860" end="00:02:45.780" style="s2">chaotic sort of journey and methodology</p>
+<p begin="00:02:43.590" end="00:02:48.570" style="s2">but theoretically this<span style="s4"> is</span> what happens</p>
+<p begin="00:02:45.780" end="00:02:51.150" style="s2">right you find your problem research in</p>
+<p begin="00:02:48.570" end="00:02:54.060" style="s2">your data collection you organize data</p>
+<p begin="00:02:51.150" end="00:02:56.489" style="s2">and find things<span style="s4"> to transform foods into</span></p>
+<p begin="00:02:54.060" end="00:02:59.510" style="s2">insights transforming insights into</p>
+<p begin="00:02:56.489" end="00:03:02.910" style="s2">design opportunities brainstorming</p>
+<p begin="00:02:59.510" end="00:03:05.580" style="s2">designing prototyping and experimenting</p>
+<p begin="00:03:02.910" end="00:03:07.620" style="s2">and then finally delivering right but it</p>
+<p begin="00:03:05.580" end="00:03:10.410" style="s2">doesn&#39;t<span style="s3"> necessarily</span> even stop very kind</p>
+<p begin="00:03:07.620" end="00:03:14.340" style="s2">of cycles on and on and on as humans as</p>
+<p begin="00:03:10.410" end="00:03:16.080" style="s2">we change as well even from last year</p>
+<p begin="00:03:14.340" end="00:03:17.519" style="s2">the condition that we were in as opposed</p>
+<p begin="00:03:16.080" end="00:03:20.820" style="s2">to this year things<span style="s4"> are</span> very different</p>
+<p begin="00:03:17.519" end="00:03:23.489" style="s2">right even in our environment even<span style="s3"> in</span></p>
+<p begin="00:03:20.820" end="00:03:26.480" style="s2">the past week<span style="s3"> or</span> weather is so weird you</p>
+<p begin="00:03:23.489" end="00:03:29.580" style="s2">know like how do we just do those things</p>
+<p begin="00:03:26.480" end="00:03:31.590" style="s2">so this<span style="s3"> is</span> an image<span style="s4"> of</span> probably</p>
+<p begin="00:03:29.580" end="00:03:35.100" style="s2">something that<span style="s4"> you</span> see online all the</p>
+<p begin="00:03:31.590" end="00:03:37.140" style="s2">time when people<span style="s4"> bring</span> in this<span style="s4"> idea</span> of</p>
+<p begin="00:03:35.100" end="00:03:39.030" style="s2">human centered design is what a<span style="s3"> post-its</span></p>
+<p begin="00:03:37.140" end="00:03:41.100" style="s2">and<span style="s4"> it&#39;s always like oh my</span><span style="s3"> god</span> why are</p>
+<p begin="00:03:39.030" end="00:03:43.230" style="s2">they so fluorescent and they&#39;re just</p>
+<p begin="00:03:41.100" end="00:03:46.769" style="s2"><span style="s4">like</span> staring at me<span style="s3"> all</span> the time you know</p>
+<p begin="00:03:43.230" end="00:03:50.070" style="s2">and it doesn&#39;t mean too nervous right I</p>
+<p begin="00:03:46.769" end="00:03:52.140" style="s2">know<span style="s4"> for</span><span style="s3"> sure</span> in even in<span style="s4"> our</span> office you</p>
+<p begin="00:03:50.070" end="00:03:54.269" style="s2">know engineers<span style="s4"> have</span> come up to<span style="s3"> our</span> team</p>
+<p begin="00:03:52.140" end="00:03:57.390" style="s2">and<span style="s4"> been</span> like why do you guys have to</p>
+<p begin="00:03:54.269" end="00:03:59.519" style="s2"><span style="s4">put</span> that up there all the time right and</p>
+<p begin="00:03:57.390" end="00:04:01.700" style="s2">it&#39;s<span style="s4"> just actually like a really</span></p>
+<p begin="00:03:59.519" end="00:04:04.260" style="s2">fascinating journey for us in our</p>
+<p begin="00:04:01.700" end="00:04:06.090" style="s2">organization as well but I did want to</p>
+<p begin="00:04:04.260" end="00:04:08.310" style="s2">kind of<span style="s4"> actually</span> call out this idea of a</p>
+<p begin="00:04:06.090" end="00:04:11.459" style="s2">postage and I&#39;ll<span style="s3"> can</span> return back<span style="s3"> to</span> this</p>
+<p begin="00:04:08.310" end="00:04:14.280" style="s2">in terms of paper but every single<span style="s4"> one</span></p>
+<p begin="00:04:11.459" end="00:04:14.780" style="s2">of these posters have a data piece of a</p>
+<p begin="00:04:14.280" end="00:04:16.430" style="s2">human</p>
+<p begin="00:04:14.780" end="00:04:19.040" style="s2">what they have said in our interviews</p>
+<p begin="00:04:16.430" end="00:04:20.930" style="s2">and the physical presence of them</p>
+<p begin="00:04:19.040" end="00:04:22.970" style="s2">actually helps<span style="s3"> the</span> human Center design</p>
+<p begin="00:04:20.930" end="00:04:25.669" style="s2">process fully work out in that</p>
+<p begin="00:04:22.970" end="00:04:28.010" style="s2"><span style="s4">end-to-end</span> manner where there&#39;s so much</p>
+<p begin="00:04:25.669" end="00:04:30.530" style="s2">information that we sort<span style="s4"> of</span> intake right</p>
+<p begin="00:04:28.010" end="00:04:33.230" style="s2">and to be able to translate those things</p>
+<p begin="00:04:30.530" end="00:04:37.310" style="s2">into<span style="s4"> a</span> feasible solution that could</p>
+<p begin="00:04:33.230" end="00:04:40.280" style="s2">potentially help at its most impacting</p>
+<p begin="00:04:37.310" end="00:04:43.130" style="s2">it&#39;s a tat eyes potential this is kind</p>
+<p begin="00:04:40.280" end="00:04:45.290" style="s2">of a way where we condition ourselves to</p>
+<p begin="00:04:43.130" end="00:04:48.740" style="s2">not necessarily just stuff all of our</p>
+<p begin="00:04:45.290" end="00:04:51.620" style="s2">data onto an excel sheet or lots of just</p>
+<p begin="00:04:48.740" end="00:04:54.200" style="s2">you know computer things but literally</p>
+<p begin="00:04:51.620" end="00:04:57.050" style="s2">put them on the wall and say this is</p>
+<p begin="00:04:54.200" end="00:04:59.870" style="s2">what the human said and as we cluster</p>
+<p begin="00:04:57.050" end="00:05:02.390" style="s2">things together how are we receiving</p>
+<p begin="00:04:59.870" end="00:05:04.940" style="s2">these things to have more of<span style="s4"> an</span> impact</p>
+<p begin="00:05:02.390" end="00:05:08.600" style="s2">not<span style="s4"> only</span> on us but how do we see</p>
+<p begin="00:05:04.940" end="00:05:11.180" style="s2">patterns in that behavior as well<span style="s4"> um</span> I</p>
+<p begin="00:05:08.600" end="00:05:14.150" style="s2">wanted<span style="s4"> to</span> bring<span style="s4"> this</span> slide up for humans</p>
+<p begin="00:05:11.180" end="00:05:16.370" style="s2">because not only she adorable but a lot</p>
+<p begin="00:05:14.150" end="00:05:18.979" style="s2">of times you<span style="s3"> know</span> like we think about</p>
+<p begin="00:05:16.370" end="00:05:21.500" style="s2">research and<span style="s4"> we</span> think<span style="s4"> about</span> this idea of</p>
+<p begin="00:05:18.979" end="00:05:24.590" style="s2">oh yeah like need should be user</p>
+<p begin="00:05:21.500" end="00:05:27.260" style="s2">research or UX has to do with<span style="s4"> people</span> you</p>
+<p begin="00:05:24.590" end="00:05:29.210" style="s2">know but at<span style="s4"> the</span> end of the day you know</p>
+<p begin="00:05:27.260" end="00:05:32.990" style="s2">I<span style="s3"> think</span> a<span style="s3"> lot</span> of us are actually<span style="s4"> afraid</span></p>
+<p begin="00:05:29.210" end="00:05:34.820" style="s2"><span style="s3">of</span> humans and I actually have this</p>
+<p begin="00:05:32.990" end="00:05:36.850" style="s2">beautiful story from even the past</p>
+<p begin="00:05:34.820" end="00:05:40.460" style="s2">couple of weeks we&#39;re I&#39;ve been training</p>
+<p begin="00:05:36.850" end="00:05:42.110" style="s2">two of our<span style="s3"> engineers</span> in house to follow</p>
+<p begin="00:05:40.460" end="00:05:45.590" style="s2">the human<span style="s4"> centered</span><span style="s3"> design</span> method and</p>
+<p begin="00:05:42.110" end="00:05:49.250" style="s2">within one of our client projects we</p>
+<p begin="00:05:45.590" end="00:05:52.340" style="s2">built a research sort of scenario to go</p>
+<p begin="00:05:49.250" end="00:05:56.720" style="s2">out<span style="s4"> into</span> our city and to ask people</p>
+<p begin="00:05:52.340" end="00:05:59.140" style="s2"><span style="s3">about</span> certain research questions and the</p>
+<p begin="00:05:56.720" end="00:06:02.120" style="s2">morning of that we were<span style="s4"> going</span> out and</p>
+<p begin="00:05:59.140" end="00:06:03.740" style="s2">one<span style="s4"> of</span> my one of<span style="s4"> the</span> developers that was</p>
+<p begin="00:06:02.120" end="00:06:05.390" style="s2">with me he looked at me and was like I</p>
+<p begin="00:06:03.740" end="00:06:06.860" style="s2"><span style="s3">don&#39;t</span><span style="s4"> think</span> I can be a designer and<span style="s4"> I</span></p>
+<p begin="00:06:05.390" end="00:06:09.530" style="s2">don&#39;t think I can do this even<span style="s3"> though</span></p>
+<p begin="00:06:06.860" end="00:06:12.289" style="s2"><span style="s4">he&#39;s</span> shown interest for years and he was</p>
+<p begin="00:06:09.530" end="00:06:14.180" style="s2">like I&#39;m so nervous and I can&#39;t I don&#39;t</p>
+<p begin="00:06:12.289" end="00:06:17.810" style="s2"><span style="s3">think</span> I&#39;m going to be<span style="s3"> able</span> to talk to</p>
+<p begin="00:06:14.180" end="00:06:20.419" style="s2">them um and I looked at him<span style="s3"> I</span> said I</p>
+<p begin="00:06:17.810" end="00:06:23.960" style="s2">don&#39;t<span style="s4"> think</span> anybody<span style="s4"> wants</span> to do this but</p>
+<p begin="00:06:20.419" end="00:06:26.630" style="s2">it&#39;s so<span style="s3"> hard</span> right like but the beauty</p>
+<p begin="00:06:23.960" end="00:06:29.300" style="s2">of it is though is that most of us</p>
+<p begin="00:06:26.630" end="00:06:31.520" style="s2">if you&#39;re like me I&#39;m an introvert that</p>
+<p begin="00:06:29.300" end="00:06:34.220" style="s2">is extremely curious about what people</p>
+<p begin="00:06:31.520" end="00:06:36.350" style="s2">have to say but I don&#39;t<span style="s3"> necessarily</span><span style="s4"> know</span></p>
+<p begin="00:06:34.220" end="00:06:39.140" style="s2">like how<span style="s4"> to</span> engage with<span style="s4"> it</span> and I&#39;m</p>
+<p begin="00:06:36.350" end="00:06:41.690" style="s2"><span style="s3">really</span> fascinated with humans and<span style="s4"> all</span> of</p>
+<p begin="00:06:39.140" end="00:06:44.140" style="s2">the above<span style="s3"> you</span> know and the beautiful</p>
+<p begin="00:06:41.690" end="00:06:47.150" style="s2"><span style="s4">part</span> of it was that he came back and</p>
+<p begin="00:06:44.140" end="00:06:48.500" style="s2">after<span style="s4"> his</span> first couple<span style="s3"> of</span> interviews<span style="s4"> and</span></p>
+<p begin="00:06:47.150" end="00:06:51.710" style="s2">he would like that actually not that bad</p>
+<p begin="00:06:48.500" end="00:06:54.530" style="s2">and I learned something<span style="s4"> really</span> important</p>
+<p begin="00:06:51.710" end="00:06:56.780" style="s2"><span style="s4">about myself or important to me that I</span></p>
+<p begin="00:06:54.530" end="00:06:58.940" style="s2">actually am interested<span style="s4"> in</span> people I&#39;m not</p>
+<p begin="00:06:56.780" end="00:07:00.770" style="s2">sick<span style="s3"> of</span> them all the time and if there</p>
+<p begin="00:06:58.940" end="00:07:03.770" style="s2">is<span style="s3"> a</span> purpose of what<span style="s4"> I&#39;m</span> asking them</p>
+<p begin="00:07:00.770" end="00:07:07.760" style="s2">questions about then it&#39;s super</p>
+<p begin="00:07:03.770" end="00:07:10.430" style="s2"><span style="s4">fascinating</span> that day this<span style="s3"> is</span> actually a</p>
+<p begin="00:07:07.760" end="00:07:13.400" style="s2">photo of one of the interviews that<span style="s4"> we</span></p>
+<p begin="00:07:10.430" end="00:07:15.020" style="s2">did conduct this is for a project that</p>
+<p begin="00:07:13.400" end="00:07:17.510" style="s2">we&#39;re working<span style="s3"> on</span> where there&#39;s like a</p>
+<p begin="00:07:15.020" end="00:07:19.430" style="s2">calendar application for<span style="s4"> this</span> client and</p>
+<p begin="00:07:17.510" end="00:07:22.550" style="s2">they were really<span style="s4"> curious</span> how people use</p>
+<p begin="00:07:19.430" end="00:07:25.730" style="s2">calendars and we approach somebody in</p>
+<p begin="00:07:22.550" end="00:07:28.820" style="s2">the cafe and the beautiful just sort<span style="s4"> of</span></p>
+<p begin="00:07:25.730" end="00:07:31.130" style="s2">universe showed up and said he was going</p>
+<p begin="00:07:28.820" end="00:07:34.100" style="s2"><span style="s3">to</span> sketch to us what his calendar looked</p>
+<p begin="00:07:31.130" end="00:07:37.460" style="s2">like and how he kept his calendar which</p>
+<p begin="00:07:34.100" end="00:07:39.680" style="s2">is currently<span style="s4"> on</span> a whiteboard<span style="s3"> talk</span> about</p>
+<p begin="00:07:37.460" end="00:07:41.930" style="s2">this beautiful story right where we&#39;re</p>
+<p begin="00:07:39.680" end="00:07:44.660" style="s2">assuming from the client<span style="s4"> side</span> that</p>
+<p begin="00:07:41.930" end="00:07:46.820" style="s2">everybody uses digital calendars and we</p>
+<p begin="00:07:44.660" end="00:07:49.340" style="s2">walk into this space and he tells us I</p>
+<p begin="00:07:46.820" end="00:07:52.340" style="s2">don&#39;t use that<span style="s4"> at</span> all I use a whiteboard</p>
+<p begin="00:07:49.340" end="00:07:53.990" style="s2">and this is what it<span style="s4"> looks</span> like and we</p>
+<p begin="00:07:52.340" end="00:07:56.360" style="s2">come back and we think about<span style="s4"> these</span></p>
+<p begin="00:07:53.990" end="00:07:58.520" style="s2">things and these ideas that we had</p>
+<p begin="00:07:56.360" end="00:08:00.730" style="s2">originally<span style="s4"> and</span> it&#39;s just totally thrown</p>
+<p begin="00:07:58.520" end="00:08:04.190" style="s2">out the window and it&#39;s a really<span style="s4"> good</span></p>
+<p begin="00:08:00.730" end="00:08:06.620" style="s2"><span style="s4">way</span> for us to not only connect with our</p>
+<p begin="00:08:04.190" end="00:08:08.930" style="s2"><span style="s3">community</span> but<span style="s4"> to</span> really understand</p>
+<p begin="00:08:06.620" end="00:08:12.620" style="s2">what&#39;s actually happening and when we</p>
+<p begin="00:08:08.930" end="00:08:15.350" style="s2">are just around so many texts people as</p>
+<p begin="00:08:12.620" end="00:08:18.260" style="s2">well we sort of use the same things in</p>
+<p begin="00:08:15.350" end="00:08:21.560" style="s2">the same way so learning more about</p>
+<p begin="00:08:18.260" end="00:08:23.150" style="s2"><span style="s4">people</span> in that general fashion is just</p>
+<p begin="00:08:21.560" end="00:08:26.900" style="s2">super important and<span style="s4"> it&#39;s</span><span style="s3"> actually</span> just</p>
+<p begin="00:08:23.150" end="00:08:29.000" style="s2">really fun so thanks to consider right</p>
+<p begin="00:08:26.900" end="00:08:31.430" style="s2">this is a really broad topic and there&#39;s</p>
+<p begin="00:08:29.000" end="00:08:33.770" style="s2">no way that<span style="s3"> I&#39;m</span> going<span style="s4"> to</span> actually walk</p>
+<p begin="00:08:31.430" end="00:08:36.110" style="s2">through from beginning to end whatever</p>
+<p begin="00:08:33.770" end="00:08:38.520" style="s2">you<span style="s4"> like human centered</span> concept<span style="s4"> can</span></p>
+<p begin="00:08:36.110" end="00:08:41.440" style="s2">contribute to<span style="s3"> what</span> you do</p>
+<p begin="00:08:38.520" end="00:08:43.540" style="s2">but I do have a few<span style="s3"> things</span> that I wanted</p>
+<p begin="00:08:41.440" end="00:08:45.670" style="s2"><span style="s3">to</span> go<span style="s3"> through</span> as maybe takeaways from</p>
+<p begin="00:08:43.540" end="00:08:47.350" style="s2">this especially when we&#39;re focusing on</p>
+<p begin="00:08:45.670" end="00:08:49.030" style="s2">the digital sphere and I have a few</p>
+<p begin="00:08:47.350" end="00:08:51.700" style="s2">examples<span style="s3"> at</span> the end and I will<span style="s3"> kind of</span></p>
+<p begin="00:08:49.030" end="00:08:54.870" style="s2">like try this if you but one of them is</p>
+<p begin="00:08:51.700" end="00:08:59.230" style="s2"><span style="s4">use paper right I</span><span style="s3"> know that we are all</span></p>
+<p begin="00:08:54.870" end="00:09:00.880" style="s2">focused in on our<span style="s4"> laptops</span> in the way</p>
+<p begin="00:08:59.230" end="00:09:03.400" style="s2">that<span style="s3"> we</span> can efficiently<span style="s4"> open</span><span style="s3"> source</span></p>
+<p begin="00:09:00.880" end="00:09:05.680" style="s2">things but actually when you&#39;re thinking</p>
+<p begin="00:09:03.400" end="00:09:09.220" style="s2">about your product paper is an evil by</p>
+<p begin="00:09:05.680" end="00:09:12.190" style="s2">the way you can recycle it too there&#39;s a</p>
+<p begin="00:09:09.220" end="00:09:14.980" style="s2">component<span style="s4"> that</span> happens where something</p>
+<p begin="00:09:12.190" end="00:09:16.900" style="s2">physical shows up in your hand and<span style="s4"> you</span></p>
+<p begin="00:09:14.980" end="00:09:20.830" style="s2">begin to understand it in a very very</p>
+<p begin="00:09:16.900" end="00:09:24.250" style="s2">different<span style="s3"> way</span> so if anything<span style="s3"> just</span> get</p>
+<p begin="00:09:20.830" end="00:09:25.990" style="s2">your hands on to a sketch right raise</p>
+<p begin="00:09:24.250" end="00:09:32.440" style="s2">your hand if you think you<span style="s4"> cannot</span> sketch</p>
+<p begin="00:09:25.990" end="00:09:34.870" style="s2">I promise you you can like I i I&#39;ve I</p>
+<p begin="00:09:32.440" end="00:09:36.670" style="s2">promise you just put your pen onto a</p>
+<p begin="00:09:34.870" end="00:09:40.510" style="s2">paper and<span style="s4"> it&#39;s</span> magical things will</p>
+<p begin="00:09:36.670" end="00:09:42.820" style="s2">happen<span style="s4"> and</span> be brave all right um there</p>
+<p begin="00:09:40.510" end="00:09:44.950" style="s2">is this question in research that I run</p>
+<p begin="00:09:42.820" end="00:09:47.560" style="s2">into all the time right we think<span style="s3"> about</span></p>
+<p begin="00:09:44.950" end="00:09:48.970" style="s2">research as in like I will just go<span style="s4"> ask</span> a</p>
+<p begin="00:09:47.560" end="00:09:51.040" style="s2">bunch of people<span style="s3"> a</span> bunch of questions and</p>
+<p begin="00:09:48.970" end="00:09:52.690" style="s2"><span style="s4">then</span> whatever<span style="s4"> we</span> ask them those will</p>
+<p begin="00:09:51.040" end="00:09:56.260" style="s2">drive our product needs and then we have</p>
+<p begin="00:09:52.690" end="00:09:59.140" style="s2">statistics um let&#39;s decipher that yeah</p>
+<p begin="00:09:56.260" end="00:10:02.170" style="s2">that&#39;s a great idea you know does</p>
+<p begin="00:09:59.140" end="00:10:04.570" style="s2"><span style="s4">anybody of you have like a side app idea</span></p>
+<p begin="00:10:02.170" end="00:10:07.810" style="s2">that you kind of talk to people about no</p>
+<p begin="00:10:04.570" end="00:10:09.460" style="s2">I do and I those things come into in</p>
+<p begin="00:10:07.810" end="00:10:12.010" style="s2">mind all the time and when you talk to</p>
+<p begin="00:10:09.460" end="00:10:13.660" style="s2">somebody which is usually your friend or</p>
+<p begin="00:10:12.010" end="00:10:15.280" style="s2">family member right they&#39;re<span style="s4"> gonna</span></p>
+<p begin="00:10:13.660" end="00:10:19.270" style="s2">they&#39;re going to say yeah that&#39;s<span style="s4"> great</span></p>
+<p begin="00:10:15.280" end="00:10:21.040" style="s2">you should<span style="s3"> build</span> it right um there&#39;s</p>
+<p begin="00:10:19.270" end="00:10:24.130" style="s2">this moment when you<span style="s4"> ask</span> research</p>
+<p begin="00:10:21.040" end="00:10:26.550" style="s2">questions and a lot of times you ask</p>
+<p begin="00:10:24.130" end="00:10:29.350" style="s2">them and freeze them in a way where</p>
+<p begin="00:10:26.550" end="00:10:31.740" style="s2">would you want something like this<span style="s4"> you</span></p>
+<p begin="00:10:29.350" end="00:10:35.730" style="s2">know tell<span style="s3"> me</span> tell me about<span style="s4"> what</span> you<span style="s4"> want</span></p>
+<p begin="00:10:31.740" end="00:10:39.010" style="s2">tell<span style="s3"> me</span><span style="s4"> about</span> you know this idea of want</p>
+<p begin="00:10:35.730" end="00:10:40.810" style="s2">versus tell me more right there&#39;s a</p>
+<p begin="00:10:39.010" end="00:10:45.370" style="s2">shift that should happen in that</p>
+<p begin="00:10:40.810" end="00:10:47.530" style="s2">phrasing and as you really asking to be</p>
+<p begin="00:10:45.370" end="00:10:49.450" style="s2">Smith questions digging in deeper<span style="s4"> and</span></p>
+<p begin="00:10:47.530" end="00:10:50.060" style="s2">always asking tell me a little bit more</p>
+<p begin="00:10:49.450" end="00:10:51.740" style="s2">about</p>
+<p begin="00:10:50.060" end="00:10:53.870" style="s2">up and taking a step back<span style="s4"> and</span></p>
+<p begin="00:10:51.740" end="00:10:55.340" style="s2">deciphering what people are saying or to</p>
+<p begin="00:10:53.870" end="00:10:58.580" style="s2"><span style="s4">find</span> that sweet spot of what<span style="s4"> actually</span></p>
+<p begin="00:10:55.340" end="00:11:00.350" style="s2">what people actually need is a really</p>
+<p begin="00:10:58.580" end="00:11:03.470" style="s2">beautiful part about<span style="s3"> human centered</span></p>
+<p begin="00:11:00.350" end="00:11:06.320" style="s2">design<span style="s4"> to</span> where you&#39;re observing mostly</p>
+<p begin="00:11:03.470" end="00:11:10.670" style="s2">and at the same time really digging into</p>
+<p begin="00:11:06.320" end="00:11:13.700" style="s2">those ideas um visceral reactions are</p>
+<p begin="00:11:10.670" end="00:11:16.370" style="s2">crucial and I know that designers<span style="s4"> get</span></p>
+<p begin="00:11:13.700" end="00:11:18.890" style="s2">sometimes like a bad rep about about oh</p>
+<p begin="00:11:16.370" end="00:11:21.620" style="s2">you just want<span style="s4"> to</span> make it<span style="s4"> pretty</span> you know</p>
+<p begin="00:11:18.890" end="00:11:24.380" style="s2">you<span style="s4"> just</span> want<span style="s3"> to</span> make<span style="s3"> it</span> look<span style="s3"> good</span> right</p>
+<p begin="00:11:21.620" end="00:11:26.180" style="s2">but<span style="s4"> actually</span> there&#39;s a lot of truth to</p>
+<p begin="00:11:24.380" end="00:11:30.200" style="s2">what happens when somebody looks at</p>
+<p begin="00:11:26.180" end="00:11:32.630" style="s2">something I don&#39;t know anybody who would</p>
+<p begin="00:11:30.200" end="00:11:34.490" style="s2"><span style="s3">want</span> to eat like a super messy plate</p>
+<p begin="00:11:32.630" end="00:11:36.860" style="s2">that&#39;s<span style="s4"> something</span> that people are</p>
+<p begin="00:11:34.490" end="00:11:39.230" style="s2">interested<span style="s3"> in</span> you know when you go to a</p>
+<p begin="00:11:36.860" end="00:11:41.990" style="s2"><span style="s3">restaurant</span> and you expect good service</p>
+<p begin="00:11:39.230" end="00:11:44.240" style="s2">and you also expect the place to be to</p>
+<p begin="00:11:41.990" end="00:11:48.320" style="s2">look good and should be appetizing right</p>
+<p begin="00:11:44.240" end="00:11:50.420" style="s2"><span style="s3">it&#39;s</span> sort<span style="s4"> of</span> the same idea um this</p>
+<p begin="00:11:48.320" end="00:11:52.250" style="s2">example by<span style="s3"> Phillip</span> stark you guys and</p>
+<p begin="00:11:50.420" end="00:11:54.350" style="s2"><span style="s4">you</span> has anybody seen this before yeah</p>
+<p begin="00:11:52.250" end="00:11:57.230" style="s2">there&#39;s something<span style="s3"> about</span> this that&#39;s like</p>
+<p begin="00:11:54.350" end="00:11:59.780" style="s2">beautiful but so creepy right and</p>
+<p begin="00:11:57.230" end="00:12:02.290" style="s2">there&#39;s a<span style="s4"> moment</span> to consider<span style="s4"> where</span> you</p>
+<p begin="00:11:59.780" end="00:12:05.900" style="s2">need to put effort into putting it into</p>
+<p begin="00:12:02.290" end="00:12:08.480" style="s2">making it look and feel right<span style="s3"> right</span> a</p>
+<p begin="00:12:05.900" end="00:12:10.040" style="s2">lot of this fuel component gets lost in</p>
+<p begin="00:12:08.480" end="00:12:12.020" style="s2">the mix and this is where a lot of like</p>
+<p begin="00:12:10.040" end="00:12:13.880" style="s2">art direction can come in especially</p>
+<p begin="00:12:12.020" end="00:12:15.290" style="s2">from our advertising folks that have</p>
+<p begin="00:12:13.880" end="00:12:19.040" style="s2">been<span style="s4"> involved</span> in this for a very long</p>
+<p begin="00:12:15.290" end="00:12:20.870" style="s2">time but this<span style="s3"> is</span> an extremely crucial to</p>
+<p begin="00:12:19.040" end="00:12:22.670" style="s2">showing somebody which is<span style="s3"> built</span> right</p>
+<p begin="00:12:20.870" end="00:12:24.290" style="s2"><span style="s4">like</span> when you build<span style="s3"> something</span> and you</p>
+<p begin="00:12:22.670" end="00:12:26.120" style="s2">show it to<span style="s4"> them</span> and you&#39;re like it&#39;s</p>
+<p begin="00:12:24.290" end="00:12:28.250" style="s2">pretty<span style="s4"> cool</span> huh you know like even if</p>
+<p begin="00:12:26.120" end="00:12:29.990" style="s2">you have done all of the the<span style="s4"> right</span></p>
+<p begin="00:12:28.250" end="00:12:32.380" style="s2">things and found the right thing to</p>
+<p begin="00:12:29.990" end="00:12:35.540" style="s2">build if they are<span style="s3"> not</span><span style="s4"> initially</span></p>
+<p begin="00:12:32.380" end="00:12:38.210" style="s2">accepting of it they&#39;re not going to</p>
+<p begin="00:12:35.540" end="00:12:40.430" style="s2">look beyond that<span style="s4"> okay I actually have</span></p>
+<p begin="00:12:38.210" end="00:12:42.860" style="s2">this really hilarious story about my</p>
+<p begin="00:12:40.430" end="00:12:44.210" style="s2">sister<span style="s4"> who</span> had no idea what nuber was</p>
+<p begin="00:12:42.860" end="00:12:45.530" style="s2">she was in high school and of<span style="s3"> course</span></p>
+<p begin="00:12:44.210" end="00:12:48.320" style="s2">it&#39;s<span style="s3"> not</span> really something that she</p>
+<p begin="00:12:45.530" end="00:12:52.280" style="s2">should know and I once I figured out</p>
+<p begin="00:12:48.320" end="00:12:54.260" style="s2"><span style="s3">that</span> she<span style="s4"> didn&#39;t</span> know whatever was<span style="s4"> a</span> few</p>
+<p begin="00:12:52.280" end="00:12:55.970" style="s2">years ago I immediately started to</p>
+<p begin="00:12:54.260" end="00:12:58.280" style="s2">record her because I wanted<span style="s4"> to</span> know<span style="s4"> what</span></p>
+<p begin="00:12:55.970" end="00:13:00.350" style="s2">she had to say so I showed her the</p>
+<p begin="00:12:58.280" end="00:13:02.420" style="s2">website and<span style="s4"> I</span> told her<span style="s3"> about</span><span style="s4"> the</span> concept</p>
+<p begin="00:13:00.350" end="00:13:03.010" style="s2">and she was like initially<span style="s3"> she</span> was like</p>
+<p begin="00:13:02.420" end="00:13:05.560" style="s2">what</p>
+<p begin="00:13:03.010" end="00:13:09.370" style="s2">have like<span style="s4"> people</span> just pick you up that&#39;s</p>
+<p begin="00:13:05.560" end="00:13:12.400" style="s2">weird you know<span style="s4"> and</span> once she saw what was</p>
+<p begin="00:13:09.370" end="00:13:16.870" style="s2">going on she like well it could<span style="s4"> look</span></p>
+<p begin="00:13:12.400" end="00:13:19.030" style="s2">legit I would do<span style="s4"> it</span> right like in a few</p>
+<p begin="00:13:16.870" end="00:13:21.520" style="s2">seconds she just completely turn that</p>
+<p begin="00:13:19.030" end="00:13:23.470" style="s2">around and there&#39;s<span style="s4"> something</span> really</p>
+<p begin="00:13:21.520" end="00:13:26.290" style="s2">beautiful about that though and a lot of</p>
+<p begin="00:13:23.470" end="00:13:30.940" style="s2">effort that<span style="s4"> you</span> can say has value right</p>
+<p begin="00:13:26.290" end="00:13:33.640" style="s2">um<span style="s4"> I</span> say use your environment a lot of a</p>
+<p begin="00:13:30.940" end="00:13:38.650" style="s2"><span style="s4">lot of us</span> look outside and beyond like</p>
+<p begin="00:13:33.640" end="00:13:42.730" style="s2">what we can do globally you know even</p>
+<p begin="00:13:38.650" end="00:13:45.640" style="s2">nationally even like let&#39;s take it to</p>
+<p begin="00:13:42.730" end="00:13:48.340" style="s2">like the whole city of Chicago right it</p>
+<p begin="00:13:45.640" end="00:13:50.470" style="s2">can get smaller and smaller but if you</p>
+<p begin="00:13:48.340" end="00:13:52.540" style="s2">find what&#39;s being<span style="s3"> used</span> around you and</p>
+<p begin="00:13:50.470" end="00:13:55.480" style="s2">see what you<span style="s3"> can</span> make from<span style="s4"> that</span> that&#39;s</p>
+<p begin="00:13:52.540" end="00:13:57.340" style="s2">also a really good way to figure out</p>
+<p begin="00:13:55.480" end="00:13:59.530" style="s2">that you&#39;re on the right track if you&#39;re</p>
+<p begin="00:13:57.340" end="00:14:02.200" style="s2">reaching too far to find data sources</p>
+<p begin="00:13:59.530" end="00:14:04.660" style="s2">that are like not local at all for</p>
+<p begin="00:14:02.200" end="00:14:08.080" style="s2">instance or if you&#39;re finding material</p>
+<p begin="00:14:04.660" end="00:14:10.030" style="s2">that&#39;s just you know<span style="s4"> not</span> helpful in the</p>
+<p begin="00:14:08.080" end="00:14:12.220" style="s2">region that you live in it&#39;s a very</p>
+<p begin="00:14:10.030" end="00:14:14.230" style="s2">clear indicator that it&#39;s not going to</p>
+<p begin="00:14:12.220" end="00:14:16.780" style="s2">be accepted it accepted from the people</p>
+<p begin="00:14:14.230" end="00:14:18.610" style="s2"><span style="s3">around</span> you right there&#39;s like<span style="s4"> an</span></p>
+<p begin="00:14:16.780" end="00:14:22.180" style="s2">environmental piece to this that&#39;s</p>
+<p begin="00:14:18.610" end="00:14:25.000" style="s2">really crucial<span style="s4"> um</span> consider the culture</p>
+<p begin="00:14:22.180" end="00:14:27.720" style="s2">and manners this can<span style="s4"> get</span> really really</p>
+<p begin="00:14:25.000" end="00:14:30.460" style="s2">sort<span style="s4"> of</span> settled in that way<span style="s4"> but</span> my</p>
+<p begin="00:14:27.720" end="00:14:33.040" style="s2">interests<span style="s4"> and</span> interaction designers in</p>
+<p begin="00:14:30.460" end="00:14:36.670" style="s2">the room interaction should be driven by</p>
+<p begin="00:14:33.040" end="00:14:38.890" style="s2">social rules right a lot<span style="s3"> of</span> us can get</p>
+<p begin="00:14:36.670" end="00:14:40.660" style="s2">into like oh it would be so cool if it&#39;s</p>
+<p begin="00:14:38.890" end="00:14:43.810" style="s2">like spinned around and then it did this</p>
+<p begin="00:14:40.660" end="00:14:46.420" style="s2">but<span style="s4"> are</span> there additional ways that we&#39;re</p>
+<p begin="00:14:43.810" end="00:14:48.990" style="s2">creating experiences to respect the</p>
+<p begin="00:14:46.420" end="00:14:53.080" style="s2">boundaries that people have and also</p>
+<p begin="00:14:48.990" end="00:14:56.200" style="s2">driving in the culture of humans around</p>
+<p begin="00:14:53.080" end="00:14:59.290" style="s2">us one example of this<span style="s3"> that</span> actually we</p>
+<p begin="00:14:56.200" end="00:15:02.200" style="s2"><span style="s3">argue ated today and for our client was</span></p>
+<p begin="00:14:59.290" end="00:15:06.580" style="s2">how do we get an apt notification and</p>
+<p begin="00:15:02.200" end="00:15:08.440" style="s2">email to<span style="s4"> arise appropriately you know</span></p>
+<p begin="00:15:06.580" end="00:15:10.860" style="s2">thinking about<span style="s4"> what</span> happens when you</p>
+<p begin="00:15:08.440" end="00:15:14.270" style="s2">introduce yourself to someone you know</p>
+<p begin="00:15:10.860" end="00:15:15.740" style="s2">if I introduce myself to you and</p>
+<p begin="00:15:14.270" end="00:15:17.570" style="s2">and ask<span style="s4"> for</span><span style="s3"> your</span> email and then</p>
+<p begin="00:15:15.740" end="00:15:20.030" style="s2">immediately<span style="s4"> sent</span> you an email while I</p>
+<p begin="00:15:17.570" end="00:15:22.820" style="s2">was talking<span style="s3"> to</span> you that&#39;s pretty rude</p>
+<p begin="00:15:20.030" end="00:15:26.570" style="s2">right and<span style="s4"> it&#39;s</span> thinking<span style="s4"> about</span> this idea</p>
+<p begin="00:15:22.820" end="00:15:28.910" style="s2">that hey if I met with you I engage<span style="s3"> with</span></p>
+<p begin="00:15:26.570" end="00:15:31.100" style="s2">you told you about what I what I am and</p>
+<p begin="00:15:28.910" end="00:15:33.980" style="s2">what<span style="s3"> I&#39;m</span> all about and ask you about the</p>
+<p begin="00:15:31.100" end="00:15:35.930" style="s2">same a lot of our client engagement</p>
+<p begin="00:15:33.980" end="00:15:38.390" style="s2">people in here we all know that it takes</p>
+<p begin="00:15:35.930" end="00:15:41.060" style="s2">about<span style="s4"> a</span> day or<span style="s4"> even</span> two days to send</p>
+<p begin="00:15:38.390" end="00:15:43.730" style="s2"><span style="s3">that</span><span style="s4"> email</span> to reiterate the fact that<span style="s3"> so</span></p>
+<p begin="00:15:41.060" end="00:15:46.640" style="s2"><span style="s4">it</span> was nice<span style="s4"> to</span> meet you right so let&#39;s</p>
+<p begin="00:15:43.730" end="00:15:48.950" style="s2">like a very human mannered thing that we</p>
+<p begin="00:15:46.640" end="00:15:51.350" style="s2">can even translate into do you want to</p>
+<p begin="00:15:48.950" end="00:15:53.180" style="s2">push notification you know go back to</p>
+<p begin="00:15:51.350" end="00:15:56.810" style="s2">settings there&#39;s like these small ways</p>
+<p begin="00:15:53.180" end="00:15:58.460" style="s2">that we can do that um<span style="s3"> how</span> purpose I</p>
+<p begin="00:15:56.810" end="00:16:00.770" style="s2">don&#39;t think<span style="s4"> I</span> can I don&#39;t think I need</p>
+<p begin="00:15:58.460" end="00:16:02.180" style="s2"><span style="s3">to</span> reiterate this in this room where it</p>
+<p begin="00:16:00.770" end="00:16:04.430" style="s2">seems like everyone here is<span style="s3"> very</span></p>
+<p begin="00:16:02.180" end="00:16:06.740" style="s2">passionate<span style="s3"> about</span> our city and just Civic</p>
+<p begin="00:16:04.430" end="00:16:08.270" style="s2">tech in general but you know consider</p>
+<p begin="00:16:06.740" end="00:16:12.620" style="s2">why you&#39;re building what you&#39;re building</p>
+<p begin="00:16:08.270" end="00:16:14.600" style="s2">you know and and this<span style="s4"> part</span> is actually a</p>
+<p begin="00:16:12.620" end="00:16:18.850" style="s2">huge piece of<span style="s4"> the</span> human centered design</p>
+<p begin="00:16:14.600" end="00:16:22.190" style="s2">process where<span style="s4"> we</span> bring people<span style="s3"> along</span> and</p>
+<p begin="00:16:18.850" end="00:16:25.430" style="s2">this might seem really simple but this</p>
+<p begin="00:16:22.190" end="00:16:27.370" style="s2">is actually the hardest part towards the</p>
+<p begin="00:16:25.430" end="00:16:29.810" style="s2">methodology of human centered design</p>
+<p begin="00:16:27.370" end="00:16:32.270" style="s2">when you think about your product<span style="s4"> and</span></p>
+<p begin="00:16:29.810" end="00:16:35.140" style="s2">you think about<span style="s4"> all</span> the people<span style="s4"> that</span></p>
+<p begin="00:16:32.270" end="00:16:38.210" style="s2">could<span style="s3"> be</span> affected by this product idea</p>
+<p begin="00:16:35.140" end="00:16:41.270" style="s2">bringing them along towards your product</p>
+<p begin="00:16:38.210" end="00:16:43.880" style="s2">and your<span style="s4"> vision</span> for it you&#39;re already</p>
+<p begin="00:16:41.270" end="00:16:46.220" style="s2"><span style="s4">like</span> seventy percent there for them to</p>
+<p begin="00:16:43.880" end="00:16:48.620" style="s2">accept that piece of<span style="s4"> it</span> you know<span style="s4"> and</span></p>
+<p begin="00:16:46.220" end="00:16:51.050" style="s2">getting their input and social buying</p>
+<p begin="00:16:48.620" end="00:16:54.710" style="s2">right it&#39;s going to<span style="s4"> be</span> really key<span style="s3"> for</span></p>
+<p begin="00:16:51.050" end="00:16:58.040" style="s2">the success of your product I wanted<span style="s4"> to</span></p>
+<p begin="00:16:54.710" end="00:17:02.420" style="s2"><span style="s3">bring</span> this to the screen does anybody</p>
+<p begin="00:16:58.040" end="00:17:05.450" style="s2">has anybody seen this before no it&#39;s</p>
+<p begin="00:17:02.420" end="00:17:07.610" style="s2"><span style="s4">quite</span> old and<span style="s3"> this</span> is about 10 years<span style="s4"> old</span></p>
+<p begin="00:17:05.450" end="00:17:11.839" style="s2">actually I can&#39;t believe it settled but</p>
+<p begin="00:17:07.610" end="00:17:14.810" style="s2">this<span style="s4"> is</span> a an art piece actually that was</p>
+<p begin="00:17:11.839" end="00:17:18.290" style="s2">then acquired by moma it&#39;s a<span style="s3"> video</span> but</p>
+<p begin="00:17:14.810" end="00:17:19.940" style="s2">it&#39;s a two professors and Anthony done</p>
+<p begin="00:17:18.290" end="00:17:22.130" style="s2">and Fiona rainy created this thing</p>
+<p begin="00:17:19.940" end="00:17:24.170" style="s2">called a technological dream series</p>
+<p begin="00:17:22.130" end="00:17:25.370" style="s2">the one I&#39;m just going to walk you</p>
+<p begin="00:17:24.170" end="00:17:29.270" style="s2">through this because<span style="s4"> this is</span><span style="s3"> really</span></p>
+<p begin="00:17:25.370" end="00:17:30.610" style="s2">important and why at<span style="s3"> least</span> for me I have</p>
+<p begin="00:17:29.270" end="00:17:32.930" style="s2">this passion around bringing</p>
+<p begin="00:17:30.610" end="00:17:34.760" style="s2"><span style="s3">human-centered designs towards towards</span></p>
+<p begin="00:17:32.930" end="00:17:38.390" style="s2">the human Center design methodology</p>
+<p begin="00:17:34.760" end="00:17:41.750" style="s2">towards tech because this is like a</p>
+<p begin="00:17:38.390" end="00:17:43.790" style="s2">dystopian future right and I&#39;m going to</p>
+<p begin="00:17:41.750" end="00:17:47.360" style="s2">just draw your attention toward these</p>
+<p begin="00:17:43.790" end="00:17:50.990" style="s2">four objects right here the<span style="s4"> concept</span> is</p>
+<p begin="00:17:47.360" end="00:17:54.700" style="s2"><span style="s4">that</span> this yep this red ring right it&#39;s</p>
+<p begin="00:17:50.990" end="00:17:57.860" style="s2">called robot number one and based off of</p>
+<p begin="00:17:54.700" end="00:17:59.960" style="s2">just how technology has evolved without</p>
+<p begin="00:17:57.860" end="00:18:02.450" style="s2">us contributing towards protecting it</p>
+<p begin="00:17:59.960" end="00:18:04.910" style="s2">it&#39;s very independent it just sort<span style="s4"> of</span></p>
+<p begin="00:18:02.450" end="00:18:07.010" style="s2">lives on its own you<span style="s3"> can</span><span style="s4"> hang</span> out<span style="s3"> with</span></p>
+<p begin="00:18:04.910" end="00:18:09.470" style="s2">it it&#39;s almost<span style="s4"> like</span> a collection of all</p>
+<p begin="00:18:07.010" end="00:18:12.620" style="s2">of<span style="s4"> your Dana from the past like you know</span></p>
+<p begin="00:18:09.470" end="00:18:16.370" style="s2">however many years you hang out with it</p>
+<p begin="00:18:12.620" end="00:18:18.950" style="s2">but it does it something robot number</p>
+<p begin="00:18:16.370" end="00:18:21.830" style="s2">two which is<span style="s4"> the</span> image over on the very</p>
+<p begin="00:18:18.950" end="00:18:26.390" style="s2">right she&#39;s looking into its eyes and</p>
+<p begin="00:18:21.830" end="00:18:30.520" style="s2">it&#39;s a very<span style="s4"> very</span> nervous robot and what</p>
+<p begin="00:18:26.390" end="00:18:34.070" style="s2">we see from that actually is that it&#39;s<span style="s3"> a</span></p>
+<p begin="00:18:30.520" end="00:18:36.620" style="s2">it&#39;s a security<span style="s4"> measure</span> how many of<span style="s4"> us</span></p>
+<p begin="00:18:34.070" end="00:18:38.750" style="s2"><span style="s4">learned</span> to talk about security a lot of</p>
+<p begin="00:18:36.620" end="00:18:42.020" style="s2">sure and Civic tech is like a huge right</p>
+<p begin="00:18:38.750" end="00:18:45.410" style="s2">um thinking about our data that&#39;s out</p>
+<p begin="00:18:42.020" end="00:18:47.870" style="s2">there right this robot here protects all</p>
+<p begin="00:18:45.410" end="00:18:49.370" style="s2">of our data and because it&#39;s so nervous</p>
+<p begin="00:18:47.870" end="00:18:51.680" style="s2">about all of the things that<span style="s4"> could</span></p>
+<p begin="00:18:49.370" end="00:18:53.330" style="s2">happen with your data it requires you to</p>
+<p begin="00:18:51.680" end="00:18:55.040" style="s2">look into its eyes for five minutes</p>
+<p begin="00:18:53.330" end="00:18:58.010" style="s2"><span style="s3">before</span> you even give you<span style="s4"> access</span> to</p>
+<p begin="00:18:55.040" end="00:19:01.570" style="s2">anything you own right and you&#39;re like</p>
+<p begin="00:18:58.010" end="00:19:04.130" style="s2">okay how<span style="s3"> is</span> this even being relevant but</p>
+<p begin="00:19:01.570" end="00:19:06.710" style="s2">just this week<span style="s4"> just</span> to kind of like</p>
+<p begin="00:19:04.130" end="00:19:08.450" style="s2">speed this up the middle ones where</p>
+<p begin="00:19:06.710" end="00:19:10.910" style="s2">she&#39;s looked where she&#39;s hearing down at</p>
+<p begin="00:19:08.450" end="00:19:14.570" style="s2">it it&#39;s very needy and the one with the</p>
+<p begin="00:19:10.910" end="00:19:17.660" style="s2"><span style="s3">speaker phone is extremely sort of like</span></p>
+<p begin="00:19:14.570" end="00:19:20.900" style="s2">nervous as well and kind of like like</p>
+<p begin="00:19:17.660" end="00:19:23.090" style="s2">disrupt any sort of interaction that you</p>
+<p begin="00:19:20.900" end="00:19:25.130" style="s2">come<span style="s4"> into</span> it and what this<span style="s4"> is</span> actually</p>
+<p begin="00:19:23.090" end="00:19:27.380" style="s2">saying though is that that if we don&#39;t</p>
+<p begin="00:19:25.130" end="00:19:30.020" style="s2">protect the products that we<span style="s4"> make</span> right</p>
+<p begin="00:19:27.380" end="00:19:32.960" style="s2"><span style="s4">now</span> it could evolve into something</p>
+<p begin="00:19:30.020" end="00:19:36.409" style="s2">dangerous like this you know and it&#39;s</p>
+<p begin="00:19:32.960" end="00:19:40.820" style="s2">don&#39;t begin to include our social habits</p>
+<p begin="00:19:36.409" end="00:19:45.980" style="s2">are social boundaries within technology</p>
+<p begin="00:19:40.820" end="00:19:49.190" style="s2">and this<span style="s4"> could</span> happen I wanted<span style="s4"> to</span> kind</p>
+<p begin="00:19:45.980" end="00:19:52.669" style="s2">of close with this image<span style="s4"> I</span> know it&#39;s not</p>
+<p begin="00:19:49.190" end="00:19:55.130" style="s2">a technology-focused image but it</p>
+<p begin="00:19:52.669" end="00:19:58.520" style="s2">utilized the human centered design</p>
+<p begin="00:19:55.130" end="00:20:00.380" style="s2">process from<span style="s4"> the</span> full spectrum there</p>
+<p begin="00:19:58.520" end="00:20:05.210" style="s2">were some students who went to Nepal</p>
+<p begin="00:20:00.380" end="00:20:07.580" style="s2">from the d.school and they<span style="s4"> decided</span> to</p>
+<p begin="00:20:05.210" end="00:20:10.520" style="s2">not just go in there<span style="s4"> even</span><span style="s3"> though</span> they</p>
+<p begin="00:20:07.580" end="00:20:12.529" style="s2">heard about<span style="s4"> a</span> few kind<span style="s4"> of</span> things that</p>
+<p begin="00:20:10.520" end="00:20:15.549" style="s2">they could solve for within<span style="s3"> the health</span></p>
+<p begin="00:20:12.529" end="00:20:18.409" style="s2">community there they went and they</p>
+<p begin="00:20:15.549" end="00:20:20.390" style="s2">intervened and they observed and they</p>
+<p begin="00:20:18.409" end="00:20:23.990" style="s2">investigated in the unisys entire</p>
+<p begin="00:20:20.390" end="00:20:26.950" style="s2">methodology and realize<span style="s3"> that</span> the biggest</p>
+<p begin="00:20:23.990" end="00:20:29.750" style="s2"><span style="s4">problem</span> that they were seeing and</p>
+<p begin="00:20:26.950" end="00:20:32.720" style="s2">grappling this was the death of infant</p>
+<p begin="00:20:29.750" end="00:20:35.870" style="s2">and<span style="s3"> the</span> fact that incubators that are</p>
+<p begin="00:20:32.720" end="00:20:37.640" style="s2">mostly<span style="s3"> need</span> in and sold in the US<span style="s4"> we&#39;re</span></p>
+<p begin="00:20:35.870" end="00:20:39.080" style="s2">hundreds and thousands<span style="s4"> of</span> hundreds of</p>
+<p begin="00:20:37.640" end="00:20:41.390" style="s2">thousands<span style="s3"> of dollars and they couldn&#39;t</span></p>
+<p begin="00:20:39.080" end="00:20:43.820" style="s2"><span style="s3">get</span> their hands on them and the<span style="s3"> more</span></p>
+<p begin="00:20:41.390" end="00:20:45.799" style="s2">they may searched into why these infants</p>
+<p begin="00:20:43.820" end="00:20:48.350" style="s2">were passing away it was the<span style="s4"> fact</span> that</p>
+<p begin="00:20:45.799" end="00:20:50.000" style="s2">they were<span style="s3"> just</span> too<span style="s4"> cold</span> right the more</p>
+<p begin="00:20:48.350" end="00:20:52.669" style="s2">and more that they begin to hear all the</p>
+<p begin="00:20:50.000" end="00:20:55.640" style="s2"><span style="s3">mothers and nurses and doctors talk</span></p>
+<p begin="00:20:52.669" end="00:20:57.890" style="s2">about it they realize<span style="s3"> that</span> these babies</p>
+<p begin="00:20:55.640" end="00:20:59.990" style="s2">are just too cold<span style="s4"> and</span> so this little</p>
+<p begin="00:20:57.890" end="00:21:02.000" style="s2">efforts of creating a small prototype</p>
+<p begin="00:20:59.990" end="00:21:04.760" style="s2">and this is kind<span style="s4"> of</span> like version<span style="s3"> three</span></p>
+<p begin="00:21:02.000" end="00:21:09.140" style="s2">already<span style="s4"> but</span> creating a small little</p>
+<p begin="00:21:04.760" end="00:21:11.679" style="s2">sleeping bag for the<span style="s4"> babies</span> that were</p>
+<p begin="00:21:09.140" end="00:21:15.140" style="s2">also<span style="s4"> sourced</span> from materials around them</p>
+<p begin="00:21:11.679" end="00:21:17.360" style="s2">this is now saving like hundreds of</p>
+<p begin="00:21:15.140" end="00:21:20.330" style="s2">babies every day just<span style="s4"> by</span> keeping them</p>
+<p begin="00:21:17.360" end="00:21:23.409" style="s2">warm and it&#39;s like this idea of coming</p>
+<p begin="00:21:20.330" end="00:21:26.330" style="s2">into a situation as well to think about</p>
+<p begin="00:21:23.409" end="00:21:32.799" style="s2">what things can I help with how can I</p>
+<p begin="00:21:26.330" end="00:21:32.799" style="s2">emphasize so there&#39;s my easy</p>
+<p begin="00:21:40.100" end="00:21:47.270" style="s2">so what we&#39;ll just you<span style="s4"> and</span><span style="s3"> we&#39;ll</span><span style="s4"> just</span> QA</p>
+<p begin="00:21:44.630" end="00:21:49.440" style="s2">and we&#39;ll run this microphone around so</p>
+<p begin="00:21:47.270" end="00:21:51.390" style="s2">go ahead<span style="s4"> and</span> put your<span style="s4"> hands</span> up you can</p>
+<p begin="00:21:49.440" end="00:21:53.220" style="s2">do you want to you can run take whoever</p>
+<p begin="00:21:51.390" end="00:21:54.899" style="s2">you want to answer the questions and</p>
+<p begin="00:21:53.220" end="00:22:04.860" style="s2">then Christopher you can run around Mike</p>
+<p begin="00:21:54.899" end="00:22:07.770" style="s2">so here<span style="s4"> we</span> go hi so a quick question for</p>
+<p begin="00:22:04.860" end="00:22:09.059" style="s2">you<span style="s4"> how</span><span style="s3"> do</span> you I think human centered</p>
+<p begin="00:22:07.770" end="00:22:11.250" style="s2">design is a really cool idea for</p>
+<p begin="00:22:09.059" end="00:22:13.470" style="s2">building new products but<span style="s4"> what</span> do<span style="s4"> you</span> do</p>
+<p begin="00:22:11.250" end="00:22:15.440" style="s2">if you feel like you have kind<span style="s3"> of</span> a half</p>
+<p begin="00:22:13.470" end="00:22:18.179" style="s2">baked product or a half-baked idea and</p>
+<p begin="00:22:15.440" end="00:22:19.679" style="s2">you want to see and<span style="s3"> you</span> want to shave it</p>
+<p begin="00:22:18.179" end="00:22:21.870" style="s2">towards human centered design so how do</p>
+<p begin="00:22:19.679" end="00:22:24.899" style="s2">you apply<span style="s4"> it</span> to something that&#39;s kind of</p>
+<p begin="00:22:21.870" end="00:22:26.940" style="s2">been partially built sure and we run</p>
+<p begin="00:22:24.899" end="00:22:28.830" style="s2">into that situation a lot actually at</p>
+<p begin="00:22:26.940" end="00:22:31.740" style="s2">does mine where people will bring their</p>
+<p begin="00:22:28.830" end="00:22:34.980" style="s2">version 1.0 product and try to figure</p>
+<p begin="00:22:31.740" end="00:22:36.990" style="s2"><span style="s4">out</span> how they<span style="s3"> can</span> improve it definitely a</p>
+<p begin="00:22:34.980" end="00:22:40.500" style="s2">heuristic analysis of trying to figure</p>
+<p begin="00:22:36.990" end="00:22:42.480" style="s2">out the<span style="s4"> 10</span> points in which a product can</p>
+<p begin="00:22:40.500" end="00:22:44.309" style="s2">be determined to be<span style="s3"> closed</span> closely</p>
+<p begin="00:22:42.480" end="00:22:45.840" style="s2"><span style="s3">related to England</span><span style="s4"> is ready to</span> deliver</p>
+<p begin="00:22:44.309" end="00:22:49.789" style="s2">they know that you&#39;re sick analysis</p>
+<p begin="00:22:45.840" end="00:22:54.049" style="s2">process and there are ten ten principles</p>
+<p begin="00:22:49.789" end="00:22:57.450" style="s2">that you can look for<span style="s4"> based</span> on<span style="s3"> Nielsen&#39;s</span></p>
+<p begin="00:22:54.049" end="00:22:59.880" style="s2">principles and there are ways to sort of</p>
+<p begin="00:22:57.450" end="00:23:02.990" style="s2">determine and measure<span style="s3"> how</span> closely you</p>
+<p begin="00:22:59.880" end="00:23:05.250" style="s2">are relating your product to<span style="s4"> people</span></p>
+<p begin="00:23:02.990" end="00:23:08.850" style="s2">definitely that that&#39;s a very<span style="s3"> scientific</span></p>
+<p begin="00:23:05.250" end="00:23:10.559" style="s2">research approach about it putting it in</p>
+<p begin="00:23:08.850" end="00:23:14.039" style="s2">front<span style="s4"> of</span> humans and testing in a</p>
+<p begin="00:23:10.559" end="00:23:15.840" style="s2">usability manner oh absolutely that but</p>
+<p begin="00:23:14.039" end="00:23:17.700" style="s2">you know<span style="s4"> I</span> think<span style="s4"> that</span> that&#39;s really</p>
+<p begin="00:23:15.840" end="00:23:23.370" style="s2">really important there&#39;s so many things</p>
+<p begin="00:23:17.700" end="00:23:25.830" style="s2">that even<span style="s4"> in</span> a small idea all right that</p>
+<p begin="00:23:23.370" end="00:23:28.169" style="s2">we can assume and just seeing<span style="s4"> people</span></p>
+<p begin="00:23:25.830" end="00:23:29.669" style="s2">operate in that<span style="s4"> space</span> just without<span style="s4"> even</span></p>
+<p begin="00:23:28.169" end="00:23:32.100" style="s2">telling them what they should be looking</p>
+<p begin="00:23:29.669" end="00:23:38.909" style="s2"><span style="s4">for</span> is a really great learning</p>
+<p begin="00:23:32.100" end="00:23:40.799" style="s2">experience and<span style="s3"> um</span> what else I think<span style="s4"> the</span></p>
+<p begin="00:23:38.909" end="00:23:42.299" style="s2"><span style="s4">Fred</span> I would definitely start with that</p>
+<p begin="00:23:40.799" end="00:23:44.640" style="s2">the heuristic analysis<span style="s3"> is</span> actually</p>
+<p begin="00:23:42.299" end="00:23:48.990" style="s2">really powerful<span style="s3"> thing</span></p>
+<p begin="00:23:44.640" end="00:23:51.120" style="s2">if you if you know about<span style="s4"> it</span> we can I can</p>
+<p begin="00:23:48.990" end="00:23:53.640" style="s2">pull up<span style="s4"> the</span><span style="s3"> 10</span><span style="s4"> principles</span> but we</p>
+<p begin="00:23:51.120" end="00:23:56.640" style="s2">actually did a heuristic analysis for a</p>
+<p begin="00:23:53.640" end="00:23:58.830" style="s2">client recently and determined all of</p>
+<p begin="00:23:56.640" end="00:24:01.710" style="s2">the different ways why their products</p>
+<p begin="00:23:58.830" end="00:24:04.650" style="s2">was honestly wrong and<span style="s3"> just</span> like just</p>
+<p begin="00:24:01.710" end="00:24:08.430" style="s2"><span style="s4">built</span> in correctly not necessarily that</p>
+<p begin="00:24:04.650" end="00:24:15.840" style="s2">like the idea I mean the idea in some</p>
+<p begin="00:24:08.430" end="00:24:17.550" style="s2">ways was still wrong but but it&#39;s</p>
+<p begin="00:24:15.840" end="00:24:20.340" style="s2">actually a really good sort of<span style="s4"> like</span></p>
+<p begin="00:24:17.550" end="00:24:23.430" style="s2">doctors note like are you like you have</p>
+<p begin="00:24:20.340" end="00:24:25.470" style="s2">a headache you have the<span style="s3"> sinful</span> you know</p>
+<p begin="00:24:23.430" end="00:24:27.000" style="s2">like those kinds of principles that<span style="s4"> you</span></p>
+<p begin="00:24:25.470" end="00:24:32.270" style="s2">can measure your product<span style="s4"> and</span> I would</p>
+<p begin="00:24:27.000" end="00:24:32.270" style="s2">encourage you<span style="s3"> to</span> do<span style="s3"> that</span> other questions</p>
+<p begin="00:24:39.020" end="00:24:49.440" style="s2">how do<span style="s3"> you</span> know when you&#39;ve interacted</p>
+<p begin="00:24:41.310" end="00:24:53.040" style="s2">with enough humans and for beep boop and</p>
+<p begin="00:24:49.440" end="00:24:55.080" style="s2">and for what projects and problems do</p>
+<p begin="00:24:53.040" end="00:24:58.020" style="s2">you need<span style="s4"> to talk to more people and for</span></p>
+<p begin="00:24:55.080" end="00:25:00.810" style="s2">what do you<span style="s3"> need</span> fewer opinions on that</p>
+<p begin="00:24:58.020" end="00:25:03.150" style="s2">is the hardest question than I even have</p>
+<p begin="00:25:00.810" end="00:25:05.640" style="s2">to<span style="s3"> answer</span> all the time honestly like we</p>
+<p begin="00:25:03.150" end="00:25:08.000" style="s2">think<span style="s4"> about</span> these pilots and micro pilot</p>
+<p begin="00:25:05.640" end="00:25:11.100" style="s2">has anybody heard of micro piloting here</p>
+<p begin="00:25:08.000" end="00:25:14.280" style="s2">it&#39;s also like a new prototyping way</p>
+<p begin="00:25:11.100" end="00:25:19.950" style="s2">that we&#39;re investigating service design</p>
+<p begin="00:25:14.280" end="00:25:23.160" style="s2">sort of things I say you<span style="s4"> know</span> when you</p>
+<p begin="00:25:19.950" end="00:25:29.640" style="s2">feel like the population sets that<span style="s3"> you</span></p>
+<p begin="00:25:23.160" end="00:25:33.720" style="s2">have targeted<span style="s3"> is</span> fully represented and</p>
+<p begin="00:25:29.640" end="00:25:35.970" style="s2">we&#39;re<span style="s3"> talking</span> about gender age range job</p>
+<p begin="00:25:33.720" end="00:25:39.870" style="s2">responsibilities right when you feel</p>
+<p begin="00:25:35.970" end="00:25:41.760" style="s2">like you&#39;ve<span style="s4"> dug</span> in deep<span style="s4"> into</span> a good</p>
+<p begin="00:25:39.870" end="00:25:44.880" style="s2">representation of those people<span style="s4"> I</span><span style="s3"> would</span></p>
+<p begin="00:25:41.760" end="00:25:46.860" style="s2">say that<span style="s3"> is</span> a good time<span style="s3"> to</span> stop I think</p>
+<p begin="00:25:44.880" end="00:25:48.630" style="s2">that<span style="s4"> anybody</span> can research forever just</p>
+<p begin="00:25:46.860" end="00:25:50.130" style="s2">like the way that you can design forever</p>
+<p begin="00:25:48.630" end="00:25:51.080" style="s2">and so giving yourself actually<span style="s3"> a</span></p>
+<p begin="00:25:50.130" end="00:25:54.420" style="s2">timeline</p>
+<p begin="00:25:51.080" end="00:25:55.920" style="s2">really helps that process in order to</p>
+<p begin="00:25:54.420" end="00:25:58.260" style="s2">even choose the people that you&#39;re going</p>
+<p begin="00:25:55.920" end="00:26:00.920" style="s2"><span style="s4">to talk to and also</span><span style="s3"> to</span> kind of just call</p>
+<p begin="00:25:58.260" end="00:26:03.870" style="s2">it and say you know<span style="s3"> what</span> we&#39;re done and</p>
+<p begin="00:26:00.920" end="00:26:05.550" style="s2">if something happens down the line where</p>
+<p begin="00:26:03.870" end="00:26:08.250" style="s2">you<span style="s4"> do</span> see your product sort of Swing</p>
+<p begin="00:26:05.550" end="00:26:10.020" style="s2">somewhere else then going back into<span style="s3"> that</span></p>
+<p begin="00:26:08.250" end="00:26:11.550" style="s2">usability piece to bein those people</p>
+<p begin="00:26:10.020" end="00:26:13.290" style="s2"><span style="s3">that</span> you&#39;re now thinking that<span style="s4"> you</span></p>
+<p begin="00:26:11.550" end="00:26:15.240" style="s2">getting account<span style="s4"> for</span> you know quickly</p>
+<p begin="00:26:13.290" end="00:26:27.780" style="s2">doing that it&#39;s probably<span style="s3"> the</span> best<span style="s3"> way</span> to</p>
+<p begin="00:26:15.240" end="00:26:29.820" style="s2">go to that next<span style="s4"> question</span> I&#39;m kind of</p>
+<p begin="00:26:27.780" end="00:26:31.830" style="s2">curious if you<span style="s4"> have</span> any general sense</p>
+<p begin="00:26:29.820" end="00:26:35.550" style="s2">about what are like common pitfalls or</p>
+<p begin="00:26:31.830" end="00:26:37.500" style="s2">maybe early warning signs when you hear</p>
+<p begin="00:26:35.550" end="00:26:39.090" style="s2">a certain like really<span style="s3"> the</span> clients were</p>
+<p begin="00:26:37.500" end="00:26:40.740" style="s2">saying that they want to do X Y or Z</p>
+<p begin="00:26:39.090" end="00:26:42.270" style="s2">that<span style="s4"> you</span> know that they&#39;re going down</p>
+<p begin="00:26:40.740" end="00:26:44.190" style="s2">kind<span style="s4"> of</span> like a wrong path if there&#39;s</p>
+<p begin="00:26:42.270" end="00:26:45.780" style="s2">some like early warning signs<span style="s4"> that</span> you</p>
+<p begin="00:26:44.190" end="00:26:48.750" style="s2">could<span style="s4"> think</span> of that would be generally</p>
+<p begin="00:26:45.780" end="00:26:52.140" style="s2">useful for folks yeah um when you hear</p>
+<p begin="00:26:48.750" end="00:26:55.170" style="s2"><span style="s3">people</span> talk about their stakeholders all</p>
+<p begin="00:26:52.140" end="00:26:57.360" style="s2">the time that&#39;s a huge red flag right</p>
+<p begin="00:26:55.170" end="00:27:00.030" style="s2">like because when they&#39;re<span style="s3"> talking</span> about</p>
+<p begin="00:26:57.360" end="00:27:03.900" style="s2">like their box that says this needs to</p>
+<p begin="00:27:00.030" end="00:27:06.480" style="s2">happen that that&#39;s a really big like</p>
+<p begin="00:27:03.900" end="00:27:09.500" style="s2">moment where you need to say okay<span style="s4"> let&#39;s</span></p>
+<p begin="00:27:06.480" end="00:27:12.840" style="s2">bring that box into this room right<span style="s3"> now</span></p>
+<p begin="00:27:09.500" end="00:27:15.570" style="s2">we actually I know that sounds really</p>
+<p begin="00:27:12.840" end="00:27:17.730" style="s2">harsh but it is really<span style="s3"> a</span><span style="s4"> huge</span> red flag</p>
+<p begin="00:27:15.570" end="00:27:22.260" style="s2"><span style="s4">that</span> we run into all the<span style="s4"> time</span> where</p>
+<p begin="00:27:17.730" end="00:27:24.090" style="s2">let&#39;s say a product team is like moving</p>
+<p begin="00:27:22.260" end="00:27:26.480" style="s2">about a product to certain<span style="s4"> Lane</span> they</p>
+<p begin="00:27:24.090" end="00:27:30.570" style="s2">want us to<span style="s3"> execute</span> a certain piece of it</p>
+<p begin="00:27:26.480" end="00:27:32.670" style="s2">we recently<span style="s4"> went</span><span style="s3"> into</span> a situation where</p>
+<p begin="00:27:30.570" end="00:27:34.260" style="s2">yeah the boss then entered the room<span style="s3"> and</span></p>
+<p begin="00:27:32.670" end="00:27:36.960" style="s2">he was like this isn&#39;t what I want you</p>
+<p begin="00:27:34.260" end="00:27:39.180" style="s2"><span style="s4">know</span> and that&#39;s something that we need</p>
+<p begin="00:27:36.960" end="00:27:42.090" style="s2">to<span style="s4"> really analyze from even</span></p>
+<p begin="00:27:39.180" end="00:27:45.000" style="s2">organizational perspective so you meet</p>
+<p begin="00:27:42.090" end="00:27:47.370" style="s2">your client team and but take a step</p>
+<p begin="00:27:45.000" end="00:27:48.900" style="s2">back<span style="s4"> analyze</span> what&#39;s actually the</p>
+<p begin="00:27:47.370" end="00:27:50.070" style="s2">organizational<span style="s4"> structure</span> and this is</p>
+<p begin="00:27:48.900" end="00:27:52.470" style="s2">actually even more important for</p>
+<p begin="00:27:50.070" end="00:27:55.770" style="s2"><span style="s4">nonprofit</span> structures<span style="s4"> too</span> because the</p>
+<p begin="00:27:52.470" end="00:27:58.680" style="s2">hierarchy is so strong but to bring that</p>
+<p begin="00:27:55.770" end="00:28:00.220" style="s2">Democratic peace as strongly as you<span style="s4"> can</span></p>
+<p begin="00:27:58.680" end="00:28:03.280" style="s2">to bring people<span style="s3"> in</span><span style="s4"> the</span> same room at</p>
+<p begin="00:28:00.220" end="00:28:04.809" style="s2"><span style="s3">sometimes</span> i would<span style="s4"> say</span> them that&#39;s</p>
+<p begin="00:28:03.280" end="00:28:08.940" style="s2">usually<span style="s3"> the</span> biggest red flag that<span style="s3"> i</span></p>
+<p begin="00:28:04.809" end="00:28:12.549" style="s2"><span style="s4">present</span> to other red flags<span style="s4"> hugo</span> is like</p>
+<p begin="00:28:08.940" end="00:28:14.590" style="s2">designers who then just kind of mean</p>
+<p begin="00:28:12.549" end="00:28:17.830" style="s2">it&#39;s really<span style="s4"> easy</span> to like fall in love</p>
+<p begin="00:28:14.590" end="00:28:20.370" style="s2">with<span style="s3"> a</span> design as well and it&#39;s<span style="s4"> hard</span><span style="s3"> to</span></p>
+<p begin="00:28:17.830" end="00:28:23.260" style="s2">fall out of love with certain designs</p>
+<p begin="00:28:20.370" end="00:28:25.929" style="s2">but if you do hear a designer as well</p>
+<p begin="00:28:23.260" end="00:28:29.770" style="s2">just talk about like oh but it would<span style="s3"> be</span></p>
+<p begin="00:28:25.929" end="00:28:32.110" style="s2"><span style="s3">so</span> cool right<span style="s4"> like</span> there&#39;s<span style="s3"> nothing</span> cool</p>
+<p begin="00:28:29.770" end="00:28:35.049" style="s2">that should be created for cool<span style="s4"> fake</span></p>
+<p begin="00:28:32.110" end="00:28:38.409" style="s2">ever<span style="s4"> ever</span><span style="s3"> alright</span> that&#39;s another piece</p>
+<p begin="00:28:35.049" end="00:28:40.929" style="s2">of it also when engineers come in and</p>
+<p begin="00:28:38.409" end="00:28:43.690" style="s2">they&#39;re like that<span style="s4"> well</span> that can&#39;t happen</p>
+<p begin="00:28:40.929" end="00:28:47.650" style="s2"><span style="s4">and</span> they just like can&#39;t explain that<span style="s4"> to</span></p>
+<p begin="00:28:43.690" end="00:28:49.780" style="s2">you and even<span style="s4"> when</span> they can explain it to</p>
+<p begin="00:28:47.650" end="00:28:52.330" style="s2">you but there&#39;s like kind of like that</p>
+<p begin="00:28:49.780" end="00:28:54.760" style="s2">anxiety piece that comes into that</p>
+<p begin="00:28:52.330" end="00:28:56.350" style="s2">conversation I&#39;m just kind of taking a</p>
+<p begin="00:28:54.760" end="00:28:57.880" style="s2">step back and<span style="s3"> be</span> like<span style="s4"> okay</span> well can<span style="s4"> you</span></p>
+<p begin="00:28:56.350" end="00:28:59.350" style="s2">just<span style="s4"> tell</span><span style="s3"> me</span> like how long that will</p>
+<p begin="00:28:57.880" end="00:29:02.200" style="s2">take we can work<span style="s3"> with</span> it and just</p>
+<p begin="00:28:59.350" end="00:29:03.970" style="s2"><span style="s4">leaving</span> that emotional tension I say</p>
+<p begin="00:29:02.200" end="00:29:05.770" style="s2">that that&#39;s and those<span style="s4"> are</span> the kind of</p>
+<p begin="00:29:03.970" end="00:29:23.650" style="s2"><span style="s4">two</span> big things that<span style="s3"> when</span> you<span style="s4"> look</span><span style="s3"> out</span></p>
+<p begin="00:29:05.770" end="00:29:25.419" style="s2">for put the questions I guess do you</p>
+<p begin="00:29:23.650" end="00:29:27.789" style="s2">ever find yourself running into an issue</p>
+<p begin="00:29:25.419" end="00:29:30.549" style="s2">where you&#39;re working with a client and</p>
+<p begin="00:29:27.789" end="00:29:33.610" style="s2"><span style="s4">you</span> know the humans are<span style="s4"> the problem so</span></p>
+<p begin="00:29:30.549" end="00:29:34.630" style="s2">you know Henry Ford supposedly said if</p>
+<p begin="00:29:33.610" end="00:29:37.450" style="s2">you ask people<span style="s4"> what</span> they<span style="s4"> wanted</span> they</p>
+<p begin="00:29:34.630" end="00:29:40.299" style="s2">want to fast your horse so in<span style="s3"> what</span> you</p>
+<p begin="00:29:37.450" end="00:29:42.070" style="s2">do you do to deal with clients that have</p>
+<p begin="00:29:40.299" end="00:29:46.000" style="s2">kind of noticed a revolutionary products</p>
+<p begin="00:29:42.070" end="00:29:48.070" style="s2">but very different products that people</p>
+<p begin="00:29:46.000" end="00:29:52.240" style="s2">may be reluctant to adopt right away and</p>
+<p begin="00:29:48.070" end="00:29:55.179" style="s2">and because the technology is advanced</p>
+<p begin="00:29:52.240" end="00:29:57.610" style="s2">or beyond what&#39;s common I mean do you do</p>
+<p begin="00:29:55.179" end="00:30:00.159" style="s2">run into problems like<span style="s3"> that</span> for ya is</p>
+<p begin="00:29:57.610" end="00:30:02.480" style="s2">that those problems all the time and a</p>
+<p begin="00:30:00.159" end="00:30:06.610" style="s2">lot of it<span style="s4"> and</span></p>
+<p begin="00:30:02.480" end="00:30:11.240" style="s2">the unwillingness to kind of to try</p>
+<p begin="00:30:06.610" end="00:30:13.309" style="s2">something<span style="s4"> new</span> actually I&#39;m<span style="s4"> going</span> to</p>
+<p begin="00:30:11.240" end="00:30:15.020" style="s2">share this one story because I still</p>
+<p begin="00:30:13.309" end="00:30:18.559" style="s2">don&#39;t know what to do with it<span style="s4"> right</span></p>
+<p begin="00:30:15.020" end="00:30:19.700" style="s2">because I I was speaking to some service</p>
+<p begin="00:30:18.559" end="00:30:23.150" style="s2">designers in the<span style="s3"> health</span><span style="s4"> care</span> community</p>
+<p begin="00:30:19.700" end="00:30:26.240" style="s2">and they were talking<span style="s4"> about</span> the specific</p>
+<p begin="00:30:23.150" end="00:30:29.380" style="s2">design that<span style="s4"> would</span> really help long-term</p>
+<p begin="00:30:26.240" end="00:30:31.790" style="s2">patients just feel emotionally better</p>
+<p begin="00:30:29.380" end="00:30:34.549" style="s2">about their surroundings while they&#39;re</p>
+<p begin="00:30:31.790" end="00:30:35.870" style="s2">in the hospital<span style="s3"> for</span> that long and the</p>
+<p begin="00:30:34.549" end="00:30:40.160" style="s2">doctor<span style="s3"> looked</span> at them and said well I</p>
+<p begin="00:30:35.870" end="00:30:44.360" style="s2">keep them alive like what what do you do</p>
+<p begin="00:30:40.160" end="00:30:46.040" style="s2">about that and I don&#39;t<span style="s4"> know</span> I i still</p>
+<p begin="00:30:44.360" end="00:30:47.900" style="s2">can&#39;t<span style="s4"> kind of like wrap my head around</span></p>
+<p begin="00:30:46.040" end="00:30:50.840" style="s2">that accept the fact that there&#39;s</p>
+<p begin="00:30:47.900" end="00:30:52.429" style="s2">obviously psychology majors in here that</p>
+<p begin="00:30:50.840" end="00:30:55.970" style="s2">say there are so many things wrong with</p>
+<p begin="00:30:52.429" end="00:30:59.840" style="s2">that interior design of hospitals but I</p>
+<p begin="00:30:55.970" end="00:31:01.370" style="s2">hope it&#39;s not a tangent but yeah we do</p>
+<p begin="00:30:59.840" end="00:31:05.120" style="s2">run into those situations all the time</p>
+<p begin="00:31:01.370" end="00:31:11.410" style="s2">where clients especially you know</p>
+<p begin="00:31:05.120" end="00:31:17.179" style="s2">product managers sometimes who have a</p>
+<p begin="00:31:11.410" end="00:31:19.250" style="s2">really difficult time accepting like the</p>
+<p begin="00:31:17.179" end="00:31:22.780" style="s2">behaviors and patterns of the target</p>
+<p begin="00:31:19.250" end="00:31:26.059" style="s2">population but they&#39;re<span style="s3"> so</span> sure about um</p>
+<p begin="00:31:22.780" end="00:31:31.510" style="s2">yeah do you want an answer as to like</p>
+<p begin="00:31:26.059" end="00:31:31.510" style="s2">what we doing with those people or yeah</p>
+<p begin="00:31:33.549" end="00:31:45.590" style="s2">right yeah the best I<span style="s4"> think</span> the best<span style="s4"> way</span></p>
+<p begin="00:31:42.559" end="00:31:50.140" style="s2">that anybody sort of argued with that in</p>
+<p begin="00:31:45.590" end="00:31:54.350" style="s2">benchmark and I think in any industry</p>
+<p begin="00:31:50.140" end="00:31:57.770" style="s2">you<span style="s3"> have</span> people<span style="s4"> who</span> say that won&#39;t</p>
+<p begin="00:31:54.350" end="00:31:59.179" style="s2"><span style="s4">happen</span> to something removing the heart</p>
+<p begin="00:31:57.770" end="00:32:01.809" style="s2">containers like you have an<span style="s3"> example</span></p>
+<p begin="00:31:59.179" end="00:32:01.809" style="s2">right<span style="s4"> now</span> but</p>
+<p begin="00:32:04.039" end="00:32:09.210" style="s2">using examples from that particular</p>
+<p begin="00:32:06.390" end="00:32:12.919" style="s2">person&#39;s perspective or generation<span style="s4"> to</span></p>
+<p begin="00:32:09.210" end="00:32:15.809" style="s2">translate perhaps the innovative like</p>
+<p begin="00:32:12.919" end="00:32:18.299" style="s2">way that<span style="s3"> happened during</span><span style="s4"> that time and</span></p>
+<p begin="00:32:15.809" end="00:32:19.350" style="s2"><span style="s4">really</span> connecting it to the<span style="s4"> environment</span></p>
+<p begin="00:32:18.299" end="00:32:22.649" style="s2">and<span style="s4"> the</span> things<span style="s4"> that</span> are<span style="s3"> happening</span></p>
+<p begin="00:32:19.350" end="00:32:24.149" style="s2">currency that parallels that<span style="s4"> example</span> I</p>
+<p begin="00:32:22.649" end="00:32:28.140" style="s2">think<span style="s3"> that&#39;s</span> always been really helpful</p>
+<p begin="00:32:24.149" end="00:32:32.159" style="s2">for<span style="s3"> us</span> to our user point that that<span style="s4"> needs</span></p>
+<p begin="00:32:28.140" end="00:32:33.870" style="s2">to be considered it&#39;s tough but like</p>
+<p begin="00:32:32.159" end="00:32:36.049" style="s2">really connecting to the human like</p>
+<p begin="00:32:33.870" end="00:32:38.370" style="s2">really emphasizing with the client to</p>
+<p begin="00:32:36.049" end="00:32:40.110" style="s2"><span style="s4">has</span> been helpful for<span style="s3"> us to kind of</span></p>
+<p begin="00:32:38.370" end="00:32:43.789" style="s2">convince<span style="s4"> them</span> that this<span style="s4"> is</span> the process</p>
+<p begin="00:32:40.110" end="00:32:43.789" style="s2">of in the direction that they need<span style="s3"> to</span> go</p>
+<p begin="00:32:46.250" end="00:32:54.130" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

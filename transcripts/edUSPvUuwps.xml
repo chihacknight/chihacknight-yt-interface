@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.850" end="00:00:11.910" style="s2">good afternoon thank you guys for having</p>
+<p begin="00:00:07.470" end="00:00:15.179" style="s2">me having us here and so um you guys</p>
+<p begin="00:00:11.910" end="00:00:17.580" style="s2">might be<span style="s3"> wondering</span> who are we right so</p>
+<p begin="00:00:15.179" end="00:00:19.380" style="s2">my<span style="s4"> name</span> is pedro garcia and<span style="s4"> i</span> am a Civic</p>
+<p begin="00:00:17.580" end="00:00:22.289" style="s2">tech in turn i am from Roosevelt High</p>
+<p begin="00:00:19.380" end="00:00:24.710" style="s2">School and<span style="s4"> I&#39;m</span> a senior i am marshal</p>
+<p begin="00:00:22.289" end="00:00:27.819" style="s2"><span style="s3">nakamura i go to hair</span><span style="s4"> washington college</span></p>
+<p begin="00:00:24.710" end="00:00:27.819" style="s2">[Music]</p>
+<p begin="00:00:28.010" end="00:00:35.520" style="s2">hi my name is Daniel<span style="s4"> Abyssinia</span> codices</p>
+<p begin="00:00:31.380" end="00:00:38.309" style="s2">delivered I school another<span style="s4"> zapotec</span> I&#39;m</p>
+<p begin="00:00:35.520" end="00:00:41.129" style="s2">hiring Jessica I&#39;m really a high tea and</p>
+<p begin="00:00:38.309" end="00:00:47.010" style="s2">a former seek a student from prosecutor</p>
+<p begin="00:00:41.129" end="00:00:49.200" style="s2"><span style="s4">Kadri</span> all right uh thank<span style="s3"> you</span> yes so raw</p>
+<p begin="00:00:47.010" end="00:00:51.570" style="s2">stuff in there all right also through</p>
+<p begin="00:00:49.200" end="00:00:55.500" style="s2">the Civic tech internship oh we&#39;ve<span style="s4"> been</span></p>
+<p begin="00:00:51.570" end="00:00:58.550" style="s2">working together with the teach tech</p>
+<p begin="00:00:55.500" end="00:01:02.579" style="s2">task force in an effort to<span style="s3"> try</span> to</p>
+<p begin="00:00:58.550" end="00:01:04.949" style="s2">collect and analyze data for the<span style="s4"> cs</span> for</p>
+<p begin="00:01:02.579" end="00:01:07.290" style="s2">all initiative all right now pass it a</p>
+<p begin="00:01:04.949" end="00:01:12.119" style="s2">marshal<span style="s4"> Oh</span><span style="s3"> actually</span> i&#39;ll pass it to Andy</p>
+<p begin="00:01:07.290" end="00:01:14.790" style="s2">we&#39;re going<span style="s3"> to</span> talk more about<span style="s3"> that</span><span style="s4"> ok</span></p>
+<p begin="00:01:12.119" end="00:01:16.200" style="s2">fine Andy<span style="s3"> Rasmussen</span> from computer</p>
+<p begin="00:01:14.790" end="00:01:17.909" style="s2">science for all at chicago public</p>
+<p begin="00:01:16.200" end="00:01:19.650" style="s2">schools i&#39;m the project coordinator</p>
+<p begin="00:01:17.909" end="00:01:22.140" style="s2">there which<span style="s3"> means</span> they do a wide variety</p>
+<p begin="00:01:19.650" end="00:01:23.990" style="s2">of things for<span style="s3"> the</span> initiative to give you</p>
+<p begin="00:01:22.140" end="00:01:26.939" style="s2">a little<span style="s4"> bit</span> of background about cs4 all</p>
+<p begin="00:01:23.990" end="00:01:29.250" style="s2">launched here in Chicago three years ago</p>
+<p begin="00:01:26.939" end="00:01:32.880" style="s2"><span style="s3">this</span> week this<span style="s3"> week&#39;s</span> computer science</p>
+<p begin="00:01:29.250" end="00:01:34.770" style="s2">education week by the way and<span style="s3"> the</span> goal</p>
+<p begin="00:01:32.880" end="00:01:36.420" style="s2">of the initiative is to get a quality</p>
+<p begin="00:01:34.770" end="00:01:39.030" style="s2">computer science education of every</p>
+<p begin="00:01:36.420" end="00:01:41.670" style="s2">students in the district for an idea of</p>
+<p begin="00:01:39.030" end="00:01:43.140" style="s2">scale we have about six hundred and</p>
+<p begin="00:01:41.670" end="00:01:46.020" style="s2"><span style="s3">seventy</span> five schools the number</p>
+<p begin="00:01:43.140" end="00:01:48.149" style="s2">fluctuates we have<span style="s3"> about</span><span style="s4"> 380,000</span></p>
+<p begin="00:01:46.020" end="00:01:51.829" style="s2"><span style="s3">students</span> anybody<span style="s3"> here</span> from Cleveland</p>
+<p begin="00:01:48.149" end="00:01:51.829" style="s2">that&#39;s the population</p>
+<p begin="00:01:52.390" end="00:01:57.350" style="s2">and over the past<span style="s3"> three</span> years our</p>
+<p begin="00:01:55.460" end="00:01:58.940" style="s2">biggest push has been<span style="s3"> in two high</span></p>
+<p begin="00:01:57.350" end="00:02:00.050" style="s2">schools because those are<span style="s4"> the</span> students</p>
+<p begin="00:01:58.940" end="00:02:02.660" style="s2">that are<span style="s3"> going to go</span><span style="s4"> out</span> into<span style="s4"> the</span> world</p>
+<p begin="00:02:00.050" end="00:02:04.310" style="s2">first and as of earlier this<span style="s4"> year</span></p>
+<p begin="00:02:02.660" end="00:02:07.250" style="s2">computer<span style="s4"> science is now a graduation</span></p>
+<p begin="00:02:04.310" end="00:02:08.780" style="s2">requirement for high school students</p>
+<p begin="00:02:07.250" end="00:02:10.460" style="s2">starting with the class of<span style="s3"> twenty</span><span style="s4"> twenty</span></p>
+<p begin="00:02:08.780" end="00:02:12.710" style="s2">so freshman<span style="s4"> right</span> now they&#39;ll be<span style="s4"> taking</span></p>
+<p begin="00:02:10.460" end="00:02:14.930" style="s2">a computer science<span style="s4"> class</span> alongside math</p>
+<p begin="00:02:12.710" end="00:02:17.330" style="s2">science English it&#39;s not replacing those</p>
+<p begin="00:02:14.930" end="00:02:19.220" style="s2"><span style="s3">it&#39;s</span> alongside them on before they</p>
+<p begin="00:02:17.330" end="00:02:21.500" style="s2">graduate and so far<span style="s3"> we learned about</span></p>
+<p begin="00:02:19.220" end="00:02:23.780" style="s2">sixty percent of the regular district</p>
+<p begin="00:02:21.500" end="00:02:25.610" style="s2">schools and are going to be expanding<span style="s3"> to</span></p>
+<p begin="00:02:23.780" end="00:02:26.930" style="s2"><span style="s4">the</span> rest of them over the<span style="s3"> next</span> year to</p>
+<p begin="00:02:25.610" end="00:02:28.880" style="s2">offer at least a computer science course</p>
+<p begin="00:02:26.930" end="00:02:30.830" style="s2">and then bring them up to capacity so</p>
+<p begin="00:02:28.880" end="00:02:32.390" style="s2">they can<span style="s3"> teach</span> other students at the</p>
+<p begin="00:02:30.830" end="00:02:34.520" style="s2">same time we&#39;ve been pushing into</p>
+<p begin="00:02:32.390" end="00:02:36.350" style="s2">elementary schools we&#39;ve got just<span style="s3"> over</span><span style="s4"> a</span></p>
+<p begin="00:02:34.520" end="00:02:40.760" style="s2"><span style="s4">hundred</span><span style="s3"> elementary</span> schools that are CS</p>
+<p begin="00:02:36.350" end="00:02:43.820" style="s2"><span style="s4">girls</span> schools and along the way our</p>
+<p begin="00:02:40.760" end="00:02:46.280" style="s2">staff of three people has been putting</p>
+<p begin="00:02:43.820" end="00:02:48.350" style="s2"><span style="s3">this</span> forward and doing<span style="s3"> so</span> with a lot<span style="s4"> of</span></p>
+<p begin="00:02:46.280" end="00:02:52.880" style="s2">help from<span style="s3"> outside</span> partners and</p>
+<p begin="00:02:48.350" end="00:02:56.060" style="s2">organizations and that&#39;s why we&#39;re I was</p>
+<p begin="00:02:52.880" end="00:02:57.890" style="s2">so happy<span style="s3"> to</span> have these youths from the</p>
+<p begin="00:02:56.060" end="00:02:59.450" style="s2"><span style="s4">mikvah</span> challenge working with us<span style="s4"> because</span></p>
+<p begin="00:02:57.890" end="00:03:01.610" style="s2">in my<span style="s4"> day-to-day</span><span style="s3"> I</span> work a lot with</p>
+<p begin="00:02:59.450" end="00:03:03.739" style="s2">administrators at the district level at</p>
+<p begin="00:03:01.610" end="00:03:05.840" style="s2"><span style="s4">the</span> school level so principles and I</p>
+<p begin="00:03:03.739" end="00:03:07.820" style="s2">talk a lot to teachers but we<span style="s3"> don&#39;t</span> get</p>
+<p begin="00:03:05.840" end="00:03:09.410" style="s2"><span style="s3">to</span> hear a lot directly from students in</p>
+<p begin="00:03:07.820" end="00:03:10.640" style="s2">our district and that&#39;s<span style="s3"> really</span> who are</p>
+<p begin="00:03:09.410" end="00:03:12.320" style="s2">affecting so we need to hear<span style="s3"> more</span> and</p>
+<p begin="00:03:10.640" end="00:03:14.750" style="s2">more from them and how this is beginning</p>
+<p begin="00:03:12.320" end="00:03:16.489" style="s2">to affect them and<span style="s3"> how</span> it will and what</p>
+<p begin="00:03:14.750" end="00:03:18.560" style="s2">they think about that so that&#39;s why</p>
+<p begin="00:03:16.489" end="00:03:19.850" style="s2">their work has<span style="s4"> been</span> so important they&#39;ve</p>
+<p begin="00:03:18.560" end="00:03:21.530" style="s2">been going out pounding the pavement</p>
+<p begin="00:03:19.850" end="00:03:24.170" style="s2">talking to students<span style="s3"> and</span> teachers getting</p>
+<p begin="00:03:21.530" end="00:03:25.550" style="s2">their feedback which will be able<span style="s3"> to</span></p>
+<p begin="00:03:24.170" end="00:03:26.720" style="s2">incorporate into what we&#39;re doing and</p>
+<p begin="00:03:25.550" end="00:03:29.000" style="s2">what we&#39;re producing for them and</p>
+<p begin="00:03:26.720" end="00:03:30.290" style="s2">hopefully as we expand our staff a</p>
+<p begin="00:03:29.000" end="00:03:32.420" style="s2">little bit<span style="s3"> we&#39;ll</span> be able<span style="s3"> to</span> more</p>
+<p begin="00:03:30.290" end="00:03:34.550" style="s2">thoughtfully support everyone in our</p>
+<p begin="00:03:32.420" end="00:03:36.830" style="s2">district and I&#39;d like<span style="s3"> to give another</span></p>
+<p begin="00:03:34.550" end="00:03:38.900" style="s2">really<span style="s3"> special</span> thanks to Lisa Kim who&#39;s</p>
+<p begin="00:03:36.830" end="00:03:42.739" style="s2">been working<span style="s4"> with</span><span style="s3"> these guys every week</span></p>
+<p begin="00:03:38.900" end="00:03:44.480" style="s2">and<span style="s3"> also</span> to Eve<span style="s3"> Tolbert</span> from moonkin</p>
+<p begin="00:03:42.739" end="00:03:46.489" style="s2">studio who&#39;s been<span style="s3"> working</span> in flipping</p>
+<p begin="00:03:44.480" end="00:03:47.930" style="s2">tables along with us to support<span style="s3"> the</span></p>
+<p begin="00:03:46.489" end="00:03:49.970" style="s2">essential be talking a little<span style="s3"> bit</span> at the</p>
+<p begin="00:03:47.930" end="00:03:51.560" style="s2">end that&#39;s<span style="s3"> all</span> I&#39;m going to say for now</p>
+<p begin="00:03:49.970" end="00:03:52.880" style="s2">I will pass it<span style="s4"> on</span> to our insurance</p>
+<p begin="00:03:51.560" end="00:03:57.650" style="s2">starting with Pedro to tell the story</p>
+<p begin="00:03:52.880" end="00:03:59.690" style="s2">all right<span style="s4"> thank</span> you<span style="s3"> very</span><span style="s4"> much</span> any all</p>
+<p begin="00:03:57.650" end="00:04:02.090" style="s2">right uh so yeah as you guys have known</p>
+<p begin="00:03:59.690" end="00:04:03.860" style="s2">we&#39;ve been working at flipping tables so</p>
+<p begin="00:04:02.090" end="00:04:04.220" style="s2">if you<span style="s3"> guys</span> have<span style="s3"> seen</span> us there for these</p>
+<p begin="00:04:03.860" end="00:04:07.370" style="s2">paths</p>
+<p begin="00:04:04.220" end="00:04:10.250" style="s2">two months<span style="s4"> and</span> so we when we first</p>
+<p begin="00:04:07.370" end="00:04:12.410" style="s2">started<span style="s4"> meeting</span> we started asking a</p>
+<p begin="00:04:10.250" end="00:04:15.200" style="s2">bunch of questions like what researchers</p>
+<p begin="00:04:12.410" end="00:04:18.260" style="s2">do right so we came up<span style="s3"> with</span> questions</p>
+<p begin="00:04:15.200" end="00:04:21.019" style="s2">for both students and teachers<span style="s3"> ah</span> and</p>
+<p begin="00:04:18.260" end="00:04:23.930" style="s2">with those questions we created surveys</p>
+<p begin="00:04:21.019" end="00:04:27.980" style="s2">which we then pass along social media</p>
+<p begin="00:04:23.930" end="00:04:29.960" style="s2">and we went<span style="s3"> to</span> classrooms after school</p>
+<p begin="00:04:27.980" end="00:04:33.230" style="s2">and talk<span style="s3"> to</span> teachers and I unsurveyed</p>
+<p begin="00:04:29.960" end="00:04:36.860" style="s2">them we use this data to try to come up</p>
+<p begin="00:04:33.230" end="00:04:39.050" style="s2">with or to actually help the cs4 all</p>
+<p begin="00:04:36.860" end="00:04:41.570" style="s2">program connect with a student interest</p>
+<p begin="00:04:39.050" end="00:04:44.150" style="s2">and now I&#39;ll pass it<span style="s3"> over</span> to Marshall</p>
+<p begin="00:04:41.570" end="00:04:45.700" style="s2">who&#39;s going<span style="s3"> to</span> talk a lot more<span style="s4"> in</span> detail</p>
+<p begin="00:04:44.150" end="00:04:49.310" style="s2">about<span style="s4"> that</span><span style="s3"> all</span> right<span style="s3"> thank</span><span style="s4"> you</span><span style="s3"> much</span></p>
+<p begin="00:04:45.700" end="00:04:50.210" style="s2">hello once again i am marshal and i&#39;m</p>
+<p begin="00:04:49.310" end="00:04:53.990" style="s2"><span style="s3">going</span><span style="s4"> to</span><span style="s3"> tell</span> you<span style="s3"> guys</span> a little<span style="s3"> bit</span></p>
+<p begin="00:04:50.210" end="00:04:56.390" style="s2">about a process so over the<span style="s4"> past</span> six to</p>
+<p begin="00:04:53.990" end="00:05:00.230" style="s2"><span style="s3">eight</span> weeks<span style="s3"> about</span> two months we have</p>
+<p begin="00:04:56.390" end="00:05:03.770" style="s2">been we have collected<span style="s3"> over</span> 250 online</p>
+<p begin="00:05:00.230" end="00:05:06.860" style="s2">in a student surveys and<span style="s3"> we&#39;ve</span> also</p>
+<p begin="00:05:03.770" end="00:05:08.990" style="s2">collected over<span style="s3"> 30</span> in-person interviews</p>
+<p begin="00:05:06.860" end="00:05:12.590" style="s2">for both teachers and students all</p>
+<p begin="00:05:08.990" end="00:05:14.810" style="s2">around<span style="s3"> chicago</span> so one thing that took up</p>
+<p begin="00:05:12.590" end="00:05:20.240" style="s2">the bulk of our independent work was to</p>
+<p begin="00:05:14.810" end="00:05:22.880" style="s2">go<span style="s4"> out</span> and get usability tests from for</p>
+<p begin="00:05:20.240" end="00:05:25.669" style="s2">teachers typically we were supposed to</p>
+<p begin="00:05:22.880" end="00:05:28.910" style="s2"><span style="s3">go</span> out<span style="s3"> and</span> get them for computer science</p>
+<p begin="00:05:25.669" end="00:05:31.190" style="s2">teachers but it was a bit<span style="s3"> more</span> difficult</p>
+<p begin="00:05:28.910" end="00:05:33.620" style="s2">than<span style="s4"> we</span> had interpreted so another thing</p>
+<p begin="00:05:31.190" end="00:05:37.120" style="s2">that<span style="s4"> we</span> did we came together here and<span style="s3"> we</span></p>
+<p begin="00:05:33.620" end="00:05:41.270" style="s2">collaborated and we came together to</p>
+<p begin="00:05:37.120" end="00:05:45.020" style="s2">compile questions for a student</p>
+<p begin="00:05:41.270" end="00:05:48.080" style="s2">interview we also compiled a bunch of</p>
+<p begin="00:05:45.020" end="00:05:52.520" style="s2">questions and to find more quantitative</p>
+<p begin="00:05:48.080" end="00:05:55.100" style="s2">data about it was a student survey we</p>
+<p begin="00:05:52.520" end="00:05:58.340" style="s2">had<span style="s3"> also</span> spent a lot of time going out</p>
+<p begin="00:05:55.100" end="00:06:03.110" style="s2">and distributing this student survey via</p>
+<p begin="00:05:58.340" end="00:06:04.850" style="s2">different mediums such as you media and</p>
+<p begin="00:06:03.110" end="00:06:07.669" style="s2">we also went to several make the</p>
+<p begin="00:06:04.850" end="00:06:11.090" style="s2">challenge events so that we could you</p>
+<p begin="00:06:07.669" end="00:06:13.580" style="s2">know distribute the survey more evenly</p>
+<p begin="00:06:11.090" end="00:06:14.870" style="s2">throughout different demographics and</p>
+<p begin="00:06:13.580" end="00:06:16.940" style="s2">schools and</p>
+<p begin="00:06:14.870" end="00:06:18.230" style="s2">now i&#39;m going<span style="s3"> to</span> pass this off to<span style="s3"> daniel</span></p>
+<p begin="00:06:16.940" end="00:06:20.450" style="s2">who can tell you a bit more about<span style="s3"> the</span></p>
+<p begin="00:06:18.230" end="00:06:27.620" style="s2">information<span style="s4"> that</span> we collected from the</p>
+<p begin="00:06:20.450" end="00:06:29.780" style="s2">students um talking about demographic</p>
+<p begin="00:06:27.620" end="00:06:32.210" style="s2">it&#39;s utterly appointed that we should</p>
+<p begin="00:06:29.780" end="00:06:35.180" style="s2">know based on<span style="s3"> survey</span> based on the grade</p>
+<p begin="00:06:32.210" end="00:06:39.380" style="s2">which tested<span style="s3"> in time so the subway was</span></p>
+<p begin="00:06:35.180" end="00:06:41.750" style="s2">from preschool to high school seniors</p>
+<p begin="00:06:39.380" end="00:06:44.120" style="s2">and based on the<span style="s3"> survey</span> we<span style="s4"> find</span> out that</p>
+<p begin="00:06:41.750" end="00:06:46.220" style="s2">twenty three point four percent who a</p>
+<p begin="00:06:44.120" end="00:06:49.790" style="s2">high school sophomores we find out that</p>
+<p begin="00:06:46.220" end="00:06:52.100" style="s2">30.3 percent wesker juniors and 40</p>
+<p begin="00:06:49.790" end="00:06:55.220" style="s2">points<span style="s3"> top</span> is dead whereas the seniors</p>
+<p begin="00:06:52.100" end="00:06:58.340" style="s2">and the five point six percent<span style="s4"> romanian</span></p>
+<p begin="00:06:55.220" end="00:07:02.600" style="s2">where<span style="s4"> students</span> from physical six or</p>
+<p begin="00:06:58.340" end="00:07:04.730" style="s2">seven grade and call<span style="s3"> it january so</span></p>
+<p begin="00:07:02.600" end="00:07:11.360" style="s2">talking<span style="s3"> about</span> more about demographics</p>
+<p begin="00:07:04.730" end="00:07:13.580" style="s2">I&#39;ll call her belgium thanks right also</p>
+<p begin="00:07:11.360" end="00:07:15.380" style="s2">when we first started meeting we also</p>
+<p begin="00:07:13.580" end="00:07:18.800" style="s2">had like this<span style="s3"> big</span> question of like</p>
+<p begin="00:07:15.380" end="00:07:21.110" style="s2">gender inequality where we have where we</p>
+<p begin="00:07:18.800" end="00:07:24.800" style="s2">most of us believe that there&#39;s like a</p>
+<p begin="00:07:21.110" end="00:07:27.290" style="s2">huge gap between well our computer</p>
+<p begin="00:07:24.800" end="00:07:30.650" style="s2">science field is mainly dominated by our</p>
+<p begin="00:07:27.290" end="00:07:33.440" style="s2">by males so we wanted to push for that</p>
+<p begin="00:07:30.650" end="00:07:35.810" style="s2">like<span style="s3"> a</span> gender gap and like we wanted to</p>
+<p begin="00:07:33.440" end="00:07:37.910" style="s2">squish that out of there so as you<span style="s3"> guys</span></p>
+<p begin="00:07:35.810" end="00:07:40.880" style="s2">can see we<span style="s4"> really</span> push for that and we</p>
+<p begin="00:07:37.910" end="00:07:45.290" style="s2"><span style="s3">got to get a good set of information on</span></p>
+<p begin="00:07:40.880" end="00:07:47.600" style="s2">that with 50.4 percent of mel&#39;s and 45.2</p>
+<p begin="00:07:45.290" end="00:07:51.860" style="s2">percent of females are responding to</p>
+<p begin="00:07:47.600" end="00:07:58.880" style="s2">this service<span style="s3"> alright</span> so yet next<span style="s3"> up</span> we</p>
+<p begin="00:07:51.860" end="00:08:02.860" style="s2">have Jessica we&#39;re gonna play a quick</p>
+<p begin="00:07:58.880" end="00:08:05.980" style="s2">video<span style="s4"> but</span> you<span style="s3"> nicely</span> put together</p>
+<p begin="00:08:02.860" end="00:08:05.980" style="s2">[Music]</p>
+<p begin="00:08:11.900" end="00:08:15.850" style="s2">[Music]</p>
+<p begin="00:08:17.250" end="00:08:22.870" style="s2"><span style="s3">alright</span> so hello everybody my name is</p>
+<p begin="00:08:20.140" end="00:08:25.960" style="s2">Marshall and I am a Pacific tech intern</p>
+<p begin="00:08:22.870" end="00:08:29.230" style="s2">and our child is to help extend computer</p>
+<p begin="00:08:25.960" end="00:08:31.360" style="s2">science education across CVS so what</p>
+<p begin="00:08:29.230" end="00:08:33.400" style="s2">we&#39;re doing<span style="s4"> today</span> we are collecting</p>
+<p begin="00:08:31.360" end="00:08:35.010" style="s2">service statements to find out what you</p>
+<p begin="00:08:33.400" end="00:08:37.750" style="s2">want in a computer science education</p>
+<p begin="00:08:35.010" end="00:08:39.940" style="s2">your responses will be seen by CPS</p>
+<p begin="00:08:37.750" end="00:08:42.130" style="s2">central office as well as teachers and</p>
+<p begin="00:08:39.940" end="00:08:44.200" style="s2">businesses were interested in furthering</p>
+<p begin="00:08:42.130" end="00:08:45.970" style="s2">your education also there&#39;s stickers and</p>
+<p begin="00:08:44.200" end="00:08:51.790" style="s2">candies over here so blue monsters and</p>
+<p begin="00:08:45.970" end="00:08:55.030" style="s2">candies you know we<span style="s4"> got</span> you starting</p>
+<p begin="00:08:51.790" end="00:08:56.890" style="s2"><span style="s3">this</span> year<span style="s4"> freshman&#39;s</span> are pretty<span style="s3"> much</span></p>
+<p begin="00:08:55.030" end="00:08:59.560" style="s2">required to take at least one computer</p>
+<p begin="00:08:56.890" end="00:09:01.210" style="s2">science course before they graduate so</p>
+<p begin="00:08:59.560" end="00:09:03.580" style="s2">what we&#39;re trying<span style="s3"> to</span> do we&#39;re trying<span style="s3"> to</span></p>
+<p begin="00:09:01.210" end="00:09:06.610" style="s2">collect information from both teachers</p>
+<p begin="00:09:03.580" end="00:09:11.470" style="s2">and students to try to figure out ways</p>
+<p begin="00:09:06.610" end="00:09:15.100" style="s2">we can better transition so we&#39;re going</p>
+<p begin="00:09:11.470" end="00:09:18.550" style="s2"><span style="s3">out</span> we&#39;re taking surveys seeing things</p>
+<p begin="00:09:15.100" end="00:09:23.140" style="s2">like like<span style="s4"> one&#39;s</span> accessibility to a</p>
+<p begin="00:09:18.550" end="00:09:24.360" style="s2">computer things like<span style="s3"> that</span> hi my name is</p>
+<p begin="00:09:23.140" end="00:09:26.519" style="s2">Jessica I&#39;m</p>
+<p begin="00:09:24.360" end="00:09:28.950" style="s2"><span style="s3">carini</span> 18 years old and I attend</p>
+<p begin="00:09:26.519" end="00:09:31.380" style="s2"><span style="s4">Illinois&#39;s</span> institution of Technology</p>
+<p begin="00:09:28.950" end="00:09:34.529" style="s2"><span style="s4">friesen</span> I did the Civil<span style="s4"> Tecna</span> internship</p>
+<p begin="00:09:31.380" end="00:09:36.630" style="s2">it&#39;s because when I was like in high</p>
+<p begin="00:09:34.529" end="00:09:39.149" style="s2">school like I was never provided what a</p>
+<p begin="00:09:36.630" end="00:09:41.190" style="s2">CS classes and I&#39;m like majoring in</p>
+<p begin="00:09:39.149" end="00:09:43.230" style="s2">computer science<span style="s4"> so</span> I got no classes at</p>
+<p begin="00:09:41.190" end="00:09:45.120" style="s2"><span style="s4">all</span> so I wish I had exposure to that I</p>
+<p begin="00:09:43.230" end="00:09:47.130" style="s2">know why I&#39;m interviewing them and</p>
+<p begin="00:09:45.120" end="00:09:49.079" style="s2">there&#39;s a huge reason to me like get in</p>
+<p begin="00:09:47.130" end="00:09:51.060" style="s2">there and put about CS and I&#39;m just</p>
+<p begin="00:09:49.079" end="00:09:52.829" style="s2"><span style="s4">really</span> about<span style="s4"> that</span> so like that kind of</p>
+<p begin="00:09:51.060" end="00:09:54.630" style="s2">overrides my feel like I really<span style="s4"> want</span><span style="s3"> to</span></p>
+<p begin="00:09:52.829" end="00:09:56.100" style="s2">hear what people<span style="s4"> say</span> what I want there</p>
+<p begin="00:09:54.630" end="00:09:59.130" style="s2">if I wanted<span style="s4"> to</span><span style="s3"> feel</span> like<span style="s3"> to have a voice</span></p>
+<p begin="00:09:56.100" end="00:10:04.410" style="s2"><span style="s3">and</span> like to create<span style="s4"> fuel nowana implement</span></p>
+<p begin="00:09:59.130" end="00:10:09.959" style="s2"><span style="s4">GPS</span> school so that&#39;s what helps me good</p>
+<p begin="00:10:04.410" end="00:10:11.670" style="s2">yes hi I&#39;m so from all these interviews</p>
+<p begin="00:10:09.959" end="00:10:15.240" style="s2">and surveys that we conducted with the</p>
+<p begin="00:10:11.670" end="00:10:16.740" style="s2">students<span style="s3"> we</span> are gathered some data some</p>
+<p begin="00:10:15.240" end="00:10:19.350" style="s2">general information that really</p>
+<p begin="00:10:16.740" end="00:10:22.829" style="s2">emphasized the need to implement see on</p>
+<p begin="00:10:19.350" end="00:10:26.430" style="s2">CS classes in the CPS curriculum so to</p>
+<p begin="00:10:22.829" end="00:10:29.160" style="s2">start off its just general / perceptions</p>
+<p begin="00:10:26.430" end="00:10:31.019" style="s2">on like what CS is so a question that we</p>
+<p begin="00:10:29.160" end="00:10:33.269" style="s2">had asked in the<span style="s3"> student</span> surveys where</p>
+<p begin="00:10:31.019" end="00:10:35.329" style="s2">do you think it&#39;s important for<span style="s3"> students</span></p>
+<p begin="00:10:33.269" end="00:10:38.820" style="s2">to learn computer science in school and</p>
+<p begin="00:10:35.329" end="00:10:42.660" style="s2">the results were really really great</p>
+<p begin="00:10:38.820" end="00:10:45.870" style="s2">because um 78.1 percent said yes that we</p>
+<p begin="00:10:42.660" end="00:10:48.870" style="s2">do need it in schools 14.9 percent said</p>
+<p begin="00:10:45.870" end="00:10:51.570" style="s2">maybe 2.2 said not sure and only four</p>
+<p begin="00:10:48.870" end="00:10:54.089" style="s2">point eight percent said no but yet when</p>
+<p begin="00:10:51.570" end="00:10:55.740" style="s2">we conducted to student interviews some</p>
+<p begin="00:10:54.089" end="00:10:58.079" style="s2">quotes that we had got or some things</p>
+<p begin="00:10:55.740" end="00:11:00.510" style="s2">that<span style="s3"> students</span> had said words like they</p>
+<p begin="00:10:58.079" end="00:11:02.790" style="s2">get no like they don&#39;t get much exposure</p>
+<p begin="00:11:00.510" end="00:11:05.760" style="s2">to computer science like the only<span style="s4"> time</span></p>
+<p begin="00:11:02.790" end="00:11:07.800" style="s2"><span style="s4">you</span> get it is if you join a club or like</p>
+<p begin="00:11:05.760" end="00:11:10.980" style="s2">in some schools like dating even<span style="s3"> has</span></p>
+<p begin="00:11:07.800" end="00:11:13.500" style="s2">computer science like offered and some</p>
+<p begin="00:11:10.980" end="00:11:16.470" style="s2"><span style="s3">student</span> even said that students rarely</p>
+<p begin="00:11:13.500" end="00:11:18.000" style="s2">have enough time to to have or like to</p>
+<p begin="00:11:16.470" end="00:11:20.610" style="s2">learn about computer sciences and</p>
+<p begin="00:11:18.000" end="00:11:22.470" style="s2">through schools even though in the</p>
+<p begin="00:11:20.610" end="00:11:25.170" style="s2">survey these they find computer<span style="s3"> science</span></p>
+<p begin="00:11:22.470" end="00:11:28.440" style="s2">to be pretty important to like skill to</p>
+<p begin="00:11:25.170" end="00:11:31.620" style="s2">learn another thing<span style="s4"> that</span> we had gathered</p>
+<p begin="00:11:28.440" end="00:11:33.420" style="s2">in the student surveys were um we asked</p>
+<p begin="00:11:31.620" end="00:11:35.940" style="s2"><span style="s3">him</span> what the career path one it&#39;s<span style="s4"> like</span></p>
+<p begin="00:11:33.420" end="00:11:38.100" style="s2">what they wanted to<span style="s3"> do</span> in life and for</p>
+<p begin="00:11:35.940" end="00:11:39.480" style="s2"><span style="s4">example</span> I can gaming you can see<span style="s3"> 21</span></p>
+<p begin="00:11:38.100" end="00:11:41.970" style="s2">students and<span style="s3"> they</span> wanted<span style="s3"> to</span> pursue</p>
+<p begin="00:11:39.480" end="00:11:44.160" style="s2">gaining and<span style="s4"> 50</span> students want to pursue</p>
+<p begin="00:11:41.970" end="00:11:47.130" style="s2">something<span style="s3"> a</span> medical<span style="s3"> field</span> and like</p>
+<p begin="00:11:44.160" end="00:11:49.170" style="s2">students there they feel as if they</p>
+<p begin="00:11:47.130" end="00:11:50.970" style="s2">don&#39;t have to learn CS because they&#39;re</p>
+<p begin="00:11:49.170" end="00:11:54.079" style="s2">like my career path doesn&#39;t entail that</p>
+<p begin="00:11:50.970" end="00:11:56.399" style="s2">I don&#39;t I don&#39;t need<span style="s4"> to</span> learn it but I</p>
+<p begin="00:11:54.079" end="00:11:58.380" style="s2">mean if you look at their careers I&#39;m</p>
+<p begin="00:11:56.399" end="00:12:01.769" style="s2">pretty sure and most of them like you</p>
+<p begin="00:11:58.380" end="00:12:03.360" style="s2">know we use a computer<span style="s3"> and</span> like<span style="s3"> I&#39;m we</span></p>
+<p begin="00:12:01.769" end="00:12:05.519" style="s2">use the computer in<span style="s3"> the</span> arts we use a</p>
+<p begin="00:12:03.360" end="00:12:08.250" style="s2">computer<span style="s3"> and</span> medical field like and we</p>
+<p begin="00:12:05.519" end="00:12:10.319" style="s2">want to like a takeaway from these from</p>
+<p begin="00:12:08.250" end="00:12:12.899" style="s2">this data from like the survey was that</p>
+<p begin="00:12:10.319" end="00:12:16.290" style="s2">like we need<span style="s4"> to</span> supply educators with a</p>
+<p begin="00:12:12.899" end="00:12:18.149" style="s2">curriculum that like top down<span style="s3"> um</span> that</p>
+<p begin="00:12:16.290" end="00:12:20.430" style="s2">connects like these popular careers like</p>
+<p begin="00:12:18.149" end="00:12:22.290" style="s2">for example like you can give a class on</p>
+<p begin="00:12:20.430" end="00:12:25.110" style="s2">the<span style="s3"> medical</span> data and a clinical trial on</p>
+<p begin="00:12:22.290" end="00:12:27.720" style="s2">how they use computers to analyze that</p>
+<p begin="00:12:25.110" end="00:12:29.370" style="s2">data and like<span style="s3"> further</span> the research and</p>
+<p begin="00:12:27.720" end="00:12:31.199" style="s2">even though you&#39;re going in the medical</p>
+<p begin="00:12:29.370" end="00:12:34.860" style="s2">field you know automatic think of cs but</p>
+<p begin="00:12:31.199" end="00:12:37.529" style="s2">you do use computers another thing we</p>
+<p begin="00:12:34.860" end="00:12:40.139" style="s2">also gasps from this we also gather from</p>
+<p begin="00:12:37.529" end="00:12:42.899" style="s2">the student surveys where like the axis</p>
+<p begin="00:12:40.139" end="00:12:45.329" style="s2">between computers and mobile access so</p>
+<p begin="00:12:42.899" end="00:12:47.670" style="s2">like we saw that there&#39;s a need for</p>
+<p begin="00:12:45.329" end="00:12:50.040" style="s2">mobile friendly resources in like</p>
+<p begin="00:12:47.670" end="00:12:51.750" style="s2">schools and like just resources that</p>
+<p begin="00:12:50.040" end="00:12:54.779" style="s2">provide to the student so the question</p>
+<p begin="00:12:51.750" end="00:12:57.329" style="s2">we had asked what was what technology do</p>
+<p begin="00:12:54.779" end="00:12:59.819" style="s2">they like regular use like per week like</p>
+<p begin="00:12:57.329" end="00:13:03.209" style="s2">three to four three to five<span style="s4"> times</span> a<span style="s4"> week</span></p>
+<p begin="00:12:59.819" end="00:13:05.310" style="s2">and even<span style="s4"> though</span> like 78.2 percent</p>
+<p begin="00:13:03.209" end="00:13:08.759" style="s2">students said that they use<span style="s4"> the</span> computer</p>
+<p begin="00:13:05.310" end="00:13:11.370" style="s2">mostly every<span style="s4"> students</span> that on actually</p>
+<p begin="00:13:08.759" end="00:13:15.750" style="s2">exactly 93.3 percent of students said</p>
+<p begin="00:13:11.370" end="00:13:17.819" style="s2">that they use a smartphone um on like</p>
+<p begin="00:13:15.750" end="00:13:20.610" style="s2">weekly and from here we took away that</p>
+<p begin="00:13:17.819" end="00:13:23.519" style="s2">like we need learning tools that are</p>
+<p begin="00:13:20.610" end="00:13:25.860" style="s2">more<span style="s3"> mobile-friendly</span> to increase like</p>
+<p begin="00:13:23.519" end="00:13:27.959" style="s2">self studying and stuff and like have</p>
+<p begin="00:13:25.860" end="00:13:29.790" style="s2">more learning access to<span style="s4"> Austin</span> and<span style="s3"> so</span></p>
+<p begin="00:13:27.959" end="00:13:31.230" style="s2">it&#39;s like BYOD like bring your<span style="s3"> own</span></p>
+<p begin="00:13:29.790" end="00:13:33.540" style="s2">device and learn about computer science</p>
+<p begin="00:13:31.230" end="00:13:35.160" style="s2">within the classroom like<span style="s3"> I</span> mean</p>
+<p begin="00:13:33.540" end="00:13:37.680" style="s2">students<span style="s3"> are</span> like we all have our phones</p>
+<p begin="00:13:35.160" end="00:13:40.259" style="s2">like they all have their phones and I&#39;m</p>
+<p begin="00:13:37.680" end="00:13:42.360" style="s2"><span style="s3">finally</span> like a huge question that since</p>
+<p begin="00:13:40.259" end="00:13:44.040" style="s2">we had in the beginning like<span style="s3"> is</span> CS even</p>
+<p begin="00:13:42.360" end="00:13:46.620" style="s2">relevant like should<span style="s4"> I</span> even be in the</p>
+<p begin="00:13:44.040" end="00:13:50.160" style="s2">CPS curriculum and yes it is<span style="s3"> relevant</span></p>
+<p begin="00:13:46.620" end="00:13:51.720" style="s2">like and like i said before like 78.1</p>
+<p begin="00:13:50.160" end="00:13:53.790" style="s2">percent of students said yes</p>
+<p begin="00:13:51.720" end="00:13:55.769" style="s2">TS is needed like CSS a skill we all</p>
+<p begin="00:13:53.790" end="00:13:56.879" style="s2">should obtain like<span style="s4"> ended</span> why shouldn&#39;t</p>
+<p begin="00:13:55.769" end="00:13:59.610" style="s2">it be in high school why shouldn&#39;t we</p>
+<p begin="00:13:56.879" end="00:14:01.079" style="s2">learn it done like some quotes that we</p>
+<p begin="00:13:59.610" end="00:14:03.660" style="s2">had gathered from the student interviews</p>
+<p begin="00:14:01.079" end="00:14:06.149" style="s2">and the surveys was one<span style="s3"> that</span> really<span style="s3"> stir</span></p>
+<p begin="00:14:03.660" end="00:14:07.740" style="s2">like most jobs in the future or now deal</p>
+<p begin="00:14:06.149" end="00:14:09.240" style="s2">with computer science in some way and</p>
+<p begin="00:14:07.740" end="00:14:11.069" style="s2">knowing these skills will help you</p>
+<p begin="00:14:09.240" end="00:14:13.319" style="s2">prepare will help prepare students for</p>
+<p begin="00:14:11.069" end="00:14:16.290" style="s2">their future jobs and actually a quote<span style="s3"> I</span></p>
+<p begin="00:14:13.319" end="00:14:17.639" style="s2">really like<span style="s4"> to</span> they said it<span style="s4"> is</span> essential</p>
+<p begin="00:14:16.290" end="00:14:19.920" style="s2">for<span style="s3"> the</span> new generation to be</p>
+<p begin="00:14:17.639" end="00:14:21.720" style="s2">technologically<span style="s3"> literate</span> seeing as this</p>
+<p begin="00:14:19.920" end="00:14:24.120" style="s2">technology the instant keeps developing</p>
+<p begin="00:14:21.720" end="00:14:25.889" style="s2">and is being rapidly<span style="s4"> integrated</span> and our</p>
+<p begin="00:14:24.120" end="00:14:28.470" style="s2">everyday functions and that&#39;s all</p>
+<p begin="00:14:25.889" end="00:14:30.240" style="s2">evident to us and a huge check away from</p>
+<p begin="00:14:28.470" end="00:14:32.310" style="s2">that was<span style="s4"> that</span> most students like<span style="s4"> being</span></p>
+<p begin="00:14:30.240" end="00:14:33.779" style="s2">know the importance of it they<span style="s4"> know</span> it&#39;s</p>
+<p begin="00:14:32.310" end="00:14:36.839" style="s2">a<span style="s4"> valuable</span> skill that we should learn</p>
+<p begin="00:14:33.779" end="00:14:38.730" style="s2">early on but like students faced a bunch</p>
+<p begin="00:14:36.839" end="00:14:40.889" style="s2">of barriers like do they have<span style="s3"> the</span> tech</p>
+<p begin="00:14:38.730" end="00:14:42.959" style="s2">for it do they have the<span style="s3"> resources</span> to</p>
+<p begin="00:14:40.889" end="00:14:45.360" style="s2">inform do they have the interested</p>
+<p begin="00:14:42.959" end="00:14:47.519" style="s2">mentors are teaching it and like just to</p>
+<p begin="00:14:45.360" end="00:14:50.720" style="s2">preach like pursue computer science over</p>
+<p begin="00:14:47.519" end="00:14:55.189" style="s2">time and to pass it on to talk about</p>
+<p begin="00:14:50.720" end="00:14:55.189" style="s2">edgy map I will pass it<span style="s4"> to</span> Marshall</p>
+<p begin="00:14:56.149" end="00:15:01.559" style="s2">hello there uh so I&#39;m<span style="s4"> gonna start by</span></p>
+<p begin="00:14:59.730" end="00:15:04.920" style="s2">asking you guys a question<span style="s3"> how</span> many of</p>
+<p begin="00:15:01.559" end="00:15:07.500" style="s2">you tried to hunt<span style="s3"> down</span> a teacher to get</p>
+<p begin="00:15:04.920" end="00:15:09.540" style="s2">information<span style="s4"> from</span><span style="s3"> them</span> show of hands and</p>
+<p begin="00:15:07.500" end="00:15:11.910" style="s2"><span style="s3">not</span> many<span style="s4"> well</span> it&#39;s<span style="s3"> pretty</span> difficult and</p>
+<p begin="00:15:09.540" end="00:15:14.699" style="s2">that&#39;s what we<span style="s4"> did</span> we spend a lot of</p>
+<p begin="00:15:11.910" end="00:15:16.860" style="s2">time doing that and you know<span style="s3"> as</span> a result</p>
+<p begin="00:15:14.699" end="00:15:19.559" style="s2">we ended up getting fewer teachers than</p>
+<p begin="00:15:16.860" end="00:15:23.459" style="s2"><span style="s3">we</span> had originally interpreted and on top</p>
+<p begin="00:15:19.559" end="00:15:25.139" style="s2">of that not<span style="s3"> only</span> did we get fewer</p>
+<p begin="00:15:23.459" end="00:15:27.569" style="s2">teachers but we had<span style="s4"> to</span> interview</p>
+<p begin="00:15:25.139" end="00:15:29.459" style="s2">teachers who taught a variety of</p>
+<p begin="00:15:27.569" end="00:15:31.860" style="s2"><span style="s4">different</span> grades not just computer</p>
+<p begin="00:15:29.459" end="00:15:33.629" style="s2">science teachers now I bet<span style="s3"> you</span> guys are</p>
+<p begin="00:15:31.860" end="00:15:36.649" style="s2">wondering<span style="s3"> what is edge your map well</span></p>
+<p begin="00:15:33.629" end="00:15:39.660" style="s2">edge your map is a compilation of</p>
+<p begin="00:15:36.649" end="00:15:42.149" style="s2">computer science resources for computer</p>
+<p begin="00:15:39.660" end="00:15:47.089" style="s2">science teachers to utilize and to help</p>
+<p begin="00:15:42.149" end="00:15:47.089" style="s2">build their curriculum so uh</p>
+<p begin="00:15:49.459" end="00:15:55.189" style="s2">so pretty much we went out and we did</p>
+<p begin="00:15:52.249" end="00:15:57.670" style="s2">usability tests and the usability test</p>
+<p begin="00:15:55.189" end="00:16:03.230" style="s2">was pretty much three different parts</p>
+<p begin="00:15:57.670" end="00:16:05.389" style="s2">the first part was just a simple first</p>
+<p begin="00:16:03.230" end="00:16:07.309" style="s2">impression thing we<span style="s3"> would</span> ask<span style="s3"> the</span></p>
+<p begin="00:16:05.389" end="00:16:09.100" style="s2">teachers what are the first three words</p>
+<p begin="00:16:07.309" end="00:16:11.029" style="s2">that comes to mind when<span style="s3"> you</span> see this</p>
+<p begin="00:16:09.100" end="00:16:13.879" style="s2">website interface and they would say</p>
+<p begin="00:16:11.029" end="00:16:17.480" style="s2"><span style="s4">things</span> like simple and seems easy seems</p>
+<p begin="00:16:13.879" end="00:16:19.850" style="s2">very usable so<span style="s4"> after</span><span style="s3"> that</span> we<span style="s3"> asked</span> them</p>
+<p begin="00:16:17.480" end="00:16:22.629" style="s2">a number of scale questions questions</p>
+<p begin="00:16:19.850" end="00:16:27.949" style="s2">from one to seven to gauge how<span style="s4"> they</span></p>
+<p begin="00:16:22.629" end="00:16:30.589" style="s2">interpret the interface to work one<span style="s3"> of</span></p>
+<p begin="00:16:27.949" end="00:16:33.499" style="s2">the<span style="s3"> questions</span> was how simple do you</p>
+<p begin="00:16:30.589" end="00:16:35.540" style="s2">think that this<span style="s3"> website</span> is to use and</p>
+<p begin="00:16:33.499" end="00:16:38.899" style="s2">they would<span style="s4"> just</span> give you a scale one to</p>
+<p begin="00:16:35.540" end="00:16:41.420" style="s2">seven another thing that<span style="s4"> we</span><span style="s3"> did</span> the</p>
+<p begin="00:16:38.899" end="00:16:44.869" style="s2">third<span style="s3"> part</span> of the usability tests were</p>
+<p begin="00:16:41.420" end="00:16:47.300" style="s2">little tasks or assignments<span style="s3"> pretty</span><span style="s4"> much</span></p>
+<p begin="00:16:44.869" end="00:16:49.610" style="s2">you&#39;re just a simple thing to look up</p>
+<p begin="00:16:47.300" end="00:16:53.049" style="s2">something and<span style="s4"> find</span> something one of<span style="s4"> the</span></p>
+<p begin="00:16:49.610" end="00:16:57.230" style="s2">questions was you&#39;re trying<span style="s4"> to</span><span style="s3"> find</span> a</p>
+<p begin="00:16:53.049" end="00:16:58.189" style="s2">lesson in CS math that&#39;s about 30</p>
+<p begin="00:16:57.230" end="00:17:00.410" style="s2">minutes long how would<span style="s4"> you</span> go about</p>
+<p begin="00:16:58.189" end="00:17:01.699" style="s2">doing that and we would ask<span style="s3"> them</span> that</p>
+<p begin="00:17:00.410" end="00:17:03.949" style="s2"><span style="s3">and</span> they would carry<span style="s3"> out</span> the task</p>
+<p begin="00:17:01.699" end="00:17:06.890" style="s2">sometimes it would<span style="s4"> be</span> you know quick</p>
+<p begin="00:17:03.949" end="00:17:08.929" style="s2">sometimes it would take a while<span style="s3"> so</span> once</p>
+<p begin="00:17:06.890" end="00:17:09.829" style="s2">again I&#39;m<span style="s3"> going to pass</span><span style="s4"> it</span><span style="s3"> off</span> to Daniel</p>
+<p begin="00:17:08.929" end="00:17:14.770" style="s2">and he&#39;s going<span style="s3"> to tell you a bit more</span></p>
+<p begin="00:17:09.829" end="00:17:14.770" style="s2">about<span style="s3"> our</span> takeaways take it away Daniel</p>
+<p begin="00:17:17.169" end="00:17:23.179" style="s2">thank you my sure I&#39;ll take aways oh we</p>
+<p begin="00:17:20.929" end="00:17:25.850" style="s2">have four degrees the first thing<span style="s3"> way</span> we</p>
+<p begin="00:17:23.179" end="00:17:28.760" style="s2"><span style="s3">found</span> out is<span style="s3"> um</span> the exposure we found</p>
+<p begin="00:17:25.850" end="00:17:30.740" style="s2"><span style="s3">out</span> that basically all<span style="s4"> CPS</span><span style="s3"> of</span> students</p>
+<p begin="00:17:28.760" end="00:17:34.490" style="s2">are<span style="s4"> not</span> actually I supposed to copy of</p>
+<p begin="00:17:30.740" end="00:17:37.549" style="s2">science we found our sake but based on</p>
+<p begin="00:17:34.490" end="00:17:39.500" style="s2">survey we found out that 78.1 percent</p>
+<p begin="00:17:37.549" end="00:17:41.450" style="s2">students think that culture science is</p>
+<p begin="00:17:39.500" end="00:17:43.549" style="s2">actually relevant which is actually</p>
+<p begin="00:17:41.450" end="00:17:45.740" style="s2">means<span style="s3"> it&#39;s relevant but the shocking</span></p>
+<p begin="00:17:43.549" end="00:17:48.549" style="s2">news is<span style="s4"> Terry</span> point<span style="s3"> one</span> percent of state</p>
+<p begin="00:17:45.740" end="00:17:52.309" style="s2">actually exposed to computer science so</p>
+<p begin="00:17:48.549" end="00:17:54.380" style="s2"><span style="s3">that</span> shows the gap of where we are and</p>
+<p begin="00:17:52.309" end="00:17:56.840" style="s2">where<span style="s4"> we</span> want<span style="s4"> to</span> be and we all<span style="s3"> know</span> that</p>
+<p begin="00:17:54.380" end="00:17:59.389" style="s2">actually is<span style="s4"> Nelly</span> what most<span style="s3"> of</span> the jobs</p>
+<p begin="00:17:56.840" end="00:18:01.370" style="s2">are going to<span style="s3"> be</span> most required I like a</p>
+<p begin="00:17:59.389" end="00:18:03.210" style="s2">fundamental knowledge about computer</p>
+<p begin="00:18:01.370" end="00:18:06.840" style="s2">science we also found</p>
+<p begin="00:18:03.210" end="00:18:08.669" style="s2">that um that the usability website which</p>
+<p begin="00:18:06.840" end="00:18:11.279" style="s2">is<span style="s4"> an ED map has to be like a</span> mobile</p>
+<p begin="00:18:08.669" end="00:18:14.940" style="s2">website because based on the<span style="s4"> Asus</span> code</p>
+<p begin="00:18:11.279" end="00:18:17.520" style="s2"><span style="s3">we</span><span style="s4"> assess</span> data we<span style="s3"> find</span> out that 93.3</p>
+<p begin="00:18:14.940" end="00:18:18.690" style="s2">percent of the students are having<span style="s3"> their</span></p>
+<p begin="00:18:17.520" end="00:18:20.940" style="s2">smartphones and we all know that</p>
+<p begin="00:18:18.690" end="00:18:24.270" style="s2">teachers also use the smart phones all</p>
+<p begin="00:18:20.940" end="00:18:26.760" style="s2">the time and we also find out that<span style="s3"> on</span></p>
+<p begin="00:18:24.270" end="00:18:29.159" style="s2">the third<span style="s3"> takeaway</span> is that we found<span style="s3"> out</span></p>
+<p begin="00:18:26.760" end="00:18:31.470" style="s2">that<span style="s3"> the</span> edge amount should be<span style="s4"> an app</span></p>
+<p begin="00:18:29.159" end="00:18:33.990" style="s2">because like I know like almost</p>
+<p begin="00:18:31.470" end="00:18:37.500" style="s2">everybody<span style="s3"> has</span> an app like is<span style="s3"> anybody</span></p>
+<p begin="00:18:33.990" end="00:18:39.450" style="s2">using an app right now so basically</p>
+<p begin="00:18:37.500" end="00:18:42.049" style="s2">everybody is actually in a nap so that&#39;s</p>
+<p begin="00:18:39.450" end="00:18:44.640" style="s2">like<span style="s3"> a</span> quicker way to get<span style="s3"> resources</span> and</p>
+<p begin="00:18:42.049" end="00:18:47.700" style="s2">no fourth take away we found out is that</p>
+<p begin="00:18:44.640" end="00:18:49.500" style="s2">teachers actually enjoyed the<span style="s3"> the</span></p>
+<p begin="00:18:47.700" end="00:18:51.570" style="s2">website even<span style="s4"> though</span> it took them</p>
+<p begin="00:18:49.500" end="00:18:54.059" style="s2">sometimes to go through it because it&#39;s</p>
+<p begin="00:18:51.570" end="00:18:55.860" style="s2">kind<span style="s4"> of</span> like um easy boy kind<span style="s3"> of</span></p>
+<p begin="00:18:54.059" end="00:18:57.600" style="s2"><span style="s3">complicated</span> since you like<span style="s3"> after</span> look</p>
+<p begin="00:18:55.860" end="00:18:59.399" style="s2">for it on<span style="s3"> your</span> own curriculum and what</p>
+<p begin="00:18:57.600" end="00:19:01.620" style="s2">topic you have<span style="s3"> to</span> teach but they think</p>
+<p begin="00:18:59.399" end="00:19:04.230" style="s2"><span style="s4">there&#39;s</span> some improvement<span style="s3"> as</span> to go into</p>
+<p begin="00:19:01.620" end="00:19:06.570" style="s2"><span style="s3">it</span> like on the search but<span style="s3"> the</span> search</p>
+<p begin="00:19:04.230" end="00:19:08.220" style="s2">button actually looking<span style="s4"> like</span> you could</p>
+<p begin="00:19:06.570" end="00:19:09.990" style="s2">put the number of time on my<span style="s4"> hours</span> you</p>
+<p begin="00:19:08.220" end="00:19:13.460" style="s2">want to put in the side button and the</p>
+<p begin="00:19:09.990" end="00:19:16.440" style="s2">topic<span style="s3"> and</span> it&#39;s going<span style="s3"> to bring it out and</span></p>
+<p begin="00:19:13.460" end="00:19:18.809" style="s2">to term two if you want to go to the</p>
+<p begin="00:19:16.440" end="00:19:21.210" style="s2">link you can click or<span style="s4"> dad</span> to<span style="s3"> go</span> to the</p>
+<p begin="00:19:18.809" end="00:19:24.630" style="s2">elder map website where you see the</p>
+<p begin="00:19:21.210" end="00:19:28.470" style="s2"><span style="s3">interim</span> interface and I&#39;m our<span style="s4"> colon</span> if</p>
+<p begin="00:19:24.630" end="00:19:30.960" style="s2">we talk<span style="s4"> about</span> the data map activity um</p>
+<p begin="00:19:28.470" end="00:19:33.299" style="s2">thank you everyone and<span style="s3"> I</span> also just want</p>
+<p begin="00:19:30.960" end="00:19:35.460" style="s2">to say one<span style="s4"> more</span> thank you to the members</p>
+<p begin="00:19:33.299" end="00:19:38.039" style="s2">of teach tech task force who worked over</p>
+<p begin="00:19:35.460" end="00:19:40.409" style="s2">the course of about<span style="s4"> 12</span> months<span style="s3"> to</span> build a</p>
+<p begin="00:19:38.039" end="00:19:42.240" style="s2">tool for<span style="s4"> theatre</span> all teachers that were</p>
+<p begin="00:19:40.409" end="00:19:44.669" style="s2">now improving and so I&#39;m<span style="s4"> making</span> a plug</p>
+<p begin="00:19:42.240" end="00:19:46.440" style="s2">for our breakout group as well we&#39;re</p>
+<p begin="00:19:44.669" end="00:19:48.210" style="s2">looking<span style="s3"> for</span> rails developers and</p>
+<p begin="00:19:46.440" end="00:19:49.649" style="s2">front-end developers to help<span style="s3"> implement</span></p>
+<p begin="00:19:48.210" end="00:19:51.659" style="s2">some of the improvements that we need</p>
+<p begin="00:19:49.649" end="00:19:54.210" style="s2">before we release it to teachers</p>
+<p begin="00:19:51.659" end="00:19:56.700" style="s2">district-wide tonight we&#39;re also going</p>
+<p begin="00:19:54.210" end="00:19:59.010" style="s2">to be experimenting with our youth UX</p>
+<p begin="00:19:56.700" end="00:20:00.990" style="s2">curriculum we&#39;ve been starting a book</p>
+<p begin="00:19:59.010" end="00:20:05.279" style="s2">for teens<span style="s3"> about</span> data and user experience</p>
+<p begin="00:20:00.990" end="00:20:08.700" style="s2"><span style="s4">design</span> that can help them with improve</p>
+<p begin="00:20:05.279" end="00:20:10.409" style="s2">their own<span style="s4"> civic</span> systems so if you want</p>
+<p begin="00:20:08.700" end="00:20:12.059" style="s2"><span style="s3">to</span> check<span style="s3"> out</span> a data Maps activity it&#39;s</p>
+<p begin="00:20:10.409" end="00:20:16.179" style="s2">kind of a puzzle game for thinking about</p>
+<p begin="00:20:12.059" end="00:20:17.830" style="s2">a data system come hang out and</p>
+<p begin="00:20:16.179" end="00:20:19.330" style="s2">if you have an<span style="s4"> interest</span> in reading and</p>
+<p begin="00:20:17.830" end="00:20:21.429" style="s2">giving feedback on the first few</p>
+<p begin="00:20:19.330" end="00:20:23.889" style="s2">chapters of the youth UX field guide we</p>
+<p begin="00:20:21.429" end="00:20:26.350" style="s2">would love<span style="s3"> that</span> as well<span style="s3"> so that&#39;s it</span><span style="s4"> for</span></p>
+<p begin="00:20:23.889" end="00:20:41.710" style="s2">us and we thanks so much<span style="s3"> again</span> for</p>
+<p begin="00:20:26.350" end="00:20:43.480" style="s2">hosting us any<span style="s4"> questions</span> please also</p>
+<p begin="00:20:41.710" end="00:20:46.720" style="s2">please remember during the<span style="s3"> Q&amp;A</span> portion</p>
+<p begin="00:20:43.480" end="00:20:49.720" style="s2">that it&#39;s Q and a question-and-answer</p>
+<p begin="00:20:46.720" end="00:20:52.749" style="s2">not question pitch for<span style="s3"> your</span> side project</p>
+<p begin="00:20:49.720" end="00:20:56.409" style="s2">and then so please speaking sense to<span style="s3"> get</span></p>
+<p begin="00:20:52.749" end="00:20:59.110" style="s2">ever any chance thanks ship anyway I</p>
+<p begin="00:20:56.409" end="00:21:01.869" style="s2">with questions yet the guys are</p>
+<p begin="00:20:59.110" end="00:21:05.679" style="s2">spectacular I mean all of you thank you</p>
+<p begin="00:21:01.869" end="00:21:11.049" style="s2">and I&#39;m really sorry for my question um</p>
+<p begin="00:21:05.679" end="00:21:13.749" style="s2"><span style="s4">I&#39;m</span> kind<span style="s3"> of</span> sound<span style="s4"> like</span> when<span style="s4"> you</span> say you</p>
+<p begin="00:21:11.049" end="00:21:15.759" style="s2">know um computer science education is</p>
+<p begin="00:21:13.749" end="00:21:18.639" style="s2">essential to like basic computer</p>
+<p begin="00:21:15.759" end="00:21:21.249" style="s2">literacy like unfair already existing</p>
+<p begin="00:21:18.639" end="00:21:23.289" style="s2">like in libraries and such courses that</p>
+<p begin="00:21:21.249" end="00:21:27.039" style="s2">do teach like basic computer literacy</p>
+<p begin="00:21:23.289" end="00:21:30.009" style="s2">like why is that like it&#39;s<span style="s3"> not</span> high</p>
+<p begin="00:21:27.039" end="00:21:42.490" style="s2">enough of a bar likewise fold like</p>
+<p begin="00:21:30.009" end="00:21:44.919" style="s2">computer science education needed so so</p>
+<p begin="00:21:42.490" end="00:21:46.749" style="s2">basically it is not actually enough</p>
+<p begin="00:21:44.919" end="00:21:49.720" style="s2">because you know that technology is</p>
+<p begin="00:21:46.749" end="00:21:51.490" style="s2">actually advancing and if as technology</p>
+<p begin="00:21:49.720" end="00:21:53.830" style="s2">advances is advancing everybody should</p>
+<p begin="00:21:51.490" end="00:21:55.990" style="s2"><span style="s4">know</span> how to<span style="s4"> operate</span> it rather<span style="s3"> than</span> like</p>
+<p begin="00:21:53.830" end="00:21:58.419" style="s2">a little set of<span style="s3"> people</span> because<span style="s3"> that&#39;s</span></p>
+<p begin="00:21:55.990" end="00:22:00.639" style="s2">like okay you&#39;ve like I actually found</p>
+<p begin="00:21:58.419" end="00:22:02.740" style="s2">out that<span style="s4"> basin</span> right now most<span style="s3"> of</span> the</p>
+<p begin="00:22:00.639" end="00:22:05.259" style="s2">jobs are like for college student right</p>
+<p begin="00:22:02.740" end="00:22:08.440" style="s2">not I school student so like if the</p>
+<p begin="00:22:05.259" end="00:22:10.419" style="s2">lowest people like having<span style="s4"> experience</span> to</p>
+<p begin="00:22:08.440" end="00:22:12.039" style="s2">computer science damage like that&#39;s just</p>
+<p begin="00:22:10.419" end="00:22:13.629" style="s2">a set of<span style="s4"> people</span> that are going<span style="s3"> to</span> like</p>
+<p begin="00:22:12.039" end="00:22:15.879" style="s2">be able<span style="s3"> to operate computer science</span></p>
+<p begin="00:22:13.629" end="00:22:17.110" style="s2">though but that shows like even the</p>
+<p begin="00:22:15.879" end="00:22:19.269" style="s2">program is not going to be enough</p>
+<p begin="00:22:17.110" end="00:22:21.490" style="s2">because as things advantage we should</p>
+<p begin="00:22:19.269" end="00:22:24.580" style="s2">get<span style="s3"> more</span> knowledge about it that&#39;s why<span style="s3"> I</span></p>
+<p begin="00:22:21.490" end="00:22:28.169" style="s2">will say the<span style="s3"> computer courses taught in</span></p>
+<p begin="00:22:24.580" end="00:22:28.169" style="s2">the library are not actually enough</p>
+<p begin="00:22:28.550" end="00:22:33.290" style="s2"><span style="s3">I&#39;m</span> also gonna mention a couple things</p>
+<p begin="00:22:30.560" end="00:22:37.310" style="s2"><span style="s3">about</span> that there was one<span style="s3"> survey</span> question</p>
+<p begin="00:22:33.290" end="00:22:38.840" style="s2">that we asked and<span style="s3"> it</span> was do you think</p>
+<p begin="00:22:37.310" end="00:22:41.720" style="s2">computer science is important and if not</p>
+<p begin="00:22:38.840" end="00:22:43.730" style="s2">why we were looking at<span style="s3"> the</span> yeses and the</p>
+<p begin="00:22:41.720" end="00:22:46.430" style="s2">nose and the maybes and a lot of the</p>
+<p begin="00:22:43.730" end="00:22:47.930" style="s2">nose were about like careers they would</p>
+<p begin="00:22:46.430" end="00:22:49.700" style="s2">be like no I&#39;m not interested in</p>
+<p begin="00:22:47.930" end="00:22:52.880" style="s2"><span style="s3">computer</span> science because I don&#39;t<span style="s4"> want</span> to</p>
+<p begin="00:22:49.700" end="00:22:55.400" style="s2">do computer science as a career so we</p>
+<p begin="00:22:52.880" end="00:22:58.670" style="s2">came to realize<span style="s4"> that</span> a lot of people</p>
+<p begin="00:22:55.400" end="00:23:01.160" style="s2">don&#39;t really like fully understand the</p>
+<p begin="00:22:58.670" end="00:23:03.500" style="s2">entire roll of computer science and</p>
+<p begin="00:23:01.160" end="00:23:07.070" style="s2">society where is it&#39;s more<span style="s3"> than</span> just a</p>
+<p begin="00:23:03.500" end="00:23:08.930" style="s2">career you know it&#39;s like going on</p>
+<p begin="00:23:07.070" end="00:23:11.450" style="s2"><span style="s3">facebook</span> it&#39;s like social<span style="s4"> media</span> it&#39;s a</p>
+<p begin="00:23:08.930" end="00:23:13.910" style="s2">lot more than<span style="s4"> just</span> that so that&#39;s</p>
+<p begin="00:23:11.450" end="00:23:23.500" style="s2">another thing that could probably<span style="s3"> answer</span></p>
+<p begin="00:23:13.910" end="00:23:23.500" style="s2">that question other questions<span style="s4"> okay</span> I</p>
+<p begin="00:23:27.520" end="00:23:33.860" style="s2">would just<span style="s4"> want</span> to echo that yeah you</p>
+<p begin="00:23:30.860" end="00:23:36.560" style="s2">guys did a great job it&#39;s<span style="s4"> not</span> easy going</p>
+<p begin="00:23:33.860" end="00:23:40.250" style="s2">over technical topics anywhere let alone</p>
+<p begin="00:23:36.560" end="00:23:44.660" style="s2">in front<span style="s4"> of</span> other technical people I&#39;m</p>
+<p begin="00:23:40.250" end="00:23:47.720" style="s2">curious<span style="s3"> did</span> free software play in any</p>
+<p begin="00:23:44.660" end="00:23:51.010" style="s2">way and if it did how is it<span style="s4"> D</span> texturized</p>
+<p begin="00:23:47.720" end="00:23:51.010" style="s2">to other students</p>
+<p begin="00:24:01.900" end="00:24:06.950" style="s2">increase<span style="s4"> honor</span> in the data collection</p>
+<p begin="00:24:04.400" end="00:24:10.220" style="s2">and analysis process or free software</p>
+<p begin="00:24:06.950" end="00:24:12.830" style="s2">used in cs4 all as a teaching tool yeah</p>
+<p begin="00:24:10.220" end="00:24:14.540" style="s2">someone&#39;s from exactly the<span style="s4"> latter</span> so for</p>
+<p begin="00:24:12.830" end="00:24:17.870" style="s2">example<span style="s4"> Linux</span> you can<span style="s3"> go</span> to the bottom</p>
+<p begin="00:24:14.540" end="00:24:21.220" style="s2">Python you go Bob Ruby for family bottom</p>
+<p begin="00:24:17.870" end="00:24:23.900" style="s2"><span style="s4">English</span> source code is<span style="s3"> free</span> open a</p>
+<p begin="00:24:21.220" end="00:24:31.460" style="s2">little<span style="s4"> bit entity is casinos more about</span></p>
+<p begin="00:24:23.900" end="00:24:32.929" style="s2"><span style="s4">Caesar</span><span style="s3"> mmm</span> true so um as far as what our</p>
+<p begin="00:24:31.460" end="00:24:36.290" style="s2">interns worked on and what they<span style="s4"> ask</span></p>
+<p begin="00:24:32.929" end="00:24:38.299" style="s2"><span style="s3">students</span> about things stayed very high</p>
+<p begin="00:24:36.290" end="00:24:40.340" style="s2">level so it&#39;s asking<span style="s3"> general</span> opinions</p>
+<p begin="00:24:38.299" end="00:24:42.679" style="s2">about computer science computer science</p>
+<p begin="00:24:40.340" end="00:24:45.049" style="s2">education not diving into specifically</p>
+<p begin="00:24:42.679" end="00:24:46.910" style="s2">what the curriculum is like all the</p>
+<p begin="00:24:45.049" end="00:24:49.460" style="s2">tools we used are things that are free</p>
+<p begin="00:24:46.910" end="00:24:53.059" style="s2">to us our product dead you map is open</p>
+<p begin="00:24:49.460" end="00:24:55.640" style="s2">source but we didn&#39;t dive into the</p>
+<p begin="00:24:53.059" end="00:24:58.690" style="s2">details of like how you can really<span style="s3"> get</span> a</p>
+<p begin="00:24:55.640" end="00:25:01.309" style="s2">good computer science education by like</p>
+<p begin="00:24:58.690" end="00:25:02.900" style="s2">learning like like<span style="s3"> I</span> did once upon a</p>
+<p begin="00:25:01.309" end="00:25:04.520" style="s2">time like installing linux breaking</p>
+<p begin="00:25:02.900" end="00:25:06.410" style="s2">everything horribly figuring out how it</p>
+<p begin="00:25:04.520" end="00:25:07.549" style="s2">worked and then gradually<span style="s3"> building</span> up on</p>
+<p begin="00:25:06.410" end="00:25:08.960" style="s2">knowledge that&#39;s one of the ways that</p>
+<p begin="00:25:07.549" end="00:25:12.530" style="s2">you can get<span style="s3"> a</span> good computer science</p>
+<p begin="00:25:08.960" end="00:25:14.690" style="s2">education i agree but um<span style="s3"> that</span> that&#39;s</p>
+<p begin="00:25:12.530" end="00:25:17.530" style="s2">separate from the<span style="s4"> the</span> project that<span style="s3"> the</span></p>
+<p begin="00:25:14.690" end="00:25:17.530" style="s2">interns were working on</p>
+<p begin="00:25:26.470" end="00:25:31.340" style="s2">so quick question<span style="s4"> did you guys include</span></p>
+<p begin="00:25:29.179" end="00:25:32.840" style="s2">librarians in your survey teachers talk</p>
+<p begin="00:25:31.340" end="00:25:35.000" style="s2">to and if<span style="s4"> so</span> how did<span style="s3"> that</span> conversation</p>
+<p begin="00:25:32.840" end="00:25:36.830" style="s2">changed a little bit just<span style="s3"> because</span> the</p>
+<p begin="00:25:35.000" end="00:25:38.929" style="s2">few programs I&#39;ve done it at<span style="s3"> it&#39;s</span></p>
+<p begin="00:25:36.830" end="00:25:41.570" style="s2">actually found the librarians<span style="s4"> poured</span> the</p>
+<p begin="00:25:38.929" end="00:25:43.460" style="s2">ones<span style="s3"> tonight</span> champion champion I can&#39;t</p>
+<p begin="00:25:41.570" end="00:25:45.440" style="s2">talk to<span style="s4"> it</span><span style="s3"> they&#39;re</span> the ones leaving the</p>
+<p begin="00:25:43.460" end="00:25:48.770" style="s2">leaving the calls<span style="s3"> and</span> I&#39;m kind of really</p>
+<p begin="00:25:45.440" end="00:25:50.870" style="s2">great<span style="s4"> help um back head that intersects</span></p>
+<p begin="00:25:48.770" end="00:26:00.710" style="s2">with some of the more classroom teachers</p>
+<p begin="00:25:50.870" end="00:26:02.929" style="s2">as you will when we&#39;re serving our yeah</p>
+<p begin="00:26:00.710" end="00:26:05.630" style="s2">when we conducted our surveys we did not</p>
+<p begin="00:26:02.929" end="00:26:08.290" style="s2">include librarians but that sounds<span style="s4"> like</span></p>
+<p begin="00:26:05.630" end="00:26:10.910" style="s2">something very interesting to dive into</p>
+<p begin="00:26:08.290" end="00:26:12.440" style="s2">and i&#39;ll<span style="s3"> just</span> make a side comment that</p>
+<p begin="00:26:10.910" end="00:26:14.150" style="s2">in our<span style="s3"> district</span> there are a lot of</p>
+<p begin="00:26:12.440" end="00:26:15.950" style="s2">teachers who<span style="s4"> are</span> also the librarian and</p>
+<p begin="00:26:14.150" end="00:26:17.240" style="s2">also the tech<span style="s4"> co</span> so some of the teachers</p>
+<p begin="00:26:15.950" end="00:26:21.830" style="s2">that they spoke<span style="s3"> to</span> may have been a</p>
+<p begin="00:26:17.240" end="00:26:23.390" style="s2">librarian secretly and<span style="s3"> i</span> agree that</p>
+<p begin="00:26:21.830" end="00:26:25.340" style="s2"><span style="s4">that&#39;s</span> one of the avenues that we get a</p>
+<p begin="00:26:23.390" end="00:26:27.230" style="s2">lot of support and push from schools</p>
+<p begin="00:26:25.340" end="00:26:29.360" style="s2">because librarians are often responsible</p>
+<p begin="00:26:27.230" end="00:26:31.640" style="s2">for the digital literacy portion of a</p>
+<p begin="00:26:29.360" end="00:26:32.750" style="s2">student&#39;s education which is usually</p>
+<p begin="00:26:31.640" end="00:26:35.480" style="s2">separate from the computer science</p>
+<p begin="00:26:32.750" end="00:26:37.669" style="s2">education which is distinct so yeah</p>
+<p begin="00:26:35.480" end="00:26:39.559" style="s2">there are a lot of teachers<span style="s3"> that</span> play</p>
+<p begin="00:26:37.669" end="00:26:41.480" style="s2">multiple roles and tech<span style="s4"> O&#39;s</span> and</p>
+<p begin="00:26:39.559" end="00:26:47.720" style="s2">librarians are one of the sources of</p>
+<p begin="00:26:41.480" end="00:26:49.700" style="s2">support that<span style="s3"> we</span> have to add to<span style="s4"> what</span> Andy</p>
+<p begin="00:26:47.720" end="00:26:53.000" style="s2">said like we know that<span style="s4"> most</span> of the</p>
+<p begin="00:26:49.700" end="00:26:55.549" style="s2">student time is always<span style="s3"> in</span> school so um i</p>
+<p begin="00:26:53.000" end="00:26:58.220" style="s2">would say going to the library is kind</p>
+<p begin="00:26:55.549" end="00:27:00.890" style="s2">of like I&#39;m<span style="s3"> good</span> but like it&#39;s kind of a</p>
+<p begin="00:26:58.220" end="00:27:02.390" style="s2">strapon linear so lemon is like you</p>
+<p begin="00:27:00.890" end="00:27:03.669" style="s2">could<span style="s3"> just</span> focus on where the students</p>
+<p begin="00:27:02.390" end="00:27:05.900" style="s2">are<span style="s4"> actually</span> gonna get the education</p>
+<p begin="00:27:03.669" end="00:27:09.860" style="s2">because like going to the library is</p>
+<p begin="00:27:05.900" end="00:27:12.230" style="s2">like saying okay this is where like we</p>
+<p begin="00:27:09.860" end="00:27:14.059" style="s2">use for CPS right and CPI certain</p>
+<p begin="00:27:12.230" end="00:27:17.030" style="s2">actually operate in<span style="s3"> the</span> library kind of</p>
+<p begin="00:27:14.059" end="00:27:19.940" style="s2">but<span style="s4"> like I said like</span><span style="s3"> going</span> to life is a</p>
+<p begin="00:27:17.030" end="00:27:24.040" style="s2">good place but we&#39;re trying to focus on</p>
+<p begin="00:27:19.940" end="00:27:24.040" style="s2">the CPS<span style="s3"> and</span> I&#39;ll stood at learn</p>
+<p begin="00:27:25.580" end="00:27:33.850" style="s2">the<span style="s3"> questions</span> your clothes inside</p>
+<p begin="00:27:27.800" end="00:27:37.130" style="s2">there&#39;s a<span style="s4"> pose</span> as a vice my question is</p>
+<p begin="00:27:33.850" end="00:27:39.280" style="s2">regarding the outlook for increasing</p>
+<p begin="00:27:37.130" end="00:27:42.800" style="s2">computer science literacy among teachers</p>
+<p begin="00:27:39.280" end="00:27:46.130" style="s2">over the next<span style="s3"> 10</span> to 20 years to what</p>
+<p begin="00:27:42.800" end="00:27:48.020" style="s2">extent our teachers right now excited<span style="s4"> to</span></p>
+<p begin="00:27:46.130" end="00:27:53.390" style="s2">prepare<span style="s3"> to</span> teach about computer science</p>
+<p begin="00:27:48.020" end="00:27:55.580" style="s2">and<span style="s4"> that</span> to what extent is the education</p>
+<p begin="00:27:53.390" end="00:27:56.840" style="s2">system in<span style="s3"> America</span> producing teachers who</p>
+<p begin="00:27:55.580" end="00:28:00.530" style="s2">are capable<span style="s3"> of</span> teaching computer science</p>
+<p begin="00:27:56.840" end="00:28:03.440" style="s2">to two young audiences as opposed to</p>
+<p begin="00:28:00.530" end="00:28:05.090" style="s2"><span style="s4">going</span> into lucrative careers not<span style="s4"> to</span> say</p>
+<p begin="00:28:03.440" end="00:28:13.820" style="s2"><span style="s3">that</span> teaching oh my gosh it to shut up</p>
+<p begin="00:28:05.090" end="00:28:15.170" style="s2">I&#39;m gonna stop so again this is</p>
+<p begin="00:28:13.820" end="00:28:16.700" style="s2"><span style="s4">something</span> that is very important to<span style="s3"> the</span></p>
+<p begin="00:28:15.170" end="00:28:18.650" style="s2">initiative you need a teacher base that</p>
+<p begin="00:28:16.700" end="00:28:21.170" style="s2">is literate enough in computer science</p>
+<p begin="00:28:18.650" end="00:28:22.160" style="s2">to teach<span style="s4"> it</span> well and that&#39;s that&#39;s one</p>
+<p begin="00:28:21.170" end="00:28:24.770" style="s2">of the things<span style="s3"> that</span> we&#39;re<span style="s4"> working</span> to</p>
+<p begin="00:28:22.160" end="00:28:26.330" style="s2">create so so far we&#39;ve given</p>
+<p begin="00:28:24.770" end="00:28:28.730" style="s2">professional development to over 700</p>
+<p begin="00:28:26.330" end="00:28:30.920" style="s2">teachers on running certain curriculum</p>
+<p begin="00:28:28.730" end="00:28:32.960" style="s2">and computer science but separate from</p>
+<p begin="00:28:30.920" end="00:28:34.880" style="s2">that we&#39;re also working on creating a</p>
+<p begin="00:28:32.960" end="00:28:36.320" style="s2">base of teachers that<span style="s3"> have</span> a computer</p>
+<p begin="00:28:34.880" end="00:28:37.760" style="s2">science credential on their teaching</p>
+<p begin="00:28:36.320" end="00:28:39.440" style="s2">degree which means taking like a</p>
+<p begin="00:28:37.760" end="00:28:41.390" style="s2">master&#39;s degree worth of courses in</p>
+<p begin="00:28:39.440" end="00:28:42.590" style="s2">actual computer science so<span style="s3"> that</span> they&#39;re</p>
+<p begin="00:28:41.390" end="00:28:44.510" style="s2">not<span style="s4"> just</span><span style="s3"> being</span> trained<span style="s3"> to</span> use a</p>
+<p begin="00:28:42.590" end="00:28:46.640" style="s2">particular piece of curriculum they&#39;re</p>
+<p begin="00:28:44.510" end="00:28:49.250" style="s2">really becoming those that can</p>
+<p begin="00:28:46.640" end="00:28:51.440" style="s2">understand it go beyond what&#39;s on paper</p>
+<p begin="00:28:49.250" end="00:28:54.020" style="s2">and evaluate new resources creating</p>
+<p begin="00:28:51.440" end="00:28:55.730" style="s2">resources for the students<span style="s3"> so</span> starting</p>
+<p begin="00:28:54.020" end="00:28:57.980" style="s2"><span style="s3">in</span><span style="s4"> January I just got together a cohort</span></p>
+<p begin="00:28:55.730" end="00:29:00.020" style="s2">of 46 teachers that are going<span style="s3"> to</span> start</p>
+<p begin="00:28:57.980" end="00:29:03.860" style="s2">the pathway to get the credential at</p>
+<p begin="00:29:00.020" end="00:29:05.750" style="s2"><span style="s4">NEIU</span> and is you and that&#39;s<span style="s4"> not</span> nearly</p>
+<p begin="00:29:03.860" end="00:29:08.210" style="s2">enough we need close to a thousand at</p>
+<p begin="00:29:05.750" end="00:29:10.070" style="s2">the end<span style="s3"> of</span> the day but we&#39;re<span style="s4"> going to</span></p>
+<p begin="00:29:08.210" end="00:29:12.110" style="s2">get there<span style="s4"> I</span> think<span style="s3"> over</span> time as as more</p>
+<p begin="00:29:10.070" end="00:29:13.730" style="s2">and more people who are<span style="s3"> more</span> excited</p>
+<p begin="00:29:12.110" end="00:29:16.220" style="s2">than prepared referring to<span style="s3"> your</span> question</p>
+<p begin="00:29:13.730" end="00:29:18.710" style="s2">are getting into this so we&#39;re creating</p>
+<p begin="00:29:16.220" end="00:29:19.850" style="s2">pads for them more questions for<span style="s3"> the</span></p>
+<p begin="00:29:18.710" end="00:29:24.170" style="s2">interns please you can always talk to me</p>
+<p begin="00:29:19.850" end="00:29:25.880" style="s2">I&#39;m here I&#39;ve never<span style="s4"> been</span><span style="s3"> a</span> couple<span style="s3"> more</span></p>
+<p begin="00:29:24.170" end="00:29:28.670" style="s2">or I&#39;ll do this one</p>
+<p begin="00:29:25.880" end="00:29:30.720" style="s2">so I the finger of searching was</p>
+<p begin="00:29:28.670" end="00:29:34.170" style="s2">computer science in school but your</p>
+<p begin="00:29:30.720" end="00:29:35.310" style="s2">project itself was probably to me looked</p>
+<p begin="00:29:34.170" end="00:29:38.160" style="s2">a little bit different but related it&#39;s</p>
+<p begin="00:29:35.310" end="00:29:39.690" style="s2">more like a general<span style="s3"> data</span> or scientific</p>
+<p begin="00:29:38.160" end="00:29:42.090" style="s2">research project so I want<span style="s3"> to</span> hear about</p>
+<p begin="00:29:39.690" end="00:29:44.760" style="s2">what<span style="s3"> you</span> found in the process of doing</p>
+<p begin="00:29:42.090" end="00:29:46.140" style="s2">this project like what you enjoy<span style="s3"> what</span></p>
+<p begin="00:29:44.760" end="00:29:47.700" style="s2">you learn and how that affects your</p>
+<p begin="00:29:46.140" end="00:29:49.380" style="s2">perception of what you<span style="s3"> want to do it&#39;s</span></p>
+<p begin="00:29:47.700" end="00:29:59.040" style="s2">more data related or<span style="s3"> a few sites</span><span style="s4"> where</span></p>
+<p begin="00:29:49.380" end="00:30:06.660" style="s2"><span style="s3">though not month ago</span><span style="s4"> alright</span> I guess<span style="s4"> I</span></p>
+<p begin="00:29:59.040" end="00:30:08.310" style="s2">go<span style="s3"> alright alright so some of the</span></p>
+<p begin="00:30:06.660" end="00:30:11.130" style="s2">interesting things that<span style="s3"> I</span> got from our</p>
+<p begin="00:30:08.310" end="00:30:14.340" style="s2">research was that like even though the</p>
+<p begin="00:30:11.130" end="00:30:17.130" style="s2">student<span style="s4"> like</span> Jessica mentioned even</p>
+<p begin="00:30:14.340" end="00:30:19.770" style="s2"><span style="s3">though</span> the students are<span style="s4"> not</span> really into</p>
+<p begin="00:30:17.130" end="00:30:21.630" style="s2">computer science they know that it&#39;s</p>
+<p begin="00:30:19.770" end="00:30:24.150" style="s2">necessary for the future because they</p>
+<p begin="00:30:21.630" end="00:30:27.450" style="s2">see that they cannot go out a day with</p>
+<p begin="00:30:24.150" end="00:30:29.190" style="s2">other cell phones and how are they going</p>
+<p begin="00:30:27.450" end="00:30:31.550" style="s2">to be able to use more<span style="s3"> advanced</span></p>
+<p begin="00:30:29.190" end="00:30:36.000" style="s2"><span style="s4">technology</span> as they go deeper into our</p>
+<p begin="00:30:31.550" end="00:30:38.280" style="s2">into the future or like as we just go</p>
+<p begin="00:30:36.000" end="00:30:39.780" style="s2">deeper into life and so I think that</p>
+<p begin="00:30:38.280" end="00:30:42.180" style="s2">that really caught my attention that</p>
+<p begin="00:30:39.780" end="00:30:51.780" style="s2">this students are very<span style="s3"> interested</span> in to</p>
+<p begin="00:30:42.180" end="00:30:54.630" style="s2"><span style="s3">like</span> in learning computer science have a</p>
+<p begin="00:30:51.780" end="00:30:59.280" style="s2"><span style="s3">question</span> and as any<span style="s4"> of</span> you ever what</p>
+<p begin="00:30:54.630" end="00:31:02.610" style="s2">like a sci-fi movie like matrix any so</p>
+<p begin="00:30:59.280" end="00:31:05.960" style="s2"><span style="s3">basically</span> like seriously like does like</p>
+<p begin="00:31:02.610" end="00:31:08.580" style="s2">that suppose imagine a Magna tree</p>
+<p begin="00:31:05.960" end="00:31:12.210" style="s2">advance of Technology right so basically</p>
+<p begin="00:31:08.580" end="00:31:14.040" style="s2"><span style="s3">if</span> you think like um like if you think</p>
+<p begin="00:31:12.210" end="00:31:16.140" style="s2"><span style="s4">like</span> a student I know I supposed to</p>
+<p begin="00:31:14.040" end="00:31:19.010" style="s2"><span style="s3">computer</span> how would<span style="s4"> I be able to like</span></p>
+<p begin="00:31:16.140" end="00:31:21.620" style="s2">operate the matrix</p>
+<p begin="00:31:19.010" end="00:31:24.560" style="s2">so you yeah I said the question myself</p>
+<p begin="00:31:21.620" end="00:31:30.440" style="s2">so basically that&#39;s like what I totally</p>
+<p begin="00:31:24.560" end="00:31:32.360" style="s2">trust me don&#39;t do the survey so just</p>
+<p begin="00:31:30.440" end="00:31:35.690" style="s2">like quickly like you guys saw the video</p>
+<p begin="00:31:32.360" end="00:31:37.820" style="s2">where<span style="s3"> I</span> was awkwardly in um I just like</p>
+<p begin="00:31:35.690" end="00:31:40.820" style="s2">I came<span style="s3"> from</span> her school worse um they</p>
+<p begin="00:31:37.820" end="00:31:43.460" style="s2">didn&#39;t provide a CS class but like I was</p>
+<p begin="00:31:40.820" end="00:31:45.860" style="s2">exposed to some type of tech class in my</p>
+<p begin="00:31:43.460" end="00:31:48.050" style="s2">school which was nothing close to CS and</p>
+<p begin="00:31:45.860" end="00:31:50.840" style="s2">like from there<span style="s3"> I</span> had to go myself and</p>
+<p begin="00:31:48.050" end="00:31:52.880" style="s2">look for resources and teach myself how</p>
+<p begin="00:31:50.840" end="00:31:54.800" style="s2">to like cold in all this because i had a</p>
+<p begin="00:31:52.880" end="00:31:56.450" style="s2">like an interest in it but<span style="s3"> i</span> would<span style="s3"> have</span></p>
+<p begin="00:31:54.800" end="00:31:58.220" style="s2"><span style="s3">been</span> amazing if my school would have had</p>
+<p begin="00:31:56.450" end="00:32:00.620" style="s2">a class please give me the fundamentals</p>
+<p begin="00:31:58.220" end="00:32:02.120" style="s2">of<span style="s3"> it</span> like you don&#39;t<span style="s4"> know</span> who else like</p>
+<p begin="00:32:00.620" end="00:32:03.560" style="s2">in my school like they might have</p>
+<p begin="00:32:02.120" end="00:32:05.480" style="s2">sparked an interest in it but we don&#39;t</p>
+<p begin="00:32:03.560" end="00:32:08.000" style="s2">have<span style="s4"> the class so we would never get</span></p>
+<p begin="00:32:05.480" end="00:32:09.890" style="s2">exposed<span style="s3"> to</span> it so<span style="s4"> i</span> don&#39;t know that&#39;s why</p>
+<p begin="00:32:08.000" end="00:32:11.720" style="s2">i personally like really enjoy getting</p>
+<p begin="00:32:09.890" end="00:32:13.550" style="s2">like the data especially like I</p>
+<p begin="00:32:11.720" end="00:32:15.530" style="s2">interview specifc<span style="s3"> Elise</span> tudents from my</p>
+<p begin="00:32:13.550" end="00:32:17.030" style="s2">school and like more<span style="s4"> like</span> a lot of those</p>
+<p begin="00:32:15.530" end="00:32:19.040" style="s2">calls came from like them that they</p>
+<p begin="00:32:17.030" end="00:32:20.960" style="s2">don&#39;t<span style="s3"> get</span> any exposure but they know</p>
+<p begin="00:32:19.040" end="00:32:22.670" style="s2">there&#39;s a huge importance to CS and</p>
+<p begin="00:32:20.960" end="00:32:29.890" style="s2">there should be implemented<span style="s4"> in</span> CPS</p>
+<p begin="00:32:22.670" end="00:32:29.890" style="s2">schools all around last question</p>
+<p begin="00:32:31.070" end="00:32:37.650" style="s2">but yeah so I i kinda want to touch on</p>
+<p begin="00:32:35.790" end="00:32:39.960" style="s2">the question<span style="s4"> that</span> came up before about</p>
+<p begin="00:32:37.650" end="00:32:42.600" style="s2">like career paths of the<span style="s4"> steam</span><span style="s3"> responses</span></p>
+<p begin="00:32:39.960" end="00:32:45.270" style="s2"><span style="s3">that i kind of just like</span> ask a question</p>
+<p begin="00:32:42.600" end="00:32:55.770" style="s2">everyone here like raise your<span style="s3"> hand</span> if</p>
+<p begin="00:32:45.270" end="00:32:58.890" style="s2">you&#39;re in a career-high sort of exposure</p>
+<p begin="00:32:55.770" end="00:33:00.450" style="s2">is super important and<span style="s4"> i</span> saw<span style="s4"> tility</span></p>
+<p begin="00:32:58.890" end="00:33:02.880" style="s2">group with you guys like having<span style="s3"> those</span></p>
+<p begin="00:33:00.450" end="00:33:04.830" style="s2">sort of opportunities<span style="s3"> is</span> kind of a</p>
+<p begin="00:33:02.880" end="00:33:17.100" style="s2">question<span style="s4"> that</span> common structure<span style="s3"> is</span><span style="s4"> a</span></p>
+<p begin="00:33:04.830" end="00:33:18.810" style="s2">question any comment on that so yeah so</p>
+<p begin="00:33:17.100" end="00:33:20.880" style="s2">yeah<span style="s4"> i</span> agree with you you know there</p>
+<p begin="00:33:18.810" end="00:33:23.640" style="s2">needs to be more<span style="s3"> of</span> a fundamental</p>
+<p begin="00:33:20.880" end="00:33:25.710" style="s2">knowledge of computer science I remember</p>
+<p begin="00:33:23.640" end="00:33:27.900" style="s2">when<span style="s4"> I</span> would interview students<span style="s3"> I&#39;d</span> ask</p>
+<p begin="00:33:25.710" end="00:33:28.980" style="s2">them what is<span style="s3"> computer</span> science to you and</p>
+<p begin="00:33:27.900" end="00:33:33.150" style="s2">they would<span style="s3"> say</span> something like</p>
+<p begin="00:33:28.980" end="00:33:35.150" style="s2">engineering so I I agree with you there</p>
+<p begin="00:33:33.150" end="00:33:38.670" style="s2">needs to be more like representation<span style="s4"> in</span></p>
+<p begin="00:33:35.150" end="00:33:40.550" style="s2">like media maybe of computer science you</p>
+<p begin="00:33:38.670" end="00:33:43.140" style="s2">know maybe there should even be</p>
+<p begin="00:33:40.550" end="00:33:45.900" style="s2">something where like Facebook can have</p>
+<p begin="00:33:43.140" end="00:33:48.570" style="s2">like a coding day where they can show</p>
+<p begin="00:33:45.900" end="00:33:49.980" style="s2">you how they made the website<span style="s3"> things</span></p>
+<p begin="00:33:48.570" end="00:33:52.500" style="s2">like<span style="s4"> that you know they&#39;re sure there</span></p>
+<p begin="00:33:49.980" end="00:33:54.630" style="s2">should be more representation you know</p>
+<p begin="00:33:52.500" end="00:34:02.580" style="s2">it should be like pushed out there so</p>
+<p begin="00:33:54.630" end="00:34:04.560" style="s2">yeah<span style="s3"> I</span> agree with<span style="s4"> you</span> sir I will<span style="s3"> think</span></p>
+<p begin="00:34:02.580" end="00:34:08.130" style="s2">on y&#39;all going to stick around gonna</p>
+<p begin="00:34:04.560" end="00:34:11.290" style="s2">exercise right I have to work so thank</p>
+<p begin="00:34:08.130" end="00:34:13.350" style="s2">you again everybody gets give it up</p>
+<p begin="00:34:11.290" end="00:34:13.350" style="s2">you</p>
+</div>
+</body>
+</tt>

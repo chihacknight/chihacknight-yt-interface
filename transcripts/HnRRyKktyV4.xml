@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.940" end="00:00:09.630" style="s2">so first of all I&#39;m Victor I&#39;m going<span style="s3"> to</span></p>
+<p begin="00:00:08.370" end="00:00:12.300" style="s2">be<span style="s3"> talking</span> about documentation and</p>
+<p begin="00:00:09.630" end="00:00:13.380" style="s2">inclusion so a lot of the times I&#39;ve</p>
+<p begin="00:00:12.300" end="00:00:14.849" style="s2">gone through a bunch of different<span style="s4"> open</span></p>
+<p begin="00:00:13.380" end="00:00:16.199" style="s2">source projects from projects at chai</p>
+<p begin="00:00:14.849" end="00:00:17.789" style="s2">hack night to projects outside of chai</p>
+<p begin="00:00:16.199" end="00:00:22.020" style="s2">hack night and there&#39;s a few things I</p>
+<p begin="00:00:17.789" end="00:00:23.250" style="s2"><span style="s3">noticed</span> so first off the most important</p>
+<p begin="00:00:22.020" end="00:00:25.949" style="s2">thing about a project in terms of</p>
+<p begin="00:00:23.250" end="00:00:27.090" style="s2">documenting is the readme and read means</p>
+<p begin="00:00:25.949" end="00:00:29.179" style="s2">are really important for three main</p>
+<p begin="00:00:27.090" end="00:00:32.009" style="s2">reasons they explain how the app works</p>
+<p begin="00:00:29.179" end="00:00:34.020" style="s2">they explain what the app is and<span style="s3"> it</span></p>
+<p begin="00:00:32.009" end="00:00:35.760" style="s2">explains how people can<span style="s3"> help</span> so if I&#39;m a</p>
+<p begin="00:00:34.020" end="00:00:37.260" style="s2">new person looking at your appt I look</p>
+<p begin="00:00:35.760" end="00:00:40.350" style="s2">at you read me these are the things i</p>
+<p begin="00:00:37.260" end="00:00:42.239" style="s2"><span style="s3">should</span> see but that&#39;s<span style="s3"> not</span> always the</p>
+<p begin="00:00:40.350" end="00:00:44.070" style="s2">case and i&#39;m going<span style="s3"> to point out an</span></p>
+<p begin="00:00:42.239" end="00:00:46.590" style="s2">example from chai hack night on the</p>
+<p begin="00:00:44.070" end="00:00:48.120" style="s2">group<span style="s3"> i</span> worked on and also<span style="s4"> an</span> example of</p>
+<p begin="00:00:46.590" end="00:00:50.370" style="s2">my own so that&#39;s<span style="s3"> not</span> like<span style="s4"> I&#39;m</span> blaming</p>
+<p begin="00:00:48.120" end="00:00:53.789" style="s2"><span style="s3">other</span> people because trust me my example</p>
+<p begin="00:00:50.370" end="00:00:56.070" style="s2">is much worse<span style="s3"> okay</span> so this is an example</p>
+<p begin="00:00:53.789" end="00:00:57.870" style="s2"><span style="s3">from</span> a project called tweetable I work</p>
+<p begin="00:00:56.070" end="00:01:00.989" style="s2">on shout it to all the fine folks it&#39;s</p>
+<p begin="00:00:57.870" end="00:01:05.129" style="s2">reachable and<span style="s3"> this</span> was our read me kind</p>
+<p begin="00:01:00.989" end="00:01:06.930" style="s2">of before a few months<span style="s3"> ago</span> now it has a</p>
+<p begin="00:01:05.129" end="00:01:09.270" style="s2">lot of information<span style="s3"> you</span> can see<span style="s4"> that</span> has</p>
+<p begin="00:01:06.930" end="00:01:11.040" style="s2">links over here to the work group to our</p>
+<p begin="00:01:09.270" end="00:01:12.750" style="s2"><span style="s3">Twitter</span> to get up all those things but</p>
+<p begin="00:01:11.040" end="00:01:14.220" style="s2"><span style="s4">it&#39;s</span><span style="s3"> really</span> hard to parse it doesn&#39;t</p>
+<p begin="00:01:12.750" end="00:01:16.409" style="s2">really read clearly it&#39;s not well</p>
+<p begin="00:01:14.220" end="00:01:17.640" style="s2">organized so it makes account</p>
+<p begin="00:01:16.409" end="00:01:19.500" style="s2">challenging for a new contributor to</p>
+<p begin="00:01:17.640" end="00:01:23.070" style="s2">come on and say okay this is what i&#39;d</p>
+<p begin="00:01:19.500" end="00:01:25.350" style="s2">like to do this is mine my example</p>
+<p begin="00:01:23.070" end="00:01:27.840" style="s2">doesn&#39;t<span style="s3"> have</span> any information it says</p>
+<p begin="00:01:25.350" end="00:01:30.210" style="s2">this is a<span style="s3"> website</span> which<span style="s4"> you</span> probably</p>
+<p begin="00:01:27.840" end="00:01:32.490" style="s2">could have figured out anyway and that&#39;s</p>
+<p begin="00:01:30.210" end="00:01:34.560" style="s2">about it right<span style="s3"> you</span> what&#39;s the<span style="s3"> text</span> stack</p>
+<p begin="00:01:32.490" end="00:01:37.500" style="s2">is this like you know<span style="s3"> nothing about this</span></p>
+<p begin="00:01:34.560" end="00:01:38.790" style="s2">so how can you<span style="s3"> contribute</span> no idea like</p>
+<p begin="00:01:37.500" end="00:01:39.930" style="s2">it<span style="s3"> doesn&#39;t</span> even have<span style="s3"> a</span> point of</p>
+<p begin="00:01:38.790" end="00:01:43.560" style="s2">reference it doesn&#39;t even<span style="s3"> have</span> my name</p>
+<p begin="00:01:39.930" end="00:01:44.939" style="s2">on<span style="s3"> it</span> so this<span style="s3"> is</span> kind of useless not all</p>
+<p begin="00:01:43.560" end="00:01:48.240" style="s2">doom and gloom though so<span style="s4"> let&#39;s</span> take<span style="s3"> a</span></p>
+<p begin="00:01:44.939" end="00:01:50.220" style="s2">look<span style="s3"> at</span> some good examples so right here</p>
+<p begin="00:01:48.240" end="00:01:52.439" style="s2"><span style="s4">this</span><span style="s3"> are</span> improved tweetable read me</p>
+<p begin="00:01:50.220" end="00:01:54.210" style="s2">we&#39;ve basically trimmed it down all</p>
+<p begin="00:01:52.439" end="00:01:55.950" style="s2">links<span style="s3"> right</span> you link to our code<span style="s3"> of</span></p>
+<p begin="00:01:54.210" end="00:01:58.200" style="s2">conduct you to<span style="s3"> getting started you</span></p>
+<p begin="00:01:55.950" end="00:01:59.759" style="s2">specify where the<span style="s3"> idea</span> started you</p>
+<p begin="00:01:58.200" end="00:02:01.950" style="s2">specify how you can become a contributor</p>
+<p begin="00:01:59.759" end="00:02:03.060" style="s2">so by making your readme cleaner you&#39;re</p>
+<p begin="00:02:01.950" end="00:02:04.950" style="s2">making<span style="s3"> it</span> so people who don&#39;t<span style="s4"> have</span> a</p>
+<p begin="00:02:03.060" end="00:02:07.380" style="s2"><span style="s3">technical</span> background can join you right</p>
+<p begin="00:02:04.950" end="00:02:09.209" style="s2">tree triple needs writers so to make<span style="s4"> it</span></p>
+<p begin="00:02:07.380" end="00:02:12.060" style="s2"><span style="s3">so</span> that<span style="s3"> people can write that&#39;s my hint</span></p>
+<p begin="00:02:09.209" end="00:02:12.569" style="s2">i&#39;m out of time so make it<span style="s3"> so</span> that</p>
+<p begin="00:02:12.060" end="00:02:14.700" style="s2">people</p>
+<p begin="00:02:12.569" end="00:02:16.319" style="s2">right and people<span style="s3"> can</span> do their jobs</p>
+<p begin="00:02:14.700" end="00:02:17.189" style="s2">without being technically minded you</p>
+<p begin="00:02:16.319" end="00:02:20.790" style="s2">need to<span style="s4"> write</span> a<span style="s3"> good</span> read me that</p>
+<p begin="00:02:17.189" end="00:02:23.040" style="s2">represents your project this one is<span style="s4"> from</span></p>
+<p begin="00:02:20.790" end="00:02:24.989" style="s2">package that has<span style="s3"> not</span> mine called<span style="s3"> Bauer</span> a</p>
+<p begin="00:02:23.040" end="00:02:26.969" style="s2">really big project big open source</p>
+<p begin="00:02:24.989" end="00:02:28.109" style="s2">project they have beautiful pictures</p>
+<p begin="00:02:26.969" end="00:02:30.299" style="s2">that&#39;s what you&#39;ll see among good</p>
+<p begin="00:02:28.109" end="00:02:31.469" style="s2">reading means big beautiful pictures and</p>
+<p begin="00:02:30.299" end="00:02:32.969" style="s2">they also have nice installation</p>
+<p begin="00:02:31.469" end="00:02:35.010" style="s2">instructions good guides on Kent</p>
+<p begin="00:02:32.969" end="00:02:36.750" style="s2">contributing to the project all that fun</p>
+<p begin="00:02:35.010" end="00:02:38.969" style="s2">stuff so<span style="s3"> makes</span> it really easy for you to</p>
+<p begin="00:02:36.750" end="00:02:41.280" style="s2">join in and it&#39;s<span style="s3"> about</span> lowering barriers</p>
+<p begin="00:02:38.969" end="00:02:43.049" style="s2">to entry now I&#39;m<span style="s3"> not</span> gonna have any</p>
+<p begin="00:02:41.280" end="00:02:45.000" style="s2">examples for this section but code</p>
+<p begin="00:02:43.049" end="00:02:46.409" style="s2">documentation also really important if I</p>
+<p begin="00:02:45.000" end="00:02:49.319" style="s2">can&#39;t read<span style="s3"> your</span> code I don&#39;t know how to</p>
+<p begin="00:02:46.409" end="00:02:51.299" style="s2">help<span style="s4"> you</span> so if you have code that only</p>
+<p begin="00:02:49.319" end="00:02:54.150" style="s2">you can understand this on open source</p>
+<p begin="00:02:51.299" end="00:02:56.219" style="s2">project that is a project that you have</p>
+<p begin="00:02:54.150" end="00:02:57.980" style="s2">closed source that you&#39;re<span style="s3"> showing</span> other</p>
+<p begin="00:02:56.219" end="00:03:00.599" style="s2">people like that&#39;s completely useless</p>
+<p begin="00:02:57.980" end="00:03:02.489" style="s2">right look come on that&#39;s<span style="s3"> like</span> if you</p>
+<p begin="00:03:00.599" end="00:03:04.349" style="s2">gave<span style="s4"> me</span> engine schematics with no labels</p>
+<p begin="00:03:02.489" end="00:03:07.699" style="s2">I&#39;d be like I don&#39;t even know what this</p>
+<p begin="00:03:04.349" end="00:03:10.859" style="s2">is is<span style="s3"> this</span> a tank it could be anything I</p>
+<p begin="00:03:07.699" end="00:03:12.299" style="s2">trust me i don&#39;t know cars seriously so</p>
+<p begin="00:03:10.859" end="00:03:13.680" style="s2">how does help inclusion right you&#39;re</p>
+<p begin="00:03:12.299" end="00:03:15.810" style="s2">like okay you&#39;re documenting but what&#39;s</p>
+<p begin="00:03:13.680" end="00:03:17.549" style="s2">the big deal the point is read<span style="s4"> meas</span></p>
+<p begin="00:03:15.810" end="00:03:20.280" style="s2">documentation are about letting people</p>
+<p begin="00:03:17.549" end="00:03:21.509" style="s2">access your project without you people</p>
+<p begin="00:03:20.280" end="00:03:23.430" style="s2">shouldn&#39;t need you to<span style="s3"> work</span> on your</p>
+<p begin="00:03:21.509" end="00:03:25.079" style="s2">project right you don&#39;t need your</p>
+<p begin="00:03:23.430" end="00:03:26.729" style="s2">project leads to be able<span style="s3"> to</span> code and</p>
+<p begin="00:03:25.079" end="00:03:28.139" style="s2">people shouldn&#39;t<span style="s4"> have to ask you</span></p>
+<p begin="00:03:26.729" end="00:03:30.479" style="s2">questions so that they can figure out</p>
+<p begin="00:03:28.139" end="00:03:31.859" style="s2">how they can<span style="s4"> help</span> you so if you<span style="s3"> don&#39;t</span></p>
+<p begin="00:03:30.479" end="00:03:33.509" style="s2"><span style="s3">have</span> a clear space where people can say</p>
+<p begin="00:03:31.859" end="00:03:37.019" style="s2">this is how<span style="s4"> I</span><span style="s3"> can</span> contribute you&#39;re not</p>
+<p begin="00:03:33.509" end="00:03:38.819" style="s2">open source and you know two main points</p>
+<p begin="00:03:37.019" end="00:03:40.019" style="s2">contributors are more comfortable<span style="s4"> if</span></p>
+<p begin="00:03:38.819" end="00:03:41.699" style="s2">they can learn by themselves and not</p>
+<p begin="00:03:40.019" end="00:03:44.459" style="s2">feel<span style="s4"> like</span> a burden no one wants<span style="s4"> to</span> be</p>
+<p begin="00:03:41.699" end="00:03:47.069" style="s2">that guys like so how do i install this</p>
+<p begin="00:03:44.459" end="00:03:48.209" style="s2">was and all these<span style="s4"> people</span><span style="s3"> are</span> hard<span style="s3"> at</span></p>
+<p begin="00:03:47.069" end="00:03:51.479" style="s2">work and you&#39;re just like where&#39;s the</p>
+<p begin="00:03:48.209" end="00:03:53.519" style="s2">install instructions please<span style="s4"> alright</span></p>
+<p begin="00:03:51.479" end="00:03:54.840" style="s2">that&#39;s<span style="s3"> not</span> fun no one<span style="s4"> wants</span> to do that</p>
+<p begin="00:03:53.519" end="00:03:57.329" style="s2"><span style="s4">you want to read through guide take it</span></p>
+<p begin="00:03:54.840" end="00:03:58.829" style="s2">on<span style="s3"> your</span> own time<span style="s3"> and</span> also<span style="s3"> project</span> leads</p>
+<p begin="00:03:57.329" end="00:04:00.780" style="s2">don&#39;t<span style="s3"> feel</span> worn down<span style="s4"> explaining</span> basics</p>
+<p begin="00:03:58.829" end="00:04:02.250" style="s2">repeatedly you don&#39;t want to be the guy</p>
+<p begin="00:04:00.780" end="00:04:04.769" style="s2">who&#39;s constantly explaining installation</p>
+<p begin="00:04:02.250" end="00:04:08.400" style="s2">instructions trust me I&#39;m debugged</p>
+<p begin="00:04:04.769" end="00:04:10.949" style="s2"><span style="s4">Macintosh</span> installs it&#39;s not fun so</p>
+<p begin="00:04:08.400" end="00:04:12.419" style="s2">finally in conclusion open source is not</p>
+<p begin="00:04:10.949" end="00:04:14.549" style="s2">just about open code open<span style="s3"> source</span> is</p>
+<p begin="00:04:12.419" end="00:04:15.989" style="s2">about making an open community it&#39;s</p>
+<p begin="00:04:14.549" end="00:04:17.609" style="s2">about making sure that anyone can join</p>
+<p begin="00:04:15.989" end="00:04:19.349" style="s2">your project so if you have a need for</p>
+<p begin="00:04:17.609" end="00:04:21.000" style="s2">people<span style="s3"> who</span> are more than<span style="s4"> just</span> developers</p>
+<p begin="00:04:19.349" end="00:04:23.969" style="s2">you should put that in your read me you</p>
+<p begin="00:04:21.000" end="00:04:24.990" style="s2">need to<span style="s3"> put</span> that everywhere so really</p>
+<p begin="00:04:23.969" end="00:04:27.690" style="s2"><span style="s3">document</span></p>
+<p begin="00:04:24.990" end="00:04:29.130" style="s2">and like it<span style="s4"> says</span> here it&#39;s about opening</p>
+<p begin="00:04:27.690" end="00:04:30.900" style="s2">your projects anyone by removing /</p>
+<p begin="00:04:29.130" end="00:04:32.610" style="s2">lowering barriers to entry real open</p>
+<p begin="00:04:30.900" end="00:04:34.380" style="s2">source projects are open source because</p>
+<p begin="00:04:32.610" end="00:04:37.590" style="s2">the code is open the documentation<span style="s3"> is</span></p>
+<p begin="00:04:34.380" end="00:04:39.810" style="s2">open and anyone can help so<span style="s4"> Who</span> am<span style="s3"> I</span> to</p>
+<p begin="00:04:37.590" end="00:04:41.580" style="s2">tell you this I&#39;m Victor I&#39;m a software</p>
+<p begin="00:04:39.810" end="00:04:44.610" style="s2">engineer who&#39;s that guy at the<span style="s3"> office</span></p>
+<p begin="00:04:41.580" end="00:04:48.150" style="s2">who tells you document your code I&#39;m the</p>
+<p begin="00:04:44.610" end="00:04:49.650" style="s2">annoying guy so I do a lot of group</p>
+<p begin="00:04:48.150" end="00:04:51.330" style="s2">programming I work basically only in</p>
+<p begin="00:04:49.650" end="00:04:53.599" style="s2">projects and obsess over code styling</p>
+<p begin="00:04:51.330" end="00:04:56.190" style="s2">put your brackets on the right line and</p>
+<p begin="00:04:53.599" end="00:04:58.289" style="s2">documentation so that&#39;s where I come</p>
+<p begin="00:04:56.190" end="00:05:00.840" style="s2">from so document your code open source</p>
+<p begin="00:04:58.289" end="00:05:02.770" style="s2">is opening barriers and making the world</p>
+<p begin="00:05:00.840" end="00:05:11.950" style="s2">a better place so thank you</p>
+<p begin="00:05:02.770" end="00:05:11.950" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

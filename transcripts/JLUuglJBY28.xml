@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.569" end="00:00:09.710" style="s2">there we go<span style="s3"> all</span><span style="s4"> right</span></p>
+<p begin="00:00:10.090" end="00:00:18.490" style="s2"><span style="s3">okay</span> all right can you hear me all right</p>
+<p begin="00:00:15.600" end="00:00:22.119" style="s2">well good<span style="s4"> evening</span> thanks everyone for</p>
+<p begin="00:00:18.490" end="00:00:23.529" style="s2">having me here I&#39;m somewhat chasin that</p>
+<p begin="00:00:22.119" end="00:00:27.539" style="s2">this is the first time I&#39;ve<span style="s4"> been</span> to a</p>
+<p begin="00:00:23.529" end="00:00:30.190" style="s2">shy hack night I had been in Chicago for</p>
+<p begin="00:00:27.539" end="00:00:32.199" style="s2">most of the last 15<span style="s4"> years</span> so I&#39;m</p>
+<p begin="00:00:30.190" end="00:00:34.750" style="s2">impressed<span style="s3"> with</span> the turnout here tonight</p>
+<p begin="00:00:32.199" end="00:00:37.480" style="s2">and everything<span style="s3"> that&#39;s</span> going on thank you</p>
+<p begin="00:00:34.750" end="00:00:40.480" style="s2"><span style="s3">for inviting me my name is Paul Smith</span></p>
+<p begin="00:00:37.480" end="00:00:43.420" style="s2">I&#39;m the CTO and co-founder of ad hoc we</p>
+<p begin="00:00:40.480" end="00:00:44.829" style="s2">are a small<span style="s3"> software</span> company were about</p>
+<p begin="00:00:43.420" end="00:00:48.370" style="s2">two years old a<span style="s3"> little</span> more than two</p>
+<p begin="00:00:44.829" end="00:00:55.780" style="s2">years<span style="s4"> old</span> and we just were about<span style="s3"> 28</span></p>
+<p begin="00:00:48.370" end="00:00:57.550" style="s2">people as of this week and there was a</p>
+<p begin="00:00:55.780" end="00:00:59.770" style="s2">great article by Steven Levy last week</p>
+<p begin="00:00:57.550" end="00:01:02.230" style="s2">how<span style="s4"> many</span> people<span style="s4"> read</span> that about the<span style="s4"> USD</span></p>
+<p begin="00:00:59.770" end="00:01:05.410" style="s2"><span style="s4">s</span> anybody you should check it<span style="s4"> out</span> it&#39;s</p>
+<p begin="00:01:02.230" end="00:01:07.300" style="s2">on<span style="s4"> Steven Levy&#39;s medium site called back</span></p>
+<p begin="00:01:05.410" end="00:01:10.090" style="s2">channel it&#39;s a great<span style="s3"> article</span> it&#39;s just</p>
+<p begin="00:01:07.300" end="00:01:12.490" style="s2">about what the USD else is done in<span style="s4"> the</span></p>
+<p begin="00:01:10.090" end="00:01:13.750" style="s2">last a little bit how many<span style="s3"> people</span> here</p>
+<p begin="00:01:12.490" end="00:01:16.780" style="s2">know what<span style="s4"> the</span> u.s. digital services</p>
+<p begin="00:01:13.750" end="00:01:18.399" style="s2">you&#39;ve heard of<span style="s3"> it</span><span style="s4"> okay</span><span style="s3"> about</span> sixty</p>
+<p begin="00:01:16.780" end="00:01:20.350" style="s2">percent and and how<span style="s4"> many</span> people here</p>
+<p begin="00:01:18.399" end="00:01:22.149" style="s2">know what<span style="s4"> the</span> usps does what its mission</p>
+<p begin="00:01:20.350" end="00:01:24.060" style="s2">is<span style="s3"> okay</span> a little of us i&#39;ll talk a</p>
+<p begin="00:01:22.149" end="00:01:26.200" style="s2">little bit about that at any<span style="s4"> rate</span></p>
+<p begin="00:01:24.060" end="00:01:28.720" style="s2">there&#39;s a great moment in the article</p>
+<p begin="00:01:26.200" end="00:01:30.099" style="s2">where so<span style="s3"> essentially</span> usgs is trying to</p>
+<p begin="00:01:28.720" end="00:01:32.709" style="s2">reform government from the inside of</p>
+<p begin="00:01:30.099" end="00:01:36.190" style="s2">when it comes to building technology</p>
+<p begin="00:01:32.709" end="00:01:38.080" style="s2">building software and they actually<span style="s4"> had</span></p>
+<p begin="00:01:36.190" end="00:01:41.289" style="s2">a hearing on the hill not too long ago</p>
+<p begin="00:01:38.080" end="00:01:43.800" style="s2">and there were lobbyists from the</p>
+<p begin="00:01:41.289" end="00:01:46.450" style="s2">incumbent technology companies there and</p>
+<p begin="00:01:43.800" end="00:01:48.369" style="s2">there&#39;s<span style="s3"> this</span> quote in<span style="s4"> the</span> article it</p>
+<p begin="00:01:46.450" end="00:01:49.599" style="s2">said the<span style="s3"> lobbyists</span> represented the</p>
+<p begin="00:01:48.369" end="00:01:51.520" style="s2">interests of the traditional IT</p>
+<p begin="00:01:49.599" end="00:01:54.399" style="s2">contractors seem to believe it is their</p>
+<p begin="00:01:51.520" end="00:01:56.229" style="s2">right to overcharge stack taxpayers for</p>
+<p begin="00:01:54.399" end="00:02:00.330" style="s2">complex computer systems that don&#39;t work</p>
+<p begin="00:01:56.229" end="00:02:00.330" style="s2">and when I</p>
+<p begin="00:02:01.040" end="00:02:08.990" style="s2"><span style="s4">uh</span> when I heard that I immediately</p>
+<p begin="00:02:04.730" end="00:02:11.810" style="s2">thought that&#39;s a great<span style="s3"> perfect</span> concise</p>
+<p begin="00:02:08.990" end="00:02:13.430" style="s2">sweet summary for what we do at ad hoc</p>
+<p begin="00:02:11.810" end="00:02:15.770" style="s2"><span style="s4">except</span> the complete opposite of every</p>
+<p begin="00:02:13.430" end="00:02:17.780" style="s2">one<span style="s3"> of</span> those words so if I had to say</p>
+<p begin="00:02:15.770" end="00:02:19.910" style="s2">what ad hoc is is we believe it<span style="s3"> is</span> our</p>
+<p begin="00:02:17.780" end="00:02:21.890" style="s2"><span style="s3">duty</span> to charge tax payers a fair amount</p>
+<p begin="00:02:19.910" end="00:02:26.150" style="s2">for simple computer systems that work</p>
+<p begin="00:02:21.890" end="00:02:27.230" style="s2">well and and and<span style="s4"> that&#39;s</span> what we&#39;re</p>
+<p begin="00:02:26.150" end="00:02:29.720" style="s2">trying to do that&#39;s really our rift</p>
+<p begin="00:02:27.230" end="00:02:32.150" style="s2">that&#39;s why we exist we really feel it in</p>
+<p begin="00:02:29.720" end="00:02:35.060" style="s2">our bones that the status quo is</p>
+<p begin="00:02:32.150" end="00:02:38.390" style="s2">unacceptable and things<span style="s3"> like</span> health care</p>
+<p begin="00:02:35.060" end="00:02:40.430" style="s2">chi should never happen again and<span style="s4"> the</span></p>
+<p begin="00:02:38.390" end="00:02:44.709" style="s2"><span style="s4">u.s.</span> what I&#39;m talking about<span style="s3"> in</span><span style="s4"> terms</span> of</p>
+<p begin="00:02:40.430" end="00:02:48.440" style="s2">reform there&#39;s intragovernmental</p>
+<p begin="00:02:44.709" end="00:02:50.200" style="s2">agencies like<span style="s3"> you SDS that are working</span></p>
+<p begin="00:02:48.440" end="00:02:53.810" style="s2">to change things from the inside the way</p>
+<p begin="00:02:50.200" end="00:02:55.520" style="s2">government agencies create contracts the</p>
+<p begin="00:02:53.810" end="00:02:59.090" style="s2">way they procure the way they think</p>
+<p begin="00:02:55.520" end="00:03:00.530" style="s2">about making technology solutions for</p>
+<p begin="00:02:59.090" end="00:03:02.840" style="s2">problems policy problems that they have</p>
+<p begin="00:03:00.530" end="00:03:05.150" style="s2"><span style="s3">and</span> then there are private sector</p>
+<p begin="00:03:02.840" end="00:03:09.170" style="s2">companies contractors vendors service</p>
+<p begin="00:03:05.150" end="00:03:11.500" style="s2">providers who<span style="s3"> there</span> there&#39;s a new</p>
+<p begin="00:03:09.170" end="00:03:14.360" style="s2">generation<span style="s4"> of</span> these companies that are</p>
+<p begin="00:03:11.500" end="00:03:15.950" style="s2">had this mindset of delivering things</p>
+<p begin="00:03:14.360" end="00:03:18.370" style="s2">that actually work and coming<span style="s3"> from a</span></p>
+<p begin="00:03:15.950" end="00:03:20.870" style="s2">place of experience having built</p>
+<p begin="00:03:18.370" end="00:03:23.060" style="s2">technology in the private sector or in</p>
+<p begin="00:03:20.870" end="00:03:24.530" style="s2">startups or outside of<span style="s3"> government</span> where</p>
+<p begin="00:03:23.060" end="00:03:28.489" style="s2">the standards are little different</p>
+<p begin="00:03:24.530" end="00:03:31.880" style="s2">methodologies are different and I like</p>
+<p begin="00:03:28.489" end="00:03:33.860" style="s2"><span style="s4">to</span> say that you<span style="s4"> know</span> companies like<span style="s3"> ad</span></p>
+<p begin="00:03:31.880" end="00:03:36.709" style="s2">hoc or the third leg of this the other</p>
+<p begin="00:03:33.860" end="00:03:40.220" style="s2"><span style="s3">leg</span> of the stool but I stools have three</p>
+<p begin="00:03:36.709" end="00:03:44.330" style="s2">legs so also people people the other leg</p>
+<p begin="00:03:40.220" end="00:03:46.519" style="s2">is people who demand better services who</p>
+<p begin="00:03:44.330" end="00:03:50.180" style="s2">expect more from what their government</p>
+<p begin="00:03:46.519" end="00:03:53.330" style="s2">can provide and who are the people we</p>
+<p begin="00:03:50.180" end="00:03:56.090" style="s2">are ultimately<span style="s3"> all surfing and so yes</span></p>
+<p begin="00:03:53.330" end="00:03:59.420" style="s2">there was a big bang event healthcare</p>
+<p begin="00:03:56.090" end="00:04:03.200" style="s2">gov that sent off energetic particles in</p>
+<p begin="00:03:59.420" end="00:04:05.209" style="s2"><span style="s4">the</span> wake of that<span style="s3"> and</span> some<span style="s3"> of</span> those went</p>
+<p begin="00:04:03.200" end="00:04:09.620" style="s2">in one direction somewhat in another but</p>
+<p begin="00:04:05.209" end="00:04:12.810" style="s2">the common the the failed launch of</p>
+<p begin="00:04:09.620" end="00:04:17.220" style="s2">healthcare gov in 2013 was</p>
+<p begin="00:04:12.810" end="00:04:20.489" style="s2">a common ancestry point in time for all</p>
+<p begin="00:04:17.220" end="00:04:23.240" style="s2">of these efforts<span style="s3"> there</span> had been smart</p>
+<p begin="00:04:20.489" end="00:04:25.680" style="s2">people working inside<span style="s4"> the</span> government<span style="s3"> who</span></p>
+<p begin="00:04:23.240" end="00:04:27.000" style="s2">could anticipate that this was a<span style="s3"> problem</span></p>
+<p begin="00:04:25.680" end="00:04:29.910" style="s2">that they saw this coming down the road</p>
+<p begin="00:04:27.000" end="00:04:32.639" style="s2"><span style="s4">that</span> that the way we<span style="s4"> did</span> things needed</p>
+<p begin="00:04:29.910" end="00:04:35.270" style="s2">to<span style="s3"> be</span> reformed by the high profile</p>
+<p begin="00:04:32.639" end="00:04:37.110" style="s2">status of healthcare gov failure really</p>
+<p begin="00:04:35.270" end="00:04:40.110" style="s2">accelerated all of those efforts and</p>
+<p begin="00:04:37.110" end="00:04:41.310" style="s2">brought them to<span style="s3"> the</span> fore and so some of</p>
+<p begin="00:04:40.110" end="00:04:44.610" style="s2">the people<span style="s3"> that were involved in the</span></p>
+<p begin="00:04:41.310" end="00:04:46.110" style="s2"><span style="s3">rescue</span> some of<span style="s3"> them</span> went inside</p>
+<p begin="00:04:44.610" end="00:04:47.669" style="s2">government and they started these new</p>
+<p begin="00:04:46.110" end="00:04:52.229" style="s2">agencies the United States digital</p>
+<p begin="00:04:47.669" end="00:04:55.770" style="s2">service usds 18f which is a software</p>
+<p begin="00:04:52.229" end="00:04:59.760" style="s2">like startup digital agency shop inside</p>
+<p begin="00:04:55.770" end="00:05:00.780" style="s2">the General Services Administration some</p>
+<p begin="00:04:59.760" end="00:05:03.150" style="s2">of<span style="s3"> them</span> stayed outside government</p>
+<p begin="00:05:00.780" end="00:05:05.610" style="s2">created new generation of contractors<span style="s4"> ad</span></p>
+<p begin="00:05:03.150" end="00:05:09.210" style="s2"><span style="s4">hoc</span> being one company there&#39;s also<span style="s3"> Nava</span></p>
+<p begin="00:05:05.610" end="00:05:12.240" style="s2">trusts<span style="s3"> nuna</span> companies that are working</p>
+<p begin="00:05:09.210" end="00:05:14.910" style="s2"><span style="s3">in</span> this space but had either worked on</p>
+<p begin="00:05:12.240" end="00:05:16.290" style="s2">the healthcare gov rescue or had worked</p>
+<p begin="00:05:14.910" end="00:05:18.470" style="s2">with<span style="s3"> people who had been on</span><span style="s4"> the</span><span style="s3"> rescue</span></p>
+<p begin="00:05:16.290" end="00:05:21.600" style="s2">and had been in in the private sector</p>
+<p begin="00:05:18.470" end="00:05:24.030" style="s2">startups and the rest<span style="s3"> of</span> the same lens</p>
+<p begin="00:05:21.600" end="00:05:30.169" style="s2">when went went home and got got on with</p>
+<p begin="00:05:24.030" end="00:05:32.610" style="s2">their lives so I I&#39;ve been working in</p>
+<p begin="00:05:30.169" end="00:05:33.840" style="s2">you know I like to<span style="s3"> say</span> that I was</p>
+<p begin="00:05:32.610" end="00:05:36.570" style="s2">minding my own business when I got the</p>
+<p begin="00:05:33.840" end="00:05:37.830" style="s2">call in 2013 to come help figure out</p>
+<p begin="00:05:36.570" end="00:05:40.140" style="s2">what<span style="s3"> was</span> going on with healthcare gov</p>
+<p begin="00:05:37.830" end="00:05:41.580" style="s2">and maybe stick around and fix it but</p>
+<p begin="00:05:40.140" end="00:05:42.900" style="s2"><span style="s3">the truth is my whole career I&#39;ve kind</span></p>
+<p begin="00:05:41.580" end="00:05:45.870" style="s2">of been edging closer and closer to the</p>
+<p begin="00:05:42.900" end="00:05:47.460" style="s2">space I I worked at the<span style="s4"> Center</span> for</p>
+<p begin="00:05:45.870" end="00:05:50.520" style="s2">neighborhood technology for six years</p>
+<p begin="00:05:47.460" end="00:05:53.520" style="s2">making websites actually<span style="s4"> civic</span> footprint</p>
+<p begin="00:05:50.520" end="00:05:55.200" style="s2">so the the look up your<span style="s4"> rap</span> app that we</p>
+<p begin="00:05:53.520" end="00:05:58.860" style="s2"><span style="s3">just</span><span style="s4"> looked</span> at I made something called</p>
+<p begin="00:05:55.200" end="00:06:00.720" style="s2">civic footprint in 2002 where you could</p>
+<p begin="00:05:58.860" end="00:06:02.550" style="s2">you could do<span style="s4"> that</span> for Cook County only</p>
+<p begin="00:06:00.720" end="00:06:06.990" style="s2">but<span style="s3"> it</span> showed you<span style="s3"> the</span> full all your</p>
+<p begin="00:06:02.550" end="00:06:09.510" style="s2">political representation on a map I made</p>
+<p begin="00:06:06.990" end="00:06:12.690" style="s2">freelance web apps for cranes and other</p>
+<p begin="00:06:09.510" end="00:06:14.880" style="s2">news companies and then in 2007 start a</p>
+<p begin="00:06:12.690" end="00:06:19.700" style="s2">company called every block where I made</p>
+<p begin="00:06:14.880" end="00:06:23.250" style="s2">custom maps and helped ingest local news</p>
+<p begin="00:06:19.700" end="00:06:25.729" style="s2">and visualize it and then I was the</p>
+<p begin="00:06:23.250" end="00:06:28.879" style="s2">deputy director of technology at the DNC</p>
+<p begin="00:06:25.729" end="00:06:30.289" style="s2">during the 2012 campaign worked on the</p>
+<p begin="00:06:28.879" end="00:06:32.449" style="s2">president&#39;s reelection campaign here in</p>
+<p begin="00:06:30.289" end="00:06:36.710" style="s2">Chicago<span style="s4"> with</span> Harper read and this</p>
+<p begin="00:06:32.449" end="00:06:38.240" style="s2">characters and and and after that some</p>
+<p begin="00:06:36.710" end="00:06:39.559" style="s2">of the campaign alums<span style="s3"> that</span> I worked with</p>
+<p begin="00:06:38.240" end="00:06:43.809" style="s2">we started a company called public at</p>
+<p begin="00:06:39.559" end="00:06:48.370" style="s2">software Jason<span style="s3"> knish</span> and<span style="s4"> DM</span> Radner and</p>
+<p begin="00:06:43.809" end="00:06:51.469" style="s2">which was sort<span style="s3"> of</span> premise<span style="s3"> on</span> the idea of</p>
+<p begin="00:06:48.370" end="00:06:54.400" style="s2">helping nonprofits do better with</p>
+<p begin="00:06:51.469" end="00:06:57.529" style="s2">technology and<span style="s3"> then</span> of course<span style="s4"> the</span> rescue</p>
+<p begin="00:06:54.400" end="00:06:59.479" style="s2">so what do we do so so my co-founder</p>
+<p begin="00:06:57.529" end="00:07:01.059" style="s2">Greg<span style="s4"> gershman</span> and I we worked on the</p>
+<p begin="00:06:59.479" end="00:07:05.149" style="s2"><span style="s4">rescue</span><span style="s3"> and</span> that was really<span style="s3"> an</span></p>
+<p begin="00:07:01.059" end="00:07:06.469" style="s2">operational effort so the site had</p>
+<p begin="00:07:05.149" end="00:07:08.120" style="s2">already been built long ago long before</p>
+<p begin="00:07:06.469" end="00:07:10.699" style="s2">we had ever showed up on the scene<span style="s3"> and</span></p>
+<p begin="00:07:08.120" end="00:07:12.620" style="s2">it was really<span style="s3"> an</span> effort in how can we oh</p>
+<p begin="00:07:10.699" end="00:07:19.069" style="s2">my god i thought<span style="s3"> it</span> was dying for a</p>
+<p begin="00:07:12.620" end="00:07:20.839" style="s2">second how can we<span style="s3"> how</span> can we and we</p>
+<p begin="00:07:19.069" end="00:07:24.439" style="s2">brought our experience working on</p>
+<p begin="00:07:20.839" end="00:07:26.809" style="s2"><span style="s4">high-traffic</span> consumer-facing websites to</p>
+<p begin="00:07:24.439" end="00:07:30.229" style="s2">this website that was<span style="s3"> struggling</span> to<span style="s3"> stay</span></p>
+<p begin="00:07:26.809" end="00:07:31.759" style="s2">up how can we show the government what</p>
+<p begin="00:07:30.229" end="00:07:34.069" style="s2">it&#39;s like when you build software from</p>
+<p begin="00:07:31.759" end="00:07:35.810" style="s2">scratch the right way and<span style="s3"> how</span> effective</p>
+<p begin="00:07:34.069" end="00:07:39.439" style="s2"><span style="s4">that</span> can be so we started<span style="s3"> a</span> company<span style="s3"> ad</span></p>
+<p begin="00:07:35.810" end="00:07:42.469" style="s2"><span style="s3">hoc</span> in 2014 spring of 2014 with five</p>
+<p begin="00:07:39.439" end="00:07:43.789" style="s2">people and we started<span style="s4"> working with</span></p>
+<p begin="00:07:42.469" end="00:07:47.419" style="s2">centers for medicare and<span style="s4"> medicaid</span></p>
+<p begin="00:07:43.789" end="00:07:50.389" style="s2">services that summer so big surprise our</p>
+<p begin="00:07:47.419" end="00:07:53.120" style="s2">first<span style="s3"> client</span> was healthcare gov and what</p>
+<p begin="00:07:50.389" end="00:07:55.219" style="s2">we did<span style="s3"> was</span> we<span style="s3"> built</span> something called the</p>
+<p begin="00:07:53.120" end="00:07:57.979" style="s2">premium estimation tool or also known as</p>
+<p begin="00:07:55.219" end="00:07:59.990" style="s2">anonymous shopping so this was for<span style="s3"> the</span></p>
+<p begin="00:07:57.979" end="00:08:03.740" style="s2">open enrollment<span style="s3"> year</span> 2015 so that was</p>
+<p begin="00:07:59.990" end="00:08:08.509" style="s2">the fall of 2014 going into winter</p>
+<p begin="00:08:03.740" end="00:08:10.219" style="s2">spring of 2015 when you can get a new</p>
+<p begin="00:08:08.509" end="00:08:13.610" style="s2">sign up for new health insurance or</p>
+<p begin="00:08:10.219" end="00:08:16.789" style="s2">change your<span style="s3"> plan</span> and the development was</p>
+<p begin="00:08:13.610" end="00:08:18.499" style="s2">roughly the summer to fall 2014 with</p>
+<p begin="00:08:16.789" end="00:08:20.949" style="s2">that group<span style="s3"> of</span> five<span style="s4"> people</span> that we</p>
+<p begin="00:08:18.499" end="00:08:24.129" style="s2">initially started the company with and</p>
+<p begin="00:08:20.949" end="00:08:26.509" style="s2">we served over half a billion page views</p>
+<p begin="00:08:24.129" end="00:08:27.830" style="s2">during that open enrollment period and</p>
+<p begin="00:08:26.509" end="00:08:30.770" style="s2">it was the<span style="s4"> most</span> visited<span style="s3"> page</span> on</p>
+<p begin="00:08:27.830" end="00:08:33.229" style="s2">healthcare gov and<span style="s3"> it</span> was also a demand</p>
+<p begin="00:08:30.770" end="00:08:34.490" style="s2">management strategy so it took load off</p>
+<p begin="00:08:33.229" end="00:08:36.680" style="s2"><span style="s4">of</span> the course site so you have to</p>
+<p begin="00:08:34.490" end="00:08:38.390" style="s2">remember that<span style="s3"> healthcare</span> gov launched</p>
+<p begin="00:08:36.680" end="00:08:39.050" style="s2">and there was this big application sort</p>
+<p begin="00:08:38.390" end="00:08:41.419" style="s2">of lurking at</p>
+<p begin="00:08:39.050" end="00:08:42.469" style="s2">you know underneath<span style="s4"> that</span> transactional</p>
+<p begin="00:08:41.419" end="00:08:45.350" style="s2">part of the site<span style="s4"> the</span><span style="s3"> part of you could</span></p>
+<p begin="00:08:42.469" end="00:08:49.459" style="s2">actually sign up and that&#39;s still for</p>
+<p begin="00:08:45.350" end="00:08:50.630" style="s2">the most part there today and<span style="s3"> this</span> was a</p>
+<p begin="00:08:49.459" end="00:08:53.660" style="s2">tool<span style="s4"> that</span> was<span style="s4"> designed</span> to let<span style="s3"> people</span></p>
+<p begin="00:08:50.630" end="00:08:57.980" style="s2">quickly get in browse plan see what was</p>
+<p begin="00:08:53.660" end="00:08:59.810" style="s2">available to them get an idea of what</p>
+<p begin="00:08:57.980" end="00:09:01.220" style="s2">their subsidy might be and what kind of</p>
+<p begin="00:08:59.810" end="00:09:03.350" style="s2">coverage they could get<span style="s3"> without</span> having</p>
+<p begin="00:09:01.220" end="00:09:05.480" style="s2">to go<span style="s4"> to</span> that big heavyweight part of</p>
+<p begin="00:09:03.350" end="00:09:07.190" style="s2">the site it&#39;s better consumer experience</p>
+<p begin="00:09:05.480" end="00:09:10.490" style="s2">on one hand and also took load off of</p>
+<p begin="00:09:07.190" end="00:09:11.959" style="s2"><span style="s3">that</span> transaction part of the site from a</p>
+<p begin="00:09:10.490" end="00:09:15.610" style="s2">nuts-and-bolts point of view we served</p>
+<p begin="00:09:11.959" end="00:09:18.440" style="s2">every page<span style="s3"> request</span> in very low latency</p>
+<p begin="00:09:15.610" end="00:09:21.410" style="s2">it was very fast we had almost virtually</p>
+<p begin="00:09:18.440" end="00:09:23.899" style="s2">no downtime the entire time we were</p>
+<p begin="00:09:21.410" end="00:09:25.640" style="s2"><span style="s3">serving</span> and this is what the tech stack</p>
+<p begin="00:09:23.899" end="00:09:28.940" style="s2">looks like there&#39;s<span style="s4"> nothing</span> to it it&#39;s as</p>
+<p begin="00:09:25.640" end="00:09:31.310" style="s2">simple as could<span style="s4"> be</span> by design everybody</p>
+<p begin="00:09:28.940" end="00:09:34.250" style="s2"><span style="s3">here</span> I&#39;m sure has seen a<span style="s4"> three tier web</span></p>
+<p begin="00:09:31.310" end="00:09:37.579" style="s2">stack there was a thin JavaScript</p>
+<p begin="00:09:34.250" end="00:09:40.010" style="s2"><span style="s4">front-end</span> that handled some of the</p>
+<p begin="00:09:37.579" end="00:09:42.769" style="s2">interaction on the site the main</p>
+<p begin="00:09:40.010" end="00:09:45.500" style="s2">application server was written and go we</p>
+<p begin="00:09:42.769" end="00:09:47.930" style="s2">had a Postgres database that was where</p>
+<p begin="00:09:45.500" end="00:09:49.970" style="s2">the plan data was stored it<span style="s3"> was</span> all</p>
+<p begin="00:09:47.930" end="00:09:51.890" style="s2">deployed in it amazon web services we</p>
+<p begin="00:09:49.970" end="00:09:53.839" style="s2">didn&#39;t use any of<span style="s3"> their</span> you no more</p>
+<p begin="00:09:51.890" end="00:09:57.470" style="s2">fancy services we just used load</p>
+<p begin="00:09:53.839" end="00:09:59.899" style="s2">balancers ec2 instances and and virtual</p>
+<p begin="00:09:57.470" end="00:10:03.529" style="s2">private compute environments and that</p>
+<p begin="00:09:59.899" end="00:10:07.670" style="s2">was it<span style="s3"> and I&#39;ll talk a little bit about</span></p>
+<p begin="00:10:03.529" end="00:10:12.680" style="s2">simplicity later on but<span style="s4"> that</span> was<span style="s3"> really</span></p>
+<p begin="00:10:07.670" end="00:10:15.230" style="s2">our design sense the subsequent year</p>
+<p begin="00:10:12.680" end="00:10:18.800" style="s2">that went<span style="s3"> well</span> so we expanded we</p>
+<p begin="00:10:15.230" end="00:10:20.899" style="s2">factored out the back end part into an</p>
+<p begin="00:10:18.800" end="00:10:23.540" style="s2">API service layer this was for the</p>
+<p begin="00:10:20.899" end="00:10:24.949" style="s2"><span style="s3">subsequent</span> open enrollment year the</p>
+<p begin="00:10:23.540" end="00:10:29.180" style="s2">development was roughly from spring to</p>
+<p begin="00:10:24.949" end="00:10:32.270" style="s2">fall 2015 and<span style="s4"> PTT</span><span style="s3"> evolved</span> into window</p>
+<p begin="00:10:29.180" end="00:10:34.310" style="s2">shopping so we expanded that we had a</p>
+<p begin="00:10:32.270" end="00:10:36.529" style="s2">new features and we<span style="s3"> actually</span><span style="s4"> had</span> a</p>
+<p begin="00:10:34.310" end="00:10:39.970" style="s2">second client application using the<span style="s3"> API</span></p>
+<p begin="00:10:36.529" end="00:10:42.740" style="s2">which was tax tools a way for you to</p>
+<p begin="00:10:39.970" end="00:10:45.800" style="s2">tell the IRS information on your tax</p>
+<p begin="00:10:42.740" end="00:10:47.990" style="s2">return about your health<span style="s4"> insurance</span> so</p>
+<p begin="00:10:45.800" end="00:10:50.570" style="s2">that<span style="s3"> you</span> could avoid the<span style="s3"> the</span> individual</p>
+<p begin="00:10:47.990" end="00:10:53.300" style="s2">mandate penalty and</p>
+<p begin="00:10:50.570" end="00:10:57.380" style="s2"><span style="s3">I&#39;m</span> sorry<span style="s3"> I</span> think<span style="s4"> I</span> duplicate this light</p>
+<p begin="00:10:53.300" end="00:10:58.730" style="s2"><span style="s3">okay</span> and again<span style="s4"> simpletech</span> stack the only</p>
+<p begin="00:10:57.380" end="00:11:01.310" style="s2">thing that&#39;s<span style="s4"> changed</span> here is that we&#39;ve</p>
+<p begin="00:10:58.730" end="00:11:05.210" style="s2">lifted the front end pieces into their</p>
+<p begin="00:11:01.310" end="00:11:07.690" style="s2">own apps we actually<span style="s4"> added</span> a thin rails</p>
+<p begin="00:11:05.210" end="00:11:10.840" style="s2">application<span style="s3"> just</span> really a shim to handle</p>
+<p begin="00:11:07.690" end="00:11:13.280" style="s2">translations and some other services but</p>
+<p begin="00:11:10.840" end="00:11:16.790" style="s2">everything really remain roughly the</p>
+<p begin="00:11:13.280" end="00:11:19.850" style="s2">same with the API being an extraction</p>
+<p begin="00:11:16.790" end="00:11:22.220" style="s2">from<span style="s4"> PT</span> the main difference<span style="s4"> this</span> year</p>
+<p begin="00:11:19.850" end="00:11:24.970" style="s2">was or this past year with</p>
+<p begin="00:11:22.220" end="00:11:28.100" style="s2"><span style="s3">window-shopping was the coverage data so</span></p>
+<p begin="00:11:24.970" end="00:11:30.320" style="s2">providers prescription drugs<span style="s3"> and</span> the</p>
+<p begin="00:11:28.100" end="00:11:31.880" style="s2">insurance plans to cover them this is</p>
+<p begin="00:11:30.320" end="00:11:34.190" style="s2">information<span style="s4"> that</span> you know insurance</p>
+<p begin="00:11:31.880" end="00:11:35.720" style="s2">companies have obviously but if you</p>
+<p begin="00:11:34.190" end="00:11:39.290" style="s2">wanted to find that<span style="s3"> out maybe there&#39;s</span></p>
+<p begin="00:11:35.720" end="00:11:42.770" style="s2">PDF on a website maybe not so we worked</p>
+<p begin="00:11:39.290" end="00:11:45.440" style="s2"><span style="s3">with</span> staff at the White House CMS</p>
+<p begin="00:11:42.770" end="00:11:48.950" style="s2">insurance<span style="s3"> companies</span> to come up<span style="s4"> with</span> a</p>
+<p begin="00:11:45.440" end="00:11:50.600" style="s2">schema that was common across all the</p>
+<p begin="00:11:48.950" end="00:11:53.960" style="s2"><span style="s4">insurance</span> companies they would have<span style="s4"> to</span></p>
+<p begin="00:11:50.600" end="00:11:55.670" style="s2">provide<span style="s3"> this</span> data in JSON file hosted on</p>
+<p begin="00:11:53.960" end="00:11:58.850" style="s2">their websites and updated at least</p>
+<p begin="00:11:55.670" end="00:12:01.610" style="s2">monthly and that dataset contains about</p>
+<p begin="00:11:58.850" end="00:12:05.090" style="s2">11 million doctors and facilities about</p>
+<p begin="00:12:01.610" end="00:12:07.250" style="s2">12,000 drugs and we then developed a</p>
+<p begin="00:12:05.090" end="00:12:09.110" style="s2">tool to crawl all those websites and</p>
+<p begin="00:12:07.250" end="00:12:10.790" style="s2">just that information index it make it</p>
+<p begin="00:12:09.110" end="00:12:12.920" style="s2">searchable on healthcare gov so now</p>
+<p begin="00:12:10.790" end="00:12:14.390" style="s2">great consumer experience you can type</p>
+<p begin="00:12:12.920" end="00:12:17.900" style="s2">in the name of the doctor that<span style="s3"> you</span> see</p>
+<p begin="00:12:14.390" end="00:12:20.540" style="s2">or the drug that<span style="s3"> you</span> take<span style="s3"> and</span> see what</p>
+<p begin="00:12:17.900" end="00:12:22.310" style="s2">plans cover that cover those things and</p>
+<p begin="00:12:20.540" end="00:12:23.900" style="s2">it&#39;s a much better<span style="s3"> consumer</span> experience</p>
+<p begin="00:12:22.310" end="00:12:27.590" style="s2">and now that&#39;s a new public data set as</p>
+<p begin="00:12:23.900" end="00:12:29.770" style="s2">well so we&#39;re getting<span style="s3"> ready</span><span style="s4"> for</span> open or</p>
+<p begin="00:12:27.590" end="00:12:33.200" style="s2">moment 2017 that&#39;s coming<span style="s3"> up</span> this this</p>
+<p begin="00:12:29.770" end="00:12:37.460" style="s2"><span style="s3">November</span> the main thing<span style="s4"> that&#39;s</span> new is</p>
+<p begin="00:12:33.200" end="00:12:39.650" style="s2">that<span style="s3"> because of the sort of</span> window</p>
+<p begin="00:12:37.460" end="00:12:41.750" style="s2">shopping piece of<span style="s3"> things</span> has gone pretty</p>
+<p begin="00:12:39.650" end="00:12:44.090" style="s2">well so now we were taking over the</p>
+<p begin="00:12:41.750" end="00:12:45.500" style="s2">actual core shopping experience of</p>
+<p begin="00:12:44.090" end="00:12:47.360" style="s2"><span style="s4">healthcare</span> cup to<span style="s3"> the</span> real when you&#39;re</p>
+<p begin="00:12:45.500" end="00:12:49.400" style="s2">actually picking a plan that will be</p>
+<p begin="00:12:47.360" end="00:12:52.430" style="s2">using our software and<span style="s4"> it&#39;ll</span> be building</p>
+<p begin="00:12:49.400" end="00:12:56.270" style="s2">on all the technology that I just showed</p>
+<p begin="00:12:52.430" end="00:12:58.010" style="s2"><span style="s4">you</span> and this<span style="s3"> isn&#39;t to say</span> everything&#39;s</p>
+<p begin="00:12:56.270" end="00:13:01.040" style="s2">gone swimmingly like the main<span style="s4"> challenges</span></p>
+<p begin="00:12:58.010" end="00:13:03.220" style="s2">that we encounter are mainly cultural</p>
+<p begin="00:13:01.040" end="00:13:06.860" style="s2">and I think that&#39;s to be expected we are</p>
+<p begin="00:13:03.220" end="00:13:09.410" style="s2">injecting into and the biggest<span style="s3"> literally</span></p>
+<p begin="00:13:06.860" end="00:13:12.940" style="s2">the biggest bureaucracy on earth the US</p>
+<p begin="00:13:09.410" end="00:13:15.110" style="s2">federal government<span style="s3"> a</span> culture which is</p>
+<p begin="00:13:12.940" end="00:13:17.779" style="s2">expects to be able<span style="s3"> to</span> do things<span style="s3"> with</span></p>
+<p begin="00:13:15.110" end="00:13:21.920" style="s2">agility with more and different kinds<span style="s3"> of</span></p>
+<p begin="00:13:17.779" end="00:13:23.240" style="s2">risk with more unknowns<span style="s4"> that</span> really can</p>
+<p begin="00:13:21.920" end="00:13:25.639" style="s2">just broadly think of the mindset</p>
+<p begin="00:13:23.240" end="00:13:26.839" style="s2">whether its technology or some other</p>
+<p begin="00:13:25.639" end="00:13:28.310" style="s2">kind<span style="s3"> of</span> project management to be</p>
+<p begin="00:13:26.839" end="00:13:30.560" style="s2">waterfall we are going to<span style="s4"> think</span><span style="s3"> of</span></p>
+<p begin="00:13:28.310" end="00:13:31.880" style="s2">everything we can possibly think of that</p>
+<p begin="00:13:30.560" end="00:13:34.610" style="s2">will<span style="s3"> happen the lifespan of this project</span></p>
+<p begin="00:13:31.880" end="00:13:36.829" style="s2"><span style="s3">in</span> advance before we write any code and</p>
+<p begin="00:13:34.610" end="00:13:38.570" style="s2">then that will be<span style="s3"> in</span> a contract<span style="s3"> somebody</span></p>
+<p begin="00:13:36.829" end="00:13:39.620" style="s2">will win that contract<span style="s3"> and</span> then do the</p>
+<p begin="00:13:38.570" end="00:13:42.380" style="s2">development of everything that we</p>
+<p begin="00:13:39.620" end="00:13:44.230" style="s2">anticipated up front so it&#39;s an</p>
+<p begin="00:13:42.380" end="00:13:46.850" style="s2">incredibly different mindset and it&#39;s</p>
+<p begin="00:13:44.230" end="00:13:49.070" style="s2">that process is baked into the</p>
+<p begin="00:13:46.850" end="00:13:51.889" style="s2">bureaucracy at every layer of teams of</p>
+<p begin="00:13:49.070" end="00:13:55.100" style="s2">management of developers of policy</p>
+<p begin="00:13:51.889" end="00:13:57.440" style="s2">analysts so that&#39;s a big challenge and</p>
+<p begin="00:13:55.100" end="00:13:59.269" style="s2">we&#39;re<span style="s3"> just</span> trying<span style="s3"> to</span> model what<span style="s4"> we</span> think</p>
+<p begin="00:13:57.440" end="00:14:01.970" style="s2">is the better way of<span style="s3"> doing</span> things and</p>
+<p begin="00:13:59.269" end="00:14:03.589" style="s2"><span style="s3">hopefully bring people along who want to</span></p>
+<p begin="00:14:01.970" end="00:14:08.449" style="s2">be change agents inside of government</p>
+<p begin="00:14:03.589" end="00:14:10.220" style="s2">and our<span style="s3"> next</span> big project is vets gov so</p>
+<p begin="00:14:08.449" end="00:14:13.670" style="s2">I mentioned<span style="s4"> we</span> started out with five</p>
+<p begin="00:14:10.220" end="00:14:15.829" style="s2">people and we&#39;re 28 now<span style="s4"> Beth</span> stuck-up is</p>
+<p begin="00:14:13.670" end="00:14:19.190" style="s2">a big reason why<span style="s3"> we</span> won this contract a</p>
+<p begin="00:14:15.829" end="00:14:22.070" style="s2">few months<span style="s3"> ago when</span><span style="s4"> we</span> turn to that was</p>
+<p begin="00:14:19.190" end="00:14:24.260" style="s2">kind of a threshold for the age of<span style="s3"> our</span></p>
+<p begin="00:14:22.070" end="00:14:27.140" style="s2">company we could start now<span style="s3"> bidding</span> and</p>
+<p begin="00:14:24.260" end="00:14:28.519" style="s2">winning contracts the work we did with</p>
+<p begin="00:14:27.140" end="00:14:30.380" style="s2">healthcare gov has been as a</p>
+<p begin="00:14:28.519" end="00:14:33.860" style="s2">subcontractor we just couldn&#39;t as a new</p>
+<p begin="00:14:30.380" end="00:14:36.949" style="s2">company<span style="s3"> win</span> the contract or even bid on</p>
+<p begin="00:14:33.860" end="00:14:40.610" style="s2">it so<span style="s4"> that&#39;s</span> gov is our first primary</p>
+<p begin="00:14:36.949" end="00:14:42.860" style="s2">award it&#39;s a<span style="s4"> veterans</span> focused portal for</p>
+<p begin="00:14:40.610" end="00:14:45.320" style="s2">all the possible services that a veteran</p>
+<p begin="00:14:42.860" end="00:14:48.740" style="s2">or somebody assisting them could want<span style="s3"> to</span></p>
+<p begin="00:14:45.320" end="00:14:50.000" style="s2">apply for receive query about there&#39;s</p>
+<p begin="00:14:48.740" end="00:14:51.500" style="s2">hundreds of different sites and services</p>
+<p begin="00:14:50.000" end="00:14:53.959" style="s2">that<span style="s3"> exist</span> and we&#39;re going to integrate</p>
+<p begin="00:14:51.500" end="00:14:56.380" style="s2"><span style="s3">them</span> all together into a single common</p>
+<p begin="00:14:53.959" end="00:14:59.660" style="s2">design framework that will have been</p>
+<p begin="00:14:56.380" end="00:15:01.970" style="s2">researched with veterans from a user</p>
+<p begin="00:14:59.660" end="00:15:03.740" style="s2"><span style="s3">experience</span> point of view and we<span style="s4"> actually</span></p>
+<p begin="00:15:01.970" end="00:15:06.110" style="s2">built a beta version of this site last</p>
+<p begin="00:15:03.740" end="00:15:09.019" style="s2">year it&#39;s kind<span style="s4"> of</span> a proof of concept of</p>
+<p begin="00:15:06.110" end="00:15:11.480" style="s2">how the VA could work with company like</p>
+<p begin="00:15:09.019" end="00:15:14.100" style="s2">ours to develop software quickly get</p>
+<p begin="00:15:11.480" end="00:15:17.370" style="s2">something out the<span style="s3"> door</span> iterate on it</p>
+<p begin="00:15:14.100" end="00:15:19.350" style="s2">and and in<span style="s3"> that</span> turned into this larger</p>
+<p begin="00:15:17.370" end="00:15:24.779" style="s2">project that we will build out over the</p>
+<p begin="00:15:19.350" end="00:15:26.880" style="s2">next<span style="s4"> few</span> years so getting back<span style="s4"> I</span> know</p>
+<p begin="00:15:24.779" end="00:15:29.250" style="s2"><span style="s4">I&#39;m</span> at<span style="s3"> 15</span> minutes but I&#39;ve only<span style="s3"> got</span> a</p>
+<p begin="00:15:26.880" end="00:15:32.490" style="s2">few more slides and then I&#39;ll answer</p>
+<p begin="00:15:29.250" end="00:15:34.709" style="s2">your questions usds the the model here</p>
+<p begin="00:15:32.490" end="00:15:37.829" style="s2">is there&#39;s a central HQ at the White</p>
+<p begin="00:15:34.709" end="00:15:40.319" style="s2">House there&#39;s federated teams across the</p>
+<p begin="00:15:37.829" end="00:15:45.750" style="s2">cabinet level agencies and they all work</p>
+<p begin="00:15:40.319" end="00:15:50.459" style="s2">in harmony to help mainly federal CIOs</p>
+<p begin="00:15:45.750" end="00:15:52.350" style="s2">and<span style="s4"> CTOs</span> think of and in<span style="s3"> course correct</span></p>
+<p begin="00:15:50.459" end="00:15:53.370" style="s2">technology projects so you can really</p>
+<p begin="00:15:52.350" end="00:15:55.829" style="s2"><span style="s3">think</span> of them as like business</p>
+<p begin="00:15:53.370" end="00:15:59.040" style="s2">processing business process consulting</p>
+<p begin="00:15:55.829" end="00:16:01.829" style="s2">they intervene they provide oversight</p>
+<p begin="00:15:59.040" end="00:16:03.899" style="s2">they set standards try to align with</p>
+<p begin="00:16:01.829" end="00:16:06.660" style="s2">what is you know we think is best</p>
+<p begin="00:16:03.899" end="00:16:08.310" style="s2">practice in<span style="s4"> the</span> industry and they do</p>
+<p begin="00:16:06.660" end="00:16:09.569" style="s2">some delivery as well so the Department</p>
+<p begin="00:16:08.310" end="00:16:11.579" style="s2">of Education<span style="s4"> released</span> something<span style="s3"> called</span></p>
+<p begin="00:16:09.569" end="00:16:17.009" style="s2">the college scorecard not too long ago</p>
+<p begin="00:16:11.579" end="00:16:18.420" style="s2"><span style="s3">that</span> the<span style="s4"> USGS</span> team built excuse me but</p>
+<p begin="00:16:17.009" end="00:16:20.730" style="s2">another big thing that<span style="s3"> they&#39;re</span> doing is</p>
+<p begin="00:16:18.420" end="00:16:22.829" style="s2">procurement reform so they are looking</p>
+<p begin="00:16:20.730" end="00:16:25.620" style="s2">at how we can take existing regulations</p>
+<p begin="00:16:22.829" end="00:16:27.050" style="s2">with regard to procurement mainly the</p>
+<p begin="00:16:25.620" end="00:16:30.300" style="s2">far which<span style="s4"> is</span> the Federal Acquisition</p>
+<p begin="00:16:27.050" end="00:16:33.649" style="s2">registry probably screwing that up and</p>
+<p begin="00:16:30.300" end="00:16:37.310" style="s2">provide guidance about how companies can</p>
+<p begin="00:16:33.649" end="00:16:39.720" style="s2">work within those regulations and how</p>
+<p begin="00:16:37.310" end="00:16:42.779" style="s2">alternately government agencies can</p>
+<p begin="00:16:39.720" end="00:16:45.360" style="s2">think of how to structure contracts so</p>
+<p begin="00:16:42.779" end="00:16:47.970" style="s2">that<span style="s3"> that</span> still fits the far but opens</p>
+<p begin="00:16:45.360" end="00:16:49.920" style="s2">it up to as many companies as possible</p>
+<p begin="00:16:47.970" end="00:16:52.199" style="s2">they&#39;re also looking at targeted</p>
+<p begin="00:16:49.920" end="00:16:54.360" style="s2">legislative changes for<span style="s4"> the</span> things that</p>
+<p begin="00:16:52.199" end="00:16:57.870" style="s2"><span style="s3">can&#39;t</span> just be different interpretations</p>
+<p begin="00:16:54.360" end="00:16:59.310" style="s2">of regulations and the<span style="s3"> problem</span> is is</p>
+<p begin="00:16:57.870" end="00:17:01.529" style="s2">that the barrier to entry for small</p>
+<p begin="00:16:59.310" end="00:17:03.209" style="s2">companies is still way too high we&#39;re</p>
+<p begin="00:17:01.529" end="00:17:04.829" style="s2">sort of you know<span style="s3"> had</span> the virtue of our</p>
+<p begin="00:17:03.209" end="00:17:06.689" style="s2">notoriety with having worked on</p>
+<p begin="00:17:04.829" end="00:17:08.429" style="s2"><span style="s4">healthcare gob that really helped a</span><span style="s3"> lot</span></p>
+<p begin="00:17:06.689" end="00:17:11.100" style="s2">for us to<span style="s3"> get</span> started<span style="s3"> but</span> for new</p>
+<p begin="00:17:08.429" end="00:17:14.490" style="s2">companies there&#39;s there&#39;s still too much</p>
+<p begin="00:17:11.100" end="00:17:18.390" style="s2">compliance and hoop jumping to get their</p>
+<p begin="00:17:14.490" end="00:17:20.100" style="s2">foot in the door in one way that 18 f</p>
+<p begin="00:17:18.390" end="00:17:22.740" style="s2">which is that the sort of sister agency</p>
+<p begin="00:17:20.100" end="00:17:25.600" style="s2">to<span style="s3"> the</span> USD s is trying to<span style="s3"> help</span> that is</p>
+<p begin="00:17:22.740" end="00:17:28.840" style="s2">something called the agile BPA this is</p>
+<p begin="00:17:25.600" end="00:17:30.520" style="s2">basically a vehicle<span style="s4"> by</span> which if you&#39;re a</p>
+<p begin="00:17:28.840" end="00:17:32.710" style="s2">company or small company and you want to</p>
+<p begin="00:17:30.520" end="00:17:34.690" style="s2">compete for government contracts you can</p>
+<p begin="00:17:32.710" end="00:17:38.799" style="s2">take a coding challenge and if you pass</p>
+<p begin="00:17:34.690" end="00:17:39.730" style="s2">muster like basically you you know<span style="s3"> you</span></p>
+<p begin="00:17:38.799" end="00:17:42.429" style="s2">know<span style="s3"> what you&#39;re doing from a technology</span></p>
+<p begin="00:17:39.730" end="00:17:44.770" style="s2">point of view you didn&#39;t use hundreds of</p>
+<p begin="00:17:42.429" end="00:17:48.100" style="s2">people to do it you developed it quickly</p>
+<p begin="00:17:44.770" end="00:17:50.440" style="s2">it works it&#39;s fast there&#39;s sort of</p>
+<p begin="00:17:48.100" end="00:17:51.820" style="s2">standards you&#39;ll get pre vetted for</p>
+<p begin="00:17:50.440" end="00:17:54.039" style="s2">certain contracts down the road so<span style="s3"> you</span></p>
+<p begin="00:17:51.820" end="00:17:58.000" style="s2">can do work without having to go through</p>
+<p begin="00:17:54.039" end="00:17:59.950" style="s2">a lot<span style="s4"> of</span> compliance upfront and supposed</p>
+<p begin="00:17:58.000" end="00:18:01.990" style="s2">to be more friendly to small businesses</p>
+<p begin="00:17:59.950" end="00:18:04.090" style="s2"><span style="s3">they&#39;ve</span> had<span style="s4"> some</span> bumps getting it out</p>
+<p begin="00:18:01.990" end="00:18:05.409" style="s2">the door<span style="s3"> but</span> the fact that they&#39;re</p>
+<p begin="00:18:04.090" end="00:18:07.059" style="s2">experimenting with this and trying</p>
+<p begin="00:18:05.409" end="00:18:10.740" style="s2">things and learning i think is really</p>
+<p begin="00:18:07.059" end="00:18:13.210" style="s2">encouraging so just some final thoughts</p>
+<p begin="00:18:10.740" end="00:18:15.789" style="s2">really simple<span style="s3"> solutions</span> above all<span style="s4"> i</span></p>
+<p begin="00:18:13.210" end="00:18:17.710" style="s2">can&#39;t emphasize<span style="s3"> this</span> enough what we saw</p>
+<p begin="00:18:15.789" end="00:18:19.630" style="s2">on<span style="s3"> health care gob</span> was an incredibly</p>
+<p begin="00:18:17.710" end="00:18:23.350" style="s2">complicated incredibly brittle and</p>
+<p begin="00:18:19.630" end="00:18:25.330" style="s2">complex needlessly so architecture for a</p>
+<p begin="00:18:23.350" end="00:18:28.510" style="s2">website<span style="s3"> and</span> that was the source of</p>
+<p begin="00:18:25.330" end="00:18:31.059" style="s2">almost all of its problems simplicity is</p>
+<p begin="00:18:28.510" end="00:18:34.720" style="s2">the<span style="s4"> full</span> life cycle in my mind from</p>
+<p begin="00:18:31.059" end="00:18:36.100" style="s2"><span style="s3">picking</span> tools and languages to what your</p>
+<p begin="00:18:34.720" end="00:18:38.409" style="s2">deployment looks<span style="s3"> like</span> what<span style="s3"> it</span> looks like</p>
+<p begin="00:18:36.100" end="00:18:39.820" style="s2">in operation in maintenance and support</p>
+<p begin="00:18:38.409" end="00:18:42.480" style="s2">all those modes you have to<span style="s3"> think</span> about</p>
+<p begin="00:18:39.820" end="00:18:44.740" style="s2">the fact<span style="s3"> that</span> when there are failures</p>
+<p begin="00:18:42.480" end="00:18:47.260" style="s2">you enter different failure modes at</p>
+<p begin="00:18:44.740" end="00:18:49.150" style="s2">each point the more complex the more</p>
+<p begin="00:18:47.260" end="00:18:50.500" style="s2">clever the more you outsmarted yourself</p>
+<p begin="00:18:49.150" end="00:18:51.820" style="s2">at some point in the past that&#39;s going</p>
+<p begin="00:18:50.500" end="00:18:54.039" style="s2">to catch up with<span style="s4"> you in the future it&#39;s</span></p>
+<p begin="00:18:51.820" end="00:18:55.870" style="s2">going<span style="s3"> to</span> make it harder to adapt harder</p>
+<p begin="00:18:54.039" end="00:18:59.200" style="s2">to fix harder to change harder to</p>
+<p begin="00:18:55.870" end="00:19:03.669" style="s2">understand i like<span style="s3"> to</span> say what<span style="s4"> we</span> do is</p>
+<p begin="00:18:59.200" end="00:19:05.380" style="s2">provide competence as a service most<span style="s3"> of</span></p>
+<p begin="00:19:03.669" end="00:19:08.169" style="s2">what we do is you<span style="s3"> can</span><span style="s4"> see</span> that<span style="s4"> tech</span></p>
+<p begin="00:19:05.380" end="00:19:10.720" style="s2"><span style="s3">stack</span> is<span style="s4"> not</span> you know<span style="s3"> cutting-edge</span></p>
+<p begin="00:19:08.169" end="00:19:14.860" style="s2">research it&#39;s tried and true best</p>
+<p begin="00:19:10.720" end="00:19:16.720" style="s2">practices from our industry and<span style="s4"> i</span> just</p>
+<p begin="00:19:14.860" end="00:19:18.730" style="s2"><span style="s3">want</span> to<span style="s3"> be good stable reliable</span></p>
+<p begin="00:19:16.720" end="00:19:20.940" style="s2">dependable technology Thunder for the</p>
+<p begin="00:19:18.730" end="00:19:23.679" style="s2">government because a lot of these</p>
+<p begin="00:19:20.940" end="00:19:26.890" style="s2">services and challenges can be<span style="s3"> addressed</span></p>
+<p begin="00:19:23.679" end="00:19:29.200" style="s2">with 2010 era web tech so let&#39;s just</p>
+<p begin="00:19:26.890" end="00:19:35.850" style="s2">build<span style="s3"> that</span> and give it<span style="s4"> to</span> them and<span style="s4"> we&#39;ll</span></p>
+<p begin="00:19:29.200" end="00:19:38.650" style="s2">win build the right thing so this is if</p>
+<p begin="00:19:35.850" end="00:19:39.280" style="s2">healthcare<span style="s3"> go</span> it was on<span style="s4"> one</span> hand complex</p>
+<p begin="00:19:38.650" end="00:19:41.140" style="s2">it was<span style="s3"> also</span></p>
+<p begin="00:19:39.280" end="00:19:42.850" style="s2"><span style="s3">so</span> the wrong<span style="s3"> solution</span> for the problem</p>
+<p begin="00:19:41.140" end="00:19:45.090" style="s2">they built essentially enterprise</p>
+<p begin="00:19:42.850" end="00:19:50.650" style="s2">software for what was a retail like</p>
+<p begin="00:19:45.090" end="00:19:52.990" style="s2">consumer facing website and so the root</p>
+<p begin="00:19:50.650" end="00:19:54.760" style="s2">of the original sin for that was</p>
+<p begin="00:19:52.990" end="00:19:56.770" style="s2">conceiving of it the wrong way all of</p>
+<p begin="00:19:54.760" end="00:20:01.870" style="s2"><span style="s4">the</span> decisions<span style="s3"> that</span> flowed down from that</p>
+<p begin="00:19:56.770" end="00:20:03.370" style="s2">led to the disaster on launch so having</p>
+<p begin="00:20:01.870" end="00:20:05.260" style="s2">people in the room<span style="s3"> good</span> smart</p>
+<p begin="00:20:03.370" end="00:20:06.970" style="s2">technologists sitting with policy</p>
+<p begin="00:20:05.260" end="00:20:09.040" style="s2">analysts who come up<span style="s4"> with</span> the right</p>
+<p begin="00:20:06.970" end="00:20:11.890" style="s2">solution in the first place is<span style="s3"> really</span></p>
+<p begin="00:20:09.040" end="00:20:13.960" style="s2">critical the last thing I&#39;ll say is we</p>
+<p begin="00:20:11.890" end="00:20:16.150" style="s2">try to have empathy first for you know</p>
+<p begin="00:20:13.960" end="00:20:18.490" style="s2">there I mentioned the challenges these</p>
+<p begin="00:20:16.150" end="00:20:20.080" style="s2"><span style="s3">are</span> hardworking government servants</p>
+<p begin="00:20:18.490" end="00:20:21.760" style="s2">their public servants they&#39;re trying<span style="s4"> to</span></p>
+<p begin="00:20:20.080" end="00:20:24.220" style="s2">do the right thing it&#39;s easy to get</p>
+<p begin="00:20:21.760" end="00:20:25.630" style="s2">frustrated<span style="s4"> with</span> them because they&#39;re not</p>
+<p begin="00:20:24.220" end="00:20:28.600" style="s2"><span style="s4">moving</span> at the pace you want them<span style="s4"> to</span> or</p>
+<p begin="00:20:25.630" end="00:20:30.070" style="s2">they&#39;re not changing as quickly but we</p>
+<p begin="00:20:28.600" end="00:20:32.440" style="s2">try to have empathy<span style="s3"> for</span> everyone because</p>
+<p begin="00:20:30.070" end="00:20:33.640" style="s2">everyone is trying to solve the same</p>
+<p begin="00:20:32.440" end="00:20:35.770" style="s2"><span style="s3">problem</span> which<span style="s4"> is</span> how do we<span style="s3"> get</span></p>
+<p begin="00:20:33.640" end="00:20:38.170" style="s2"><span style="s4">governments</span> digital government services</p>
+<p begin="00:20:35.770" end="00:20:41.380" style="s2">to the most people most effectively and</p>
+<p begin="00:20:38.170" end="00:20:43.450" style="s2">and ultimately for<span style="s4"> the</span> for the for the</p>
+<p begin="00:20:41.380" end="00:20:45.820" style="s2">consumer for the client that uses the</p>
+<p begin="00:20:43.450" end="00:20:48.370" style="s2">service so that&#39;s all I have<span style="s3"> thank</span> you</p>
+<p begin="00:20:45.820" end="00:20:50.460" style="s2"><span style="s3">I&#39;m</span> happy to answer any<span style="s4"> questions</span> you</p>
+<p begin="00:20:48.370" end="00:20:50.460" style="s2">have</p>
+<p begin="00:20:56.120" end="00:21:02.790" style="s2">good yeah see I all right health</p>
+<p begin="00:21:01.200" end="00:21:04.950" style="s2">information exchange my other<span style="s3"> things</span></p>
+<p begin="00:21:02.790" end="00:21:08.700" style="s2">what what I they can hear more about</p>
+<p begin="00:21:04.950" end="00:21:12.270" style="s2"><span style="s4">into</span> the Sherman because the traditional</p>
+<p begin="00:21:08.700" end="00:21:13.800" style="s2"><span style="s4">RG</span> is a waterfall yeah and so does that</p>
+<p begin="00:21:12.270" end="00:21:15.690" style="s2">mean that if someone<span style="s3"> comes</span> out with a</p>
+<p begin="00:21:13.800" end="00:21:18.810" style="s2">traditional ography that you can&#39;t do</p>
+<p begin="00:21:15.690" end="00:21:21.390" style="s2">the BPA or can you make a bpa kind of</p>
+<p begin="00:21:18.810" end="00:21:22.860" style="s2">angle at a traditional<span style="s4"> IRA</span> or do you</p>
+<p begin="00:21:21.390" end="00:21:24.570" style="s2">have<span style="s3"> does</span> the organization have to</p>
+<p begin="00:21:22.860" end="00:21:27.420" style="s2">figure out<span style="s3"> that</span> they want to go that</p>
+<p begin="00:21:24.570" end="00:21:28.680" style="s2">route there&#39;s kind of an uneven</p>
+<p begin="00:21:27.420" end="00:21:30.780" style="s2">development thing that&#39;s happening or</p>
+<p begin="00:21:28.680" end="00:21:34.020" style="s2">chicken egg problem happening here which</p>
+<p begin="00:21:30.780" end="00:21:37.170" style="s2">is we&#39;re at<span style="s3"> the</span><span style="s4"> very</span> front<span style="s3"> end</span> edge of</p>
+<p begin="00:21:34.020" end="00:21:39.090" style="s2">reform but the things that are<span style="s3"> coming</span></p>
+<p begin="00:21:37.170" end="00:21:41.010" style="s2">out of the pipeline are still the</p>
+<p begin="00:21:39.090" end="00:21:43.170" style="s2">traditional<span style="s4"> rfps</span> and so request for</p>
+<p begin="00:21:41.010" end="00:21:46.560" style="s2"><span style="s3">proposals</span> if you don&#39;t know is the</p>
+<p begin="00:21:43.170" end="00:21:48.330" style="s2">canonical way the government asks for</p>
+<p begin="00:21:46.560" end="00:21:51.060" style="s2">work to be done and these<span style="s3"> things</span> turn</p>
+<p begin="00:21:48.330" end="00:21:53.430" style="s2"><span style="s4">into</span> contracts and you bid on them the</p>
+<p begin="00:21:51.060" end="00:21:54.960" style="s2">problem with<span style="s3"> RFP</span> of the traditional RFP</p>
+<p begin="00:21:53.430" end="00:21:57.870" style="s2">processes that it&#39;s kind of a fait</p>
+<p begin="00:21:54.960" end="00:21:59.850" style="s2">accompli at the point<span style="s3"> at</span> which<span style="s3"> you</span> start</p>
+<p begin="00:21:57.870" end="00:22:01.410" style="s2">bidding on it a whole bunch of decisions</p>
+<p begin="00:21:59.850" end="00:22:04.170" style="s2">have been made<span style="s3"> by</span> contracting officers</p>
+<p begin="00:22:01.410" end="00:22:06.240" style="s2">and policy analysts and it&#39;s very very</p>
+<p begin="00:22:04.170" end="00:22:07.950" style="s2">very hard to just like creatively</p>
+<p begin="00:22:06.240" end="00:22:10.680" style="s2">interpret what they put out it&#39;s</p>
+<p begin="00:22:07.950" end="00:22:13.980" style="s2">basically you have to<span style="s3"> and</span> in the<span style="s4"> the</span></p>
+<p begin="00:22:10.680" end="00:22:16.590" style="s2">penalty for not doing it too though what</p>
+<p begin="00:22:13.980" end="00:22:18.150" style="s2"><span style="s3">they</span> say in<span style="s4"> the</span> RFP is that you could be</p>
+<p begin="00:22:16.590" end="00:22:19.340" style="s2"><span style="s3">held</span> in non-compliance you could not win</p>
+<p begin="00:22:18.150" end="00:22:22.320" style="s2">future awards there&#39;s all sorts of</p>
+<p begin="00:22:19.340" end="00:22:23.850" style="s2">possible and then furthermore you could</p>
+<p begin="00:22:22.320" end="00:22:27.660" style="s2">just<span style="s3"> be</span> again building the wrong thing</p>
+<p begin="00:22:23.850" end="00:22:30.660" style="s2">if somebody in you know a government</p>
+<p begin="00:22:27.660" end="00:22:32.550" style="s2">agency who is a well-meaning policy</p>
+<p begin="00:22:30.660" end="00:22:35.430" style="s2">person but has<span style="s3"> a</span> new technology</p>
+<p begin="00:22:32.550" end="00:22:37.080" style="s2">background they spec out soup to nuts<span style="s4"> a</span></p>
+<p begin="00:22:35.430" end="00:22:40.650" style="s2">technology solution<span style="s4"> for</span> a problem they</p>
+<p begin="00:22:37.080" end="00:22:42.390" style="s2">have that&#39;s not<span style="s4"> what</span> we want to see in</p>
+<p begin="00:22:40.650" end="00:22:43.830" style="s2">our in our<span style="s3"> piece</span> so to answer your</p>
+<p begin="00:22:42.390" end="00:22:46.260" style="s2">question we&#39;re sort of<span style="s3"> meeting</span> people</p>
+<p begin="00:22:43.830" end="00:22:48.690" style="s2">where they are we<span style="s3"> are</span> for the vet<span style="s4"> stuck</span></p>
+<p begin="00:22:46.260" end="00:22:50.730" style="s2">of contract it was kind of a traditional</p>
+<p begin="00:22:48.690" end="00:22:54.300" style="s2">RFP contract vehicle but<span style="s4"> I</span> think the</p>
+<p begin="00:22:50.730" end="00:22:55.920" style="s2">right way to do things I we had the</p>
+<p begin="00:22:54.300" end="00:22:57.510" style="s2">virtue of having built the beta the</p>
+<p begin="00:22:55.920" end="00:22:59.850" style="s2">initial version<span style="s3"> at</span> site so it couldn&#39;t</p>
+<p begin="00:22:57.510" end="00:23:01.710" style="s2">go too far afield but the right way to</p>
+<p begin="00:22:59.850" end="00:23:04.740" style="s2">do things going forward it is to get</p>
+<p begin="00:23:01.710" end="00:23:07.500" style="s2">back further in time and what you really</p>
+<p begin="00:23:04.740" end="00:23:08.130" style="s2">want to<span style="s3"> do</span> is work build trust with</p>
+<p begin="00:23:07.500" end="00:23:11.100" style="s2">government</p>
+<p begin="00:23:08.130" end="00:23:13.440" style="s2">cease and come up<span style="s4"> originate</span> solutions in</p>
+<p begin="00:23:11.100" end="00:23:15.750" style="s2"><span style="s4">the</span> room with them before it even gets</p>
+<p begin="00:23:13.440" end="00:23:17.760" style="s2">so like at the RFI process<span style="s4"> request</span> for</p>
+<p begin="00:23:15.750" end="00:23:19.410" style="s2"><span style="s3">information</span> or if they&#39;re even other</p>
+<p begin="00:23:17.760" end="00:23:21.810" style="s2">creative ways to get further back in</p>
+<p begin="00:23:19.410" end="00:23:25.560" style="s2">time so that when they&#39;re thinking up</p>
+<p begin="00:23:21.810" end="00:23:27.960" style="s2">solutions you&#39;re in the room and and it</p>
+<p begin="00:23:25.560" end="00:23:29.850" style="s2">before the train goes down the tracks at</p>
+<p begin="00:23:27.960" end="00:23:32.040" style="s2">that point it&#39;s very hard to change it</p>
+<p begin="00:23:29.850" end="00:23:33.690" style="s2">there aren&#39;t two people in the<span style="s4"> room</span> at</p>
+<p begin="00:23:32.040" end="00:23:37.200" style="s2">an incredible advantage when it comes</p>
+<p begin="00:23:33.690" end="00:23:39.950" style="s2">time did that<span style="s3"> up</span> yeah for sure and</p>
+<p begin="00:23:37.200" end="00:23:42.570" style="s2">that&#39;s a legitimate<span style="s3"> concern</span> i think</p>
+<p begin="00:23:39.950" end="00:23:44.040" style="s2">really smart people at<span style="s4"> usds</span><span style="s3"> and</span> other</p>
+<p begin="00:23:42.570" end="00:23:46.980" style="s2">places are trying to figure<span style="s4"> out</span> how do</p>
+<p begin="00:23:44.040" end="00:23:50.070" style="s2">you how to use judgment to say these are</p>
+<p begin="00:23:46.980" end="00:23:51.950" style="s2">the right kind of companies and because</p>
+<p begin="00:23:50.070" end="00:23:54.810" style="s2">they&#39;ll deliver the<span style="s4"> right</span> kind of</p>
+<p begin="00:23:51.950" end="00:23:59.430" style="s2">effective value for what we&#39;re trying to</p>
+<p begin="00:23:54.810" end="00:24:01.320" style="s2">achieve how do<span style="s3"> you</span> say who passes the</p>
+<p begin="00:23:59.430" end="00:24:03.240" style="s2">filter how do you evaluate that criteria</p>
+<p begin="00:24:01.320" end="00:24:05.520" style="s2">a lot of times as contracting officers</p>
+<p begin="00:24:03.240" end="00:24:06.720" style="s2">who are not technologists themselves and</p>
+<p begin="00:24:05.520" end="00:24:08.520" style="s2">they have to have some independent way</p>
+<p begin="00:24:06.720" end="00:24:10.650" style="s2">of saying these companies are good these</p>
+<p begin="00:24:08.520" end="00:24:12.540" style="s2">companies are agile agile just so</p>
+<p begin="00:24:10.650" end="00:24:13.770" style="s2">everybody knows is<span style="s4"> the</span> buzzword in</p>
+<p begin="00:24:12.540" end="00:24:15.540" style="s2">government right<span style="s3"> now</span> everybody wants to</p>
+<p begin="00:24:13.770" end="00:24:19.500" style="s2">be agile<span style="s3"> Accenture</span> wants to be agile</p>
+<p begin="00:24:15.540" end="00:24:21.210" style="s2"><span style="s3">right</span> which is<span style="s4"> fine</span> like if more</p>
+<p begin="00:24:19.500" end="00:24:24.510" style="s2">companies were more worked with more</p>
+<p begin="00:24:21.210" end="00:24:26.130" style="s2">agility things would be better but it&#39;s</p>
+<p begin="00:24:24.510" end="00:24:28.890" style="s2">a that&#39;s a really hard<span style="s4"> problem</span> I don&#39;t</p>
+<p begin="00:24:26.130" end="00:24:31.950" style="s2">know what the<span style="s4"> answer</span> is to that but i</p>
+<p begin="00:24:28.890" end="00:24:33.450" style="s2">think<span style="s4"> it&#39;s</span> the alternative is the status</p>
+<p begin="00:24:31.950" end="00:24:38.180" style="s2">quo honestly so we have to figure<span style="s3"> that</span></p>
+<p begin="00:24:33.450" end="00:24:38.180" style="s2">out you</p>
+<p begin="00:24:40.940" end="00:24:54.980" style="s2">I don&#39;t know I so<span style="s4"> there&#39;s</span><span style="s3"> a</span> spanish</p>
+<p begin="00:24:52.070" end="00:24:56.480" style="s2">translation site that is for the<span style="s4"> most</span></p>
+<p begin="00:24:54.980" end="00:24:58.700" style="s2">part the same infrastructure underneath</p>
+<p begin="00:24:56.480" end="00:25:01.190" style="s2">there was a layer on<span style="s4"> top</span> they<span style="s3"> actually</span></p>
+<p begin="00:24:58.700" end="00:25:04.640" style="s2">deployed it in two separate they</p>
+<p begin="00:25:01.190" end="00:25:07.010" style="s2">actually use separate hardware for<span style="s4"> the</span></p>
+<p begin="00:25:04.640" end="00:25:10.640" style="s2"><span style="s4">Spanish</span><span style="s3"> site</span> the same code different</p>
+<p begin="00:25:07.010" end="00:25:13.250" style="s2">hardware and then the<span style="s3"> the</span> difference was</p>
+<p begin="00:25:10.640" end="00:25:16.400" style="s2">the translation pieces at the<span style="s3"> very</span> front</p>
+<p begin="00:25:13.250" end="00:25:18.170" style="s2">end so yeah there I remember there being</p>
+<p begin="00:25:16.400" end="00:25:19.430" style="s2">some challenges with that<span style="s4"> early on but I</span></p>
+<p begin="00:25:18.170" end="00:25:20.600" style="s2">think they got all ironed out I don&#39;t</p>
+<p begin="00:25:19.430" end="00:25:26.870" style="s2"><span style="s3">know</span> if you&#39;re thinking of a particular</p>
+<p begin="00:25:20.600" end="00:25:28.850" style="s2">problem but I I so again I<span style="s3"> haven&#39;t</span></p>
+<p begin="00:25:26.870" end="00:25:30.680" style="s2">worked<span style="s3"> on</span> the<span style="s3"> core</span> transactional part of</p>
+<p begin="00:25:28.850" end="00:25:33.760" style="s2">the site I&#39;ve been working<span style="s3"> on</span> window</p>
+<p begin="00:25:30.680" end="00:25:36.620" style="s2">shopping and now the plan shopping so</p>
+<p begin="00:25:33.760" end="00:25:39.230" style="s2">we&#39;re we integrate with the translated</p>
+<p begin="00:25:36.620" end="00:25:44.540" style="s2">part of healthcare gov but<span style="s4"> ones</span> anything</p>
+<p begin="00:25:39.230" end="00:25:46.280" style="s2">is to<span style="s3"> your</span> question yeah yeah i think</p>
+<p begin="00:25:44.540" end="00:25:48.410" style="s2">the thinking there was like there&#39;s</p>
+<p begin="00:25:46.280" end="00:25:50.210" style="s2">going to be more traffic to the English</p>
+<p begin="00:25:48.410" end="00:25:51.620" style="s2">language site than the Spanish language</p>
+<p begin="00:25:50.210" end="00:25:54.500" style="s2">site so let&#39;s allocate more resources</p>
+<p begin="00:25:51.620" end="00:26:00.110" style="s2">over here and then this<span style="s4"> is part of the</span></p>
+<p begin="00:25:54.500" end="00:26:02.450" style="s2">problem which was they so the legacy</p>
+<p begin="00:26:00.110" end="00:26:07.090" style="s2">healthcare<span style="s4"> cup</span><span style="s3"> site</span> is deployed not into</p>
+<p begin="00:26:02.450" end="00:26:11.540" style="s2"><span style="s3">AV</span> AWS but into a private data center so</p>
+<p begin="00:26:07.090" end="00:26:12.830" style="s2">they have a lot<span style="s3"> of</span> logistical challenges</p>
+<p begin="00:26:11.540" end="00:26:16.460" style="s2"><span style="s3">just</span> deploying the application is</p>
+<p begin="00:26:12.830" end="00:26:18.350" style="s2">incredibly fraud risky activity and so</p>
+<p begin="00:26:16.460" end="00:26:20.090" style="s2">it<span style="s3"> was</span> very easy for things to get out</p>
+<p begin="00:26:18.350" end="00:26:22.580" style="s2">of sync so you could you could<span style="s3"> easily</span></p>
+<p begin="00:26:20.090" end="00:26:24.440" style="s2">have the wrong version of code on the</p>
+<p begin="00:26:22.580" end="00:26:26.180" style="s2"><span style="s4">Spanish</span> light I&#39;m not saying that&#39;s what</p>
+<p begin="00:26:24.440" end="00:26:27.800" style="s2"><span style="s4">happened</span> but it was easy to get out of</p>
+<p begin="00:26:26.180" end="00:26:31.720" style="s2"><span style="s3">saying</span> so that could have very well have</p>
+<p begin="00:26:27.800" end="00:26:31.720" style="s2">happened yeah</p>
+<p begin="00:26:31.750" end="00:26:36.970" style="s2">try to induce like some sort of<span style="s4"> add</span></p>
+<p begin="00:26:33.880" end="00:26:39.040" style="s2"><span style="s3">battle</span> by seven previous like status for</p>
+<p begin="00:26:36.970" end="00:26:43.300" style="s2">developers so did the<span style="s3"> government</span> itself</p>
+<p begin="00:26:39.040" end="00:26:46.810" style="s2">scarred you mean during<span style="s3"> the rescue or</span></p>
+<p begin="00:26:43.300" end="00:26:54.510" style="s2">Alex a wily during the rescue or did</p>
+<p begin="00:26:46.810" end="00:26:59.290" style="s2">they get better um during<span style="s4"> the</span> rescue we</p>
+<p begin="00:26:54.510" end="00:27:01.420" style="s2">again it was it was a<span style="s3"> different</span> mindset</p>
+<p begin="00:26:59.290" end="00:27:02.980" style="s2">it was a<span style="s3"> different</span> mode we were trying</p>
+<p begin="00:27:01.420" end="00:27:04.690" style="s2">to it wasn&#39;t really about software</p>
+<p begin="00:27:02.980" end="00:27:06.820" style="s2">development in the agile process it<span style="s3"> was</span></p>
+<p begin="00:27:04.690" end="00:27:08.770" style="s2">more about we are in crisis we need to</p>
+<p begin="00:27:06.820" end="00:27:11.740" style="s2">triage the critical problems that we</p>
+<p begin="00:27:08.770" end="00:27:14.380" style="s2">have<span style="s3"> and</span> fix them so operations mainly</p>
+<p begin="00:27:11.740" end="00:27:16.660" style="s2">is when they saw the way<span style="s4"> that</span> we worked</p>
+<p begin="00:27:14.380" end="00:27:21.130" style="s2">and how quickly we could work breakdown</p>
+<p begin="00:27:16.660" end="00:27:22.270" style="s2">problems triage them and just<span style="s3"> because</span> of</p>
+<p begin="00:27:21.130" end="00:27:24.280" style="s2">our experience having worked on high</p>
+<p begin="00:27:22.270" end="00:27:27.250" style="s2">traffic sites zero in on technical</p>
+<p begin="00:27:24.280" end="00:27:30.640" style="s2">problems yeah that rallied a lot of</p>
+<p begin="00:27:27.250" end="00:27:34.240" style="s2"><span style="s3">people</span> to the cause and I think they&#39;re</p>
+<p begin="00:27:30.640" end="00:27:35.950" style="s2">there was a lot of like after the fact</p>
+<p begin="00:27:34.240" end="00:27:38.740" style="s2">looking back and trying<span style="s3"> to</span> codify what</p>
+<p begin="00:27:35.950" end="00:27:40.030" style="s2">we did in<span style="s4"> fact</span> the<span style="s3"> USD s created</span></p>
+<p begin="00:27:38.740" end="00:27:43.510" style="s2">something called the playbook which is</p>
+<p begin="00:27:40.030" end="00:27:45.790" style="s2">sort of the<span style="s4"> high-level view of</span> what we</p>
+<p begin="00:27:43.510" end="00:27:49.740" style="s2">did<span style="s3"> on</span> the<span style="s4"> rescue</span> like the exact tactics</p>
+<p begin="00:27:45.790" end="00:27:51.490" style="s2">that we took as far as you know</p>
+<p begin="00:27:49.740" end="00:27:54.790" style="s2">prospectively looking forward in</p>
+<p begin="00:27:51.490" end="00:27:57.280" style="s2">software development yeah we&#39;re<span style="s3"> getting</span></p>
+<p begin="00:27:54.790" end="00:27:59.440" style="s2"><span style="s4">there</span> like<span style="s4"> there</span> were groups of people</p>
+<p begin="00:27:57.280" end="00:28:01.000" style="s2">at an agency it won&#39;t name that went and</p>
+<p begin="00:27:59.440" end="00:28:04.270" style="s2"><span style="s3">did</span> a scrum training and that was great</p>
+<p begin="00:28:01.000" end="00:28:06.160" style="s2">like they<span style="s3"> probably</span> had the zeal of the</p>
+<p begin="00:28:04.270" end="00:28:08.170" style="s2">converted coming back and wasn&#39;t</p>
+<p begin="00:28:06.160" end="00:28:10.510" style="s2"><span style="s3">necessarily the most helpful thing but</span></p>
+<p begin="00:28:08.170" end="00:28:12.400" style="s2">it&#39;s better than<span style="s4"> the</span> status quo so you</p>
+<p begin="00:28:10.510" end="00:28:13.660" style="s2">know I i think the virus is kind of in</p>
+<p begin="00:28:12.400" end="00:28:15.970" style="s2">the system is<span style="s3"> starting</span> to work its way</p>
+<p begin="00:28:13.660" end="00:28:18.610" style="s2">through like government agencies</p>
+<p begin="00:28:15.970" end="00:28:20.470" style="s2">recognize that it&#39;s the status quo is</p>
+<p begin="00:28:18.610" end="00:28:21.580" style="s2">broken and they they don&#39;t know how to</p>
+<p begin="00:28:20.470" end="00:28:23.560" style="s2"><span style="s3">get</span> from here<span style="s4"> to</span> there and we&#39;re trying</p>
+<p begin="00:28:21.580" end="00:28:24.880" style="s2">to show them and at the same time<span style="s3"> we&#39;re</span></p>
+<p begin="00:28:23.560" end="00:28:26.980" style="s2">trying to show them it rubs up against</p>
+<p begin="00:28:24.880" end="00:28:28.410" style="s2">the way their whole bureaucracy is</p>
+<p begin="00:28:26.980" end="00:28:33.900" style="s2">structured<span style="s3"> so that&#39;s</span><span style="s4"> just</span> the real</p>
+<p begin="00:28:28.410" end="00:28:33.900" style="s2">problem you right here yeah</p>
+<p begin="00:28:37.489" end="00:28:42.139" style="s2">based on feedback into</p>
+<p begin="00:28:51.300" end="00:28:56.200" style="s2">we don&#39;t<span style="s3"> have any experience with states</span></p>
+<p begin="00:28:53.530" end="00:28:57.610" style="s2">yet i would say everything we&#39;ve been</p>
+<p begin="00:28:56.200" end="00:28:59.550" style="s2">talking about has been you know kind of</p>
+<p begin="00:28:57.610" end="00:29:02.320" style="s2">federal focus that&#39;s where a lot of the</p>
+<p begin="00:28:59.550" end="00:29:04.870" style="s2">energy is right now obviously<span style="s3"> Code</span> for</p>
+<p begin="00:29:02.320" end="00:29:07.450" style="s2">America is looking at city government</p>
+<p begin="00:29:04.870" end="00:29:09.390" style="s2">municipal government is great there&#39;s a</p>
+<p begin="00:29:07.450" end="00:29:11.650" style="s2">huge<span style="s3"> opportunity</span> for state government</p>
+<p begin="00:29:09.390" end="00:29:12.880" style="s2">many ways is probably the scale is</p>
+<p begin="00:29:11.650" end="00:29:15.220" style="s2">comparable with federal government</p>
+<p begin="00:29:12.880" end="00:29:16.960" style="s2">because if you think 50 states you know</p>
+<p begin="00:29:15.220" end="00:29:18.340" style="s2">they all have departments of health they</p>
+<p begin="00:29:16.960" end="00:29:19.990" style="s2">all have all these agencies themselves</p>
+<p begin="00:29:18.340" end="00:29:21.640" style="s2">their own budgets a lot of<span style="s3"> those</span><span style="s4"> are</span></p>
+<p begin="00:29:19.990" end="00:29:23.740" style="s2">matched with federal dollars they all</p>
+<p begin="00:29:21.640" end="00:29:25.390" style="s2">have technology needs and their weight I</p>
+<p begin="00:29:23.740" end="00:29:27.160" style="s2">mean if they&#39;re not in the spotlight if</p>
+<p begin="00:29:25.390" end="00:29:29.050" style="s2">you know federal government projects</p>
+<p begin="00:29:27.160" end="00:29:30.220" style="s2">healthcare gov just happened to be in a</p>
+<p begin="00:29:29.050" end="00:29:31.630" style="s2">spot like cuz it was the president&#39;s</p>
+<p begin="00:29:30.220" end="00:29:33.520" style="s2">signature domestic policy achievement</p>
+<p begin="00:29:31.630" end="00:29:35.980" style="s2">but there&#39;s all kinds of other failed</p>
+<p begin="00:29:33.520" end="00:29:37.960" style="s2">federal IT projects that just go</p>
+<p begin="00:29:35.980" end="00:29:40.690" style="s2">completely under the radar states are</p>
+<p begin="00:29:37.960" end="00:29:42.190" style="s2">even wait I mean it&#39;s so I would<span style="s3"> look</span> at</p>
+<p begin="00:29:40.690" end="00:29:43.990" style="s2">medic if I was an enterprising young</p>
+<p begin="00:29:42.190" end="00:29:46.600" style="s2">person I would<span style="s3"> look</span> at Medicaid state</p>
+<p begin="00:29:43.990" end="00:29:49.090" style="s2">Medicaid agencies because that is a</p>
+<p begin="00:29:46.600" end="00:29:51.400" style="s2">federal match a lot of dollars and</p>
+<p begin="00:29:49.090" end="00:29:55.360" style="s2">they&#39;re starting<span style="s4"> to</span> think about<span style="s4"> how</span> do</p>
+<p begin="00:29:51.400" end="00:29:57.910" style="s2"><span style="s3">we</span> go from paying for hundreds of</p>
+<p begin="00:29:55.360" end="00:30:00.880" style="s2"><span style="s4">millions</span> of dollars in big monolithic</p>
+<p begin="00:29:57.910" end="00:30:03.520" style="s2">old school IT projects from the big</p>
+<p begin="00:30:00.880" end="00:30:05.440" style="s2">vendors to more modular smaller they&#39;re</p>
+<p begin="00:30:03.520" end="00:30:06.910" style="s2">changing the percentage<span style="s3"> of</span> that match a</p>
+<p begin="00:30:05.440" end="00:30:11.380" style="s2">little bit so that the incentives are</p>
+<p begin="00:30:06.910" end="00:30:13.810" style="s2">for you<span style="s3"> know</span> SAS model services so<span style="s3"> I</span></p>
+<p begin="00:30:11.380" end="00:30:15.370" style="s2">would definitely look at it states I</p>
+<p begin="00:30:13.810" end="00:30:18.040" style="s2">know we have a lot<span style="s4"> more</span> questions<span style="s4"> but</span> I</p>
+<p begin="00:30:15.370" end="00:30:24.900" style="s2">think you said one more okay hands again</p>
+<p begin="00:30:18.040" end="00:30:27.450" style="s2">you are<span style="s3"> easy on yourself</span> pricing</p>
+<p begin="00:30:24.900" end="00:30:31.340" style="s2">your type of firms<span style="s4"> like</span><span style="s3"> companies</span> and</p>
+<p begin="00:30:27.450" end="00:30:35.040" style="s2">what have you<span style="s3"> found</span> so we are<span style="s3"> trying to</span></p>
+<p begin="00:30:31.340" end="00:30:38.160" style="s2">bring<span style="s3"> people</span> who would ordinarily be</p>
+<p begin="00:30:35.040" end="00:30:39.870" style="s2">working at startups or private sector to</p>
+<p begin="00:30:38.160" end="00:30:41.190" style="s2">work on government projects<span style="s3"> so</span> we need</p>
+<p begin="00:30:39.870" end="00:30:47.840" style="s2">to be competitive with what the private</p>
+<p begin="00:30:41.190" end="00:30:51.480" style="s2"><span style="s3">sector</span> is charging for salaries that so</p>
+<p begin="00:30:47.840" end="00:30:54.150" style="s2">that kind of is the root of the tree</p>
+<p begin="00:30:51.480" end="00:30:56.070" style="s2"><span style="s4">with</span> all the other decisions flow down</p>
+<p begin="00:30:54.150" end="00:30:57.660" style="s2">from there in terms of how we structure</p>
+<p begin="00:30:56.070" end="00:30:59.730" style="s2">so it also helps<span style="s3"> us</span> think about</p>
+<p begin="00:30:57.660" end="00:31:03.650" style="s2">resourcing how many people we think</p>
+<p begin="00:30:59.730" end="00:31:10.020" style="s2"><span style="s3">we&#39;re</span> going<span style="s3"> to</span> need<span style="s4"> to</span> do XYZ project</p>
+<p begin="00:31:03.650" end="00:31:13.380" style="s2">and you know right now there&#39;s a shift</p>
+<p begin="00:31:10.020" end="00:31:16.650" style="s2">happening between I mean usually<span style="s3"> these</span></p>
+<p begin="00:31:13.380" end="00:31:19.170" style="s2">big<span style="s4"> rfps</span> are okay here&#39;s a big pool of</p>
+<p begin="00:31:16.650" end="00:31:21.480" style="s2">money and then here&#39;s a big set of</p>
+<p begin="00:31:19.170" end="00:31:23.160" style="s2">things that<span style="s4"> you</span> should accomplish by the</p>
+<p begin="00:31:21.480" end="00:31:25.200" style="s2">end of this contract and you can draw</p>
+<p begin="00:31:23.160" end="00:31:27.200" style="s2">down on that pool of money and so a lot</p>
+<p begin="00:31:25.200" end="00:31:30.510" style="s2">of companies will just<span style="s3"> plus</span> up their</p>
+<p begin="00:31:27.200" end="00:31:32.430" style="s2">staff right so that they can draw down</p>
+<p begin="00:31:30.510" end="00:31:34.170" style="s2">more of that pool whether they you know</p>
+<p begin="00:31:32.430" end="00:31:37.530" style="s2">could<span style="s3"> have</span> more efficiently used it or</p>
+<p begin="00:31:34.170" end="00:31:39.050" style="s2">not and there&#39;s<span style="s3"> the</span><span style="s4"> be</span> get some agencies</p>
+<p begin="00:31:37.530" end="00:31:43.440" style="s2">are trying to do a more project-based</p>
+<p begin="00:31:39.050" end="00:31:46.050" style="s2">fixed firm fixed pricing which we&#39;re</p>
+<p begin="00:31:43.440" end="00:31:49.410" style="s2">more interested in honestly because</p>
+<p begin="00:31:46.050" end="00:31:51.240" style="s2">that&#39;s more concrete more<span style="s4"> it</span> has you</p>
+<p begin="00:31:49.410" end="00:31:54.000" style="s2">know<span style="s3"> more</span> boundaries around it in terms</p>
+<p begin="00:31:51.240" end="00:31:57.530" style="s2">of time and effort it&#39;s more predictable</p>
+<p begin="00:31:54.000" end="00:32:00.480" style="s2">in terms of what we can pay people so</p>
+<p begin="00:31:57.530" end="00:32:03.590" style="s2">really our model is<span style="s3"> like</span> yeah we might</p>
+<p begin="00:32:00.480" end="00:32:07.260" style="s2">be paying people who work at ad hoc more</p>
+<p begin="00:32:03.590" end="00:32:10.470" style="s2">then they&#39;re comparable engineer at a</p>
+<p begin="00:32:07.260" end="00:32:12.210" style="s2">traditional IT contractor but<span style="s3"> they</span> have</p>
+<p begin="00:32:10.470" end="00:32:17.460" style="s2">10x as many people working on<span style="s3"> the</span></p>
+<p begin="00:32:12.210" end="00:32:20.300" style="s2">project right so<span style="s3"> okay</span> thanks everyone</p>
+<p begin="00:32:17.460" end="00:32:20.300" style="s2">I&#39;ll<span style="s3"> stick</span> around</p>
+<p begin="00:32:20.750" end="00:32:22.810" style="s2">you</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:09.139" end="00:00:26.670" style="s2"><span style="s3">alright</span> well without further ado Alex</p>
+<p begin="00:00:11.849" end="00:00:29.010" style="s2">and Bala ready hey you guys okay so I&#39;m</p>
+<p begin="00:00:26.670" end="00:00:31.500" style="s2">Alex I&#39;m the CEO and co-founder of Bella</p>
+<p begin="00:00:29.010" end="00:00:34.620" style="s2">ready and ballot ready is an online</p>
+<p begin="00:00:31.500" end="00:00:37.050" style="s2">voter guide for local elections so our</p>
+<p begin="00:00:34.620" end="00:00:40.079" style="s2">goal is to<span style="s4"> make</span> it easy to vote informed</p>
+<p begin="00:00:37.050" end="00:00:42.780" style="s2">on every race on every candidate on your</p>
+<p begin="00:00:40.079" end="00:00:45.989" style="s2">whole ballot I&#39;m going<span style="s3"> to start</span><span style="s4"> with</span></p>
+<p begin="00:00:42.780" end="00:00:50.910" style="s2">telling<span style="s3"> you</span> about why we thought we</p>
+<p begin="00:00:45.989" end="00:00:53.600" style="s2">should create this<span style="s3"> okay</span> if you live in</p>
+<p begin="00:00:50.910" end="00:00:56.399" style="s2">illinois just so you<span style="s4"> know</span> you&#39;re</p>
+<p begin="00:00:53.600" end="00:00:59.219" style="s2"><span style="s3">represented</span> by 70 different elected</p>
+<p begin="00:00:56.399" end="00:01:03.420" style="s2">officials and<span style="s4"> i</span> have a little pop quiz</p>
+<p begin="00:00:59.219" end="00:01:05.100" style="s2">for you of those oh<span style="s3"> sorry</span> how many can</p>
+<p begin="00:01:03.420" end="00:01:07.229" style="s2">you name you&#39;re going to know the answer</p>
+<p begin="00:01:05.100" end="00:01:09.840" style="s2">how think about how<span style="s4"> many</span> you can name of</p>
+<p begin="00:01:07.229" end="00:01:12.600" style="s2">those 70 so if you&#39;re<span style="s3"> like</span> most people</p>
+<p begin="00:01:09.840" end="00:01:14.070" style="s2">you shouldn&#39;t feel bad you you know the</p>
+<p begin="00:01:12.600" end="00:01:18.119" style="s2">name of the president<span style="s4"> your</span> Senators the</p>
+<p begin="00:01:14.070" end="00:01:21.600" style="s2"><span style="s3">mayor</span> you know you might not<span style="s3"> be</span> able<span style="s3"> to</span></p>
+<p begin="00:01:18.119" end="00:01:25.020" style="s2"><span style="s3">get</span> up to 70 maybe only get<span style="s3"> 24</span> and this</p>
+<p begin="00:01:21.600" end="00:01:29.329" style="s2">is especially important when it comes</p>
+<p begin="00:01:25.020" end="00:01:34.560" style="s2">time to vote and you see about like this</p>
+<p begin="00:01:29.329" end="00:01:36.060" style="s2">and maybe you<span style="s3"> are</span> recognized some of the</p>
+<p begin="00:01:34.560" end="00:01:38.640" style="s2">names but there are a lot of names</p>
+<p begin="00:01:36.060" end="00:01:41.060" style="s2">you&#39;ve never seen before so the the</p>
+<p begin="00:01:38.640" end="00:01:44.490" style="s2">problem that<span style="s4"> we</span> are trying<span style="s4"> to</span> solve is</p>
+<p begin="00:01:41.060" end="00:01:45.930" style="s2">if you&#39;re like most of us you enter the</p>
+<p begin="00:01:44.490" end="00:01:48.780" style="s2">voting booth prepared to vote for</p>
+<p begin="00:01:45.930" end="00:01:50.460" style="s2"><span style="s3">president</span> maybe your Senators but then</p>
+<p begin="00:01:48.780" end="00:01:51.930" style="s2">you show up and you see all these</p>
+<p begin="00:01:50.460" end="00:01:54.270" style="s2">offices that you don&#39;t know what</p>
+<p begin="00:01:51.930" end="00:01:57.299" style="s2">responsibility they have all these names</p>
+<p begin="00:01:54.270" end="00:02:01.320" style="s2">you&#39;ve never heard of and what most</p>
+<p begin="00:01:57.299" end="00:02:02.930" style="s2">people end up doing so thirty percent of</p>
+<p begin="00:02:01.320" end="00:02:08.129" style="s2">people don&#39;t complete their ballot and</p>
+<p begin="00:02:02.930" end="00:02:12.510" style="s2">that&#39;s both the Cook County stat and the</p>
+<p begin="00:02:08.129" end="00:02:13.740" style="s2">nationwide stat and so in 2014 what this</p>
+<p begin="00:02:12.510" end="00:02:16.440" style="s2">looks like was</p>
+<p begin="00:02:13.740" end="00:02:18.660" style="s2">people were casting a vote for governor</p>
+<p begin="00:02:16.440" end="00:02:21.600" style="s2">but by the time they got down to the</p>
+<p begin="00:02:18.660" end="00:02:28.530" style="s2">judges they just they stopped they gave</p>
+<p begin="00:02:21.600" end="00:02:35.100" style="s2">up and this case in particular this</p>
+<p begin="00:02:28.530" end="00:02:37.320" style="s2">judge Annie O&#39;Donnell so many of you may</p>
+<p begin="00:02:35.100" end="00:02:41.310" style="s2">know about<span style="s3"> Bar Association ratings they</span></p>
+<p begin="00:02:37.320" end="00:02:43.770" style="s2">do a lot<span style="s4"> of</span> work to rate to all the</p>
+<p begin="00:02:41.310" end="00:02:45.510" style="s2">judicial candidates they it&#39;s an hour</p>
+<p begin="00:02:43.770" end="00:02:48.390" style="s2">and<span style="s4"> a</span> half long interview they asked for</p>
+<p begin="00:02:45.510" end="00:02:50.790" style="s2"><span style="s4">20</span> references they go through their</p>
+<p begin="00:02:48.390" end="00:02:54.780" style="s2">court filings and they come out with</p>
+<p begin="00:02:50.790" end="00:02:56.760" style="s2">things like<span style="s4"> okay</span> this judge was she was</p>
+<p begin="00:02:54.780" end="00:02:59.210" style="s2">not recommended by any bar association</p>
+<p begin="00:02:56.760" end="00:03:02.570" style="s2">she was actively not recommended and</p>
+<p begin="00:02:59.210" end="00:03:06.300" style="s2">they said she had an abuse of practice</p>
+<p begin="00:03:02.570" end="00:03:07.710" style="s2">unduly flip and rude<span style="s3"> okay</span> which is not</p>
+<p begin="00:03:06.300" end="00:03:09.090" style="s2">the<span style="s3"> worst</span> thing<span style="s3"> you</span> could do there is</p>
+<p begin="00:03:07.710" end="00:03:15.360" style="s2">another judge who actually assaulted</p>
+<p begin="00:03:09.090" end="00:03:18.180" style="s2">someone in her courtroom no judicial</p>
+<p begin="00:03:15.360" end="00:03:26.630" style="s2">retention judge has not been retained</p>
+<p begin="00:03:18.180" end="00:03:34.290" style="s2">since 1990 so we need help<span style="s3"> here</span> right</p>
+<p begin="00:03:26.630" end="00:03:36.510" style="s2">okay so some judges can either be it&#39;s</p>
+<p begin="00:03:34.290" end="00:03:39.060" style="s2">either a contested race or it&#39;s like</p>
+<p begin="00:03:36.510" end="00:03:43.770" style="s2">they&#39;re reelected to keep their job does</p>
+<p begin="00:03:39.060" end="00:03:46.080" style="s2">that make sense question<span style="s4"> okay</span> so in for</p>
+<p begin="00:03:43.770" end="00:03:49.050" style="s2">all the judges where they keep their job</p>
+<p begin="00:03:46.080" end="00:03:51.360" style="s2">just by an election they&#39;ve always been</p>
+<p begin="00:03:49.050" end="00:03:55.200" style="s2">retained in that job since 1990 and</p>
+<p begin="00:03:51.360" end="00:04:00.570" style="s2">maybe this can be the<span style="s3"> year</span> where a judge</p>
+<p begin="00:03:55.200" end="00:04:04.470" style="s2">is kicked out yes so the the problem is</p>
+<p begin="00:04:00.570" end="00:04:06.840" style="s2">for people<span style="s4"> that</span> like people<span style="s3"> are</span> looking</p>
+<p begin="00:04:04.470" end="00:04:08.970" style="s2"><span style="s4">for</span> this information and many of you</p>
+<p begin="00:04:06.840" end="00:04:11.070" style="s2">have maybe tried but if you&#39;re actually</p>
+<p begin="00:04:08.970" end="00:04:13.050" style="s2">going to<span style="s3"> vote</span> informed you have to go to</p>
+<p begin="00:04:11.070" end="00:04:15.120" style="s2">the board of election you have<span style="s3"> to</span> go to</p>
+<p begin="00:04:13.050" end="00:04:16.770" style="s2">the candidates website maybe they<span style="s3"> don&#39;t</span></p>
+<p begin="00:04:15.120" end="00:04:18.359" style="s2">have a website<span style="s3"> you</span> go to<span style="s4"> Facebook</span> then</p>
+<p begin="00:04:16.770" end="00:04:20.880" style="s2">you go<span style="s4"> back</span> to<span style="s3"> Google</span> look at the</p>
+<p begin="00:04:18.359" end="00:04:22.890" style="s2">Tribune for their endorsements maybe</p>
+<p begin="00:04:20.880" end="00:04:25.229" style="s2">they have a Wikipedia page and that&#39;s</p>
+<p begin="00:04:22.890" end="00:04:27.200" style="s2">maybe you feel informed about one</p>
+<p begin="00:04:25.229" end="00:04:30.480" style="s2">candidate but</p>
+<p begin="00:04:27.200" end="00:04:34.100" style="s2">so for this election on March fifteenth</p>
+<p begin="00:04:30.480" end="00:04:36.600" style="s2">if you&#39;re voting a democratic ballot</p>
+<p begin="00:04:34.100" end="00:04:41.610" style="s2">beyond president there are 46 other</p>
+<p begin="00:04:36.600" end="00:04:43.980" style="s2">candidates so just brace yourselves so</p>
+<p begin="00:04:41.610" end="00:04:46.890" style="s2">we made ballot ready so you<span style="s3"> wouldn&#39;t</span></p>
+<p begin="00:04:43.980" end="00:04:49.260" style="s2">have to stress over it and what we do is</p>
+<p begin="00:04:46.890" end="00:04:51.750" style="s2">you we ask you for your address so you</p>
+<p begin="00:04:49.260" end="00:04:54.450" style="s2">can we can show you every candidate that</p>
+<p begin="00:04:51.750" end="00:04:56.310" style="s2">will appear on your ballot and we show</p>
+<p begin="00:04:54.450" end="00:04:58.380" style="s2">you background information at this<span style="s3"> a</span></p>
+<p begin="00:04:56.310" end="00:05:00.900" style="s2">little small but you can pull up<span style="s3"> the</span></p>
+<p begin="00:04:58.380" end="00:05:03.780" style="s2">site it&#39;s so we show you who endorses</p>
+<p begin="00:05:00.900" end="00:05:08.640" style="s2">candidates their stances on issues<span style="s4"> that</span></p>
+<p begin="00:05:03.780" end="00:05:11.520" style="s2">we pull directly from them and you know</p>
+<p begin="00:05:08.640" end="00:05:16.860" style="s2">news articles about them their previous</p>
+<p begin="00:05:11.520" end="00:05:19.050" style="s2">experience where they worked we so we&#39;re</p>
+<p begin="00:05:16.860" end="00:05:23.669" style="s2">doing<span style="s3"> this</span> for<span style="s3"> Illinois</span> right now the</p>
+<p begin="00:05:19.050" end="00:05:26.520" style="s2">marked the primary on Tuesday<span style="s4"> in</span> the<span style="s3"> US</span></p>
+<p begin="00:05:23.669" end="00:05:30.570" style="s2">overall there are half a million elected</p>
+<p begin="00:05:26.520" end="00:05:33.450" style="s2"><span style="s3">officials</span> we we have a plan<span style="s4"> to</span></p>
+<p begin="00:05:30.570" end="00:05:35.640" style="s2">strategically scale but the the problem</p>
+<p begin="00:05:33.450" end="00:05:38.760" style="s2">and John Oliver<span style="s3"> just</span> did a segment on</p>
+<p begin="00:05:35.640" end="00:05:42.320" style="s2">this like we spent so much time thinking</p>
+<p begin="00:05:38.760" end="00:05:46.140" style="s2">and talking<span style="s3"> about</span> Trump Bernie Hillary</p>
+<p begin="00:05:42.320" end="00:05:48.180" style="s2"><span style="s3">Cruz</span> and but so many<span style="s3"> of</span> the people</p>
+<p begin="00:05:46.140" end="00:05:50.460" style="s2">actually doing work and representing us</p>
+<p begin="00:05:48.180" end="00:05:55.110" style="s2">are these people like we barely even</p>
+<p begin="00:05:50.460" end="00:05:57.870" style="s2">know<span style="s3"> their</span> names and<span style="s3"> they</span> have a huge</p>
+<p begin="00:05:55.110" end="00:06:00.570" style="s2">impact I you guys of<span style="s3"> all</span> people probably</p>
+<p begin="00:05:57.870" end="00:06:02.910" style="s2">know the impact they have but like state</p>
+<p begin="00:06:00.570" end="00:06:07.919" style="s2">reps are deciding which schools should</p>
+<p begin="00:06:02.910" end="00:06:09.270" style="s2">be funded they&#39;re deciding which mental</p>
+<p begin="00:06:07.919" end="00:06:11.000" style="s2">health clinic whether mental health</p>
+<p begin="00:06:09.270" end="00:06:13.440" style="s2">clinics should be reopened or not</p>
+<p begin="00:06:11.000" end="00:06:15.870" style="s2">state&#39;s attorneys are deciding who to</p>
+<p begin="00:06:13.440" end="00:06:17.940" style="s2">prosecute<span style="s3"> Water Reclamation</span></p>
+<p begin="00:06:15.870" end="00:06:19.470" style="s2">commissioners are deciding the quality</p>
+<p begin="00:06:17.940" end="00:06:25.510" style="s2">of our drinking water the direction of</p>
+<p begin="00:06:19.470" end="00:06:28.960" style="s2">our<span style="s4"> River</span> that they do that too so</p>
+<p begin="00:06:25.510" end="00:06:31.970" style="s2">we we think<span style="s4"> that</span><span style="s3"> it</span> shouldn&#39;t these</p>
+<p begin="00:06:28.960" end="00:06:36.110" style="s2">elekton these people shouldn&#39;t<span style="s4"> be</span> left</p>
+<p begin="00:06:31.970" end="00:06:39.380" style="s2">up to<span style="s4"> guesses</span> by a few people so our</p>
+<p begin="00:06:36.110" end="00:06:42.470" style="s2">theory of change is that<span style="s3"> if</span> we provide</p>
+<p begin="00:06:39.380" end="00:06:45.320" style="s2">accessible information more there<span style="s3"> will</span></p>
+<p begin="00:06:42.470" end="00:06:48.770" style="s2"><span style="s3">be</span> more informed voters which will make</p>
+<p begin="00:06:45.320" end="00:06:50.990" style="s2">better politicians and stronger stronger</p>
+<p begin="00:06:48.770" end="00:06:53.480" style="s2">communities this is<span style="s3"> not</span> only<span style="s3"> the</span></p>
+<p begin="00:06:50.990" end="00:06:56.150" style="s2"><span style="s3">fundamental</span> thesis of democracy it&#39;s</p>
+<p begin="00:06:53.480" end="00:07:03.010" style="s2">also been backed up by research which I</p>
+<p begin="00:06:56.150" end="00:07:05.360" style="s2">can send you later so currently<span style="s3"> we</span> get</p>
+<p begin="00:07:03.010" end="00:07:07.150" style="s2">information on all the candidates from</p>
+<p begin="00:07:05.360" end="00:07:11.260" style="s2">directly<span style="s4"> from</span> them from their<span style="s3"> websites</span></p>
+<p begin="00:07:07.150" end="00:07:13.940" style="s2">from organizations that endorse them</p>
+<p begin="00:07:11.260" end="00:07:16.640" style="s2"><span style="s4">board</span><span style="s3"> of</span><span style="s4"> elections</span> news articles all</p>
+<p begin="00:07:13.940" end="00:07:21.430" style="s2">questionnaires that like newspapers and</p>
+<p begin="00:07:16.640" end="00:07:24.830" style="s2">League of Women Voters fill out we</p>
+<p begin="00:07:21.430" end="00:07:27.340" style="s2">always<span style="s4"> are</span> looking for sources of voting</p>
+<p begin="00:07:24.830" end="00:07:31.310" style="s2">records campaign contributions<span style="s4"> and</span></p>
+<p begin="00:07:27.340" end="00:07:33.590" style="s2">candidate speeches every bit of</p>
+<p begin="00:07:31.310" end="00:07:37.520" style="s2">information we have on the site we link</p>
+<p begin="00:07:33.590" end="00:07:40.490" style="s2">to its source so in this election we had</p>
+<p begin="00:07:37.520" end="00:07:42.950" style="s2">a candidate say oh you know<span style="s4"> I</span> realized</p>
+<p begin="00:07:40.490" end="00:07:46.520" style="s2">my opponents have a stance on this issue</p>
+<p begin="00:07:42.950" end="00:07:47.870" style="s2">but I don&#39;t can<span style="s4"> you</span> say this we say you</p>
+<p begin="00:07:46.520" end="00:07:49.700" style="s2">should put that on<span style="s3"> your</span> website when you</p>
+<p begin="00:07:47.870" end="00:07:52.250" style="s2">put it on your website will say it we</p>
+<p begin="00:07:49.700" end="00:07:53.330" style="s2"><span style="s3">don&#39;t</span> we don&#39;t want them telling us one</p>
+<p begin="00:07:52.250" end="00:07:58.640" style="s2">thing<span style="s3"> and</span> then<span style="s3"> saying</span> another thing</p>
+<p begin="00:07:53.330" end="00:08:01.340" style="s2">somewhere else we the way we get the</p>
+<p begin="00:07:58.640" end="00:08:04.520" style="s2">information on our<span style="s3"> site</span> right now is a<span style="s3"> a</span></p>
+<p begin="00:08:01.340" end="00:08:07.190" style="s2"><span style="s4">very</span> structured crowdsourcing so we have</p>
+<p begin="00:08:04.520" end="00:08:10.880" style="s2">what we call hackathons which might piss</p>
+<p begin="00:08:07.190" end="00:08:12.530" style="s2">off some coders but the point is we&#39;re</p>
+<p begin="00:08:10.880" end="00:08:18.820" style="s2">getting people<span style="s3"> we&#39;re</span> hacking democracy</p>
+<p begin="00:08:12.530" end="00:08:20.750" style="s2"><span style="s3">yeah</span> thank<span style="s4"> you</span> so we partner with</p>
+<p begin="00:08:18.820" end="00:08:22.670" style="s2">political science departments at</p>
+<p begin="00:08:20.750" end="00:08:24.470" style="s2">universities and their students come</p>
+<p begin="00:08:22.670" end="00:08:26.990" style="s2">together to research this and we have</p>
+<p begin="00:08:24.470" end="00:08:29.870" style="s2">multiple students research the same bit</p>
+<p begin="00:08:26.990" end="00:08:32.979" style="s2">of information and we are partnered with</p>
+<p begin="00:08:29.870" end="00:08:36.919" style="s2">universities across<span style="s3"> the</span> state you know</p>
+<p begin="00:08:32.979" end="00:08:38.209" style="s2">City Colleges you Chicago Northwestern</p>
+<p begin="00:08:36.919" end="00:08:42.459" style="s2">Loyola West</p>
+<p begin="00:08:38.209" end="00:08:47.629" style="s2">during Illinois University<span style="s4"> seiu</span> SI EU</p>
+<p begin="00:08:42.459" end="00:08:53.029" style="s2">not the<span style="s4"> Union</span> so that&#39;s how<span style="s4"> we</span> get the</p>
+<p begin="00:08:47.629" end="00:08:56.689" style="s2">information we also partner with civic</p>
+<p begin="00:08:53.029" end="00:09:01.509" style="s2">organizations of all sorts to get this</p>
+<p begin="00:08:56.689" end="00:09:04.519" style="s2">information<span style="s3"> out</span><span style="s4"> to</span> voters so this<span style="s3"> is</span></p>
+<p begin="00:09:01.509" end="00:09:09.529" style="s2">just a random sampling of the people who</p>
+<p begin="00:09:04.519" end="00:09:14.629" style="s2">share us to their members<span style="s3"> or</span> people</p>
+<p begin="00:09:09.529" end="00:09:17.179" style="s2">they&#39;re on their email lists and we have</p>
+<p begin="00:09:14.629" end="00:09:19.610" style="s2">got backing from a lot of awesome people</p>
+<p begin="00:09:17.179" end="00:09:21.139" style="s2">David<span style="s3"> Axelrod</span> gives us advice very</p>
+<p begin="00:09:19.610" end="00:09:24.589" style="s2">critical advice that we take<span style="s3"> into</span></p>
+<p begin="00:09:21.139" end="00:09:31.009" style="s2">account because he&#39;s right and Ray</p>
+<p begin="00:09:24.589" end="00:09:37.519" style="s2">LaHood we are just today decided on our</p>
+<p begin="00:09:31.009" end="00:09:41.600" style="s2">road map for the<span style="s4"> next</span> through 2016 and</p>
+<p begin="00:09:37.519" end="00:09:43.779" style="s2">this is wrong now so you<span style="s3"> don&#39;t</span> have to</p>
+<p begin="00:09:41.600" end="00:09:46.579" style="s2">look<span style="s3"> at</span><span style="s4"> it</span> for<span style="s3"> that</span> long we are covering</p>
+<p begin="00:09:43.779" end="00:09:50.959" style="s2">not just so after we cover Illinois</p>
+<p begin="00:09:46.579" end="00:09:52.939" style="s2">we&#39;re covering a primary every month for</p>
+<p begin="00:09:50.959" end="00:09:55.119" style="s2"><span style="s3">the</span> rest of the year<span style="s3"> and</span> then we&#39;re</p>
+<p begin="00:09:52.939" end="00:09:59.629" style="s2">covering a bunch<span style="s3"> of</span> states this November</p>
+<p begin="00:09:55.119" end="00:10:03.290" style="s2">so that&#39;s ballot ready we hope<span style="s4"> that</span></p>
+<p begin="00:09:59.629" end="00:10:05.869" style="s2">everyone can vote informed and i also</p>
+<p begin="00:10:03.290" end="00:10:08.809" style="s2"><span style="s3">have</span> stickers that you can have you</p>
+<p begin="00:10:05.869" end="00:10:11.649" style="s2">don&#39;t have to do anything so<span style="s3"> i&#39;m</span> happy</p>
+<p begin="00:10:08.809" end="00:10:11.649" style="s2">to take questions</p>
+<p begin="00:10:19.440" end="00:10:29.050" style="s2">yeah horse oh you&#39;re like that idea here</p>
+<p begin="00:10:24.460" end="00:10:31.600" style="s2">is that warns people voting in a farm</p>
+<p begin="00:10:29.050" end="00:10:44.740" style="s2"><span style="s4">play</span> I wouldn&#39;t it be better to have</p>
+<p begin="00:10:31.600" end="00:10:47.460" style="s2">less people vote so um yea noise oh yes</p>
+<p begin="00:10:44.740" end="00:10:49.779" style="s2">I&#39;ll be down<span style="s3"> on</span> these down ballot races</p>
+<p begin="00:10:47.460" end="00:10:52.300" style="s2">wouldn&#39;t eat better can say hey if</p>
+<p begin="00:10:49.779" end="00:10:54.520" style="s2"><span style="s3">you&#39;re</span><span style="s4"> looking</span> about this race just<span style="s3"> on</span></p>
+<p begin="00:10:52.300" end="00:10:59.140" style="s2">phone don&#39;t<span style="s3"> take</span> care<span style="s3"> of</span> the<span style="s3"> dividual</span></p>
+<p begin="00:10:54.520" end="00:11:02.040" style="s2">for fusion problem true we think<span style="s4"> that</span></p>
+<p begin="00:10:59.140" end="00:11:04.720" style="s2">people actually want to know not just</p>
+<p begin="00:11:02.040" end="00:11:07.150" style="s2">they<span style="s4"> don&#39;t</span> just want<span style="s3"> to</span> feel<span style="s4"> good</span> about</p>
+<p begin="00:11:04.720" end="00:11:09.850" style="s2">their voting decision they don&#39;t<span style="s3"> just</span></p>
+<p begin="00:11:07.150" end="00:11:13.120" style="s2">want<span style="s3"> to</span> feel<span style="s4"> like</span> they&#39;re not failing</p>
+<p begin="00:11:09.850" end="00:11:15.490" style="s2">the test that<span style="s3"> is</span> their ballot they want</p>
+<p begin="00:11:13.120" end="00:11:17.670" style="s2">to be more engaged in their communities</p>
+<p begin="00:11:15.490" end="00:11:20.620" style="s2">and one way to do that<span style="s4"> is</span> learn about</p>
+<p begin="00:11:17.670" end="00:11:23.140" style="s2">the local officials what their</p>
+<p begin="00:11:20.620" end="00:11:26.260" style="s2">responsibilities is and the candidates</p>
+<p begin="00:11:23.140" end="00:11:29.709" style="s2">what their stances are basically we</p>
+<p begin="00:11:26.260" end="00:11:32.700" style="s2">think this is a way for people to start</p>
+<p begin="00:11:29.709" end="00:11:35.170" style="s2">creating a stronger narrative about</p>
+<p begin="00:11:32.700" end="00:11:36.790" style="s2">their<span style="s4"> community</span> the politics in their</p>
+<p begin="00:11:35.170" end="00:11:39.570" style="s2">community and<span style="s3"> what</span> effect they</p>
+<p begin="00:11:36.790" end="00:11:39.570" style="s2">themselves can have</p>
+<p begin="00:11:43.520" end="00:11:52.420" style="s2">it is it<span style="s4"> is</span> about that too but we I</p>
+<p begin="00:11:50.600" end="00:11:57.140" style="s2"><span style="s3">don&#39;t</span> think<span style="s4"> we</span> could have an effect on</p>
+<p begin="00:11:52.420" end="00:12:03.890" style="s2">we can&#39;t say hey people stop voting for</p>
+<p begin="00:11:57.140" end="00:12:07.100" style="s2">one thing we do think this will be<span style="s3"> able</span></p>
+<p begin="00:12:03.890" end="00:12:12.350" style="s2"><span style="s3">to</span><span style="s4"> motivate</span> people who are<span style="s4"> on</span> the fence</p>
+<p begin="00:12:07.100" end="00:12:16.610" style="s2">about researching being casting an</p>
+<p begin="00:12:12.350" end="00:12:18.620" style="s2">informed vote to do it yeah yeah so you</p>
+<p begin="00:12:16.610" end="00:12:20.210" style="s2">mentioned<span style="s3"> earlier</span> that there&#39;s a</p>
+<p begin="00:12:18.620" end="00:12:21.680" style="s2">candidate who wanted to<span style="s3"> say</span> something</p>
+<p begin="00:12:20.210" end="00:12:23.240" style="s2">specific<span style="s3"> and</span> you told him<span style="s4"> to</span> put</p>
+<p begin="00:12:21.680" end="00:12:24.800" style="s2"><span style="s3">something</span> on their website yeah I&#39;d like</p>
+<p begin="00:12:23.240" end="00:12:26.510" style="s2">can you<span style="s3"> tell</span> her maybe some more stories</p>
+<p begin="00:12:24.800" end="00:12:28.070" style="s2">about like crazy things<span style="s3"> that</span> like yeah</p>
+<p begin="00:12:26.510" end="00:12:34.010" style="s2">you&#39;ve encountered and trying to cross</p>
+<p begin="00:12:28.070" end="00:12:35.810" style="s2">yeah we got something wrong we<span style="s4"> uh</span> we</p>
+<p begin="00:12:34.010" end="00:12:37.280" style="s2">said that<span style="s3"> a</span> candidate was married to a</p>
+<p begin="00:12:35.810" end="00:12:41.090" style="s2">woman and she had three grandchildren</p>
+<p begin="00:12:37.280" end="00:12:47.480" style="s2">and she&#39;s like 40 and married to a man</p>
+<p begin="00:12:41.090" end="00:12:49.100" style="s2"><span style="s3">and</span> she was so angry so and<span style="s3"> huh</span> you know</p>
+<p begin="00:12:47.480" end="00:12:51.560" style="s2">we figured out<span style="s3"> why</span> we got it wrong we</p>
+<p begin="00:12:49.100" end="00:12:54.050" style="s2">figured<span style="s3"> out</span> a way to never make that</p>
+<p begin="00:12:51.560" end="00:13:04.070" style="s2"><span style="s4">kind</span> of thing wrong again but that</p>
+<p begin="00:12:54.050" end="00:13:07.160" style="s2">sucked<span style="s3"> um</span> other crazy things<span style="s4"> uh</span> we we</p>
+<p begin="00:13:04.070" end="00:13:10.100" style="s2">don&#39;t get so we&#39;ve<span style="s4"> had</span> candidates who</p>
+<p begin="00:13:07.160" end="00:13:12.530" style="s2">are like please i want to<span style="s3"> have</span> my</p>
+<p begin="00:13:10.100" end="00:13:15.590" style="s2">profile on the site and<span style="s3"> we&#39;re</span> like it&#39;s</p>
+<p begin="00:13:12.530" end="00:13:18.020" style="s2">already there you have<span style="s3"> no</span> say in your</p>
+<p begin="00:13:15.590" end="00:13:22.790" style="s2">profile so because<span style="s4"> we</span> want it<span style="s4"> to</span> be fair</p>
+<p begin="00:13:18.020" end="00:13:26.500" style="s2">and unbiased for everybody we&#39;ve had</p>
+<p begin="00:13:22.790" end="00:13:30.520" style="s2">voters asked us to cast votes for them</p>
+<p begin="00:13:26.500" end="00:13:35.840" style="s2">through our<span style="s3"> facebook</span> page like</p>
+<p begin="00:13:30.520" end="00:13:38.210" style="s2">specifically for Trump<span style="s3"> which</span> and I&#39;m</p>
+<p begin="00:13:35.840" end="00:13:40.820" style="s2">like I&#39;m<span style="s4"> sorry</span> we do not do that we</p>
+<p begin="00:13:38.210" end="00:13:43.550" style="s2">cannot vote for you I can we can tell</p>
+<p begin="00:13:40.820" end="00:13:50.290" style="s2">you where and when to vote that&#39;s it</p>
+<p begin="00:13:43.550" end="00:13:52.209" style="s2">yeah yeah</p>
+<p begin="00:13:50.290" end="00:13:55.870" style="s2">so much marketing strategies you guys</p>
+<p begin="00:13:52.209" end="00:13:57.730" style="s2">try<span style="s3"> they</span> go yeah so<span style="s4"> okay</span> the main one is</p>
+<p begin="00:13:55.870" end="00:14:00.190" style="s2">partnering with organizations that<span style="s3"> like</span></p>
+<p begin="00:13:57.730" end="00:14:03.519" style="s2">are<span style="s3"> really</span> excited<span style="s3"> about</span> our<span style="s3"> mission</span> and</p>
+<p begin="00:14:00.190" end="00:14:05.620" style="s2">just see this as a resource and so<span style="s4"> I&#39;ve</span></p>
+<p begin="00:14:03.519" end="00:14:07.930" style="s2">mostly<span style="s3"> talked</span> about civic organizations</p>
+<p begin="00:14:05.620" end="00:14:10.449" style="s2">but companies have also sent us out to</p>
+<p begin="00:14:07.930" end="00:14:16.990" style="s2">their<span style="s4"> employees</span> that&#39;s one we do</p>
+<p begin="00:14:10.449" end="00:14:23.250" style="s2"><span style="s3">Facebook</span> and dark posts on<span style="s4"> Facebook</span></p>
+<p begin="00:14:16.990" end="00:14:25.870" style="s2">native ads and we just experimented with</p>
+<p begin="00:14:23.250" end="00:14:28.660" style="s2">we have a blog<span style="s3"> to</span> which you can check</p>
+<p begin="00:14:25.870" end="00:14:33.009" style="s2"><span style="s4">out</span> and we have quizzes that are like</p>
+<p begin="00:14:28.660" end="00:14:37.000" style="s2">which which candidate aligns best with</p>
+<p begin="00:14:33.009" end="00:14:40.540" style="s2">you and those we wanted to test that out</p>
+<p begin="00:14:37.000" end="00:14:42.910" style="s2">also because that might be a more useful</p>
+<p begin="00:14:40.540" end="00:14:47.139" style="s2">way for people to take in all this</p>
+<p begin="00:14:42.910" end="00:14:53.579" style="s2">information a quiz might be the fastest</p>
+<p begin="00:14:47.139" end="00:14:53.579" style="s2">most fun way so we might do that yeah</p>
+<p begin="00:14:57.980" end="00:15:25.160" style="s2">I know<span style="s4"> yeah</span><span style="s3"> okay</span> one<span style="s3"> thing</span> is<span style="s3"> we</span><span style="s4"> the</span></p>
+<p begin="00:15:22.010" end="00:15:27.200" style="s2">judicial ratings just came out so we</p>
+<p begin="00:15:25.160" end="00:15:29.740" style="s2">just put them on the site I don&#39;t know</p>
+<p begin="00:15:27.200" end="00:15:34.730" style="s2">if they were there<span style="s3"> when</span> you were there</p>
+<p begin="00:15:29.740" end="00:15:37.630" style="s2">then probably not that&#39;s a<span style="s3"> little</span> more</p>
+<p begin="00:15:34.730" end="00:15:43.250" style="s2">exciting because some candidates are</p>
+<p begin="00:15:37.630" end="00:15:46.490" style="s2">like not recommended by all judicial by</p>
+<p begin="00:15:43.250" end="00:15:48.440" style="s2">all bar associations but yeah we&#39;re</p>
+<p begin="00:15:46.490" end="00:15:52.390" style="s2">looking for ways to experiment to make</p>
+<p begin="00:15:48.440" end="00:15:52.390" style="s2">it more fun yeah</p>
+<p begin="00:16:02.579" end="00:16:08.519" style="s2">yeah I do and I just had a meeting with</p>
+<p begin="00:16:05.309" end="00:16:11.670" style="s2">David or and he they like are talking</p>
+<p begin="00:16:08.519" end="00:16:17.329" style="s2">about a thing they were like David or is</p>
+<p begin="00:16:11.670" end="00:16:20.129" style="s2">the suburban Cook County Clerk yeah in</p>
+<p begin="00:16:17.329" end="00:16:25.529" style="s2">charge of elections for suburban Cook</p>
+<p begin="00:16:20.129" end="00:16:27.749" style="s2">County not for Chicago um but and he&#39;s</p>
+<p begin="00:16:25.529" end="00:16:33.809" style="s2">like a hotshot<span style="s3"> Board</span> of<span style="s3"> Elections</span> guy</p>
+<p begin="00:16:27.749" end="00:16:36.929" style="s2">right yeah he was like<span style="s3"> you</span> should<span style="s3"> have</span> a</p>
+<p begin="00:16:33.809" end="00:16:39.480" style="s2">QR code reader because in six years</p>
+<p begin="00:16:36.929" end="00:16:41.309" style="s2">we&#39;re going<span style="s3"> to have it where you just</span></p>
+<p begin="00:16:39.480" end="00:16:43.170" style="s2">like put your phone up with the list<span style="s3"> of</span></p>
+<p begin="00:16:41.309" end="00:16:45.899" style="s2">people<span style="s4"> you</span> want to vote for to the</p>
+<p begin="00:16:43.170" end="00:16:51.739" style="s2">voting<span style="s4"> booth</span> and then it&#39;s like<span style="s4"> you&#39;re</span></p>
+<p begin="00:16:45.899" end="00:16:55.410" style="s2">voted we also have<span style="s4"> do</span> partnerships with</p>
+<p begin="00:16:51.739" end="00:16:58.470" style="s2">there are companies that do online</p>
+<p begin="00:16:55.410" end="00:17:00.600" style="s2">voting for things like the Oscars and</p>
+<p begin="00:16:58.470" end="00:17:03.360" style="s2">the Grammys and like non-governmental</p>
+<p begin="00:17:00.600" end="00:17:08.220" style="s2">districts so they&#39;re like very active</p>
+<p begin="00:17:03.360" end="00:17:11.669" style="s2">but boards of Elections actually thirty</p>
+<p begin="00:17:08.220" end="00:17:14.059" style="s2"><span style="s3">percent</span> of county boards of Elections in</p>
+<p begin="00:17:11.669" end="00:17:17.699" style="s2">the<span style="s3"> US</span> don&#39;t<span style="s3"> even</span> have websites so</p>
+<p begin="00:17:14.059" end="00:17:19.110" style="s2">online<span style="s4"> voting</span> might an electronic voting</p>
+<p begin="00:17:17.699" end="00:17:24.149" style="s2">might happen a little<span style="s3"> later</span> but</p>
+<p begin="00:17:19.110" end="00:17:27.360" style="s2">definitely not that far off yeah so that</p>
+<p begin="00:17:24.149" end="00:17:31.180" style="s2">is you had a in it is for state&#39;s</p>
+<p begin="00:17:27.360" end="00:17:33.310" style="s2">attorney mm-hmm it had all their profile</p>
+<p begin="00:17:31.180" end="00:17:35.470" style="s2">yeah does it have anything<span style="s3"> about</span> the</p>
+<p begin="00:17:33.310" end="00:17:37.770" style="s2">office itself like what<span style="s3"> are</span> the types of</p>
+<p begin="00:17:35.470" end="00:17:42.820" style="s2"><span style="s4">things</span> they do like why is it important</p>
+<p begin="00:17:37.770" end="00:17:44.650" style="s2">these were sure we don&#39;t have<span style="s4"> that</span> now</p>
+<p begin="00:17:42.820" end="00:17:46.480" style="s2">but we&#39;ve gotten feedback that it would</p>
+<p begin="00:17:44.650" end="00:17:49.570" style="s2">be super useful so we&#39;re going to add it</p>
+<p begin="00:17:46.480" end="00:17:53.410" style="s2">the one thing that kind of helps you get</p>
+<p begin="00:17:49.570" end="00:17:55.780" style="s2">a sense is the stances the the issues so</p>
+<p begin="00:17:53.410" end="00:17:57.700" style="s2">you<span style="s3"> can</span><span style="s4"> like</span> click<span style="s3"> these</span> and then</p>
+<p begin="00:17:55.780" end="00:18:01.060" style="s2">compare candidates by the issue that you</p>
+<p begin="00:17:57.700" end="00:18:05.320" style="s2">care about so<span style="s3"> like laQuan McDonald</span> or</p>
+<p begin="00:18:01.060" end="00:18:10.030" style="s2">diversity<span style="s3"> and</span><span style="s4"> the</span> issues are different</p>
+<p begin="00:18:05.320" end="00:18:11.560" style="s2">for every race so the the presidential</p>
+<p begin="00:18:10.030" end="00:18:17.820" style="s2">candidates are not going to have laQuan</p>
+<p begin="00:18:11.560" end="00:18:17.820" style="s2">McDonald yeah yeah yeah yeah</p>
+<p begin="00:18:45.190" end="00:18:53.289" style="s2"><span style="s3">okay</span> so right now we go after<span style="s3"> people</span> who</p>
+<p begin="00:18:49.070" end="00:18:56.630" style="s2">are already likely to vote and we so</p>
+<p begin="00:18:53.289" end="00:18:59.269" style="s2">before this we did this voter behavior</p>
+<p begin="00:18:56.630" end="00:19:02.929" style="s2">research we talked to over 150 voters</p>
+<p begin="00:18:59.269" end="00:19:06.110" style="s2">some of whom we found that<span style="s3"> oh</span> what was</p>
+<p begin="00:19:02.929" end="00:19:09.230" style="s2">then open gov at this event literally</p>
+<p begin="00:19:06.110" end="00:19:10.970" style="s2">everyone we<span style="s3"> talked</span><span style="s4"> to</span> admitted to either</p>
+<p begin="00:19:09.230" end="00:19:14.690" style="s2">not completing their ballot or guessing</p>
+<p begin="00:19:10.970" end="00:19:24.380" style="s2">so our kind of theory hypothesis is</p>
+<p begin="00:19:14.690" end="00:19:26.919" style="s2">everyone is uninformed essentially<span style="s3"> you</span></p>
+<p begin="00:19:24.380" end="00:19:26.919" style="s2">structure</p>
+<p begin="00:19:29.910" end="00:19:42.400" style="s2"><span style="s3">what</span> is there are you using technology</p>
+<p begin="00:19:39.730" end="00:19:55.360" style="s2">and some way that you&#39;re doing<span style="s3"> that</span></p>
+<p begin="00:19:42.400" end="00:19:57.100" style="s2"><span style="s3">process</span> that better than yeah um it&#39;s we</p>
+<p begin="00:19:55.360" end="00:20:00.340" style="s2"><span style="s4">actually</span> don&#39;t need the skill of a</p>
+<p begin="00:19:57.100" end="00:20:02.250" style="s2">journalist because we&#39;re finding</p>
+<p begin="00:20:00.340" end="00:20:06.490" style="s2">information like where did this</p>
+<p begin="00:20:02.250" end="00:20:08.830" style="s2">candidate grow up tell us what stances</p>
+<p begin="00:20:06.490" end="00:20:12.370" style="s2">this candidate has and they&#39;re taking<span style="s4"> it</span></p>
+<p begin="00:20:08.830" end="00:20:17.700" style="s2">like in the same words that like as the</p>
+<p begin="00:20:12.370" end="00:20:21.370" style="s2">candidate says on their website so it&#39;s</p>
+<p begin="00:20:17.700" end="00:20:23.560" style="s2">does<span style="s3"> that</span><span style="s4"> answer that question it we</span></p>
+<p begin="00:20:21.370" end="00:20:25.690" style="s2"><span style="s3">don&#39;t</span> it&#39;s similar to what journalists</p>
+<p begin="00:20:23.560" end="00:20:28.420" style="s2">do but also we&#39;re working on automation</p>
+<p begin="00:20:25.690" end="00:20:31.750" style="s2">efforts so like one thing we do is we</p>
+<p begin="00:20:28.420" end="00:20:34.720" style="s2">tag every issue every stance with<span style="s4"> the</span></p>
+<p begin="00:20:31.750" end="00:20:38.890" style="s2">issue that it&#39;s relevant to so if i say</p>
+<p begin="00:20:34.720" end="00:20:42.370" style="s2">candidate a supports funding high</p>
+<p begin="00:20:38.890" end="00:20:44.710" style="s2">schools we<span style="s3"> tag</span> that with budget and k-12</p>
+<p begin="00:20:42.370" end="00:20:48.600" style="s2">education that we&#39;re trying<span style="s3"> to</span> automate</p>
+<p begin="00:20:44.710" end="00:20:53.590" style="s2">that so it&#39;s not less biased and faster</p>
+<p begin="00:20:48.600" end="00:20:54.760" style="s2">yeah yeah is there a function<span style="s4"> I</span> can</p>
+<p begin="00:20:53.590" end="00:20:57.240" style="s2">select<span style="s3"> every</span> what I want to vote for</p>
+<p begin="00:20:54.760" end="00:21:02.860" style="s2">email to myself</p>
+<p begin="00:20:57.240" end="00:21:06.159" style="s2">yes you<span style="s3"> can</span> save the one yeah yeah we do</p>
+<p begin="00:21:02.860" end="00:21:07.480" style="s2">not have<span style="s4"> a</span> nap because<span style="s3"> we</span> thought<span style="s4"> that</span></p>
+<p begin="00:21:06.159" end="00:21:10.690" style="s2">people<span style="s3"> wouldn&#39;t</span> want<span style="s3"> to</span> take the<span style="s4"> time</span> to</p>
+<p begin="00:21:07.480" end="00:21:12.490" style="s2">download it but we&#39;ve gotten some fee</p>
+<p begin="00:21:10.690" end="00:21:16.990" style="s2">but we might change<span style="s3"> your</span> mind about that</p>
+<p begin="00:21:12.490" end="00:21:18.700" style="s2">yeah yeah so right now we&#39;re funded by</p>
+<p begin="00:21:16.990" end="00:21:22.179" style="s2">the National Science Foundation the</p>
+<p begin="00:21:18.700" end="00:21:25.990" style="s2"><span style="s3">knight</span><span style="s4"> foundation</span> we won a competition</p>
+<p begin="00:21:22.179" end="00:21:29.169" style="s2">at Chicago Booth<span style="s3"> the</span> Institute of</p>
+<p begin="00:21:25.990" end="00:21:31.539" style="s2">Politics at university<span style="s3"> of</span> chicago center</p>
+<p begin="00:21:29.169" end="00:21:35.049" style="s2">for policy entrepreneurship we&#39;re in an</p>
+<p begin="00:21:31.539" end="00:21:38.490" style="s2">accelerator now called merge lane for</p>
+<p begin="00:21:35.049" end="00:21:38.490" style="s2">women led companies</p>
+<p begin="00:21:38.700" end="00:21:54.970" style="s2">we plan to raise a investor around seed</p>
+<p begin="00:21:43.630" end="00:21:58.350" style="s2">round yeah yeah so you know surveyed</p>
+<p begin="00:21:54.970" end="00:22:00.820" style="s2">no we go to their<span style="s3"> websites</span> and see what</p>
+<p begin="00:21:58.350" end="00:22:09.070" style="s2">stances they have and then from<span style="s3"> there</span></p>
+<p begin="00:22:00.820" end="00:22:14.010" style="s2"><span style="s3">pull</span> the issues we say which issue it</p>
+<p begin="00:22:09.070" end="00:22:14.010" style="s2">belongs to which issues it belongs to</p>
+<p begin="00:22:18.600" end="00:22:34.030" style="s2">yeah we&#39;ll show you the<span style="s3"> text</span> and we will</p>
+<p begin="00:22:24.880" end="00:22:36.400" style="s2">link it to its source there&#39;s Civic</p>
+<p begin="00:22:34.030" end="00:22:38.980" style="s2">agencies thats been other time they know</p>
+<p begin="00:22:36.400" end="00:22:42.580" style="s2">everything about that<span style="s3"> issue</span> but they</p>
+<p begin="00:22:38.980" end="00:22:46.690" style="s2">can&#39;t tell<span style="s4"> me</span> who to vote for because</p>
+<p begin="00:22:42.580" end="00:22:49.779" style="s2">then I love to say of<span style="s3"> course</span> yeah forget</p>
+<p begin="00:22:46.690" end="00:22:52.419" style="s2">it just seems I&#39;m sort of skeptical that</p>
+<p begin="00:22:49.779" end="00:22:53.919" style="s2">I&#39;m<span style="s3"> going to get a really clear view of</span></p>
+<p begin="00:22:52.419" end="00:22:55.330" style="s2">what this person actually thinks about</p>
+<p begin="00:22:53.919" end="00:23:02.270" style="s2">diversity</p>
+<p begin="00:22:55.330" end="00:23:07.550" style="s2">yeah um<span style="s3"> are</span> you<span style="s3"> saying</span> you want to know</p>
+<p begin="00:23:02.270" end="00:23:09.530" style="s2">um yeah can<span style="s4"> you</span> rephrase that who&#39;s my</p>
+<p begin="00:23:07.550" end="00:23:12.740" style="s2">go-to source<span style="s3"> of authenticity what</span> do</p>
+<p begin="00:23:09.530" end="00:23:14.990" style="s2">they<span style="s4"> think</span> who are they<span style="s3"> yeah</span> so we do</p>
+<p begin="00:23:12.740" end="00:23:18.770" style="s2">list all the endorsements but things</p>
+<p begin="00:23:14.990" end="00:23:21.200" style="s2">like black lives matter doesn&#39;t endorse</p>
+<p begin="00:23:18.770" end="00:23:23.540" style="s2">candidates for example<span style="s3"> and</span> that<span style="s3"> was like</span></p>
+<p begin="00:23:21.200" end="00:23:28.010" style="s2">a specific choice on their part and</p>
+<p begin="00:23:23.540" end="00:23:31.070" style="s2">neither does byp so but the some</p>
+<p begin="00:23:28.010" end="00:23:35.750" style="s2">individuals endorsed candidates so<span style="s3"> you</span></p>
+<p begin="00:23:31.070" end="00:23:38.840" style="s2">might<span style="s4"> be</span> able to<span style="s3"> glean</span> from there<span style="s3"> I&#39;m</span></p>
+<p begin="00:23:35.750" end="00:23:40.730" style="s2">not sure where else so other than like</p>
+<p begin="00:23:38.840" end="00:23:43.910" style="s2">the questionnaires that candidates fill</p>
+<p begin="00:23:40.730" end="00:23:48.340" style="s2">out they might<span style="s3"> not</span> be<span style="s4"> saying</span> anything at</p>
+<p begin="00:23:43.910" end="00:23:52.210" style="s2">any time about diversity that may be a</p>
+<p begin="00:23:48.340" end="00:23:52.210" style="s2">reason to vote one<span style="s3"> way</span> or another</p>
+<p begin="00:23:55.800" end="00:24:02.610" style="s2">music but they&#39;re not allowed to share</p>
+<p begin="00:23:58.680" end="00:24:07.470" style="s2"><span style="s4">they&#39;re</span> really not<span style="s3"> will</span> opinion me yeah</p>
+<p begin="00:24:02.610" end="00:24:13.340" style="s2">I<span style="s3"> wonder</span> if there&#39;s some way I ya know</p>
+<p begin="00:24:07.470" end="00:24:13.340" style="s2">it&#39;s a good question I&#39;m not<span style="s3"> sure</span> yeah</p>
+<p begin="00:24:15.740" end="00:24:24.270" style="s2">we put all them so new ones come in all</p>
+<p begin="00:24:22.710" end="00:24:31.860" style="s2">the time and then we add them to the</p>
+<p begin="00:24:24.270" end="00:24:33.570" style="s2">site oh yeah yeah they have to<span style="s3"> be</span> like</p>
+<p begin="00:24:31.860" end="00:24:35.880" style="s2">listed in a source that we&#39;re already</p>
+<p begin="00:24:33.570" end="00:24:40.740" style="s2">looking at so the candidates website and</p>
+<p begin="00:24:35.880" end="00:24:47.240" style="s2">endorsing organization&#39;s website<span style="s3"> maybe</span> a</p>
+<p begin="00:24:40.740" end="00:24:47.240" style="s2">candidate&#39;s like social media does that</p>
+<p begin="00:24:49.940" end="00:24:55.230" style="s2">performing organizations</p>
+<p begin="00:24:51.960" end="00:25:08.460" style="s2">yeah we I don&#39;t think<span style="s3"> we&#39;ve</span> had<span style="s3"> that</span></p>
+<p begin="00:24:55.230" end="00:25:15.680" style="s2">problem yet yeah I&#39;m not sure I I will</p>
+<p begin="00:25:08.460" end="00:25:15.680" style="s2">find out I&#39;m sure yeah yeah</p>
+<p begin="00:25:20.590" end="00:25:29.540" style="s2">yeah so we do a couple things like we</p>
+<p begin="00:25:26.240" end="00:25:34.010" style="s2">track how far through the ballot our</p>
+<p begin="00:25:29.540" end="00:25:35.870" style="s2">users got so we want most we want a lot</p>
+<p begin="00:25:34.010" end="00:25:38.210" style="s2"><span style="s3">of</span> our users to get all the way through</p>
+<p begin="00:25:35.870" end="00:25:40.630" style="s2"><span style="s3">the</span> ballot so if you&#39;re going to use it</p>
+<p begin="00:25:38.210" end="00:25:45.290" style="s2">you should go through the whole<span style="s3"> palette</span></p>
+<p begin="00:25:40.630" end="00:25:46.880" style="s2">yeah yeah how much time people spend on</p>
+<p begin="00:25:45.290" end="00:25:48.680" style="s2">the elections that like everyone</p>
+<p begin="00:25:46.880" end="00:25:51.230" style="s2">actually participates in<span style="s3"> like</span></p>
+<p begin="00:25:48.680" end="00:25:53.060" style="s2">presidential election compared<span style="s4"> to</span> the</p>
+<p begin="00:25:51.230" end="00:25:55.550" style="s2">judges elections like is it the same</p>
+<p begin="00:25:53.060" end="00:25:57.140" style="s2">sort of ratio spent learning about</p>
+<p begin="00:25:55.550" end="00:25:59.060" style="s2">presidential candidates is very high<span style="s4"> and</span></p>
+<p begin="00:25:57.140" end="00:26:01.160" style="s2">no one actually takes effect learn about</p>
+<p begin="00:25:59.060" end="00:26:03.530" style="s2">judges I don&#39;t know the<span style="s4"> answer</span> to<span style="s4"> that</span></p>
+<p begin="00:26:01.160" end="00:26:09.310" style="s2">today but I&#39;ll probably know in like two</p>
+<p begin="00:26:03.530" end="00:26:09.310" style="s2">days yeah yeah</p>
+<p begin="00:26:12.630" end="00:26:18.460" style="s2">and have a<span style="s4"> little</span> more than ever what</p>
+<p begin="00:26:16.560" end="00:26:20.720" style="s2">kind of</p>
+<p begin="00:26:18.460" end="00:26:23.559" style="s2">specifically<span style="s3"> whether</span> it be<span style="s3"> just</span> you know</p>
+<p begin="00:26:20.720" end="00:26:23.559" style="s2">direct</p>
+<p begin="00:26:28.240" end="00:26:40.580" style="s2">so we are going to<span style="s4"> implement</span> the<span style="s4"> I CPR</span></p>
+<p begin="00:26:36.490" end="00:26:43.970" style="s2">Illinois sunshine this week so and</p>
+<p begin="00:26:40.580" end="00:26:47.480" style="s2">probably what<span style="s4"> we&#39;ll</span> show is like some</p>
+<p begin="00:26:43.970" end="00:26:50.360" style="s2">summary on the candidate compare page</p>
+<p begin="00:26:47.480" end="00:26:52.730" style="s2">and you can click on each candidate and</p>
+<p begin="00:26:50.360" end="00:26:54.440" style="s2">see<span style="s3"> like</span> the full profile to<span style="s4"> see</span> all the</p>
+<p begin="00:26:52.730" end="00:26:56.930" style="s2">information that we&#39;ve<span style="s3"> collected</span> on them</p>
+<p begin="00:26:54.440" end="00:27:18.290" style="s2">and we&#39;ll probably have more detailed</p>
+<p begin="00:26:56.930" end="00:27:22.310" style="s2">information there yeah I think yeah and</p>
+<p begin="00:27:18.290" end="00:27:24.080" style="s2">in other states it&#39;s not as nice as</p>
+<p begin="00:27:22.310" end="00:27:30.790" style="s2">Illinois because<span style="s3"> they</span> don&#39;t have the</p>
+<p begin="00:27:24.080" end="00:27:30.790" style="s2"><span style="s3">Illinois</span> son tres any yeah</p>
+<p begin="00:27:35.210" end="00:27:37.270" style="s2">I</p>
+<p begin="00:27:46.350" end="00:27:52.570" style="s2">yeah so we&#39;ve been<span style="s4"> working</span> on this<span style="s3"> for</span> a</p>
+<p begin="00:27:49.960" end="00:27:56.070" style="s2">little over a year we&#39;ve<span style="s3"> had</span> the site</p>
+<p begin="00:27:52.570" end="00:27:59.680" style="s2">working for we had a pilot in the</p>
+<p begin="00:27:56.070" end="00:28:01.720" style="s2"><span style="s4">mayoral</span><span style="s3"> runoff</span> election last spring we</p>
+<p begin="00:27:59.680" end="00:28:04.300" style="s2">covered Kentucky and Virginia last</p>
+<p begin="00:28:01.720" end="00:28:08.340" style="s2">November and so now we&#39;re on our<span style="s3"> third</span></p>
+<p begin="00:28:04.300" end="00:28:11.830" style="s2">market our team is there<span style="s4"> are</span> four of<span style="s3"> us</span></p>
+<p begin="00:28:08.340" end="00:28:14.130" style="s2">we have a lot of<span style="s3"> awesome advisors like</span></p>
+<p begin="00:28:11.830" end="00:28:26.530" style="s2">David Axelrod and Ray LaHood that we are</p>
+<p begin="00:28:14.130" end="00:28:28.090" style="s2">super helpful yeah yeah and they would</p>
+<p begin="00:28:26.530" end="00:28:31.630" style="s2"><span style="s3">like</span> information<span style="s3"> one thing I felt was</span></p>
+<p begin="00:28:28.090" end="00:28:34.270" style="s2">missing who was any negative information</p>
+<p begin="00:28:31.630" end="00:28:42.610" style="s2">so for<span style="s3"> example</span> ladies candidate has a</p>
+<p begin="00:28:34.270" end="00:28:44.260" style="s2">conviction for bad yeah so and this</p>
+<p begin="00:28:42.610" end="00:28:46.240" style="s2">definitely something we want to do right</p>
+<p begin="00:28:44.260" end="00:28:49.780" style="s2"><span style="s3">now</span><span style="s4"> we</span> just list the headlines of news</p>
+<p begin="00:28:46.240" end="00:28:52.050" style="s2">articles unless there&#39;s a stance on an</p>
+<p begin="00:28:49.780" end="00:28:55.120" style="s2">issue in there but we&#39;re also going to</p>
+<p begin="00:28:52.050" end="00:28:56.530" style="s2">next time pull out<span style="s3"> what&#39;s</span> in the news</p>
+<p begin="00:28:55.120" end="00:28:58.720" style="s2">articles so you don&#39;t have to click on</p>
+<p begin="00:28:56.530" end="00:29:08.770" style="s2">everyone to read it so that that&#39;s where</p>
+<p begin="00:28:58.720" end="00:29:11.580" style="s2">that information would come up yeah we</p>
+<p begin="00:29:08.770" end="00:29:11.580" style="s2">are<span style="s4"> for-profit</span></p>
+<p begin="00:29:11.650" end="00:29:17.610" style="s2">yeah we do so one is we&#39;ve experimented</p>
+<p begin="00:29:15.520" end="00:29:20.380" style="s2">with having ads on our site so</p>
+<p begin="00:29:17.610" end="00:29:24.460" style="s2">candidates can put an ad in their</p>
+<p begin="00:29:20.380" end="00:29:26.110" style="s2">profile and the<span style="s3"> feedback</span> that we got</p>
+<p begin="00:29:24.460" end="00:29:28.960" style="s2">from<span style="s4"> that</span> from voters was like they</p>
+<p begin="00:29:26.110" end="00:29:32.080" style="s2"><span style="s3">liked</span> seeing how candidates represent</p>
+<p begin="00:29:28.960" end="00:29:34.570" style="s2">themselves and their messaging we also</p>
+<p begin="00:29:32.080" end="00:29:36.790" style="s2">are thinking<span style="s3"> about</span> having like surveys</p>
+<p begin="00:29:34.570" end="00:29:39.640" style="s2">on the site<span style="s3"> that would replace the over</span></p>
+<p begin="00:29:36.790" end="00:29:42.040" style="s2">the phone polling that campaigns do so</p>
+<p begin="00:29:39.640" end="00:29:45.040" style="s2"><span style="s3">like</span> when they call you and they say</p>
+<p begin="00:29:42.040" end="00:29:47.500" style="s2">what do you think about this<span style="s3"> issue</span> so a</p>
+<p begin="00:29:45.040" end="00:29:49.720" style="s2">sort of feature to like give feedback to</p>
+<p begin="00:29:47.500" end="00:29:54.210" style="s2">this campaign so that campaigns can</p>
+<p begin="00:29:49.720" end="00:29:54.210" style="s2">better represent the voters</p>
+</div>
+</body>
+</tt>

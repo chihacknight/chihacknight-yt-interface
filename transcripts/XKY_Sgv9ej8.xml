@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:07.639" end="00:00:13.259" style="s2">okay well thanks everyone for inviting</p>
+<p begin="00:00:11.400" end="00:00:15.299" style="s2">us and listen to us talk so my name is</p>
+<p begin="00:00:13.259" end="00:00:18.029" style="s2"><span style="s3">freddy</span> i go by<span style="s4"> beat</span> my son and almost</p>
+<p begin="00:00:15.299" end="00:00:20.010" style="s2">everything it&#39;s jen<span style="s3"> she</span> goes by richard</p>
+<p begin="00:00:18.029" end="00:00:21.359" style="s2">serra on almost everything and we&#39;re</p>
+<p begin="00:00:20.010" end="00:00:23.430" style="s2">going<span style="s3"> to</span><span style="s4"> be</span> talking about Lucy Parsons</p>
+<p begin="00:00:21.359" end="00:00:25.980" style="s2"><span style="s3">labs</span> some of our projects how they</p>
+<p begin="00:00:23.430" end="00:00:30.630" style="s2">relate to transparency and then secure</p>
+<p begin="00:00:25.980" end="00:00:33.000" style="s2">drop in particular um so so who was Lucy</p>
+<p begin="00:00:30.630" end="00:00:34.950" style="s2">Parsons we named our nonprofit over this</p>
+<p begin="00:00:33.000" end="00:00:37.290" style="s2">woman who was a wobbly she was an</p>
+<p begin="00:00:34.950" end="00:00:40.620" style="s2">anarchist organizer during the time of</p>
+<p begin="00:00:37.290" end="00:00:42.000" style="s2">narts care large-scale<span style="s4"> labor</span> unrest she</p>
+<p begin="00:00:40.620" end="00:00:45.270" style="s2">was once called the<span style="s4"> most</span> dangerous woman</p>
+<p begin="00:00:42.000" end="00:00:47.879" style="s2">in Chicago so and she fits really well</p>
+<p begin="00:00:45.270" end="00:00:51.449" style="s2">into sort of our politics so we started</p>
+<p begin="00:00:47.879" end="00:00:55.140" style="s2">to name<span style="s4"> her</span><span style="s3"> nonprofit</span><span style="s4"> around</span> her yeah</p>
+<p begin="00:00:51.449" end="00:00:57.539" style="s2">and so the nonprofit is myself and<span style="s4"> Jen</span></p>
+<p begin="00:00:55.140" end="00:00:59.940" style="s2">Brian who&#39;s back there who&#39;s also</p>
+<p begin="00:00:57.539" end="00:01:03.149" style="s2"><span style="s4">sysadmin</span> as he said and<span style="s4"> Mason</span> who is</p>
+<p begin="00:00:59.940" end="00:01:04.710" style="s2">also a sysadmin so basically we&#39;re kind</p>
+<p begin="00:01:03.149" end="00:01:09.060" style="s2">of at this intersection of like</p>
+<p begin="00:01:04.710" end="00:01:11.700" style="s2">technology activism data science and</p>
+<p begin="00:01:09.060" end="00:01:13.560" style="s2">transparency so we focus on a lot<span style="s4"> of</span></p>
+<p begin="00:01:11.700" end="00:01:15.990" style="s2"><span style="s4">things</span> like digital rights but also how</p>
+<p begin="00:01:13.560" end="00:01:17.820" style="s2">that impacts people that live on<span style="s3"> the</span></p>
+<p begin="00:01:15.990" end="00:01:19.409" style="s2">street and<span style="s4"> you</span> know so<span style="s4"> when</span> we talk</p>
+<p begin="00:01:17.820" end="00:01:21.600" style="s2">about like<span style="s3"> surveillance</span> we don&#39;t<span style="s4"> think</span></p>
+<p begin="00:01:19.409" end="00:01:22.890" style="s2"><span style="s4">about</span> surveillances like this you know</p>
+<p begin="00:01:21.600" end="00:01:25.320" style="s2">big brother&#39;s watching you we think</p>
+<p begin="00:01:22.890" end="00:01:28.140" style="s2"><span style="s4">about</span> like oh wow<span style="s4"> you&#39;re</span> an undocumented</p>
+<p begin="00:01:25.320" end="00:01:30.450" style="s2">worker you know it matters that someone</p>
+<p begin="00:01:28.140" end="00:01:33.390" style="s2">is asking you for your papers as you&#39;re</p>
+<p begin="00:01:30.450" end="00:01:35.340" style="s2">walking down<span style="s4"> the</span> street so that&#39;s kind</p>
+<p begin="00:01:33.390" end="00:01:40.049" style="s2">of the<span style="s4"> frame</span> that we like to work out<span style="s4"> of</span></p>
+<p begin="00:01:35.340" end="00:01:41.640" style="s2">and so that&#39;s our mission I guess so</p>
+<p begin="00:01:40.049" end="00:01:43.200" style="s2">previous projects we wrote<span style="s4"> a</span></p>
+<p begin="00:01:41.640" end="00:01:46.530" style="s2">surveillance primer so we took all of</p>
+<p begin="00:01:43.200" end="00:01:48.210" style="s2">the technologies that that we know<span style="s3"> that</span></p>
+<p begin="00:01:46.530" end="00:01:50.729" style="s2">the city uses and we put<span style="s4"> them</span> into a</p>
+<p begin="00:01:48.210" end="00:01:53.549" style="s2">tool so the link is<span style="s4"> there</span> so for<span style="s4"> example</span></p>
+<p begin="00:01:50.729" end="00:01:55.409" style="s2"><span style="s4">we</span> have all<span style="s4"> of</span> the cameras the red light</p>
+<p begin="00:01:53.549" end="00:01:57.000" style="s2">or<span style="s3"> the</span> blue light cameras that are</p>
+<p begin="00:01:55.409" end="00:01:59.189" style="s2">around the city we put them in like a</p>
+<p begin="00:01:57.000" end="00:02:00.780" style="s2">they&#39;re all geocoded so you can like go</p>
+<p begin="00:01:59.189" end="00:02:03.390" style="s2">see the closest<span style="s4"> one</span> to<span style="s3"> braintree</span> if you</p>
+<p begin="00:02:00.780" end="00:02:05.009" style="s2">want um I<span style="s3"> think</span> it&#39;s right outside of</p>
+<p begin="00:02:03.390" end="00:02:09.000" style="s2"><span style="s4">the</span> train station it might be like two</p>
+<p begin="00:02:05.009" end="00:02:11.370" style="s2">or three<span style="s4"> blocks</span> away I found a rotary</p>
+<p begin="00:02:09.000" end="00:02:13.290" style="s2">source on identifying police officers</p>
+<p begin="00:02:11.370" end="00:02:15.560" style="s2"><span style="s3">who</span> have killed<span style="s3"> for</span> some</p>
+<p begin="00:02:13.290" end="00:02:18.060" style="s2">really terrible language in the police</p>
+<p begin="00:02:15.560" end="00:02:20.370" style="s2">contract police union contract the city</p>
+<p begin="00:02:18.060" end="00:02:22.349" style="s2">will<span style="s4"> refuse</span> to<span style="s3"> release</span> names and i think</p>
+<p begin="00:02:20.370" end="00:02:24.030" style="s2">that&#39;s horrible because if your<span style="s4"> family</span></p>
+<p begin="00:02:22.349" end="00:02:27.870" style="s2">that&#39;s grieving that&#39;s the should be</p>
+<p begin="00:02:24.030" end="00:02:29.489" style="s2">public there are states and cities where</p>
+<p begin="00:02:27.870" end="00:02:31.680" style="s2">this is the case but that&#39;s not the<span style="s3"> case</span></p>
+<p begin="00:02:29.489" end="00:02:34.220" style="s2">in<span style="s4"> Chicago</span> so I was<span style="s4"> like</span> well whatever I</p>
+<p begin="00:02:31.680" end="00:02:35.970" style="s2">don&#39;t care so I wrote a guide for that</p>
+<p begin="00:02:34.220" end="00:02:37.709" style="s2">and<span style="s3"> we</span> also do things like</p>
+<p begin="00:02:35.970" end="00:02:40.489" style="s2">letter-writing campaigns for political</p>
+<p begin="00:02:37.709" end="00:02:42.569" style="s2">political prisoners<span style="s3"> and</span> things like that</p>
+<p begin="00:02:40.489" end="00:02:46.680" style="s2"><span style="s4">so I encourage you to</span> check out some<span style="s3"> of</span></p>
+<p begin="00:02:42.569" end="00:02:48.269" style="s2">our<span style="s4"> previous</span> projects our current</p>
+<p begin="00:02:46.680" end="00:02:51.359" style="s2">project is with mock rock is anyone</p>
+<p begin="00:02:48.269" end="00:02:53.010" style="s2"><span style="s4">familiar</span> with mock rock so<span style="s4"> they&#39;re</span> a</p>
+<p begin="00:02:51.359" end="00:02:55.799" style="s2">platform for sending Freedom of</p>
+<p begin="00:02:53.010" end="00:02:57.930" style="s2">Information Act requests so with FOIA</p>
+<p begin="00:02:55.799" end="00:03:02.370" style="s2">there&#39;s often a lot of back<span style="s3"> and</span> forward</p>
+<p begin="00:02:57.930" end="00:03:04.500" style="s2">there&#39;s a lot of following up so this</p>
+<p begin="00:03:02.370" end="00:03:07.439" style="s2">platform will just say like I want<span style="s4"> to</span> go</p>
+<p begin="00:03:04.500" end="00:03:09.720" style="s2">for the<span style="s4"> Chicago</span> water department for</p>
+<p begin="00:03:07.439" end="00:03:11.939" style="s2">these records it will send automatic</p>
+<p begin="00:03:09.720" end="00:03:13.919" style="s2">follow-ups it will host your documents</p>
+<p begin="00:03:11.939" end="00:03:15.359" style="s2">want to get them it&#39;s really<span style="s4"> nice</span><span style="s3"> and</span></p>
+<p begin="00:03:13.919" end="00:03:17.760" style="s2">it&#39;s<span style="s4"> really</span> like it&#39;s kind of like the</p>
+<p begin="00:03:15.359" end="00:03:20.010" style="s2">standard<span style="s4"> of what we would hope awfully</span> a</p>
+<p begin="00:03:17.760" end="00:03:22.620" style="s2">record-keeping would be like even unlock</p>
+<p begin="00:03:20.010" end="00:03:25.879" style="s2">on a government level but it&#39;s not so</p>
+<p begin="00:03:22.620" end="00:03:27.930" style="s2">you know they kind of fit that need our</p>
+<p begin="00:03:25.879" end="00:03:31.260" style="s2">project<span style="s4"> is</span> about civil asset forfeiture</p>
+<p begin="00:03:27.930" end="00:03:33.659" style="s2">is anyone familiar with<span style="s4"> that</span> so it&#39;s so</p>
+<p begin="00:03:31.260" end="00:03:36.930" style="s2">civil asset forfeiture is a program that</p>
+<p begin="00:03:33.659" end="00:03:39.090" style="s2">allows your property to<span style="s4"> be</span> seized it</p>
+<p begin="00:03:36.930" end="00:03:41.849" style="s2">could be cash it could be our car it&#39;s</p>
+<p begin="00:03:39.090" end="00:03:44.220" style="s2"><span style="s4">usually</span> cash or cars if you&#39;ve been</p>
+<p begin="00:03:41.849" end="00:03:46.109" style="s2">suspected of a crime um you<span style="s4"> don&#39;t</span> have</p>
+<p begin="00:03:44.220" end="00:03:47.639" style="s2">to<span style="s4"> prove</span> that<span style="s4"> a</span> person is like guilty</p>
+<p begin="00:03:46.109" end="00:03:50.489" style="s2">you know how to be you don&#39;t even have</p>
+<p begin="00:03:47.639" end="00:03:52.470" style="s2"><span style="s3">to</span> be charged with a crime to be to have</p>
+<p begin="00:03:50.489" end="00:03:55.829" style="s2">your property seized so what we&#39;ve done</p>
+<p begin="00:03:52.470" end="00:03:58.280" style="s2">is<span style="s4"> we&#39;ve</span> analyzed five years<span style="s4"> moving</span> into</p>
+<p begin="00:03:55.829" end="00:04:00.599" style="s2">the sixth year now all of the</p>
+<p begin="00:03:58.280" end="00:04:02.939" style="s2">expenditures that the Chicago Police</p>
+<p begin="00:04:00.599" end="00:04:05.819" style="s2">Department has done with<span style="s4"> that</span> money on</p>
+<p begin="00:04:02.939" end="00:04:08.760" style="s2">so we found two surprising things the</p>
+<p begin="00:04:05.819" end="00:04:10.919" style="s2">first is that or maybe not<span style="s4"> surprising</span></p>
+<p begin="00:04:08.760" end="00:04:13.259" style="s2">the first is that it funds<span style="s4"> a</span> lot of</p>
+<p begin="00:04:10.919" end="00:04:15.540" style="s2"><span style="s4">everyday</span> operations of the police</p>
+<p begin="00:04:13.259" end="00:04:19.739" style="s2"><span style="s3">department</span> like<span style="s4"> you</span> know phones for</p>
+<p begin="00:04:15.540" end="00:04:22.680" style="s2">undercover drug buys things like car</p>
+<p begin="00:04:19.739" end="00:04:23.789" style="s2">repairs for seized vehicles things that</p>
+<p begin="00:04:22.680" end="00:04:26.430" style="s2">would normally come out<span style="s3"> of</span> a police</p>
+<p begin="00:04:23.789" end="00:04:27.330" style="s2"><span style="s4">budget</span> if anyone<span style="s4"> was</span> looking or asking</p>
+<p begin="00:04:26.430" end="00:04:29.310" style="s2">questions</p>
+<p begin="00:04:27.330" end="00:04:31.229" style="s2">the other thing that we<span style="s3"> found</span> was<span style="s4"> that</span> a</p>
+<p begin="00:04:29.310" end="00:04:35.220" style="s2">lot of<span style="s3"> the</span> surveillance<span style="s4"> programs</span> that we</p>
+<p begin="00:04:31.229" end="00:04:37.400" style="s2">find are funded through a forfeiture so</p>
+<p begin="00:04:35.220" end="00:04:42.689" style="s2">like automatic license plate readers</p>
+<p begin="00:04:37.400" end="00:04:44.789" style="s2">cell site simulators things like that so</p>
+<p begin="00:04:42.689" end="00:04:47.159" style="s2">that was another thing<span style="s4"> that</span> we<span style="s4"> found and</span></p>
+<p begin="00:04:44.789" end="00:04:48.479" style="s2">we&#39;re working<span style="s3"> with</span> Joe<span style="s4"> Hanley</span> and the</p>
+<p begin="00:04:47.159" end="00:04:51.120" style="s2"><span style="s3">Chicago</span> Reader could publish our</p>
+<p begin="00:04:48.479" end="00:04:52.889" style="s2">investigation in the next month or<span style="s3"> two</span></p>
+<p begin="00:04:51.120" end="00:04:55.949" style="s2">we&#39;re going<span style="s4"> to have</span><span style="s3"> our</span> first article</p>
+<p begin="00:04:52.889" end="00:04:58.860" style="s2">out about this stuff and so if you&#39;re</p>
+<p begin="00:04:55.949" end="00:05:00.960" style="s2"><span style="s3">interested we&#39;re we&#39;ve done five years</span></p>
+<p begin="00:04:58.860" end="00:05:04.139" style="s2">of analysis we&#39;re<span style="s4"> hoping to keep this</span></p>
+<p begin="00:05:00.960" end="00:05:07.500" style="s2">going as an on an ongoing basis it&#39;s a</p>
+<p begin="00:05:04.139" end="00:05:11.240" style="s2">lot of<span style="s3"> work</span> so there&#39;s the link there or</p>
+<p begin="00:05:07.500" end="00:05:11.240" style="s2">you can obviously<span style="s4"> just</span> come talk<span style="s3"> to</span> us</p>
+<p begin="00:05:12.229" end="00:05:19.319" style="s2">so there are limitations to doing for</p>
+<p begin="00:05:14.849" end="00:05:20.759" style="s2">you a lot of it is again one<span style="s3"> of</span> the</p>
+<p begin="00:05:19.319" end="00:05:22.409" style="s2">reasons we like mock rock is because</p>
+<p begin="00:05:20.759" end="00:05:24.840" style="s2">they do all of this automatic follow-up</p>
+<p begin="00:05:22.409" end="00:05:27.689" style="s2">but you&#39;ll find things like eight months</p>
+<p begin="00:05:24.840" end="00:05:29.159" style="s2"><span style="s3">later</span> you don&#39;t<span style="s3"> get</span> any records you&#39;ll</p>
+<p begin="00:05:27.689" end="00:05:32.879" style="s2">find that sometimes they&#39;re over</p>
+<p begin="00:05:29.159" end="00:05:36.690" style="s2">redacted and the most interesting things</p>
+<p begin="00:05:32.879" end="00:05:38.389" style="s2">are usually you know kept secret you</p>
+<p begin="00:05:36.690" end="00:05:40.500" style="s2">might have to follow a lawsuit</p>
+<p begin="00:05:38.389" end="00:05:42.620" style="s2">institutions don&#39;t really like like to</p>
+<p begin="00:05:40.500" end="00:05:45.419" style="s2">open themselves up to<span style="s4"> public</span> inspection</p>
+<p begin="00:05:42.620" end="00:05:48.599" style="s2">so the most interesting stuff requires a</p>
+<p begin="00:05:45.419" end="00:05:50.789" style="s2">lawsuit I think I&#39;ve filed probably five</p>
+<p begin="00:05:48.599" end="00:05:54.270" style="s2">or six for lawsuits in the last two</p>
+<p begin="00:05:50.789" end="00:05:56.099" style="s2">years<span style="s4"> and</span> filing another two<span style="s4"> and</span> that</p>
+<p begin="00:05:54.270" end="00:05:58.319" style="s2">stuff isn&#39;t<span style="s3"> cheap</span> and it&#39;s a huge<span style="s4"> pain</span></p>
+<p begin="00:05:56.099" end="00:06:00.690" style="s2">and it&#39;s<span style="s4"> just</span><span style="s3"> like</span> really basic stuff</p>
+<p begin="00:05:58.319" end="00:06:02.819" style="s2">that I<span style="s3"> ask</span> for<span style="s4"> you</span> know<span style="s4"> like</span> go give me</p>
+<p begin="00:06:00.690" end="00:06:04.949" style="s2">this download in this email and here&#39;s</p>
+<p begin="00:06:02.819" end="00:06:07.710" style="s2">the date and the time stamp and I can&#39;t</p>
+<p begin="00:06:04.949" end="00:06:10.589" style="s2">even<span style="s4"> get</span> that some really<span style="s4"> basic</span> kind<span style="s4"> of</span></p>
+<p begin="00:06:07.710" end="00:06:13.169" style="s2">questions and so that&#39;s kind of<span style="s4"> the</span></p>
+<p begin="00:06:10.589" end="00:06:15.089" style="s2">limitation of FOIA and so we kind of</p>
+<p begin="00:06:13.169" end="00:06:16.770" style="s2">were like<span style="s4"> well</span> let&#39;s go beyond for you</p>
+<p begin="00:06:15.089" end="00:06:19.520" style="s2">and see what else<span style="s4"> we</span><span style="s3"> can</span> do and that&#39;s</p>
+<p begin="00:06:16.770" end="00:06:23.699" style="s2">where secure drop comes in and Jenny</p>
+<p begin="00:06:19.520" end="00:06:27.300" style="s2">yeah yeah so secure drop is a free and</p>
+<p begin="00:06:23.699" end="00:06:29.759" style="s2">open source software project that hopes</p>
+<p begin="00:06:27.300" end="00:06:32.250" style="s2">to make this whistle blowing process</p>
+<p begin="00:06:29.759" end="00:06:34.169" style="s2">easier so it was a project<span style="s3"> that</span> was</p>
+<p begin="00:06:32.250" end="00:06:36.580" style="s2">originally written by<span style="s4"> the</span> late Aaron</p>
+<p begin="00:06:34.169" end="00:06:38.050" style="s2">Swartz and is currently written and</p>
+<p begin="00:06:36.580" end="00:06:40.210" style="s2">maintained by the freedom of the press</p>
+<p begin="00:06:38.050" end="00:06:42.689" style="s2">foundation which is a nonprofit<span style="s4"> that</span></p>
+<p begin="00:06:40.210" end="00:06:45.699" style="s2">tries<span style="s3"> to</span> use<span style="s3"> tech</span> and journalism</p>
+<p begin="00:06:42.689" end="00:06:49.150" style="s2">together so the goal of this project is</p>
+<p begin="00:06:45.699" end="00:06:53.189" style="s2">to<span style="s4"> reduce risk to sources when they want</span></p>
+<p begin="00:06:49.150" end="00:06:56.740" style="s2">to leak information to journalists so</p>
+<p begin="00:06:53.189" end="00:06:58.840" style="s2">increasingly there is more risk to</p>
+<p begin="00:06:56.740" end="00:07:00.580" style="s2">sources because of the amount<span style="s4"> of</span> data</p>
+<p begin="00:06:58.840" end="00:07:02.500" style="s2">collection that&#39;s occurring you don&#39;t</p>
+<p begin="00:07:00.580" end="00:07:05.620" style="s2">need<span style="s3"> to</span> go<span style="s4"> to</span> a journalist and say hey</p>
+<p begin="00:07:02.500" end="00:07:07.539" style="s2">who is your source if you can just<span style="s4"> get a</span></p>
+<p begin="00:07:05.620" end="00:07:09.190" style="s2">court order for that<span style="s3"> journalists</span><span style="s4"> cell</span></p>
+<p begin="00:07:07.539" end="00:07:11.830" style="s2">phone<span style="s3"> records</span> for example<span style="s4"> and this is</span></p>
+<p begin="00:07:09.190" end="00:07:13.330" style="s2">something<span style="s3"> that</span> has<span style="s3"> been</span> done<span style="s4"> and</span> so this</p>
+<p begin="00:07:11.830" end="00:07:16.180" style="s2"><span style="s4">is</span><span style="s3"> the</span> goal of<span style="s4"> secured</span><span style="s3"> rob</span> to reduce</p>
+<p begin="00:07:13.330" end="00:07:17.860" style="s2">that metadata as much as is possible so</p>
+<p begin="00:07:16.180" end="00:07:20.800" style="s2">it&#39;s an anonymous whistleblowing system</p>
+<p begin="00:07:17.860" end="00:07:24.460" style="s2">that uses tour which is<span style="s4"> an</span> anonymity</p>
+<p begin="00:07:20.800" end="00:07:28.300" style="s2">system to ensure the anonymity of the</p>
+<p begin="00:07:24.460" end="00:07:31.300" style="s2"><span style="s4">source</span> and along with that comes no</p>
+<p begin="00:07:28.300" end="00:07:33.550" style="s2">logging so the landing pages for secure</p>
+<p begin="00:07:31.300" end="00:07:35.259" style="s2">drop don&#39;t log any information about</p>
+<p begin="00:07:33.550" end="00:07:39.669" style="s2">your browser there&#39;s no third-party</p>
+<p begin="00:07:35.259" end="00:07:42.159" style="s2">tracking on the<span style="s3"> pages</span> and the source</p>
+<p begin="00:07:39.669" end="00:07:44.500" style="s2">interface itself runs as a tor hidden</p>
+<p begin="00:07:42.159" end="00:07:48.340" style="s2">service which<span style="s3"> is</span> a way to anonymize the</p>
+<p begin="00:07:44.500" end="00:07:50.529" style="s2">server and the client so another<span style="s4"> feature</span></p>
+<p begin="00:07:48.340" end="00:07:53.710" style="s2">of secure drop is that all the documents</p>
+<p begin="00:07:50.529" end="00:07:56.830" style="s2">that<span style="s3"> are</span> submitted are encrypted both in</p>
+<p begin="00:07:53.710" end="00:07:58.539" style="s2">transit and in rest so if for example</p>
+<p begin="00:07:56.830" end="00:08:00.520" style="s2">law enforcement were to raid the</p>
+<p begin="00:07:58.539" end="00:08:02.259" style="s2">location of the secure drop servers all</p>
+<p begin="00:08:00.520" end="00:08:04.870" style="s2">of the source documents are kept</p>
+<p begin="00:08:02.259" end="00:08:08.259" style="s2">encrypted and thus the anonymity of the</p>
+<p begin="00:08:04.870" end="00:08:11.080" style="s2">source is protected so this<span style="s3"> is</span><span style="s4"> the</span></p>
+<p begin="00:08:08.259" end="00:08:15.419" style="s2">architecture of secure drop so if a</p>
+<p begin="00:08:11.080" end="00:08:18.550" style="s2">source wanted to leak a document to</p>
+<p begin="00:08:15.419" end="00:08:21.250" style="s2">secure<span style="s3"> drop</span> they would go through tor</p>
+<p begin="00:08:18.550" end="00:08:22.779" style="s2">and they would access it&#39;s just a simple</p>
+<p begin="00:08:21.250" end="00:08:24.969" style="s2">web application which will show you what</p>
+<p begin="00:08:22.779" end="00:08:26.740" style="s2"><span style="s4">it</span> looks like in a second and the goal</p>
+<p begin="00:08:24.969" end="00:08:29.319" style="s2">is<span style="s3"> to</span> make it<span style="s3"> as</span> easy as possible for</p>
+<p begin="00:08:26.740" end="00:08:32.229" style="s2">people to leave<span style="s4"> this</span> data so it&#39;s<span style="s4"> really</span></p>
+<p begin="00:08:29.319" end="00:08:34.510" style="s2">easy and then a journalist can come</p>
+<p begin="00:08:32.229" end="00:08:36.760" style="s2">later can check on the server see if</p>
+<p begin="00:08:34.510" end="00:08:39.339" style="s2">anything has been<span style="s3"> uploaded</span> and they can</p>
+<p begin="00:08:36.760" end="00:08:41.349" style="s2">take some documents to an air-gapped</p>
+<p begin="00:08:39.339" end="00:08:44.110" style="s2">machines and<span style="s4"> egg up machine is one that</span></p>
+<p begin="00:08:41.349" end="00:08:47.829" style="s2">is never<span style="s4"> totally</span> touch the internet and</p>
+<p begin="00:08:44.110" end="00:08:48.840" style="s2">so it&#39;s a safe space to work with these</p>
+<p begin="00:08:47.829" end="00:08:50.700" style="s2">documents and</p>
+<p begin="00:08:48.840" end="00:08:52.590" style="s2"><span style="s4">if</span> a journalist wants to take these</p>
+<p begin="00:08:50.700" end="00:08:54.180" style="s2">documents and write a story about<span style="s4"> it</span></p>
+<p begin="00:08:52.590" end="00:08:56.940" style="s2">they can then strip off the metadata</p>
+<p begin="00:08:54.180" end="00:08:58.380" style="s2">that may identify the source and then</p>
+<p begin="00:08:56.940" end="00:09:03.560" style="s2">you know put them<span style="s4"> on</span> the internet for</p>
+<p begin="00:08:58.380" end="00:09:05.940" style="s2"><span style="s4">everyone</span> to see so there are 25 of these</p>
+<p begin="00:09:03.560" end="00:09:07.680" style="s2">that are publicly deployed right now in</p>
+<p begin="00:09:05.940" end="00:09:10.050" style="s2">the<span style="s4"> world</span> including ours including these</p>
+<p begin="00:09:07.680" end="00:09:12.840" style="s2">places Washington Post the intercept the</p>
+<p begin="00:09:10.050" end="00:09:16.020" style="s2">new yorker<span style="s3"> ProPublica</span> and there&#39;s a full</p>
+<p begin="00:09:12.840" end="00:09:17.850" style="s2">list on secure drop<span style="s3"> dot</span> org slash</p>
+<p begin="00:09:16.020" end="00:09:20.130" style="s2">directory so if you want to<span style="s4"> see</span> all<span style="s3"> of</span></p>
+<p begin="00:09:17.850" end="00:09:21.650" style="s2">the<span style="s3"> organizations</span> many<span style="s3"> are</span> media</p>
+<p begin="00:09:20.130" end="00:09:24.180" style="s2">organizations but there are also</p>
+<p begin="00:09:21.650" end="00:09:26.640" style="s2">nonprofits like guys that are trying to</p>
+<p begin="00:09:24.180" end="00:09:28.260" style="s2">do this so this<span style="s3"> is</span> what the sauce</p>
+<p begin="00:09:26.640" end="00:09:31.080" style="s2">interface look<span style="s3"> alikes</span> is just like a</p>
+<p begin="00:09:28.260" end="00:09:33.570" style="s2">simple flask web app so if you&#39;re coming</p>
+<p begin="00:09:31.080" end="00:09:35.640" style="s2"><span style="s4">to</span> the<span style="s4"> first</span> time to the page you can</p>
+<p begin="00:09:33.570" end="00:09:37.980" style="s2">just click this to submit documents and</p>
+<p begin="00:09:35.640" end="00:09:41.550" style="s2">to get to this<span style="s4"> point</span> all you need to do</p>
+<p begin="00:09:37.980" end="00:09:43.230" style="s2">is go to<span style="s4"> tor</span> project<span style="s4"> org</span> and download</p>
+<p begin="00:09:41.550" end="00:09:44.970" style="s2">the tor browser bundle which is a</p>
+<p begin="00:09:43.230" end="00:09:49.470" style="s2"><span style="s4">special</span> web browser that enables you to</p>
+<p begin="00:09:44.970" end="00:09:52.140" style="s2">use this tool anonymity network and we</p>
+<p begin="00:09:49.470" end="00:09:54.210" style="s2">have a page that describes some of the</p>
+<p begin="00:09:52.140" end="00:09:55.980" style="s2">other security concerns that<span style="s3"> you</span> might</p>
+<p begin="00:09:54.210" end="00:09:59.700" style="s2">want to be aware of if you were to do</p>
+<p begin="00:09:55.980" end="00:10:03.030" style="s2">this and then another thing that<span style="s4"> sources</span></p>
+<p begin="00:09:59.700" end="00:10:05.220" style="s2">can<span style="s4"> do</span> through this interface is talk</p>
+<p begin="00:10:03.030" end="00:10:07.200" style="s2"><span style="s3">with</span> journalists so if you want<span style="s4"> to</span> have</p>
+<p begin="00:10:05.220" end="00:10:09.060" style="s2">a way that a journalist can talk to</p>
+<p begin="00:10:07.200" end="00:10:11.130" style="s2">someone who has some privileged access</p>
+<p begin="00:10:09.060" end="00:10:13.080" style="s2">without the<span style="s4"> journalist</span> maybe even being</p>
+<p begin="00:10:11.130" end="00:10:17.850" style="s2">aware of the sources identity this is a</p>
+<p begin="00:10:13.080" end="00:10:19.800" style="s2">way to do that so what we have done<span style="s4"> is</span></p>
+<p begin="00:10:17.850" end="00:10:21.810" style="s2">partner with journalists who are</p>
+<p begin="00:10:19.800" end="00:10:24.600" style="s2"><span style="s4">interested</span> in having access to a secure</p>
+<p begin="00:10:21.810" end="00:10:27.090" style="s2">drop and who are used to<span style="s4"> working</span> with</p>
+<p begin="00:10:24.600" end="00:10:29.130" style="s2">sources know how to work documents and</p>
+<p begin="00:10:27.090" end="00:10:32.880" style="s2">so these are rough for us to journalists</p>
+<p begin="00:10:29.130" end="00:10:34.470" style="s2">I&#39;ll leave Winston who is at the<span style="s3"> Center</span></p>
+<p begin="00:10:32.880" end="00:10:36.570" style="s2">for<span style="s3"> Investigative Reporting and</span> he</p>
+<p begin="00:10:34.470" end="00:10:39.840" style="s2">covers law<span style="s4"> enforcement</span> and surveillance</p>
+<p begin="00:10:36.570" end="00:10:43.050" style="s2"><span style="s4">ease room</span><span style="s3"> help</span> a lot about surveillance</p>
+<p begin="00:10:39.840" end="00:10:45.180" style="s2">in Chicago and another one of<span style="s3"> our</span></p>
+<p begin="00:10:43.050" end="00:10:47.340" style="s2">journalists is Paul gotten go from Rita</p>
+<p begin="00:10:45.180" end="00:10:49.500" style="s2">supported news who writes about u.s.</p>
+<p begin="00:10:47.340" end="00:10:51.720" style="s2">foreign policy the middle east of</p>
+<p begin="00:10:49.500" end="00:10:54.300" style="s2">national security so these<span style="s4"> are</span> the first</p>
+<p begin="00:10:51.720" end="00:10:58.460" style="s2"><span style="s4">two</span> people that will be using documents</p>
+<p begin="00:10:54.300" end="00:11:01.410" style="s2">from our<span style="s3"> secured run so if you have</span></p>
+<p begin="00:10:58.460" end="00:11:02.839" style="s2">information that you think is</p>
+<p begin="00:11:01.410" end="00:11:05.850" style="s2">something that the public should know</p>
+<p begin="00:11:02.839" end="00:11:07.740" style="s2">then you can leaked documents through</p>
+<p begin="00:11:05.850" end="00:11:09.420" style="s2">this if it is the case that there&#39;s a</p>
+<p begin="00:11:07.740" end="00:11:12.620" style="s2">particular<span style="s4"> journalist</span> one of these two</p>
+<p begin="00:11:09.420" end="00:11:14.759" style="s2">who you think would be<span style="s3"> best</span> suited to</p>
+<p begin="00:11:12.620" end="00:11:18.230" style="s2"><span style="s4">look</span> through the documents you<span style="s4"> can also</span></p>
+<p begin="00:11:14.759" end="00:11:33.839" style="s2">say that and we encourage<span style="s4"> you to do so</span></p>
+<p begin="00:11:18.230" end="00:11:38.160" style="s2">that&#39;s it<span style="s4"> just cavalli picture sure</span></p>
+<p begin="00:11:33.839" end="00:11:40.290" style="s2"><span style="s4">father</span> best ideals of simple ideas<span style="s3"> are</span></p>
+<p begin="00:11:38.160" end="00:11:43.019" style="s2"><span style="s3">really</span><span style="s4"> like</span> that have you<span style="s3"> guys</span> really</p>
+<p begin="00:11:40.290" end="00:11:45.240" style="s2"><span style="s3">look</span> to<span style="s4"> that</span> airdrop<span style="s4"> air gap</span><span style="s3"> system</span></p>
+<p begin="00:11:43.019" end="00:11:48.560" style="s2">because they&#39;re not necessarily as</p>
+<p begin="00:11:45.240" end="00:11:52.769" style="s2">secure as we<span style="s4"> think</span><span style="s3"> they</span> are they have</p>
+<p begin="00:11:48.560" end="00:11:55.680" style="s2">sure USB<span style="s4"> Drive</span> we<span style="s3"> talked</span> a little yeah</p>
+<p begin="00:11:52.769" end="00:11:58.980" style="s2">so with the air gap systems the process</p>
+<p begin="00:11:55.680" end="00:12:01.110" style="s2">that<span style="s3"> we go through is we</span><span style="s4"> get</span> new laptops</p>
+<p begin="00:11:58.980" end="00:12:03.000" style="s2">we rip out all of the network hardware</p>
+<p begin="00:12:01.110" end="00:12:05.819" style="s2"><span style="s4">physically</span> we&#39;re about the mics</p>
+<p begin="00:12:03.000" end="00:12:07.850" style="s2">physically the webcams physically</p>
+<p begin="00:12:05.819" end="00:12:10.740" style="s2">because there are some of these audio</p>
+<p begin="00:12:07.850" end="00:12:13.740" style="s2">potential ways to get data off of air</p>
+<p begin="00:12:10.740" end="00:12:15.750" style="s2">gap machines one obvious issue are these</p>
+<p begin="00:12:13.740" end="00:12:19.399" style="s2">USB drives and any like persistent</p>
+<p begin="00:12:15.750" end="00:12:22.769" style="s2">malware so when we boot from these</p>
+<p begin="00:12:19.399" end="00:12:24.509" style="s2">secure viewing station it&#39;s done with an</p>
+<p begin="00:12:22.769" end="00:12:32.370" style="s2">operating system called tails which is</p>
+<p begin="00:12:24.509" end="00:12:34.380" style="s2">alive OS so pretty clear like we didn&#39;t</p>
+<p begin="00:12:32.370" end="00:12:37.130" style="s2">develop all of<span style="s4"> this</span> like yeah I&#39;m fought</p>
+<p begin="00:12:34.380" end="00:12:37.130" style="s2">yeah yeah yeah</p>
+<p begin="00:13:01.399" end="00:13:10.680" style="s2">kind of a mixed bag<span style="s4"> so</span> we are<span style="s4"> trying to</span></p>
+<p begin="00:13:06.089" end="00:13:13.380" style="s2">so<span style="s4"> I</span> guess<span style="s3"> it</span> goes both ways it were</p>
+<p begin="00:13:10.680" end="00:13:15.390" style="s2">kind of we are<span style="s4"> very</span> careful that there</p>
+<p begin="00:13:13.380" end="00:13:18.240" style="s2">are things that weren&#39;t like if it&#39;s I</p>
+<p begin="00:13:15.390" end="00:13:20.940" style="s2">don&#39;t know someone&#39;s you know<span style="s4"> if</span> you&#39;re</p>
+<p begin="00:13:18.240" end="00:13:23.010" style="s2">like oh I I don&#39;t know if I just<span style="s4"> hacked</span></p>
+<p begin="00:13:20.940" end="00:13:24.570" style="s2">this random reporter and here&#39;s their</p>
+<p begin="00:13:23.010" end="00:13:25.709" style="s2">home address and they gave<span style="s3"> it to me I&#39;m</span></p>
+<p begin="00:13:24.570" end="00:13:28.350" style="s2">not<span style="s4"> going</span> to put<span style="s3"> that</span><span style="s4"> on your internet</span></p>
+<p begin="00:13:25.709" end="00:13:30.149" style="s2">ever right but it would be the interest</p>
+<p begin="00:13:28.350" end="00:13:32.820" style="s2">that if someone<span style="s4"> would</span> say here&#39;s our</p>
+<p begin="00:13:30.149" end="00:13:34.620" style="s2">manuals schedule which you know he</p>
+<p begin="00:13:32.820" end="00:13:35.970" style="s2">maintains two schedules right his public</p>
+<p begin="00:13:34.620" end="00:13:37.680" style="s2">one that he<span style="s3"> gets</span> to journalists<span style="s4"> and</span> then</p>
+<p begin="00:13:35.970" end="00:13:40.050" style="s2">the private one where he meets his</p>
+<p begin="00:13:37.680" end="00:13:43.529" style="s2">donors<span style="s3"> someone</span> gives that to me<span style="s3"> and</span> they</p>
+<p begin="00:13:40.050" end="00:13:44.850" style="s2">say put it on<span style="s4"> the</span> internet that I don&#39;t</p>
+<p begin="00:13:43.529" end="00:13:46.770" style="s2">think that that maybe would go through a</p>
+<p begin="00:13:44.850" end="00:13:49.529" style="s2">journalist although that might be the</p>
+<p begin="00:13:46.770" end="00:13:51.870" style="s2">case if it&#39;s like a I don&#39;t know Hillary</p>
+<p begin="00:13:49.529" end="00:13:54.240" style="s2">Clinton&#39;s deleted emails you know that&#39;s</p>
+<p begin="00:13:51.870" end="00:13:57.390" style="s2">that&#39;s a whole different story um so I</p>
+<p begin="00:13:54.240" end="00:13:59.550" style="s2">guess the problem that<span style="s3"> we</span> face is the</p>
+<p begin="00:13:57.390" end="00:14:02.550" style="s2">problem<span style="s3"> that</span> news rooms everywhere face</p>
+<p begin="00:13:59.550" end="00:14:04.410" style="s2">so it&#39;s it&#39;s it&#39;s I don&#39;t want to say</p>
+<p begin="00:14:02.550" end="00:14:05.730" style="s2">like it comes we don&#39;t know the answer</p>
+<p begin="00:14:04.410" end="00:14:07.290" style="s2">but we also don&#39;t<span style="s4"> know</span> the answer really</p>
+<p begin="00:14:05.730" end="00:14:11.010" style="s2">does depend on what comes through the</p>
+<p begin="00:14:07.290" end="00:14:12.330" style="s2">door um I<span style="s4"> don&#39;t</span> have a an answer other</p>
+<p begin="00:14:11.010" end="00:14:16.140" style="s2">than it really does depend on<span style="s3"> the</span></p>
+<p begin="00:14:12.330" end="00:14:18.360" style="s2">content on but we do are pretty careful</p>
+<p begin="00:14:16.140" end="00:14:24.270" style="s2">about looking at what comes through</p>
+<p begin="00:14:18.360" end="00:14:25.950" style="s2">right yeah I<span style="s4"> mean</span> where were acting as a</p>
+<p begin="00:14:24.270" end="00:14:27.390" style="s2">journalism organization which<span style="s3"> is</span> one of</p>
+<p begin="00:14:25.950" end="00:14:28.980" style="s2"><span style="s4">the</span> reasons why we thought it<span style="s4"> was</span> so</p>
+<p begin="00:14:27.390" end="00:14:30.690" style="s2">important to partner with journalists</p>
+<p begin="00:14:28.980" end="00:14:33.209" style="s2">who<span style="s3"> are</span> experienced in doing this so</p>
+<p begin="00:14:30.690" end="00:14:35.160" style="s2">that you know we&#39;re not<span style="s3"> just</span> working in</p>
+<p begin="00:14:33.209" end="00:14:38.810" style="s2">a vacuum and we can you know work as a</p>
+<p begin="00:14:35.160" end="00:14:41.270" style="s2">newsroom does yeah to<span style="s4"> edit</span> these things</p>
+<p begin="00:14:38.810" end="00:14:44.960" style="s2">yeah girlfriend</p>
+<p begin="00:14:41.270" end="00:14:49.120" style="s2">the sources p revenue possible someone</p>
+<p begin="00:14:44.960" end="00:14:49.120" style="s2">may allow</p>
+<p begin="00:14:52.800" end="00:14:57.400" style="s2">yeah i mean so that&#39;s the intention of</p>
+<p begin="00:14:55.120" end="00:15:01.720" style="s2">this project<span style="s3"> as</span> it is is so that people</p>
+<p begin="00:14:57.400" end="00:15:03.430" style="s2">can drop things anonymously and even a</p>
+<p begin="00:15:01.720" end="00:15:05.110" style="s2">deployment process is done sort of</p>
+<p begin="00:15:03.430" end="00:15:08.050" style="s2">anonymously like you check out the<span style="s4"> code</span></p>
+<p begin="00:15:05.110" end="00:15:10.900" style="s2">from github through tor anyway so like</p>
+<p begin="00:15:08.050" end="00:15:12.880" style="s2">yeah so a lot of this stuff is done kind</p>
+<p begin="00:15:10.900" end="00:15:15.070" style="s2">of like like so the freedom of the press</p>
+<p begin="00:15:12.880" end="00:15:16.960" style="s2">kind of builds the tools but then it&#39;s</p>
+<p begin="00:15:15.070" end="00:15:19.420" style="s2">up to individuals to sort of maintain it</p>
+<p begin="00:15:16.960" end="00:15:22.570" style="s2">and actually like deploy respond to<span style="s3"> me I</span></p>
+<p begin="00:15:19.420" end="00:15:23.830" style="s2"><span style="s4">guess</span> so a lot of that yeah so<span style="s4"> they</span></p>
+<p begin="00:15:22.570" end="00:15:25.930" style="s2">they&#39;re kind of like<span style="s4"> we&#39;ll</span> build the</p>
+<p begin="00:15:23.830" end="00:15:31.870" style="s2">tools and everyone else just take it and</p>
+<p begin="00:15:25.930" end="00:15:34.210" style="s2">run that makes sense yeah curious so the</p>
+<p begin="00:15:31.870" end="00:15:37.510" style="s2">journalistic organization part are<span style="s3"> you</span></p>
+<p begin="00:15:34.210" end="00:15:41.530" style="s2">seeking out whistle blowers or they&#39;re</p>
+<p begin="00:15:37.510" end="00:15:43.180" style="s2">finding you how do<span style="s4"> they</span> find you or I</p>
+<p begin="00:15:41.530" end="00:15:44.800" style="s2">mean we go to things like shy hack night</p>
+<p begin="00:15:43.180" end="00:15:48.640" style="s2">and explain to them like that<span style="s4"> this</span> thing</p>
+<p begin="00:15:44.800" end="00:15:50.260" style="s2">exists so if you<span style="s3"> have</span> if you&#39;ve got</p>
+<p begin="00:15:48.640" end="00:15:52.300" style="s2">stuff let us know so yeah it&#39;s a little</p>
+<p begin="00:15:50.260" end="00:15:55.660" style="s2">bit<span style="s4"> of both um we&#39;ve got other ideas</span></p>
+<p begin="00:15:52.300" end="00:15:59.560" style="s2">like I don&#39;t<span style="s4"> know</span> you<span style="s3"> know</span> we pasting</p>
+<p begin="00:15:55.660" end="00:16:00.460" style="s2">around you know downtown Chicago<span style="s3"> we&#39;re</span></p>
+<p begin="00:15:59.560" end="00:16:02.710" style="s2"><span style="s4">kind</span> of<span style="s3"> trying</span> to think these things</p>
+<p begin="00:16:00.460" end="00:16:04.750" style="s2">through but it&#39;s a<span style="s4"> little</span> bit<span style="s4"> of both we</span></p>
+<p begin="00:16:02.710" end="00:16:08.020" style="s2">are trying<span style="s4"> to</span> figure<span style="s3"> out the best</span></p>
+<p begin="00:16:04.750" end="00:16:10.660" style="s2">publicity we&#39;re also trying to yeah i</p>
+<p begin="00:16:08.020" end="00:16:12.400" style="s2">mean<span style="s3"> i</span> don&#39;t know it&#39;s kind<span style="s3"> of</span> a<span style="s3"> big</span></p>
+<p begin="00:16:10.660" end="00:16:14.500" style="s2">world so we&#39;re still trying<span style="s4"> to</span><span style="s3"> figure</span></p>
+<p begin="00:16:12.400" end="00:16:18.780" style="s2">out a lot of these<span style="s4"> things</span> it&#39;s been up</p>
+<p begin="00:16:14.500" end="00:16:18.780" style="s2">for a couple of months now<span style="s4"> yeah</span> so</p>
+<p begin="00:16:23.830" end="00:16:35.530" style="s2">mmhmm yeah so we use<span style="s4"> tails</span> for</p>
+<p begin="00:16:30.670" end="00:16:39.350" style="s2">administrating the servers and for this</p>
+<p begin="00:16:35.530" end="00:16:41.510" style="s2">so a sauce does not need to use tails to</p>
+<p begin="00:16:39.350" end="00:16:54.680" style="s2">submit documents yeah they&#39;re just need</p>
+<p begin="00:16:41.510" end="00:16:57.230" style="s2">the tor browser bundle yeah yeah so</p>
+<p begin="00:16:54.680" end="00:16:59.150" style="s2">WikiLeaks doesn&#39;t use this exact same</p>
+<p begin="00:16:57.230" end="00:17:01.280" style="s2">system but yeah someone could also</p>
+<p begin="00:16:59.150" end="00:17:09.470" style="s2">submit to WikiLeaks you know if they</p>
+<p begin="00:17:01.280" end="00:17:11.360" style="s2">want<span style="s4"> to</span> do so I would not know enough</p>
+<p begin="00:17:09.470" end="00:17:13.760" style="s2">about the wicked the way the WikiLeaks</p>
+<p begin="00:17:11.360" end="00:17:16.790" style="s2">submission engine works to judge its</p>
+<p begin="00:17:13.760" end="00:17:18.680" style="s2">security and I think one of the reasons</p>
+<p begin="00:17:16.790" end="00:17:20.330" style="s2">that people might want<span style="s4"> to</span> drop documents</p>
+<p begin="00:17:18.680" end="00:17:23.450" style="s2">to us is we&#39;re the only public</p>
+<p begin="00:17:20.330" end="00:17:26.140" style="s2">deployment in the Midwest and we<span style="s4"> partner</span></p>
+<p begin="00:17:23.450" end="00:17:28.520" style="s2">with journalists who<span style="s3"> are</span> experienced in</p>
+<p begin="00:17:26.140" end="00:17:30.620" style="s2">running about surveillance in Chicago</p>
+<p begin="00:17:28.520" end="00:17:32.480" style="s2">efforts and I will also mention that</p>
+<p begin="00:17:30.620" end="00:17:34.250" style="s2">like while I do have a<span style="s4"> lot</span> of respect</p>
+<p begin="00:17:32.480" end="00:17:35.990" style="s2">for organizations like<span style="s3"> Republic</span> and<span style="s4"> the</span></p>
+<p begin="00:17:34.250" end="00:17:38.300" style="s2"><span style="s3">New York Times</span> that<span style="s4"> they</span> are also<span style="s4"> kind</span></p>
+<p begin="00:17:35.990" end="00:17:40.340" style="s2"><span style="s4">of</span> like fan guards of information and so</p>
+<p begin="00:17:38.300" end="00:17:41.630" style="s2">I don&#39;t think<span style="s3"> that like WikiLeaks we</span></p>
+<p begin="00:17:40.340" end="00:17:43.220" style="s2">should just<span style="s4"> have</span> WikiLeaks or the pirate</p>
+<p begin="00:17:41.630" end="00:17:44.900" style="s2">bay or things like that we need a</p>
+<p begin="00:17:43.220" end="00:17:48.260" style="s2">thousand pirate base we need a thousand</p>
+<p begin="00:17:44.900" end="00:17:50.360" style="s2">WikiLeaks and I think centralization is</p>
+<p begin="00:17:48.260" end="00:17:52.100" style="s2">bad right I mean we grew up<span style="s4"> in the 90s</span></p>
+<p begin="00:17:50.360" end="00:17:55.340" style="s2">or some<span style="s3"> of</span> us even earlier we know that</p>
+<p begin="00:17:52.100" end="00:17:57.800" style="s2">that&#39;s the case so why<span style="s3"> not</span> have</p>
+<p begin="00:17:55.340" end="00:18:00.380" style="s2">thousands<span style="s4"> of</span> people running secured rum</p>
+<p begin="00:17:57.800" end="00:18:03.149" style="s2">yeah</p>
+<p begin="00:18:00.380" end="00:18:04.559" style="s2">yeah oh yeah so I I don&#39;t know how their</p>
+<p begin="00:18:03.149" end="00:18:16.370" style="s2">submission engine works on the back end</p>
+<p begin="00:18:04.559" end="00:18:19.710" style="s2">either yeah so the beginning<span style="s4"> okay</span> so</p>
+<p begin="00:18:16.370" end="00:18:23.429" style="s2">system is activists journalists kind of</p>
+<p begin="00:18:19.710" end="00:18:25.919" style="s2">like to do this but I&#39;m sorry yeah hey</p>
+<p begin="00:18:23.429" end="00:18:31.139" style="s2">des sciences everything<span style="s3"> okay</span> so how did</p>
+<p begin="00:18:25.919" end="00:18:34.380" style="s2">that<span style="s3"> happen</span> yeah so we all like everyone</p>
+<p begin="00:18:31.139" end="00:18:36.210" style="s2">in LPL that met each other through doing</p>
+<p begin="00:18:34.380" end="00:18:40.380" style="s2">digital security trainings through</p>
+<p begin="00:18:36.210" end="00:18:41.909" style="s2">something called crypto party Chicago so</p>
+<p begin="00:18:40.380" end="00:18:44.130" style="s2">that&#39;s how<span style="s3"> we</span> all<span style="s4"> met</span> each other and we</p>
+<p begin="00:18:41.909" end="00:18:47.940" style="s2">got to talking about<span style="s4"> these</span><span style="s3"> issues</span> and</p>
+<p begin="00:18:44.130" end="00:18:50.730" style="s2">this sort of a rose from that<span style="s3"> way</span> and</p>
+<p begin="00:18:47.940" end="00:18:53.250" style="s2">other another thing that happened is you</p>
+<p begin="00:18:50.730" end="00:18:55.769" style="s2"><span style="s4">kind</span> of I don&#39;t know if<span style="s4"> this</span> happens to</p>
+<p begin="00:18:53.250" end="00:18:58.110" style="s2"><span style="s4">other</span> people for me I I got one FOIA</p>
+<p begin="00:18:55.769" end="00:18:59.789" style="s2">document and I was like it was over</p>
+<p begin="00:18:58.110" end="00:19:01.769" style="s2">redacted and<span style="s4"> it</span> was a database that I</p>
+<p begin="00:18:59.789" end="00:19:03.750" style="s2">have like<span style="s4"> 20</span> records for already so I</p>
+<p begin="00:19:01.769" end="00:19:05.549" style="s2">know exactly what it is that<span style="s4"> they</span></p>
+<p begin="00:19:03.750" end="00:19:07.789" style="s2">redacted it was the name of a database</p>
+<p begin="00:19:05.549" end="00:19:10.950" style="s2"><span style="s3">that</span> they used<span style="s4"> to</span> look people up in and</p>
+<p begin="00:19:07.789" end="00:19:13.399" style="s2">I<span style="s4"> just was furious i think was like a</span></p>
+<p begin="00:19:10.950" end="00:19:16.019" style="s2"><span style="s3">tuesday</span> morning<span style="s3"> i</span> was<span style="s3"> like</span> screw this</p>
+<p begin="00:19:13.399" end="00:19:17.610" style="s2">let&#39;s just go do something else so a lot</p>
+<p begin="00:19:16.019" end="00:19:19.230" style="s2">of the these things kind of happened</p>
+<p begin="00:19:17.610" end="00:19:21.510" style="s2">just kind of I don&#39;t know just<span style="s4"> like</span></p>
+<p begin="00:19:19.230" end="00:19:23.630" style="s2">random chance occurrence so if it wasn&#39;t</p>
+<p begin="00:19:21.510" end="00:19:27.360" style="s2">for that one CPD officer who just</p>
+<p begin="00:19:23.630" end="00:19:28.860" style="s2">redacted out a little<span style="s4"> line</span> these things</p>
+<p begin="00:19:27.360" end="00:19:32.539" style="s2">wouldn&#39;t happen so I don&#39;t know so I</p>
+<p begin="00:19:28.860" end="00:19:35.370" style="s2">think<span style="s4"> for</span><span style="s3"> me</span> it was<span style="s4"> just</span> kind of like</p>
+<p begin="00:19:32.539" end="00:19:36.690" style="s2">little moments that just said like okay</p>
+<p begin="00:19:35.370" end="00:19:38.639" style="s2">we&#39;re doing these things and they&#39;re</p>
+<p begin="00:19:36.690" end="00:19:41.490" style="s2">interesting but like let&#39;s take it to a</p>
+<p begin="00:19:38.639" end="00:19:42.960" style="s2">different level because<span style="s4"> there</span> there&#39;s</p>
+<p begin="00:19:41.490" end="00:19:45.090" style="s2">other impactful work that we can do and</p>
+<p begin="00:19:42.960" end="00:19:46.649" style="s2">like administrating a secure drop</p>
+<p begin="00:19:45.090" end="00:19:51.000" style="s2">instance we&#39;re all so sad mint i</p>
+<p begin="00:19:46.649" end="00:19:53.909" style="s2">administered 40,000<span style="s3"> VMs</span><span style="s4"> I I can do</span></p>
+<p begin="00:19:51.000" end="00:19:58.529" style="s2">another 12 computers or whatever it<span style="s4"> is</span></p>
+<p begin="00:19:53.909" end="00:20:02.310" style="s2">so that&#39;s kind of how<span style="s3"> that</span> happens to so</p>
+<p begin="00:19:58.529" end="00:20:04.840" style="s2">I you guys are</p>
+<p begin="00:20:02.310" end="00:20:06.940" style="s2">you guys have set up the zucchini<span style="s4"> secure</span></p>
+<p begin="00:20:04.840" end="00:20:09.340" style="s2"><span style="s4">drop</span> system<span style="s4"> I&#39;m</span> kind of curious about</p>
+<p begin="00:20:06.940" end="00:20:11.620" style="s2">like the ecosystem that<span style="s4"> is</span> sort of</p>
+<p begin="00:20:09.340" end="00:20:14.410" style="s2">developing you&#39;ve got 25 without<span style="s4"> now</span> all</p>
+<p begin="00:20:11.620" end="00:20:16.450" style="s2">right are you<span style="s4"> finding</span> that<span style="s4"> you</span> know the</p>
+<p begin="00:20:14.410" end="00:20:17.620" style="s2">New York<span style="s3"> Times</span> covers certain things it</p>
+<p begin="00:20:16.450" end="00:20:20.350" style="s2">sounds like you&#39;re alluding to that your</p>
+<p begin="00:20:17.620" end="00:20:24.430" style="s2">previous answer have you found that</p>
+<p begin="00:20:20.350" end="00:20:26.980" style="s2">there&#39;s a<span style="s4"> need</span> at the local level 44</p>
+<p begin="00:20:24.430" end="00:20:29.050" style="s2">doing like Chicago specific or Midwest</p>
+<p begin="00:20:26.980" end="00:20:31.530" style="s2">specific document leaks and have you</p>
+<p begin="00:20:29.050" end="00:20:33.400" style="s2"><span style="s4">seen</span> other examples of local governments</p>
+<p begin="00:20:31.530" end="00:20:39.310" style="s2">releasing their thinking things through</p>
+<p begin="00:20:33.400" end="00:20:42.040" style="s2">secure drunk um yeah<span style="s3"> so</span> like one</p>
+<p begin="00:20:39.310" end="00:20:44.080" style="s2">challenge with finding out<span style="s4"> by other</span></p>
+<p begin="00:20:42.040" end="00:20:46.240" style="s2">secure drops is that people often don&#39;t</p>
+<p begin="00:20:44.080" end="00:20:48.040" style="s2">want to even say when a story resulted</p>
+<p begin="00:20:46.240" end="00:20:49.840" style="s2">from a leak that came through secure</p>
+<p begin="00:20:48.040" end="00:20:51.340" style="s2">drop because that may give<span style="s4"> some</span></p>
+<p begin="00:20:49.840" end="00:20:52.960" style="s2">information to an adversary that<span style="s4"> might</span></p>
+<p begin="00:20:51.340" end="00:20:55.180" style="s2">be trying<span style="s4"> to figure out who</span> was leaking</p>
+<p begin="00:20:52.960" end="00:20:57.730" style="s2"><span style="s4">this</span> data so like<span style="s4"> even</span> if figuring out</p>
+<p begin="00:20:55.180" end="00:21:00.550" style="s2">where the stories are coming<span style="s4"> from</span> is</p>
+<p begin="00:20:57.730" end="00:21:01.960" style="s2">sometimes unclear so people<span style="s4"> don&#39;t</span> want</p>
+<p begin="00:21:00.550" end="00:21:05.670" style="s2"><span style="s4">to</span> talk<span style="s4"> about</span> so I actually don&#39;t know</p>
+<p begin="00:21:01.960" end="00:21:05.670" style="s2">the answer<span style="s3"> to</span> those two last questions</p>
+<p begin="00:21:14.360" end="00:21:19.350" style="s2">so<span style="s4"> I</span><span style="s3"> gave anyone</span><span style="s4"> yeah</span> so if anyone from</p>
+<p begin="00:21:17.640" end="00:21:21.930" style="s2">Chicago Police Department wants to</p>
+<p begin="00:21:19.350" end="00:21:25.740" style="s2"><span style="s3">whistleblow</span> to<span style="s4"> us</span> I will gladly take<span style="s3"> it</span></p>
+<p begin="00:21:21.930" end="00:21:28.470" style="s2">I haven&#39;t I didn&#39;t even know they had<span style="s3"> a</span></p>
+<p begin="00:21:25.740" end="00:21:31.410" style="s2">whistleblower program um if internally</p>
+<p begin="00:21:28.470" end="00:21:33.390" style="s2">it seems like<span style="s3"> it</span> would<span style="s3"> be</span> useful yeah um</p>
+<p begin="00:21:31.410" end="00:21:36.270" style="s2">it&#39;s a little bit<span style="s4"> of</span> a challenge right</p>
+<p begin="00:21:33.390" end="00:21:38.360" style="s2">because with institutions again I kind</p>
+<p begin="00:21:36.270" end="00:21:41.070" style="s2"><span style="s4">of</span> alluded this to<span style="s4"> this</span> earlier if they</p>
+<p begin="00:21:38.360" end="00:21:43.440" style="s2">so there are whistleblowing programs<span style="s3"> but</span></p>
+<p begin="00:21:41.070" end="00:21:44.670" style="s2">like what we saw today there<span style="s3"> was</span> there</p>
+<p begin="00:21:43.440" end="00:21:46.890" style="s2">was like a two million dollar settlement</p>
+<p begin="00:21:44.670" end="00:21:48.590" style="s2">for a whistleblower<span style="s3"> to cops</span><span style="s4"> they</span> blew</p>
+<p begin="00:21:46.890" end="00:21:52.440" style="s2"><span style="s4">the</span> whistle and they got you know</p>
+<p begin="00:21:48.590" end="00:21:54.450" style="s2">punished so the internal checks of</p>
+<p begin="00:21:52.440" end="00:21:56.610" style="s2">institutions like they don&#39;t<span style="s4"> really</span> want</p>
+<p begin="00:21:54.450" end="00:21:58.380" style="s2">to be subverted internally because if</p>
+<p begin="00:21:56.610" end="00:22:01.080" style="s2">that they allowed that to happen then</p>
+<p begin="00:21:58.380" end="00:22:04.620" style="s2">they would like cease to function so</p>
+<p begin="00:22:01.080" end="00:22:07.380" style="s2">it&#39;s<span style="s4"> very</span> kind of I can see why why you</p>
+<p begin="00:22:04.620" end="00:22:09.540" style="s2"><span style="s3">know</span> you need external checks and so</p>
+<p begin="00:22:07.380" end="00:22:12.330" style="s2"><span style="s4">that&#39;s</span> where we stand stand in if they</p>
+<p begin="00:22:09.540" end="00:22:15.570" style="s2">want<span style="s4"> us</span><span style="s3"> to</span> like give this exact same</p>
+<p begin="00:22:12.330" end="00:22:17.160" style="s2">presentation why not I mean<span style="s4"> having</span> a</p>
+<p begin="00:22:15.570" end="00:22:18.750" style="s2">secure up for journalism is one thing</p>
+<p begin="00:22:17.160" end="00:22:20.340" style="s2">and it&#39;s obviously we think it&#39;s<span style="s3"> really</span></p>
+<p begin="00:22:18.750" end="00:22:22.470" style="s2">useful but it seems<span style="s4"> like</span> the same</p>
+<p begin="00:22:20.340" end="00:22:24.240" style="s2">architecture could be very useful just</p>
+<p begin="00:22:22.470" end="00:22:26.400" style="s2">internally for an organization where</p>
+<p begin="00:22:24.240" end="00:22:28.310" style="s2">maybe<span style="s4"> you</span> know because if some social</p>
+<p begin="00:22:26.400" end="00:22:30.690" style="s2">constructs it&#39;s difficult for people to</p>
+<p begin="00:22:28.310" end="00:22:33.450" style="s2">speak up about something that<span style="s4"> they</span> see</p>
+<p begin="00:22:30.690" end="00:22:37.020" style="s2">so I think for police say would be<span style="s3"> very</span></p>
+<p begin="00:22:33.450" end="00:22:38.910" style="s2">useful yeah I&#39;m free on Thursday so most</p>
+<p begin="00:22:37.020" end="00:22:41.820" style="s2">important economies have very good</p>
+<p begin="00:22:38.910" end="00:22:44.419" style="s2">program for themselves because they are</p>
+<p begin="00:22:41.820" end="00:22:46.190" style="s2">afraid that<span style="s4"> their</span> stuff</p>
+<p begin="00:22:44.419" end="00:22:49.369" style="s2"><span style="s4">journalist</span> a father<span style="s3"> Catherine</span> themselves</p>
+<p begin="00:22:46.190" end="00:22:51.109" style="s2">but do they<span style="s3"> really</span><span style="s4"> they&#39;re</span> very distinct</p>
+<p begin="00:22:49.369" end="00:22:55.759" style="s2"><span style="s3">Bharat</span> everything there are very<span style="s3"> good</span></p>
+<p begin="00:22:51.109" end="00:23:00.190" style="s2">officers<span style="s4"> of</span> that love tinkering and</p>
+<p begin="00:22:55.759" end="00:23:03.139" style="s2"><span style="s3">they&#39;re</span> us<span style="s4"> together as you are</span> at Isis</p>
+<p begin="00:23:00.190" end="00:23:07.669" style="s2"><span style="s4">Wow</span><span style="s3"> okay</span> it&#39;s an interesting discussion</p>
+<p begin="00:23:03.139" end="00:23:09.769" style="s2">anyway more questions yeah what risks</p>
+<p begin="00:23:07.669" end="00:23:11.779" style="s2">still<span style="s4"> exist</span> for<span style="s3"> the</span> whistleblowers like</p>
+<p begin="00:23:09.769" end="00:23:19.129" style="s2">for example could miss configuration on</p>
+<p begin="00:23:11.779" end="00:23:20.570" style="s2">the part of the institution so yeah so</p>
+<p begin="00:23:19.129" end="00:23:23.509" style="s2">there are two primary risks for</p>
+<p begin="00:23:20.570" end="00:23:26.960" style="s2">whistleblowers the first is you<span style="s3"> know</span></p>
+<p begin="00:23:23.509" end="00:23:28.999" style="s2">sort<span style="s4"> of</span> their them making first contact</p>
+<p begin="00:23:26.960" end="00:23:32.090" style="s2">that&#39;s always<span style="s3"> the</span> hardest contact with</p>
+<p begin="00:23:28.999" end="00:23:33.549" style="s2">any<span style="s4"> kind of journalism contacting so one</span></p>
+<p begin="00:23:32.090" end="00:23:35.720" style="s2">of the things we mentioned is<span style="s3"> like</span> don&#39;t</p>
+<p begin="00:23:33.549" end="00:23:37.129" style="s2">do this from<span style="s4"> your</span> workplace don&#39;t do</p>
+<p begin="00:23:35.720" end="00:23:39.559" style="s2">this from<span style="s4"> your</span> house go to<span style="s4"> the</span> coffee</p>
+<p begin="00:23:37.129" end="00:23:43.639" style="s2">shop on Western it sent a coffee they&#39;ve</p>
+<p begin="00:23:39.559" end="00:23:45.649" style="s2">got good wife I do it there and then the</p>
+<p begin="00:23:43.639" end="00:23:48.080" style="s2"><span style="s4">the</span> Miss configuration there are always</p>
+<p begin="00:23:45.649" end="00:23:49.159" style="s2">you know this is<span style="s4"> software</span> we all work</p>
+<p begin="00:23:48.080" end="00:23:53.389" style="s2">with software we know that there are</p>
+<p begin="00:23:49.159" end="00:23:56.149" style="s2">problems um we there have been<span style="s4"> three</span></p>
+<p begin="00:23:53.389" end="00:23:58.359" style="s2">independent security audits of secure</p>
+<p begin="00:23:56.149" end="00:24:00.679" style="s2">drop by ncc group which is a fantastic</p>
+<p begin="00:23:58.359" end="00:24:03.919" style="s2">security research group in<span style="s4"> Chicago</span> and</p>
+<p begin="00:24:00.679" end="00:24:06.559" style="s2">around the world and they have found no</p>
+<p begin="00:24:03.919" end="00:24:09.440" style="s2">major vulnerabilities there&#39;s been one</p>
+<p begin="00:24:06.559" end="00:24:12.739" style="s2">in I think<span style="s4"> pi</span> wiki but other than<span style="s3"> that</span> I</p>
+<p begin="00:24:09.440" end="00:24:14.840" style="s2">mean the the level of hardening that&#39;s</p>
+<p begin="00:24:12.739" end="00:24:18.470" style="s2">done<span style="s3"> on</span> the on the<span style="s4"> servers</span> is<span style="s4"> really</span></p>
+<p begin="00:24:14.840" end="00:24:20.330" style="s2">like<span style="s4"> world-class</span> it&#39;s hard<span style="s4"> to</span> find even</p>
+<p begin="00:24:18.470" end="00:24:25.100" style="s2">that level hardening and enterprise</p>
+<p begin="00:24:20.330" end="00:24:28.309" style="s2">level software so one well one related</p>
+<p begin="00:24:25.100" end="00:24:30.679" style="s2">issue is documents often have metadata</p>
+<p begin="00:24:28.309" end="00:24:33.889" style="s2">which we keep in there<span style="s4"> because</span> it can be</p>
+<p begin="00:24:30.679" end="00:24:35.869" style="s2"><span style="s4">useful to authenticate documents but if</span></p>
+<p begin="00:24:33.889" end="00:24:37.330" style="s2">a source is concerned about<span style="s4"> being do</span></p>
+<p begin="00:24:35.869" end="00:24:39.980" style="s2">anonymize like the reason we have this</p>
+<p begin="00:24:37.330" end="00:24:41.840" style="s2">intermediate step here is to strip out</p>
+<p begin="00:24:39.980" end="00:24:43.460" style="s2">metadata but if the source is</p>
+<p begin="00:24:41.840" end="00:24:45.080" style="s2">particularly concerned about that then</p>
+<p begin="00:24:43.460" end="00:24:47.119" style="s2">they can strip it out themselves before</p>
+<p begin="00:24:45.080" end="00:24:52.820" style="s2">they submit them and we talked<span style="s4"> about</span> how</p>
+<p begin="00:24:47.119" end="00:24:54.560" style="s2">to do that on our landing page yeah one</p>
+<p begin="00:24:52.820" end="00:25:20.030" style="s2">more<span style="s3"> click</span></p>
+<p begin="00:24:54.560" end="00:25:20.030" style="s2">yeah some work here drop stuff</p>
+<p begin="00:25:27.899" end="00:25:34.779" style="s2">I mean people<span style="s4"> can do that with existing</span></p>
+<p begin="00:25:32.019" end="00:25:36.429" style="s2">tools is one thing like if someone has</p>
+<p begin="00:25:34.779" end="00:25:40.869" style="s2">privileged access they can do it with</p>
+<p begin="00:25:36.429" end="00:25:43.960" style="s2">existing tools yeah and there&#39;s<span style="s4"> like</span> a</p>
+<p begin="00:25:40.869" end="00:25:45.989" style="s2">process of vetting so we don&#39;t like when</p>
+<p begin="00:25:43.960" end="00:25:48.009" style="s2">things are<span style="s4"> dropped</span> like this is one</p>
+<p begin="00:25:45.989" end="00:25:49.480" style="s2">thought that<span style="s3"> people</span> have had about this</p>
+<p begin="00:25:48.009" end="00:25:51.009" style="s2">or misconception that people have had</p>
+<p begin="00:25:49.480" end="00:25:52.840" style="s2">that oh one thing has gone server then</p>
+<p begin="00:25:51.009" end="00:25:54.519" style="s2">you can just like you know<span style="s4"> anyone</span> can go</p>
+<p begin="00:25:52.840" end="00:25:57.279" style="s2">and<span style="s3"> look</span> up like what&#39;s been dropped and</p>
+<p begin="00:25:54.519" end="00:26:01.499" style="s2">clearly that&#39;s not the case so<span style="s3"> we</span><span style="s4"> can</span> go</p>
+<p begin="00:25:57.279" end="00:26:11.249" style="s2"><span style="s3">through and say okay</span> this is<span style="s4"> legitimate</span></p>
+<p begin="00:26:01.499" end="00:26:11.249" style="s2"><span style="s4">okay</span> sure someone could<span style="s3"> set up yeah</span></p>
+<p begin="00:26:11.460" end="00:26:15.009" style="s2">there are filters the filters are the</p>
+<p begin="00:26:13.809" end="00:26:16.749" style="s2">people that<span style="s4"> have</span><span style="s3"> been</span> stirred up the</p>
+<p begin="00:26:15.009" end="00:26:19.389" style="s2">programs are journalists to go in check</p>
+<p begin="00:26:16.749" end="00:26:21.940" style="s2">and all that there&#39;s<span style="s4"> nothing to stop</span></p>
+<p begin="00:26:19.389" end="00:26:23.499" style="s2">some rogue actor from just downloading</p>
+<p begin="00:26:21.940" end="00:26:26.369" style="s2">the source code setting one up<span style="s4"> and</span></p>
+<p begin="00:26:23.499" end="00:26:29.169" style="s2">saying like give me all of your hacks of</p>
+<p begin="00:26:26.369" end="00:26:30.879" style="s2">Sony group or whatever<span style="s4"> you</span> know that</p>
+<p begin="00:26:29.169" end="00:26:33.609" style="s2">that&#39;s always a possibility<span style="s3"> but</span> like</p>
+<p begin="00:26:30.879" end="00:26:36.070" style="s2">that&#39;s the case of setting up a you know</p>
+<p begin="00:26:33.609" end="00:26:37.869" style="s2">paste bin open source or whatever you</p>
+<p begin="00:26:36.070" end="00:26:40.350" style="s2"><span style="s3">know</span> that&#39;s that&#39;s not<span style="s3"> a</span> thing<span style="s4"> that we</span></p>
+<p begin="00:26:37.869" end="00:26:40.350" style="s2">can prevent</p>
+<p begin="00:26:46.559" end="00:26:48.620" style="s2">you</p>
+</div>
+</body>
+</tt>

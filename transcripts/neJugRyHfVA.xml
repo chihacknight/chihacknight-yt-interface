@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:09.830" end="00:00:14.130" style="s2"><span style="s3">alright</span> good evening everybody thank<span style="s3"> you</span></p>
+<p begin="00:00:12.269" end="00:00:16.470" style="s2"><span style="s4">so</span> much for having us I&#39;m Amy this is</p>
+<p begin="00:00:14.130" end="00:00:17.609" style="s2">Patricio<span style="s3"> and</span> we&#39;re with heartland</p>
+<p begin="00:00:16.470" end="00:00:20.670" style="s2">alliance for human needs and human</p>
+<p begin="00:00:17.609" end="00:00:22.980" style="s2">rights and we are here to tell you a</p>
+<p begin="00:00:20.670" end="00:00:24.510" style="s2">little<span style="s4"> bit</span> about I go I<span style="s3"> guess</span> in the</p>
+<p begin="00:00:22.980" end="00:00:27.630" style="s2">spirit of shy hack night we&#39;re here to</p>
+<p begin="00:00:24.510" end="00:00:30.390" style="s2">help you understand your city better and</p>
+<p begin="00:00:27.630" end="00:00:33.989" style="s2">one part of your city is this one<span style="s3"> of</span> the</p>
+<p begin="00:00:30.390" end="00:00:36.780" style="s2">kind of largest and oldest social</p>
+<p begin="00:00:33.989" end="00:00:38.430" style="s2">service organizations in the city and</p>
+<p begin="00:00:36.780" end="00:00:40.920" style="s2">that&#39;s us heartland alliance for human</p>
+<p begin="00:00:38.430" end="00:00:43.800" style="s2">needs and human rights how many<span style="s3"> people</span></p>
+<p begin="00:00:40.920" end="00:00:46.260" style="s2"><span style="s4">by</span> a quick show of hands before tonight</p>
+<p begin="00:00:43.800" end="00:00:51.750" style="s2">were new of Heartland had heard<span style="s3"> of</span> us</p>
+<p begin="00:00:46.260" end="00:00:55.070" style="s2">nice how many of those folks could tell</p>
+<p begin="00:00:51.750" end="00:00:58.829" style="s2">the person next<span style="s3"> to</span> them what we do</p>
+<p begin="00:00:55.070" end="00:01:00.989" style="s2">there&#39;s the problem right that is the</p>
+<p begin="00:00:58.829" end="00:01:03.059" style="s2">problem<span style="s3"> and</span> so Patricia when I want to</p>
+<p begin="00:01:00.989" end="00:01:05.460" style="s2">tell you about an effort<span style="s4"> that</span> we have</p>
+<p begin="00:01:03.059" end="00:01:07.380" style="s2">going at<span style="s3"> Heartland</span> that whether</p>
+<p begin="00:01:05.460" end="00:01:10.229" style="s2">willingly or not were the two<span style="s4"> of</span> us are</p>
+<p begin="00:01:07.380" end="00:01:13.290" style="s2">somewhat involved in in spearheading a</p>
+<p begin="00:01:10.229" end="00:01:16.200" style="s2">little bit at this point to help change</p>
+<p begin="00:01:13.290" end="00:01:19.170" style="s2">that problem the hand raising problem</p>
+<p begin="00:01:16.200" end="00:01:23.659" style="s2">that we<span style="s3"> just</span> saw and part of it is about</p>
+<p begin="00:01:19.170" end="00:01:26.670" style="s2">helping us really truly<span style="s3"> become</span> transform</p>
+<p begin="00:01:23.659" end="00:01:29.310" style="s2">into an organization that is</p>
+<p begin="00:01:26.670" end="00:01:33.290" style="s2">characterized by being highly innovative</p>
+<p begin="00:01:29.310" end="00:01:35.939" style="s2">and highly effective and becoming a</p>
+<p begin="00:01:33.290" end="00:01:38.220" style="s2">laboratory of learning<span style="s4"> about</span> the most</p>
+<p begin="00:01:35.939" end="00:01:41.490" style="s2">effective anti-poverty interventions out</p>
+<p begin="00:01:38.220" end="00:01:43.170" style="s2">there if we<span style="s4"> do that we&#39;re going to have</span></p>
+<p begin="00:01:41.490" end="00:01:44.130" style="s2">this host of other things happening but</p>
+<p begin="00:01:43.170" end="00:01:45.509" style="s2">one of the other things that&#39;s going to</p>
+<p begin="00:01:44.130" end="00:01:47.520" style="s2">happen is that<span style="s4"> at</span> a room full of people</p>
+<p begin="00:01:45.509" end="00:01:48.689" style="s2">like this hopefully every single person</p>
+<p begin="00:01:47.520" end="00:01:50.340" style="s2">would raise their hand<span style="s3"> and</span> be able<span style="s3"> to</span></p>
+<p begin="00:01:48.689" end="00:01:51.390" style="s2">say we know what heartland is doing</p>
+<p begin="00:01:50.340" end="00:01:53.880" style="s2">they&#39;re doing all of these amazing</p>
+<p begin="00:01:51.390" end="00:01:56.159" style="s2"><span style="s4">things</span> to end poverty and you&#39;d be able</p>
+<p begin="00:01:53.880" end="00:01:56.969" style="s2">to tell<span style="s3"> your</span> neighbor about<span style="s3"> that</span> so</p>
+<p begin="00:01:56.159" end="00:02:00.180" style="s2">we&#39;re<span style="s3"> going</span> to tell you a little<span style="s3"> bit</span></p>
+<p begin="00:01:56.969" end="00:02:03.600" style="s2">about that effort and to start<span style="s3"> I</span> think</p>
+<p begin="00:02:00.180" end="00:02:04.590" style="s2"><span style="s4">it&#39;s</span> a little<span style="s3"> helpful</span> actually to start</p>
+<p begin="00:02:03.600" end="00:02:06.290" style="s2">with a little<span style="s3"> bit</span> of a history lesson</p>
+<p begin="00:02:04.590" end="00:02:10.770" style="s2">like a Heartland history lesson a</p>
+<p begin="00:02:06.290" end="00:02:13.110" style="s2">chicago history lesson and really</p>
+<p begin="00:02:10.770" end="00:02:13.620" style="s2">because<span style="s4"> heartland</span> was established back</p>
+<p begin="00:02:13.110" end="00:02:17.340" style="s2">in the</p>
+<p begin="00:02:13.620" end="00:02:20.310" style="s2">late 1800s so in 1888 and we were</p>
+<p begin="00:02:17.340" end="00:02:21.900" style="s2">established as<span style="s4"> the</span> nation&#39;s second</p>
+<p begin="00:02:20.310" end="00:02:24.870" style="s2">travelers and immigrants aid</p>
+<p begin="00:02:21.900" end="00:02:27.360" style="s2">organization so you see people nodding</p>
+<p begin="00:02:24.870" end="00:02:30.299" style="s2">kind of recognized that name and really</p>
+<p begin="00:02:27.360" end="00:02:31.920" style="s2">we were founded out of the settlement</p>
+<p begin="00:02:30.299" end="00:02:33.180" style="s2">house movement so if you remember back</p>
+<p begin="00:02:31.920" end="00:02:34.799" style="s2">you<span style="s3"> might</span> have gone in a field trip<span style="s4"> to</span></p>
+<p begin="00:02:33.180" end="00:02:37.560" style="s2">the hull house if you grew up here over</p>
+<p begin="00:02:34.799" end="00:02:39.510" style="s2">on Halsted you know Jane Addams founded</p>
+<p begin="00:02:37.560" end="00:02:40.860" style="s2">the<span style="s3"> hull</span> house and was the leader of the</p>
+<p begin="00:02:39.510" end="00:02:43.379" style="s2">settlement house movement she was one of</p>
+<p begin="00:02:40.860" end="00:02:46.470" style="s2"><span style="s4">our</span> founders at heartland alliance as</p>
+<p begin="00:02:43.379" end="00:02:48.359" style="s2">well now we&#39;ve grown a lot over the 20th</p>
+<p begin="00:02:46.470" end="00:02:50.970" style="s2">century that&#39;s for sure we&#39;ve changed a</p>
+<p begin="00:02:48.359" end="00:02:52.890" style="s2">lot interesting fact<span style="s3"> that</span> we<span style="s3"> still</span> run</p>
+<p begin="00:02:50.970" end="00:02:54.810" style="s2">our travelers aid program if you&#39;ve been</p>
+<p begin="00:02:52.890" end="00:02:57.209" style="s2">at O&#39;Hare Airport and you see those</p>
+<p begin="00:02:54.810" end="00:02:59.099" style="s2">information kiosks that&#39;s heartland&#39;s</p>
+<p begin="00:02:57.209" end="00:03:00.629" style="s2"><span style="s3">travelers</span> aid program so that&#39;s our</p>
+<p begin="00:02:59.099" end="00:03:03.269" style="s2">legacy program so if you need assistance</p>
+<p begin="00:03:00.629" end="00:03:05.489" style="s2">at the airport we are there still</p>
+<p begin="00:03:03.269" end="00:03:06.510" style="s2">shepherding travelers and immigrants and</p>
+<p begin="00:03:05.489" end="00:03:08.599" style="s2">refugees and people who come through</p>
+<p begin="00:03:06.510" end="00:03:12.920" style="s2">O&#39;Hare Airport and helping them<span style="s3"> navigate</span></p>
+<p begin="00:03:08.599" end="00:03:12.920" style="s2">transportation and more<span style="s3"> broadly</span> the city</p>
+<p begin="00:03:13.099" end="00:03:18.569" style="s2">so I you know<span style="s3"> I was in Barcelona</span> last</p>
+<p begin="00:03:16.680" end="00:03:21.359" style="s2">year<span style="s4"> patricio</span><span style="s3"> is</span> going there next month</p>
+<p begin="00:03:18.569" end="00:03:23.880" style="s2">so I started to<span style="s4"> think</span> that<span style="s3"> in</span> many</p>
+<p begin="00:03:21.359" end="00:03:26.849" style="s2">respects<span style="s3"> heartland</span> is a little bit like</p>
+<p begin="00:03:23.880" end="00:03:29.900" style="s2">Audi sagrada familia we have been<span style="s3"> under</span></p>
+<p begin="00:03:26.849" end="00:03:33.660" style="s2">construction for 100 years for a century</p>
+<p begin="00:03:29.900" end="00:03:36.810" style="s2"><span style="s3">we</span> are we still have cranes up we are</p>
+<p begin="00:03:33.660" end="00:03:40.200" style="s2">constantly adding we are<span style="s4"> constantly</span></p>
+<p begin="00:03:36.810" end="00:03:44.010" style="s2">refining we are adding detail we&#39;re</p>
+<p begin="00:03:40.200" end="00:03:47.209" style="s2">shaping and so we become this kind of</p>
+<p begin="00:03:44.010" end="00:03:50.849" style="s2">constant<span style="s3"> under construction entity and</span></p>
+<p begin="00:03:47.209" end="00:03:53.040" style="s2">this is not entirely not not at all</p>
+<p begin="00:03:50.849" end="00:03:54.480" style="s2">unique to Heartland a lot of<span style="s3"> people</span> in</p>
+<p begin="00:03:53.040" end="00:03:55.799" style="s2"><span style="s3">this</span> a lot of organizations in the</p>
+<p begin="00:03:54.480" end="00:03:59.280" style="s2">social service structure are kind of</p>
+<p begin="00:03:55.799" end="00:04:01.290" style="s2">this exact same way and some<span style="s3"> really</span><span style="s4"> good</span></p>
+<p begin="00:03:59.280" end="00:04:03.359" style="s2">examples of how we&#39;ve been of how we&#39;ve</p>
+<p begin="00:04:01.290" end="00:04:05.910" style="s2">done this over the<span style="s4"> years</span> you know we</p>
+<p begin="00:04:03.359" end="00:04:07.769" style="s2">were kind of the first<span style="s3"> organization</span> in</p>
+<p begin="00:04:05.910" end="00:04:09.959" style="s2">Chicago to respond to<span style="s3"> the</span> homeless</p>
+<p begin="00:04:07.769" end="00:04:12.569" style="s2">crisis in the 80s when that became kind</p>
+<p begin="00:04:09.959" end="00:04:14.400" style="s2">of a prevailing and very recognizable</p>
+<p begin="00:04:12.569" end="00:04:15.629" style="s2">social problem we founded this<span style="s3"> help fund</span></p>
+<p begin="00:04:14.400" end="00:04:18.660" style="s2">the Chicago Coalition for the homeless</p>
+<p begin="00:04:15.629" end="00:04:21.120" style="s2">which you might be familiar with we were</p>
+<p begin="00:04:18.660" end="00:04:23.039" style="s2">the first place<span style="s3"> in</span> the<span style="s3"> city</span> to open up a</p>
+<p begin="00:04:21.120" end="00:04:24.659" style="s2">homeless<span style="s3"> youth</span> shelter when we realized</p>
+<p begin="00:04:23.039" end="00:04:25.830" style="s2">that the face of homelessness was</p>
+<p begin="00:04:24.659" end="00:04:27.900" style="s2">changing</p>
+<p begin="00:04:25.830" end="00:04:29.250" style="s2">and that it wasn&#39;t the single man on the</p>
+<p begin="00:04:27.900" end="00:04:34.439" style="s2">street that everybody might have thought</p>
+<p begin="00:04:29.250" end="00:04:37.139" style="s2">it was we led the effort<span style="s4"> to</span> relocate</p>
+<p begin="00:04:34.439" end="00:04:41.189" style="s2"><span style="s3">seven thousand Hurricane Katrina</span></p>
+<p begin="00:04:37.139" end="00:04:42.389" style="s2">evacuees to Chicago we put 27,000 people</p>
+<p begin="00:04:41.189" end="00:04:44.280" style="s2">back to work through the country&#39;s</p>
+<p begin="00:04:42.389" end="00:04:47.099" style="s2">largest<span style="s4"> jobs</span> program during the</p>
+<p begin="00:04:44.280" end="00:04:50.030" style="s2">recession we were the first<span style="s3"> responders</span></p>
+<p begin="00:04:47.099" end="00:04:53.250" style="s2">in the city to the<span style="s3"> AIDS</span> HIV AIDS crisis</p>
+<p begin="00:04:50.030" end="00:04:56.099" style="s2">so as social problems have evolved in</p>
+<p begin="00:04:53.250" end="00:04:59.210" style="s2"><span style="s3">emerge</span> so too has<span style="s4"> heartland</span> so too has</p>
+<p begin="00:04:56.099" end="00:05:04.680" style="s2">the rest of our kind of social service</p>
+<p begin="00:04:59.210" end="00:05:07.710" style="s2">industry but if I&#39;m really honest I</p>
+<p begin="00:05:04.680" end="00:05:11.219" style="s2">think<span style="s4"> it&#39;s</span> a little bit grandiose to</p>
+<p begin="00:05:07.710" end="00:05:13.520" style="s2">compare<span style="s4"> Heartland</span> to a beautiful</p>
+<p begin="00:05:11.219" end="00:05:16.789" style="s2"><span style="s4">well-planned</span> and thought out<span style="s3"> cathedral</span></p>
+<p begin="00:05:13.520" end="00:05:19.500" style="s2">does<span style="s3"> anybody</span> recognize this picture yeah</p>
+<p begin="00:05:16.789" end="00:05:20.819" style="s2">City Museum in st. Louis if you have not</p>
+<p begin="00:05:19.500" end="00:05:23.789" style="s2"><span style="s3">been there you absolutely have to go</span></p>
+<p begin="00:05:20.819" end="00:05:26.060" style="s2">there it is amazing but really what it</p>
+<p begin="00:05:23.789" end="00:05:28.529" style="s2"><span style="s4">is</span> oh<span style="s3"> sorry</span> I got really<span style="s3"> grainy</span> blown up</p>
+<p begin="00:05:26.060" end="00:05:29.580" style="s2">it doesn&#39;t<span style="s4"> matter</span> because<span style="s3"> it&#39;s the kind</span></p>
+<p begin="00:05:28.529" end="00:05:32.810" style="s2">of looks like that even when<span style="s3"> it&#39;s</span></p>
+<p begin="00:05:29.580" end="00:05:38.219" style="s2">crystal clear it is<span style="s4"> just</span> this amazing</p>
+<p begin="00:05:32.810" end="00:05:40.020" style="s2">maze of reused and recycled objects and</p>
+<p begin="00:05:38.219" end="00:05:44.270" style="s2">things kind<span style="s3"> of</span> put together<span style="s3"> in</span> these</p>
+<p begin="00:05:40.020" end="00:05:48.199" style="s2">amazingly unique ways fit together</p>
+<p begin="00:05:44.270" end="00:05:52.680" style="s2">crazily to make this<span style="s3"> really</span> interesting</p>
+<p begin="00:05:48.199" end="00:05:54.750" style="s2">maze and jungle gym for adults really</p>
+<p begin="00:05:52.680" end="00:05:58.080" style="s2">and you<span style="s3"> can</span> kind of climb through there</p>
+<p begin="00:05:54.750" end="00:06:00.029" style="s2">but<span style="s3"> it&#39;s</span> all just individual pieces that</p>
+<p begin="00:05:58.080" end="00:06:03.089" style="s2">are pushed together to make this whole</p>
+<p begin="00:06:00.029" end="00:06:04.940" style="s2">that actually works<span style="s4"> and</span> that&#39;s<span style="s4"> really</span></p>
+<p begin="00:06:03.089" end="00:06:11.870" style="s2">interesting but that doesn&#39;t<span style="s4"> necessarily</span></p>
+<p begin="00:06:04.940" end="00:06:15.150" style="s2">have kind of one cohesive identifying</p>
+<p begin="00:06:11.870" end="00:06:17.219" style="s2">visual or you know<span style="s3"> doesn&#39;t</span> look like</p>
+<p begin="00:06:15.150" end="00:06:20.430" style="s2">anyone think it&#39;s a hodgepodge really</p>
+<p begin="00:06:17.219" end="00:06:25.020" style="s2">and that again<span style="s4"> is</span> really indicative of</p>
+<p begin="00:06:20.430" end="00:06:29.129" style="s2">kind of art industry we are an industry</p>
+<p begin="00:06:25.020" end="00:06:34.289" style="s2">that to some degree is at the women</p>
+<p begin="00:06:29.129" end="00:06:37.919" style="s2">fancy of funders so there&#39;s<span style="s3"> no</span> way for</p>
+<p begin="00:06:34.289" end="00:06:39.480" style="s2">us<span style="s3"> to</span> just basically get a large sum of</p>
+<p begin="00:06:37.919" end="00:06:42.750" style="s2">money<span style="s3"> to</span> do whatever we will</p>
+<p begin="00:06:39.480" end="00:06:45.440" style="s2">like with we get money to do something</p>
+<p begin="00:06:42.750" end="00:06:48.240" style="s2">very<span style="s4"> specific</span> with a very specific</p>
+<p begin="00:06:45.440" end="00:06:50.400" style="s2">population so that&#39;s why<span style="s4"> we</span> end up</p>
+<p begin="00:06:48.240" end="00:06:53.610" style="s2">looking like this week<span style="s3"> Abba</span> lit all</p>
+<p begin="00:06:50.400" end="00:06:56.190" style="s2">together and to add<span style="s3"> on to that</span></p>
+<p begin="00:06:53.610" end="00:06:57.840" style="s2">complexity think about think about data</p>
+<p begin="00:06:56.190" end="00:06:58.980" style="s2">in that context think<span style="s3"> about</span> the</p>
+<p begin="00:06:57.840" end="00:07:01.920" style="s2">information<span style="s3"> and data that we&#39;re</span></p>
+<p begin="00:06:58.980" end="00:07:05.310" style="s2">collecting in that context for years and</p>
+<p begin="00:07:01.920" end="00:07:07.860" style="s2">years<span style="s3"> and</span> years decades our industry and</p>
+<p begin="00:07:05.310" end="00:07:10.800" style="s2">at<span style="s4"> Heartland</span> we were thought of as</p>
+<p begin="00:07:07.860" end="00:07:12.300" style="s2">charity in many respects people still</p>
+<p begin="00:07:10.800" end="00:07:15.960" style="s2">think of<span style="s3"> the</span> work of our sector is</p>
+<p begin="00:07:12.300" end="00:07:19.260" style="s2">charity and so when<span style="s3"> you&#39;re</span> a charity and</p>
+<p begin="00:07:15.960" end="00:07:22.140" style="s2">you have this what do you do data wise</p>
+<p begin="00:07:19.260" end="00:07:24.870" style="s2">you kind of just count things how many</p>
+<p begin="00:07:22.140" end="00:07:28.740" style="s2">slides do we have you know how many</p>
+<p begin="00:07:24.870" end="00:07:30.810" style="s2">airplanes do we have in you know in real</p>
+<p begin="00:07:28.740" end="00:07:33.900" style="s2">terms how many people do we serve what</p>
+<p begin="00:07:30.810" end="00:07:37.610" style="s2">services do we provide it&#39;s<span style="s3"> really</span> if</p>
+<p begin="00:07:33.900" end="00:07:40.320" style="s2">you are only giving money as a funder</p>
+<p begin="00:07:37.610" end="00:07:42.270" style="s2">and you&#39;re only providing services to be</p>
+<p begin="00:07:40.320" end="00:07:44.340" style="s2">charitable<span style="s3"> what</span> more do you really care</p>
+<p begin="00:07:42.270" end="00:07:46.530" style="s2">about but there&#39;s a fundamental shift</p>
+<p begin="00:07:44.340" end="00:07:50.100" style="s2">going on at<span style="s3"> Heartland and in our field</span></p>
+<p begin="00:07:46.530" end="00:07:53.820" style="s2">that is a recognition that we&#39;re not</p>
+<p begin="00:07:50.100" end="00:07:56.580" style="s2"><span style="s3">doing</span> charity we&#39;re doing human<span style="s3"> rights</span></p>
+<p begin="00:07:53.820" end="00:07:57.960" style="s2">work we&#39;re doing social justice work and</p>
+<p begin="00:07:56.580" end="00:08:01.650" style="s2">we&#39;re working<span style="s4"> for</span> racial and social</p>
+<p begin="00:07:57.960" end="00:08:04.950" style="s2">equity and if that&#39;s<span style="s3"> the</span><span style="s4"> case</span> then<span style="s3"> we</span></p>
+<p begin="00:08:01.650" end="00:08:06.360" style="s2">have a moral obligation to make<span style="s4"> sure</span></p>
+<p begin="00:08:04.950" end="00:08:10.350" style="s2">that we&#39;re doing<span style="s3"> the</span> most effective work</p>
+<p begin="00:08:06.360" end="00:08:12.270" style="s2">possible and that means we&#39;re going<span style="s3"> to</span></p>
+<p begin="00:08:10.350" end="00:08:14.430" style="s2"><span style="s4">have to collect some better data we</span></p>
+<p begin="00:08:12.270" end="00:08:18.150" style="s2">cannot just<span style="s3"> be</span> counting widgets we have</p>
+<p begin="00:08:14.430" end="00:08:20.580" style="s2">to be assessing our outcomes in our</p>
+<p begin="00:08:18.150" end="00:08:23.970" style="s2">impact in a much more<span style="s3"> meaningful</span> way and</p>
+<p begin="00:08:20.580" end="00:08:27.330" style="s2">then<span style="s3"> taking</span> that information reflecting</p>
+<p begin="00:08:23.970" end="00:08:29.880" style="s2">on it teasing apart what it&#39;s telling us</p>
+<p begin="00:08:27.330" end="00:08:32.729" style="s2">and then changing the work we&#39;re doing</p>
+<p begin="00:08:29.880" end="00:08:34.140" style="s2">based on it so we need to<span style="s3"> be</span> we<span style="s4"> need</span><span style="s3"> to</span></p>
+<p begin="00:08:32.729" end="00:08:38.370" style="s2">stop doing the things that<span style="s4"> just</span> aren&#39;t</p>
+<p begin="00:08:34.140" end="00:08:40.229" style="s2">effective I&#39;m sure that any of the</p>
+<p begin="00:08:38.370" end="00:08:41.190" style="s2"><span style="s4">nonprofits</span> in this room us included are</p>
+<p begin="00:08:40.229" end="00:08:43.320" style="s2">doing things<span style="s3"> that</span> really aren&#39;t that</p>
+<p begin="00:08:41.190" end="00:08:44.880" style="s2">effective we need to stop doing them but</p>
+<p begin="00:08:43.320" end="00:08:47.760" style="s2">we need to first figure out what they</p>
+<p begin="00:08:44.880" end="00:08:50.880" style="s2"><span style="s4">are</span> and then we need<span style="s4"> to</span><span style="s3"> do</span> more of what</p>
+<p begin="00:08:47.760" end="00:08:52.430" style="s2">works so we need to be testing great new</p>
+<p begin="00:08:50.880" end="00:08:55.070" style="s2">innovative ideas</p>
+<p begin="00:08:52.430" end="00:08:56.960" style="s2">to ending an addressing poverty but we</p>
+<p begin="00:08:55.070" end="00:09:00.560" style="s2">need to have an infrastructure in place</p>
+<p begin="00:08:56.960" end="00:09:02.990" style="s2"><span style="s3">to</span> do it and that<span style="s4"> gets</span> hard because we</p>
+<p begin="00:09:00.560" end="00:09:06.500" style="s2">have at heartland we are five different</p>
+<p begin="00:09:02.990" end="00:09:07.970" style="s2">legal entities and these are our legal</p>
+<p begin="00:09:06.500" end="00:09:09.920" style="s2">entities heartland alliance is the</p>
+<p begin="00:09:07.970" end="00:09:12.020" style="s2">parent company and our research</p>
+<p begin="00:09:09.920" end="00:09:14.800" style="s2"><span style="s3">department</span> and Patricios IT<span style="s4"> departments</span></p>
+<p begin="00:09:12.020" end="00:09:17.830" style="s2">sit in that parent company the Alliance</p>
+<p begin="00:09:14.800" end="00:09:20.390" style="s2">and other shared services are there like</p>
+<p begin="00:09:17.830" end="00:09:22.010" style="s2">accounting and<span style="s3"> Human</span><span style="s4"> Resources</span> marketing</p>
+<p begin="00:09:20.390" end="00:09:24.410" style="s2">and that sort of thing and then each of</p>
+<p begin="00:09:22.010" end="00:09:27.470" style="s2"><span style="s3">these</span> individual companies is its own</p>
+<p begin="00:09:24.410" end="00:09:30.050" style="s2"><span style="s4">501 C 3</span> so they each have<span style="s4"> their</span> own</p>
+<p begin="00:09:27.470" end="00:09:32.930" style="s2">board of directors they have their own</p>
+<p begin="00:09:30.050" end="00:09:34.339" style="s2">you<span style="s4"> know</span> budgeting process and all the</p>
+<p begin="00:09:32.930" end="00:09:37.190" style="s2"><span style="s4">things</span><span style="s3"> that</span> comes with being your own</p>
+<p begin="00:09:34.339" end="00:09:38.600" style="s2">501 C 3 and you can see by the names</p>
+<p begin="00:09:37.190" end="00:09:41.660" style="s2">listed up here in the different logos</p>
+<p begin="00:09:38.600" end="00:09:43.339" style="s2">that we do really diverse work really</p>
+<p begin="00:09:41.660" end="00:09:45.440" style="s2">really diverse work we have a whole</p>
+<p begin="00:09:43.339" end="00:09:50.029" style="s2">international arm of the organization</p>
+<p begin="00:09:45.440" end="00:09:53.270" style="s2">that<span style="s3"> works</span> on gender and sexual equity</p>
+<p begin="00:09:50.029" end="00:09:56.240" style="s2">issues workers rights issues in Central</p>
+<p begin="00:09:53.270" end="00:09:58.880" style="s2">America Africa the Middle East we<span style="s3"> have</span></p>
+<p begin="00:09:56.240" end="00:10:00.200" style="s2">our Heartland health outreach which is</p>
+<p begin="00:09:58.880" end="00:10:02.779" style="s2">providing all sorts of<span style="s4"> different</span></p>
+<p begin="00:10:00.200" end="00:10:05.779" style="s2">healthcare primarily to people who are</p>
+<p begin="00:10:02.779" end="00:10:06.860" style="s2">experiencing homelessness we have our</p>
+<p begin="00:10:05.779" end="00:10:08.150" style="s2">Housing division which you have a</p>
+<p begin="00:10:06.860" end="00:10:10.730" style="s2">colleague<span style="s3"> in</span><span style="s4"> the</span> back who can tell you</p>
+<p begin="00:10:08.150" end="00:10:12.380" style="s2">all about it<span style="s3"> but</span> in short they provide</p>
+<p begin="00:10:10.730" end="00:10:14.120" style="s2">they build<span style="s3"> and</span> maintain affordable</p>
+<p begin="00:10:12.380" end="00:10:15.860" style="s2">housing<span style="s3"> in</span> the city yeah well in the</p>
+<p begin="00:10:14.120" end="00:10:17.810" style="s2">Midwest really and then Heartland human</p>
+<p begin="00:10:15.860" end="00:10:20.000" style="s2">care services does almost<span style="s3"> anything</span> else</p>
+<p begin="00:10:17.810" end="00:10:23.000" style="s2">you can think of so this is stuff all</p>
+<p begin="00:10:20.000" end="00:10:26.860" style="s2"><span style="s3">the</span> way<span style="s3"> from</span> alternatives to juvenile</p>
+<p begin="00:10:23.000" end="00:10:29.120" style="s2">detention asset building jobs programs</p>
+<p begin="00:10:26.860" end="00:10:31.430" style="s2">HIV prevention all sorts of<span style="s4"> different</span></p>
+<p begin="00:10:29.120" end="00:10:32.690" style="s2">things in that<span style="s3"> bucket</span> so the work that</p>
+<p begin="00:10:31.430" end="00:10:35.450" style="s2">we do layered on top of our</p>
+<p begin="00:10:32.690" end="00:10:38.930" style="s2">organizational complexity<span style="s3"> it&#39;s</span> kind<span style="s3"> of</span></p>
+<p begin="00:10:35.450" end="00:10:42.020" style="s2">mind-boggling bogging Lee crazy to wrap</p>
+<p begin="00:10:38.930" end="00:10:43.940" style="s2">your head<span style="s4"> around</span> do I want<span style="s4"> to</span> say</p>
+<p begin="00:10:42.020" end="00:10:45.500" style="s2">anything more<span style="s4"> about</span> that I could go out</p>
+<p begin="00:10:43.940" end="00:10:48.770" style="s2">and Adam<span style="s4"> your</span> go on the mind-boggling</p>
+<p begin="00:10:45.500" end="00:10:51.380" style="s2">aspects of that<span style="s3"> experience</span> so what are</p>
+<p begin="00:10:48.770" end="00:10:53.690" style="s2"><span style="s3">we actually trying to</span> do here our North</p>
+<p begin="00:10:51.380" end="00:10:56.170" style="s2">Star is to transform heartland alliance</p>
+<p begin="00:10:53.690" end="00:10:57.860" style="s2">to a point where we have<span style="s3"> the</span> ability<span style="s4"> and</span></p>
+<p begin="00:10:56.170" end="00:11:00.079" style="s2"><span style="s3">organizational</span> capacity for</p>
+<p begin="00:10:57.860" end="00:11:02.450" style="s2">evidence-based programming so knowing</p>
+<p begin="00:11:00.079" end="00:11:04.339" style="s2">what works data informed<span style="s3"> decision</span></p>
+<p begin="00:11:02.450" end="00:11:05.490" style="s2">understanding what we need to stop doing</p>
+<p begin="00:11:04.339" end="00:11:07.800" style="s2">and what we need<span style="s4"> to</span><span style="s3"> do</span></p>
+<p begin="00:11:05.490" end="00:11:10.620" style="s2"><span style="s4">or</span> of and an opportunity<span style="s4"> to</span> tell<span style="s3"> that</span></p>
+<p begin="00:11:07.800" end="00:11:12.420" style="s2"><span style="s4">story</span> to everybody right is there a</p>
+<p begin="00:11:10.620" end="00:11:14.339" style="s2">special sauce underneath our alliance</p>
+<p begin="00:11:12.420" end="00:11:17.190" style="s2">that we can identify what mix of</p>
+<p begin="00:11:14.339" end="00:11:19.080" style="s2">services actually<span style="s3"> are</span> the best mix of</p>
+<p begin="00:11:17.190" end="00:11:22.050" style="s2">services to bring people<span style="s3"> out</span> of poverty</p>
+<p begin="00:11:19.080" end="00:11:24.000" style="s2">and we think<span style="s4"> that</span> measuring outputs is</p>
+<p begin="00:11:22.050" end="00:11:26.640" style="s2">not the way to do that measuring</p>
+<p begin="00:11:24.000" end="00:11:28.260" style="s2">outcomes is and stacking those outcomes</p>
+<p begin="00:11:26.640" end="00:11:31.230" style="s2">together to understand how we&#39;re</p>
+<p begin="00:11:28.260" end="00:11:32.760" style="s2">impacting communities right so if this</p>
+<p begin="00:11:31.230" end="00:11:36.779" style="s2">is our North Star we need to figure out</p>
+<p begin="00:11:32.760" end="00:11:40.320" style="s2"><span style="s3">how</span> to get there right so what we think</p>
+<p begin="00:11:36.779" end="00:11:43.620" style="s2">is a key to this is data systems as<span style="s3"> Amy</span></p>
+<p begin="00:11:40.320" end="00:11:46.380" style="s2">mentioned with that hodgepodge those</p>
+<p begin="00:11:43.620" end="00:11:48.420" style="s2">five entities those funders data is</p>
+<p begin="00:11:46.380" end="00:11:51.270" style="s2">distributed across hundreds of data</p>
+<p begin="00:11:48.420" end="00:11:54.000" style="s2">systems and in formats and in a posture</p>
+<p begin="00:11:51.270" end="00:11:56.670" style="s2">that&#39;s primarily focused on collecting</p>
+<p begin="00:11:54.000" end="00:11:59.610" style="s2">outputs right so what we&#39;re looking<span style="s4"> to</span></p>
+<p begin="00:11:56.670" end="00:12:01.040" style="s2">do is develop or develop a combination</p>
+<p begin="00:11:59.610" end="00:12:02.640" style="s2">of people process and technology</p>
+<p begin="00:12:01.040" end="00:12:05.730" style="s2">everybody&#39;s three favorite word&#39;s</p>
+<p begin="00:12:02.640" end="00:12:07.380" style="s2">probably in this room to support the</p>
+<p begin="00:12:05.730" end="00:12:10.200" style="s2">organizational data capabilities and</p>
+<p begin="00:12:07.380" end="00:12:12.899" style="s2">usage so when you look at this this<span style="s3"> is</span></p>
+<p begin="00:12:10.200" end="00:12:14.610" style="s2"><span style="s3">the</span> ideal state right we have a data</p>
+<p begin="00:12:12.899" end="00:12:15.870" style="s2">dictionary that&#39;s defining the data that</p>
+<p begin="00:12:14.610" end="00:12:19.589" style="s2">we&#39;re collecting we have our data</p>
+<p begin="00:12:15.870" end="00:12:21.810" style="s2">sources on<span style="s4"> the</span> left right data is moving</p>
+<p begin="00:12:19.589" end="00:12:24.630" style="s2">through our ETL layer into a data</p>
+<p begin="00:12:21.810" end="00:12:29.600" style="s2">warehouse into that visualization layer</p>
+<p begin="00:12:24.630" end="00:12:31.950" style="s2">and we learn this is what we want to do</p>
+<p begin="00:12:29.600" end="00:12:34.829" style="s2">and this is what we&#39;re hoping I<span style="s4"> think</span></p>
+<p begin="00:12:31.950" end="00:12:36.480" style="s2">that this diagram is<span style="s4"> probably</span> common or</p>
+<p begin="00:12:34.829" end="00:12:38.490" style="s2">probably<span style="s3"> could</span> be used in many different</p>
+<p begin="00:12:36.480" end="00:12:41.720" style="s2">instances although maybe not with the</p>
+<p begin="00:12:38.490" end="00:12:46.920" style="s2">heartland alliance color branding but</p>
+<p begin="00:12:41.720" end="00:12:48.810" style="s2">this is the ideal state right but even</p>
+<p begin="00:12:46.920" end="00:12:51.300" style="s2"><span style="s3">if</span> this diagram is<span style="s3"> common</span> we do have our</p>
+<p begin="00:12:48.810" end="00:12:53.070" style="s2">own unique<span style="s4"> challenges</span> and those unique</p>
+<p begin="00:12:51.300" end="00:12:57.930" style="s2">challenges are that<span style="s3"> almost</span> none<span style="s4"> of</span> it</p>
+<p begin="00:12:53.070" end="00:13:00.870" style="s2">exists at heartland alliance so if you</p>
+<p begin="00:12:57.930" end="00:13:02.670" style="s2">look at this data flow knowledge flow</p>
+<p begin="00:13:00.870" end="00:13:07.320" style="s2">not really working too well and<span style="s3"> a</span> lot<span style="s4"> of</span></p>
+<p begin="00:13:02.670" end="00:13:09.300" style="s2"><span style="s3">vaporware up there but so so underneath</span></p>
+<p begin="00:13:07.320" end="00:13:11.880" style="s2">those five organizations we have</p>
+<p begin="00:13:09.300" end="00:13:15.150" style="s2">somewhere upwards of 110 programs those</p>
+<p begin="00:13:11.880" end="00:13:18.240" style="s2">110 programs have their 110 funders<span style="s3"> plus</span></p>
+<p begin="00:13:15.150" end="00:13:19.460" style="s2">right so all of<span style="s3"> that</span> data collection is</p>
+<p begin="00:13:18.240" end="00:13:22.140" style="s2">happening for that</p>
+<p begin="00:13:19.460" end="00:13:23.910" style="s2">and we also don&#39;t necessarily have a</p>
+<p begin="00:13:22.140" end="00:13:29.400" style="s2">system of record for some of those</p>
+<p begin="00:13:23.910" end="00:13:31.230" style="s2">programs Excel access PDF files<span style="s3"> these</span></p>
+<p begin="00:13:29.400" end="00:13:38.100" style="s2">types of dates right so they&#39;re not</p>
+<p begin="00:13:31.230" end="00:13:41.430" style="s2">systems and in addition to that we have</p>
+<p begin="00:13:38.100" end="00:13:44.580" style="s2">the the challenge of operating in five</p>
+<p begin="00:13:41.430" end="00:13:46.350" style="s2">different industries right so the</p>
+<p begin="00:13:44.580" end="00:13:49.800" style="s2">services that<span style="s3"> we</span> provide range from law</p>
+<p begin="00:13:46.350" end="00:13:51.720" style="s2">firms to property developers to<span style="s3"> health</span></p>
+<p begin="00:13:49.800" end="00:13:53.940" style="s2"><span style="s4">care</span> providers how do<span style="s3"> you</span> find a single</p>
+<p begin="00:13:51.720" end="00:13:57.170" style="s2"><span style="s3">system</span> or a data system of record for</p>
+<p begin="00:13:53.940" end="00:13:59.760" style="s2">all of those organizations right and</p>
+<p begin="00:13:57.170" end="00:14:01.560" style="s2">lastly this data infrastructure bi</p>
+<p begin="00:13:59.760" end="00:14:03.600" style="s2">infrastructure just doesn&#39;t exist at all</p>
+<p begin="00:14:01.560" end="00:14:05.100" style="s2">so this is<span style="s4"> the</span> challenge<span style="s4"> that</span> we&#39;re</p>
+<p begin="00:14:03.600" end="00:14:07.520" style="s2">facing and that we&#39;re<span style="s3"> trying</span> to work</p>
+<p begin="00:14:05.100" end="00:14:10.710" style="s2">through right now so where are we at</p>
+<p begin="00:14:07.520" end="00:14:12.240" style="s2">right now we&#39;re making a map huh this is</p>
+<p begin="00:14:10.710" end="00:14:14.790" style="s2">middle-earth we could have<span style="s3"> used</span> Westeros</p>
+<p begin="00:14:12.240" end="00:14:15.780" style="s2">but I think<span style="s4"> you</span> get<span style="s4"> the</span> point here we&#39;re</p>
+<p begin="00:14:14.790" end="00:14:17.700" style="s2"><span style="s4">trying</span><span style="s3"> to</span> get<span style="s3"> a sense and get our</span></p>
+<p begin="00:14:15.780" end="00:14:20.700" style="s2">bearings of where and how<span style="s3"> to</span> approach</p>
+<p begin="00:14:17.700" end="00:14:22.860" style="s2">this challenge right but we do think</p>
+<p begin="00:14:20.700" end="00:14:24.690" style="s2">that it&#39;s a worthy endeavor even if you</p>
+<p begin="00:14:22.860" end="00:14:26.430" style="s2">look back at that other slide and see</p>
+<p begin="00:14:24.690" end="00:14:27.900" style="s2">that there&#39;s so much work<span style="s3"> to</span> do<span style="s3"> because</span></p>
+<p begin="00:14:26.430" end="00:14:29.820" style="s2"><span style="s3">of</span> the breadth<span style="s3"> of</span> our<span style="s3"> services</span> we feel</p>
+<p begin="00:14:27.900" end="00:14:32.520" style="s2">like we have a unique data opportunity</p>
+<p begin="00:14:29.820" end="00:14:34.590" style="s2">to uncover something and truly<span style="s3"> innovate</span></p>
+<p begin="00:14:32.520" end="00:14:36.750" style="s2">in the industry<span style="s4"> that</span> we&#39;re in right so</p>
+<p begin="00:14:34.590" end="00:14:38.610" style="s2">we think<span style="s4"> that</span> moving from outputs to</p>
+<p begin="00:14:36.750" end="00:14:40.860" style="s2">outcomes is going to be something<span style="s3"> that</span></p>
+<p begin="00:14:38.610" end="00:14:42.000" style="s2">we&#39;re going<span style="s3"> to be able to</span> do we think</p>
+<p begin="00:14:40.860" end="00:14:43.560" style="s2">that<span style="s3"> those</span> outcomes combined together</p>
+<p begin="00:14:42.000" end="00:14:45.900" style="s2">are going to be<span style="s4"> able</span> to show how we are</p>
+<p begin="00:14:43.560" end="00:14:48.510" style="s2">impacting communities we also think that</p>
+<p begin="00:14:45.900" end="00:14:51.750" style="s2">we&#39;ll be able to uncover the mix of</p>
+<p begin="00:14:48.510" end="00:14:53.610" style="s2">services<span style="s4"> that</span> will move the needle the</p>
+<p begin="00:14:51.750" end="00:14:55.200" style="s2">most for ending poverty and we think</p>
+<p begin="00:14:53.610" end="00:14:57.300" style="s2"><span style="s4">that</span> our data systems will allow us to</p>
+<p begin="00:14:55.200" end="00:15:01.080" style="s2">actually connect people more quickly to</p>
+<p begin="00:14:57.300" end="00:15:04.620" style="s2">move them through those services so we</p>
+<p begin="00:15:01.080" end="00:15:07.470" style="s2"><span style="s4">think</span> we have<span style="s3"> a</span> unique opportunity given</p>
+<p begin="00:15:04.620" end="00:15:09.840" style="s2">given that breadth of service so the</p>
+<p begin="00:15:07.470" end="00:15:11.640" style="s2">things that<span style="s4"> are</span> keeping us up at night</p>
+<p begin="00:15:09.840" end="00:15:13.170" style="s2">right now are the key questions as we</p>
+<p begin="00:15:11.640" end="00:15:15.870" style="s2">try to start moving through this process</p>
+<p begin="00:15:13.170" end="00:15:17.730" style="s2">is just really what can<span style="s3"> we</span> learn from</p>
+<p begin="00:15:15.870" end="00:15:20.000" style="s2">other industries that are maybe further</p>
+<p begin="00:15:17.730" end="00:15:25.260" style="s2">along<span style="s4"> in the innovation</span><span style="s3"> and learning</span></p>
+<p begin="00:15:20.000" end="00:15:26.670" style="s2">aspects of their maturation our<span style="s3"> our</span></p>
+<p begin="00:15:25.260" end="00:15:29.700" style="s2">challenge is actually different or the</p>
+<p begin="00:15:26.670" end="00:15:31.740" style="s2">same than those industries right and</p>
+<p begin="00:15:29.700" end="00:15:32.579" style="s2">what can we<span style="s3"> do</span><span style="s4"> now</span> because<span style="s3"> we</span> know<span style="s4"> that</span></p>
+<p begin="00:15:31.740" end="00:15:33.929" style="s2">that vapor</p>
+<p begin="00:15:32.579" end="00:15:36.329" style="s2">where is going to take a long time<span style="s4"> to</span></p>
+<p begin="00:15:33.929" end="00:15:38.399" style="s2">build what can we<span style="s4"> do</span> with the<span style="s3"> data</span> sets</p>
+<p begin="00:15:36.329" end="00:15:39.720" style="s2">that we have right now to begin and to</p>
+<p begin="00:15:38.399" end="00:15:40.920" style="s2">jumpstart that innovation and</p>
+<p begin="00:15:39.720" end="00:15:42.809" style="s2">understanding and learning what</p>
+<p begin="00:15:40.920" end="00:15:44.100" style="s2">opportunities do we have what tools are</p>
+<p begin="00:15:42.809" end="00:15:48.029" style="s2">already out there that are available for</p>
+<p begin="00:15:44.100" end="00:15:49.709" style="s2">us and then lastly when is enough on the</p>
+<p begin="00:15:48.029" end="00:15:52.709" style="s2">planning and when<span style="s3"> can</span> we just start</p>
+<p begin="00:15:49.709" end="00:15:54.779" style="s2">doing so you know this<span style="s3"> is</span><span style="s4"> a</span><span style="s3"> little</span> bit</p>
+<p begin="00:15:52.709" end="00:15:56.369" style="s2">of tour or an understanding of what</p>
+<p begin="00:15:54.779" end="00:15:58.259" style="s2">we&#39;re working on right now and how we&#39;re</p>
+<p begin="00:15:56.369" end="00:16:00.629" style="s2">trying to build<span style="s4"> a</span> innovation<span style="s4"> center</span> at</p>
+<p begin="00:15:58.259" end="00:16:02.249" style="s2">heartland alliance Oh make it was mostly</p>
+<p begin="00:16:00.629" end="00:16:04.049" style="s2">just therapy for you and me is that</p>
+<p begin="00:16:02.249" end="00:16:06.660" style="s2">right I think we needed somebody<span style="s3"> to</span></p>
+<p begin="00:16:04.049" end="00:16:09.299" style="s2">share this<span style="s3"> with yeah it was a lot but</span></p>
+<p begin="00:16:06.660" end="00:16:12.239" style="s2">but we&#39;d<span style="s3"> love</span> to hear your comments your</p>
+<p begin="00:16:09.299" end="00:16:17.249" style="s2">questions snide remarks whatever you</p>
+<p begin="00:16:12.239" end="00:16:18.809" style="s2">have to offer up s how much of the data</p>
+<p begin="00:16:17.249" end="00:16:20.790" style="s2"><span style="s3">that</span> you&#39;re<span style="s4"> looking</span> at is really</p>
+<p begin="00:16:18.809" end="00:16:23.540" style="s2"><span style="s3">specific</span> your organization how much it</p>
+<p begin="00:16:20.790" end="00:16:26.309" style="s2">would<span style="s3"> be</span> useful for a larger population</p>
+<p begin="00:16:23.540" end="00:16:27.839" style="s2"><span style="s3">that&#39;s</span> a good<span style="s3"> question</span> so all of it<span style="s3"> I</span></p>
+<p begin="00:16:26.309" end="00:16:30.689" style="s2">would say the vast majority of it is</p>
+<p begin="00:16:27.839" end="00:16:33.989" style="s2">specific to our programs and our</p>
+<p begin="00:16:30.689" end="00:16:36.509" style="s2">participants now that said we have</p>
+<p begin="00:16:33.989" end="00:16:38.730" style="s2">explored and talks a lot about<span style="s4"> long term</span></p>
+<p begin="00:16:36.509" end="00:16:42.119" style="s2">vision of once we get that data</p>
+<p begin="00:16:38.730" end="00:16:44.360" style="s2">warehouse in place of being being a</p>
+<p begin="00:16:42.119" end="00:16:46.829" style="s2">place where other researchers could come</p>
+<p begin="00:16:44.360" end="00:16:49.439" style="s2">people who have<span style="s4"> did</span> data<span style="s3"> analytic skills</span></p>
+<p begin="00:16:46.829" end="00:16:50.999" style="s2">and say hey can I get some de-identified</p>
+<p begin="00:16:49.439" end="00:16:52.470" style="s2">data here and let<span style="s4"> me</span> see what I<span style="s3"> can</span></p>
+<p begin="00:16:50.999" end="00:16:54.869" style="s2">learn from it let<span style="s4"> me see what</span></p>
+<p begin="00:16:52.470" end="00:16:56.879" style="s2">relationships i can find let me see you</p>
+<p begin="00:16:54.869" end="00:16:58.949" style="s2">know what predictive analysis<span style="s3"> i</span> can run</p>
+<p begin="00:16:56.879" end="00:17:00.569" style="s2">on this so that&#39;s a that&#39;s a big vision</p>
+<p begin="00:16:58.949" end="00:17:02.879" style="s2">that&#39;s really what we hope<span style="s4"> to</span> be is kind</p>
+<p begin="00:17:00.569" end="00:17:04.439" style="s2">of a center that&#39;s not just internally</p>
+<p begin="00:17:02.879" end="00:17:06.949" style="s2">focused but that&#39;s externally focused</p>
+<p begin="00:17:04.439" end="00:17:06.949" style="s2">for the field</p>
+<p begin="00:17:09.980" end="00:17:13.850" style="s2">to track the</p>
+<p begin="00:17:15.979" end="00:17:26.519" style="s2">how will you work together<span style="s3"> because</span><span style="s4"> you</span></p>
+<p begin="00:17:20.699" end="00:17:29.369" style="s2"><span style="s3">also</span> work in what I know very</p>
+<p begin="00:17:26.519" end="00:17:32.970" style="s2">challenging I&#39;m going<span style="s3"> to</span> create another</p>
+<p begin="00:17:29.369" end="00:17:37.349" style="s2"><span style="s4">Department</span> your question is like giving</p>
+<p begin="00:17:32.970" end="00:17:40.019" style="s2">me a heart attack we did<span style="s3"> notice I can&#39;t</span></p>
+<p begin="00:17:37.349" end="00:17:41.519" style="s2">answer it but<span style="s3"> those</span> are precisely the</p>
+<p begin="00:17:40.019" end="00:17:43.320" style="s2">things that we&#39;re dealing with<span style="s3"> when</span><span style="s4"> we</span></p>
+<p begin="00:17:41.519" end="00:17:45.629" style="s2">say<span style="s4"> mapmaking</span> we&#39;re trying to figure out</p>
+<p begin="00:17:43.320" end="00:17:48.629" style="s2"><span style="s3">it&#39;s</span> exactly<span style="s4"> how</span> to approach what you&#39;re</p>
+<p begin="00:17:45.629" end="00:17:51.119" style="s2">saying one element that<span style="s3"> I</span> can speak to</p>
+<p begin="00:17:48.629" end="00:17:54.269" style="s2">specifically is that what we know we&#39;re</p>
+<p begin="00:17:51.119" end="00:17:56.190" style="s2"><span style="s4">going</span><span style="s3"> to have to do is short of working</span></p>
+<p begin="00:17:54.269" end="00:18:00.539" style="s2"><span style="s3">on</span> technology at all we need<span style="s4"> to</span> develop</p>
+<p begin="00:17:56.190" end="00:18:03.539" style="s2">a robust and comprehensive results</p>
+<p begin="00:18:00.539" end="00:18:06.450" style="s2">framework for<span style="s4"> the</span> organization so that</p>
+<p begin="00:18:03.539" end="00:18:08.700" style="s2">every single intervention that we do we</p>
+<p begin="00:18:06.450" end="00:18:10.080" style="s2">have you know drawn the line in the sand</p>
+<p begin="00:18:08.700" end="00:18:13.830" style="s2">and said here&#39;s the outcomes we&#39;re</p>
+<p begin="00:18:10.080" end="00:18:16.499" style="s2">looking to achieve and then building out</p>
+<p begin="00:18:13.830" end="00:18:18.090" style="s2">from there what needs to change so it&#39;s</p>
+<p begin="00:18:16.499" end="00:18:20.580" style="s2">going to<span style="s4"> have</span> a ripple effect into</p>
+<p begin="00:18:18.090" end="00:18:22.710" style="s2"><span style="s3">things</span> like all of the paper forms that</p>
+<p begin="00:18:20.580" end="00:18:24.899" style="s2">we fill out with our participants the</p>
+<p begin="00:18:22.710" end="00:18:28.259" style="s2">data you know<span style="s3"> obviously</span> the data systems</p>
+<p begin="00:18:24.899" end="00:18:30.389" style="s2">that we have we<span style="s4"> need</span> to negotiate so</p>
+<p begin="00:18:28.259" end="00:18:31.889" style="s2">many different pieces that we don&#39;t<span style="s3"> even</span></p>
+<p begin="00:18:30.389" end="00:18:33.570" style="s2">probably<span style="s3"> at</span> this point know what we are</p>
+<p begin="00:18:31.889" end="00:18:36.210" style="s2">you&#39;ve caught us at a very early moment</p>
+<p begin="00:18:33.570" end="00:18:39.929" style="s2">in this process literally what we told</p>
+<p begin="00:18:36.210" end="00:18:42.419" style="s2"><span style="s3">you</span> is is where we&#39;re at and so we are</p>
+<p begin="00:18:39.929" end="00:18:44.340" style="s2"><span style="s4">just</span> starting<span style="s4"> to</span> plan for doing some of</p>
+<p begin="00:18:42.419" end="00:18:47.249" style="s2">this work in our<span style="s3"> upcoming</span> fiscal year</p>
+<p begin="00:18:44.340" end="00:18:48.720" style="s2">which would start in July I have yeah I</p>
+<p begin="00:18:47.249" end="00:18:50.789" style="s2"><span style="s3">mean</span> I think you&#39;re hitting it right on</p>
+<p begin="00:18:48.720" end="00:18:52.409" style="s2">the head i<span style="s4"> think</span> there&#39;s program</p>
+<p begin="00:18:50.789" end="00:18:55.109" style="s2">interesting data that they need<span style="s3"> to</span> be</p>
+<p begin="00:18:52.409" end="00:18:56.789" style="s2">collecting for their funders there&#39;s</p>
+<p begin="00:18:55.109" end="00:18:58.470" style="s2">company interesting data that they need</p>
+<p begin="00:18:56.789" end="00:19:00.299" style="s2"><span style="s3">to</span> be collecting for to understand how</p>
+<p begin="00:18:58.470" end="00:19:03.239" style="s2">their functioning there&#39;s<span style="s4"> Alliance</span></p>
+<p begin="00:19:00.299" end="00:19:05.429" style="s2">interesting there&#39;s industry interesting</p>
+<p begin="00:19:03.239" end="00:19:07.649" style="s2">how do you wrap that all up<span style="s3"> into</span> one</p>
+<p begin="00:19:05.429" end="00:19:09.299" style="s2">framework that your data systems are</p>
+<p begin="00:19:07.649" end="00:19:10.289" style="s2">collecting all I think that&#39;s our</p>
+<p begin="00:19:09.299" end="00:19:12.149" style="s2">biggest challenge<span style="s4"> that</span> we&#39;re facing</p>
+<p begin="00:19:10.289" end="00:19:14.249" style="s2">right now I<span style="s3"> think</span> the technology<span style="s3"> is</span></p>
+<p begin="00:19:12.149" end="00:19:17.809" style="s2">likely not<span style="s3"> the</span> biggest challenge it&#39;s</p>
+<p begin="00:19:14.249" end="00:19:20.190" style="s2">the change exercise of taking that many</p>
+<p begin="00:19:17.809" end="00:19:21.330" style="s2">you know 110 programs that have been</p>
+<p begin="00:19:20.190" end="00:19:23.609" style="s2">operating the way that they&#39;ve<span style="s4"> been</span></p>
+<p begin="00:19:21.330" end="00:19:25.919" style="s2">operating for a while and changing them</p>
+<p begin="00:19:23.609" end="00:19:26.460" style="s2">in pointing eminent pointing them in a</p>
+<p begin="00:19:25.919" end="00:19:28.650" style="s2">singular</p>
+<p begin="00:19:26.460" end="00:19:30.600" style="s2">direction is a monumental effort yes</p>
+<p begin="00:19:28.650" end="00:19:32.670" style="s2">i&#39;ll just add we have our<span style="s3"> a meeting next</span></p>
+<p begin="00:19:30.600" end="00:19:34.890" style="s2">week with a bunch of leadership from</p>
+<p begin="00:19:32.670" end="00:19:36.450" style="s2">throughout all of the<span style="s3"> companies</span> so you</p>
+<p begin="00:19:34.890" end="00:19:38.280" style="s2">guys almost got a preview before they</p>
+<p begin="00:19:36.450" end="00:19:39.510" style="s2">did of what we&#39;re going to be talking to</p>
+<p begin="00:19:38.280" end="00:19:45.150" style="s2"><span style="s3">them</span> about they&#39;re probably watching</p>
+<p begin="00:19:39.510" end="00:19:50.160" style="s2">right now yeah live streaming what do</p>
+<p begin="00:19:45.150" end="00:19:54.240" style="s2"><span style="s3">you</span><span style="s4"> think</span> about comes that you like to</p>
+<p begin="00:19:50.160" end="00:19:56.430" style="s2"><span style="s4">be</span> monitoring for heart<span style="s4"> is</span> one part of</p>
+<p begin="00:19:54.240" end="00:20:01.500" style="s2"><span style="s3">your business and how much</span><span style="s4"> of</span> what<span style="s4"> you</span></p>
+<p begin="00:19:56.430" end="00:20:04.280" style="s2">do today do you think is what you and</p>
+<p begin="00:20:01.500" end="00:20:06.630" style="s2">when you actually<span style="s4"> find it daddy you know</span></p>
+<p begin="00:20:04.280" end="00:20:08.580" style="s2">yeah it&#39;s a really it&#39;s an interesting</p>
+<p begin="00:20:06.630" end="00:20:12.180" style="s2">point because you know what I mentioned</p>
+<p begin="00:20:08.580" end="00:20:14.010" style="s2">our funders I don&#39;t<span style="s4"> think</span> I&#39;m</p>
+<p begin="00:20:12.180" end="00:20:18.000" style="s2">exaggerating how much they drive the</p>
+<p begin="00:20:14.010" end="00:20:20.400" style="s2">work of our sector dictate might be a</p>
+<p begin="00:20:18.000" end="00:20:22.020" style="s2">better word and you know people<span style="s3"> who</span> work</p>
+<p begin="00:20:20.400" end="00:20:25.380" style="s2">in<span style="s4"> the</span> nonprofit space you know what I&#39;m</p>
+<p begin="00:20:22.020" end="00:20:27.990" style="s2">talking<span style="s4"> about</span> so part of this is a</p>
+<p begin="00:20:25.380" end="00:20:29.430" style="s2">really long<span style="s3"> term</span> vision for being<span style="s3"> able</span></p>
+<p begin="00:20:27.990" end="00:20:32.820" style="s2">to actually start to change that</p>
+<p begin="00:20:29.430" end="00:20:34.440" style="s2">conversation with funders so if<span style="s4"> we</span><span style="s3"> can</span></p>
+<p begin="00:20:32.820" end="00:20:37.860" style="s2">build an<span style="s3"> evidence-based</span> in our own</p>
+<p begin="00:20:34.440" end="00:20:40.440" style="s2">organization for what works and an</p>
+<p begin="00:20:37.860" end="00:20:43.560" style="s2">evidence-based for what doesn&#39;t<span style="s3"> we</span> can</p>
+<p begin="00:20:40.440" end="00:20:46.200" style="s2">be a entity that changes the</p>
+<p begin="00:20:43.560" end="00:20:48.000" style="s2">conversation in the<span style="s3"> field</span> which<span style="s4"> is</span></p>
+<p begin="00:20:46.200" end="00:20:49.140" style="s2">ultimately what it&#39;s going to take it&#39;s</p>
+<p begin="00:20:48.000" end="00:20:50.880" style="s2">going to take more<span style="s3"> than Heartland doing</span></p>
+<p begin="00:20:49.140" end="00:20:53.280" style="s2">that certainly it&#39;s going to take a lot</p>
+<p begin="00:20:50.880" end="00:20:55.170" style="s2">more people but we need to get to a</p>
+<p begin="00:20:53.280" end="00:20:57.180" style="s2">place<span style="s4"> where</span> instead<span style="s4"> of</span> being you know</p>
+<p begin="00:20:55.170" end="00:20:58.740" style="s2">jumping when<span style="s3"> the</span> funder says jump that</p>
+<p begin="00:20:57.180" end="00:21:01.140" style="s2"><span style="s3">we</span> say that the funder here&#39;s how to</p>
+<p begin="00:20:58.740" end="00:21:03.840" style="s2">tell a salted home and so that&#39;s<span style="s3"> really</span></p>
+<p begin="00:21:01.140" end="00:21:06.060" style="s2"><span style="s3">the</span> hope so<span style="s4"> I</span> guess you know will<span style="s4"> be</span></p>
+<p begin="00:21:03.840" end="00:21:08.430" style="s2"><span style="s3">limited</span> in our ability to really change</p>
+<p begin="00:21:06.060" end="00:21:12.780" style="s2">a lot at first but i think really long</p>
+<p begin="00:21:08.430" end="00:21:14.880" style="s2">term that&#39;s where we&#39;re hoping<span style="s4"> to</span> go do</p>
+<p begin="00:21:12.780" end="00:21:17.190" style="s2">you have<span style="s3"> people who are</span> like who are</p>
+<p begin="00:21:14.880" end="00:21:19.800" style="s2">like there is a large part of their job</p>
+<p begin="00:21:17.190" end="00:21:24.960" style="s2">to like identify this stuff it&#39;s working</p>
+<p begin="00:21:19.800" end="00:21:26.790" style="s2">if<span style="s3"> you</span> guys are not doing the director</p>
+<p begin="00:21:24.960" end="00:21:29.190" style="s2">of<span style="s3"> research no and a lot</span> of it is about</p>
+<p begin="00:21:26.790" end="00:21:30.750" style="s2">surfacing you know best practice is an</p>
+<p begin="00:21:29.190" end="00:21:33.390" style="s2">evidence-based<span style="s3"> and</span> the new and emerging</p>
+<p begin="00:21:30.750" end="00:21:37.350" style="s2">promising practices in<span style="s4"> the</span> field and we</p>
+<p begin="00:21:33.390" end="00:21:39.540" style="s2">do<span style="s3"> that</span> absolutely again if there was a</p>
+<p begin="00:21:37.350" end="00:21:40.260" style="s2">funder out there who<span style="s4"> is</span> giving you a<span style="s3"> big</span></p>
+<p begin="00:21:39.540" end="00:21:41.820" style="s2">pot you know</p>
+<p begin="00:21:40.260" end="00:21:43.260" style="s2">big bunch<span style="s3"> of</span> money to do whatever we</p>
+<p begin="00:21:41.820" end="00:21:45.600" style="s2">would like with those types of things</p>
+<p begin="00:21:43.260" end="00:21:46.800" style="s2">would be a lot easier<span style="s3"> to</span> do but<span style="s3"> yet</span> to</p>
+<p begin="00:21:45.600" end="00:21:49.140" style="s2">wait until a funder kind of gets the</p>
+<p begin="00:21:46.800" end="00:21:51.360" style="s2"><span style="s3">idea</span> and develops a funding stream for</p>
+<p begin="00:21:49.140" end="00:21:53.070" style="s2">it to do it so housing first you know is</p>
+<p begin="00:21:51.360" end="00:21:56.460" style="s2">a good example of that we&#39;re still as a</p>
+<p begin="00:21:53.070" end="00:21:59.250" style="s2">homeless system we have<span style="s3"> a</span> shelter model</p>
+<p begin="00:21:56.460" end="00:22:00.840" style="s2">shelters do not end homelessness they</p>
+<p begin="00:21:59.250" end="00:22:03.090" style="s2">put a roof over someone&#39;s head for the</p>
+<p begin="00:22:00.840" end="00:22:05.610" style="s2">night so we know what works<span style="s3"> in</span> a lot<span style="s4"> of</span></p>
+<p begin="00:22:03.090" end="00:22:07.410" style="s2">these ways we just don&#39;t do enough of</p>
+<p begin="00:22:05.610" end="00:22:08.870" style="s2">the thing that&#39;s actually getting to the</p>
+<p begin="00:22:07.410" end="00:22:12.840" style="s2">root cause of the problem right</p>
+<p begin="00:22:08.870" end="00:22:18.750" style="s2">absolutely<span style="s4"> right okay let&#39;s go you</span></p>
+<p begin="00:22:12.840" end="00:22:23.010" style="s2">surrounded I&#39;m wondering<span style="s4"> how</span> many st.</p>
+<p begin="00:22:18.750" end="00:22:25.290" style="s2">ppl customers and clients are accessing</p>
+<p begin="00:22:23.010" end="00:22:28.200" style="s2">each of those some<span style="s3"> of</span> many of those</p>
+<p begin="00:22:25.290" end="00:22:32.820" style="s2">multiples of those programs we<span style="s3"> don&#39;t</span></p>
+<p begin="00:22:28.200" end="00:22:34.350" style="s2">know<span style="s4"> looking at finding out yes that</span><span style="s3"> is</span></p>
+<p begin="00:22:32.820" end="00:22:35.940" style="s2">another huge of it that&#39;s<span style="s4"> probably</span> one</p>
+<p begin="00:22:34.350" end="00:22:37.550" style="s2">of the first<span style="s3"> questions</span> we&#39;d answer yes</p>
+<p begin="00:22:35.940" end="00:22:40.050" style="s2">or try to answer with this exercise</p>
+<p begin="00:22:37.550" end="00:22:43.470" style="s2">because we have all of<span style="s4"> these</span> programs</p>
+<p begin="00:22:40.050" end="00:22:44.790" style="s2">but we have no internal way to link them</p>
+<p begin="00:22:43.470" end="00:22:46.560" style="s2">up to different programs there&#39;s</p>
+<p begin="00:22:44.790" end="00:22:48.000" style="s2">eligibility considerations and the like</p>
+<p begin="00:22:46.560" end="00:22:49.410" style="s2">but that&#39;s<span style="s3"> something we think we</span> could</p>
+<p begin="00:22:48.000" end="00:22:51.180" style="s2">in we can answer with some of our</p>
+<p begin="00:22:49.410" end="00:22:53.730" style="s2">existing data that we<span style="s4"> have</span> already if we</p>
+<p begin="00:22:51.180" end="00:22:54.750" style="s2">called it cleaned it matched it we could</p>
+<p begin="00:22:53.730" end="00:22:59.670" style="s2"><span style="s3">try</span> to figure<span style="s3"> out</span> what some of that</p>
+<p begin="00:22:54.750" end="00:23:02.010" style="s2">overlap is<span style="s3"> Dan</span> yeah thank you for<span style="s3"> the</span></p>
+<p begin="00:22:59.670" end="00:23:04.680" style="s2"><span style="s4">help</span> you give us are you<span style="s3"> through</span> dating</p>
+<p begin="00:23:02.010" end="00:23:06.930" style="s2">the guy said map is to map the</p>
+<p begin="00:23:04.680" end="00:23:09.300" style="s2">organization and<span style="s3"> how</span><span style="s4"> people</span> are</p>
+<p begin="00:23:06.930" end="00:23:12.190" style="s2">connected with each other</p>
+<p begin="00:23:09.300" end="00:23:14.140" style="s2">there&#39;s some program directory</p>
+<p begin="00:23:12.190" end="00:23:15.910" style="s2">discussions of how we would link that</p>
+<p begin="00:23:14.140" end="00:23:17.580" style="s2">together in terms of overlap and</p>
+<p begin="00:23:15.910" end="00:23:21.220" style="s2">services that<span style="s3"> are even provided</span> or</p>
+<p begin="00:23:17.580" end="00:23:23.500" style="s2">funders that are overlapping from a</p>
+<p begin="00:23:21.220" end="00:23:26.070" style="s2">pass-through perspective or how far back</p>
+<p begin="00:23:23.500" end="00:23:29.080" style="s2">does that funding source roll through or</p>
+<p begin="00:23:26.070" end="00:23:31.090" style="s2">areas where it&#39;s most likely that a</p>
+<p begin="00:23:29.080" end="00:23:33.970" style="s2">participant would actually be receiving</p>
+<p begin="00:23:31.090" end="00:23:37.000" style="s2">multiple services so that that exercise</p>
+<p begin="00:23:33.970" end="00:23:39.820" style="s2">is started but we haven&#39;t moved very far</p>
+<p begin="00:23:37.000" end="00:23:41.500" style="s2">along that process but I&#39;d be interested</p>
+<p begin="00:23:39.820" end="00:23:42.820" style="s2">to hear<span style="s3"> more</span> about what tools that would</p>
+<p begin="00:23:41.500" end="00:23:46.120" style="s2"><span style="s3">be</span> available<span style="s4"> to help us in that</span></p>
+<p begin="00:23:42.820" end="00:23:49.240" style="s2">absolutely so are you expecting<span style="s4"> to</span> get</p>
+<p begin="00:23:46.120" end="00:23:50.830" style="s2">to the ideal state with the teaming up</p>
+<p begin="00:23:49.240" end="00:23:52.240" style="s2">currently or you expecting that you&#39;ll</p>
+<p begin="00:23:50.830" end="00:23:58.080" style="s2"><span style="s4">take</span> this<span style="s3"> the</span> leadership and<span style="s3"> then</span> put</p>
+<p begin="00:23:52.240" end="00:24:01.510" style="s2"><span style="s3">together</span><span style="s4"> hye-rin</span> we&#39;re looking to hire</p>
+<p begin="00:23:58.080" end="00:24:03.460" style="s2">we you know to the<span style="s3"> question</span> earlier</p>
+<p begin="00:24:01.510" end="00:24:06.850" style="s2">research and development teams<span style="s3"> or</span> the</p>
+<p begin="00:24:03.460" end="00:24:08.710" style="s2">ability<span style="s4"> to</span> singularly focus on any sort</p>
+<p begin="00:24:06.850" end="00:24:10.960" style="s2"><span style="s3">of</span> area is something that we<span style="s3"> don&#39;t</span></p>
+<p begin="00:24:08.710" end="00:24:12.430" style="s2"><span style="s3">really</span> have it&#39;s not<span style="s3"> really</span> something</p>
+<p begin="00:24:10.960" end="00:24:14.410" style="s2">that&#39;s available to us in the nonprofit</p>
+<p begin="00:24:12.430" end="00:24:17.170" style="s2">sector we do have a<span style="s3"> lot of jack of all</span></p>
+<p begin="00:24:14.410" end="00:24:19.330" style="s2">trades or people pulling<span style="s3"> at</span> pulling</p>
+<p begin="00:24:17.170" end="00:24:21.940" style="s2">weight let&#39;s<span style="s3"> call</span> it so we&#39;re going to</p>
+<p begin="00:24:19.330" end="00:24:24.190" style="s2">we know we need to scale both on the</p>
+<p begin="00:24:21.940" end="00:24:26.890" style="s2">data scientist side but also the BI</p>
+<p begin="00:24:24.190" end="00:24:29.410" style="s2">support side the development side the</p>
+<p begin="00:24:26.890" end="00:24:33.310" style="s2">etl side all of this stuff so we&#39;re</p>
+<p begin="00:24:29.410" end="00:24:37.500" style="s2">looking at that as a heavy investment so</p>
+<p begin="00:24:33.310" end="00:24:37.500" style="s2">we&#39;re<span style="s4"> working</span> on that proposal right now</p>
+<p begin="00:24:37.650" end="00:24:43.679" style="s2">any very exciting</p>
+<p begin="00:24:40.940" end="00:24:46.500" style="s2">you guys<span style="s4"> getting</span> research base and you</p>
+<p begin="00:24:43.679" end="00:24:49.769" style="s2">have<span style="s3"> a</span> clear story that you can tell</p>
+<p begin="00:24:46.500" end="00:24:54.600" style="s2">funders<span style="s3"> pasted</span> on a solid research base</p>
+<p begin="00:24:49.769" end="00:24:57.720" style="s2">that you&#39;re going to<span style="s3"> be</span><span style="s4"> able</span> to dampen</p>
+<p begin="00:24:54.600" end="00:25:01.649" style="s2">some of the fickleness of thunders as</p>
+<p begin="00:24:57.720" end="00:25:04.890" style="s2">they move through program officers do</p>
+<p begin="00:25:01.649" end="00:25:06.929" style="s2">you guys have a<span style="s3"> laser</span> it&#39;s a bigger</p>
+<p begin="00:25:04.890" end="00:25:09.960" style="s2">knife cutting a productive articulate as</p>
+<p begin="00:25:06.929" end="00:25:12.570" style="s2">well is there we&#39;re<span style="s3"> going</span> in are there</p>
+<p begin="00:25:09.960" end="00:25:15.179" style="s2">case studies of organizations<span style="s3"> that</span> have</p>
+<p begin="00:25:12.570" end="00:25:20.519" style="s2">done that and really have changed their</p>
+<p begin="00:25:15.179" end="00:25:23.880" style="s2">relationship with funders it&#39;s a<span style="s3"> great</span></p>
+<p begin="00:25:20.519" end="00:25:26.340" style="s2">question yeah I<span style="s3"> wonder</span> if anyone in the</p>
+<p begin="00:25:23.880" end="00:25:28.320" style="s2">field is<span style="s3"> that</span> it&#39;s quite<span style="s3"> that</span> far along</p>
+<p begin="00:25:26.340" end="00:25:30.269" style="s2">I&#39;m one of the things on our to-do list</p>
+<p begin="00:25:28.320" end="00:25:31.350" style="s2">is to go out and<span style="s4"> visit</span> some</p>
+<p begin="00:25:30.269" end="00:25:33.960" style="s2">organizations that have gone through</p>
+<p begin="00:25:31.350" end="00:25:36.510" style="s2">kind of a technology change like the one</p>
+<p begin="00:25:33.960" end="00:25:37.740" style="s2">we&#39;re thinking<span style="s3"> of</span> I think<span style="s4"> all</span> of the</p>
+<p begin="00:25:36.510" end="00:25:38.850" style="s2">ones that we&#39;re thinking you go I got</p>
+<p begin="00:25:37.740" end="00:25:40.080" style="s2">visiting or so much smaller<span style="s3"> than</span></p>
+<p begin="00:25:38.850" end="00:25:42.769" style="s2"><span style="s3">Heartland</span> like it all seems so much</p>
+<p begin="00:25:40.080" end="00:25:45.690" style="s2">easier at some<span style="s3"> single-issue</span></p>
+<p begin="00:25:42.769" end="00:25:47.130" style="s2">organizations and the like so I think</p>
+<p begin="00:25:45.690" end="00:25:49.110" style="s2"><span style="s3">that&#39;s</span> going to be an actually a really</p>
+<p begin="00:25:47.130" end="00:25:50.399" style="s2">interesting question to start probing</p>
+<p begin="00:25:49.110" end="00:25:53.700" style="s2">with some of these organizations that</p>
+<p begin="00:25:50.399" end="00:25:57.149" style="s2">were going<span style="s3"> to</span> be talking with is if and</p>
+<p begin="00:25:53.700" end="00:25:59.960" style="s2">how this has been impacting their their</p>
+<p begin="00:25:57.149" end="00:26:02.820" style="s2">funding conversations certainly the</p>
+<p begin="00:25:59.960" end="00:26:05.010" style="s2">Nevers have made their operational<span style="s4"> day</span></p>
+<p begin="00:26:02.820" end="00:26:07.080" style="s2"><span style="s4">to day function better there you know</span></p>
+<p begin="00:26:05.010" end="00:26:08.940" style="s2">able to reach more people or do it at a</p>
+<p begin="00:26:07.080" end="00:26:10.919" style="s2">lower cost and those kinds of things<span style="s3"> but</span></p>
+<p begin="00:26:08.940" end="00:26:13.200" style="s2">actually influencing funders I think is</p>
+<p begin="00:26:10.919" end="00:26:19.580" style="s2">that last piece that I don&#39;t know<span style="s3"> that</span></p>
+<p begin="00:26:13.200" end="00:26:19.580" style="s2">we&#39;ve we&#39;ve seen<span style="s3"> that</span> yet sure</p>
+<p begin="00:26:34.500" end="00:26:42.130" style="s2">so that&#39;s a great question a lot<span style="s3"> of</span> the</p>
+<p begin="00:26:39.580" end="00:26:44.290" style="s2"><span style="s3">data</span> that&#39;s already being collected not</p>
+<p begin="00:26:42.130" end="00:26:47.770" style="s2">for the use for the purposes of<span style="s3"> this</span></p>
+<p begin="00:26:44.290" end="00:26:49.690" style="s2">exercise right is being you know we have</p>
+<p begin="00:26:47.770" end="00:26:51.850" style="s2">a<span style="s3"> business</span> associate<span style="s3"> agreement</span> with the</p>
+<p begin="00:26:49.690" end="00:26:53.410" style="s2">groups that we&#39;re storing it with or how</p>
+<p begin="00:26:51.850" end="00:26:55.690" style="s2">we&#39;re collecting it we&#39;re HIPAA</p>
+<p begin="00:26:53.410" end="00:26:58.900" style="s2">regulated so we do take security privacy</p>
+<p begin="00:26:55.690" end="00:27:00.820" style="s2">all of<span style="s3"> that</span> very serious we haven&#39;t</p>
+<p begin="00:26:58.900" end="00:27:04.210" style="s2">necessarily gone to that next level for</p>
+<p begin="00:27:00.820" end="00:27:05.830" style="s2">the research or the IRB review process</p>
+<p begin="00:27:04.210" end="00:27:06.790" style="s2">or those types of things I know you</p>
+<p begin="00:27:05.830" end="00:27:08.980" style="s2"><span style="s3">probably</span> have a<span style="s3"> little</span> bit more</p>
+<p begin="00:27:06.790" end="00:27:10.919" style="s2"><span style="s4">experience</span> with<span style="s4"> that</span> but we do take the</p>
+<p begin="00:27:08.980" end="00:27:12.880" style="s2">data collection process very seriously</p>
+<p begin="00:27:10.919" end="00:27:18.880" style="s2">and you&#39;re<span style="s4"> talking</span> about<span style="s3"> how</span> it might be</p>
+<p begin="00:27:12.880" end="00:27:20.830" style="s2">it might be not as reliable of data yeah</p>
+<p begin="00:27:18.880" end="00:27:24.250" style="s2">you know I mean like<span style="s3"> I</span> said we&#39;re not</p>
+<p begin="00:27:20.830" end="00:27:25.870" style="s2">remotely there yet so I think that&#39;s</p>
+<p begin="00:27:24.250" end="00:27:29.230" style="s2"><span style="s3">something</span> that when we talk about data</p>
+<p begin="00:27:25.870" end="00:27:32.470" style="s2">governance is going to be kind of top of</p>
+<p begin="00:27:29.230" end="00:27:35.110" style="s2">mind hopefully we&#39;ll be able<span style="s3"> to</span> fix some</p>
+<p begin="00:27:32.470" end="00:27:39.340" style="s2">of the unreliability through really</p>
+<p begin="00:27:35.110" end="00:27:41.410" style="s2">awesome training of our staff and very</p>
+<p begin="00:27:39.340" end="00:27:42.940" style="s2">clear expectations around what centered</p>
+<p begin="00:27:41.410" end="00:27:44.830" style="s2">and how we calculate things I&#39;m alike</p>
+<p begin="00:27:42.940" end="00:27:45.940" style="s2">but we&#39;re certainly that&#39;s going to be</p>
+<p begin="00:27:44.830" end="00:27:48.010" style="s2">one<span style="s3"> of</span> those things that&#39;s probably an</p>
+<p begin="00:27:45.940" end="00:27:49.990" style="s2">ongoing issue I can&#39;t imagine a day when</p>
+<p begin="00:27:48.010" end="00:27:52.240" style="s2"><span style="s3">you</span> know sensitive<span style="s3"> information</span> like that</p>
+<p begin="00:27:49.990" end="00:27:54.790" style="s2">is<span style="s3"> like</span><span style="s4"> the</span> most highly reliable data in</p>
+<p begin="00:27:52.240" end="00:27:55.960" style="s2">the world but<span style="s3"> again</span> just<span style="s4"> another</span> one of</p>
+<p begin="00:27:54.790" end="00:27:59.910" style="s2">these considerations you guys are going</p>
+<p begin="00:27:55.960" end="00:27:59.910" style="s2">to pile<span style="s3"> on</span> us so<span style="s4"> we</span> don&#39;t sleep<span style="s3"> tonight</span></p>
+<p begin="00:27:59.940" end="00:28:06.550" style="s2">yes ma&#39;am mrs. otras we have some of</p>
+<p begin="00:28:04.120" end="00:28:10.900" style="s2">your stuff but</p>
+<p begin="00:28:06.550" end="00:28:14.590" style="s2">so the<span style="s3"> Thunder</span> driven as nonprofits tend</p>
+<p begin="00:28:10.900" end="00:28:18.460" style="s2">to be how did you carve out the space</p>
+<p begin="00:28:14.590" end="00:28:23.520" style="s2">and<span style="s4"> the</span><span style="s3"> reading</span> time resources to<span style="s3"> to</span></p>
+<p begin="00:28:18.460" end="00:28:26.950" style="s2">fund this effort many late nights I</p>
+<p begin="00:28:23.520" end="00:28:28.630" style="s2">don&#39;t know<span style="s3"> that</span><span style="s4"> we have just quite yet I</span></p>
+<p begin="00:28:26.950" end="00:28:30.250" style="s2">mean I<span style="s4"> think</span> we&#39;re in<span style="s4"> the</span> proposal<span style="s3"> stage</span></p>
+<p begin="00:28:28.630" end="00:28:33.390" style="s2">we&#39;re working<span style="s4"> with</span> the<span style="s3"> board</span> of</p>
+<p begin="00:28:30.250" end="00:28:35.950" style="s2">directors to<span style="s3"> see</span> if there&#39;s specific</p>
+<p begin="00:28:33.390" end="00:28:38.620" style="s2">solicitations that we can help fund this</p>
+<p begin="00:28:35.950" end="00:28:40.530" style="s2">project I<span style="s3"> think</span> we may have open</p>
+<p begin="00:28:38.620" end="00:28:42.820" style="s2">questions about how we do that<span style="s4"> long-term</span></p>
+<p begin="00:28:40.530" end="00:28:44.110" style="s2">that&#39;s that&#39;s the reality that we&#39;re</p>
+<p begin="00:28:42.820" end="00:28:49.150" style="s2">facing I don&#39;t know that<span style="s3"> we&#39;ve</span> answered</p>
+<p begin="00:28:44.110" end="00:28:51.190" style="s2">that question just quite yet<span style="s3"> okay</span> have</p>
+<p begin="00:28:49.150" end="00:28:53.080" style="s2">you had any options from from funders</p>
+<p begin="00:28:51.190" end="00:28:54.480" style="s2">where they can I want to know about the</p>
+<p begin="00:28:53.080" end="00:28:57.570" style="s2">effects of certain things</p>
+<p begin="00:28:54.480" end="00:29:01.140" style="s2">and<span style="s4"> he</span> did I kind<span style="s4"> of</span><span style="s3"> drive</span> this<span style="s3"> push at</span></p>
+<p begin="00:28:57.570" end="00:29:02.429" style="s2">all oh absolutely i mean funders more</p>
+<p begin="00:29:01.140" end="00:29:05.100" style="s2">and more are coming to<span style="s3"> the</span> realization</p>
+<p begin="00:29:02.429" end="00:29:07.440" style="s2">that they should<span style="s3"> be</span> asking about your</p>
+<p begin="00:29:05.100" end="00:29:10.200" style="s2">outcomes in your impact and not just how</p>
+<p begin="00:29:07.440" end="00:29:13.380" style="s2"><span style="s3">many</span> people you served so as a field<span style="s4"> i</span></p>
+<p begin="00:29:10.200" end="00:29:15.690" style="s2">think that human services are moving in</p>
+<p begin="00:29:13.380" end="00:29:19.440" style="s2">more of this direction and part of it is</p>
+<p begin="00:29:15.690" end="00:29:21.480" style="s2">funder driven and you know we&#39;re pretty</p>
+<p begin="00:29:19.440" end="00:29:25.020" style="s2">good<span style="s4"> i think at heartland of when we get</span></p>
+<p begin="00:29:21.480" end="00:29:26.190" style="s2">a new grant putting some processes in</p>
+<p begin="00:29:25.020" end="00:29:30.240" style="s2">place to collect the requisite</p>
+<p begin="00:29:26.190" end="00:29:31.500" style="s2">information but we<span style="s3"> are</span> not good at</p>
+<p begin="00:29:30.240" end="00:29:32.910" style="s2">thinking more broadly about<span style="s3"> what</span> we</p>
+<p begin="00:29:31.500" end="00:29:35.100" style="s2">should be collecting beyond what the</p>
+<p begin="00:29:32.910" end="00:29:37.200" style="s2">funder wants us to collect so we&#39;re</p>
+<p begin="00:29:35.100" end="00:29:38.760" style="s2"><span style="s3">meeting</span> those needs it&#39;s<span style="s3"> not</span> like they</p>
+<p begin="00:29:37.200" end="00:29:40.799" style="s2">say to us what were your outcomes more</p>
+<p begin="00:29:38.760" end="00:29:42.929" style="s2"><span style="s3">like</span> uh what&#39;s an outcome we don&#39;t<span style="s3"> you</span></p>
+<p begin="00:29:40.799" end="00:29:44.370" style="s2">know we&#39;re not like<span style="s4"> that</span> but<span style="s3"> we&#39;re not</span></p>
+<p begin="00:29:42.929" end="00:29:46.590" style="s2">doing<span style="s3"> it</span> in an organized<span style="s3"> and</span> planned</p>
+<p begin="00:29:44.370" end="00:29:50.429" style="s2">full and systematic way across<span style="s3"> the</span></p>
+<p begin="00:29:46.590" end="00:29:53.220" style="s2">organization<span style="s4"> i&#39;ll</span> go there<span style="s3"> and</span> then<span style="s4"> back</span></p>
+<p begin="00:29:50.429" end="00:29:54.660" style="s2">there today wait what are some systems</p>
+<p begin="00:29:53.220" end="00:29:57.390" style="s2">you guys have developed to kind of<span style="s4"> fall</span></p>
+<p begin="00:29:54.660" end="00:30:01.290" style="s2">off to<span style="s3"> people</span> that you observe like<span style="s3"> long</span></p>
+<p begin="00:29:57.390" end="00:30:05.220" style="s2"><span style="s3">term</span> that is definitely a<span style="s4"> case-by-case</span></p>
+<p begin="00:30:01.290" end="00:30:09.450" style="s2">basis so my organ or my department at</p>
+<p begin="00:30:05.220" end="00:30:11.370" style="s2"><span style="s3">heartland</span> we do evaluation and you know</p>
+<p begin="00:30:09.450" end="00:30:14.040" style="s2"><span style="s3">research</span> studies outside of<span style="s3"> a</span> kind<span style="s3"> of</span></p>
+<p begin="00:30:11.370" end="00:30:15.270" style="s2">this whole<span style="s4"> dana</span> mess so let&#39;s<span style="s3"> say</span> one of</p>
+<p begin="00:30:14.040" end="00:30:16.500" style="s2">Heartland programs comes to us and says</p>
+<p begin="00:30:15.270" end="00:30:18.090" style="s2">hey can you help<span style="s3"> us</span> out we have this</p>
+<p begin="00:30:16.500" end="00:30:20.070" style="s2">grant we need to do an evaluation of</p>
+<p begin="00:30:18.090" end="00:30:22.590" style="s2"><span style="s3">this</span><span style="s4"> program</span> and we need<span style="s3"> to</span> follow<span style="s3"> up</span></p>
+<p begin="00:30:20.070" end="00:30:25.290" style="s2"><span style="s4">with</span> participants we kind of puts them</p>
+<p begin="00:30:22.590" end="00:30:26.790" style="s2">processes in place to do that but by and</p>
+<p begin="00:30:25.290" end="00:30:30.090" style="s2">large we&#39;re not following up with</p>
+<p begin="00:30:26.790" end="00:30:31.950" style="s2">participants after they leave our first</p>
+<p begin="00:30:30.090" end="00:30:34.049" style="s2">service as part of its that often</p>
+<p begin="00:30:31.950" end="00:30:35.910" style="s2">there&#39;s no distinct<span style="s4"> end point so people</span></p>
+<p begin="00:30:34.049" end="00:30:37.290" style="s2"><span style="s3">even</span> just don&#39;t come back and so it&#39;s</p>
+<p begin="00:30:35.910" end="00:30:39.090" style="s2">not like there<span style="s4"> was</span> this really clear cut</p>
+<p begin="00:30:37.290" end="00:30:41.309" style="s2">moment of termination of services so</p>
+<p begin="00:30:39.090" end="00:30:42.720" style="s2">that makes it really hard sometimes to</p>
+<p begin="00:30:41.309" end="00:30:45.000" style="s2">understand when you should when you</p>
+<p begin="00:30:42.720" end="00:30:46.650" style="s2">consider them gone and another is you</p>
+<p begin="00:30:45.000" end="00:30:49.470" style="s2">know people come<span style="s3"> to</span> us at their most</p>
+<p begin="00:30:46.650" end="00:30:51.510" style="s2">vulnerable moments and sometimes they</p>
+<p begin="00:30:49.470" end="00:30:52.830" style="s2">want to be done with us not because we</p>
+<p begin="00:30:51.510" end="00:30:55.260" style="s2">were awful we might have been amazing</p>
+<p begin="00:30:52.830" end="00:30:57.000" style="s2"><span style="s3">but</span> do<span style="s3"> you</span> really want<span style="s3"> to</span> be reminded of</p>
+<p begin="00:30:55.260" end="00:30:59.660" style="s2">that time when<span style="s4"> you</span> were<span style="s3"> really</span> down<span style="s4"> on</span></p>
+<p begin="00:30:57.000" end="00:31:01.890" style="s2">your luck and couldn&#39;t feed your family</p>
+<p begin="00:30:59.660" end="00:31:03.659" style="s2"><span style="s3">probably</span> not and so there&#39;s a dignity</p>
+<p begin="00:31:01.890" end="00:31:04.770" style="s2">aspect to having people call you every</p>
+<p begin="00:31:03.659" end="00:31:05.880" style="s2">six months<span style="s4"> really</span><span style="s3"> okay</span> tell me how</p>
+<p begin="00:31:04.770" end="00:31:08.159" style="s2"><span style="s3">you&#39;re</span> doing it would like to know<span style="s4"> if</span> I</p>
+<p begin="00:31:05.880" end="00:31:08.610" style="s2">helped you so there&#39;s a whole lot<span style="s4"> of</span></p>
+<p begin="00:31:08.159" end="00:31:10.020" style="s2">play there</p>
+<p begin="00:31:08.610" end="00:31:12.480" style="s2">but it&#39;s not definitely not happening</p>
+<p begin="00:31:10.020" end="00:31:15.350" style="s2">much for many reasons and<span style="s3"> then</span> I</p>
+<p begin="00:31:12.480" end="00:31:15.350" style="s2">promised you in the<span style="s3"> pack</span></p>
+<p begin="00:31:16.750" end="00:31:30.820" style="s2">1200 that right 1216 hundred workforce</p>
+<p begin="00:31:22.430" end="00:31:30.820" style="s2">probably something<span style="s4"> like</span> that two areas</p>
+<p begin="00:31:31.300" end="00:31:38.140" style="s2">research on</p>
+<p begin="00:31:33.590" end="00:31:41.480" style="s2"><span style="s3">excited to you</span> I&#39;ve on my team I have 13</p>
+<p begin="00:31:38.140" end="00:31:46.490" style="s2">and that&#39;s to manage everything I&#39;ll</p>
+<p begin="00:31:41.480" end="00:31:57.940" style="s2">infrastructure right not this yeah all</p>
+<p begin="00:31:46.490" end="00:32:01.240" style="s2">right who wants it nation they&#39;re<span style="s3"> a</span></p>
+<p begin="00:31:57.940" end="00:32:01.240" style="s2">similar structure</p>
+<p begin="00:32:06.350" end="00:32:13.630" style="s2">and they could be struggling with<span style="s4"> the</span></p>
+<p begin="00:32:09.919" end="00:32:13.630" style="s2">same<span style="s4"> problem</span><span style="s3"> and they might be</span></p>
+<p begin="00:32:14.119" end="00:32:17.609" style="s2">that&#39;s great thank you you know<span style="s3"> the</span></p>
+<p begin="00:32:16.139" end="00:32:19.229" style="s2">other<span style="s3"> thing</span> that when you were<span style="s3"> saying</span></p>
+<p begin="00:32:17.609" end="00:32:21.089" style="s2">that that made me think of was to<span style="s3"> some</span></p>
+<p begin="00:32:19.229" end="00:32:23.759" style="s2"><span style="s4">degree</span> heartland alliance is a lot like</p>
+<p begin="00:32:21.089" end="00:32:25.319" style="s2">a university this big kind<span style="s3"> of</span></p>
+<p begin="00:32:23.759" end="00:32:26.819" style="s2">overarching entity with these individual</p>
+<p begin="00:32:25.319" end="00:32:28.679" style="s2">colleges and it and so there might be</p>
+<p begin="00:32:26.819" end="00:32:32.329" style="s2">some lessons learned to from some</p>
+<p begin="00:32:28.679" end="00:32:32.329" style="s2">universities thank you</p>
+</div>
+</body>
+</tt>

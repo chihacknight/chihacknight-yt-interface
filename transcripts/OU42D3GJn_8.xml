@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:09.389" style="s2">I already introduced myself before but</p>
+<p begin="00:00:07.140" end="00:00:10.380" style="s2">again<span style="s3"> I&#39;m</span> like<span style="s4"> Kevin</span><span style="s3"> RG I&#39;m the chairman</span></p>
+<p begin="00:00:09.389" end="00:00:12.059" style="s2">of the Commission or the cook county</p>
+<p begin="00:00:10.380" end="00:00:14.190" style="s2">board of review this is Jim Thompson</p>
+<p begin="00:00:12.059" end="00:00:15.900" style="s2">who&#39;s with me<span style="s4"> Deputy Commissioner at the</span></p>
+<p begin="00:00:14.190" end="00:00:17.190" style="s2">Board of Review<span style="s4"> role</span> and Laura who&#39;s a</p>
+<p begin="00:00:15.900" end="00:00:18.750" style="s2">normal hearing officers and analysts</p>
+<p begin="00:00:17.190" end="00:00:20.060" style="s2">want to join<span style="s3"> us</span> here tonight he&#39;s waving</p>
+<p begin="00:00:18.750" end="00:00:22.830" style="s2">back there for<span style="s3"> those</span> of you on camera</p>
+<p begin="00:00:20.060" end="00:00:24.720" style="s2">jim was the project manager for the<span style="s4"> Deaf</span></p>
+<p begin="00:00:22.830" end="00:00:26.580" style="s2">system the digital appeals processing</p>
+<p begin="00:00:24.720" end="00:00:28.500" style="s2">system that I&#39;m very<span style="s3"> proud</span> of that we</p>
+<p begin="00:00:26.580" end="00:00:30.029" style="s2">built in 15 months at<span style="s4"> the</span> board with the</p>
+<p begin="00:00:28.500" end="00:00:31.980" style="s2"><span style="s4">bureau</span> of technologies help<span style="s3"> from</span> Cook</p>
+<p begin="00:00:30.029" end="00:00:33.480" style="s2">County my understanding it&#39;s the largest</p>
+<p begin="00:00:31.980" end="00:00:36.059" style="s2">tech project that&#39;s happened in the past</p>
+<p begin="00:00:33.480" end="00:00:38.820" style="s2">five years in the county really what we</p>
+<p begin="00:00:36.059" end="00:00:42.090" style="s2">talked about it we&#39;ll talk<span style="s4"> about</span><span style="s3"> what</span> it</p>
+<p begin="00:00:38.820" end="00:00:46.410" style="s2">does and what we wanted it to do Jim</p>
+<p begin="00:00:42.090" end="00:00:48.570" style="s2">will will speak more to the<span style="s4"> software in</span></p>
+<p begin="00:00:46.410" end="00:00:50.460" style="s2">the program development of<span style="s3"> it</span> I&#39;m going</p>
+<p begin="00:00:48.570" end="00:00:51.690" style="s2"><span style="s3">to talk really as kind of the</span> client<span style="s3"> the</span></p>
+<p begin="00:00:50.460" end="00:00:53.579" style="s2">commissioner<span style="s4"> and</span> the<span style="s3"> chairman as to what</span></p>
+<p begin="00:00:51.690" end="00:00:56.129" style="s2">we wanted to do<span style="s3"> we really started with a</span></p>
+<p begin="00:00:53.579" end="00:00:58.949" style="s2">purpose of core values<span style="s4"> of</span> transparency</p>
+<p begin="00:00:56.129" end="00:01:00.210" style="s2">and openness we&#39;ll talk<span style="s3"> in</span> a<span style="s4"> secondary</span></p>
+<p begin="00:00:58.949" end="00:01:02.160" style="s2"><span style="s3">ball</span> at the board of review does what we</p>
+<p begin="00:01:00.210" end="00:01:04.229" style="s2">deal with property taxes<span style="s4"> and</span><span style="s3"> I</span> would say</p>
+<p begin="00:01:02.160" end="00:01:05.640" style="s2">for most people they<span style="s4"> think</span> it&#39;s set by a</p>
+<p begin="00:01:04.229" end="00:01:07.189" style="s2">magic 8-ball<span style="s3"> that</span> if you shake really</p>
+<p begin="00:01:05.640" end="00:01:10.229" style="s2">hard eventually your number comes up</p>
+<p begin="00:01:07.189" end="00:01:12.299" style="s2">that&#39;s<span style="s3"> not how it works at all it&#39;s an</span></p>
+<p begin="00:01:10.229" end="00:01:14.460" style="s2">evidence based system based on<span style="s3"> the</span> state</p>
+<p begin="00:01:12.299" end="00:01:17.009" style="s2"><span style="s4">statute</span> but<span style="s3"> the</span> core value was building</p>
+<p begin="00:01:14.460" end="00:01:18.570" style="s2">a rebuilding public trust and we knew</p>
+<p begin="00:01:17.009" end="00:01:20.310" style="s2">that if we move to an<span style="s4"> online</span> portal</p>
+<p begin="00:01:18.570" end="00:01:22.200" style="s2">system where the public had filed their</p>
+<p begin="00:01:20.310" end="00:01:23.790" style="s2">complaints online and on the<span style="s3"> back</span> office</p>
+<p begin="00:01:22.200" end="00:01:25.740" style="s2">the project management<span style="s4"> would</span> work with</p>
+<p begin="00:01:23.790" end="00:01:27.990" style="s2"><span style="s4">the</span> analysts passing the file between</p>
+<p begin="00:01:25.740" end="00:01:30.360" style="s2">themselves and having their evidence and</p>
+<p begin="00:01:27.990" end="00:01:31.920" style="s2">their conclusions on a<span style="s3"> system</span> where the</p>
+<p begin="00:01:30.360" end="00:01:33.840" style="s2">homeowner that or the business owner<span style="s3"> the</span></p>
+<p begin="00:01:31.920" end="00:01:35.909" style="s2">taxpayer could look at it<span style="s3"> later it would</span></p>
+<p begin="00:01:33.840" end="00:01:38.369" style="s2">it would push what we&#39;re doing out<span style="s4"> of</span></p>
+<p begin="00:01:35.909" end="00:01:39.750" style="s2"><span style="s3">the</span> shadows<span style="s4"> and</span> into the light<span style="s3"> so</span> just</p>
+<p begin="00:01:38.369" end="00:01:41.790" style="s2">as a background of the board as<span style="s3"> I</span></p>
+<p begin="00:01:39.750" end="00:01:44.820" style="s2">mentioned there&#39;s three commissioners at</p>
+<p begin="00:01:41.790" end="00:01:46.890" style="s2">the board<span style="s3"> of</span> review we have 126</p>
+<p begin="00:01:44.820" end="00:01:49.470" style="s2">employees we<span style="s4"> have</span> approximately nine</p>
+<p begin="00:01:46.890" end="00:01:52.280" style="s2"><span style="s3">million</span> dollar budget the<span style="s3"> volume</span> that</p>
+<p begin="00:01:49.470" end="00:01:54.899" style="s2">we&#39;ve seen at<span style="s4"> the</span> board is astronomical</p>
+<p begin="00:01:52.280" end="00:01:57.479" style="s2">we have three commissioners basically</p>
+<p begin="00:01:54.899" end="00:01:58.680" style="s2">think<span style="s3"> of</span> us as a three-judge panel the</p>
+<p begin="00:01:57.479" end="00:02:00.630" style="s2">process really starts with the</p>
+<p begin="00:01:58.680" end="00:02:02.280" style="s2">assessor&#39;s office the<span style="s4"> assessor</span> puts a</p>
+<p begin="00:02:00.630" end="00:02:03.990" style="s2">value on a piece of property home a</p>
+<p begin="00:02:02.280" end="00:02:06.060" style="s2">business this building that we&#39;re in</p>
+<p begin="00:02:03.990" end="00:02:07.530" style="s2">that property owner feels it&#39;s over</p>
+<p begin="00:02:06.060" end="00:02:09.539" style="s2">assess the<span style="s4"> assessor</span> didn&#39;t<span style="s3"> get</span> it right</p>
+<p begin="00:02:07.530" end="00:02:11.160" style="s2">they file at the board of<span style="s3"> review</span> and</p>
+<p begin="00:02:09.539" end="00:02:13.720" style="s2">it&#39;s a three-judge panel myself and two</p>
+<p begin="00:02:11.160" end="00:02:16.060" style="s2">colleagues of mine every file is review</p>
+<p begin="00:02:13.720" end="00:02:18.250" style="s2">by all three so we have what we call the</p>
+<p begin="00:02:16.060" end="00:02:20.290" style="s2">first a second and a third cut so it&#39;ll</p>
+<p begin="00:02:18.250" end="00:02:22.330" style="s2">go<span style="s4"> to</span><span style="s3"> the</span> first Commissioner staff that</p>
+<p begin="00:02:20.290" end="00:02:23.530" style="s2">hearing officer and analyst will look at</p>
+<p begin="00:02:22.330" end="00:02:25.690" style="s2">the evidence that&#39;s been submitted</p>
+<p begin="00:02:23.530" end="00:02:27.670" style="s2">perhaps conduct a hearing if the</p>
+<p begin="00:02:25.690" end="00:02:29.770" style="s2">appellant ask for a hearing review<span style="s3"> the</span></p>
+<p begin="00:02:27.670" end="00:02:31.840" style="s2">evidence make a conclusion show their</p>
+<p begin="00:02:29.770" end="00:02:33.280" style="s2">evidence or the word of<span style="s3"> their</span> work of</p>
+<p begin="00:02:31.840" end="00:02:35.110" style="s2">how they came to their conclusion in the</p>
+<p begin="00:02:33.280" end="00:02:36.580" style="s2">file and then it&#39;ll<span style="s3"> go</span><span style="s4"> to</span> the<span style="s3"> second</span></p>
+<p begin="00:02:35.110" end="00:02:38.050" style="s2">commissioners staff the third</p>
+<p begin="00:02:36.580" end="00:02:39.520" style="s2">Commissioner staff and then finally if</p>
+<p begin="00:02:38.050" end="00:02:42.070" style="s2">two<span style="s4"> of</span> the three commissioners agree</p>
+<p begin="00:02:39.520" end="00:02:43.660" style="s2">that that value needs<span style="s3"> to</span> drop it gets</p>
+<p begin="00:02:42.070" end="00:02:46.090" style="s2">reduced we&#39;re completely separate from</p>
+<p begin="00:02:43.660" end="00:02:47.500" style="s2">the assessor&#39;s office we really I<span style="s3"> used</span></p>
+<p begin="00:02:46.090" end="00:02:49.660" style="s2">to be a federal prosecutor before I had</p>
+<p begin="00:02:47.500" end="00:02:51.370" style="s2">this job so I<span style="s3"> always</span> explain where the</p>
+<p begin="00:02:49.660" end="00:02:53.950" style="s2">court of appeals were not the trial</p>
+<p begin="00:02:51.370" end="00:02:55.180" style="s2">court so that&#39;s really<span style="s3"> our</span></p>
+<p begin="00:02:53.950" end="00:02:57.040" style="s2">responsibility to hear<span style="s3"> rule</span> on a</p>
+<p begin="00:02:55.180" end="00:02:59.950" style="s2">property owners<span style="s4"> assessment appeals we</span></p>
+<p begin="00:02:57.040" end="00:03:02.830" style="s2">have an extraordinary volume of filing</p>
+<p begin="00:02:59.950" end="00:03:04.390" style="s2">so as we&#39;ll talk about in a second what</p>
+<p begin="00:03:02.830" end="00:03:06.760" style="s2">started<span style="s3"> out</span> as a desire to make the</p>
+<p begin="00:03:04.390" end="00:03:08.220" style="s2">system better we realized was a digital</p>
+<p begin="00:03:06.760" end="00:03:12.040" style="s2">system that we needed out of necessity</p>
+<p begin="00:03:08.220" end="00:03:13.840" style="s2">we heard 476,000<span style="s4"> appeals</span> last year and</p>
+<p begin="00:03:12.040" end="00:03:16.240" style="s2">as<span style="s4"> I mentioned that&#39;s 1.4 million</span></p>
+<p begin="00:03:13.840" end="00:03:18.250" style="s2">reviews because by statute each of the</p>
+<p begin="00:03:16.240" end="00:03:22.450" style="s2">commissioners has to review it so it</p>
+<p begin="00:03:18.250" end="00:03:24.850" style="s2">gets reviewed 3 times 10 15 years<span style="s3"> ago in</span></p>
+<p begin="00:03:22.450" end="00:03:27.450" style="s2">approximately two thousand two there</p>
+<p begin="00:03:24.850" end="00:03:31.090" style="s2">were 42 thousand<span style="s4"> appeals</span> last year was</p>
+<p begin="00:03:27.450" end="00:03:32.560" style="s2">476,000 we had in 2002 long before<span style="s3"> I</span> got</p>
+<p begin="00:03:31.090" end="00:03:34.450" style="s2">there they had approximately<span style="s3"> hundred</span></p>
+<p begin="00:03:32.560" end="00:03:36.459" style="s2">twenty four employees about<span style="s3"> a</span> nine</p>
+<p begin="00:03:34.450" end="00:03:38.050" style="s2">million dollar budget now the budgets</p>
+<p begin="00:03:36.459" end="00:03:40.810" style="s2">the same the head counts the same but</p>
+<p begin="00:03:38.050" end="00:03:41.830" style="s2">the volume has gone up tenfold we knew</p>
+<p begin="00:03:40.810" end="00:03:43.630" style="s2"><span style="s4">we</span> had<span style="s3"> to</span> do this for<span style="s3"> the</span> right reasons</p>
+<p begin="00:03:41.830" end="00:03:45.760" style="s2">of transparency and opening up</p>
+<p begin="00:03:43.630" end="00:03:47.650" style="s2">government we also<span style="s3"> need</span> to needed that</p>
+<p begin="00:03:45.760" end="00:03:50.350" style="s2">we needed to<span style="s3"> work</span> a tech system so that</p>
+<p begin="00:03:47.650" end="00:03:52.750" style="s2">people<span style="s3"> who</span> push carts and worked with</p>
+<p begin="00:03:50.350" end="00:03:56.730" style="s2">paper files got eliminated and we</p>
+<p begin="00:03:52.750" end="00:03:56.730" style="s2"><span style="s3">converted</span> those jobs into analyst jobs</p>
+<p begin="00:03:56.820" end="00:04:02.560" style="s2">so one of the things Jim said we should</p>
+<p begin="00:04:00.340" end="00:04:06.370" style="s2">bring is a wonderful physical prop</p>
+<p begin="00:04:02.560" end="00:04:09.010" style="s2">because who doesn&#39;t love props so this</p>
+<p begin="00:04:06.370" end="00:04:11.380" style="s2">is a file<span style="s4"> that</span> we used to have see it&#39;s</p>
+<p begin="00:04:09.010" end="00:04:12.450" style="s2"><span style="s3">paper</span> oh yeah if you<span style="s4"> like</span> we got a whole</p>
+<p begin="00:04:11.380" end="00:04:16.470" style="s2">warehouse full of them they&#39;re awesome</p>
+<p begin="00:04:12.450" end="00:04:19.060" style="s2">it starts so you would file a complaint</p>
+<p begin="00:04:16.470" end="00:04:20.709" style="s2">if I can even<span style="s4"> get</span> the complaint it&#39;s in</p>
+<p begin="00:04:19.060" end="00:04:24.880" style="s2">here<span style="s3"> you&#39;d</span> file a paper complaint which</p>
+<p begin="00:04:20.709" end="00:04:27.039" style="s2">by the way was in triplicate and you</p>
+<p begin="00:04:24.880" end="00:04:27.520" style="s2">file a complaint it would come<span style="s3"> in</span> we&#39;d</p>
+<p begin="00:04:27.039" end="00:04:29.050" style="s2">have<span style="s3"> a</span> date</p>
+<p begin="00:04:27.520" end="00:04:30.400" style="s2">entry person who would type your</p>
+<p begin="00:04:29.050" end="00:04:32.590" style="s2">information in the system another</p>
+<p begin="00:04:30.400" end="00:04:34.629" style="s2">person&#39;s job was to print labels see</p>
+<p begin="00:04:32.590" end="00:04:36.490" style="s2">labels and then it would<span style="s4"> go</span> on to a file</p>
+<p begin="00:04:34.629" end="00:04:37.900" style="s2">jacket and then all<span style="s4"> the</span> evidence<span style="s3"> that</span></p>
+<p begin="00:04:36.490" end="00:04:40.360" style="s2">would get submitted by<span style="s3"> the</span> property</p>
+<p begin="00:04:37.900" end="00:04:42.879" style="s2">owner would be copied and put in here or</p>
+<p begin="00:04:40.360" end="00:04:45.039" style="s2">all the evidence<span style="s4"> that</span> the hearing</p>
+<p begin="00:04:42.879" end="00:04:49.620" style="s2">officer and the analyst puts together so</p>
+<p begin="00:04:45.039" end="00:04:51.340" style="s2">imagine that times 476,000 times<span style="s4"> 5</span> and</p>
+<p begin="00:04:49.620" end="00:04:53.349" style="s2">physically we were running out<span style="s3"> of</span> space</p>
+<p begin="00:04:51.340" end="00:04:56.650" style="s2">in<span style="s3"> the</span> building plus we&#39;re having to</p>
+<p begin="00:04:53.349" end="00:04:58.780" style="s2">have more warehouse space and we</p>
+<p begin="00:04:56.650" end="00:05:01.330" style="s2"><span style="s4">realized</span> like I<span style="s3"> said</span> we needed<span style="s3"> to</span></p>
+<p begin="00:04:58.780" end="00:05:04.479" style="s2">eliminate the paper and as we see here</p>
+<p begin="00:05:01.330" end="00:05:05.949" style="s2">this<span style="s4"> is</span> the appeal form i should<span style="s3"> say</span></p>
+<p begin="00:05:04.479" end="00:05:07.569" style="s2">right now<span style="s3"> i&#39;m</span><span style="s4"> very</span> proud of our<span style="s3"> gaap</span></p>
+<p begin="00:05:05.949" end="00:05:09.400" style="s2">system or digital peels processing</p>
+<p begin="00:05:07.569" end="00:05:10.780" style="s2">system but one<span style="s3"> of</span> the<span style="s4"> things</span> we realize</p>
+<p begin="00:05:09.400" end="00:05:12.940" style="s2">when we&#39;re building<span style="s4"> it</span> early on<span style="s3"> is</span> not</p>
+<p begin="00:05:10.780" end="00:05:15.490" style="s2">everybody in Cook County who wants to</p>
+<p begin="00:05:12.940" end="00:05:17.590" style="s2">use our services has access to or as</p>
+<p begin="00:05:15.490" end="00:05:20.349" style="s2">comfortable doing it online they still</p>
+<p begin="00:05:17.590" end="00:05:21.400" style="s2">some folks seniors people<span style="s3"> for</span> whom</p>
+<p begin="00:05:20.349" end="00:05:22.810" style="s2">English is in their first<span style="s3"> language</span></p>
+<p begin="00:05:21.400" end="00:05:24.669" style="s2">people<span style="s3"> who</span> don&#39;t read have ready access</p>
+<p begin="00:05:22.810" end="00:05:26.560" style="s2">to technology they&#39;re going<span style="s3"> to want a</span></p>
+<p begin="00:05:24.669" end="00:05:28.599" style="s2">paper complaint form so<span style="s3"> we</span> still have</p>
+<p begin="00:05:26.560" end="00:05:31.210" style="s2">the paper complaint form we just have</p>
+<p begin="00:05:28.599" end="00:05:32.919" style="s2">far fewer of it and we&#39;ve been able<span style="s3"> to</span></p>
+<p begin="00:05:31.210" end="00:05:35.409" style="s2">convert those people whose job it is to</p>
+<p begin="00:05:32.919" end="00:05:37.360" style="s2">do the data entry those jobs are now</p>
+<p begin="00:05:35.409" end="00:05:40.090" style="s2">analyst jobs so we&#39;ll always have this</p>
+<p begin="00:05:37.360" end="00:05:43.180" style="s2">just it we have to serve everybody but</p>
+<p begin="00:05:40.090" end="00:05:45.789" style="s2"><span style="s3">this</span> is the complaint form the decision</p>
+<p begin="00:05:43.180" end="00:05:50.440" style="s2">results as<span style="s4"> you</span> can see when they came</p>
+<p begin="00:05:45.789" end="00:05:51.639" style="s2"><span style="s4">out</span> this is the<span style="s4"> inside</span> of the jacket as</p>
+<p begin="00:05:50.440" end="00:05:55.750" style="s2">we would call it the inside of the</p>
+<p begin="00:05:51.639" end="00:06:02.139" style="s2">folder right here a little folder right</p>
+<p begin="00:05:55.750" end="00:06:03.759" style="s2">there so you have three analysts ok the</p>
+<p begin="00:06:02.139" end="00:06:05.860" style="s2">first analysts would look at the file</p>
+<p begin="00:06:03.759" end="00:06:07.659" style="s2">would<span style="s3"> do</span> all the analysis would hand</p>
+<p begin="00:06:05.860" end="00:06:09.909" style="s2">write his or her notes<span style="s3"> were</span> hand write</p>
+<p begin="00:06:07.659" end="00:06:11.830" style="s2">his or her calculation hand write his or</p>
+<p begin="00:06:09.909" end="00:06:14.020" style="s2">her basis for a<span style="s3"> conclusion</span> and it</p>
+<p begin="00:06:11.830" end="00:06:15.250" style="s2">literally goes onto a metal cart and it</p>
+<p begin="00:06:14.020" end="00:06:17.710" style="s2">goes down the hall to the next</p>
+<p begin="00:06:15.250" end="00:06:20.020" style="s2"><span style="s3">commissioner&#39;s</span> office and that staff</p>
+<p begin="00:06:17.710" end="00:06:21.969" style="s2">takes it off the cart works up the math</p>
+<p begin="00:06:20.020" end="00:06:24.460" style="s2">looks at the evidence puts their numbers</p>
+<p begin="00:06:21.969" end="00:06:26.770" style="s2">in and it goes on the<span style="s4"> cart</span> back down the</p>
+<p begin="00:06:24.460" end="00:06:28.930" style="s2">hall so you know we<span style="s4"> talk</span><span style="s3"> about</span></p>
+<p begin="00:06:26.770" end="00:06:31.120" style="s2">transparency in government and having</p>
+<p begin="00:06:28.930" end="00:06:34.990" style="s2">access to open data it<span style="s3"> has</span> to be<span style="s3"> legible</span></p>
+<p begin="00:06:31.120" end="00:06:36.550" style="s2">first I mean<span style="s4"> try-try</span> filing a FOIA are</p>
+<p begin="00:06:34.990" end="00:06:37.899" style="s2">asking<span style="s3"> to</span> see the<span style="s4"> evidence</span> on<span style="s3"> your file</span></p>
+<p begin="00:06:36.550" end="00:06:39.529" style="s2">and trying to understand what any of</p>
+<p begin="00:06:37.899" end="00:06:41.449" style="s2"><span style="s3">these</span> scrawls mean</p>
+<p begin="00:06:39.529" end="00:06:42.799" style="s2">and when this area up here is empty</p>
+<p begin="00:06:41.449" end="00:06:46.219" style="s2">because they&#39;ve only done their work</p>
+<p begin="00:06:42.799" end="00:06:47.629" style="s2">here<span style="s3"> and</span> the rest<span style="s3"> of</span> papers in there we</p>
+<p begin="00:06:46.219" end="00:06:50.299" style="s2">knew a digital system would just</p>
+<p begin="00:06:47.629" end="00:06:52.989" style="s2">obviously start with eliminating trying</p>
+<p begin="00:06:50.299" end="00:06:55.699" style="s2">to read handwriting and what have<span style="s4"> you</span></p>
+<p begin="00:06:52.989" end="00:06:57.109" style="s2">the files from the annals always have</p>
+<p begin="00:06:55.699" end="00:06:59.209" style="s2">more data than this but this<span style="s4"> is</span> really</p>
+<p begin="00:06:57.109" end="00:07:02.359" style="s2">their number crunching in there if</p>
+<p begin="00:06:59.209" end="00:07:03.949" style="s2">you&#39;re an appraiser or an attorney or</p>
+<p begin="00:07:02.359" end="00:07:05.599" style="s2">real<span style="s4"> estate professional in that</span><span style="s3"> field</span></p>
+<p begin="00:07:03.949" end="00:07:08.329" style="s2">you<span style="s4"> might</span> understand what it means but</p>
+<p begin="00:07:05.599" end="00:07:10.039" style="s2">if you&#39;re a common citizen you don&#39;t so</p>
+<p begin="00:07:08.329" end="00:07:12.049" style="s2">again by putting<span style="s3"> it</span> online and having</p>
+<p begin="00:07:10.039" end="00:07:14.059" style="s2">some common legends and in ways of</p>
+<p begin="00:07:12.049" end="00:07:17.929" style="s2">understanding what those mean we&#39;re able</p>
+<p begin="00:07:14.059" end="00:07:19.489" style="s2">to kind of move forward so one of<span style="s3"> the</span></p>
+<p begin="00:07:17.929" end="00:07:20.929" style="s2">benefits that we had to do with our</p>
+<p begin="00:07:19.489" end="00:07:23.959" style="s2">vendor we use we&#39;re using<span style="s3"> the</span> on base</p>
+<p begin="00:07:20.929" end="00:07:26.059" style="s2">platform data bank is is the vendor that</p>
+<p begin="00:07:23.959" end="00:07:28.099" style="s2">we did a procurement with with the<span style="s3"> Cook</span></p>
+<p begin="00:07:26.059" end="00:07:29.989" style="s2">County Board of Technology<span style="s3"> bouncer</span></p>
+<p begin="00:07:28.099" end="00:07:33.529" style="s2">Bureau of<span style="s3"> Technology</span> and we went with</p>
+<p begin="00:07:29.989" end="00:07:35.089" style="s2"><span style="s3">data bank the on base platform had a lot</span></p>
+<p begin="00:07:33.529" end="00:07:36.589" style="s2">of we wanted right out of the box but we</p>
+<p begin="00:07:35.089" end="00:07:38.989" style="s2">knew we needed to rework it to make<span style="s3"> it</span></p>
+<p begin="00:07:36.589" end="00:07:40.459" style="s2">work<span style="s4"> for</span> the board the<span style="s4"> board</span> over<span style="s3"> the</span></p>
+<p begin="00:07:38.989" end="00:07:42.619" style="s2">cook county board of review is<span style="s4"> the</span></p>
+<p begin="00:07:40.459" end="00:07:44.089" style="s2">largest property tax appeal form in the</p>
+<p begin="00:07:42.619" end="00:07:45.919" style="s2">world<span style="s3"> we&#39;re</span> the<span style="s3"> largest</span> one in this</p>
+<p begin="00:07:44.089" end="00:07:47.149" style="s2">country<span style="s4"> and</span> certainly the largest one in</p>
+<p begin="00:07:45.919" end="00:07:50.659" style="s2">the world bigger the New York Los</p>
+<p begin="00:07:47.149" end="00:07:52.879" style="s2">Angeles Atlanta we just hear more volume</p>
+<p begin="00:07:50.659" end="00:07:54.889" style="s2">of Appeals part<span style="s3"> of</span> that&#39;s we&#39;ve got</p>
+<p begin="00:07:52.879" end="00:07:57.229" style="s2">cooked we&#39;ve got<span style="s3"> Chicago</span><span style="s4"> and</span> the county</p>
+<p begin="00:07:54.889" end="00:07:59.479" style="s2">at large but the process<span style="s4"> of</span> going</p>
+<p begin="00:07:57.229" end="00:08:06.049" style="s2">through building gaps was great because</p>
+<p begin="00:07:59.479" end="00:08:08.269" style="s2">we<span style="s4"> had to rethink our processes and and</span></p>
+<p begin="00:08:06.049" end="00:08:09.919" style="s2">the software drove us to that but<span style="s3"> also</span></p>
+<p begin="00:08:08.269" end="00:08:12.529" style="s2">the folks who are helping us rebuild it</p>
+<p begin="00:08:09.919" end="00:08:15.109" style="s2">a databank really made us think how file</p>
+<p begin="00:08:12.529" end="00:08:16.489" style="s2">gets touched how file gets worked again</p>
+<p begin="00:08:15.109" end="00:08:17.929" style="s2">with three offices there&#39;s going to be</p>
+<p begin="00:08:16.489" end="00:08:19.549" style="s2">some duplication that&#39;s in the state</p>
+<p begin="00:08:17.929" end="00:08:21.979" style="s2">statute<span style="s4"> we</span> have to do that<span style="s4"> to</span> do the</p>
+<p begin="00:08:19.549" end="00:08:23.689" style="s2">file<span style="s4"> the</span> right way but how many<span style="s4"> times</span> is</p>
+<p begin="00:08:21.979" end="00:08:25.969" style="s2"><span style="s3">an</span> out being<span style="s3"> touched</span> by an analyst<span style="s4"> the</span></p>
+<p begin="00:08:23.689" end="00:08:27.739" style="s2">person who&#39;s really doing the work how</p>
+<p begin="00:08:25.969" end="00:08:29.659" style="s2">many people&#39;s job it is is it to<span style="s3"> take</span> a</p>
+<p begin="00:08:27.739" end="00:08:31.879" style="s2">staple out to take a rubber band at</p>
+<p begin="00:08:29.659" end="00:08:34.399" style="s2">stake a binder clip out to put a third</p>
+<p begin="00:08:31.879" end="00:08:37.879" style="s2">label it as we realize at one point so</p>
+<p begin="00:08:34.399" end="00:08:39.829" style="s2">sure yeah so the old board of review we</p>
+<p begin="00:08:37.879" end="00:08:40.879" style="s2">have this is one of Jim&#39;s favorite I</p>
+<p begin="00:08:39.829" end="00:08:43.789" style="s2">think it&#39;s<span style="s4"> just</span> because there&#39;s so many</p>
+<p begin="00:08:40.879" end="00:08:46.220" style="s2">weird posters in our storage room but</p>
+<p begin="00:08:43.789" end="00:08:48.259" style="s2">stacks and stacks of files a typical</p>
+<p begin="00:08:46.220" end="00:08:52.040" style="s2"><span style="s3">analyst</span> office over here carts</p>
+<p begin="00:08:48.259" end="00:08:53.070" style="s2">everywhere files everywhere this is the</p>
+<p begin="00:08:52.040" end="00:08:56.130" style="s2">elevator<span style="s4"> bank</span></p>
+<p begin="00:08:53.070" end="00:08:58.350" style="s2">outside the board so i won&#39;t bore you</p>
+<p begin="00:08:56.130" end="00:09:00.420" style="s2">with it<span style="s3"> i</span> will aboard for like 30</p>
+<p begin="00:08:58.350" end="00:09:02.640" style="s2">seconds so just because it&#39;s kind<span style="s3"> of</span></p>
+<p begin="00:09:00.420" end="00:09:05.250" style="s2">interesting if you&#39;re walking about this</p>
+<p begin="00:09:02.640" end="00:09:07.710" style="s2">stuff so because cook county is so large</p>
+<p begin="00:09:05.250" end="00:09:10.050" style="s2">we do a triennial assessment so a piece</p>
+<p begin="00:09:07.710" end="00:09:12.270" style="s2">of property<span style="s3"> is</span> reassessed once every</p>
+<p begin="00:09:10.050" end="00:09:14.370" style="s2">three<span style="s4"> years</span> in that<span style="s4"> three-year period</span></p>
+<p begin="00:09:12.270" end="00:09:16.380" style="s2">that property owner can still appeal it</p>
+<p begin="00:09:14.370" end="00:09:18.270" style="s2">so for<span style="s3"> example</span> last year was the city</p>
+<p begin="00:09:16.380" end="00:09:19.770" style="s2">triennial reassessment the<span style="s4"> Assessor</span> went</p>
+<p begin="00:09:18.270" end="00:09:22.020" style="s2">through and put values on<span style="s4"> the</span> properties</p>
+<p begin="00:09:19.770" end="00:09:23.850" style="s2">in the city everybody in the city could</p>
+<p begin="00:09:22.020" end="00:09:25.740" style="s2">appeal last year they could also come</p>
+<p begin="00:09:23.850" end="00:09:27.540" style="s2">and appeal this year they can appeal<span style="s4"> on</span></p>
+<p begin="00:09:25.740" end="00:09:29.910" style="s2"><span style="s4">the</span> third<span style="s4"> year</span><span style="s3"> of</span> the try so the reason</p>
+<p begin="00:09:27.540" end="00:09:31.710" style="s2">ice and about fifty<span style="s4"> percent</span> of the</p>
+<p begin="00:09:29.910" end="00:09:33.360" style="s2">property in cook county is<span style="s4"> in</span> the city</p>
+<p begin="00:09:31.710" end="00:09:35.130" style="s2"><span style="s3">of</span> Chicago approximately another</p>
+<p begin="00:09:33.360" end="00:09:36.480" style="s2"><span style="s4">twenty-five percent is in the northern</span></p>
+<p begin="00:09:35.130" end="00:09:37.680" style="s2">suburbs and a little less than<span style="s3"> twenty</span></p>
+<p begin="00:09:36.480" end="00:09:40.380" style="s2">five percenter in the southern suburbs</p>
+<p begin="00:09:37.680" end="00:09:42.240" style="s2"><span style="s3">so</span> this overflow I can just tell is from</p>
+<p begin="00:09:40.380" end="00:09:44.790" style="s2">the city<span style="s4"> triennial</span> because we&#39;re<span style="s3"> just</span></p>
+<p begin="00:09:42.240" end="00:09:47.430" style="s2">it&#39;s an onslaught of people in the first</p>
+<p begin="00:09:44.790" end="00:09:50.760" style="s2">year when they got that first bill with</p>
+<p begin="00:09:47.430" end="00:09:52.320" style="s2">their new assessment on its said I have</p>
+<p begin="00:09:50.760" end="00:09:54.540" style="s2">to<span style="s4"> go</span> and<span style="s3"> try</span> and<span style="s3"> get this reduced and</span></p>
+<p begin="00:09:52.320" end="00:09:56.250" style="s2">get some relief and again there&#39;s no</p>
+<p begin="00:09:54.540" end="00:09:58.170" style="s2"><span style="s3">security</span> guard we talk about password</p>
+<p begin="00:09:56.250" end="00:10:00.660" style="s2">protection there&#39;s no sheriff&#39;s deputy</p>
+<p begin="00:09:58.170" end="00:10:01.740" style="s2">here like I mean we would always<span style="s3"> have</span> to</p>
+<p begin="00:10:00.660" end="00:10:04.380" style="s2">have<span style="s4"> a</span> sheriff&#39;s deputy there from nine</p>
+<p begin="00:10:01.740" end="00:10:06.510" style="s2">to five but after a while after hours we</p>
+<p begin="00:10:04.380" end="00:10:08.580" style="s2">just didn&#39;t<span style="s4"> even</span> have proper safeguards</p>
+<p begin="00:10:06.510" end="00:10:10.440" style="s2">to<span style="s3"> the</span> paper files this is our hearing</p>
+<p begin="00:10:08.580" end="00:10:13.380" style="s2">room which when we<span style="s3"> were</span> finished with</p>
+<p begin="00:10:10.440" end="00:10:15.300" style="s2">hearings usually we wrap up toward</p>
+<p begin="00:10:13.380" end="00:10:17.280" style="s2"><span style="s3">December</span> maybe the<span style="s3"> first</span> week of January</p>
+<p begin="00:10:15.300" end="00:10:18.840" style="s2">we&#39;ve moved from having hearings to</p>
+<p begin="00:10:17.280" end="00:10:20.430" style="s2">having all the evidence in house and<span style="s4"> now</span></p>
+<p begin="00:10:18.840" end="00:10:22.260" style="s2">the analysts have all the written</p>
+<p begin="00:10:20.430" end="00:10:24.900" style="s2">evidence they&#39;ve taken all the oral</p>
+<p begin="00:10:22.260" end="00:10:26.700" style="s2">evidence at oral hearings so they&#39;ve got</p>
+<p begin="00:10:24.900" end="00:10:29.370" style="s2"><span style="s3">all</span> of that paper so we&#39;ve been<span style="s3"> able</span> to</p>
+<p begin="00:10:26.700" end="00:10:31.590" style="s2"><span style="s4">kind</span> of not kind of<span style="s3"> been</span> able to get rid</p>
+<p begin="00:10:29.370" end="00:10:34.260" style="s2">of all this and just go back to<span style="s4"> our</span> core</p>
+<p begin="00:10:31.590" end="00:10:36.900" style="s2">competencies of being professional</p>
+<p begin="00:10:34.260" end="00:10:38.340" style="s2">analyst looking at evidence asking for</p>
+<p begin="00:10:36.900" end="00:10:39.840" style="s2">evidence knowing how to engage with<span style="s4"> the</span></p>
+<p begin="00:10:38.340" end="00:10:42.630" style="s2">taxpayer and collecting that information</p>
+<p begin="00:10:39.840" end="00:10:45.090" style="s2">and coming to a conclusion ooh more</p>
+<p begin="00:10:42.630" end="00:10:47.190" style="s2">carts if<span style="s3"> anybody</span> hears in the cart</p>
+<p begin="00:10:45.090" end="00:10:49.470" style="s2">business please feel free<span style="s3"> to</span> come<span style="s3"> and</span></p>
+<p begin="00:10:47.190" end="00:10:51.120" style="s2">take our carts so again as<span style="s3"> I</span> mentioned</p>
+<p begin="00:10:49.470" end="00:10:53.940" style="s2"><span style="s3">wide</span> what are some of<span style="s3"> the</span> reasons that</p>
+<p begin="00:10:51.120" end="00:10:56.340" style="s2">we had to do this the volume<span style="s3"> appeal</span> was</p>
+<p begin="00:10:53.940" end="00:10:57.990" style="s2">rising I mean we just what became a good</p>
+<p begin="00:10:56.340" end="00:10:59.750" style="s2">government became a practical government</p>
+<p begin="00:10:57.990" end="00:11:01.890" style="s2">reason for doing it we had to do it</p>
+<p begin="00:10:59.750" end="00:11:04.680" style="s2">counties goals to get the tax bills<span style="s3"> out</span></p>
+<p begin="00:11:01.890" end="00:11:05.850" style="s2">on time if any<span style="s3"> of</span> you have heard or</p>
+<p begin="00:11:04.680" end="00:11:06.750" style="s2">interacted with the board of review</p>
+<p begin="00:11:05.850" end="00:11:09.240" style="s2">before tonight I&#39;d be</p>
+<p begin="00:11:06.750" end="00:11:14.220" style="s2">surprise it&#39;s<span style="s3"> a</span> small agency<span style="s3"> we</span> have a</p>
+<p begin="00:11:09.240" end="00:11:16.740" style="s2">huge<span style="s3"> impact</span> though we are the last stop</p>
+<p begin="00:11:14.220" end="00:11:19.140" style="s2">before the bills go out so schools</p>
+<p begin="00:11:16.740" end="00:11:21.180" style="s2">libraries police fire all public</p>
+<p begin="00:11:19.140" end="00:11:22.770" style="s2">services go through the board<span style="s3"> of</span> review</p>
+<p begin="00:11:21.180" end="00:11:24.330" style="s2">because we&#39;re the<span style="s3"> ones</span> that<span style="s3"> help</span> the</p>
+<p begin="00:11:22.770" end="00:11:27.270" style="s2">revenue stream get to those taxing</p>
+<p begin="00:11:24.330" end="00:11:29.640" style="s2">districts if we take too long to do our</p>
+<p begin="00:11:27.270" end="00:11:31.440" style="s2">analysis so if there&#39;s a hiccup in it</p>
+<p begin="00:11:29.640" end="00:11:33.630" style="s2">because<span style="s3"> as</span> you can see maybe<span style="s3"> one</span><span style="s4"> of</span></p>
+<p begin="00:11:31.440" end="00:11:35.820" style="s2">those carts gets lost and we can&#39;t</p>
+<p begin="00:11:33.630" end="00:11:38.070" style="s2">finalize our numbers and our figures</p>
+<p begin="00:11:35.820" end="00:11:40.650" style="s2">then the bills go out late and if the</p>
+<p begin="00:11:38.070" end="00:11:42.330" style="s2">bills go out late those local taxing</p>
+<p begin="00:11:40.650" end="00:11:44.520" style="s2">districts have to go<span style="s3"> into</span> debt and<span style="s3"> take</span></p>
+<p begin="00:11:42.330" end="00:11:46.770" style="s2">a loan out so for<span style="s3"> example</span> if we&#39;re a</p>
+<p begin="00:11:44.520" end="00:11:48.710" style="s2">month late the<span style="s3"> Chicago</span> Public Schools</p>
+<p begin="00:11:46.770" end="00:11:51.810" style="s2">doesn&#39;t have the revenue because our</p>
+<p begin="00:11:48.710" end="00:11:55.560" style="s2">assessment was late the bills will go</p>
+<p begin="00:11:51.810" end="00:11:57.480" style="s2">out late the bills are paid late CPS</p>
+<p begin="00:11:55.560" end="00:11:59.760" style="s2">gets the money late and because of that</p>
+<p begin="00:11:57.480" end="00:12:01.770" style="s2">CPS is saying well we need it in<span style="s3"> hand</span> by</p>
+<p begin="00:11:59.760" end="00:12:03.630" style="s2">sep tember one so<span style="s3"> that</span> we&#39;ve got<span style="s3"> money</span></p>
+<p begin="00:12:01.770" end="00:12:05.340" style="s2">to pay teachers and for payroll but<span style="s4"> if</span></p>
+<p begin="00:12:03.630" end="00:12:06.930" style="s2">they don&#39;t<span style="s3"> they</span> have to go to banks take</p>
+<p begin="00:12:05.340" end="00:12:08.760" style="s2">out interest what they call a tax</p>
+<p begin="00:12:06.930" end="00:12:10.710" style="s2">anticipation work and paying interest on</p>
+<p begin="00:12:08.760" end="00:12:12.510" style="s2">that<span style="s3"> because</span> again we didn&#39;t<span style="s3"> get</span> the job</p>
+<p begin="00:12:10.710" end="00:12:14.820" style="s2">done right so we knew we had<span style="s4"> to</span> get the</p>
+<p begin="00:12:12.510" end="00:12:16.950" style="s2">bills right on bills out on time which</p>
+<p begin="00:12:14.820" end="00:12:20.150" style="s2">means we have to save tax dollars in</p>
+<p begin="00:12:16.950" end="00:12:23.550" style="s2">doing so<span style="s4"> I had</span><span style="s3"> no</span> performance metrics</p>
+<p begin="00:12:20.150" end="00:12:25.230" style="s2">you know literally going down<span style="s4"> a</span><span style="s3"> hall and</span></p>
+<p begin="00:12:23.550" end="00:12:27.120" style="s2">looking at cards<span style="s3"> okay this time of the</span></p>
+<p begin="00:12:25.230" end="00:12:29.220" style="s2">year there should be<span style="s4"> 18</span> cards another 17</p>
+<p begin="00:12:27.120" end="00:12:31.440" style="s2">great job hey there&#39;s 18 cards now</p>
+<p begin="00:12:29.220" end="00:12:34.050" style="s2">there&#39;s 20<span style="s4"> bad</span> job that is in no way</p>
+<p begin="00:12:31.440" end="00:12:37.620" style="s2">shape or form to<span style="s4"> weight</span> it<span style="s4"> to</span> manage an</p>
+<p begin="00:12:34.050" end="00:12:40.140" style="s2">office it&#39;s also not good in real time</p>
+<p begin="00:12:37.620" end="00:12:41.940" style="s2">you know to know which individual</p>
+<p begin="00:12:40.140" end="00:12:43.410" style="s2">analysts are doing better work which</p>
+<p begin="00:12:41.940" end="00:12:44.940" style="s2">ones can be promoted<span style="s4"> and</span> take on a</p>
+<p begin="00:12:43.410" end="00:12:47.060" style="s2">greater challenge which ones need to be</p>
+<p begin="00:12:44.940" end="00:12:50.550" style="s2">maybe retrain and given some support<span style="s4"> in</span></p>
+<p begin="00:12:47.060" end="00:12:51.750" style="s2">constituents expect better services you</p>
+<p begin="00:12:50.550" end="00:12:53.880" style="s2">know as you&#39;ll see in a second<span style="s3"> we</span> show</p>
+<p begin="00:12:51.750" end="00:12:56.550" style="s2">you the opening screen we this is<span style="s3"> not</span></p>
+<p begin="00:12:53.880" end="00:12:59.880" style="s2">earth breaking what we&#39;re doing it at</p>
+<p begin="00:12:56.550" end="00:13:02.700" style="s2">the Board of Review folks have expected</p>
+<p begin="00:12:59.880" end="00:13:04.350" style="s2"><span style="s4">it</span> and again we spent too many hours on</p>
+<p begin="00:13:02.700" end="00:13:06.510" style="s2">clerical administrative tasks and not on</p>
+<p begin="00:13:04.350" end="00:13:08.550" style="s2"><span style="s4">the</span> analysis and then we couldn&#39;t meet</p>
+<p begin="00:13:06.510" end="00:13:10.560" style="s2">our core goals which is to get a</p>
+<p begin="00:13:08.550" end="00:13:14.270" style="s2">complete full and fair analysis on every</p>
+<p begin="00:13:10.560" end="00:13:14.270" style="s2">appeal done in a timely timely fashion</p>
+<p begin="00:13:15.490" end="00:13:19.580" style="s2">again getting the weeds and you might</p>
+<p begin="00:13:17.810" end="00:13:22.310" style="s2"><span style="s3">want</span> to jump in on<span style="s3"> this</span> too we&#39;re using</p>
+<p begin="00:13:19.580" end="00:13:24.260" style="s2">an ECM that&#39;s on base to streamline and</p>
+<p begin="00:13:22.310" end="00:13:26.360" style="s2">digitize our process it interacts with</p>
+<p begin="00:13:24.260" end="00:13:29.540" style="s2"><span style="s3">the county mainframe which is on its own</span></p>
+<p begin="00:13:26.360" end="00:13:31.670" style="s2">getting updated and revamped so we&#39;ve</p>
+<p begin="00:13:29.540" end="00:13:34.120" style="s2">had<span style="s3"> a</span> portal for about two years a</p>
+<p begin="00:13:31.670" end="00:13:36.770" style="s2">public-facing portal to do the intake of</p>
+<p begin="00:13:34.120" end="00:13:38.720" style="s2">complaints so you say<span style="s3"> I</span> would like<span style="s4"> to</span></p>
+<p begin="00:13:36.770" end="00:13:40.370" style="s2">file my appeal we have the paper form</p>
+<p begin="00:13:38.720" end="00:13:43.790" style="s2">but for the<span style="s3"> past</span> two years<span style="s3"> we&#39;ve</span> also</p>
+<p begin="00:13:40.370" end="00:13:46.940" style="s2">had a digital intake system online at</p>
+<p begin="00:13:43.790" end="00:13:48.770" style="s2">our website up until<span style="s3"> the</span> system all that</p>
+<p begin="00:13:46.940" end="00:13:51.170" style="s2">did was take<span style="s4"> it</span> in and then<span style="s3"> we literally</span></p>
+<p begin="00:13:48.770" end="00:13:53.120" style="s2">printed it out created labels folders</p>
+<p begin="00:13:51.170" end="00:13:55.700" style="s2">put it on the card so this was our</p>
+<p begin="00:13:53.120" end="00:13:57.590" style="s2">public facing intake was an interim step</p>
+<p begin="00:13:55.700" end="00:13:58.790" style="s2">until we<span style="s4"> could</span> get this built and as</p>
+<p begin="00:13:57.590" end="00:14:02.570" style="s2">you&#39;ll see in<span style="s4"> the</span><span style="s3"> minutes</span> it&#39;s it&#39;s a</p>
+<p begin="00:13:58.790" end="00:14:06.770" style="s2">pretty stable and successful<span style="s3"> back-office</span></p>
+<p begin="00:14:02.570" end="00:14:08.480" style="s2">workflow for our analysts so just from</p>
+<p begin="00:14:06.770" end="00:14:11.060" style="s2"><span style="s3">the</span> timeline we start we issued the<span style="s3"> RFP</span></p>
+<p begin="00:14:08.480" end="00:14:14.750" style="s2">in 2013 if you can all see it we select</p>
+<p begin="00:14:11.060" end="00:14:16.610" style="s2">a data bank in 2014<span style="s3"> and</span> then once we</p>
+<p begin="00:14:14.750" end="00:14:18.710" style="s2">started up there was really no safety</p>
+<p begin="00:14:16.610" end="00:14:20.810" style="s2">net because as I said you know we we</p>
+<p begin="00:14:18.710" end="00:14:22.700" style="s2">were all in on this we didn&#39;t in the</p>
+<p begin="00:14:20.810" end="00:14:24.530" style="s2">first<span style="s3"> year</span> have paper files and</p>
+<p begin="00:14:22.700" end="00:14:27.590" style="s2">electronic filing when we flipped the</p>
+<p begin="00:14:24.530" end="00:14:29.450" style="s2">switch it<span style="s3"> was</span> all electronic and if<span style="s3"> this</span></p>
+<p begin="00:14:27.590" end="00:14:31.490" style="s2">didn&#39;t work as well as<span style="s3"> we</span> thought<span style="s3"> or</span></p>
+<p begin="00:14:29.450" end="00:14:34.220" style="s2">didn&#39;t work at all the bills have go out</p>
+<p begin="00:14:31.490" end="00:14:36.290" style="s2">late and the county boot would have egg</p>
+<p begin="00:14:34.220" end="00:14:39.350" style="s2">on its face or not<span style="s3"> being</span> able<span style="s3"> to</span> move to</p>
+<p begin="00:14:36.290" end="00:14:42.740" style="s2">a digital<span style="s4"> platform</span> so we implemented</p>
+<p begin="00:14:39.350" end="00:14:44.600" style="s2">depths beginning in<span style="s3"> July of 2015 again</span></p>
+<p begin="00:14:42.740" end="00:14:46.270" style="s2">getting<span style="s3"> into</span> the wonky nerdiness that is</p>
+<p begin="00:14:44.600" end="00:14:49.700" style="s2">the cook county property assessment</p>
+<p begin="00:14:46.270" end="00:14:53.000" style="s2">system we open at the board<span style="s3"> of</span> review in</p>
+<p begin="00:14:49.700" end="00:14:56.240" style="s2"><span style="s3">july</span> begin we begin opening townships up</p>
+<p begin="00:14:53.000" end="00:14:58.339" style="s2">and and your neighborhood is really in a</p>
+<p begin="00:14:56.240" end="00:15:01.220" style="s2">township jefferson township lake</p>
+<p begin="00:14:58.339" end="00:15:02.839" style="s2">township north township these are the</p>
+<p begin="00:15:01.220" end="00:15:04.250" style="s2">townships that your neighborhood is<span style="s3"> in</span></p>
+<p begin="00:15:02.839" end="00:15:07.760" style="s2">the city or if you&#39;re in the suburbs</p>
+<p begin="00:15:04.250" end="00:15:09.830" style="s2">evanston township oak<span style="s4"> park</span> township we</p>
+<p begin="00:15:07.760" end="00:15:12.080" style="s2">work on<span style="s3"> the</span> township map we start</p>
+<p begin="00:15:09.830" end="00:15:13.760" style="s2">opening<span style="s3"> those</span> up in July we have to get</p>
+<p begin="00:15:12.080" end="00:15:15.890" style="s2">everything<span style="s4"> done by the middle</span><span style="s3"> of</span> April</p>
+<p begin="00:15:13.760" end="00:15:17.600" style="s2"><span style="s3">because</span> again we finish our work in the</p>
+<p begin="00:15:15.890" end="00:15:19.490" style="s2">middle<span style="s3"> of</span> April we balance to<span style="s4"> make</span> sure</p>
+<p begin="00:15:17.600" end="00:15:21.140" style="s2">that every appeal that came in every</p>
+<p begin="00:15:19.490" end="00:15:23.089" style="s2">complaint number has<span style="s4"> been</span> identified<span style="s3"> and</span></p>
+<p begin="00:15:21.140" end="00:15:24.890" style="s2">had a value put on it we balance that</p>
+<p begin="00:15:23.089" end="00:15:26.330" style="s2">out as we call it then we go to<span style="s3"> the</span></p>
+<p begin="00:15:24.890" end="00:15:28.250" style="s2">treasurer&#39;s office we give the</p>
+<p begin="00:15:26.330" end="00:15:29.390" style="s2">treasurer&#39;s office all of our<span style="s4"> values</span> for</p>
+<p begin="00:15:28.250" end="00:15:31.490" style="s2">every<span style="s3"> single</span> property</p>
+<p begin="00:15:29.390" end="00:15:33.350" style="s2">Cook County Treasurer&#39;s Office matches</p>
+<p begin="00:15:31.490" end="00:15:35.090" style="s2">that with all the tax rates the bills</p>
+<p begin="00:15:33.350" end="00:15:37.430" style="s2">get generated physically and they get</p>
+<p begin="00:15:35.090" end="00:15:39.500" style="s2">mailed out first week of July for a</p>
+<p begin="00:15:37.430" end="00:15:40.640" style="s2">first week in August pay date and then</p>
+<p begin="00:15:39.500" end="00:15:42.740" style="s2">once all the money is received in<span style="s4"> the</span></p>
+<p begin="00:15:40.640" end="00:15:44.090" style="s2">first week in August electronic payments</p>
+<p begin="00:15:42.740" end="00:15:46.310" style="s2">are made back to those three<span style="s4"> thousand</span></p>
+<p begin="00:15:44.090" end="00:15:48.290" style="s2"><span style="s3">plus</span> taxing districts in Cook County ok</p>
+<p begin="00:15:46.310" end="00:15:49.880" style="s2">it&#39;s a tight<span style="s3"> time frame all of the</span></p>
+<p begin="00:15:48.290" end="00:15:51.650" style="s2">offices the<span style="s3"> Assessor</span> the board of you</p>
+<p begin="00:15:49.880" end="00:15:53.390" style="s2">the treasure of the clerk we all work</p>
+<p begin="00:15:51.650" end="00:15:54.860" style="s2">together with a uniform calendar to make</p>
+<p begin="00:15:53.390" end="00:15:55.940" style="s2">sure where everybody is it&#39;s</p>
+<p begin="00:15:54.860" end="00:15:56.990" style="s2">collaborative but a little bit</p>
+<p begin="00:15:55.940" end="00:15:58.340" style="s2">competitive because we know that if</p>
+<p begin="00:15:56.990" end="00:15:59.930" style="s2"><span style="s3">anybody</span> takes too long on one end</p>
+<p begin="00:15:58.340" end="00:16:01.550" style="s2">they&#39;ve got to gobble the time back from</p>
+<p begin="00:15:59.930" end="00:16:03.770" style="s2">somebody else so again back to the</p>
+<p begin="00:16:01.550" end="00:16:07.160" style="s2">calendar implementation began in<span style="s3"> July of</span></p>
+<p begin="00:16:03.770" end="00:16:10.520" style="s2">2015 and<span style="s3"> we</span> closed on time in April 2016</p>
+<p begin="00:16:07.160" end="00:16:13.790" style="s2">with the system using agile methodology</p>
+<p begin="00:16:10.520" end="00:16:16.760" style="s2">we had six sprints in our scrum that we</p>
+<p begin="00:16:13.790" end="00:16:17.900" style="s2">did we would have liked<span style="s4"> to</span> have budgeted</p>
+<p begin="00:16:16.760" end="00:16:19.550" style="s2">for more but we&#39;ve already started</p>
+<p begin="00:16:17.900" end="00:16:20.840" style="s2">working on<span style="s3"> Phase</span> two<span style="s3"> so</span> some of the</p>
+<p begin="00:16:19.550" end="00:16:22.040" style="s2">things<span style="s4"> that</span><span style="s3"> we</span> wanted<span style="s4"> to</span> do in a seventh</p>
+<p begin="00:16:20.840" end="00:16:25.370" style="s2">or eighth sprint have been rolled into</p>
+<p begin="00:16:22.040" end="00:16:26.810" style="s2">our phase<span style="s3"> two</span> development we dissected</p>
+<p begin="00:16:25.370" end="00:16:29.000" style="s2">re-engineered every aspect<span style="s3"> of</span> what<span style="s4"> we</span></p>
+<p begin="00:16:26.810" end="00:16:30.440" style="s2">did is you saw<span style="s3"> from</span> that workflow we</p>
+<p begin="00:16:29.000" end="00:16:32.420" style="s2">really tore it apart and<span style="s3"> it</span> started with</p>
+<p begin="00:16:30.440" end="00:16:34.940" style="s2">our<span style="s3"> users</span> it started with Roland and the</p>
+<p begin="00:16:32.420" end="00:16:37.040" style="s2">other analyst at the<span style="s3"> board</span> on the front</p>
+<p begin="00:16:34.940" end="00:16:38.150" style="s2">facing we did some public conversations</p>
+<p begin="00:16:37.040" end="00:16:40.010" style="s2">with members of the<span style="s3"> public</span> and the</p>
+<p begin="00:16:38.150" end="00:16:41.780" style="s2">practicing bar who would use it to say</p>
+<p begin="00:16:40.010" end="00:16:43.640" style="s2">what do you think it needs to do but</p>
+<p begin="00:16:41.780" end="00:16:45.200" style="s2">internally with a workflow we wanted our</p>
+<p begin="00:16:43.640" end="00:16:46.730" style="s2">analyst to tell us what should<span style="s3"> your</span></p>
+<p begin="00:16:45.200" end="00:16:50.030" style="s2">screen look like what are the features</p>
+<p begin="00:16:46.730" end="00:16:52.010" style="s2">it should have built in what calculators</p>
+<p begin="00:16:50.030" end="00:16:54.260" style="s2">do you want<span style="s3"> built in how do you</span> want it</p>
+<p begin="00:16:52.010" end="00:16:56.390" style="s2"><span style="s3">to</span> what&#39;s the what&#39;s the easiest and the</p>
+<p begin="00:16:54.260" end="00:16:57.890" style="s2">fastest way<span style="s4"> to</span> move<span style="s3"> data</span> from one screen</p>
+<p begin="00:16:56.390" end="00:17:01.040" style="s2">to<span style="s3"> the</span> other we don&#39;t want you retyping</p>
+<p begin="00:16:57.890" end="00:17:03.440" style="s2">everything every screen and then<span style="s3"> we</span> did</p>
+<p begin="00:17:01.040" end="00:17:06.230" style="s2">the reengineering of a user acceptance</p>
+<p begin="00:17:03.440" end="00:17:08.079" style="s2">test every every employee participated</p>
+<p begin="00:17:06.230" end="00:17:10.339" style="s2">in the change we did a number of</p>
+<p begin="00:17:08.079" end="00:17:11.660" style="s2"><span style="s3">conversations</span> with<span style="s3"> them</span> so that when<span style="s4"> it</span></p>
+<p begin="00:17:10.339" end="00:17:13.610" style="s2">went live and<span style="s4"> I&#39;ll</span> just give you an</p>
+<p begin="00:17:11.660" end="00:17:16.880" style="s2">example it&#39;s not up here even as the</p>
+<p begin="00:17:13.610" end="00:17:19.160" style="s2"><span style="s4">Commissioner</span> I was realizing that I had</p>
+<p begin="00:17:16.880" end="00:17:21.490" style="s2">to rethink what I how I wanted it to</p>
+<p begin="00:17:19.160" end="00:17:24.079" style="s2">work so I&#39;ll give you one example so</p>
+<p begin="00:17:21.490" end="00:17:25.820" style="s2">there&#39;s two classes of property in cook</p>
+<p begin="00:17:24.079" end="00:17:28.760" style="s2">county there&#39;s residences homes and</p>
+<p begin="00:17:25.820" end="00:17:30.500" style="s2">commercial our commercial analysts</p>
+<p begin="00:17:28.760" end="00:17:32.660" style="s2">there&#39;s a<span style="s3"> lot</span> more no file this file</p>
+<p begin="00:17:30.500" end="00:17:33.800" style="s2">right<span style="s4"> here</span> is typical of what we&#39;d see</p>
+<p begin="00:17:32.660" end="00:17:37.190" style="s2">for a commercial<span style="s3"> this is actually a</span></p>
+<p begin="00:17:33.800" end="00:17:38.540" style="s2">condo building but this<span style="s3"> in about three</span></p>
+<p begin="00:17:37.190" end="00:17:40.880" style="s2">of these would be a commercial building</p>
+<p begin="00:17:38.540" end="00:17:42.200" style="s2">because<span style="s4"> there&#39;s multiple tenants there&#39;s</span></p>
+<p begin="00:17:40.880" end="00:17:43.150" style="s2">multiple leases there&#39;s multiple</p>
+<p begin="00:17:42.200" end="00:17:44.350" style="s2">expenses or</p>
+<p begin="00:17:43.150" end="00:17:46.180" style="s2">multiple deferred maintenance there&#39;s<span style="s3"> a</span></p>
+<p begin="00:17:44.350" end="00:17:47.980" style="s2">history of the<span style="s3"> building</span> there&#39;s a<span style="s3"> lot</span></p>
+<p begin="00:17:46.180" end="00:17:53.320" style="s2">that we have to take<span style="s3"> into to getting the</span></p>
+<p begin="00:17:47.980" end="00:17:54.790" style="s2">value correct I thought might hear my my</p>
+<p begin="00:17:53.320" end="00:17:56.080" style="s2">commercial hearing officer said hey you</p>
+<p begin="00:17:54.790" end="00:17:59.320" style="s2">know would<span style="s3"> be useful as the night before</span></p>
+<p begin="00:17:56.080" end="00:18:02.110" style="s2">we have our hearings can we get put in</p>
+<p begin="00:17:59.320" end="00:18:03.790" style="s2">our queue in<span style="s4"> depth</span><span style="s3"> all</span> of the files</p>
+<p begin="00:18:02.110" end="00:18:05.320" style="s2">we&#39;re going to see tomorrow so we<span style="s4"> can</span></p>
+<p begin="00:18:03.790" end="00:18:07.570" style="s2">stay late the night before<span style="s3"> and</span> review</p>
+<p begin="00:18:05.320" end="00:18:09.430" style="s2">them all and that way when the homeowner</p>
+<p begin="00:18:07.570" end="00:18:11.860" style="s2">or the property<span style="s4"> owner</span> or their attorney</p>
+<p begin="00:18:09.430" end="00:18:13.120" style="s2">steps forward we&#39;re ready and I<span style="s3"> said</span> you</p>
+<p begin="00:18:11.860" end="00:18:15.520" style="s2">know<span style="s3"> I don&#39;t want anybody</span><span style="s4"> to</span> prejudge</p>
+<p begin="00:18:13.120" end="00:18:17.440" style="s2">the file I think it&#39;s best if you don&#39;t</p>
+<p begin="00:18:15.520" end="00:18:18.970" style="s2"><span style="s3">do</span><span style="s4"> that</span> if it&#39;s just a fresh clean<span style="s4"> look</span></p>
+<p begin="00:18:17.440" end="00:18:20.230" style="s2">and you hear what<span style="s3"> they</span> have to say I</p>
+<p begin="00:18:18.970" end="00:18:22.060" style="s2">could not have been more wrong</p>
+<p begin="00:18:20.230" end="00:18:23.290" style="s2">everything moved to a grinding halt the</p>
+<p begin="00:18:22.060" end="00:18:26.260" style="s2">attorney would step up<span style="s4"> or</span> the property</p>
+<p begin="00:18:23.290" end="00:18:27.790" style="s2"><span style="s4">owner</span> would step up and our analysts are</p>
+<p begin="00:18:26.260" end="00:18:29.350" style="s2">opening up the file trying to see what</p>
+<p begin="00:18:27.790" end="00:18:31.600" style="s2">the evidence is trying to read things</p>
+<p begin="00:18:29.350" end="00:18:33.040" style="s2">well this person stands<span style="s4"> there</span> so again</p>
+<p begin="00:18:31.600" end="00:18:36.100" style="s2">we had to understand what our workflow</p>
+<p begin="00:18:33.040" end="00:18:38.140" style="s2">is going to be and luckily data bank and</p>
+<p begin="00:18:36.100" end="00:18:40.450" style="s2">was able to work with us<span style="s3"> an</span> on-base is</p>
+<p begin="00:18:38.140" end="00:18:42.340" style="s2">agile enough and durable enough that</p>
+<p begin="00:18:40.450" end="00:18:46.330" style="s2">we&#39;re able to make some<span style="s4"> changes</span> well</p>
+<p begin="00:18:42.340" end="00:18:47.860" style="s2">we&#39;re using it oh yeah this<span style="s3"> is</span><span style="s4"> our</span><span style="s3"> happy</span></p>
+<p begin="00:18:46.330" end="00:18:49.480" style="s2">new picture you speak arts so this<span style="s3"> is</span> a</p>
+<p begin="00:18:47.860" end="00:18:51.700" style="s2"><span style="s3">hearing</span> typical hearing this<span style="s3"> is</span><span style="s4"> a</span></p>
+<p begin="00:18:49.480" end="00:18:54.550" style="s2"><span style="s3">probably</span> a residential here maybe a</p>
+<p begin="00:18:51.700" end="00:18:56.050" style="s2">commercial hearing folks up here are the</p>
+<p begin="00:18:54.550" end="00:18:58.780" style="s2">hearing officers as you can see two</p>
+<p begin="00:18:56.050" end="00:19:00.450" style="s2">screens no paper no carts people come in</p>
+<p begin="00:18:58.780" end="00:19:03.130" style="s2">without paper they leave without paper</p>
+<p begin="00:19:00.450" end="00:19:05.020" style="s2">they can we can turn the screens around</p>
+<p begin="00:19:03.130" end="00:19:07.420" style="s2">and show folks what we&#39;re putting into</p>
+<p begin="00:19:05.020" end="00:19:09.700" style="s2">the file what we see we work them</p>
+<p begin="00:19:07.420" end="00:19:12.520" style="s2">through it all hearings just so you know</p>
+<p begin="00:19:09.700" end="00:19:14.470" style="s2">used to take four hours five hours of</p>
+<p begin="00:19:12.520" end="00:19:16.630" style="s2">you<span style="s3"> waiting</span> there because we physically</p>
+<p begin="00:19:14.470" end="00:19:18.300" style="s2">had to get your file and storage put it</p>
+<p begin="00:19:16.630" end="00:19:21.760" style="s2">on a<span style="s4"> cart</span> bring it up from the basement</p>
+<p begin="00:19:18.300" end="00:19:22.810" style="s2">it<span style="s3"> was</span> a nightmare now you walk in we</p>
+<p begin="00:19:21.760" end="00:19:26.110" style="s2">just<span style="s4"> bring</span> it up<span style="s3"> and</span> you&#39;re out the door</p>
+<p begin="00:19:22.810" end="00:19:28.330" style="s2">in about 30 minutes 20 minutes the</p>
+<p begin="00:19:26.110" end="00:19:31.330" style="s2">portal this is the public facing side so</p>
+<p begin="00:19:28.330" end="00:19:33.730" style="s2"><span style="s4">again</span> this is what you as a pellet would</p>
+<p begin="00:19:31.330" end="00:19:35.200" style="s2">fill out if you&#39;ve you know you&#39;ve<span style="s3"> got</span> a</p>
+<p begin="00:19:33.730" end="00:19:37.360" style="s2">netflix or an amazon account it looks</p>
+<p begin="00:19:35.200" end="00:19:40.260" style="s2">familiar user ID password pretty</p>
+<p begin="00:19:37.360" end="00:19:42.790" style="s2"><span style="s4">straightforward</span> you can file as a guest</p>
+<p begin="00:19:40.260" end="00:19:44.830" style="s2">but one<span style="s3"> of the benefits of the system is</span></p>
+<p begin="00:19:42.790" end="00:19:46.900" style="s2">if once you<span style="s3"> create</span> an account you<span style="s4"> can</span> go</p>
+<p begin="00:19:44.830" end="00:19:48.580" style="s2">back<span style="s3"> and</span> look at every year you filed</p>
+<p begin="00:19:46.900" end="00:19:50.890" style="s2">and go back and look at<span style="s3"> all</span> the evidence</p>
+<p begin="00:19:48.580" end="00:19:52.810" style="s2">so i&#39;ll use the condo example let&#39;s say</p>
+<p begin="00:19:50.890" end="00:19:54.370" style="s2">you bought a condo<span style="s3"> this</span> year you&#39;ve got</p>
+<p begin="00:19:52.810" end="00:19:55.990" style="s2">an appraisal when you bought it the</p>
+<p begin="00:19:54.370" end="00:19:56.900" style="s2">appraiser said your condo is appraised</p>
+<p begin="00:19:55.990" end="00:19:59.960" style="s2">at</p>
+<p begin="00:19:56.900" end="00:20:02.810" style="s2">and you file with us next year the</p>
+<p begin="00:19:59.960" end="00:20:04.160" style="s2"><span style="s3">Assessor</span> raises it up to 250 you say you</p>
+<p begin="00:20:02.810" end="00:20:06.140" style="s2">know I want<span style="s3"> to</span> go<span style="s4"> back</span> to<span style="s3"> my</span> last year&#39;s</p>
+<p begin="00:20:04.160" end="00:20:07.880" style="s2">filing at the board of review and pull</p>
+<p begin="00:20:06.140" end="00:20:10.040" style="s2">up the PDF that I had of my appraisal</p>
+<p begin="00:20:07.880" end="00:20:12.140" style="s2">when I bought it that said it was<span style="s3"> only</span></p>
+<p begin="00:20:10.040" end="00:20:13.700" style="s2">worth 200,000 and<span style="s3"> you</span> want to take<span style="s4"> that</span></p>
+<p begin="00:20:12.140" end="00:20:15.290" style="s2">if you&#39;ve got an<span style="s3"> account</span> with those you</p>
+<p begin="00:20:13.700" end="00:20:20.060" style="s2">can move that evidence around from year</p>
+<p begin="00:20:15.290" end="00:20:22.100" style="s2">to year and then again just a screenshot</p>
+<p begin="00:20:20.060" end="00:20:24.020" style="s2">uploading it uploading documents went</p>
+<p begin="00:20:22.100" end="00:20:26.780" style="s2">back and forth we title a document so</p>
+<p begin="00:20:24.020" end="00:20:28.970" style="s2">you don&#39;t so<span style="s4"> that</span> we can be used and</p>
+<p begin="00:20:26.780" end="00:20:30.140" style="s2">standardized this is what the workflow</p>
+<p begin="00:20:28.970" end="00:20:35.450" style="s2">looks in the back office for our</p>
+<p begin="00:20:30.140" end="00:20:37.190" style="s2">analysts evidence over here chronology</p>
+<p begin="00:20:35.450" end="00:20:38.480" style="s2">and workflow on the left Jimmy want to</p>
+<p begin="00:20:37.190" end="00:20:40.100" style="s2">talk about<span style="s3"> the</span> workflow a little bit</p>
+<p begin="00:20:38.480" end="00:20:41.720" style="s2">that&#39;s one of the things that&#39;s who&#39;s</p>
+<p begin="00:20:40.100" end="00:20:43.460" style="s2">familiar was on base does anyone</p>
+<p begin="00:20:41.720" end="00:20:46.250" style="s2">familiar with has anyone used it before</p>
+<p begin="00:20:43.460" end="00:20:50.750" style="s2">yeah you are you and that&#39;s just<span style="s3"> because</span></p>
+<p begin="00:20:46.250" end="00:20:52.970" style="s2">of us that&#39;s yet now hey<span style="s4"> I&#39;m basis</span></p>
+<p begin="00:20:50.750" end="00:20:55.790" style="s2">really is really simple and then as it&#39;s</p>
+<p begin="00:20:52.970" end="00:20:58.220" style="s2">a workflow process it&#39;s an ECM it&#39;s</p>
+<p begin="00:20:55.790" end="00:21:00.200" style="s2">based on two<span style="s4"> very</span> simple<span style="s3"> things</span> one on</p>
+<p begin="00:20:58.220" end="00:21:02.210" style="s2">this side they call them life cycles we</p>
+<p begin="00:21:00.200" end="00:21:04.100" style="s2">just call<span style="s3"> them</span> workflow okay kind of</p>
+<p begin="00:21:02.210" end="00:21:06.290" style="s2">where is this file going where where is</p>
+<p begin="00:21:04.100" end="00:21:08.600" style="s2"><span style="s3">that</span> and what rights do you have when a</p>
+<p begin="00:21:06.290" end="00:21:11.720" style="s2">file is in a certain cue the other part</p>
+<p begin="00:21:08.600" end="00:21:14.540" style="s2">to this is<span style="s3"> keywords</span> kind<span style="s3"> of</span> all of<span style="s3"> these</span></p>
+<p begin="00:21:11.720" end="00:21:16.550" style="s2">documents which are just the paper<span style="s3"> are</span></p>
+<p begin="00:21:14.540" end="00:21:19.910" style="s2">set over here<span style="s3"> so</span> everything is based on</p>
+<p begin="00:21:16.550" end="00:21:22.880" style="s2">off of Rights off of off of where a</p>
+<p begin="00:21:19.910" end="00:21:25.100" style="s2">document is in workflow what action is</p>
+<p begin="00:21:22.880" end="00:21:27.950" style="s2">taken on<span style="s4"> that</span> to move it along workflow</p>
+<p begin="00:21:25.100" end="00:21:30.230" style="s2">and then you know what what you can see</p>
+<p begin="00:21:27.950" end="00:21:31.760" style="s2">within each one of those files so for</p>
+<p begin="00:21:30.230" end="00:21:34.700" style="s2">something that we were doing<span style="s4"> where</span> we&#39;re</p>
+<p begin="00:21:31.760" end="00:21:37.520" style="s2">looking where we&#39;re reviewing documents</p>
+<p begin="00:21:34.700" end="00:21:40.340" style="s2">where were then adding something<span style="s4"> to</span> the</p>
+<p begin="00:21:37.520" end="00:21:42.290" style="s2">file and then moving along this was the</p>
+<p begin="00:21:40.340" end="00:21:43.640" style="s2"><span style="s3">perfect</span> platform for us from just<span style="s3"> that</span></p>
+<p begin="00:21:42.290" end="00:21:46.790" style="s2">just<span style="s3"> out</span> of the box and then we</p>
+<p begin="00:21:43.640" end="00:21:49.790" style="s2">configured it a little bit but but it</p>
+<p begin="00:21:46.790" end="00:21:53.240" style="s2">all of that all<span style="s4"> of</span><span style="s3"> this</span> data was then</p>
+<p begin="00:21:49.790" end="00:21:54.920" style="s2">was then<span style="s4"> auto-filled</span> through through the</p>
+<p begin="00:21:53.240" end="00:21:56.660" style="s2">mainframe and through the cobalt system</p>
+<p begin="00:21:54.920" end="00:21:58.310" style="s2">it pulled did a nightly job and just</p>
+<p begin="00:21:56.660" end="00:22:02.180" style="s2">kind of pulled everything every night</p>
+<p begin="00:21:58.310" end="00:22:04.250" style="s2">that&#39;s our phase two is to stop that but</p>
+<p begin="00:22:02.180" end="00:22:07.250" style="s2">so we had and that really kind of was at</p>
+<p begin="00:22:04.250" end="00:22:09.530" style="s2"><span style="s3">times</span> a one of the largest hurdles that</p>
+<p begin="00:22:07.250" end="00:22:11.960" style="s2">we had was because we were trying</p>
+<p begin="00:22:09.530" end="00:22:14.240" style="s2">to interact with<span style="s3"> the</span> very old technology</p>
+<p begin="00:22:11.960" end="00:22:16.580" style="s2">with a very new technology which is</p>
+<p begin="00:22:14.240" end="00:22:19.090" style="s2">always they think you guys know is one</p>
+<p begin="00:22:16.580" end="00:22:23.090" style="s2">of the biggest challenges if we all have</p>
+<p begin="00:22:19.090" end="00:22:25.190" style="s2">but but as you can see it really it</p>
+<p begin="00:22:23.090" end="00:22:27.290" style="s2">provided<span style="s3"> the information that we needed</span></p>
+<p begin="00:22:25.190" end="00:22:29.150" style="s2">in the middle it<span style="s3"> provided</span> access to</p>
+<p begin="00:22:27.290" end="00:22:31.430" style="s2">everything that an analyst needed to</p>
+<p begin="00:22:29.150" end="00:22:36.470" style="s2">make a decision<span style="s3"> but</span> we&#39;ll go to the<span style="s3"> next</span></p>
+<p begin="00:22:31.430" end="00:22:39.110" style="s2"><span style="s4">one</span> to<span style="s4"> show</span> you kind of how these<span style="s3"> are</span></p>
+<p begin="00:22:36.470" end="00:22:41.930" style="s2">the<span style="s4"> results</span> so go<span style="s3"> back</span><span style="s4"> to</span> the page where</p>
+<p begin="00:22:39.110" end="00:22:44.690" style="s2">people were drawing and kind<span style="s3"> of</span> writing</p>
+<p begin="00:22:41.930" end="00:22:46.730" style="s2">on now when when you<span style="s3"> pull</span> this up when</p>
+<p begin="00:22:44.690" end="00:22:49.220" style="s2">we<span style="s3"> get</span> a foil result<span style="s3"> with it when that</span></p>
+<p begin="00:22:46.730" end="00:22:53.150" style="s2"><span style="s3">when</span> that comes in you<span style="s4"> can</span> read who did</p>
+<p begin="00:22:49.220" end="00:22:55.370" style="s2">it<span style="s3"> what</span> what the number was what the why</p>
+<p begin="00:22:53.150" end="00:22:56.960" style="s2">they did it but then also what some of</p>
+<p begin="00:22:55.370" end="00:22:58.280" style="s2">the<span style="s3"> analysts</span> did is they expand on it</p>
+<p begin="00:22:56.960" end="00:23:00.850" style="s2">didn&#39;t like the fact that they were</p>
+<p begin="00:22:58.280" end="00:23:04.910" style="s2">limited by these boxes so the endless</p>
+<p begin="00:23:00.850" end="00:23:07.010" style="s2">decided to use OneNote and they applied</p>
+<p begin="00:23:04.910" end="00:23:09.830" style="s2">one though and<span style="s3"> they</span> and they copied it</p>
+<p begin="00:23:07.010" end="00:23:14.090" style="s2">into their files so now go back to hid</p>
+<p begin="00:23:09.830" end="00:23:15.830" style="s2">open that we go back to<span style="s4"> this</span> so what we</p>
+<p begin="00:23:14.090" end="00:23:18.950" style="s2">didn&#39;t know was well we were building it</p>
+<p begin="00:23:15.830" end="00:23:21.650" style="s2">we realized we had four years of what we</p>
+<p begin="00:23:18.950" end="00:23:23.690" style="s2">call priors the<span style="s4"> prior year files so</span></p>
+<p begin="00:23:21.650" end="00:23:25.910" style="s2">while it was being built<span style="s3"> we</span> took all</p>
+<p begin="00:23:23.690" end="00:23:27.950" style="s2">these folks who used to be the back</p>
+<p begin="00:23:25.910" end="00:23:30.770" style="s2">office folks pushing carts and doing</p>
+<p begin="00:23:27.950" end="00:23:33.050" style="s2">other things and said<span style="s3"> listen</span> you&#39;re</p>
+<p begin="00:23:30.770" end="00:23:35.330" style="s2">going to be imaging four years worth of</p>
+<p begin="00:23:33.050" end="00:23:37.250" style="s2">just<span style="s3"> the</span> decision page so this<span style="s3"> is</span> what</p>
+<p begin="00:23:35.330" end="00:23:38.960" style="s2">you see right here the decision page the</p>
+<p begin="00:23:37.250" end="00:23:40.370" style="s2">math the numbers the signatures<span style="s3"> and</span> the</p>
+<p begin="00:23:38.960" end="00:23:42.440" style="s2"><span style="s4">commissioners</span> saying I sign off on<span style="s3"> that</span></p>
+<p begin="00:23:40.370" end="00:23:44.630" style="s2">that&#39;s my value so Jim&#39;s point is our</p>
+<p begin="00:23:42.440" end="00:23:46.910" style="s2"><span style="s3">folks</span> said listen let&#39;s image it put it</p>
+<p begin="00:23:44.630" end="00:23:49.280" style="s2"><span style="s3">in</span> the OneNote and that way we can have</p>
+<p begin="00:23:46.910" end="00:23:50.480" style="s2"><span style="s3">prior</span><span style="s4"> years</span> notes in here so that if</p>
+<p begin="00:23:49.280" end="00:23:52.970" style="s2">someone comes in they can see their</p>
+<p begin="00:23:50.480" end="00:23:54.800" style="s2"><span style="s3">entire</span> record on appeal here yeah and</p>
+<p begin="00:23:52.970" end="00:23:57.470" style="s2">then the mat and just that just<span style="s3"> the</span></p>
+<p begin="00:23:54.800" end="00:23:59.390" style="s2">level<span style="s3"> of</span> detail of what our<span style="s3"> analysts</span> are</p>
+<p begin="00:23:57.470" end="00:24:02.330" style="s2">not again we were spending all our time</p>
+<p begin="00:23:59.390" end="00:24:04.310" style="s2">pushing paper we were literally turning</p>
+<p begin="00:24:02.330" end="00:24:06.560" style="s2">all our time trying to manage an</p>
+<p begin="00:24:04.310" end="00:24:09.140" style="s2">enormous paper<span style="s3"> system</span> and very little</p>
+<p begin="00:24:06.560" end="00:24:10.100" style="s2"><span style="s4">time</span> trying to analyze property which</p>
+<p begin="00:24:09.140" end="00:24:13.100" style="s2">was what we should have been<span style="s3"> doing</span></p>
+<p begin="00:24:10.100" end="00:24:14.690" style="s2">trying<span style="s3"> to</span> analyze appeals<span style="s3"> now</span> we have</p>
+<p begin="00:24:13.100" end="00:24:16.340" style="s2">the time<span style="s4"> and</span> the analysts can really sit</p>
+<p begin="00:24:14.690" end="00:24:18.830" style="s2">down and they can write this out and</p>
+<p begin="00:24:16.340" end="00:24:20.630" style="s2">really really walk people down<span style="s4"> to</span> how</p>
+<p begin="00:24:18.830" end="00:24:22.160" style="s2">they<span style="s4"> arrive</span><span style="s3"> to</span> the number which is which</p>
+<p begin="00:24:20.630" end="00:24:22.919" style="s2"><span style="s4">is</span> really a fit the other thing they can</p>
+<p begin="00:24:22.160" end="00:24:26.369" style="s2">do you</p>
+<p begin="00:24:22.919" end="00:24:28.980" style="s2">had pictures I mean which is<span style="s4"> simple</span> and</p>
+<p begin="00:24:26.369" end="00:24:32.909" style="s2"><span style="s3">basic</span> this this is pulled<span style="s3"> out</span> of<span style="s3"> this</span> is</p>
+<p begin="00:24:28.980" end="00:24:34.649" style="s2">pulled out<span style="s3"> of</span> a nice<span style="s3"> report</span> report so so</p>
+<p begin="00:24:32.909" end="00:24:36.899" style="s2">I mean that the level of detail<span style="s4"> that</span></p>
+<p begin="00:24:34.649" end="00:24:38.789" style="s2"><span style="s3">we&#39;re</span> able to go into from each from</p>
+<p begin="00:24:36.899" end="00:24:41.249" style="s2">each property the property<span style="s3"> has</span> really</p>
+<p begin="00:24:38.789" end="00:24:43.200" style="s2">been been amazed and everything the gyms</p>
+<p begin="00:24:41.249" end="00:24:44.639" style="s2">fine all of this was filed separately so</p>
+<p begin="00:24:43.200" end="00:24:47.879" style="s2">an appraiser will be hired for a large</p>
+<p begin="00:24:44.639" end="00:24:50.429" style="s2">commercial building and it&#39;ll be a 50 or</p>
+<p begin="00:24:47.879" end="00:24:51.690" style="s2">100 page appraisal report but maybe that</p>
+<p begin="00:24:50.429" end="00:24:53.369" style="s2">analyst said I<span style="s3"> only</span> looked<span style="s3"> at</span> a couple</p>
+<p begin="00:24:51.690" end="00:24:54.799" style="s2"><span style="s3">of</span> pages and I want<span style="s3"> to</span> put make sure</p>
+<p begin="00:24:53.369" end="00:24:57.269" style="s2">those notes make its way in their file</p>
+<p begin="00:24:54.799" end="00:24:58.889" style="s2">for that property owner later they can</p>
+<p begin="00:24:57.269" end="00:25:01.769" style="s2"><span style="s3">get</span> a complete record<span style="s3"> of</span> how we came to</p>
+<p begin="00:24:58.889" end="00:25:05.700" style="s2"><span style="s3">our</span> conclusions and and how we came to</p>
+<p begin="00:25:01.769" end="00:25:06.570" style="s2"><span style="s4">our</span> math management oh my gosh so this</p>
+<p begin="00:25:05.700" end="00:25:10.169" style="s2"><span style="s3">is</span> great so we&#39;re talking<span style="s3"> about</span></p>
+<p begin="00:25:06.570" end="00:25:12.029" style="s2">management tools before so this goes</p>
+<p begin="00:25:10.169" end="00:25:14.340" style="s2">this<span style="s4"> is</span> the entry time again starting in</p>
+<p begin="00:25:12.029" end="00:25:17.970" style="s2">July<span style="s4"> when</span> we open and then ending up in</p>
+<p begin="00:25:14.340" end="00:25:19.739" style="s2">April<span style="s4"> when</span> we close and and this<span style="s3"> is</span> the</p>
+<p begin="00:25:17.970" end="00:25:21.330" style="s2">life cycle of the file how long we&#39;re</p>
+<p begin="00:25:19.739" end="00:25:25.289" style="s2">spending and the volume<span style="s3"> that</span> we&#39;re</p>
+<p begin="00:25:21.330" end="00:25:27.090" style="s2">seeing again it should have a little<span style="s3"> bit</span></p>
+<p begin="00:25:25.289" end="00:25:29.669" style="s2">of a bump because<span style="s3"> again</span> we&#39;re doing</p>
+<p begin="00:25:27.090" end="00:25:32.039" style="s2">intake we&#39;re<span style="s3"> having</span> hearings hearings</p>
+<p begin="00:25:29.669" end="00:25:33.749" style="s2">are over so meaning that no more</p>
+<p begin="00:25:32.039" end="00:25:35.700" style="s2">townships are open there&#39;s no more</p>
+<p begin="00:25:33.749" end="00:25:37.739" style="s2">deadlines to file anything we&#39;ve had<span style="s3"> all</span></p>
+<p begin="00:25:35.700" end="00:25:38.820" style="s2">the hearings everything is<span style="s4"> in</span> house now</p>
+<p begin="00:25:37.739" end="00:25:41.070" style="s2">we should<span style="s3"> be</span> working on<span style="s3"> getting</span> the</p>
+<p begin="00:25:38.820" end="00:25:44.039" style="s2"><span style="s3">files</span> done when we<span style="s3"> saw</span> this report we</p>
+<p begin="00:25:41.070" end="00:25:45.149" style="s2">said what is this what<span style="s3"> is</span> all this we</p>
+<p begin="00:25:44.039" end="00:25:46.440" style="s2">didn&#39;t<span style="s4"> realize</span> we were spending in an</p>
+<p begin="00:25:45.149" end="00:25:49.799" style="s2">order amount of time on duplicate</p>
+<p begin="00:25:46.440" end="00:25:51.989" style="s2">filings so if you have a condo and you</p>
+<p begin="00:25:49.799" end="00:25:53.159" style="s2">file on your condominium<span style="s3"> and</span> then you</p>
+<p begin="00:25:51.989" end="00:25:55.230" style="s2">don&#39;t know it<span style="s4"> but</span> you&#39;re building higher</p>
+<p begin="00:25:53.159" end="00:25:57.419" style="s2">is an attorney that&#39;s a duplicate filing</p>
+<p begin="00:25:55.230" end="00:25:58.799" style="s2"><span style="s3">okay</span> so we<span style="s4"> have</span> to figure<span style="s3"> out which was</span></p>
+<p begin="00:25:57.419" end="00:26:01.049" style="s2">filed last in which the<span style="s3"> homeowner</span> wants</p>
+<p begin="00:25:58.799" end="00:26:02.879" style="s2">to be a part of but that&#39;s two files so</p>
+<p begin="00:26:01.049" end="00:26:06.299" style="s2">we&#39;re taking enormous amount of time</p>
+<p begin="00:26:02.879" end="00:26:08.220" style="s2">killing dupes<span style="s3"> maybe</span> an attorney it&#39;s</p>
+<p begin="00:26:06.299" end="00:26:10.590" style="s2">maybe you hire an attorney for<span style="s3"> your for</span></p>
+<p begin="00:26:08.220" end="00:26:12.509" style="s2">your warehouse and to appeal the</p>
+<p begin="00:26:10.590" end="00:26:13.919" style="s2">warehouse but<span style="s3"> then</span> a month later you</p>
+<p begin="00:26:12.509" end="00:26:15.629" style="s2">decide<span style="s3"> to</span> let that attorney go and hire</p>
+<p begin="00:26:13.919" end="00:26:17.249" style="s2">somebody<span style="s3"> else</span> so we have one complaint</p>
+<p begin="00:26:15.629" end="00:26:19.499" style="s2">in the file from the first attorney<span style="s3"> and</span></p>
+<p begin="00:26:17.249" end="00:26:21.720" style="s2">that first attorney that second attorney</p>
+<p begin="00:26:19.499" end="00:26:24.570" style="s2">goes ahead and files we have two files</p>
+<p begin="00:26:21.720" end="00:26:27.570" style="s2">on the same property spending<span style="s3"> all</span> of</p>
+<p begin="00:26:24.570" end="00:26:29.759" style="s2">this time so we didn&#39;t even<span style="s3"> realize</span> this</p>
+<p begin="00:26:27.570" end="00:26:31.169" style="s2">much time was getting wasted on on basic</p>
+<p begin="00:26:29.759" end="00:26:32.849" style="s2">administrative tasks until we started</p>
+<p begin="00:26:31.169" end="00:26:35.730" style="s2">running these reports and just ingested</p>
+<p begin="00:26:32.849" end="00:26:36.330" style="s2">to know we were we started to enter into</p>
+<p begin="00:26:35.730" end="00:26:38.730" style="s2">a phase</p>
+<p begin="00:26:36.330" end="00:26:41.220" style="s2">too and we had to make decisions<span style="s3"> on</span></p>
+<p begin="00:26:38.730" end="00:26:42.630" style="s2">where to spend<span style="s3"> money</span> and really<span style="s4"> where</span></p>
+<p begin="00:26:41.220" end="00:26:44.700" style="s2"><span style="s3">deploy</span> because we limited amount<span style="s3"> of</span></p>
+<p begin="00:26:42.630" end="00:26:46.380" style="s2">capital and this was this<span style="s4"> is</span> very</p>
+<p begin="00:26:44.700" end="00:26:49.710" style="s2">effective we all had anecdotal stories</p>
+<p begin="00:26:46.380" end="00:26:51.539" style="s2">of what people did and<span style="s3"> why</span> and what we</p>
+<p begin="00:26:49.710" end="00:26:53.669" style="s2">needed to work on but this<span style="s3"> really</span> kind</p>
+<p begin="00:26:51.539" end="00:26:56.640" style="s2"><span style="s3">of</span> drove<span style="s3"> it</span> home that if we eliminated</p>
+<p begin="00:26:53.669" end="00:26:58.890" style="s2">over fifty percent of one task automated</p>
+<p begin="00:26:56.640" end="00:27:00.659" style="s2">it but we would make the<span style="s4"> system</span></p>
+<p begin="00:26:58.890" end="00:27:03.090" style="s2"><span style="s3">instantly better we also</span><span style="s4"> need</span> to show</p>
+<p begin="00:27:00.659" end="00:27:06.179" style="s2">you to<span style="s3"> remind</span> you that<span style="s4"> was</span> our old</p>
+<p begin="00:27:03.090" end="00:27:10.549" style="s2">management tool so it<span style="s3"> really</span> is<span style="s4"> quite</span> a</p>
+<p begin="00:27:06.179" end="00:27:13.590" style="s2"><span style="s3">just position between the</span> two<span style="s3"> all right</span></p>
+<p begin="00:27:10.549" end="00:27:14.730" style="s2">so up we were on time and on budget as I</p>
+<p begin="00:27:13.590" end="00:27:22.019" style="s2"><span style="s4">mentioned</span> you know<span style="s3"> we</span> were working<span style="s3"> with</span></p>
+<p begin="00:27:14.730" end="00:27:24.029" style="s2">our say thank you think<span style="s4"> I&#39;m I think I&#39;m</span></p>
+<p begin="00:27:22.019" end="00:27:26.610" style="s2">legally obligated by President Pro<span style="s4"> uncle</span></p>
+<p begin="00:27:24.029" end="00:27:28.320" style="s2">to say we were on time and on budget at</p>
+<p begin="00:27:26.610" end="00:27:31.980" style="s2">every<span style="s3"> single</span> time but we are really</p>
+<p begin="00:27:28.320" end="00:27:33.539" style="s2">proud of the on time part again once we</p>
+<p begin="00:27:31.980" end="00:27:35.429" style="s2">once we knew we&#39;re going to be doing</p>
+<p begin="00:27:33.539" end="00:27:39.659" style="s2"><span style="s3">this</span> in a lifetime real-time environment</p>
+<p begin="00:27:35.429" end="00:27:41.250" style="s2">and not testing it boy everybody minded</p>
+<p begin="00:27:39.659" end="00:27:42.899" style="s2">their P&#39;s and Q&#39;s and everybody worked</p>
+<p begin="00:27:41.250" end="00:27:44.070" style="s2">really hard to get it done the the</p>
+<p begin="00:27:42.899" end="00:27:46.860" style="s2">practicing<span style="s4"> borrower</span> who appears before</p>
+<p begin="00:27:44.070" end="00:27:48.299" style="s2">us really was hoping we wouldn&#39;t do it</p>
+<p begin="00:27:46.860" end="00:27:51.149" style="s2">with the city we would do with one of</p>
+<p begin="00:27:48.299" end="00:27:53.340" style="s2">the smaller suburban the north or south</p>
+<p begin="00:27:51.149" end="00:27:55.860" style="s2">but we had to<span style="s3"> do</span> it as soon as possible</p>
+<p begin="00:27:53.340" end="00:27:58.590" style="s2">we completed it we used it in the 2015</p>
+<p begin="00:27:55.860" end="00:28:00.870" style="s2">appeal session<span style="s3"> it&#39;s</span> online now as Jim</p>
+<p begin="00:27:58.590" end="00:28:03.539" style="s2">mentioned we&#39;re doing in phase<span style="s3"> 2</span> some</p>
+<p begin="00:28:00.870" end="00:28:07.230" style="s2">further development highest volume tax</p>
+<p begin="00:28:03.539" end="00:28:08.789" style="s2">bills went out on time boy eliminate</p>
+<p begin="00:28:07.230" end="00:28:10.169" style="s2">over<span style="s3"> 2</span> million pieces of paper and</p>
+<p begin="00:28:08.789" end="00:28:11.580" style="s2">reduced our space storage needs so when</p>
+<p begin="00:28:10.169" end="00:28:13.679" style="s2">you saw<span style="s4"> that</span> work flow chart one of the</p>
+<p begin="00:28:11.580" end="00:28:16.019" style="s2">things we started racking up was a side</p>
+<p begin="00:28:13.679" end="00:28:18.299" style="s2">chart of how much<span style="s3"> paper</span> was generated</p>
+<p begin="00:28:16.019" end="00:28:21.929" style="s2"><span style="s3">and</span> push in every<span style="s3"> single</span> step of the way</p>
+<p begin="00:28:18.299" end="00:28:25.980" style="s2">the mood lighting awesome i&#39;m not<span style="s3"> going</span></p>
+<p begin="00:28:21.929" end="00:28:28.710" style="s2">to deepen my voice and so again<span style="s3"> the</span><span style="s4"> 2</span></p>
+<p begin="00:28:25.980" end="00:28:30.870" style="s2">million pieces of paper kind of gets</p>
+<p begin="00:28:28.710" end="00:28:32.190" style="s2">pushed out we&#39;re going<span style="s3"> to</span> be figuring</p>
+<p begin="00:28:30.870" end="00:28:33.510" style="s2">out what the cash value is in the</p>
+<p begin="00:28:32.190" end="00:28:35.100" style="s2">warehouse space we&#39;re giving back to the</p>
+<p begin="00:28:33.510" end="00:28:36.659" style="s2">county again that will<span style="s3"> hopefully</span> reduce</p>
+<p begin="00:28:35.100" end="00:28:38.820" style="s2">the cost of this because now without</p>
+<p begin="00:28:36.659" end="00:28:40.950" style="s2">needing to store all<span style="s4"> that</span> they<span style="s4"> can</span> they</p>
+<p begin="00:28:38.820" end="00:28:43.080" style="s2">can turn that back over<span style="s3"> and</span> then as<span style="s3"> Jim</span></p>
+<p begin="00:28:40.950" end="00:28:44.610" style="s2">mentioned before we focus on our core</p>
+<p begin="00:28:43.080" end="00:28:47.039" style="s2">competencies getting away from pushing</p>
+<p begin="00:28:44.610" end="00:28:49.110" style="s2">carts and rubber<span style="s3"> bands</span> to making folks</p>
+<p begin="00:28:47.039" end="00:28:50.310" style="s2">into analysts at the beginning of the</p>
+<p begin="00:28:49.110" end="00:28:52.350" style="s2">process we had a candid</p>
+<p begin="00:28:50.310" end="00:28:54.270" style="s2">and direct conversation with everybody</p>
+<p begin="00:28:52.350" end="00:28:55.680" style="s2">and said at the end<span style="s3"> of</span> this process</p>
+<p begin="00:28:54.270" end="00:28:58.920" style="s2">we&#39;re going to be folks and being</p>
+<p begin="00:28:55.680" end="00:29:00.450" style="s2">analysts so if your job was something</p>
+<p begin="00:28:58.920" end="00:29:01.680" style="s2">other than being<span style="s3"> an</span> analyst you&#39;re going</p>
+<p begin="00:29:00.450" end="00:29:02.880" style="s2">to<span style="s3"> have</span> to learn<span style="s3"> how to be an analyst</span></p>
+<p begin="00:29:01.680" end="00:29:03.930" style="s2">and if you don&#39;t want<span style="s4"> to</span> learn how<span style="s3"> to</span> be</p>
+<p begin="00:29:02.880" end="00:29:05.840" style="s2">an analyst and if you don&#39;t have the</p>
+<p begin="00:29:03.930" end="00:29:08.460" style="s2">skill set or the<span style="s3"> towns</span> to be an analyst</p>
+<p begin="00:29:05.840" end="00:29:10.620" style="s2">you should know our job<span style="s4"> here</span> is being</p>
+<p begin="00:29:08.460" end="00:29:13.170" style="s2">analysts and there was real good<span style="s3"> and</span></p>
+<p begin="00:29:10.620" end="00:29:14.970" style="s2">there was great buying and again you</p>
+<p begin="00:29:13.170" end="00:29:17.280" style="s2"><span style="s4">know</span> our goal building trust through</p>
+<p begin="00:29:14.970" end="00:29:18.510" style="s2">transparency efficiency and the</p>
+<p begin="00:29:17.280" end="00:29:22.860" style="s2">accessibility of the file and the</p>
+<p begin="00:29:18.510" end="00:29:29.280" style="s2">information<span style="s4"> in</span> the file<span style="s4"> Thanks</span> any</p>
+<p begin="00:29:22.860" end="00:29:33.030" style="s2">questions don&#39;t be questions<span style="s4"> the</span></p>
+<p begin="00:29:29.280" end="00:29:35.430" style="s2">questions<span style="s4"> we</span> use this so you talked a</p>
+<p begin="00:29:33.030" end="00:29:36.840" style="s2">little bit about uh like I guess right</p>
+<p begin="00:29:35.430" end="00:29:38.580" style="s2"><span style="s3">at</span> the end about managing sort of the</p>
+<p begin="00:29:36.840" end="00:29:40.440" style="s2">human change and expectations of people</p>
+<p begin="00:29:38.580" end="00:29:41.940" style="s2"><span style="s3">working</span> there right I guess I&#39;ve heard</p>
+<p begin="00:29:40.440" end="00:29:43.110" style="s2">two things one is that you can&#39;t just</p>
+<p begin="00:29:41.940" end="00:29:44.910" style="s2">shut the doors of<span style="s4"> City Hall for</span><span style="s3"> a</span> week</p>
+<p begin="00:29:43.110" end="00:29:46.980" style="s2">and I&#39;ve heard<span style="s3"> that</span> as a reason not to</p>
+<p begin="00:29:44.910" end="00:29:48.450" style="s2">transition to a system<span style="s3"> like</span> this and</p>
+<p begin="00:29:46.980" end="00:29:51.450" style="s2">also that<span style="s3"> people</span> are really fearful of</p>
+<p begin="00:29:48.450" end="00:29:52.590" style="s2">learning a new thing I&#39;m in this<span style="s3"> context</span></p>
+<p begin="00:29:51.450" end="00:29:54.090" style="s2">I guess could you talk a little bit<span style="s3"> more</span></p>
+<p begin="00:29:52.590" end="00:30:00.030" style="s2"><span style="s3">about</span> managing that human change yeah</p>
+<p begin="00:29:54.090" end="00:30:02.730" style="s2">that&#39;s a great great question so we had</p>
+<p begin="00:30:00.030" end="00:30:05.430" style="s2">I think<span style="s3"> two</span> people maybe three people</p>
+<p begin="00:30:02.730" end="00:30:07.620" style="s2">who retired at the end<span style="s3"> of</span> this and they</p>
+<p begin="00:30:05.430" end="00:30:09.660" style="s2">told<span style="s3"> us</span> they didn&#39;t want<span style="s3"> to</span> learn<span style="s4"> how</span> to</p>
+<p begin="00:30:07.620" end="00:30:11.130" style="s2">use a system I mean the exit interview</p>
+<p begin="00:30:09.660" end="00:30:12.660" style="s2">I&#39;m like can you tell<span style="s4"> us</span> you&#39;ve<span style="s4"> been</span></p>
+<p begin="00:30:11.130" end="00:30:14.400" style="s2">here for<span style="s4"> many</span> years<span style="s3"> doing</span> great job I&#39;m</p>
+<p begin="00:30:12.660" end="00:30:15.450" style="s2">just I&#39;m eligible for retirement and I&#39;d</p>
+<p begin="00:30:14.400" end="00:30:17.370" style="s2">rather don&#39;t want to learn a system</p>
+<p begin="00:30:15.450" end="00:30:19.560" style="s2">which really made us take a step back</p>
+<p begin="00:30:17.370" end="00:30:21.930" style="s2"><span style="s4">and</span> go okay have<span style="s4"> we</span> overwhelmed people</p>
+<p begin="00:30:19.560" end="00:30:24.030" style="s2">our own staff<span style="s3"> with</span> all these great</p>
+<p begin="00:30:21.930" end="00:30:26.670" style="s2">things that<span style="s3"> can</span> do now it just becomes</p>
+<p begin="00:30:24.030" end="00:30:29.520" style="s2">overwhelming so Jim and everyone started</p>
+<p begin="00:30:26.670" end="00:30:30.840" style="s2">doing<span style="s4"> kind</span> of a reverse sprint of okay</p>
+<p begin="00:30:29.520" end="00:30:32.220" style="s2"><span style="s4">you kami Noah&#39;s on the front end and</span></p>
+<p begin="00:30:30.840" end="00:30:33.630" style="s2">told us what<span style="s3"> you</span> wanted to do now we&#39;re</p>
+<p begin="00:30:32.220" end="00:30:35.280" style="s2">pleased<span style="s4"> to</span> tell you incrementally this</p>
+<p begin="00:30:33.630" end="00:30:36.720" style="s2">is what it&#39;s<span style="s4"> going</span> to be doing and<span style="s3"> it&#39;s</span></p>
+<p begin="00:30:35.280" end="00:30:40.530" style="s2">you&#39;re really doing the same job you did</p>
+<p begin="00:30:36.720" end="00:30:42.990" style="s2">before we knew and we were candid with</p>
+<p begin="00:30:40.530" end="00:30:45.630" style="s2">with the<span style="s3"> county board in the bureau of</span></p>
+<p begin="00:30:42.990" end="00:30:48.720" style="s2">technology this was never a tool for<span style="s3"> us</span></p>
+<p begin="00:30:45.630" end="00:30:51.180" style="s2">to reduce our headcount and reduce our</p>
+<p begin="00:30:48.720" end="00:30:53.160" style="s2">budget this was a we like to keep our</p>
+<p begin="00:30:51.180" end="00:30:56.120" style="s2">budget and keep our head count rather</p>
+<p begin="00:30:53.160" end="00:30:58.710" style="s2">than ballooning so give you an example</p>
+<p begin="00:30:56.120" end="00:30:59.970" style="s2">last<span style="s3"> year</span> our<span style="s3"> overtime</span> budget was</p>
+<p begin="00:30:58.710" end="00:31:01.740" style="s2">approximately four hundred thousand</p>
+<p begin="00:30:59.970" end="00:31:03.180" style="s2">dollars this year we&#39;re budgeting half</p>
+<p begin="00:31:01.740" end="00:31:07.290" style="s2"><span style="s4">at</span> about<span style="s4"> two hundred thousand</span></p>
+<p begin="00:31:03.180" end="00:31:09.150" style="s2">because again those folks who were not</p>
+<p begin="00:31:07.290" end="00:31:10.440" style="s2">on a noun analyst role are going to be</p>
+<p begin="00:31:09.150" end="00:31:12.690" style="s2">in an analyst role and we&#39;re not</p>
+<p begin="00:31:10.440" end="00:31:15.660" style="s2">spending time finding where files are in</p>
+<p begin="00:31:12.690" end="00:31:16.980" style="s2">work hearts are so the the the early</p>
+<p begin="00:31:15.660" end="00:31:18.480" style="s2">retirement not earlier time they&#39;re</p>
+<p begin="00:31:16.980" end="00:31:20.910" style="s2">eligible for retirement the retirement</p>
+<p begin="00:31:18.480" end="00:31:22.260" style="s2">side of it was pretty<span style="s3"> shocking</span> and made</p>
+<p begin="00:31:20.910" end="00:31:24.690" style="s2">us realize our kind of roll out</p>
+<p begin="00:31:22.260" end="00:31:26.700" style="s2">internally maybe was over the top<span style="s3"> maybe</span></p>
+<p begin="00:31:24.690" end="00:31:28.200" style="s2">I was too excited<span style="s3"> with</span> folks inside I&#39;m</p>
+<p begin="00:31:26.700" end="00:31:31.170" style="s2"><span style="s3">just</span> let<span style="s3"> me</span><span style="s4"> just</span> add just a little bit</p>
+<p begin="00:31:28.200" end="00:31:33.920" style="s2">to that because from a day-to-day view</p>
+<p begin="00:31:31.170" end="00:31:37.080" style="s2">point of going<span style="s4"> through</span> using<span style="s3"> agile</span></p>
+<p begin="00:31:33.920" end="00:31:39.060" style="s2">allowed us to have through the discovery</p>
+<p begin="00:31:37.080" end="00:31:40.710" style="s2">process through stories and through I</p>
+<p begin="00:31:39.060" end="00:31:44.250" style="s2">had<span style="s3"> everyone</span> come in<span style="s3"> and</span> kind<span style="s3"> of</span> explain</p>
+<p begin="00:31:40.710" end="00:31:46.350" style="s2">what they did but<span style="s3"> not</span> in and and not</p>
+<p begin="00:31:44.250" end="00:31:48.780" style="s2">like I&#39;d move the piece of<span style="s3"> paper</span><span style="s4"> here I</span></p>
+<p begin="00:31:46.350" end="00:31:50.580" style="s2">move this data from here to there that</p>
+<p begin="00:31:48.780" end="00:31:55.980" style="s2">this is this is what my this<span style="s3"> is</span> what I</p>
+<p begin="00:31:50.580" end="00:31:58.080" style="s2">do here they understood more about what</p>
+<p begin="00:31:55.980" end="00:32:02.190" style="s2">the business<span style="s4"> process</span> was of why we did</p>
+<p begin="00:31:58.080" end="00:32:05.660" style="s2">things and then they allowed<span style="s4"> us</span> to<span style="s3"> use</span></p>
+<p begin="00:32:02.190" end="00:32:10.170" style="s2">that to really digitize their ideas and</p>
+<p begin="00:32:05.660" end="00:32:11.640" style="s2">not their actual functions<span style="s4"> okay</span> so they</p>
+<p begin="00:32:10.170" end="00:32:13.890" style="s2">became apart they start building the</p>
+<p begin="00:32:11.640" end="00:32:16.350" style="s2">system and then they started testing the</p>
+<p begin="00:32:13.890" end="00:32:18.660" style="s2">system and then they started and and and</p>
+<p begin="00:32:16.350" end="00:32:20.160" style="s2">we had the vendor in that was giving us</p>
+<p begin="00:32:18.660" end="00:32:23.370" style="s2">notes and back<span style="s3"> and</span> forth and thank out</p>
+<p begin="00:32:20.160" end="00:32:25.770" style="s2">it was a milestone I&#39;m contract if it</p>
+<p begin="00:32:23.370" end="00:32:28.260" style="s2">was time<span style="s4"> and</span> materials i think we&#39;d</p>
+<p begin="00:32:25.770" end="00:32:30.600" style="s2">still be there<span style="s4"> but</span> it they<span style="s4"> spent</span> a<span style="s3"> lot</span></p>
+<p begin="00:32:28.260" end="00:32:33.450" style="s2">of time with us to not just replicate</p>
+<p begin="00:32:30.600" end="00:32:35.250" style="s2">the paper process but to<span style="s3"> really</span> find out</p>
+<p begin="00:32:33.450" end="00:32:39.270" style="s2"><span style="s3">what</span> you everyone that worked with<span style="s3"> us</span></p>
+<p begin="00:32:35.250" end="00:32:40.860" style="s2"><span style="s3">had</span> a special knowledge and skill and we</p>
+<p begin="00:32:39.270" end="00:32:42.960" style="s2">worked really hard to bring that out and</p>
+<p begin="00:32:40.860" end="00:32:45.060" style="s2">make<span style="s4"> sure that</span><span style="s3"> they</span> could pass that</p>
+<p begin="00:32:42.960" end="00:32:47.370" style="s2"><span style="s3">skill</span> on to what the digital process was</p>
+<p begin="00:32:45.060" end="00:32:49.800" style="s2">and continue doing that so it was it was</p>
+<p begin="00:32:47.370" end="00:32:52.380" style="s2">a<span style="s3"> really</span> I think the methodology and</p>
+<p begin="00:32:49.800" end="00:32:54.270" style="s2">going through<span style="s4"> the change we had this big</span></p>
+<p begin="00:32:52.380" end="00:32:56.850" style="s2">plan for change management but when we</p>
+<p begin="00:32:54.270" end="00:33:00.510" style="s2">saw people how excited they were to<span style="s3"> be</span> a</p>
+<p begin="00:32:56.850" end="00:33:02.280" style="s2">part of how we changed it it almost took</p>
+<p begin="00:33:00.510" end="00:33:04.290" style="s2">care of itself it was really really<span style="s3"> did</span></p>
+<p begin="00:33:02.280" end="00:33:06.630" style="s2">we were lucky to<span style="s4"> have</span> a vendor who was</p>
+<p begin="00:33:04.290" end="00:33:08.190" style="s2"><span style="s4">able to do that</span><span style="s3"> and we were as a staff</span></p>
+<p begin="00:33:06.630" end="00:33:12.960" style="s2">we would like to kind of recognize it</p>
+<p begin="00:33:08.190" end="00:33:15.270" style="s2">with really good<span style="s4"> people</span> in the trust is</p>
+<p begin="00:33:12.960" end="00:33:16.860" style="s2">it an important concern that the three</p>
+<p begin="00:33:15.270" end="00:33:18.840" style="s2">commissioners reviews are in</p>
+<p begin="00:33:16.860" end="00:33:22.020" style="s2">of each other and is there anything in</p>
+<p begin="00:33:18.840" end="00:33:23.220" style="s2">this system that is related to that your</p>
+<p begin="00:33:22.020" end="00:33:24.240" style="s2">question<span style="s4"> is</span> the question was it</p>
+<p begin="00:33:23.220" end="00:33:25.890" style="s2">important that all three commissioners</p>
+<p begin="00:33:24.240" end="00:33:27.450" style="s2">reviews are independent and is there</p>
+<p begin="00:33:25.890" end="00:33:28.980" style="s2">anything in the system to make sure</p>
+<p begin="00:33:27.450" end="00:33:34.140" style="s2"><span style="s4">those</span> firewalls are there they are</p>
+<p begin="00:33:28.980" end="00:33:37.380" style="s2">important and we want everybody<span style="s4"> to</span> be</p>
+<p begin="00:33:34.140" end="00:33:39.059" style="s2">independent but not isolated so if there</p>
+<p begin="00:33:37.380" end="00:33:41.130" style="s2">is a<span style="s3"> question about a file it&#39;s a lot</span></p>
+<p begin="00:33:39.059" end="00:33:42.150" style="s2">easier now so for example we<span style="s3"> have</span> a one</p>
+<p begin="00:33:41.130" end="00:33:44.160" style="s2">of the things<span style="s3"> that</span> we knew we&#39;d have to</p>
+<p begin="00:33:42.150" end="00:33:45.750" style="s2">bump in is a<span style="s3"> management</span> tool so that if</p>
+<p begin="00:33:44.160" end="00:33:47.520" style="s2">somebody felt like they had too many</p>
+<p begin="00:33:45.750" end="00:33:49.679" style="s2">questions<span style="s3"> and</span> they couldn&#39;t work it that</p>
+<p begin="00:33:47.520" end="00:33:51.360" style="s2">they could bump it up so if it&#39;s if I&#39;m</p>
+<p begin="00:33:49.679" end="00:33:53.790" style="s2">the first cut and I&#39;m sending it to</p>
+<p begin="00:33:51.360" end="00:33:55.530" style="s2">somebody who&#39;s the second cut one of<span style="s3"> my</span></p>
+<p begin="00:33:53.790" end="00:33:57.000" style="s2">colleagues and that analyst gets it and</p>
+<p begin="00:33:55.530" end="00:33:59.280" style="s2">says I feel<span style="s4"> like</span> I&#39;m<span style="s3"> kind</span> of out of my</p>
+<p begin="00:33:57.000" end="00:34:02.190" style="s2"><span style="s3">weight</span> class they can manually bump it</p>
+<p begin="00:33:59.280" end="00:34:04.799" style="s2">up to their boss so or up to the</p>
+<p begin="00:34:02.190" end="00:34:07.410" style="s2"><span style="s3">Commissioner</span> to<span style="s3"> take</span> a look<span style="s3"> at</span> it so we</p>
+<p begin="00:34:04.799" end="00:34:09.389" style="s2">wanted to be a or they have the<span style="s4"> ability</span></p>
+<p begin="00:34:07.410" end="00:34:11.010" style="s2">to go<span style="s3"> down</span> the hall<span style="s4"> and</span> talk and say hey</p>
+<p begin="00:34:09.389" end="00:34:13.440" style="s2">I&#39;m looking especially<span style="s4"> on</span> a third cut</p>
+<p begin="00:34:11.010" end="00:34:14.790" style="s2">sometimes on a third cut you&#39;ll have the</p>
+<p begin="00:34:13.440" end="00:34:15.810" style="s2">first<span style="s3"> cuts</span> that&#39;s one thing the second</p>
+<p begin="00:34:14.790" end="00:34:17.310" style="s2"><span style="s3">cuts that something else in</span> the third</p>
+<p begin="00:34:15.810" end="00:34:19.169" style="s2">cut is saying I think<span style="s4"> the</span> two you<span style="s3"> need</span></p>
+<p begin="00:34:17.310" end="00:34:20.850" style="s2">to talk because<span style="s3"> we&#39;re</span> basically going<span style="s3"> to</span></p>
+<p begin="00:34:19.169" end="00:34:22.350" style="s2">have three different decisions here if</p>
+<p begin="00:34:20.850" end="00:34:24.149" style="s2">that&#39;s<span style="s4"> the</span><span style="s3"> case</span> if there&#39;s three</p>
+<p begin="00:34:22.350" end="00:34:26.070" style="s2">different decisions it&#39;s a<span style="s3"> no</span> change the</p>
+<p begin="00:34:24.149" end="00:34:28.200" style="s2">file stays that<span style="s3"> the</span> value was coming in</p>
+<p begin="00:34:26.070" end="00:34:30.540" style="s2">because we couldn&#39;t get new agreement so</p>
+<p begin="00:34:28.200" end="00:34:33.510" style="s2">it does allow<span style="s3"> it</span> the fact that Jim said</p>
+<p begin="00:34:30.540" end="00:34:36.359" style="s2">that we can take on one note some of</p>
+<p begin="00:34:33.510" end="00:34:39.090" style="s2">that those notes more and<span style="s3"> more</span> the third</p>
+<p begin="00:34:36.359" end="00:34:40.500" style="s2">cut is just say is referring back to the</p>
+<p begin="00:34:39.090" end="00:34:42.359" style="s2">notes and<span style="s3"> the</span> first and the second cut</p>
+<p begin="00:34:40.500" end="00:34:44.100" style="s2">they&#39;re not recreating it on the third</p>
+<p begin="00:34:42.359" end="00:34:46.440" style="s2">time so the first and the second cut</p>
+<p begin="00:34:44.100" end="00:34:47.790" style="s2">look identical the third person kind<span style="s3"> of</span></p>
+<p begin="00:34:46.440" end="00:34:50.159" style="s2">saying I&#39;m not<span style="s4"> going</span> to recopy</p>
+<p begin="00:34:47.790" end="00:34:51.990" style="s2">everything here see here&#39;s my analysis</p>
+<p begin="00:34:50.159" end="00:34:53.399" style="s2">and for the supporting evidence go look</p>
+<p begin="00:34:51.990" end="00:34:58.050" style="s2">at first and second cut because it&#39;s in</p>
+<p begin="00:34:53.399" end="00:34:59.700" style="s2">there I don&#39;t that answers it so I&#39;m</p>
+<p begin="00:34:58.050" end="00:35:00.869" style="s2">just curious how much of this</p>
+<p begin="00:34:59.700" end="00:35:03.750" style="s2">information you&#39;re<span style="s3"> going</span> to make</p>
+<p begin="00:35:00.869" end="00:35:06.540" style="s2">available<span style="s3"> for</span><span style="s4"> people</span> you know you may</p>
+<p begin="00:35:03.750" end="00:35:08.310" style="s2"><span style="s4">not</span> get as many appeals if people know</p>
+<p begin="00:35:06.540" end="00:35:10.619" style="s2">what type of evidence you&#39;re using and</p>
+<p begin="00:35:08.310" end="00:35:12.210" style="s2">you know if I know that my condo</p>
+<p begin="00:35:10.619" end="00:35:14.160" style="s2">building is in your file and this is</p>
+<p begin="00:35:12.210" end="00:35:17.130" style="s2">what you&#39;re using I may<span style="s3"> not</span> even need to</p>
+<p begin="00:35:14.160" end="00:35:18.750" style="s2">appeal so great<span style="s4"> question</span> so it&#39;s it&#39;s</p>
+<p begin="00:35:17.130" end="00:35:20.640" style="s2">all open under the<span style="s3"> same</span> rules we had</p>
+<p begin="00:35:18.750" end="00:35:24.869" style="s2">before which is folks have to submit a</p>
+<p begin="00:35:20.640" end="00:35:26.369" style="s2">FOIA but with a FOIA it&#39;s now taken in</p>
+<p begin="00:35:24.869" end="00:35:28.530" style="s2">digitally and we send<span style="s3"> you</span> back the file</p>
+<p begin="00:35:26.369" end="00:35:29.680" style="s2">digitally so you email as a FOIA and say</p>
+<p begin="00:35:28.530" end="00:35:31.780" style="s2">I&#39;d like to look at my building</p>
+<p begin="00:35:29.680" end="00:35:32.800" style="s2">I&#39;d like<span style="s3"> to</span> look at all the condo units</p>
+<p begin="00:35:31.780" end="00:35:34.720" style="s2">in my building I&#39;d like to note my</p>
+<p begin="00:35:32.800" end="00:35:37.510" style="s2">building appealed we&#39;ll pull it<span style="s3"> up</span></p>
+<p begin="00:35:34.720" end="00:35:39.670" style="s2">figure<span style="s3"> out</span> the giver get the address get</p>
+<p begin="00:35:37.510" end="00:35:41.109" style="s2">the property index number process it and</p>
+<p begin="00:35:39.670" end="00:35:43.599" style="s2">then send you back a data file of</p>
+<p begin="00:35:41.109" end="00:35:44.559" style="s2">everything you need so good question in</p>
+<p begin="00:35:43.599" end="00:35:46.480" style="s2">terms of I don&#39;t<span style="s3"> know</span> what&#39;s going to</p>
+<p begin="00:35:44.559" end="00:35:49.210" style="s2">mean in terms of the volume<span style="s3"> of</span><span style="s4"> Appeal</span></p>
+<p begin="00:35:46.480" end="00:35:50.980" style="s2">going down if people could look at<span style="s4"> it</span></p>
+<p begin="00:35:49.210" end="00:35:52.839" style="s2">and might I mean<span style="s3"> the</span> fact of the<span style="s3"> matter</span></p>
+<p begin="00:35:50.980" end="00:35:54.700" style="s2">is everybody&#39;s paying more attention to</p>
+<p begin="00:35:52.839" end="00:35:56.109" style="s2">property taxes<span style="s4"> and</span> there&#39;s TV</p>
+<p begin="00:35:54.700" end="00:35:58.329" style="s2">commercials and it&#39;s in the press and</p>
+<p begin="00:35:56.109" end="00:36:00.430" style="s2">what have you so and there&#39;s<span style="s3"> no</span> filing</p>
+<p begin="00:35:58.329" end="00:36:02.170" style="s2">fee and the fact that we make it easier</p>
+<p begin="00:36:00.430" end="00:36:03.609" style="s2"><span style="s3">I</span> think is going to drive more people to</p>
+<p begin="00:36:02.170" end="00:36:05.800" style="s2">do it which we want them<span style="s3"> to</span> do I mean</p>
+<p begin="00:36:03.609" end="00:36:08.200" style="s2">that was we don&#39;t want to ever make it</p>
+<p begin="00:36:05.800" end="00:36:10.480" style="s2">more difficult the strange thing about</p>
+<p begin="00:36:08.200" end="00:36:13.000" style="s2">paper paper complaints you realized was</p>
+<p begin="00:36:10.480" end="00:36:14.740" style="s2">you know I didn&#39;t realize so we started</p>
+<p begin="00:36:13.000" end="00:36:16.690" style="s2"><span style="s3">working</span> on this you know a paper</p>
+<p begin="00:36:14.740" end="00:36:19.690" style="s2">complaint form that can reduce what you</p>
+<p begin="00:36:16.690" end="00:36:21.790" style="s2">pay in taxes is valuable in itself the</p>
+<p begin="00:36:19.690" end="00:36:23.380" style="s2">who gets one of those complaint forms</p>
+<p begin="00:36:21.790" end="00:36:25.990" style="s2">how many do we print how do we</p>
+<p begin="00:36:23.380" end="00:36:28.780" style="s2">distribute them I mean it with the the</p>
+<p begin="00:36:25.990" end="00:36:31.300" style="s2">openness of having it on line 24 hours a</p>
+<p begin="00:36:28.780" end="00:36:33.010" style="s2">day that anybody can look at verse says</p>
+<p begin="00:36:31.300" end="00:36:36.010" style="s2">the I have a complaint form and I decide</p>
+<p begin="00:36:33.010" end="00:36:38.589" style="s2"><span style="s4">you</span> get one but not she gets one you get</p>
+<p begin="00:36:36.010" end="00:36:39.970" style="s2">a complaint form but they don&#39;t when you</p>
+<p begin="00:36:38.589" end="00:36:42.400" style="s2">eliminate those paper complaint forms</p>
+<p begin="00:36:39.970" end="00:36:49.740" style="s2">and it&#39;s all online<span style="s4"> its</span> democratized for</p>
+<p begin="00:36:42.400" end="00:36:53.339" style="s2">all yes ma&#39;am what was the process of</p>
+<p begin="00:36:49.740" end="00:36:55.359" style="s2">finding a vendor like where were their</p>
+<p begin="00:36:53.339" end="00:36:59.559" style="s2">impediments in the old way of doing</p>
+<p begin="00:36:55.359" end="00:37:02.349" style="s2"><span style="s3">things</span> great question I we are not IT</p>
+<p begin="00:36:59.559" end="00:37:05.680" style="s2">professionals at the board of review and</p>
+<p begin="00:37:02.349" end="00:37:07.839" style="s2">we knew we would like it to do but</p>
+<p begin="00:37:05.680" end="00:37:10.359" style="s2">communicating that to our procurement</p>
+<p begin="00:37:07.839" end="00:37:12.220" style="s2">officials and our and our<span style="s4"> Bo t so we all</span></p>
+<p begin="00:37:10.359" end="00:37:14.760" style="s2">had<span style="s3"> to</span> get on<span style="s3"> the</span> same page I&#39;ll let Jim</p>
+<p begin="00:37:12.220" end="00:37:18.069" style="s2">talk yeah let me let him<span style="s3"> talk</span> about<span style="s4"> that</span></p>
+<p begin="00:37:14.760" end="00:37:19.059" style="s2">so we had<span style="s3"> to</span> I got to frustrating as the</p>
+<p begin="00:37:18.069" end="00:37:20.920" style="s2">Commissioner<span style="s3"> that&#39;s</span> what I stood up I</p>
+<p begin="00:37:19.059" end="00:37:24.369" style="s2"><span style="s4">felt</span> like figure this out you yeah we</p>
+<p begin="00:37:20.920" end="00:37:27.180" style="s2">had we<span style="s4"> had</span> to rfps<span style="s3"> okay</span> the first one we</p>
+<p begin="00:37:24.369" end="00:37:30.700" style="s2">sent out was hey what should we do and</p>
+<p begin="00:37:27.180" end="00:37:32.049" style="s2">it was really really we got all kinds<span style="s4"> of</span></p>
+<p begin="00:37:30.700" end="00:37:34.930" style="s2">answers back but they were all the wrong</p>
+<p begin="00:37:32.049" end="00:37:36.430" style="s2">answers we did have several on base</p>
+<p begin="00:37:34.930" end="00:37:38.710" style="s2">platform<span style="s3"> low people that were using the</span></p>
+<p begin="00:37:36.430" end="00:37:42.190" style="s2"><span style="s3">base</span> platform and then the<span style="s3"> CIO at the</span></p>
+<p begin="00:37:38.710" end="00:37:42.940" style="s2">time she she said you know you need to</p>
+<p begin="00:37:42.190" end="00:37:44.380" style="s2">pick a software</p>
+<p begin="00:37:42.940" end="00:37:46.210" style="s2">platform you guys aren&#39;t technical</p>
+<p begin="00:37:44.380" end="00:37:48.280" style="s2">people pick something you know what your</p>
+<p begin="00:37:46.210" end="00:37:51.609" style="s2">business is and then pick an implementer</p>
+<p begin="00:37:48.280" end="00:37:53.770" style="s2">that can translate your words use that</p>
+<p begin="00:37:51.609" end="00:37:55.660" style="s2">platform into what your business<span style="s3"> process</span></p>
+<p begin="00:37:53.770" end="00:37:59.470" style="s2">should be so when we reissued we</p>
+<p begin="00:37:55.660" end="00:38:01.300" style="s2">reissued it as implementers we got six I</p>
+<p begin="00:37:59.470" end="00:38:05.829" style="s2">think Beck was right and they were all</p>
+<p begin="00:38:01.300" end="00:38:08.740" style="s2"><span style="s4">very</span> good our vendor was was fantastic</p>
+<p begin="00:38:05.829" end="00:38:12.250" style="s2">in in the sense that they were with us</p>
+<p begin="00:38:08.740" end="00:38:14.410" style="s2">every day and it was up until two weeks</p>
+<p begin="00:38:12.250" end="00:38:16.900" style="s2">ago we had someone in<span style="s3"> her</span> office from</p>
+<p begin="00:38:14.410" end="00:38:19.540" style="s2">from there from their office they were</p>
+<p begin="00:38:16.900" end="00:38:21.730" style="s2">with us every step of the way in just</p>
+<p begin="00:38:19.540" end="00:38:24.490" style="s2">being able<span style="s3"> to</span> understand not just what</p>
+<p begin="00:38:21.730" end="00:38:27.369" style="s2">we do but what on base does and how to</p>
+<p begin="00:38:24.490" end="00:38:29.349" style="s2">marry those two things together it went</p>
+<p begin="00:38:27.369" end="00:38:30.940" style="s2"><span style="s4">through</span> we went through kind of a blind</p>
+<p begin="00:38:29.349" end="00:38:34.210" style="s2">review of<span style="s3"> six</span> we did an interview</p>
+<p begin="00:38:30.940" end="00:38:36.970" style="s2">process<span style="s3"> and</span> then submitted we had an<span style="s3"> RFP</span></p>
+<p begin="00:38:34.210" end="00:38:39.250" style="s2">committee selected it submitted it to</p>
+<p begin="00:38:36.970" end="00:38:41.589" style="s2"><span style="s3">the</span> board went to the board to the the</p>
+<p begin="00:38:39.250" end="00:38:43.150" style="s2">county board went to the board scrutiny</p>
+<p begin="00:38:41.589" end="00:38:45.910" style="s2">well I mean the other<span style="s4"> thing</span> we did have</p>
+<p begin="00:38:43.150" end="00:38:48.579" style="s2">a<span style="s4"> party OT was with us the entire way as</span></p>
+<p begin="00:38:45.910" end="00:38:50.380" style="s2">our technical kind of<span style="s3"> advisors</span> so they</p>
+<p begin="00:38:48.579" end="00:38:53.079" style="s2">they helped us with things<span style="s3"> that</span> we</p>
+<p begin="00:38:50.380" end="00:38:55.200" style="s2">didn&#39;t understand and in things that</p>
+<p begin="00:38:53.079" end="00:38:58.660" style="s2"><span style="s3">weren&#39;t</span> you<span style="s4"> know</span> property assessment</p>
+<p begin="00:38:55.200" end="00:38:59.800" style="s2">appeal eccentric so you know just adding</p>
+<p begin="00:38:58.660" end="00:39:01.540" style="s2">one thing to which gym the same way you</p>
+<p begin="00:38:59.800" end="00:39:03.550" style="s2"><span style="s3">brought</span> up which is it made me remind it</p>
+<p begin="00:39:01.540" end="00:39:05.380" style="s2">we had a change of CIOs in the county at</p>
+<p begin="00:39:03.550" end="00:39:07.660" style="s2">this time the new one who<span style="s3"> came</span> in one of</p>
+<p begin="00:39:05.380" end="00:39:10.690" style="s2"><span style="s3">the</span> reasons<span style="s4"> we</span> withdrew the old RFP and</p>
+<p begin="00:39:07.660" end="00:39:13.180" style="s2">put the<span style="s3"> new</span> one out is the county<span style="s3"> was</span></p>
+<p begin="00:39:10.690" end="00:39:14.710" style="s2">learning how to communicate its needs to</p>
+<p begin="00:39:13.180" end="00:39:16.270" style="s2">the vendor universe better so we</p>
+<p begin="00:39:14.710" end="00:39:19.150" style="s2">realized when we sent the first<span style="s3"> one</span><span style="s4"> out</span></p>
+<p begin="00:39:16.270" end="00:39:21.460" style="s2">we had missed all sorts of platforms to</p>
+<p begin="00:39:19.150" end="00:39:23.829" style="s2">communicate the RFP so there were people</p>
+<p begin="00:39:21.460" end="00:39:25.240" style="s2">who might<span style="s3"> have</span><span style="s4"> been</span><span style="s3"> eligible</span> and we</p>
+<p begin="00:39:23.829" end="00:39:27.010" style="s2">would want them to give us a bit they</p>
+<p begin="00:39:25.240" end="00:39:28.060" style="s2">didn&#39;t even<span style="s3"> know</span> about it<span style="s3"> so</span> that&#39;s</p>
+<p begin="00:39:27.010" end="00:39:30.010" style="s2">something that<span style="s3"> the</span> county is doing a</p>
+<p begin="00:39:28.060" end="00:39:31.900" style="s2"><span style="s4">better</span> job at is just trying<span style="s3"> to find all</span></p>
+<p begin="00:39:30.010" end="00:39:34.839" style="s2">the<span style="s3"> procurement</span> platforms to put it out</p>
+<p begin="00:39:31.900" end="00:39:36.910" style="s2">on to say Cook County which is<span style="s4"> a</span> we buy</p>
+<p begin="00:39:34.839" end="00:39:38.260" style="s2">a lot of<span style="s3"> stuff</span> is buying something and</p>
+<p begin="00:39:36.910" end="00:39:39.940" style="s2">we would like as<span style="s3"> many</span> people as possible</p>
+<p begin="00:39:38.260" end="00:39:42.520" style="s2">to know about if it&#39;s too narrow of a</p>
+<p begin="00:39:39.940" end="00:39:44.470" style="s2">portal we<span style="s3"> don&#39;t</span> get a<span style="s3"> better</span> product a</p>
+<p begin="00:39:42.520" end="00:39:49.390" style="s2">better price and we&#39;re leaving<span style="s4"> a</span> lot of</p>
+<p begin="00:39:44.470" end="00:39:51.160" style="s2">people<span style="s4"> out</span><span style="s3"> of the process</span><span style="s4"> through</span> if</p>
+<p begin="00:39:49.390" end="00:39:53.380" style="s2">this involves us individually lowing</p>
+<p begin="00:39:51.160" end="00:39:55.480" style="s2">your taxes then we can&#39;t do<span style="s3"> that</span></p>
+<p begin="00:39:53.380" end="00:39:58.230" style="s2">somebody&#39;s like hypothetically i live at</p>
+<p begin="00:39:55.480" end="00:39:58.230" style="s2">XYZ street</p>
+<p begin="00:39:59.700" end="00:40:04.840" style="s2">so so what&#39;s the appropriate rate of</p>
+<p begin="00:40:02.440" end="00:40:07.600" style="s2">change for new technology in government</p>
+<p begin="00:40:04.840" end="00:40:09.070" style="s2">we&#39;re like you know you&#39;re doing<span style="s3"> some</span></p>
+<p begin="00:40:07.600" end="00:40:11.380" style="s2"><span style="s4">database in which is important but</span></p>
+<p begin="00:40:09.070" end="00:40:13.320" style="s2">there&#39;s also like technologies like<span style="s4"> by</span></p>
+<p begin="00:40:11.380" end="00:40:16.960" style="s2"><span style="s4">train</span> which are more experimental and</p>
+<p begin="00:40:13.320" end="00:40:19.540" style="s2">like so what so like as someone<span style="s3"> who&#39;s</span></p>
+<p begin="00:40:16.960" end="00:40:21.220" style="s2">trying to implement change how do you</p>
+<p begin="00:40:19.540" end="00:40:22.540" style="s2"><span style="s3">make</span> sure<span style="s4"> you</span><span style="s3"> don&#39;t</span> overreach but at the</p>
+<p begin="00:40:21.220" end="00:40:24.340" style="s2">same time how do you make<span style="s4"> sure</span> you&#39;re at</p>
+<p begin="00:40:22.540" end="00:40:26.500" style="s2">the right part of<span style="s3"> the wave where you&#39;re</span></p>
+<p begin="00:40:24.340" end="00:40:28.360" style="s2"><span style="s3">kind</span> of not falling behind technology</p>
+<p begin="00:40:26.500" end="00:40:31.510" style="s2">but not recently too much on</p>
+<p begin="00:40:28.360" end="00:40:36.370" style="s2">experimental that&#39;s a great great</p>
+<p begin="00:40:31.510" end="00:40:38.410" style="s2">question um we we realized and Jim could</p>
+<p begin="00:40:36.370" end="00:40:41.710" style="s2"><span style="s3">talk</span> about<span style="s3"> on</span> base you<span style="s3"> know</span> using<span style="s3"> a</span></p>
+<p begin="00:40:38.410" end="00:40:43.930" style="s2">platform that<span style="s4"> was</span><span style="s3"> pre</span> built and<span style="s4"> that</span></p>
+<p begin="00:40:41.710" end="00:40:45.460" style="s2">we&#39;re going to be modifying was a lot</p>
+<p begin="00:40:43.930" end="00:40:47.860" style="s2">safer<span style="s3"> than in a real-time environment</span></p>
+<p begin="00:40:45.460" end="00:40:49.600" style="s2">when 13 billion dollars for the property</p>
+<p begin="00:40:47.860" end="00:40:52.840" style="s2"><span style="s3">tax</span> revenue who has to be<span style="s3"> collected</span> and</p>
+<p begin="00:40:49.600" end="00:40:54.790" style="s2">distributed<span style="s3"> it</span> was just a safer way to</p>
+<p begin="00:40:52.840" end="00:40:57.460" style="s2">do it could we<span style="s3"> have</span> built something</p>
+<p begin="00:40:54.790" end="00:40:59.560" style="s2">different from scratch maybe<span style="s4"> both</span> agile</p>
+<p begin="00:40:57.460" end="00:41:01.770" style="s2">and the sprints in the end the scrums</p>
+<p begin="00:40:59.560" end="00:41:04.450" style="s2">that we had we pretty comfortable</p>
+<p begin="00:41:01.770" end="00:41:05.830" style="s2">another thing<span style="s3"> to</span> mention and I think</p>
+<p begin="00:41:04.450" end="00:41:08.770" style="s2">it&#39;s responsive to what you&#39;re saying I</p>
+<p begin="00:41:05.830" end="00:41:10.390" style="s2">hope it is is when you&#39;ve got different</p>
+<p begin="00:41:08.770" end="00:41:12.820" style="s2">offices that have to work together<span style="s3"> to</span></p>
+<p begin="00:41:10.390" end="00:41:14.620" style="s2">get it done<span style="s4"> so</span> the<span style="s3"> Assessor</span> assesses the</p>
+<p begin="00:41:12.820" end="00:41:16.690" style="s2">board of you<span style="s4"> here&#39;s</span><span style="s3"> the</span> appeals<span style="s4"> the</span></p>
+<p begin="00:41:14.620" end="00:41:18.220" style="s2">clerk&#39;s office in Cook County takes all</p>
+<p begin="00:41:16.690" end="00:41:20.230" style="s2">the taxing rates and then the</p>
+<p begin="00:41:18.220" end="00:41:21.970" style="s2">treasurer&#39;s office takes the values from</p>
+<p begin="00:41:20.230" end="00:41:24.670" style="s2">all of us the rates and sends out the</p>
+<p begin="00:41:21.970" end="00:41:27.940" style="s2">bill somebody has to<span style="s4"> be</span> the leader and</p>
+<p begin="00:41:24.670" end="00:41:28.990" style="s2">start the<span style="s4"> process</span> so whoever it is has</p>
+<p begin="00:41:27.940" end="00:41:31.030" style="s2">to do it but<span style="s4"> they</span> also have<span style="s3"> to</span> have</p>
+<p begin="00:41:28.990" end="00:41:33.370" style="s2"><span style="s3">buy-in</span> from the other participants<span style="s3"> so</span> as</p>
+<p begin="00:41:31.030" end="00:41:35.230" style="s2">soon as we went with on base and<span style="s4"> the</span></p>
+<p begin="00:41:33.370" end="00:41:37.690" style="s2"><span style="s4">bureau</span> of technology worked with us we</p>
+<p begin="00:41:35.230" end="00:41:40.090" style="s2">invited<span style="s4"> the</span><span style="s3"> Assessor</span> the treasure the</p>
+<p begin="00:41:37.690" end="00:41:41.740" style="s2">clerk&#39;s office to send somebody down to</p>
+<p begin="00:41:40.090" end="00:41:43.960" style="s2">spend<span style="s4"> the</span> time to sit in<span style="s3"> on</span> these</p>
+<p begin="00:41:41.740" end="00:41:45.670" style="s2">meetings and to<span style="s3"> learn</span> what we were using</p>
+<p begin="00:41:43.960" end="00:41:47.740" style="s2">we&#39;re not committing them using our</p>
+<p begin="00:41:45.670" end="00:41:49.300" style="s2">platform and using<span style="s3"> our</span> system in the</p>
+<p begin="00:41:47.740" end="00:41:51.130" style="s2">future but they have<span style="s3"> to</span> understand our</p>
+<p begin="00:41:49.300" end="00:41:53.520" style="s2">process so that when they build their</p>
+<p begin="00:41:51.130" end="00:41:55.750" style="s2">own hopefully sooner rather than later</p>
+<p begin="00:41:53.520" end="00:41:57.610" style="s2">they won&#39;t be<span style="s3"> starting from scratch they</span></p>
+<p begin="00:41:55.750" end="00:41:58.810" style="s2">can avoid<span style="s3"> our</span> mistakes and to your point</p>
+<p begin="00:41:57.610" end="00:42:02.410" style="s2">maybe they can be a little bit more</p>
+<p begin="00:41:58.810" end="00:42:04.870" style="s2">adventurous and risk-taking and bolder</p>
+<p begin="00:42:02.410" end="00:42:07.210" style="s2">than<span style="s3"> than</span> we were there&#39;s all sorts of</p>
+<p begin="00:42:04.870" end="00:42:09.800" style="s2">stuff that in the first meeting<span style="s3"> that</span> the</p>
+<p begin="00:42:07.210" end="00:42:12.020" style="s2">commissioners had with<span style="s3"> Bo t that I</span></p>
+<p begin="00:42:09.800" end="00:42:13.700" style="s2">wanted<span style="s4"> to</span> be in<span style="s3"> the</span> RFP that they</p>
+<p begin="00:42:12.020" end="00:42:16.730" style="s2">politely said that&#39;s not something we&#39;re</p>
+<p begin="00:42:13.700" end="00:42:18.170" style="s2">going<span style="s3"> to</span> put in<span style="s4"> I&#39;m</span> like I get it you</p>
+<p begin="00:42:16.730" end="00:42:20.120" style="s2">know that<span style="s3"> stuff</span> we can build toward</p>
+<p begin="00:42:18.170" end="00:42:22.370" style="s2">later on I i would love to for example</p>
+<p begin="00:42:20.120" end="00:42:23.450" style="s2"><span style="s3">have</span> a webex for hearings virtually so</p>
+<p begin="00:42:22.370" end="00:42:25.460" style="s2">you don&#39;t have to come to the board for</p>
+<p begin="00:42:23.450" end="00:42:28.250" style="s2"><span style="s3">your</span> hearing we could do this virtually</p>
+<p begin="00:42:25.460" end="00:42:29.990" style="s2">I was told that&#39;s awesome why don&#39;t we</p>
+<p begin="00:42:28.250" end="00:42:32.450" style="s2">build this first<span style="s3"> and</span> we&#39;ll maybe get to</p>
+<p begin="00:42:29.990" end="00:42:34.400" style="s2">that I get that<span style="s3"> we&#39;re not well board</span></p>
+<p begin="00:42:32.450" end="00:42:36.770" style="s2">we&#39;re going to get there where it&#39;s<span style="s3"> just</span></p>
+<p begin="00:42:34.400" end="00:42:37.940" style="s2">not going<span style="s3"> to</span> be on day one the only</p>
+<p begin="00:42:36.770" end="00:42:40.250" style="s2">thing I got to<span style="s4"> add</span> is that is that</p>
+<p begin="00:42:37.940" end="00:42:43.580" style="s2"><span style="s3">because we picked a platform because we</span></p>
+<p begin="00:42:40.250" end="00:42:45.410" style="s2">picked a<span style="s4"> very</span> popular software plug it</p>
+<p begin="00:42:43.580" end="00:42:47.750" style="s2">allowed it to be scalable and that was</p>
+<p begin="00:42:45.410" end="00:42:50.120" style="s2">really what we were looking for there</p>
+<p begin="00:42:47.750" end="00:42:52.310" style="s2">have been some changes within within on</p>
+<p begin="00:42:50.120" end="00:42:54.830" style="s2">base<span style="s3"> and just within within the work</span></p>
+<p begin="00:42:52.310" end="00:42:57.170" style="s2">environment where there&#39;s there&#39;s a lot</p>
+<p begin="00:42:54.830" end="00:43:00.110" style="s2">more collaboration and and as we update</p>
+<p begin="00:42:57.170" end="00:43:01.820" style="s2">on base it<span style="s3"> will</span> start to give us the</p>
+<p begin="00:43:00.110" end="00:43:04.550" style="s2"><span style="s4">opportunity</span> to kind of reach a<span style="s3"> little</span></p>
+<p begin="00:43:01.820" end="00:43:06.350" style="s2">bit but we had just in the just using</p>
+<p begin="00:43:04.550" end="00:43:08.240" style="s2">the agile methodology to<span style="s3"> I</span> mean the</p>
+<p begin="00:43:06.350" end="00:43:10.790" style="s2">first thing you do is you really you</p>
+<p begin="00:43:08.240" end="00:43:12.890" style="s2">decide what you can live with<span style="s3"> and</span> you</p>
+<p begin="00:43:10.790" end="00:43:14.510" style="s2">start there and then you start to then</p>
+<p begin="00:43:12.890" end="00:43:16.700" style="s2">you start<span style="s4"> to</span> make priorities of what</p>
+<p begin="00:43:14.510" end="00:43:17.900" style="s2">what works for you and your business and</p>
+<p begin="00:43:16.700" end="00:43:20.180" style="s2">what you&#39;re going<span style="s3"> to</span> live without<span style="s3"> and</span></p>
+<p begin="00:43:17.900" end="00:43:24.190" style="s2">then you start to phase and phase and</p>
+<p begin="00:43:20.180" end="00:43:30.880" style="s2">phase so does that<span style="s3"> does</span> that help<span style="s3"> okay</span></p>
+<p begin="00:43:24.190" end="00:43:32.940" style="s2">thanks everybody thanks thank<span style="s3"> you</span></p>
+<p begin="00:43:30.880" end="00:43:32.940" style="s2">you</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.609" end="00:00:10.800" style="s2">so let<span style="s3"> me just give you a very quick bit</span></p>
+<p begin="00:00:08.490" end="00:00:12.840" style="s2"><span style="s4">of</span> background and<span style="s3"> also</span> instructions<span style="s3"> for</span></p>
+<p begin="00:00:10.800" end="00:00:14.940" style="s2">how to listen<span style="s3"> to</span><span style="s4"> my</span> talks not everything</p>
+<p begin="00:00:12.840" end="00:00:18.119" style="s2">important in the<span style="s3"> world</span> has a convincing</p>
+<p begin="00:00:14.940" end="00:00:19.529" style="s2">visual representation so when I&#39;m</p>
+<p begin="00:00:18.119" end="00:00:21.420" style="s2"><span style="s3">talking</span> about something<span style="s4"> that</span> doesn&#39;t</p>
+<p begin="00:00:19.529" end="00:00:23.100" style="s2"><span style="s3">have</span> any real<span style="s3"> visual</span> representation I</p>
+<p begin="00:00:21.420" end="00:00:26.310" style="s2">put a nice picture<span style="s4"> of</span> a<span style="s4"> flower</span> on<span style="s3"> the</span></p>
+<p begin="00:00:23.100" end="00:00:27.900" style="s2">screen<span style="s3"> so</span> just<span style="s4"> that&#39;s</span> that&#39;s your sign</p>
+<p begin="00:00:26.310" end="00:00:30.179" style="s2"><span style="s3">that</span> like<span style="s3"> you</span> know things are still</p>
+<p begin="00:00:27.900" end="00:00:31.679" style="s2">happening<span style="s4"> but</span><span style="s3"> they</span> don&#39;t have photons</p>
+<p begin="00:00:30.179" end="00:00:33.239" style="s2">bouncing off them</p>
+<p begin="00:00:31.679" end="00:00:35.880" style="s2">so<span style="s3"> Derek</span> already went through<span style="s3"> this</span> I</p>
+<p begin="00:00:33.239" end="00:00:37.890" style="s2">wrote<span style="s3"> a</span> book it&#39;s all available<span style="s3"> under</span> a</p>
+<p begin="00:00:35.880" end="00:00:39.570" style="s2">free<span style="s4"> open-source</span> license at<span style="s3"> producing</span></p>
+<p begin="00:00:37.890" end="00:00:42.750" style="s2">OSS<span style="s4"> com</span> producing<span style="s4"> open-source</span> software</p>
+<p begin="00:00:39.570" end="00:00:45.270" style="s2"><span style="s3">is</span> the title<span style="s4"> there&#39;s</span> a second<span style="s4"> edition</span></p>
+<p begin="00:00:42.750" end="00:00:47.309" style="s2"><span style="s3">that</span> I completed<span style="s3"> recently and a</span></p>
+<p begin="00:00:45.270" end="00:00:49.950" style="s2">conference<span style="s3"> called</span> hack Illinois anyone</p>
+<p begin="00:00:47.309" end="00:00:52.500" style="s2">here go to<span style="s3"> hack</span> Illinois<span style="s3"> hey oh hey</span></p>
+<p begin="00:00:49.950" end="00:00:53.879" style="s2">there<span style="s4"> they</span> actually<span style="s3"> did</span> a print run an</p>
+<p begin="00:00:52.500" end="00:00:56.129" style="s2">early print run<span style="s4"> with</span> the second<span style="s3"> edition</span></p>
+<p begin="00:00:53.879" end="00:00:57.870" style="s2">so I have one of<span style="s3"> those</span> copies<span style="s3"> here</span></p>
+<p begin="00:00:56.129" end="00:00:59.460" style="s2">I guess I&#39;ll you know<span style="s3"> do</span> that thing</p>
+<p begin="00:00:57.870" end="00:01:02.850" style="s2">where I give it out for best question or</p>
+<p begin="00:00:59.460" end="00:01:06.780" style="s2">something<span style="s3"> at</span> the<span style="s4"> end</span> so you<span style="s4"> can</span> all dive</p>
+<p begin="00:01:02.850" end="00:01:09.960" style="s2">for it<span style="s3"> and</span> when<span style="s3"> we</span> get<span style="s3"> to</span> the<span style="s4"> QA so</span></p>
+<p begin="00:01:06.780" end="00:01:11.939" style="s2">let&#39;s let&#39;s set some definitions<span style="s4"> open</span></p>
+<p begin="00:01:09.960" end="00:01:13.920" style="s2"><span style="s3">source</span><span style="s4"> software</span> in case anyone is<span style="s3"> under</span></p>
+<p begin="00:01:11.939" end="00:01:16.740" style="s2">any<span style="s4"> misconceptions</span> about what<span style="s3"> it</span> is</p>
+<p begin="00:01:13.920" end="00:01:19.259" style="s2">oh I hey I can see my<span style="s4"> own</span> slides<span style="s3"> by</span></p>
+<p begin="00:01:16.740" end="00:01:22.259" style="s2">standing<span style="s3"> here</span><span style="s4"> that&#39;s</span> that&#39;s<span style="s3"> great</span> I&#39;m</p>
+<p begin="00:01:19.259" end="00:01:24.390" style="s2">going<span style="s4"> to</span> keep turning<span style="s3"> around</span><span style="s4"> here</span><span style="s3"> is</span> a</p>
+<p begin="00:01:22.259" end="00:01:27.390" style="s2">definition<span style="s4"> it&#39;s</span> software<span style="s3"> that</span> anyone can</p>
+<p begin="00:01:24.390" end="00:01:29.159" style="s2">modify and<span style="s3"> share</span> with anyone<span style="s3"> with</span> no</p>
+<p begin="00:01:27.390" end="00:01:31.229" style="s2">restrictions on how you can change<span style="s3"> the</span></p>
+<p begin="00:01:29.159" end="00:01:34.409" style="s2">code or with what you do with the code</p>
+<p begin="00:01:31.229" end="00:01:36.509" style="s2">or with whom you share it<span style="s4"> that</span></p>
+<p begin="00:01:34.409" end="00:01:39.840" style="s2">definition you&#39;d be surprised how<span style="s3"> often</span></p>
+<p begin="00:01:36.509" end="00:01:41.130" style="s2">people don&#39;t get all aspects<span style="s4"> of</span><span style="s3"> that</span></p>
+<p begin="00:01:39.840" end="00:01:44.579" style="s2">definition<span style="s3"> there</span><span style="s4"> are</span> lot of<span style="s3"> companies</span></p>
+<p begin="00:01:41.130" end="00:01:45.600" style="s2">that<span style="s3"> put</span> out code<span style="s4"> and</span> they say well<span style="s4"> okay</span></p>
+<p begin="00:01:44.579" end="00:01:46.799" style="s2"><span style="s3">you</span> can use<span style="s4"> this for anything you</span><span style="s3"> want</span></p>
+<p begin="00:01:45.600" end="00:01:49.439" style="s2"><span style="s3">but you can&#39;t</span> charge money for<span style="s4"> the</span></p>
+<p begin="00:01:46.799" end="00:01:51.240" style="s2">software<span style="s3"> you</span> you you can&#39;t do anything</p>
+<p begin="00:01:49.439" end="00:01:52.799" style="s2">that&#39;s commercial I just want to<span style="s3"> make</span> it</p>
+<p begin="00:01:51.240" end="00:01:54.750" style="s2"><span style="s4">very clear that</span> this not just<span style="s3"> for me</span></p>
+<p begin="00:01:52.799" end="00:01:56.460" style="s2">like everybody<span style="s3"> who deals with</span></p>
+<p begin="00:01:54.750" end="00:01:58.229" style="s2"><span style="s4">open-source</span><span style="s3"> software</span> on a regular<span style="s3"> basis</span></p>
+<p begin="00:01:56.460" end="00:02:00.570" style="s2"><span style="s4">every</span> lawyer every company this includes</p>
+<p begin="00:01:58.229" end="00:02:02.070" style="s2">Microsoft<span style="s3"> it</span> includes<span style="s3"> the</span> Wikimedia</p>
+<p begin="00:02:00.570" end="00:02:03.390" style="s2">Foundation it includes the<span style="s3"> open</span><span style="s4"> source</span></p>
+<p begin="00:02:02.070" end="00:02:04.979" style="s2"><span style="s3">initiative</span> the free software they all</p>
+<p begin="00:02:03.390" end="00:02:07.049" style="s2">agree<span style="s3"> on</span> all<span style="s4"> the</span> points<span style="s4"> I&#39;m</span> about to</p>
+<p begin="00:02:04.979" end="00:02:08.729" style="s2">tell you<span style="s4"> in</span><span style="s3"> case anyone argues with</span><span style="s4"> you</span></p>
+<p begin="00:02:07.049" end="00:02:10.330" style="s2">that it<span style="s4"> is</span> not the case which believe me</p>
+<p begin="00:02:08.729" end="00:02:12.550" style="s2"><span style="s3">happens</span> a lot</p>
+<p begin="00:02:10.330" end="00:02:15.310" style="s2">there&#39;s no such thing as non-commercial</p>
+<p begin="00:02:12.550" end="00:02:16.510" style="s2">use only<span style="s4"> open-source</span> software<span style="s4"> there&#39;s</span> no</p>
+<p begin="00:02:15.310" end="00:02:19.300" style="s2">such thing as government only<span style="s3"> or</span></p>
+<p begin="00:02:16.510" end="00:02:21.780" style="s2">academic only anybody can use<span style="s3"> any</span> piece</p>
+<p begin="00:02:19.300" end="00:02:24.580" style="s2">of open-source<span style="s4"> software</span> for any purpose</p>
+<p begin="00:02:21.780" end="00:02:26.410" style="s2"><span style="s4">and</span> also by the way<span style="s3"> some</span><span style="s4"> of</span> you are</p>
+<p begin="00:02:24.580" end="00:02:29.290" style="s2">probably familiar<span style="s3"> with</span> copyleft licenses</p>
+<p begin="00:02:26.410" end="00:02:30.880" style="s2">like the GNU GPL<span style="s3"> that</span> say if you know if</p>
+<p begin="00:02:29.290" end="00:02:32.590" style="s2">you get software<span style="s3"> into</span> this license then</p>
+<p begin="00:02:30.880" end="00:02:33.820" style="s2">you must be able<span style="s4"> to</span> get the source<span style="s4"> code</span></p>
+<p begin="00:02:32.590" end="00:02:36.640" style="s2">and<span style="s4"> you</span><span style="s3"> can</span><span style="s4"> always</span> redistribute it under</p>
+<p begin="00:02:33.820" end="00:02:38.020" style="s2">that license<span style="s3"> including</span> derivative works</p>
+<p begin="00:02:36.640" end="00:02:40.780" style="s2">and then other like<span style="s4"> straight-up</span></p>
+<p begin="00:02:38.020" end="00:02:43.450" style="s2">what are called non<span style="s4"> copyleft</span> or</p>
+<p begin="00:02:40.780" end="00:02:46.210" style="s2">permissive<span style="s3"> so-called</span> licenses like BSD</p>
+<p begin="00:02:43.450" end="00:02:47.290" style="s2"><span style="s3">MIT</span> Apache<span style="s4"> I</span> realize this is jargon<span style="s3"> for</span></p>
+<p begin="00:02:46.210" end="00:02:50.140" style="s2">some of you but<span style="s4"> for</span> those<span style="s3"> of</span><span style="s4"> you</span> who</p>
+<p begin="00:02:47.290" end="00:02:52.480" style="s2">know both kinds copyleft and<span style="s4"> non</span></p>
+<p begin="00:02:50.140" end="00:02:54.220" style="s2">copyleft license<span style="s3"> are</span> both<span style="s3"> open</span><span style="s4"> source</span></p>
+<p begin="00:02:52.480" end="00:02:56.290" style="s2">software licenses and they are both free</p>
+<p begin="00:02:54.220" end="00:02:59.590" style="s2">software licenses<span style="s3"> it</span> is not the case</p>
+<p begin="00:02:56.290" end="00:03:00.850" style="s2">that<span style="s3"> copyleft is is</span> free<span style="s4"> software</span> and</p>
+<p begin="00:02:59.590" end="00:03:02.890" style="s2">the other kind is open source<span style="s3"> that</span> is</p>
+<p begin="00:03:00.850" end="00:03:04.270" style="s2">not true do<span style="s4"> not</span> think<span style="s4"> that okay</span><span style="s3"> I&#39;m</span></p>
+<p begin="00:03:02.890" end="00:03:05.380" style="s2">sorry to<span style="s3"> have to bust so many myths</span></p>
+<p begin="00:03:04.270" end="00:03:07.150" style="s2"><span style="s3">right</span> at the beginning<span style="s4"> this</span> talk is</p>
+<p begin="00:03:05.380" end="00:03:08.380" style="s2">about<span style="s3"> more</span><span style="s4"> interesting</span> things<span style="s3"> but there</span></p>
+<p begin="00:03:07.150" end="00:03:12.400" style="s2">has been<span style="s4"> a</span> lot of terminological</p>
+<p begin="00:03:08.380" end="00:03:14.440" style="s2">confusion the open source<span style="s4"> world in fact</span></p>
+<p begin="00:03:12.400" end="00:03:16.390" style="s2">the thing that we now call open source</p>
+<p begin="00:03:14.440" end="00:03:18.070" style="s2">software<span style="s4"> and</span><span style="s3"> that</span> previously we call</p>
+<p begin="00:03:16.390" end="00:03:22.090" style="s2">them sometimes<span style="s4"> still call free software</span></p>
+<p begin="00:03:18.070" end="00:03:23.380" style="s2">used to<span style="s3"> be</span> called software<span style="s4"> now</span> we call</p>
+<p begin="00:03:22.090" end="00:03:24.940" style="s2"><span style="s3">it</span> free software or sometimes open</p>
+<p begin="00:03:23.380" end="00:03:26.709" style="s2">source<span style="s3"> some</span> people have decided to<span style="s3"> call</span></p>
+<p begin="00:03:24.940" end="00:03:29.350" style="s2">a Libre<span style="s4"> software</span> and you&#39;ll run<span style="s4"> into</span></p>
+<p begin="00:03:26.709" end="00:03:31.750" style="s2">folks<span style="s3"> who think that that means like</span></p>
+<p begin="00:03:29.350" end="00:03:33.310" style="s2">it&#39;s an astrological sign<span style="s4"> like</span><span style="s3"> Libre</span></p>
+<p begin="00:03:31.750" end="00:03:34.660" style="s2"><span style="s4">software</span> so<span style="s4"> that</span> I mean it&#39;s a great</p>
+<p begin="00:03:33.310" end="00:03:36.370" style="s2"><span style="s3">word</span> but it&#39;s not really an<span style="s3"> English</span><span style="s4"> word</span></p>
+<p begin="00:03:34.660" end="00:03:38.709" style="s2">we don&#39;t<span style="s3"> we</span> don&#39;t<span style="s3"> do</span> phonetics like that</p>
+<p begin="00:03:36.370" end="00:03:39.940" style="s2">so you know<span style="s3"> you</span> can try it<span style="s3"> but</span> anyway</p>
+<p begin="00:03:38.709" end="00:03:40.239" style="s2"><span style="s3">when</span> people use that<span style="s3"> it</span> means the<span style="s4"> same</span></p>
+<p begin="00:03:39.940" end="00:03:42.790" style="s2">thing</p>
+<p begin="00:03:40.239" end="00:03:44.620" style="s2">it gets abbreviated free and open source</p>
+<p begin="00:03:42.790" end="00:03:47.110" style="s2"><span style="s4">software free Libre</span><span style="s3"> open</span> source software</p>
+<p begin="00:03:44.620" end="00:03:49.300" style="s2">you<span style="s3"> get the idea</span><span style="s4"> but</span><span style="s3"> as</span> I said<span style="s3"> in</span> the</p>
+<p begin="00:03:47.110" end="00:03:52.270" style="s2">beginning<span style="s3"> it</span> was all called software and</p>
+<p begin="00:03:49.300" end="00:03:54.459" style="s2"><span style="s3">this is what computers look like and the</span></p>
+<p begin="00:03:52.270" end="00:03:57.100" style="s2"><span style="s3">reason</span><span style="s4"> that</span> all software<span style="s4"> was</span> pretty much</p>
+<p begin="00:03:54.459" end="00:03:58.480" style="s2">shared was because the main<span style="s3"> expense</span> was</p>
+<p begin="00:03:57.100" end="00:04:00.700" style="s2">the computer itself if<span style="s4"> you</span> had a</p>
+<p begin="00:03:58.480" end="00:04:02.170" style="s2"><span style="s3">computer</span> you had like a big room<span style="s3"> with</span></p>
+<p begin="00:04:00.700" end="00:04:03.820" style="s2">its own cooling<span style="s3"> system and</span><span style="s4"> its</span> special</p>
+<p begin="00:04:02.170" end="00:04:05.080" style="s2">like<span style="s4"> you</span> know those plugs that washers</p>
+<p begin="00:04:03.820" end="00:04:06.310" style="s2">and<span style="s4"> dryers</span> go into that<span style="s3"> large</span> ape</p>
+<p begin="00:04:05.080" end="00:04:08.560" style="s2">differently<span style="s3"> for normal electrical</span></p>
+<p begin="00:04:06.310" end="00:04:10.450" style="s2"><span style="s3">sockets</span><span style="s4"> you had a lot of</span><span style="s3"> those</span> in that</p>
+<p begin="00:04:08.560" end="00:04:12.790" style="s2">room<span style="s3"> you</span> had a staff to<span style="s4"> maintain</span> the</p>
+<p begin="00:04:10.450" end="00:04:14.140" style="s2"><span style="s3">computer and you had a relationship with</span></p>
+<p begin="00:04:12.790" end="00:04:16.660" style="s2">the manufacturer and they would supply</p>
+<p begin="00:04:14.140" end="00:04:18.729" style="s2"><span style="s4">your parts and the software that ran on</span></p>
+<p begin="00:04:16.660" end="00:04:20.380" style="s2">the computer they just<span style="s3"> gave</span> you<span style="s4"> that</span> for</p>
+<p begin="00:04:18.729" end="00:04:22.300" style="s2">free<span style="s4"> because</span><span style="s3"> the</span> expenses that<span style="s3"> you</span> were</p>
+<p begin="00:04:20.380" end="00:04:24.400" style="s2">buying this iron you know these physical</p>
+<p begin="00:04:22.300" end="00:04:26.080" style="s2">objects<span style="s3"> and</span><span style="s4"> then</span> if they were</p>
+<p begin="00:04:24.400" end="00:04:27.940" style="s2">three universities that bought a very</p>
+<p begin="00:04:26.080" end="00:04:29.110" style="s2">similar<span style="s3"> model of computer you would all</span></p>
+<p begin="00:04:27.940" end="00:04:30.610" style="s2"><span style="s3">get</span> in touch<span style="s4"> with</span> each<span style="s3"> other and there</span></p>
+<p begin="00:04:29.110" end="00:04:33.220" style="s2">wasn&#39;t<span style="s4"> really</span><span style="s3"> an internet for the most</span></p>
+<p begin="00:04:30.610" end="00:04:35.020" style="s2">part to spread stuff around on but you</p>
+<p begin="00:04:33.220" end="00:04:36.759" style="s2">would share your<span style="s3"> software</span> patches<span style="s3"> like</span></p>
+<p begin="00:04:35.020" end="00:04:38.139" style="s2">if you you found<span style="s3"> a</span> bug<span style="s4"> in the operating</span></p>
+<p begin="00:04:36.759" end="00:04:39.370" style="s2"><span style="s3">system</span> the manufacturer would<span style="s3"> thank</span> you</p>
+<p begin="00:04:38.139" end="00:04:40.479" style="s2"><span style="s3">and</span> they<span style="s3"> would take the</span> patch from<span style="s3"> you</span></p>
+<p begin="00:04:39.370" end="00:04:42.070" style="s2">and they would<span style="s3"> share</span> it or maybe<span style="s3"> you</span></p>
+<p begin="00:04:40.479" end="00:04:43.930" style="s2">share<span style="s3"> it</span><span style="s4"> directly</span> with this<span style="s3"> other</span></p>
+<p begin="00:04:42.070" end="00:04:46.780" style="s2"><span style="s4">university</span><span style="s3"> this was actually the norm</span></p>
+<p begin="00:04:43.930" end="00:04:48.250" style="s2">for<span style="s3"> most</span> software development<span style="s4"> and</span> what</p>
+<p begin="00:04:46.780" end="00:04:50.440" style="s2">happened<span style="s3"> to change this was</span></p>
+<p begin="00:04:48.250" end="00:04:52.000" style="s2">standardization<span style="s3"> this</span> looks more</p>
+<p begin="00:04:50.440" end="00:04:53.289" style="s2"><span style="s4">recognizably</span><span style="s3"> like</span> a<span style="s3"> computer but the</span></p>
+<p begin="00:04:52.000" end="00:04:56.110" style="s2">really important way to<span style="s3"> think</span> of it<span style="s3"> is</span></p>
+<p begin="00:04:53.289" end="00:04:58.090" style="s2">this<span style="s3"> it is a set of standardized parts</span></p>
+<p begin="00:04:56.110" end="00:05:00.400" style="s2"><span style="s3">that</span> interact in a standardized way and</p>
+<p begin="00:04:58.090" end="00:05:02.020" style="s2">that means<span style="s3"> that</span> the hardware<span style="s3"> can</span><span style="s4"> be</span></p>
+<p begin="00:05:00.400" end="00:05:03.910" style="s2">manufactured<span style="s3"> very</span> cheaply and you can</p>
+<p begin="00:05:02.020" end="00:05:06.100" style="s2">write one piece of<span style="s3"> software</span><span style="s4"> that</span> runs on</p>
+<p begin="00:05:03.910" end="00:05:07.810" style="s2"><span style="s3">all</span> the<span style="s3"> computers and various other</span></p>
+<p begin="00:05:06.100" end="00:05:09.340" style="s2">technological developments have happened</p>
+<p begin="00:05:07.810" end="00:05:12.130" style="s2">to make<span style="s3"> software</span> run on all the</p>
+<p begin="00:05:09.340" end="00:05:13.180" style="s2"><span style="s3">computers</span><span style="s4"> so</span> now we&#39;re going<span style="s3"> to change</span></p>
+<p begin="00:05:12.130" end="00:05:15.910" style="s2">the subject you&#39;ll remember this guy</p>
+<p begin="00:05:13.180" end="00:05:17.280" style="s2">right<span style="s4"> I</span> thought<span style="s3"> I</span> saw a<span style="s4"> scythe</span></p>
+<p begin="00:05:15.910" end="00:05:19.630" style="s2"><span style="s3">throughout</span> the room that&#39;s interesting</p>
+<p begin="00:05:17.280" end="00:05:22.000" style="s2"><span style="s4">but</span> what you may not<span style="s4"> remember</span> is this</p>
+<p begin="00:05:19.630" end="00:05:23.590" style="s2">fellow<span style="s4"> he</span> served as president<span style="s4"> in</span> the</p>
+<p begin="00:05:22.000" end="00:05:24.370" style="s2">Cheney administration I&#39;m sure some of</p>
+<p begin="00:05:23.590" end="00:05:29.430" style="s2"><span style="s4">you</span> remember<span style="s4"> his</span> name</p>
+<p begin="00:05:24.370" end="00:05:32.050" style="s2">he had a he had<span style="s4"> a</span> very<span style="s3"> interesting</span></p>
+<p begin="00:05:29.430" end="00:05:34.720" style="s2"><span style="s3">philosophy</span><span style="s4"> that</span> he talked about<span style="s3"> a</span> lot</p>
+<p begin="00:05:32.050" end="00:05:36.940" style="s2"><span style="s4">until</span><span style="s3"> September</span><span style="s4"> 11</span> 2001 after<span style="s3"> which</span> he</p>
+<p begin="00:05:34.720" end="00:05:38.889" style="s2">talked about<span style="s4"> other</span><span style="s3"> things but before</span><span style="s4"> he</span></p>
+<p begin="00:05:36.940" end="00:05:40.510" style="s2">knew<span style="s3"> that</span> was going<span style="s3"> to</span> happen<span style="s4"> he</span> had</p>
+<p begin="00:05:38.889" end="00:05:42.070" style="s2">this<span style="s3"> thing</span><span style="s4"> that</span> he was promoting called</p>
+<p begin="00:05:40.510" end="00:05:44.530" style="s2">the ownership<span style="s3"> society</span><span style="s4"> I</span><span style="s3"> don&#39;t</span><span style="s4"> think</span> it</p>
+<p begin="00:05:42.070" end="00:05:45.849" style="s2">originated with him<span style="s3"> I</span> think<span style="s4"> it</span></p>
+<p begin="00:05:44.530" end="00:05:48.250" style="s2">originated with<span style="s3"> the</span> Heritage Foundation</p>
+<p begin="00:05:45.849" end="00:05:50.740" style="s2">or some<span style="s4"> think-tank</span> somewhere<span style="s4"> I mean it</span></p>
+<p begin="00:05:48.250" end="00:05:52.810" style="s2"><span style="s4">was</span> this it was<span style="s4"> a</span> serious<span style="s4"> idea</span> you can</p>
+<p begin="00:05:50.740" end="00:05:55.720" style="s2">tell it&#39;s a serious idea<span style="s3"> because</span> it has</p>
+<p begin="00:05:52.810" end="00:05:59.620" style="s2">a Wikipedia<span style="s4"> page that means it&#39;s for</span></p>
+<p begin="00:05:55.720" end="00:06:01.590" style="s2"><span style="s3">real</span> and what this<span style="s3"> idea was was</span><span style="s4"> that</span></p>
+<p begin="00:05:59.620" end="00:06:04.599" style="s2">what<span style="s3"> the</span> government<span style="s4"> should</span><span style="s3"> do</span> is promote</p>
+<p begin="00:06:01.590" end="00:06:06.190" style="s2">ownership<span style="s3"> that is a specifically home</span></p>
+<p begin="00:06:04.599" end="00:06:09.789" style="s2"><span style="s3">ownership</span> right but<span style="s3"> not just</span><span style="s4"> that</span> like</p>
+<p begin="00:06:06.190" end="00:06:11.050" style="s2">the whole<span style="s4"> idea of people being</span> invested</p>
+<p begin="00:06:09.789" end="00:06:12.550" style="s2"><span style="s3">in</span> their communities and the companies</p>
+<p begin="00:06:11.050" end="00:06:16.090" style="s2">they<span style="s3"> work</span> in so<span style="s3"> a</span> part of<span style="s3"> the</span> ownership</p>
+<p begin="00:06:12.550" end="00:06:17.560" style="s2"><span style="s4">society</span><span style="s3"> idea</span> is employees having</p>
+<p begin="00:06:16.090" end="00:06:19.150" style="s2"><span style="s3">ownership and the companies they work</span> in</p>
+<p begin="00:06:17.560" end="00:06:22.750" style="s2">stock ownership pension plans having</p>
+<p begin="00:06:19.150" end="00:06:24.580" style="s2">ownership you know to the to the<span style="s4"> extent</span></p>
+<p begin="00:06:22.750" end="00:06:26.710" style="s2">that<span style="s3"> this</span> was not just<span style="s3"> a campaign</span></p>
+<p begin="00:06:24.580" end="00:06:28.720" style="s2">rhetoric but<span style="s3"> was</span> an actual serious</p>
+<p begin="00:06:26.710" end="00:06:31.630" style="s2">attempt at a political<span style="s4"> philosophy</span><span style="s3"> he</span></p>
+<p begin="00:06:28.720" end="00:06:33.159" style="s2">meant it<span style="s3"> and he promoted again until</span></p>
+<p begin="00:06:31.630" end="00:06:35.889" style="s2">everything went haywire<span style="s4"> and</span><span style="s3"> it became</span></p>
+<p begin="00:06:33.159" end="00:06:37.570" style="s2">all about<span style="s3"> anti-terrorism</span><span style="s4"> he</span> was trying</p>
+<p begin="00:06:35.889" end="00:06:38.050" style="s2">to<span style="s3"> enact</span><span style="s4"> policies</span> this is this is what</p>
+<p begin="00:06:37.570" end="00:06:39.849" style="s2">the whole</p>
+<p begin="00:06:38.050" end="00:06:42.039" style="s2">if you remember<span style="s4"> the</span> privatized Social</p>
+<p begin="00:06:39.849" end="00:06:43.660" style="s2">Security thing<span style="s3"> this was part of like</span></p>
+<p begin="00:06:42.039" end="00:06:45.569" style="s2">give people<span style="s3"> control</span> of their<span style="s4"> own</span> assets</p>
+<p begin="00:06:43.660" end="00:06:49.960" style="s2">and they will take better care of them</p>
+<p begin="00:06:45.569" end="00:06:51.340" style="s2"><span style="s3">so</span> it was a<span style="s3"> serious</span> conversation that</p>
+<p begin="00:06:49.960" end="00:06:56.710" style="s2"><span style="s3">that</span><span style="s4"> got</span> interrupted and<span style="s4"> I&#39;d</span> like<span style="s3"> to</span></p>
+<p begin="00:06:51.340" end="00:06:59.110" style="s2"><span style="s3">resume</span> it tonight<span style="s3"> hold</span> on a sec with</p>
+<p begin="00:06:56.710" end="00:07:01.479" style="s2">some other<span style="s3"> thoughts</span> on what ownership</p>
+<p begin="00:06:59.110" end="00:07:03.849" style="s2">society<span style="s3"> means in an age when many things</span></p>
+<p begin="00:07:01.479" end="00:07:07.360" style="s2">are not physical<span style="s4"> but</span> our bits so here&#39;s</p>
+<p begin="00:07:03.849" end="00:07:09.190" style="s2"><span style="s3">his</span> summary<span style="s3"> the</span> more ownership<span style="s3"> there</span> is</p>
+<p begin="00:07:07.360" end="00:07:10.780" style="s2">in America<span style="s4"> the</span> more<span style="s3"> vitality</span> there is</p>
+<p begin="00:07:09.190" end="00:07:11.889" style="s2">the more<span style="s4"> people</span> have a vital stake in</p>
+<p begin="00:07:10.780" end="00:07:13.930" style="s2">the future<span style="s4"> of</span> this<span style="s4"> country</span> there&#39;s got</p>
+<p begin="00:07:11.889" end="00:07:15.550" style="s2">an answer<span style="s3"> George</span> Bush called this the</p>
+<p begin="00:07:13.930" end="00:07:17.139" style="s2"><span style="s4">ownership</span> society<span style="s3"> but</span> where he really</p>
+<p begin="00:07:15.550" end="00:07:19.750" style="s2">meant was<span style="s4"> the you&#39;re on your own society</span></p>
+<p begin="00:07:17.139" end="00:07:21.630" style="s2">but<span style="s4"> will</span> let<span style="s3"> them</span> have<span style="s4"> that</span> debate<span style="s3"> there</span></p>
+<p begin="00:07:19.750" end="00:07:24.610" style="s2">they have the free<span style="s4"> time</span> to do it<span style="s3"> now</span></p>
+<p begin="00:07:21.630" end="00:07:26.470" style="s2"><span style="s3">let&#39;s</span> talk about<span style="s3"> ownership so back in</span></p>
+<p begin="00:07:24.610" end="00:07:30.190" style="s2">the day when<span style="s4"> we all made our</span><span style="s3"> living like</span></p>
+<p begin="00:07:26.470" end="00:07:32.979" style="s2">this or<span style="s4"> like this it</span> was very<span style="s3"> clear</span> what</p>
+<p begin="00:07:30.190" end="00:07:35.199" style="s2"><span style="s4">ownership</span> meant ownership meant you are</p>
+<p begin="00:07:32.979" end="00:07:37.419" style="s2"><span style="s4">the</span> person who<span style="s3"> decides</span> how a<span style="s3"> certain</span></p>
+<p begin="00:07:35.199" end="00:07:40.440" style="s2"><span style="s4">asset</span> is used or where it is put the</p>
+<p begin="00:07:37.419" end="00:07:42.550" style="s2">allocation of<span style="s3"> resources</span><span style="s4"> and</span> politics is</p>
+<p begin="00:07:40.440" end="00:07:45.460" style="s2">disputes about<span style="s3"> who</span><span style="s4"> owns</span> what and<span style="s3"> how</span></p>
+<p begin="00:07:42.550" end="00:07:47.680" style="s2">those<span style="s4"> resources</span> will be allocated<span style="s3"> so</span> if</p>
+<p begin="00:07:45.460" end="00:07:49.150" style="s2">we didn&#39;t have<span style="s3"> ownership then every time</span></p>
+<p begin="00:07:47.680" end="00:07:50.620" style="s2">someone wanted<span style="s4"> to</span> ride a bicycle the</p>
+<p begin="00:07:49.150" end="00:07:52.000" style="s2">entire world would<span style="s3"> have to consider</span> the</p>
+<p begin="00:07:50.620" end="00:07:54.969" style="s2">proposal<span style="s4"> and</span> hold a vote or something</p>
+<p begin="00:07:52.000" end="00:07:58.210" style="s2"><span style="s4">like</span><span style="s3"> that right that</span> would be silly<span style="s4"> the</span></p>
+<p begin="00:07:54.969" end="00:07:59.650" style="s2">the overhead of<span style="s3"> doing</span> that is far far</p>
+<p begin="00:07:58.210" end="00:08:02.139" style="s2"><span style="s4">greater</span><span style="s3"> than</span><span style="s4"> than</span> whatever<span style="s3"> you</span> were</p>
+<p begin="00:07:59.650" end="00:08:03.610" style="s2">going<span style="s3"> to</span> do in<span style="s3"> the bicycle ride</span><span style="s4"> and</span> you</p>
+<p begin="00:08:02.139" end="00:08:06.099" style="s2">can think in a<span style="s3"> sense</span> you<span style="s3"> can</span><span style="s4"> think</span><span style="s3"> of</span></p>
+<p begin="00:08:03.610" end="00:08:08.340" style="s2"><span style="s3">ownership</span> as an optimization to reduce</p>
+<p begin="00:08:06.099" end="00:08:10.599" style="s2">the amount<span style="s4"> of</span> time spent<span style="s3"> on</span> disputes</p>
+<p begin="00:08:08.340" end="00:08:12.759" style="s2">arguments<span style="s3"> voting</span><span style="s4"> and</span> other</p>
+<p begin="00:08:10.599" end="00:08:14.860" style="s2"><span style="s4">decision-making</span><span style="s3"> processes and we just</span></p>
+<p begin="00:08:12.759" end="00:08:17.050" style="s2">say like that object is tied to<span style="s3"> that</span></p>
+<p begin="00:08:14.860" end="00:08:19.150" style="s2">person a person is a dictator over<span style="s4"> what</span></p>
+<p begin="00:08:17.050" end="00:08:20.560" style="s2">that<span style="s4"> object</span><span style="s3"> does</span> and to the<span style="s3"> extent</span> that</p>
+<p begin="00:08:19.150" end="00:08:22.360" style="s2"><span style="s3">they&#39;re</span> not placing it in someone else&#39;s</p>
+<p begin="00:08:20.560" end="00:08:25.870" style="s2">house or<span style="s3"> something</span> they<span style="s3"> they</span> can do<span style="s3"> that</span></p>
+<p begin="00:08:22.360" end="00:08:30.000" style="s2"><span style="s3">because they are quote</span> the owner<span style="s4"> things</span></p>
+<p begin="00:08:25.870" end="00:08:34.089" style="s2">started<span style="s3"> to</span> change<span style="s3"> about</span><span style="s4"> 400</span><span style="s3"> years</span> ago</p>
+<p begin="00:08:30.000" end="00:08:35.740" style="s2">when a thing that we all had that that</p>
+<p begin="00:08:34.089" end="00:08:39.010" style="s2">was not<span style="s3"> really</span> easy<span style="s3"> to</span> own which was</p>
+<p begin="00:08:35.740" end="00:08:41.409" style="s2">language and thought<span style="s3"> started</span> to have a</p>
+<p begin="00:08:39.010" end="00:08:44.950" style="s2">direct representation in reproducible</p>
+<p begin="00:08:41.409" end="00:08:47.170" style="s2">physical media<span style="s4"> so</span> first first<span style="s3"> it</span> was</p>
+<p begin="00:08:44.950" end="00:08:48.579" style="s2"><span style="s4">just</span> writing<span style="s3"> and</span> that<span style="s4"> because</span><span style="s3"> ownership</span></p>
+<p begin="00:08:47.170" end="00:08:51.970" style="s2">didn&#39;t get too<span style="s3"> much</span> more<span style="s3"> complicated</span></p>
+<p begin="00:08:48.579" end="00:08:54.370" style="s2"><span style="s4">then</span><span style="s3"> because</span> copying out books was<span style="s4"> real</span></p>
+<p begin="00:08:51.970" end="00:08:56.439" style="s2">hard this<span style="s3"> this</span> fellow is working at</p>
+<p begin="00:08:54.370" end="00:08:58.600" style="s2">making<span style="s3"> a</span> copy of a manuscript<span style="s3"> and</span> that</p>
+<p begin="00:08:56.439" end="00:09:00.579" style="s2">takes a you know a good<span style="s3"> a</span> good monk will</p>
+<p begin="00:08:58.600" end="00:09:02.500" style="s2">take a few<span style="s3"> days to</span><span style="s4"> copy</span> a good<span style="s3"> sized</span></p>
+<p begin="00:09:00.579" end="00:09:04.540" style="s2">book right that&#39;s that&#39;s not exactly<span style="s3"> a</span></p>
+<p begin="00:09:02.500" end="00:09:06.910" style="s2">printing press<span style="s3"> but</span> once you<span style="s3"> start to</span></p>
+<p begin="00:09:04.540" end="00:09:10.240" style="s2">automate it<span style="s3"> then</span> there&#39;s this question</p>
+<p begin="00:09:06.910" end="00:09:12.279" style="s2"><span style="s3">of is</span><span style="s4"> the</span> text<span style="s3"> something</span> that some<span style="s3"> de</span></p>
+<p begin="00:09:10.240" end="00:09:14.500" style="s2">text itself<span style="s3"> not</span><span style="s4"> just</span> a<span style="s4"> physical</span> book<span style="s3"> is</span></p>
+<p begin="00:09:12.279" end="00:09:16.449" style="s2">that<span style="s3"> something</span><span style="s4"> that</span> someone owns<span style="s3"> how</span> are</p>
+<p begin="00:09:14.500" end="00:09:17.470" style="s2">we<span style="s3"> going to</span><span style="s4"> think</span> about<span style="s4"> that I&#39;m</span><span style="s3"> not</span></p>
+<p begin="00:09:16.449" end="00:09:21.699" style="s2">going<span style="s3"> to</span> go into<span style="s3"> this</span><span style="s4"> history</span> here but</p>
+<p begin="00:09:17.470" end="00:09:22.899" style="s2"><span style="s3">modern</span> copyright<span style="s3"> is is in some ways a</span></p>
+<p begin="00:09:21.699" end="00:09:26.259" style="s2">reaction to that</p>
+<p begin="00:09:22.899" end="00:09:27.910" style="s2">that dilemma<span style="s3"> for</span> ownership<span style="s4"> it&#39;s</span> it turns</p>
+<p begin="00:09:26.259" end="00:09:29.829" style="s2">out<span style="s3"> it&#39;s</span> as much<span style="s3"> about subsidizing</span></p>
+<p begin="00:09:27.910" end="00:09:31.509" style="s2">producers to own and run<span style="s3"> printing</span></p>
+<p begin="00:09:29.829" end="00:09:34.209" style="s2">presses to<span style="s3"> invest</span> in<span style="s4"> distribution</span> as it</p>
+<p begin="00:09:31.509" end="00:09:35.379" style="s2">is about paying authors<span style="s3"> but</span> so it&#39;s</p>
+<p begin="00:09:34.209" end="00:09:37.540" style="s2"><span style="s4">historically</span> an interesting thing<span style="s4"> and</span></p>
+<p begin="00:09:35.379" end="00:09:39.490" style="s2">it&#39;s not<span style="s4"> just</span><span style="s3"> about</span><span style="s4"> ownership</span> now it&#39;s</p>
+<p begin="00:09:37.540" end="00:09:40.839" style="s2">one<span style="s3"> of those places and</span><span style="s4"> it&#39;s</span> I tried to</p>
+<p begin="00:09:39.490" end="00:09:42.100" style="s2">have a<span style="s3"> visual</span><span style="s4"> representation</span> of<span style="s3"> what</span> it</p>
+<p begin="00:09:40.839" end="00:09:44.019" style="s2"><span style="s4">looks</span> like<span style="s3"> when</span> you<span style="s3"> don&#39;t need printing</span></p>
+<p begin="00:09:42.100" end="00:09:45.250" style="s2">presses anymore and bits<span style="s3"> just</span> flow</p>
+<p begin="00:09:44.019" end="00:09:47.920" style="s2">around the ether<span style="s4"> and</span> they can be</p>
+<p begin="00:09:45.250" end="00:09:51.189" style="s2">replicated<span style="s3"> at</span> zero marginal cost<span style="s4"> the</span></p>
+<p begin="00:09:47.920" end="00:09:53.050" style="s2">word marginal there is important<span style="s4"> zero</span></p>
+<p begin="00:09:51.189" end="00:09:55.180" style="s2">cost is if it doesn&#39;t cost<span style="s3"> you</span> anything</p>
+<p begin="00:09:53.050" end="00:09:56.649" style="s2"><span style="s3">to</span> write the book<span style="s3"> zero</span> marginal cost<span style="s3"> is</span></p>
+<p begin="00:09:55.180" end="00:09:59.019" style="s2">having written<span style="s3"> the</span> book it<span style="s3"> doesn&#39;t</span> cost</p>
+<p begin="00:09:56.649" end="00:10:01.059" style="s2">you<span style="s4"> anything</span> or<span style="s3"> just</span> about nothing<span style="s3"> to</span></p>
+<p begin="00:09:59.019" end="00:10:03.189" style="s2">make a second copy<span style="s3"> of the book the</span></p>
+<p begin="00:10:01.059" end="00:10:09.399" style="s2"><span style="s4">Internet</span> is is paradise for<span style="s3"> zero</span></p>
+<p begin="00:10:03.189" end="00:10:11.589" style="s2">marginal cost transactions right<span style="s4"> so</span> this</p>
+<p begin="00:10:09.399" end="00:10:13.930" style="s2">is some code I wrote<span style="s4"> many years ago look</span></p>
+<p begin="00:10:11.589" end="00:10:15.819" style="s2">now I<span style="s3"> have</span> three<span style="s4"> copies</span> just<span style="s4"> one</span><span style="s3"> button</span></p>
+<p begin="00:10:13.930" end="00:10:18.309" style="s2">right<span style="s3"> like</span> it&#39;s so easy<span style="s4"> believe</span> it<span style="s3"> or</span></p>
+<p begin="00:10:15.819" end="00:10:20.350" style="s2"><span style="s3">not</span> there are still<span style="s4"> a</span> lot of public</p>
+<p begin="00:10:18.309" end="00:10:25.750" style="s2">policies<span style="s4"> and</span> companies that<span style="s3"> don&#39;t</span></p>
+<p begin="00:10:20.350" end="00:10:27.790" style="s2">understand this and but many<span style="s3"> of</span> them</p>
+<p begin="00:10:25.750" end="00:10:29.170" style="s2"><span style="s3">increasingly especially among technology</span></p>
+<p begin="00:10:27.790" end="00:10:31.410" style="s2">companies many<span style="s3"> of</span> them are beginning to</p>
+<p begin="00:10:29.170" end="00:10:33.759" style="s2">understand it<span style="s3"> and</span> I want to explain how</p>
+<p begin="00:10:31.410" end="00:10:36.790" style="s2"><span style="s4">this</span> looks from<span style="s4"> the</span> company&#39;s point of</p>
+<p begin="00:10:33.759" end="00:10:38.290" style="s2">view first<span style="s4"> then</span><span style="s3"> explain</span> how<span style="s3"> it</span> looks</p>
+<p begin="00:10:36.790" end="00:10:40.089" style="s2">from<span style="s3"> an</span> employee&#39;s point of view and why</p>
+<p begin="00:10:38.290" end="00:10:41.740" style="s2">it is important that<span style="s3"> you be involved</span> in</p>
+<p begin="00:10:40.089" end="00:10:43.509" style="s2"><span style="s3">open</span><span style="s4"> source</span> software<span style="s4"> even</span> if it&#39;s<span style="s3"> not</span></p>
+<p begin="00:10:41.740" end="00:10:45.040" style="s2">your<span style="s3"> full-time</span> job<span style="s3"> it should be part</span> of</p>
+<p begin="00:10:43.509" end="00:10:46.870" style="s2"><span style="s3">your</span> job<span style="s3"> if</span> you&#39;re<span style="s3"> going to work in</span></p>
+<p begin="00:10:45.040" end="00:10:49.269" style="s2">technology<span style="s3"> so</span> the first thing you<span style="s4"> have</span></p>
+<p begin="00:10:46.870" end="00:10:50.980" style="s2"><span style="s3">to</span> understand is the the<span style="s3"> incredible</span></p>
+<p begin="00:10:49.269" end="00:10:53.110" style="s2">bargaining chip you hold in your hand or</p>
+<p begin="00:10:50.980" end="00:10:55.000" style="s2">rather in your head by being a skilled</p>
+<p begin="00:10:53.110" end="00:10:57.100" style="s2">programmer<span style="s3"> or</span> someone who works<span style="s3"> with</span></p>
+<p begin="00:10:55.000" end="00:11:00.130" style="s2">technology can do documentation writing</p>
+<p begin="00:10:57.100" end="00:11:02.470" style="s2">can<span style="s3"> be</span> involved<span style="s3"> in</span> open source<span style="s3"> style</span></p>
+<p begin="00:11:00.130" end="00:11:04.630" style="s2">collaboration from<span style="s3"> a business&#39;s point of</span></p>
+<p begin="00:11:02.470" end="00:11:05.270" style="s2">view why<span style="s4"> do</span> they do<span style="s3"> open</span> source<span style="s3"> well</span> for</p>
+<p begin="00:11:04.630" end="00:11:06.710" style="s2">one thing it</p>
+<p begin="00:11:05.270" end="00:11:08.120" style="s2">helps<span style="s3"> with</span> recruiting<span style="s3"> and</span> onboarding</p>
+<p begin="00:11:06.710" end="00:11:09.650" style="s2">people someone comes in they already</p>
+<p begin="00:11:08.120" end="00:11:11.300" style="s2">know how to<span style="s3"> use get you know they&#39;re</span></p>
+<p begin="00:11:09.650" end="00:11:14.270" style="s2">they&#39;re<span style="s4"> accustomed</span><span style="s3"> to</span> a<span style="s4"> certain</span> style<span style="s3"> of</span></p>
+<p begin="00:11:11.300" end="00:11:16.130" style="s2"><span style="s4">development and also</span><span style="s3"> you</span> found them like</p>
+<p begin="00:11:14.270" end="00:11:18.860" style="s2">you<span style="s3"> were</span> your employees were out<span style="s4"> there</span></p>
+<p begin="00:11:16.130" end="00:11:21.530" style="s2"><span style="s4">in</span> an<span style="s4"> open-source project they</span> met this</p>
+<p begin="00:11:18.860" end="00:11:23.030" style="s2">person<span style="s4"> you&#39;ve</span> already seen the resume in</p>
+<p begin="00:11:21.530" end="00:11:23.720" style="s2">a in a<span style="s3"> sense</span> because<span style="s4"> you</span><span style="s3"> worked</span> with</p>
+<p begin="00:11:23.030" end="00:11:26.540" style="s2"><span style="s3">them</span> directly</p>
+<p begin="00:11:23.720" end="00:11:29.120" style="s2">a lot<span style="s3"> of</span> people get hired through their</p>
+<p begin="00:11:26.540" end="00:11:30.890" style="s2">work<span style="s4"> in</span> open-source<span style="s3"> and</span> if you&#39;re<span style="s4"> just</span></p>
+<p begin="00:11:29.120" end="00:11:32.930" style="s2"><span style="s4">looking</span> for<span style="s3"> a</span> naked<span style="s4"> Lee</span> utilitarian</p>
+<p begin="00:11:30.890" end="00:11:35.120" style="s2">justification to do<span style="s4"> open-source</span> work</p>
+<p begin="00:11:32.930" end="00:11:36.350" style="s2">that&#39;s a good one<span style="s3"> right there</span><span style="s4"> people</span></p>
+<p begin="00:11:35.120" end="00:11:37.970" style="s2"><span style="s4">will</span><span style="s3"> notice</span> you you&#39;ll<span style="s4"> have</span> a stronger</p>
+<p begin="00:11:36.350" end="00:11:45.140" style="s2">resume and some of them will be hiring</p>
+<p begin="00:11:37.970" end="00:11:46.640" style="s2"><span style="s4">someday</span> one second and<span style="s3"> won&#39;t</span> go too<span style="s3"> much</span></p>
+<p begin="00:11:45.140" end="00:11:48.710" style="s2">into the<span style="s3"> engineering</span> practices<span style="s3"> this</span><span style="s4"> is</span></p>
+<p begin="00:11:46.640" end="00:11:50.120" style="s2">not an engineering talk but a lot<span style="s4"> of</span></p>
+<p begin="00:11:48.710" end="00:11:51.800" style="s2">what my company talks to clients<span style="s3"> about</span></p>
+<p begin="00:11:50.120" end="00:11:54.920" style="s2"><span style="s3">or</span> our<span style="s4"> companies</span><span style="s3"> the CEO is</span> back there</p>
+<p begin="00:11:51.800" end="00:11:56.690" style="s2">hi Cecilia<span style="s4"> is</span> is<span style="s3"> making</span> their internal</p>
+<p begin="00:11:54.920" end="00:11:59.750" style="s2">engineering practices look more the way</p>
+<p begin="00:11:56.690" end="00:12:02.240" style="s2">open-source projects<span style="s3"> are</span> run<span style="s4"> another</span></p>
+<p begin="00:11:59.750" end="00:12:03.590" style="s2">thing is if your programmers are</p>
+<p begin="00:12:02.240" end="00:12:06.260" style="s2">involved in a lot of<span style="s3"> open</span> source</p>
+<p begin="00:12:03.590" end="00:12:08.780" style="s2">projects<span style="s4"> that means that they&#39;re out</span></p>
+<p begin="00:12:06.260" end="00:12:11.480" style="s2"><span style="s3">there</span><span style="s4"> in</span> the trenches<span style="s3"> working</span> directly</p>
+<p begin="00:12:08.780" end="00:12:14.270" style="s2">with program programmers at your</p>
+<p begin="00:12:11.480" end="00:12:18.350" style="s2">customers and your competitors companies</p>
+<p begin="00:12:14.270" end="00:12:20.150" style="s2">and you get this tremendous<span style="s3"> insight</span> into</p>
+<p begin="00:12:18.350" end="00:12:21.590" style="s2">where<span style="s4"> people</span> are actually<span style="s3"> spending their</span></p>
+<p begin="00:12:20.150" end="00:12:23.270" style="s2">time what their priorities are you can</p>
+<p begin="00:12:21.590" end="00:12:26.870" style="s2">see where your<span style="s3"> competitor is allocating</span></p>
+<p begin="00:12:23.270" end="00:12:29.660" style="s2">their best coders right because was it</p>
+<p begin="00:12:26.870" end="00:12:34.610" style="s2"><span style="s3">something</span> I said<span style="s3"> it&#39;s</span> kind<span style="s4"> of</span> nice this</p>
+<p begin="00:12:29.660" end="00:12:37.250" style="s2"><span style="s3">way</span><span style="s4"> ok</span><span style="s3"> thanks</span><span style="s4"> you all of</span> a sudden it&#39;s</p>
+<p begin="00:12:34.610" end="00:12:38.510" style="s2">like your company<span style="s3"> grew</span> tentacles<span style="s3"> that</span></p>
+<p begin="00:12:37.250" end="00:12:39.890" style="s2">have thousands of nerve endings<span style="s4"> and</span></p>
+<p begin="00:12:38.510" end="00:12:42.200" style="s2">suckers on them<span style="s3"> like</span> you<span style="s3"> are</span><span style="s4"> out</span> there</p>
+<p begin="00:12:39.890" end="00:12:44.120" style="s2">sensing all the things that are</p>
+<p begin="00:12:42.200" end="00:12:45.530" style="s2">happening<span style="s4"> the</span> surface area if your</p>
+<p begin="00:12:44.120" end="00:12:48.650" style="s2">company<span style="s4"> just</span> increased dramatically</p>
+<p begin="00:12:45.530" end="00:12:50.660" style="s2"><span style="s3">because your programmers are working</span></p>
+<p begin="00:12:48.650" end="00:12:52.850" style="s2"><span style="s3">directly</span> with<span style="s4"> the</span> programmers<span style="s3"> in</span><span style="s4"> other</span></p>
+<p begin="00:12:50.660" end="00:12:54.530" style="s2">organizations<span style="s3"> and</span> you can as long as</p>
+<p begin="00:12:52.850" end="00:12:56.120" style="s2"><span style="s3">your</span> managers know to talk<span style="s3"> to</span> them<span style="s3"> and</span></p>
+<p begin="00:12:54.530" end="00:12:57.560" style="s2">filter that information<span style="s4"> back</span> up that</p>
+<p begin="00:12:56.120" end="00:13:00.320" style="s2"><span style="s3">actually</span> becomes a tremendous<span style="s3"> source</span> of</p>
+<p begin="00:12:57.560" end="00:13:02.480" style="s2">competitive insight and also market</p>
+<p begin="00:13:00.320" end="00:13:05.300" style="s2">insight also</p>
+<p begin="00:13:02.480" end="00:13:06.530" style="s2">chances<span style="s3"> are</span> whatever tech you wrote is</p>
+<p begin="00:13:05.300" end="00:13:09.380" style="s2">something that someone<span style="s4"> else</span> could have</p>
+<p begin="00:13:06.530" end="00:13:13.280" style="s2"><span style="s3">written</span> and probably did<span style="s3"> so</span> suppose<span style="s3"> you</span></p>
+<p begin="00:13:09.380" end="00:13:15.670" style="s2">wrote a online<span style="s3"> service</span><span style="s4"> that</span> does X I</p>
+<p begin="00:13:13.280" end="00:13:17.780" style="s2">didn&#39;t care what X what feature X is if</p>
+<p begin="00:13:15.670" end="00:13:19.010" style="s2">you&#39;re<span style="s4"> the</span><span style="s3"> only person in</span> the world<span style="s3"> who</span></p>
+<p begin="00:13:17.780" end="00:13:20.090" style="s2">can sell X<span style="s4"> that</span></p>
+<p begin="00:13:19.010" end="00:13:22.070" style="s2">great you&#39;re probably going<span style="s3"> to</span><span style="s4"> make</span> a</p>
+<p begin="00:13:20.090" end="00:13:23.210" style="s2">lot<span style="s4"> of</span><span style="s3"> money but as</span> soon as someone</p>
+<p begin="00:13:22.070" end="00:13:25.460" style="s2"><span style="s3">wants</span> to challenge<span style="s3"> you</span> in<span style="s4"> that</span></p>
+<p begin="00:13:23.210" end="00:13:28.730" style="s2">marketplace<span style="s4"> the</span><span style="s3"> easiest</span> way for<span style="s3"> them</span><span style="s4"> to</span></p>
+<p begin="00:13:25.460" end="00:13:30.080" style="s2">do it is to build something<span style="s3"> that&#39;s</span> open</p>
+<p begin="00:13:28.730" end="00:13:32.270" style="s2"><span style="s4">source</span> or take<span style="s3"> something</span> that<span style="s3"> is already</span></p>
+<p begin="00:13:30.080" end="00:13:34.190" style="s2">open source<span style="s3"> and 80% of the way they are</span></p>
+<p begin="00:13:32.270" end="00:13:36.860" style="s2"><span style="s4">add</span> a few features<span style="s4"> tour</span> it and call<span style="s4"> it</span></p>
+<p begin="00:13:34.190" end="00:13:38.090" style="s2">you<span style="s3"> know not X because</span><span style="s4"> that</span> would be a</p>
+<p begin="00:13:36.860" end="00:13:39.650" style="s2">trademark infringement<span style="s4"> but</span> you know</p>
+<p begin="00:13:38.090" end="00:13:41.660" style="s2"><span style="s3">thing that</span><span style="s4"> is</span> a lot like X but has our</p>
+<p begin="00:13:39.650" end="00:13:44.420" style="s2"><span style="s4">own</span><span style="s3"> name</span><span style="s4"> on</span> it<span style="s3"> and okay maybe</span><span style="s4"> it&#39;s</span><span style="s3"> not</span></p>
+<p begin="00:13:41.660" end="00:13:45.740" style="s2">feature for feature equivalent to X but</p>
+<p begin="00:13:44.420" end="00:13:47.690" style="s2">it<span style="s3"> pretty much does the</span><span style="s4"> same</span><span style="s3"> thing</span> all</p>
+<p begin="00:13:45.740" end="00:13:49.370" style="s2">of a sudden you are now competing with</p>
+<p begin="00:13:47.690" end="00:13:50.990" style="s2">the entire<span style="s3"> open-source</span> community that</p>
+<p begin="00:13:49.370" end="00:13:52.310" style="s2">contributes to<span style="s4"> that</span><span style="s3"> thing and is that</span></p>
+<p begin="00:13:50.990" end="00:13:54.140" style="s2"><span style="s3">company</span> smart they will<span style="s3"> have</span> brought in</p>
+<p begin="00:13:52.310" end="00:13:55.220" style="s2">partners<span style="s4"> there&#39;s</span> no way no<span style="s3"> matter how</span></p>
+<p begin="00:13:54.140" end="00:13:58.910" style="s2">big you<span style="s4"> are</span> that you<span style="s3"> can</span> compete with</p>
+<p begin="00:13:55.220" end="00:14:00.530" style="s2"><span style="s4">that</span> um<span style="s4"> so</span> what&#39;s happening increasingly</p>
+<p begin="00:13:58.910" end="00:14:04.520" style="s2"><span style="s4">and</span> we&#39;ll look at this<span style="s4"> a</span><span style="s3"> little bit more</span></p>
+<p begin="00:14:00.530" end="00:14:06.260" style="s2">in a few<span style="s4"> slides</span> down is that companies</p>
+<p begin="00:14:04.520" end="00:14:07.610" style="s2">build just<span style="s3"> about</span><span style="s4"> everything</span> they build</p>
+<p begin="00:14:06.260" end="00:14:08.720" style="s2">out<span style="s4"> of</span><span style="s3"> open</span> source<span style="s3"> and then the last</span></p>
+<p begin="00:14:07.610" end="00:14:10.970" style="s2"><span style="s3">little</span> bit the<span style="s4"> thing</span> they wanted</p>
+<p begin="00:14:08.720" end="00:14:12.770" style="s2"><span style="s4">Singlish</span> themselves with they will<span style="s3"> keep</span></p>
+<p begin="00:14:10.970" end="00:14:14.270" style="s2"><span style="s4">closed</span> source<span style="s4"> we</span> don&#39;t personally we</p>
+<p begin="00:14:12.770" end="00:14:17.330" style="s2">only do open source<span style="s3"> and</span> I hope you will</p>
+<p begin="00:14:14.270" end="00:14:19.160" style="s2"><span style="s3">too but if</span> you can&#39;t have that if<span style="s3"> you</span></p>
+<p begin="00:14:17.330" end="00:14:20.420" style="s2">don&#39;t<span style="s3"> have that option try</span> to at least</p>
+<p begin="00:14:19.160" end="00:14:21.740" style="s2">arrange it so<span style="s4"> that</span> most<span style="s3"> of</span><span style="s4"> what</span> you</p>
+<p begin="00:14:20.420" end="00:14:23.210" style="s2">build is open source<span style="s3"> because</span> that little</p>
+<p begin="00:14:21.740" end="00:14:25.270" style="s2"><span style="s4">bit</span> of<span style="s3"> proprietary</span> stuff<span style="s3"> on</span> the edge</p>
+<p begin="00:14:23.210" end="00:14:27.740" style="s2"><span style="s3">someone&#39;s</span> going to<span style="s3"> come</span><span style="s4"> along and</span></p>
+<p begin="00:14:25.270" end="00:14:29.390" style="s2">commoditize it very soon and<span style="s3"> then</span> your</p>
+<p begin="00:14:27.740" end="00:14:30.890" style="s2"><span style="s3">best bet at that</span><span style="s4"> moment</span> your best move</p>
+<p begin="00:14:29.390" end="00:14:34.970" style="s2">is to<span style="s3"> open source that as well and</span></p>
+<p begin="00:14:30.890" end="00:14:38.330" style="s2">concentrate on<span style="s3"> something</span> else<span style="s4"> it</span> is also</p>
+<p begin="00:14:34.970" end="00:14:39.950" style="s2"><span style="s3">a</span> great reality<span style="s3"> check</span><span style="s4"> on</span> a company&#39;s</p>
+<p begin="00:14:38.330" end="00:14:43.280" style="s2">internal<span style="s3"> beliefs about what</span> the<span style="s4"> market</span></p>
+<p begin="00:14:39.950" end="00:14:45.650" style="s2">wants and technology decisions if you if</p>
+<p begin="00:14:43.280" end="00:14:47.540" style="s2">you suddenly<span style="s3"> find that you know your</span></p>
+<p begin="00:14:45.650" end="00:14:49.280" style="s2">engineers are advocating like let&#39;s go</p>
+<p begin="00:14:47.540" end="00:14:52.910" style="s2">all you know let&#39;s do everything<span style="s4"> no</span> SQL</p>
+<p begin="00:14:49.280" end="00:14:54.350" style="s2"><span style="s3">the</span> relational databases are dead<span style="s3"> for</span></p>
+<p begin="00:14:52.910" end="00:14:55.670" style="s2">certain kinds of problems<span style="s4"> and</span> then<span style="s3"> you</span></p>
+<p begin="00:14:54.350" end="00:14:57.530" style="s2">go out<span style="s3"> then</span> you notice that<span style="s4"> all</span> the open</p>
+<p begin="00:14:55.670" end="00:14:58.880" style="s2"><span style="s4">source</span> projects working<span style="s4"> on</span> those kinds</p>
+<p begin="00:14:57.530" end="00:15:01.970" style="s2"><span style="s3">of</span><span style="s4"> problems</span><span style="s3"> are</span> doing it in Postgres</p>
+<p begin="00:14:58.880" end="00:15:03.770" style="s2">just fine then you<span style="s3"> can</span> at least<span style="s3"> at</span> the</p>
+<p begin="00:15:01.970" end="00:15:05.210" style="s2">design meeting<span style="s3"> you</span> can say well justify</p>
+<p begin="00:15:03.770" end="00:15:06.290" style="s2">that like I see that<span style="s3"> they&#39;re not and</span></p>
+<p begin="00:15:05.210" end="00:15:07.640" style="s2">they&#39;re<span style="s3"> not</span> and<span style="s3"> they&#39;re</span> not doing it why</p>
+<p begin="00:15:06.290" end="00:15:10.670" style="s2">do you<span style="s3"> think</span> we<span style="s3"> should</span> do it you really</p>
+<p begin="00:15:07.640" end="00:15:12.620" style="s2"><span style="s4">you</span> get the insight into sort<span style="s3"> of</span> the the</p>
+<p begin="00:15:10.670" end="00:15:15.620" style="s2">best practices<span style="s3"> of</span> a lot of<span style="s3"> organizations</span></p>
+<p begin="00:15:12.620" end="00:15:19.040" style="s2">by doing<span style="s3"> open source it&#39;s also a great</span></p>
+<p begin="00:15:15.620" end="00:15:22.040" style="s2">way<span style="s4"> to</span> create<span style="s3"> a</span> different a<span style="s4"> different</span></p>
+<p begin="00:15:19.040" end="00:15:23.450" style="s2">shape<span style="s4"> to</span> a market<span style="s3"> one of the things we</span></p>
+<p begin="00:15:22.040" end="00:15:25.370" style="s2">see most often<span style="s3"> is</span> that<span style="s4"> a</span> company will</p>
+<p begin="00:15:23.450" end="00:15:27.290" style="s2"><span style="s3">release open source</span> software<span style="s4"> not</span> because</p>
+<p begin="00:15:25.370" end="00:15:31.939" style="s2">they&#39;re going<span style="s4"> to</span> sell services<span style="s3"> directly</span></p>
+<p begin="00:15:27.290" end="00:15:33.829" style="s2">on it not<span style="s3"> because</span> they have a<span style="s4"> weekly</span></p>
+<p begin="00:15:31.939" end="00:15:36.259" style="s2">on customer demand<span style="s3"> but</span> they do it to</p>
+<p begin="00:15:33.829" end="00:15:37.669" style="s2">disrupt an existing<span style="s4"> marketplace</span><span style="s3"> so that</span></p>
+<p begin="00:15:36.259" end="00:15:41.269" style="s2">they can<span style="s4"> come in</span><span style="s3"> and</span> do something<span style="s4"> else</span></p>
+<p begin="00:15:37.669" end="00:15:42.829" style="s2">in fact<span style="s3"> my</span> one of<span style="s3"> my long ago</span> and still</p>
+<p begin="00:15:41.269" end="00:15:45.439" style="s2"><span style="s4">one</span> of the longest jobs I&#39;ve held which</p>
+<p begin="00:15:42.829" end="00:15:46.789" style="s2">was working on the subversion version</p>
+<p begin="00:15:45.439" end="00:15:49.970" style="s2">control system which is a thing that<span style="s3"> we</span></p>
+<p begin="00:15:46.789" end="00:15:52.609" style="s2"><span style="s4">had</span> before<span style="s3"> get</span> oh well lost<span style="s3"> that</span> one<span style="s3"> but</span></p>
+<p begin="00:15:49.970" end="00:15:54.289" style="s2">um but subversion was essentially</p>
+<p begin="00:15:52.609" end="00:15:55.879" style="s2">started to disrupt a market it wasn&#39;t</p>
+<p begin="00:15:54.289" end="00:15:58.159" style="s2">the company that made it<span style="s3"> was</span> not really</p>
+<p begin="00:15:55.879" end="00:16:00.139" style="s2"><span style="s4">selling</span> subversion what they<span style="s3"> wanted</span> was</p>
+<p begin="00:15:58.159" end="00:16:04.129" style="s2">to sell another service and they needed</p>
+<p begin="00:16:00.139" end="00:16:06.470" style="s2"><span style="s3">to</span><span style="s4"> have a commodity baseline</span> open<span style="s3"> source</span></p>
+<p begin="00:16:04.129" end="00:16:08.119" style="s2"><span style="s3">or</span> visual system out there<span style="s3"> in</span> order<span style="s4"> to</span></p>
+<p begin="00:16:06.470" end="00:16:11.179" style="s2"><span style="s3">get</span><span style="s4"> people</span> to<span style="s3"> want</span><span style="s4"> the</span><span style="s3"> other</span> thing they</p>
+<p begin="00:16:08.119" end="00:16:12.829" style="s2">were selling and finally your</p>
+<p begin="00:16:11.179" end="00:16:14.029" style="s2">programmers them speaking<span style="s3"> to</span><span style="s4"> you</span> as</p>
+<p begin="00:16:12.829" end="00:16:15.919" style="s2">though you<span style="s3"> are an employer which</span> some<span style="s4"> of</span></p>
+<p begin="00:16:14.029" end="00:16:18.199" style="s2">you are<span style="s3"> your</span> programmers are happier</p>
+<p begin="00:16:15.919" end="00:16:21.409" style="s2"><span style="s3">when</span> they do open<span style="s3"> source if they have an</span></p>
+<p begin="00:16:18.199" end="00:16:23.299" style="s2">external<span style="s3"> audience</span><span style="s4"> they</span> they<span style="s3"> are</span></p>
+<p begin="00:16:21.409" end="00:16:25.159" style="s2">validated<span style="s4"> every day they when they</span></p>
+<p begin="00:16:23.299" end="00:16:26.569" style="s2">review a patch their expertise is</p>
+<p begin="00:16:25.159" end="00:16:28.189" style="s2">validated<span style="s3"> when</span> they submit a patch and</p>
+<p begin="00:16:26.569" end="00:16:31.220" style="s2"><span style="s3">it</span> gets reviewed<span style="s3"> their</span> contribution is</p>
+<p begin="00:16:28.189" end="00:16:33.709" style="s2">validated it just feels good in general</p>
+<p begin="00:16:31.220" end="00:16:35.059" style="s2"><span style="s4">I</span> I&#39;ve<span style="s4"> never</span> done this survey<span style="s4"> someone</span></p>
+<p begin="00:16:33.709" end="00:16:38.059" style="s2">wants to fund<span style="s3"> us</span> to do the survey we&#39;d</p>
+<p begin="00:16:35.059" end="00:16:39.470" style="s2">be happy to<span style="s3"> but</span> I suspect<span style="s3"> that if you</span></p>
+<p begin="00:16:38.059" end="00:16:42.139" style="s2">went<span style="s3"> out</span> and you interviewed programmers</p>
+<p begin="00:16:39.470" end="00:16:43.819" style="s2"><span style="s3">just</span><span style="s4"> on</span> a scale<span style="s4"> of</span> who&#39;s who&#39;s happy in</p>
+<p begin="00:16:42.139" end="00:16:45.439" style="s2">their job<span style="s3"> and</span> who&#39;s<span style="s3"> not</span> and then you</p>
+<p begin="00:16:43.819" end="00:16:47.089" style="s2">took those answers<span style="s4"> and</span> you looked at</p>
+<p begin="00:16:45.439" end="00:16:48.709" style="s2">amount of<span style="s4"> open-source</span><span style="s3"> participation</span></p>
+<p begin="00:16:47.089" end="00:16:50.389" style="s2">there would<span style="s4"> be</span> a direct correlation and</p>
+<p begin="00:16:48.709" end="00:16:52.609" style="s2">I think it would be a<span style="s3"> positive</span></p>
+<p begin="00:16:50.389" end="00:16:55.489" style="s2">correlation as well<span style="s4"> okay</span></p>
+<p begin="00:16:52.609" end="00:16:57.049" style="s2">so that&#39;s where businesses so the thing</p>
+<p begin="00:16:55.489" end="00:16:58.309" style="s2">I was<span style="s3"> trying</span><span style="s4"> this</span> really should<span style="s4"> be</span> the</p>
+<p begin="00:16:57.049" end="00:16:59.809" style="s2"><span style="s4">flour</span> slide this<span style="s3"> is</span> very<span style="s3"> hard</span> to</p>
+<p begin="00:16:58.309" end="00:17:02.239" style="s2">represent<span style="s3"> visually</span><span style="s4"> the</span> way to think</p>
+<p begin="00:16:59.809" end="00:17:03.889" style="s2"><span style="s3">about software these days is</span><span style="s4"> that</span><span style="s3"> to</span> a</p>
+<p begin="00:17:02.239" end="00:17:06.199" style="s2">first<span style="s3"> approximation</span> it&#39;s actually kind</p>
+<p begin="00:17:03.889" end="00:17:07.850" style="s2">of all<span style="s4"> open-source even the even the</span></p>
+<p begin="00:17:06.199" end="00:17:09.500" style="s2"><span style="s3">bleeding</span> edge stuff like the tensor<span style="s3"> flow</span></p>
+<p begin="00:17:07.850" end="00:17:12.740" style="s2">and the you know all those<span style="s3"> deep</span> learning</p>
+<p begin="00:17:09.500" end="00:17:14.509" style="s2"><span style="s3">neural</span> network libraries and<span style="s3"> things</span> that</p>
+<p begin="00:17:12.740" end="00:17:16.970" style="s2">are<span style="s3"> doing</span> complicated scheduling so that</p>
+<p begin="00:17:14.509" end="00:17:19.159" style="s2"><span style="s4">your</span> lift<span style="s3"> riot</span> arrives<span style="s4"> you</span> know one</p>
+<p begin="00:17:16.970" end="00:17:20.629" style="s2">minute sooner<span style="s3"> or</span> something most of the</p>
+<p begin="00:17:19.159" end="00:17:22.069" style="s2">software<span style="s3"> that&#39;s</span> doing that<span style="s3"> is</span></p>
+<p begin="00:17:20.629" end="00:17:24.009" style="s2"><span style="s4">open-source</span> maybe some of the<span style="s4"> datasets</span></p>
+<p begin="00:17:22.069" end="00:17:26.269" style="s2"><span style="s4">are</span><span style="s3"> and</span> maybe some of the algorithms</p>
+<p begin="00:17:24.009" end="00:17:28.940" style="s2"><span style="s4">that</span> are<span style="s3"> being</span> coded into the rule</p>
+<p begin="00:17:26.269" end="00:17:30.379" style="s2">engines are not but most<span style="s3"> of</span> that<span style="s4"> code</span> is</p>
+<p begin="00:17:28.940" end="00:17:32.809" style="s2">open<span style="s3"> source</span><span style="s4"> and</span> all the innovation is</p>
+<p begin="00:17:30.379" end="00:17:35.059" style="s2"><span style="s4">happening</span><span style="s3"> just</span> so open<span style="s3"> source is this</span></p>
+<p begin="00:17:32.809" end="00:17:36.470" style="s2">constantly expanding<span style="s4"> sphere</span> of software</p>
+<p begin="00:17:35.059" end="00:17:38.360" style="s2">and all<span style="s3"> the</span> innovation that&#39;s<span style="s3"> happening</span></p>
+<p begin="00:17:36.470" end="00:17:41.899" style="s2"><span style="s3">is</span> happening on the surface<span style="s4"> of</span> the</p>
+<p begin="00:17:38.360" end="00:17:45.770" style="s2">sphere<span style="s3"> and</span> as the sphere expands it will</p>
+<p begin="00:17:41.899" end="00:17:47.300" style="s2">it will come to surround to encapsulate</p>
+<p begin="00:17:45.770" end="00:17:49.190" style="s2">what used to<span style="s3"> be</span><span style="s4"> its</span> old<span style="s3"> surface</span> when the</p>
+<p begin="00:17:47.300" end="00:17:49.760" style="s2">balloon was smaller and that stuff on</p>
+<p begin="00:17:49.190" end="00:17:51.230" style="s2">the inside</p>
+<p begin="00:17:49.760" end="00:17:52.340" style="s2">now<span style="s3"> it&#39;s</span><span style="s4"> open-source</span> and now there&#39;s</p>
+<p begin="00:17:51.230" end="00:17:53.870" style="s2">some new innovation going<span style="s3"> on</span> on the</p>
+<p begin="00:17:52.340" end="00:17:58.340" style="s2">surface<span style="s4"> but eventually it&#39;s all going to</span></p>
+<p begin="00:17:53.870" end="00:18:00.380" style="s2"><span style="s3">be open-source and</span> if you know how to to</p>
+<p begin="00:17:58.340" end="00:18:03.140" style="s2">swim in<span style="s4"> that</span><span style="s3"> ocean</span> you will<span style="s4"> have</span> a lot</p>
+<p begin="00:18:00.380" end="00:18:05.960" style="s2">of<span style="s3"> things</span> you can do<span style="s3"> so what we&#39;ll get</span></p>
+<p begin="00:18:03.140" end="00:18:07.970" style="s2">to the to the<span style="s3"> advocacy</span> part in a bit<span style="s4"> but</span></p>
+<p begin="00:18:05.960" end="00:18:09.440" style="s2">even if<span style="s3"> you&#39;re not</span><span style="s4"> able</span> to work entirely</p>
+<p begin="00:18:07.970" end="00:18:10.790" style="s2">on open source<span style="s3"> it</span> would be I think a</p>
+<p begin="00:18:09.440" end="00:18:12.530" style="s2">very foolish move to work at a tech</p>
+<p begin="00:18:10.790" end="00:18:14.390" style="s2">company<span style="s4"> and</span> have no<span style="s4"> involvement and open</span></p>
+<p begin="00:18:12.530" end="00:18:16.220" style="s2"><span style="s3">source you&#39;re</span><span style="s4"> basically</span> cutting yourself</p>
+<p begin="00:18:14.390" end="00:18:17.810" style="s2">off from everything<span style="s3"> but</span> the<span style="s4"> surface</span> of</p>
+<p begin="00:18:16.220" end="00:18:19.490" style="s2"><span style="s4">this</span> sphere<span style="s3"> and</span><span style="s4"> that surface is not even</span></p>
+<p begin="00:18:17.810" end="00:18:20.810" style="s2"><span style="s3">staying</span> constant<span style="s3"> it&#39;s</span> it&#39;s expanding</p>
+<p begin="00:18:19.490" end="00:18:22.340" style="s2"><span style="s4">it&#39;ll</span> go beyond you and<span style="s4"> you&#39;ll</span><span style="s3"> have</span></p>
+<p begin="00:18:20.810" end="00:18:25.490" style="s2">expertise in<span style="s3"> some</span> proprietary</p>
+<p begin="00:18:22.340" end="00:18:26.660" style="s2">proprietary technology that<span style="s4"> nobody</span> wants</p>
+<p begin="00:18:25.490" end="00:18:28.040" style="s2">to use<span style="s4"> anymore</span> because it&#39;s been</p>
+<p begin="00:18:26.660" end="00:18:30.290" style="s2">commoditized and<span style="s4"> now everyone&#39;s</span><span style="s3"> using</span></p>
+<p begin="00:18:28.040" end="00:18:31.400" style="s2">the<span style="s4"> open-source</span><span style="s3"> thing</span><span style="s4"> talk</span> to older</p>
+<p begin="00:18:30.290" end="00:18:33.200" style="s2">programmers and they will describe that</p>
+<p begin="00:18:31.400" end="00:18:35.960" style="s2"><span style="s3">happening</span> over and<span style="s3"> over</span><span style="s4"> don&#39;t let</span><span style="s3"> it</span></p>
+<p begin="00:18:33.200" end="00:18:38.960" style="s2">happen<span style="s3"> to</span> you that&#39;s<span style="s3"> me</span> trying<span style="s3"> to show</span></p>
+<p begin="00:18:35.960" end="00:18:40.880" style="s2"><span style="s3">the</span> filled interior of a sphere on a</p>
+<p begin="00:18:38.960" end="00:18:42.050" style="s2"><span style="s4">two-dimensional slide should</span> have been</p>
+<p begin="00:18:40.880" end="00:18:45.700" style="s2">the<span style="s4"> flour</span> let&#39;s<span style="s3"> look</span> at something<span style="s4"> pretty</span></p>
+<p begin="00:18:42.050" end="00:18:45.700" style="s2">instead while<span style="s3"> I</span> take a drink<span style="s4"> of</span> water</p>
+<p begin="00:18:48.310" end="00:18:56.060" style="s2">okay so in your<span style="s3"> career I&#39;m going to</span></p>
+<p begin="00:18:53.330" end="00:18:58.130" style="s2">advocate<span style="s3"> both</span> on practical grounds<span style="s4"> and</span></p>
+<p begin="00:18:56.060" end="00:18:59.480" style="s2">and sort<span style="s4"> of unpolitical</span><span style="s3"> even</span> moral</p>
+<p begin="00:18:58.130" end="00:19:02.660" style="s2">grounds<span style="s3"> that</span> you should be<span style="s3"> involved in</span></p>
+<p begin="00:18:59.480" end="00:19:04.310" style="s2">open source<span style="s4"> I&#39;ve</span><span style="s3"> made</span> some of<span style="s3"> the</span></p>
+<p begin="00:19:02.660" end="00:19:05.930" style="s2"><span style="s3">argument</span> already<span style="s3"> how</span> do you make sure</p>
+<p begin="00:19:04.310" end="00:19:07.580" style="s2"><span style="s4">that</span> that happens let&#39;s<span style="s3"> assume</span> you&#39;re</p>
+<p begin="00:19:05.930" end="00:19:08.690" style="s2">already sold as I know you all<span style="s4"> are</span> but</p>
+<p begin="00:19:07.580" end="00:19:11.110" style="s2"><span style="s3">you</span> want<span style="s4"> to</span> make sure it happens</p>
+<p begin="00:19:08.690" end="00:19:13.910" style="s2">check out your<span style="s3"> employee agreements</span></p>
+<p begin="00:19:11.110" end="00:19:15.470" style="s2"><span style="s3">before</span><span style="s4"> you</span> go to a job make sure<span style="s4"> that</span></p>
+<p begin="00:19:13.910" end="00:19:19.130" style="s2">there are no clauses<span style="s3"> in</span> there that say</p>
+<p begin="00:19:15.470" end="00:19:20.450" style="s2">that<span style="s3"> you</span> can&#39;t work<span style="s4"> on</span> projects that<span style="s3"> you</span></p>
+<p begin="00:19:19.130" end="00:19:23.270" style="s2">worked on<span style="s3"> while</span> you&#39;re at<span style="s3"> the</span> employer</p>
+<p begin="00:19:20.450" end="00:19:25.160" style="s2">like if you your resume has to be able</p>
+<p begin="00:19:23.270" end="00:19:27.440" style="s2"><span style="s3">to</span><span style="s4"> travel</span><span style="s3"> with</span> you<span style="s4"> an</span><span style="s3"> open source if you</span></p>
+<p begin="00:19:25.160" end="00:19:28.940" style="s2">sign an agreement that<span style="s4"> says ok and</span> none</p>
+<p begin="00:19:27.440" end="00:19:31.910" style="s2">of the expertise<span style="s4"> that</span> I&#39;ve acquired<span style="s4"> here</span></p>
+<p begin="00:19:28.940" end="00:19:34.190" style="s2"><span style="s4">or</span> my you know<span style="s3"> my</span> ability<span style="s4"> to</span> contribute</p>
+<p begin="00:19:31.910" end="00:19:36.710" style="s2"><span style="s3">to</span> this<span style="s3"> project</span> that that<span style="s4"> this</span><span style="s3"> employer</span></p>
+<p begin="00:19:34.190" end="00:19:37.850" style="s2">paid partly funded<span style="s3"> me</span> to become an</p>
+<p begin="00:19:36.710" end="00:19:39.230" style="s2"><span style="s3">expert</span> in<span style="s3"> and</span> be able<span style="s3"> to become</span><span style="s4"> a</span></p>
+<p begin="00:19:37.850" end="00:19:40.400" style="s2">contributor<span style="s4"> to</span> the upstream<span style="s3"> and even a</span></p>
+<p begin="00:19:39.230" end="00:19:41.660" style="s2">maintainer<span style="s3"> of</span> if I&#39;m<span style="s3"> not allowed to</span></p>
+<p begin="00:19:40.400" end="00:19:43.100" style="s2"><span style="s3">continue</span> being a maintainer or</p>
+<p begin="00:19:41.660" end="00:19:45.140" style="s2">contributor after I leave<span style="s3"> the company</span></p>
+<p begin="00:19:43.100" end="00:19:47.210" style="s2"><span style="s3">for</span> a period of<span style="s4"> five years then they</span></p>
+<p begin="00:19:45.140" end="00:19:48.050" style="s2">still<span style="s3"> own</span> the resume now it&#39;s<span style="s3"> not</span></p>
+<p begin="00:19:47.210" end="00:19:49.460" style="s2"><span style="s3">doesn&#39;t</span> matter<span style="s4"> that</span> I<span style="s4"> have</span> that</p>
+<p begin="00:19:48.050" end="00:19:50.870" style="s2">expertise I&#39;m blocked<span style="s4"> from</span> using it</p>
+<p begin="00:19:49.460" end="00:19:52.700" style="s2"><span style="s3">watch</span> out<span style="s4"> for</span> any kind<span style="s3"> of</span></p>
+<p begin="00:19:50.870" end="00:19:57.320" style="s2"><span style="s3">anti-competitive</span> or anti<span style="s4"> open source</span></p>
+<p begin="00:19:52.700" end="00:19:59.180" style="s2">participation stuff<span style="s4"> there</span> those are rare</p>
+<p begin="00:19:57.320" end="00:19:59.500" style="s2">but also<span style="s3"> employers</span> are getting stricter</p>
+<p begin="00:19:59.180" end="00:20:03.760" style="s2"><span style="s4">of</span></p>
+<p begin="00:19:59.500" end="00:20:05.020" style="s2">anticompetitive<span style="s3"> clauses and I sort of</span></p>
+<p begin="00:20:03.760" end="00:20:08.440" style="s2">expect that<span style="s3"> trend</span> to go up before<span style="s4"> it</span></p>
+<p begin="00:20:05.020" end="00:20:10.630" style="s2">goes down<span style="s4"> is</span> there<span style="s3"> an</span> organizational</p>
+<p begin="00:20:08.440" end="00:20:12.490" style="s2">policy<span style="s3"> for</span> example<span style="s4"> do</span> you<span style="s4"> have</span> to ask</p>
+<p begin="00:20:10.630" end="00:20:14.340" style="s2">permission before contributing to an</p>
+<p begin="00:20:12.490" end="00:20:17.200" style="s2"><span style="s3">open-source</span> project<span style="s4"> at</span> your<span style="s3"> employer</span> or</p>
+<p begin="00:20:14.340" end="00:20:19.360" style="s2">can you<span style="s4"> just</span> do it<span style="s4"> and</span> your employer</p>
+<p begin="00:20:17.200" end="00:20:20.680" style="s2">will not<span style="s3"> claim</span> any<span style="s4"> proprietary</span> rights</p>
+<p begin="00:20:19.360" end="00:20:22.720" style="s2">over the code that<span style="s3"> you</span> contributed</p>
+<p begin="00:20:20.680" end="00:20:24.640" style="s2">upstream<span style="s3"> because</span> you know you know that</p>
+<p begin="00:20:22.720" end="00:20:26.020" style="s2"><span style="s3">that</span> the employer<span style="s3"> is</span> using<span style="s3"> that</span> code<span style="s3"> and</span></p>
+<p begin="00:20:24.640" end="00:20:28.630" style="s2"><span style="s3">that</span> having<span style="s4"> a</span> healthy upstream is is</p>
+<p begin="00:20:26.020" end="00:20:29.980" style="s2">good<span style="s3"> the</span> section<span style="s3"> that every employer in</span></p>
+<p begin="00:20:28.630" end="00:20:31.180" style="s2">the universe calls the intellectual</p>
+<p begin="00:20:29.980" end="00:20:33.460" style="s2">property<span style="s3"> section in the employee</span></p>
+<p begin="00:20:31.180" end="00:20:34.840" style="s2">contract<span style="s3"> often</span> contains clauses that<span style="s3"> are</span></p>
+<p begin="00:20:33.460" end="00:20:37.120" style="s2"><span style="s3">very</span> unfriendly toward<span style="s3"> open source</span></p>
+<p begin="00:20:34.840" end="00:20:42.160" style="s2">participation it says like<span style="s3"> you</span><span style="s4"> are</span></p>
+<p begin="00:20:37.120" end="00:20:43.960" style="s2">obligated<span style="s4"> to</span> help the<span style="s3"> company get a</span></p>
+<p begin="00:20:42.160" end="00:20:45.310" style="s2">patent on something that you did while</p>
+<p begin="00:20:43.960" end="00:20:47.500" style="s2">on company time<span style="s3"> or</span><span style="s4"> even</span> just while</p>
+<p begin="00:20:45.310" end="00:20:48.790" style="s2">employed there well<span style="s3"> you</span> may be<span style="s4"> working</span></p>
+<p begin="00:20:47.500" end="00:20:50.950" style="s2"><span style="s4">in</span> an<span style="s4"> open-source</span> project<span style="s4"> where</span> you sent</p>
+<p begin="00:20:48.790" end="00:20:52.390" style="s2">in a patch and you did something<span style="s3"> you</span></p>
+<p begin="00:20:50.950" end="00:20:53.770" style="s2"><span style="s3">implemented</span> something<span style="s3"> that</span> it turns out</p>
+<p begin="00:20:52.390" end="00:20:55.210" style="s2">the company<span style="s4"> later</span> wants<span style="s3"> I</span> mean you</p>
+<p begin="00:20:53.770" end="00:20:56.290" style="s2">you&#39;re obviously a public service</p>
+<p begin="00:20:55.210" end="00:20:59.080" style="s2"><span style="s4">department</span> you wouldn&#39;t do this<span style="s4"> but</span></p>
+<p begin="00:20:56.290" end="00:21:00.640" style="s2"><span style="s4">private</span> sector companies will<span style="s4"> they</span> want</p>
+<p begin="00:20:59.080" end="00:21:02.740" style="s2">to get a patent<span style="s3"> this</span> actually happened</p>
+<p begin="00:21:00.640" end="00:21:04.390" style="s2"><span style="s3">to</span> my team once they are looking at</p>
+<p begin="00:21:02.740" end="00:21:06.040" style="s2"><span style="s3">possibly</span> getting a patent on<span style="s4"> it</span> later</p>
+<p begin="00:21:04.390" end="00:21:07.900" style="s2"><span style="s3">and</span> now you&#39;ve<span style="s3"> made</span> two different</p>
+<p begin="00:21:06.040" end="00:21:09.370" style="s2">promises once your<span style="s3"> employer</span> and<span style="s3"> a</span></p>
+<p begin="00:21:07.900" end="00:21:11.170" style="s2">contradictory one to your<span style="s4"> open-source</span></p>
+<p begin="00:21:09.370" end="00:21:12.160" style="s2">project where you&#39;re supposed to<span style="s3"> be</span></p>
+<p begin="00:21:11.170" end="00:21:13.960" style="s2">contributing<span style="s3"> things</span> that you&#39;re not</p>
+<p begin="00:21:12.160" end="00:21:15.400" style="s2"><span style="s4">going</span><span style="s3"> to them threaten them with patent</span></p>
+<p begin="00:21:13.960" end="00:21:18.480" style="s2">help<span style="s3"> you</span> know with patent litigation</p>
+<p begin="00:21:15.400" end="00:21:21.550" style="s2"><span style="s3">about</span> so watch out<span style="s3"> for</span> the IP clauses</p>
+<p begin="00:21:18.480" end="00:21:22.990" style="s2"><span style="s3">and</span> and<span style="s3"> also</span> try<span style="s3"> to</span> convince your</p>
+<p begin="00:21:21.550" end="00:21:26.620" style="s2"><span style="s3">employer</span> not<span style="s3"> to call them IP clauses</span></p>
+<p begin="00:21:22.990" end="00:21:28.300" style="s2"><span style="s3">because</span> that&#39;s a bad word<span style="s4"> so</span> that&#39;s just</p>
+<p begin="00:21:26.620" end="00:21:30.400" style="s2"><span style="s3">one</span><span style="s4"> aspect</span> of organizational policy I&#39;m</p>
+<p begin="00:21:28.300" end="00:21:33.310" style="s2">not going to dive into<span style="s4"> all</span> the all the</p>
+<p begin="00:21:30.400" end="00:21:36.820" style="s2">things<span style="s3"> but</span> some of the<span style="s3"> things to look at</span></p>
+<p begin="00:21:33.310" end="00:21:38.260" style="s2"><span style="s3">our</span> policy on whether you<span style="s3"> are</span> allowed to</p>
+<p begin="00:21:36.820" end="00:21:41.770" style="s2"><span style="s4">make</span><span style="s3"> upstream</span> contributions but<span style="s3"> in</span></p>
+<p begin="00:21:38.260" end="00:21:43.810" style="s2"><span style="s4">addition</span><span style="s3"> to that in general do</span><span style="s4"> you</span> see</p>
+<p begin="00:21:41.770" end="00:21:45.430" style="s2">employees at this<span style="s3"> company</span> other people</p>
+<p begin="00:21:43.810" end="00:21:46.510" style="s2"><span style="s4">who&#39;ve already been</span><span style="s3"> there</span> for a while do</p>
+<p begin="00:21:45.430" end="00:21:48.790" style="s2">you see them making upstream</p>
+<p begin="00:21:46.510" end="00:21:50.470" style="s2">contributions and watch out they may<span style="s3"> be</span></p>
+<p begin="00:21:48.790" end="00:21:52.650" style="s2">doing so<span style="s3"> under</span> their own<span style="s3"> name</span> like your</p>
+<p begin="00:21:50.470" end="00:21:54.370" style="s2">github profile is associated with<span style="s3"> you</span></p>
+<p begin="00:21:52.650" end="00:21:55.780" style="s2"><span style="s4">and</span> that&#39;s important<span style="s4"> that</span> your</p>
+<p begin="00:21:54.370" end="00:21:57.610" style="s2">reputation traveling with you it should</p>
+<p begin="00:21:55.780" end="00:22:01.600" style="s2"><span style="s4">be</span> associated<span style="s3"> with</span> you but it means<span style="s3"> that</span></p>
+<p begin="00:21:57.610" end="00:22:04.120" style="s2">there&#39;s no not necessarily<span style="s3"> a</span> visual<span style="s4"> an</span></p>
+<p begin="00:22:01.600" end="00:22:05.770" style="s2">obvious association between the</p>
+<p begin="00:22:04.120" end="00:22:07.840" style="s2">contributor and the employer<span style="s3"> who</span> may</p>
+<p begin="00:22:05.770" end="00:22:09.880" style="s2">have paid for the time they spent<span style="s3"> making</span></p>
+<p begin="00:22:07.840" end="00:22:11.440" style="s2">that contribution<span style="s4"> so</span> you want to ask</p>
+<p begin="00:22:09.880" end="00:22:13.210" style="s2">around<span style="s3"> if</span> you&#39;re talking<span style="s3"> to</span> engineering</p>
+<p begin="00:22:11.440" end="00:22:14.770" style="s2">managers<span style="s3"> or</span> other employees<span style="s4"> there</span></p>
+<p begin="00:22:13.210" end="00:22:16.690" style="s2">I&#39;m like how is it contributing to</p>
+<p begin="00:22:14.770" end="00:22:19.240" style="s2"><span style="s4">upstreams</span> what projects<span style="s3"> do</span> folks work on</p>
+<p begin="00:22:16.690" end="00:22:21.880" style="s2">who here has<span style="s3"> contributed</span> can I talk to</p>
+<p begin="00:22:19.240" end="00:22:24.520" style="s2"><span style="s3">them</span> what was the experience like<span style="s4"> the</span></p>
+<p begin="00:22:21.880" end="00:22:26.890" style="s2">more liberal accompanies upstream</p>
+<p begin="00:22:24.520" end="00:22:28.809" style="s2">contribution policies<span style="s3"> and also the more</span></p>
+<p begin="00:22:26.890" end="00:22:31.149" style="s2">liberally they actually do it<span style="s4"> the</span> more</p>
+<p begin="00:22:28.809" end="00:22:33.700" style="s2">sheer number<span style="s4"> of</span> hours per<span style="s4"> employee</span> they</p>
+<p begin="00:22:31.149" end="00:22:35.230" style="s2">spend doing<span style="s3"> that first of all</span><span style="s4"> I</span> think</p>
+<p begin="00:22:33.700" end="00:22:36.250" style="s2">the better place it&#39;s going<span style="s3"> to be to</span></p>
+<p begin="00:22:35.230" end="00:22:37.809" style="s2"><span style="s3">work</span> and also<span style="s4"> I</span> think<span style="s3"> the</span> more</p>
+<p begin="00:22:36.250" end="00:22:39.850" style="s2">successful<span style="s3"> a company all other things</span></p>
+<p begin="00:22:37.809" end="00:22:41.529" style="s2"><span style="s3">being</span><span style="s4"> equal</span> it&#39;s going to be a company</p>
+<p begin="00:22:39.850" end="00:22:43.750" style="s2"><span style="s4">that</span> is unafraid<span style="s4"> to</span> let its employees</p>
+<p begin="00:22:41.529" end="00:22:46.029" style="s2">contribute stuff up dream<span style="s3"> upstream is a</span></p>
+<p begin="00:22:43.750" end="00:22:49.450" style="s2">company<span style="s3"> that</span> understands<span style="s4"> its</span> what<span style="s4"> its</span></p>
+<p begin="00:22:46.029" end="00:22:52.029" style="s2">valuable<span style="s3"> assets</span> are<span style="s4"> its</span> monopolize<span style="s3"> able</span></p>
+<p begin="00:22:49.450" end="00:22:53.710" style="s2">assets I should say and<span style="s4"> where</span><span style="s3"> where its</span></p>
+<p begin="00:22:52.029" end="00:22:56.380" style="s2">assets that are most valuable when most</p>
+<p begin="00:22:53.710" end="00:22:58.720" style="s2">free are and<span style="s3"> that&#39;s</span> a very<span style="s3"> healthy</span> way</p>
+<p begin="00:22:56.380" end="00:23:01.510" style="s2"><span style="s4">for</span> a<span style="s4"> company</span> to<span style="s3"> think</span> so ask them<span style="s4"> about</span></p>
+<p begin="00:22:58.720" end="00:23:03.730" style="s2"><span style="s4">that ask them</span> can<span style="s4"> you go to</span><span style="s3"> conferences</span></p>
+<p begin="00:23:01.510" end="00:23:05.440" style="s2">give presentations<span style="s4"> how</span> can you get</p>
+<p begin="00:23:03.730" end="00:23:07.000" style="s2">physically in a room with other people</p>
+<p begin="00:23:05.440" end="00:23:09.399" style="s2"><span style="s4">doing</span> open source in the same areas</p>
+<p begin="00:23:07.000" end="00:23:11.799" style="s2">you&#39;re doing it it&#39;s it&#39;s<span style="s4"> very</span> good when</p>
+<p begin="00:23:09.399" end="00:23:12.880" style="s2">a company<span style="s3"> encourages its its employees</span></p>
+<p begin="00:23:11.799" end="00:23:14.260" style="s2">to<span style="s3"> do</span> that and also<span style="s3"> it&#39;s</span> a good</p>
+<p begin="00:23:12.880" end="00:23:15.429" style="s2">recruiting tactic then<span style="s3"> you</span> can scout</p>
+<p begin="00:23:14.260" end="00:23:19.270" style="s2"><span style="s4">around</span> and you can bring<span style="s3"> people</span><span style="s4"> back</span></p>
+<p begin="00:23:15.429" end="00:23:20.919" style="s2"><span style="s3">into</span> the company<span style="s4"> a</span> great question is has</p>
+<p begin="00:23:19.270" end="00:23:24.580" style="s2">the company<span style="s4"> actually launched their own</span></p>
+<p begin="00:23:20.919" end="00:23:25.840" style="s2"><span style="s4">open-source</span> projects and if they did are</p>
+<p begin="00:23:24.580" end="00:23:27.789" style="s2">those still maintained how are they</p>
+<p begin="00:23:25.840" end="00:23:30.789" style="s2">doing<span style="s3"> did</span> they do it right that<span style="s3"> is to</span></p>
+<p begin="00:23:27.789" end="00:23:32.710" style="s2">say did they launch it from in the open</p>
+<p begin="00:23:30.789" end="00:23:34.210" style="s2">from the<span style="s4"> beginning</span> or did<span style="s4"> they</span> kind<span style="s4"> of</span></p>
+<p begin="00:23:32.710" end="00:23:36.730" style="s2">like write the whole thing in<span style="s3"> house</span> and</p>
+<p begin="00:23:34.210" end="00:23:38.110" style="s2">then like release it at the end which</p>
+<p begin="00:23:36.730" end="00:23:40.090" style="s2">usually means there&#39;s some problem their</p>
+<p begin="00:23:38.110" end="00:23:41.649" style="s2">proprietary dependencies or or<span style="s3"> you</span> know</p>
+<p begin="00:23:40.090" end="00:23:44.169" style="s2"><span style="s3">the</span> documentation is crap or something</p>
+<p begin="00:23:41.649" end="00:23:46.029" style="s2"><span style="s4">like that</span><span style="s3"> but</span> if they are launching</p>
+<p begin="00:23:44.169" end="00:23:47.529" style="s2">their<span style="s4"> own</span> projects find out which ones</p>
+<p begin="00:23:46.029" end="00:23:48.460" style="s2"><span style="s3">go</span> take a look at those projects<span style="s3"> and</span><span style="s4"> see</span></p>
+<p begin="00:23:47.529" end="00:23:49.450" style="s2">what you think of<span style="s3"> them</span><span style="s4"> that</span> will give</p>
+<p begin="00:23:48.460" end="00:23:53.470" style="s2">you a lot<span style="s3"> of</span> insight<span style="s4"> into</span><span style="s3"> the</span></p>
+<p begin="00:23:49.450" end="00:23:55.510" style="s2">engineering<span style="s4"> culture</span> so and<span style="s3"> also</span> do they</p>
+<p begin="00:23:53.470" end="00:23:57.399" style="s2">let other people who are<span style="s3"> not</span> at the</p>
+<p begin="00:23:55.510" end="00:23:59.230" style="s2">company contribute to those projects do</p>
+<p begin="00:23:57.399" end="00:24:00.520" style="s2">they make a social<span style="s3"> distinction</span> between</p>
+<p begin="00:23:59.230" end="00:24:01.690" style="s2">their<span style="s3"> own</span><span style="s4"> employees and others or do</span></p>
+<p begin="00:24:00.520" end="00:24:03.399" style="s2">they treat<span style="s3"> it</span><span style="s4"> like</span> a real<span style="s3"> open</span><span style="s4"> source</span></p>
+<p begin="00:24:01.690" end="00:24:08.380" style="s2">project<span style="s4"> so</span> those are all<span style="s4"> things</span> to<span style="s3"> look</span></p>
+<p begin="00:24:03.399" end="00:24:10.090" style="s2"><span style="s3">at so why would</span><span style="s4"> you</span><span style="s3"> want</span> to<span style="s3"> do</span> this<span style="s3"> well</span></p>
+<p begin="00:24:08.380" end="00:24:14.140" style="s2">think about<span style="s3"> that</span> while I take this drink</p>
+<p begin="00:24:10.090" end="00:24:15.159" style="s2"><span style="s3">of</span> water<span style="s3"> thank</span> you<span style="s4"> I</span> didn&#39;t need the</p>
+<p begin="00:24:14.140" end="00:24:17.429" style="s2">water<span style="s3"> I</span> just<span style="s4"> wanted</span><span style="s3"> to</span> give you<span style="s4"> a</span> chance</p>
+<p begin="00:24:15.159" end="00:24:17.429" style="s2"><span style="s4">to</span> think</p>
+<p begin="00:24:22.970" end="00:24:29.070" style="s2">so I&#39;m<span style="s3"> going</span> to posit that there<span style="s3"> are</span></p>
+<p begin="00:24:27.330" end="00:24:30.240" style="s2">several<span style="s3"> good things</span><span style="s4"> here</span> one of<span style="s3"> them</span> is</p>
+<p begin="00:24:29.070" end="00:24:34.770" style="s2">just good for<span style="s4"> you</span> it&#39;s<span style="s3"> good</span><span style="s4"> for</span> your</p>
+<p begin="00:24:30.240" end="00:24:36.870" style="s2">career<span style="s4"> you</span> will have more opportunities</p>
+<p begin="00:24:34.770" end="00:24:38.550" style="s2"><span style="s4">you</span> will meet and associate with more</p>
+<p begin="00:24:36.870" end="00:24:40.590" style="s2"><span style="s3">programmers</span> you will<span style="s3"> best</span> be exposed to</p>
+<p begin="00:24:38.550" end="00:24:43.230" style="s2">more technologies<span style="s3"> you</span> will<span style="s3"> also</span> become</p>
+<p begin="00:24:40.590" end="00:24:45.000" style="s2"><span style="s3">much more quickly aware when the skills</span></p>
+<p begin="00:24:43.230" end="00:24:46.830" style="s2">and<span style="s4"> the</span><span style="s3"> knowledge</span> that<span style="s3"> you</span><span style="s4"> have</span> are</p>
+<p begin="00:24:45.000" end="00:24:48.240" style="s2"><span style="s3">getting</span><span style="s4"> out-of-date that&#39;s</span><span style="s3"> certainly</span> one</p>
+<p begin="00:24:46.830" end="00:24:52.230" style="s2">thing that<span style="s3"> open-source</span> has brought me is</p>
+<p begin="00:24:48.240" end="00:24:54.870" style="s2">I<span style="s3"> like</span> right away<span style="s3"> began</span><span style="s4"> to</span> sense when my</p>
+<p begin="00:24:52.230" end="00:24:56.730" style="s2">old web 1.0 way of making websites was</p>
+<p begin="00:24:54.870" end="00:24:58.410" style="s2">no<span style="s3"> longer</span> the way it should<span style="s4"> be</span><span style="s3"> done</span><span style="s4"> when</span></p>
+<p begin="00:24:56.730" end="00:25:01.050" style="s2"><span style="s3">I</span> noticed like all the cool<span style="s4"> kids</span> around</p>
+<p begin="00:24:58.410" end="00:25:03.720" style="s2"><span style="s3">me in the</span><span style="s4"> open-source</span><span style="s3"> project</span> were<span style="s4"> using</span></p>
+<p begin="00:25:01.050" end="00:25:06.630" style="s2">other tools and like<span style="s3"> even</span> things like</p>
+<p begin="00:25:03.720" end="00:25:08.070" style="s2"><span style="s3">JavaScript Wow we have JavaScript now</span></p>
+<p begin="00:25:06.630" end="00:25:10.710" style="s2"><span style="s3">okay</span> I guess<span style="s4"> guess we&#39;ve gotta</span> start</p>
+<p begin="00:25:08.070" end="00:25:12.030" style="s2"><span style="s3">doing that right like</span> you<span style="s3"> you</span> can&#39;t get</p>
+<p begin="00:25:10.710" end="00:25:13.200" style="s2">left behind<span style="s4"> well</span> you<span style="s3"> can&#39;t</span> get left</p>
+<p begin="00:25:12.030" end="00:25:14.340" style="s2">behind<span style="s4"> if</span> you don&#39;t bother to learn</p>
+<p begin="00:25:13.200" end="00:25:16.200" style="s2">thing but you can&#39;t get left behind</p>
+<p begin="00:25:14.340" end="00:25:17.430" style="s2"><span style="s3">unawares</span> you can&#39;t get caught by</p>
+<p begin="00:25:16.200" end="00:25:20.520" style="s2"><span style="s4">surprise</span> when<span style="s3"> you&#39;re</span> working at open</p>
+<p begin="00:25:17.430" end="00:25:22.740" style="s2">source<span style="s3"> so</span> it&#39;s good<span style="s4"> for</span> you<span style="s4"> but</span> let<span style="s3"> me</span></p>
+<p begin="00:25:20.520" end="00:25:25.610" style="s2">make a bigger<span style="s3"> ask or a bigger proposal</span></p>
+<p begin="00:25:22.740" end="00:25:28.590" style="s2">that increasingly</p>
+<p begin="00:25:25.610" end="00:25:31.080" style="s2">everything that&#39;s happening that<span style="s3"> that</span></p>
+<p begin="00:25:28.590" end="00:25:32.880" style="s2">matters<span style="s3"> at</span> least here in<span style="s3"> our</span> sort<span style="s3"> of</span></p>
+<p begin="00:25:31.080" end="00:25:37.050" style="s2"><span style="s3">firstworldproblems universe that we live</span></p>
+<p begin="00:25:32.880" end="00:25:38.550" style="s2">in is being decided<span style="s3"> by</span> software<span style="s3"> I</span> don&#39;t</p>
+<p begin="00:25:37.050" end="00:25:39.810" style="s2">just mean<span style="s3"> AI</span> like you know that the</p>
+<p begin="00:25:38.550" end="00:25:41.730" style="s2">robots are taking<span style="s3"> over although that&#39;s</span></p>
+<p begin="00:25:39.810" end="00:25:45.870" style="s2">happening<span style="s4"> I</span> just<span style="s4"> mean</span> that we&#39;re</p>
+<p begin="00:25:41.730" end="00:25:51.900" style="s2">surrounded by algorithms algorithms are</p>
+<p begin="00:25:45.870" end="00:25:53.460" style="s2">are deciding you know<span style="s3"> which</span> which</p>
+<p begin="00:25:51.900" end="00:25:55.530" style="s2">products you&#39;re going<span style="s4"> to</span> be offered</p>
+<p begin="00:25:53.460" end="00:25:58.260" style="s2"><span style="s4">there</span> they&#39;re<span style="s3"> deciding</span> how your your<span style="s3"> x</span></p>
+<p begin="00:25:55.530" end="00:26:03.090" style="s2">rays<span style="s3"> get</span> read the entire world is</p>
+<p begin="00:25:58.260" end="00:26:05.430" style="s2">pervaded<span style="s3"> by</span> software<span style="s3"> and</span> if it is the</p>
+<p begin="00:26:03.090" end="00:26:07.640" style="s2">case<span style="s4"> that</span> the interior<span style="s3"> of</span><span style="s4"> that</span> software</p>
+<p begin="00:26:05.430" end="00:26:11.310" style="s2">is mostly<span style="s4"> open-source</span> which it<span style="s3"> mostly</span> is</p>
+<p begin="00:26:07.640" end="00:26:13.560" style="s2">then the more<span style="s3"> open</span> source<span style="s3"> people</span><span style="s4"> are</span></p>
+<p begin="00:26:11.310" end="00:26:15.440" style="s2">doing the more people<span style="s3"> are</span> walking<span style="s3"> around</span></p>
+<p begin="00:26:13.560" end="00:26:18.480" style="s2"><span style="s3">understanding</span><span style="s4"> what</span> is<span style="s3"> going on around</span></p>
+<p begin="00:26:15.440" end="00:26:22.380" style="s2">all<span style="s4"> of</span> us and the more people<span style="s3"> are</span></p>
+<p begin="00:26:18.480" end="00:26:23.790" style="s2">equipped<span style="s3"> to</span> look at some some system</p>
+<p begin="00:26:22.380" end="00:26:26.340" style="s2">whether it&#39;s the software<span style="s3"> running in a</span></p>
+<p begin="00:26:23.790" end="00:26:28.410" style="s2">car<span style="s3"> or</span> the software<span style="s3"> that</span> decides whether</p>
+<p begin="00:26:26.340" end="00:26:30.210" style="s2">people get parole or not or whatever<span style="s3"> it</span></p>
+<p begin="00:26:28.410" end="00:26:32.130" style="s2"><span style="s3">is</span> the more they&#39;re going to look at</p>
+<p begin="00:26:30.210" end="00:26:35.130" style="s2">that<span style="s3"> going</span> to look<span style="s3"> at</span> that and view</p>
+<p begin="00:26:32.130" end="00:26:36.120" style="s2">it as a system that can be<span style="s3"> hacked and I</span></p>
+<p begin="00:26:35.130" end="00:26:37.740" style="s2">don&#39;t mean<span style="s3"> Hackett</span> in<span style="s3"> the</span><span style="s4"> pejorative</span></p>
+<p begin="00:26:36.120" end="00:26:41.190" style="s2"><span style="s3">sense</span> there I mean as a system it<span style="s3"> can be</span></p>
+<p begin="00:26:37.740" end="00:26:43.440" style="s2"><span style="s3">understood</span> and deliberately changed<span style="s4"> in</span></p>
+<p begin="00:26:41.190" end="00:26:47.330" style="s2">order<span style="s3"> to</span> serve<span style="s4"> it&#39;s</span> either its intended</p>
+<p begin="00:26:43.440" end="00:26:47.330" style="s2">purpose better<span style="s3"> or</span> to serve a<span style="s3"> new</span> purpose</p>
+<p begin="00:26:47.570" end="00:26:55.080" style="s2"><span style="s3">the</span> the the alternative to that<span style="s4"> is</span> you</p>
+<p begin="00:26:52.350" end="00:26:57.180" style="s2"><span style="s4">are</span><span style="s3"> working</span> on<span style="s3"> a</span> bunch of<span style="s4"> Technology</span> and</p>
+<p begin="00:26:55.080" end="00:26:59.880" style="s2">a bunch of systems that someone else has</p>
+<p begin="00:26:57.180" end="00:27:02.130" style="s2">chosen for<span style="s4"> you and when you acquire</span></p>
+<p begin="00:26:59.880" end="00:27:04.440" style="s2">expertise in it you<span style="s3"> are</span> not<span style="s3"> able</span> to take</p>
+<p begin="00:27:02.130" end="00:27:05.790" style="s2"><span style="s3">that</span> expertise for<span style="s3"> the</span> most<span style="s3"> part</span> with</p>
+<p begin="00:27:04.440" end="00:27:08.520" style="s2">you<span style="s3"> when</span> you go<span style="s3"> to</span><span style="s4"> another</span> job<span style="s4"> and</span></p>
+<p begin="00:27:05.790" end="00:27:09.960" style="s2"><span style="s3">therefore</span> you&#39;re<span style="s4"> not</span> able<span style="s3"> to</span> for the</p>
+<p begin="00:27:08.520" end="00:27:12.450" style="s2"><span style="s3">most part take it out into the</span> wider</p>
+<p begin="00:27:09.960" end="00:27:13.980" style="s2">world<span style="s4"> and</span> use it<span style="s3"> to</span> understand and</p>
+<p begin="00:27:12.450" end="00:27:17.820" style="s2"><span style="s3">affect</span> the systems<span style="s3"> around</span> you</p>
+<p begin="00:27:13.980" end="00:27:20.460" style="s2"><span style="s4">open-source</span><span style="s3"> is</span> a way of<span style="s4"> not</span> having to</p>
+<p begin="00:27:17.820" end="00:27:22.440" style="s2"><span style="s3">ask</span> permission<span style="s3"> to understand and to</span></p>
+<p begin="00:27:20.460" end="00:27:23.760" style="s2">change<span style="s3"> systems</span><span style="s4"> and</span><span style="s3"> you still you know</span></p>
+<p begin="00:27:22.440" end="00:27:25.160" style="s2">you might be<span style="s3"> breaking</span> a license if<span style="s3"> you</span></p>
+<p begin="00:27:23.760" end="00:27:27.750" style="s2">hack on your car I guess and you<span style="s3"> might</span></p>
+<p begin="00:27:25.160" end="00:27:28.830" style="s2">not<span style="s3"> all</span><span style="s4"> of</span> a car<span style="s4"> that run software is</span></p>
+<p begin="00:27:27.750" end="00:27:30.960" style="s2">running<span style="s4"> open-source</span> software but</p>
+<p begin="00:27:28.830" end="00:27:32.610" style="s2">increasingly<span style="s4"> parts</span> of a car are</p>
+<p begin="00:27:30.960" end="00:27:36.060" style="s2">increasingly parts of your radio are</p>
+<p begin="00:27:32.610" end="00:27:38.040" style="s2"><span style="s4">there</span> software-defined radio<span style="s4"> you</span> know</p>
+<p begin="00:27:36.060" end="00:27:39.960" style="s2">the fact that web<span style="s4"> browsers</span> and web</p>
+<p begin="00:27:38.040" end="00:27:41.550" style="s2">servers<span style="s3"> were</span> both hackable things has</p>
+<p begin="00:27:39.960" end="00:27:43.680" style="s2"><span style="s4">been</span> tremendously important<span style="s3"> to</span> the web</p>
+<p begin="00:27:41.550" end="00:27:46.920" style="s2">but<span style="s3"> it</span> also means that when you&#39;re</p>
+<p begin="00:27:43.680" end="00:27:48.780" style="s2">surfing<span style="s3"> around</span> and you<span style="s3"> you</span> see<span style="s3"> what</span></p>
+<p begin="00:27:46.920" end="00:27:50.910" style="s2"><span style="s3">looks</span> like a phishing attack or you<span style="s3"> see</span></p>
+<p begin="00:27:48.780" end="00:27:52.320" style="s2"><span style="s4">cookies</span> being used in a funny way<span style="s3"> even</span></p>
+<p begin="00:27:50.910" end="00:27:54.510" style="s2">if you<span style="s3"> yourself are not an expert</span></p>
+<p begin="00:27:52.320" end="00:27:56.280" style="s2"><span style="s4">there&#39;s</span><span style="s3"> expertise</span> all around you because</p>
+<p begin="00:27:54.510" end="00:27:57.480" style="s2">all of<span style="s4"> that stuff is</span> implemented<span style="s4"> widely</span></p>
+<p begin="00:27:56.280" end="00:28:01.170" style="s2">implemented<span style="s4"> and open-source software</span><span style="s3"> and</span></p>
+<p begin="00:27:57.480" end="00:28:02.820" style="s2"><span style="s3">people</span> understand these systems<span style="s4"> so doing</span></p>
+<p begin="00:28:01.170" end="00:28:04.590" style="s2"><span style="s4">open-source</span> is a form of staying</p>
+<p begin="00:28:02.820" end="00:28:05.760" style="s2">politically engaged in the structures</p>
+<p begin="00:28:04.590" end="00:28:07.770" style="s2"><span style="s4">that</span> are actually affecting our lives</p>
+<p begin="00:28:05.760" end="00:28:10.830" style="s2"><span style="s4">I&#39;m</span> not saying it&#39;s a substitute for</p>
+<p begin="00:28:07.770" end="00:28:12.450" style="s2">politics itself<span style="s4"> and</span> also<span style="s3"> it</span> feels weird</p>
+<p begin="00:28:10.830" end="00:28:14.730" style="s2">to<span style="s3"> be</span> standing<span style="s3"> at</span> any location where</p>
+<p begin="00:28:12.450" end="00:28:19.440" style="s2">Tony<span style="s3"> practical</span> has spoken that&#39;s</p>
+<p begin="00:28:14.730" end="00:28:21.150" style="s2">humbling<span style="s4"> but</span><span style="s3"> um</span> the so let&#39;s go<span style="s4"> back</span><span style="s3"> to</span></p>
+<p begin="00:28:19.440" end="00:28:23.340" style="s2">the ownership<span style="s3"> society what I&#39;m really</span></p>
+<p begin="00:28:21.150" end="00:28:24.480" style="s2"><span style="s3">trying</span><span style="s4"> to</span> say<span style="s3"> is</span> when<span style="s4"> you&#39;re</span> writing</p>
+<p begin="00:28:23.340" end="00:28:26.640" style="s2"><span style="s4">open-source</span> software</p>
+<p begin="00:28:24.480" end="00:28:29.010" style="s2"><span style="s3">and</span> especially<span style="s3"> when you are paid</span><span style="s4"> to</span> do</p>
+<p begin="00:28:26.640" end="00:28:31.650" style="s2">it<span style="s3"> which</span><span style="s4"> is very common by</span><span style="s3"> the</span> way you</p>
+<p begin="00:28:29.010" end="00:28:33.300" style="s2">are you&#39;ve entered a new zone that<span style="s3"> the</span></p>
+<p begin="00:28:31.650" end="00:28:36.570" style="s2">concept of ownership<span style="s3"> was</span> not really</p>
+<p begin="00:28:33.300" end="00:28:38.430" style="s2">designed<span style="s3"> to</span> address<span style="s3"> and</span> we just need new</p>
+<p begin="00:28:36.570" end="00:28:42.650" style="s2">words or we<span style="s3"> need to redefine what</span> the</p>
+<p begin="00:28:38.430" end="00:28:42.650" style="s2">word ownership<span style="s3"> means</span> if you um</p>
+<p begin="00:28:45.020" end="00:28:48.900" style="s2">so let me<span style="s3"> give</span> you a bit of<span style="s4"> background</span></p>
+<p begin="00:28:47.520" end="00:28:51.960" style="s2">that<span style="s3"> many</span> of you may not be aware<span style="s4"> of</span></p>
+<p begin="00:28:48.900" end="00:28:53.550" style="s2">there are many many salary to developers</p>
+<p begin="00:28:51.960" end="00:28:54.809" style="s2">doing open source and<span style="s3"> in</span> fact a lot of</p>
+<p begin="00:28:53.550" end="00:28:56.190" style="s2"><span style="s4">the open</span><span style="s3"> source</span> that<span style="s3"> you</span> use certainly</p>
+<p begin="00:28:54.809" end="00:28:59.220" style="s2">the Linux kernel<span style="s3"> will make virtually all</span></p>
+<p begin="00:28:56.190" end="00:29:01.559" style="s2"><span style="s4">of</span> it<span style="s3"> but</span> but also things like<span style="s3"> the</span></p>
+<p begin="00:28:59.220" end="00:29:03.000" style="s2">software<span style="s3"> that runs</span><span style="s4"> Wikipedia a lot</span> of</p>
+<p begin="00:29:01.559" end="00:29:04.680" style="s2">the software in<span style="s4"> the</span> Macintosh operating</p>
+<p begin="00:29:03.000" end="00:29:06.270" style="s2">system all these things these are</p>
+<p begin="00:29:04.680" end="00:29:07.980" style="s2"><span style="s3">written by salary developers they are</span></p>
+<p begin="00:29:06.270" end="00:29:11.160" style="s2">paid market rates<span style="s4"> to write open source</span></p>
+<p begin="00:29:07.980" end="00:29:13.800" style="s2">software<span style="s4"> and</span> furthermore<span style="s3"> these people</span></p>
+<p begin="00:29:11.160" end="00:29:15.630" style="s2">move from company to company<span style="s3"> working</span><span style="s4"> on</span></p>
+<p begin="00:29:13.800" end="00:29:17.190" style="s2"><span style="s4">the</span> same<span style="s4"> project like that</span><span style="s3"> that&#39;s</span> weird</p>
+<p begin="00:29:15.630" end="00:29:19.920" style="s2"><span style="s3">if</span><span style="s4"> you</span> think from<span style="s3"> a</span> traditional<span style="s3"> like</span></p>
+<p begin="00:29:17.190" end="00:29:21.240" style="s2"><span style="s3">feudal</span> perspective right you<span style="s3"> you&#39;re</span></p>
+<p begin="00:29:19.920" end="00:29:22.650" style="s2">working<span style="s4"> on</span><span style="s3"> whatever</span> it<span style="s3"> is</span> the Linux</p>
+<p begin="00:29:21.240" end="00:29:23.940" style="s2">kernel some other thing I worked<span style="s3"> on</span></p>
+<p begin="00:29:22.650" end="00:29:29.940" style="s2">subversion at one company<span style="s4"> and</span> worked on</p>
+<p begin="00:29:23.940" end="00:29:32.610" style="s2">in a<span style="s3"> different</span> company<span style="s4"> you</span> keep the<span style="s3"> same</span></p>
+<p begin="00:29:29.940" end="00:29:36.000" style="s2">colleagues<span style="s3"> you</span> go to work<span style="s3"> you</span> work on</p>
+<p begin="00:29:32.610" end="00:29:38.070" style="s2">the same code<span style="s4"> you&#39;re</span> your github</p>
+<p begin="00:29:36.000" end="00:29:39.720" style="s2">identity or whatever<span style="s3"> the</span><span style="s4"> the</span> hosting</p>
+<p begin="00:29:38.070" end="00:29:41.309" style="s2">site where the repository is<span style="s3"> is</span> the same</p>
+<p begin="00:29:39.720" end="00:29:42.540" style="s2">identity<span style="s3"> it&#39;s</span> just someone<span style="s4"> else</span><span style="s3"> is</span></p>
+<p begin="00:29:41.309" end="00:29:44.370" style="s2">signing your paychecks and maybe you&#39;re</p>
+<p begin="00:29:42.540" end="00:29:45.630" style="s2">addressing<span style="s4"> different</span> priorities in the</p>
+<p begin="00:29:44.370" end="00:29:48.510" style="s2">code now maybe that company needs</p>
+<p begin="00:29:45.630" end="00:29:52.050" style="s2">slightly different things but<span style="s4"> you&#39;re</span></p>
+<p begin="00:29:48.510" end="00:29:54.420" style="s2">like it&#39;s not really clear<span style="s3"> who&#39;s</span> working</p>
+<p begin="00:29:52.050" end="00:29:58.679" style="s2">for whom here yeah you have a<span style="s3"> paycheck</span></p>
+<p begin="00:29:54.420" end="00:30:01.140" style="s2"><span style="s3">in</span> a salary but<span style="s3"> the</span> company hired you<span style="s3"> in</span></p>
+<p begin="00:29:58.679" end="00:30:03.120" style="s2">many<span style="s3"> cases because</span><span style="s4"> you have expertise in</span></p>
+<p begin="00:30:01.140" end="00:30:04.590" style="s2">that<span style="s4"> project</span><span style="s3"> and</span> they understood that</p>
+<p begin="00:30:03.120" end="00:30:06.510" style="s2"><span style="s3">what</span> they were getting<span style="s3"> is</span> not just<span style="s3"> your</span></p>
+<p begin="00:30:04.590" end="00:30:08.250" style="s2">technical ability<span style="s3"> they&#39;re</span> getting the</p>
+<p begin="00:30:06.510" end="00:30:10.380" style="s2">web of relationships<span style="s3"> and</span><span style="s4"> you&#39;re</span> the</p>
+<p begin="00:30:08.250" end="00:30:12.150" style="s2">social<span style="s4"> knowledge</span> that you have<span style="s4"> about</span> how</p>
+<p begin="00:30:10.380" end="00:30:14.520" style="s2"><span style="s4">to</span> navigate in that<span style="s3"> project</span><span style="s4"> and</span> they</p>
+<p begin="00:30:12.150" end="00:30:16.140" style="s2">know<span style="s3"> that</span> if you leave you will take</p>
+<p begin="00:30:14.520" end="00:30:18.960" style="s2"><span style="s4">that</span> with you the<span style="s3"> reputation</span> accrues to</p>
+<p begin="00:30:16.140" end="00:30:20.730" style="s2"><span style="s3">you the social know how the the tie is</span></p>
+<p begin="00:30:18.960" end="00:30:24.840" style="s2">everything that&#39;s<span style="s3"> you</span> that&#39;s<span style="s4"> not</span><span style="s3"> the</span></p>
+<p begin="00:30:20.730" end="00:30:26.520" style="s2">company so a a really interesting</p>
+<p begin="00:30:24.840" end="00:30:28.200" style="s2">question<span style="s4"> to</span><span style="s3"> ask yourself when you</span><span style="s4"> are</span></p>
+<p begin="00:30:26.520" end="00:30:32.280" style="s2">doing paid<span style="s3"> open-source</span> development is</p>
+<p begin="00:30:28.200" end="00:30:35.460" style="s2">are you capital or are you<span style="s4"> labor</span> someone</p>
+<p begin="00:30:32.280" end="00:30:36.900" style="s2">wants to<span style="s4"> know</span> the answer<span style="s4"> the</span><span style="s3"> answer</span><span style="s4"> is</span></p>
+<p begin="00:30:35.460" end="00:30:39.000" style="s2">not<span style="s3"> clear</span> right<span style="s4"> they</span> like<span style="s3"> it</span> really</p>
+<p begin="00:30:36.900" end="00:30:41.820" style="s2"><span style="s3">breaks</span> down<span style="s3"> that</span><span style="s4"> distinction</span><span style="s3"> and</span> I think</p>
+<p begin="00:30:39.000" end="00:30:43.500" style="s2">that we are<span style="s4"> entering</span> a time<span style="s4"> when</span> it</p>
+<p begin="00:30:41.820" end="00:30:45.960" style="s2">would<span style="s3"> be very nice to have a lot of</span></p>
+<p begin="00:30:43.500" end="00:30:48.120" style="s2"><span style="s3">people</span> employed<span style="s3"> specifically</span> in software</p>
+<p begin="00:30:45.960" end="00:30:50.850" style="s2"><span style="s3">where</span> it<span style="s3"> is</span> not<span style="s3"> clear</span> that they are</p>
+<p begin="00:30:48.120" end="00:30:54.390" style="s2">labor and that the by the nature of<span style="s3"> the</span></p>
+<p begin="00:30:50.850" end="00:30:56.490" style="s2">work they are<span style="s4"> doing</span> and by by the the</p>
+<p begin="00:30:54.390" end="00:30:58.320" style="s2"><span style="s4">kinds</span> of<span style="s4"> relationships</span> are forming with</p>
+<p begin="00:30:56.490" end="00:30:59.580" style="s2">each other and<span style="s3"> with</span> the<span style="s3"> projects that</span></p>
+<p begin="00:30:58.320" end="00:31:02.429" style="s2">independent of<span style="s3"> the</span> companies they work</p>
+<p begin="00:30:59.580" end="00:31:04.889" style="s2"><span style="s4">for</span> that they are just as<span style="s4"> much</span> capital</p>
+<p begin="00:31:02.429" end="00:31:06.630" style="s2"><span style="s3">as</span> they are labor<span style="s4"> I</span> think that&#39;s going</p>
+<p begin="00:31:04.889" end="00:31:07.919" style="s2"><span style="s3">to be a good thing in general and</span> I hope</p>
+<p begin="00:31:06.630" end="00:31:11.220" style="s2">that<span style="s3"> all</span> of<span style="s3"> you will find</span> a way in your</p>
+<p begin="00:31:07.919" end="00:31:12.600" style="s2"><span style="s3">jobs to be part of it there&#39;s</span> not<span style="s3"> what</span></p>
+<p begin="00:31:11.220" end="00:31:15.389" style="s2">was<span style="s4"> that</span><span style="s3"> there&#39;s always</span><span style="s4"> looking</span> for<span style="s3"> what</span></p>
+<p begin="00:31:12.600" end="00:31:17.100" style="s2">the flower was<span style="s3"> there for there are this</span></p>
+<p begin="00:31:15.389" end="00:31:19.169" style="s2">is<span style="s4"> Foss job net like there are sites</span></p>
+<p begin="00:31:17.100" end="00:31:22.380" style="s2">that post<span style="s4"> full-time</span><span style="s3"> open-source</span> jobs all</p>
+<p begin="00:31:19.169" end="00:31:24.509" style="s2">the time<span style="s4"> I&#39;m not expecting</span> everyone here</p>
+<p begin="00:31:22.380" end="00:31:26.700" style="s2">to get a<span style="s3"> job</span> working as a technologist</p>
+<p begin="00:31:24.509" end="00:31:28.590" style="s2">doing<span style="s3"> full-time</span><span style="s4"> open source</span><span style="s3"> please</span> go</p>
+<p begin="00:31:26.700" end="00:31:32.419" style="s2">for it like I hope you will but what I&#39;m</p>
+<p begin="00:31:28.590" end="00:31:35.549" style="s2">really<span style="s3"> saying</span> is when you take<span style="s4"> a</span> job</p>
+<p begin="00:31:32.419" end="00:31:36.870" style="s2"><span style="s3">make sure that you are that the company</span></p>
+<p begin="00:31:35.549" end="00:31:38.250" style="s2">is friendly to<span style="s3"> open source of the</span></p>
+<p begin="00:31:36.870" end="00:31:41.129" style="s2">organization it may<span style="s3"> not</span> be a company</p>
+<p begin="00:31:38.250" end="00:31:43.019" style="s2">that<span style="s4"> you</span> will have the ability<span style="s4"> to</span> bring</p>
+<p begin="00:31:41.129" end="00:31:46.679" style="s2"><span style="s4">open-source</span> in-house and use it</p>
+<p begin="00:31:43.019" end="00:31:48.389" style="s2">including copyleft license code<span style="s3"> and</span> you</p>
+<p begin="00:31:46.679" end="00:31:49.559" style="s2">know outside<span style="s4"> this</span> talk I can explain to</p>
+<p begin="00:31:48.389" end="00:31:50.820" style="s2"><span style="s3">you</span> what copyleft is nothing to be</p>
+<p begin="00:31:49.559" end="00:31:55.289" style="s2">afraid<span style="s4"> if</span> some employers<span style="s3"> are</span> afraid<span style="s4"> of</span></p>
+<p begin="00:31:50.820" end="00:31:57.179" style="s2">it they shouldn&#39;t<span style="s3"> be</span><span style="s4"> to</span> take<span style="s3"> it</span> in<span style="s4"> to</span></p>
+<p begin="00:31:55.289" end="00:31:59.129" style="s2">use it to fix bugs to send those bugs</p>
+<p begin="00:31:57.179" end="00:32:01.529" style="s2">upstream and<span style="s3"> in</span> general to participate</p>
+<p begin="00:31:59.129" end="00:32:02.730" style="s2"><span style="s3">in</span> the wire world<span style="s3"> wider</span> world of</p>
+<p begin="00:32:01.529" end="00:32:05.340" style="s2"><span style="s4">software</span><span style="s3"> development</span> that<span style="s3"> is</span> not</p>
+<p begin="00:32:02.730" end="00:32:06.960" style="s2">controlled<span style="s3"> or</span> tied to<span style="s4"> your</span> company<span style="s3"> that</span></p>
+<p begin="00:32:05.340" end="00:32:08.100" style="s2"><span style="s3">will</span><span style="s4"> be good</span><span style="s3"> for the company</span><span style="s4"> you&#39;re</span> not</p>
+<p begin="00:32:06.960" end="00:32:09.419" style="s2">you&#39;re not betraying them you&#39;re not</p>
+<p begin="00:32:08.100" end="00:32:11.279" style="s2">doing<span style="s3"> them any harm</span> you&#39;re helping<span style="s3"> them</span></p>
+<p begin="00:32:09.419" end="00:32:15.360" style="s2"><span style="s3">but it&#39;s also good for you</span> and it&#39;s also</p>
+<p begin="00:32:11.279" end="00:32:17.789" style="s2">good for<span style="s3"> the</span> the<span style="s4"> system</span> of sort of</p>
+<p begin="00:32:15.360" end="00:32:19.169" style="s2"><span style="s4">Software Defined</span><span style="s3"> life</span> that is tragically</p>
+<p begin="00:32:17.789" end="00:32:22.080" style="s2">developing around<span style="s3"> us</span> the only way to</p>
+<p begin="00:32:19.169" end="00:32:23.220" style="s2">keep<span style="s3"> it</span> civilized<span style="s4"> is</span> if most of it is</p>
+<p begin="00:32:22.080" end="00:32:24.750" style="s2"><span style="s4">open-source and</span><span style="s3"> there</span> are a<span style="s3"> lot</span> of</p>
+<p begin="00:32:23.220" end="00:32:27.509" style="s2">people<span style="s4"> out there who know how</span><span style="s3"> to</span> hack it</p>
+<p begin="00:32:24.750" end="00:32:29.250" style="s2">that&#39;s it<span style="s4"> I</span> will stop there there&#39;s a</p>
+<p begin="00:32:27.509" end="00:32:30.720" style="s2">whole<span style="s4"> other</span><span style="s3"> section</span> to this talk<span style="s4"> that</span></p>
+<p begin="00:32:29.250" end="00:32:33.299" style="s2">involves graphs but we can<span style="s3"> talk about</span></p>
+<p begin="00:32:30.720" end="00:32:36.409" style="s2"><span style="s3">that another time</span><span style="s4"> but</span> I<span style="s4"> take</span> questions<span style="s3"> I</span></p>
+<p begin="00:32:33.299" end="00:32:36.409" style="s2">guess yeah<span style="s3"> thanks</span></p>
+<p begin="00:32:37.770" end="00:32:43.240" style="s2">[Applause]</p>
+<p begin="00:32:41.140" end="00:32:44.590" style="s2">yeah we have time for a few questions so</p>
+<p begin="00:32:43.240" end="00:32:46.300" style="s2"><span style="s4">uh</span> raise your hands if you have</p>
+<p begin="00:32:44.590" end="00:32:49.660" style="s2">questions for<span style="s4"> Carl</span> and<span style="s3"> I&#39;ll</span> run the mic</p>
+<p begin="00:32:46.300" end="00:32:55.150" style="s2">to you get some<span style="s3"> seasoned hold on I</span> have</p>
+<p begin="00:32:49.660" end="00:32:57.370" style="s2"><span style="s4">to</span> run the mic it&#39;s for the video<span style="s3"> yeah</span></p>
+<p begin="00:32:55.150" end="00:32:59.110" style="s2">what was that actual URL from<span style="s4"> the</span> last</p>
+<p begin="00:32:57.370" end="00:33:01.330" style="s2">slide<span style="s3"> before</span> you got<span style="s3"> to</span> like the whole</p>
+<p begin="00:32:59.110" end="00:33:05.980" style="s2"><span style="s3">Monopoly</span> part because I couldn&#39;t read<span style="s4"> it</span></p>
+<p begin="00:33:01.330" end="00:33:06.820" style="s2">Oh Foss<span style="s4"> F</span><span style="s3"> OSS junkman</span><span style="s4"> boss</span><span style="s3"> free</span> and<span style="s3"> open</span></p>
+<p begin="00:33:05.980" end="00:33:10.660" style="s2"><span style="s3">source software</span></p>
+<p begin="00:33:06.820" end="00:33:12.640" style="s2">hello octopus and also by the<span style="s3"> way here</span></p>
+<p begin="00:33:10.660" end="00:33:14.050" style="s2"><span style="s3">are</span> so these slides<span style="s3"> are</span> these slides are</p>
+<p begin="00:33:12.640" end="00:33:16.960" style="s2"><span style="s3">under</span> an<span style="s3"> open-source license you can get</span></p>
+<p begin="00:33:14.050" end="00:33:19.240" style="s2">them there at those PowerPoint PDF or</p>
+<p begin="00:33:16.960" end="00:33:21.640" style="s2">Libre Office open document<span style="s4"> presentation</span></p>
+<p begin="00:33:19.240" end="00:33:23.620" style="s2">format and then also there&#39;s a video of</p>
+<p begin="00:33:21.640" end="00:33:25.090" style="s2"><span style="s4">me</span><span style="s3"> sort</span><span style="s4"> of</span> doing a preview<span style="s3"> of this talk</span></p>
+<p begin="00:33:23.620" end="00:33:28.450" style="s2">in a hotel lobby really late at night</p>
+<p begin="00:33:25.090" end="00:33:35.830" style="s2">last<span style="s3"> week</span> at<span style="s3"> that</span> youtube link<span style="s3"> hold</span> on</p>
+<p begin="00:33:28.450" end="00:33:39.190" style="s2"><span style="s4">all right sorry are you able to tell the</span></p>
+<p begin="00:33:35.830" end="00:33:44.020" style="s2">difference whether<span style="s4"> open-source</span> software</p>
+<p begin="00:33:39.190" end="00:33:47.110" style="s2">company is<span style="s3"> willing</span><span style="s4"> to</span> hire to enhance</p>
+<p begin="00:33:44.020" end="00:33:50.080" style="s2">the companies<span style="s3"> or</span> potential or just</p>
+<p begin="00:33:47.110" end="00:33:52.570" style="s2">hiring<span style="s4"> because</span> they<span style="s4"> know</span> competitor they</p>
+<p begin="00:33:50.080" end="00:33:56.170" style="s2">want to get<span style="s3"> information and how a</span></p>
+<p begin="00:33:52.570" end="00:33:57.400" style="s2"><span style="s4">competitor&#39;s I think I missed a keyword</span></p>
+<p begin="00:33:56.170" end="00:34:01.090" style="s2">in your<span style="s4"> question</span><span style="s3"> tell</span> though they&#39;re</p>
+<p begin="00:33:57.400" end="00:34:03.480" style="s2">hiring<span style="s4"> totally hiring a spy oh I don&#39;t</span></p>
+<p begin="00:34:01.090" end="00:34:06.310" style="s2"><span style="s3">would</span> that be a<span style="s3"> bad</span> thing<span style="s3"> if</span> they were</p>
+<p begin="00:34:03.480" end="00:34:08.500" style="s2">in other words you&#39;re<span style="s3"> saying</span> if<span style="s3"> someone</span></p>
+<p begin="00:34:06.310" end="00:34:09.940" style="s2">hires a person who has<span style="s3"> been</span> active<span style="s4"> in</span> an</p>
+<p begin="00:34:08.500" end="00:34:11.500" style="s2">open-source<span style="s4"> project</span> and they<span style="s3"> were</span> at one</p>
+<p begin="00:34:09.940" end="00:34:13.300" style="s2">company<span style="s3"> now another company hires them</span></p>
+<p begin="00:34:11.500" end="00:34:15.910" style="s2">to work in<span style="s3"> the</span> same project is there<span style="s4"> a</span></p>
+<p begin="00:34:13.300" end="00:34:18.700" style="s2">sort<span style="s3"> of</span> corporate<span style="s3"> espionage</span><span style="s4"> as</span> I&#39;ve</p>
+<p begin="00:34:15.910" end="00:34:21.910" style="s2">applied to<span style="s3"> various open source companies</span></p>
+<p begin="00:34:18.700" end="00:34:23.980" style="s2"><span style="s3">and</span> they were not forthcoming as to</p>
+<p begin="00:34:21.910" end="00:34:27.910" style="s2">whether they were<span style="s3"> actually</span> looking<span style="s3"> for</span></p>
+<p begin="00:34:23.980" end="00:34:30.820" style="s2">somebody who knew the who do<span style="s3"> what</span> was</p>
+<p begin="00:34:27.910" end="00:34:34.480" style="s2">required<span style="s3"> versus</span> who they needed to have</p>
+<p begin="00:34:30.820" end="00:34:36.370" style="s2">to find out how the competitors are</p>
+<p begin="00:34:34.480" end="00:34:38.920" style="s2">doing<span style="s3"> Oh</span> what&#39;s shutting me out</p>
+<p begin="00:34:36.370" end="00:34:41.770" style="s2"><span style="s3">that</span><span style="s4"> okay</span> that I mean I feel<span style="s4"> like</span> I&#39;ve</p>
+<p begin="00:34:38.920" end="00:34:43.620" style="s2">not heard of<span style="s3"> that happening</span><span style="s4"> much</span><span style="s3"> in</span><span style="s4"> open</span></p>
+<p begin="00:34:41.770" end="00:34:46.180" style="s2"><span style="s4">source</span> jobs maybe it happens sometimes</p>
+<p begin="00:34:43.620" end="00:34:47.950" style="s2"><span style="s4">but</span> I feel<span style="s3"> like</span> that&#39;s<span style="s3"> also that&#39;s more</span></p>
+<p begin="00:34:46.180" end="00:34:49.180" style="s2">a<span style="s3"> general</span> question<span style="s3"> of</span><span style="s4"> hiring</span><span style="s3"> and</span></p>
+<p begin="00:34:47.950" end="00:34:50.740" style="s2">corporate espionage and<span style="s3"> are</span> you hiring</p>
+<p begin="00:34:49.180" end="00:34:52.690" style="s2">this person<span style="s4"> so</span> they can tattle on what</p>
+<p begin="00:34:50.740" end="00:34:54.250" style="s2">their former employer was doing</p>
+<p begin="00:34:52.690" end="00:34:55.510" style="s2">and that<span style="s3"> doesn&#39;t</span> have<span style="s4"> to</span> be<span style="s4"> about</span> an</p>
+<p begin="00:34:54.250" end="00:34:57.640" style="s2"><span style="s3">open-source</span> project<span style="s4"> they</span> could just hire</p>
+<p begin="00:34:55.510" end="00:34:58.900" style="s2">someone to do that<span style="s3"> anyway</span> like even if</p>
+<p begin="00:34:57.640" end="00:35:01.270" style="s2"><span style="s3">that person had nothing to do with open</span></p>
+<p begin="00:34:58.900" end="00:35:03.730" style="s2"><span style="s3">source</span> at the first company<span style="s3"> so</span> I don&#39;t</p>
+<p begin="00:35:01.270" end="00:35:05.800" style="s2">hear about<span style="s3"> that</span> phenomenon<span style="s4"> much</span> and I</p>
+<p begin="00:35:03.730" end="00:35:08.020" style="s2"><span style="s4">don&#39;t</span> know the specific reasons why why</p>
+<p begin="00:35:05.800" end="00:35:09.730" style="s2">you encountered that but that&#39;s<span style="s3"> just</span> not</p>
+<p begin="00:35:08.020" end="00:35:11.770" style="s2">it&#39;s not<span style="s3"> a</span> factor I&#39;ve run into<span style="s3"> at</span> the</p>
+<p begin="00:35:09.730" end="00:35:13.890" style="s2">companies I work with<span style="s3"> for</span> what it&#39;s</p>
+<p begin="00:35:11.770" end="00:35:13.890" style="s2"><span style="s4">worth</span></p>
+<p begin="00:35:20.640" end="00:35:29.790" style="s2">hi I&#39;ve been<span style="s3"> thinking</span> a lot<span style="s4"> during your</span></p>
+<p begin="00:35:24.810" end="00:35:31.860" style="s2">presentation<span style="s3"> and</span> I don&#39;t<span style="s3"> work I&#39;m not</span> a</p>
+<p begin="00:35:29.790" end="00:35:34.740" style="s2">coder<span style="s3"> and</span><span style="s4"> I</span> am loosely<span style="s3"> sedated</span></p>
+<p begin="00:35:31.860" end="00:35:36.900" style="s2">associated<span style="s4"> with</span> the<span style="s4"> text fear</span><span style="s3"> and</span> to me</p>
+<p begin="00:35:34.740" end="00:35:39.900" style="s2">the open source<span style="s3"> model seems like such a</span></p>
+<p begin="00:35:36.900" end="00:35:41.880" style="s2">fantastic<span style="s3"> way</span> to work on<span style="s3"> any problem yes</span></p>
+<p begin="00:35:39.900" end="00:35:44.310" style="s2"><span style="s4">with</span> people sharing their<span style="s4"> information</span></p>
+<p begin="00:35:41.880" end="00:35:47.220" style="s2">and<span style="s3"> knowledge and building systems</span></p>
+<p begin="00:35:44.310" end="00:35:49.820" style="s2">together<span style="s3"> to</span> make<span style="s3"> things</span> better<span style="s4"> so</span> I&#39;m</p>
+<p begin="00:35:47.220" end="00:35:53.430" style="s2">wondering<span style="s3"> have</span> you seen<span style="s4"> in</span> other</p>
+<p begin="00:35:49.820" end="00:35:56.630" style="s2">industries and functions<span style="s3"> a</span> kind<span style="s3"> of</span> open</p>
+<p begin="00:35:53.430" end="00:35:59.310" style="s2">source mentality developing because<span style="s3"> I</span></p>
+<p begin="00:35:56.630" end="00:36:03.510" style="s2">can&#39;t<span style="s3"> give</span> any examples off the top<span style="s4"> of</span></p>
+<p begin="00:35:59.310" end="00:36:06.990" style="s2"><span style="s3">my</span> head<span style="s4"> in</span> order<span style="s3"> for</span> open source<span style="s4"> to</span> work</p>
+<p begin="00:36:03.510" end="00:36:09.060" style="s2">it<span style="s3"> needs</span> certain conditions and the main</p>
+<p begin="00:36:06.990" end="00:36:11.910" style="s2">one is<span style="s4"> that</span> the materials that are<span style="s4"> being</span></p>
+<p begin="00:36:09.060" end="00:36:14.910" style="s2"><span style="s4">worked</span> with can<span style="s3"> be</span> completely<span style="s4"> perfectly</span></p>
+<p begin="00:36:11.910" end="00:36:16.140" style="s2">replicated<span style="s3"> at</span> no marginal cost<span style="s3"> and</span> so</p>
+<p begin="00:36:14.910" end="00:36:19.200" style="s2">it&#39;s like you&#39;ll never<span style="s3"> have</span> open source</p>
+<p begin="00:36:16.140" end="00:36:20.760" style="s2">agriculture<span style="s4"> you&#39;ll</span><span style="s3"> never</span> have open</p>
+<p begin="00:36:19.200" end="00:36:22.590" style="s2">source manufacturing open source</p>
+<p begin="00:36:20.760" end="00:36:24.150" style="s2">hardware<span style="s3"> is</span> a term<span style="s4"> that</span> gets bandied</p>
+<p begin="00:36:22.590" end="00:36:26.340" style="s2">around I<span style="s4"> think</span> it is a meaningless term</p>
+<p begin="00:36:24.150" end="00:36:27.570" style="s2"><span style="s3">it&#39;s</span> a contradiction<span style="s3"> the</span> only thing that</p>
+<p begin="00:36:26.340" end="00:36:29.130" style="s2"><span style="s3">can</span> be open source about open source</p>
+<p begin="00:36:27.570" end="00:36:30.600" style="s2">hardware is the<span style="s3"> blueprints</span> and<span style="s4"> the</span> plans</p>
+<p begin="00:36:29.130" end="00:36:31.830" style="s2">in other words the software so<span style="s4"> why don&#39;t</span></p>
+<p begin="00:36:30.600" end="00:36:36.330" style="s2"><span style="s3">just</span><span style="s4"> call</span> it<span style="s4"> open</span> source<span style="s3"> software</span> right</p>
+<p begin="00:36:31.830" end="00:36:38.010" style="s2"><span style="s3">I</span><span style="s4"> so</span> we didn&#39;t go into<span style="s4"> this</span> in<span style="s3"> the</span></p>
+<p begin="00:36:36.330" end="00:36:42.000" style="s2">presentation<span style="s3"> the</span> reason that that</p>
+<p begin="00:36:38.010" end="00:36:43.680" style="s2">ingredient<span style="s3"> is</span> crucial is<span style="s3"> that</span> if you</p>
+<p begin="00:36:42.000" end="00:36:45.960" style="s2">have an open license<span style="s3"> in</span> other words no</p>
+<p begin="00:36:43.680" end="00:36:47.910" style="s2">no statutory<span style="s4"> monopoly</span> no state granted</p>
+<p begin="00:36:45.960" end="00:36:49.380" style="s2">monopoly is being applied that&#39;s<span style="s3"> what</span></p>
+<p begin="00:36:47.910" end="00:36:51.870" style="s2">open source<span style="s3"> licenses</span> do they take away</p>
+<p begin="00:36:49.380" end="00:36:53.700" style="s2">the<span style="s3"> state</span> granted<span style="s3"> monopoly and then and</span></p>
+<p begin="00:36:51.870" end="00:36:55.560" style="s2">then<span style="s3"> you</span> have the<span style="s4"> actual</span> goods</p>
+<p begin="00:36:53.700" end="00:36:58.520" style="s2"><span style="s4">themselves</span> can be<span style="s3"> replicated at no cost</span></p>
+<p begin="00:36:55.560" end="00:37:01.380" style="s2">what that means is that anyone<span style="s3"> can</span> fork</p>
+<p begin="00:36:58.520" end="00:37:02.610" style="s2">anybody can come along<span style="s4"> and</span> say hey I see</p>
+<p begin="00:37:01.380" end="00:37:04.080" style="s2">you&#39;ve<span style="s4"> got</span><span style="s3"> this project I don&#39;t like how</span></p>
+<p begin="00:37:02.610" end="00:37:06.210" style="s2">your group is running<span style="s3"> it I&#39;m going</span><span style="s4"> to</span></p>
+<p begin="00:37:04.080" end="00:37:08.250" style="s2">take<span style="s3"> your</span> entire<span style="s3"> project make a copy</span></p>
+<p begin="00:37:06.210" end="00:37:09.420" style="s2">over here and get a bunch of<span style="s4"> people</span></p>
+<p begin="00:37:08.250" end="00:37:11.250" style="s2">we&#39;re going<span style="s3"> to run it</span> our own<span style="s3"> way</span><span style="s4"> and</span></p>
+<p begin="00:37:09.420" end="00:37:13.620" style="s2"><span style="s4">what</span><span style="s3"> those copies will diverge or maybe</span></p>
+<p begin="00:37:11.250" end="00:37:16.440" style="s2">they&#39;ll converge later but the threat<span style="s3"> of</span></p>
+<p begin="00:37:13.620" end="00:37:18.030" style="s2">those<span style="s3"> Forks</span> happening is what makes<span style="s3"> open</span></p>
+<p begin="00:37:16.440" end="00:37:19.620" style="s2"><span style="s3">source</span> governance possible<span style="s3"> it&#39;s</span> what</p>
+<p begin="00:37:18.030" end="00:37:21.180" style="s2">gets<span style="s3"> everyone</span><span style="s4"> to</span> come<span style="s4"> into</span> consensus</p>
+<p begin="00:37:19.620" end="00:37:22.830" style="s2"><span style="s3">because</span> they all know<span style="s3"> that</span> if they don&#39;t</p>
+<p begin="00:37:21.180" end="00:37:25.890" style="s2"><span style="s3">come</span> to agreement<span style="s3"> it&#39;ll</span> discipline trout</p>
+<p begin="00:37:22.830" end="00:37:27.630" style="s2">into<span style="s4"> a</span> bunch of<span style="s3"> forks and so curiously</span></p>
+<p begin="00:37:25.890" end="00:37:28.920" style="s2"><span style="s3">the</span> ability to go off and do your<span style="s3"> own</span></p>
+<p begin="00:37:27.630" end="00:37:31.950" style="s2">thing with it<span style="s4"> is</span><span style="s3"> what</span> makes everyone</p>
+<p begin="00:37:28.920" end="00:37:33.630" style="s2">work together<span style="s3"> if</span> you<span style="s3"> have</span> a situation</p>
+<p begin="00:37:31.950" end="00:37:35.880" style="s2">where<span style="s3"> the</span> goods are replicable</p>
+<p begin="00:37:33.630" end="00:37:38.490" style="s2">at zero marginal<span style="s4"> cost</span> and there&#39;s no</p>
+<p begin="00:37:35.880" end="00:37:40.619" style="s2"><span style="s3">statutory</span> monopoly<span style="s3"> as</span> with like strict</p>
+<p begin="00:37:38.490" end="00:37:42.480" style="s2">copyright and things<span style="s4"> like</span><span style="s3"> that</span> then you</p>
+<p begin="00:37:40.619" end="00:37:44.309" style="s2"><span style="s3">can have open</span> source dynamics without</p>
+<p begin="00:37:42.480" end="00:37:45.720" style="s2"><span style="s4">those</span> ingredients<span style="s4"> I</span> think<span style="s4"> you</span> cannot</p>
+<p begin="00:37:44.309" end="00:37:50.910" style="s2">have<span style="s4"> it</span> and so<span style="s3"> that&#39;s</span> why we<span style="s4"> don&#39;t see</span></p>
+<p begin="00:37:45.720" end="00:37:52.500" style="s2">it<span style="s3"> so</span><span style="s4"> you know</span><span style="s3"> Wikipedia is sort of an</span></p>
+<p begin="00:37:50.910" end="00:37:53.940" style="s2">example<span style="s3"> of that right</span> it&#39;s not<span style="s3"> I mean</span></p>
+<p begin="00:37:52.500" end="00:37:55.950" style="s2">that it&#39;s<span style="s3"> running</span> on software<span style="s3"> but</span> the</p>
+<p begin="00:37:53.940" end="00:37:57.809" style="s2">content<span style="s3"> is</span> not<span style="s3"> software but it is a</span></p>
+<p begin="00:37:55.950" end="00:37:59.430" style="s2">successful<span style="s3"> example</span><span style="s4"> and</span> in<span style="s3"> fact</span> it is</p>
+<p begin="00:37:57.809" end="00:38:01.500" style="s2"><span style="s4">true</span> that<span style="s3"> you</span> can<span style="s4"> copy</span> all of<span style="s4"> Wikipedia</span></p>
+<p begin="00:37:59.430" end="00:38:04.589" style="s2">for<span style="s3"> attempt you know just the cost of</span></p>
+<p begin="00:38:01.500" end="00:38:07.619" style="s2">the<span style="s4"> servers</span><span style="s3"> right</span> the storage space and</p>
+<p begin="00:38:04.589" end="00:38:08.940" style="s2">and<span style="s3"> organizations</span> do there are people</p>
+<p begin="00:38:07.619" end="00:38:11.460" style="s2">all the time<span style="s3"> take</span> stuff in the English</p>
+<p begin="00:38:08.940" end="00:38:13.230" style="s2">Wikipedia<span style="s4"> they</span> copy it<span style="s4"> into</span><span style="s3"> the</span> whatever</p>
+<p begin="00:38:11.460" end="00:38:16.799" style="s2">language<span style="s3"> Wikipedia and they translate it</span></p>
+<p begin="00:38:13.230" end="00:38:19.170" style="s2">and<span style="s3"> vice versa so you</span><span style="s4"> do</span> see it in some</p>
+<p begin="00:38:16.799" end="00:38:20.730" style="s2">places but most<span style="s3"> of</span> human endeavor which</p>
+<p begin="00:38:19.170" end="00:38:22.849" style="s2">deals with<span style="s3"> physical</span><span style="s4"> stuff</span> can never do</p>
+<p begin="00:38:20.730" end="00:38:22.849" style="s2"><span style="s3">it</span></p>
+<p begin="00:38:23.539" end="00:38:30.569" style="s2">it was<span style="s4"> their follow up</span> thing you wanted</p>
+<p begin="00:38:25.859" end="00:38:31.829" style="s2"><span style="s3">to say so</span><span style="s4"> just</span> conference<span style="s3"> um</span> it feels</p>
+<p begin="00:38:30.569" end="00:38:33.750" style="s2"><span style="s3">also</span> like there&#39;s a<span style="s3"> certain kind of</span></p>
+<p begin="00:38:31.829" end="00:38:35.640" style="s2"><span style="s3">mindset</span> that<span style="s3"> goes</span> along<span style="s3"> with</span><span style="s4"> open source</span></p>
+<p begin="00:38:33.750" end="00:38:38.299" style="s2"><span style="s3">community do you think that there</span><span style="s4"> are</span></p>
+<p begin="00:38:35.640" end="00:38:41.490" style="s2">places<span style="s4"> where</span> there is<span style="s3"> a</span> false sense of</p>
+<p begin="00:38:38.299" end="00:38:43.799" style="s2">barrier to forking something where it&#39;s</p>
+<p begin="00:38:41.490" end="00:38:45.809" style="s2"><span style="s3">not</span> so<span style="s3"> much</span> the actual<span style="s3"> thing</span> that&#39;s</p>
+<p begin="00:38:43.799" end="00:38:47.519" style="s2">preventing<span style="s4"> people</span> from<span style="s3"> open</span> sourcing it</p>
+<p begin="00:38:45.809" end="00:38:51.119" style="s2">but<span style="s3"> rather</span> the mindset that<span style="s4"> it</span> can&#39;t<span style="s3"> be</span></p>
+<p begin="00:38:47.519" end="00:38:52.319" style="s2"><span style="s3">done</span> when you say<span style="s4"> preventing</span> people from</p>
+<p begin="00:38:51.119" end="00:38:56.759" style="s2">open sourcing you mean preventing them</p>
+<p begin="00:38:52.319" end="00:38:58.829" style="s2">from forking<span style="s3"> yeah</span><span style="s4"> I</span> mean mostly when I</p>
+<p begin="00:38:56.759" end="00:39:00.569" style="s2">see people<span style="s4"> being</span> reluctant<span style="s3"> to</span> fork<span style="s3"> it&#39;s</span></p>
+<p begin="00:38:58.829" end="00:39:02.609" style="s2">for good reasons<span style="s4"> my</span> forking takes<span style="s4"> effort</span></p>
+<p begin="00:39:00.569" end="00:39:03.839" style="s2">you&#39;ve got to go<span style="s3"> you</span> do have social</p>
+<p begin="00:39:02.609" end="00:39:05.279" style="s2">lobbying to do to<span style="s3"> get</span><span style="s4"> people</span> to join</p>
+<p begin="00:39:03.839" end="00:39:08.849" style="s2"><span style="s3">your</span> fork<span style="s3"> and</span> probably they won&#39;t</p>
+<p begin="00:39:05.279" end="00:39:10.109" style="s2">usually<span style="s3"> most</span> Forks fail<span style="s4"> occasionally</span></p>
+<p begin="00:39:08.849" end="00:39:16.230" style="s2">there are<span style="s3"> some</span> famous examples<span style="s4"> where</span></p>
+<p begin="00:39:10.109" end="00:39:17.700" style="s2">they succeed<span style="s4"> no</span> I well so so this<span style="s3"> is</span> I&#39;m</p>
+<p begin="00:39:16.230" end="00:39:19.680" style="s2">too much<span style="s3"> in</span> the open<span style="s4"> source world like</span></p>
+<p begin="00:39:17.700" end="00:39:21.720" style="s2">the people I&#39;m generally working<span style="s3"> with</span></p>
+<p begin="00:39:19.680" end="00:39:23.220" style="s2">are very<span style="s4"> comfortable</span> with idea of</p>
+<p begin="00:39:21.720" end="00:39:25.799" style="s2"><span style="s4">forking and they they just evaluate on</span></p>
+<p begin="00:39:23.220" end="00:39:31.140" style="s2">is this worth the effort basis but yeah</p>
+<p begin="00:39:25.799" end="00:39:32.670" style="s2"><span style="s3">I</span><span style="s4"> think</span> when you when you see people</p>
+<p begin="00:39:31.140" end="00:39:35.519" style="s2">doing<span style="s3"> this</span> for the<span style="s3"> first time there are</span></p>
+<p begin="00:39:32.670" end="00:39:38.460" style="s2">cases<span style="s3"> where</span> actually this would happens</p>
+<p begin="00:39:35.519" end="00:39:42.089" style="s2">with<span style="s3"> our</span> clients a lot they are not</p>
+<p begin="00:39:38.460" end="00:39:43.200" style="s2">clear<span style="s4"> on</span> the idea that<span style="s3"> they</span> could fork</p>
+<p begin="00:39:42.089" end="00:39:44.190" style="s2">something someone<span style="s4"> else</span> is doing<span style="s4"> that</span></p>
+<p begin="00:39:43.200" end="00:39:45.890" style="s2"><span style="s3">someone</span> could fork their thing and</p>
+<p begin="00:39:44.190" end="00:39:48.260" style="s2"><span style="s3">they&#39;re</span> confused<span style="s3"> about</span> whether</p>
+<p begin="00:39:45.890" end="00:39:49.670" style="s2">like wait you mean somebody could<span style="s4"> fork</span></p>
+<p begin="00:39:48.260" end="00:39:51.560" style="s2"><span style="s4">our</span> code<span style="s3"> and change our software</span><span style="s4"> and</span></p>
+<p begin="00:39:49.670" end="00:39:53.630" style="s2">really<span style="s4"> ah they can</span><span style="s3"> only</span> change their own</p>
+<p begin="00:39:51.560" end="00:39:55.900" style="s2">copy<span style="s3"> don&#39;t</span> worry they<span style="s4"> can&#39;t</span><span style="s3"> change</span> your</p>
+<p begin="00:39:53.630" end="00:39:58.400" style="s2">copy<span style="s4"> and</span> once you<span style="s3"> start</span><span style="s4"> thinking</span> about</p>
+<p begin="00:39:55.900" end="00:39:59.690" style="s2">don&#39;t<span style="s3"> worry you always</span> control<span style="s4"> your</span> own</p>
+<p begin="00:39:58.400" end="00:40:01.130" style="s2">copies the question is just whether</p>
+<p begin="00:39:59.690" end="00:40:03.320" style="s2">someone can<span style="s4"> make</span> their own<span style="s3"> copy</span> of<span style="s3"> that</span></p>
+<p begin="00:40:01.130" end="00:40:04.520" style="s2">and do things<span style="s3"> today</span><span style="s4"> or</span> copy that&#39;s what</p>
+<p begin="00:40:03.320" end="00:40:06.650" style="s2">usually clears up<span style="s3"> that</span> misunderstanding</p>
+<p begin="00:40:04.520" end="00:40:08.510" style="s2"><span style="s3">so</span> I think that mindset<span style="s3"> does</span> happen</p>
+<p begin="00:40:06.650" end="00:40:10.190" style="s2">sometimes<span style="s4"> but</span> it also doesn&#39;t last long</p>
+<p begin="00:40:08.510" end="00:40:13.600" style="s2">once people<span style="s3"> get</span> the idea<span style="s3"> then</span><span style="s4"> they are</span></p>
+<p begin="00:40:10.190" end="00:40:24.380" style="s2">like oh<span style="s4"> okay</span><span style="s3"> now</span> we get<span style="s3"> how</span> it<span style="s3"> works</span></p>
+<p begin="00:40:13.600" end="00:40:25.850" style="s2">last<span style="s3"> question</span> last<span style="s4"> question</span><span style="s3"> I think what</span></p>
+<p begin="00:40:24.380" end="00:40:27.740" style="s2">advice would you<span style="s4"> have</span> to someone who&#39;s</p>
+<p begin="00:40:25.850" end="00:40:30.380" style="s2">nervous<span style="s3"> about contributing to an</span></p>
+<p begin="00:40:27.740" end="00:40:32.270" style="s2">open-source project<span style="s4"> either worried about</span></p>
+<p begin="00:40:30.380" end="00:40:34.910" style="s2">submitting<span style="s3"> a</span> pull request or fixing</p>
+<p begin="00:40:32.270" end="00:40:37.160" style="s2">issue<span style="s3"> or</span> someone who&#39;s a younger less</p>
+<p begin="00:40:34.910" end="00:40:39.140" style="s2">experienced engineer who maybe doesn&#39;t</p>
+<p begin="00:40:37.160" end="00:40:43.790" style="s2"><span style="s4">have</span> the confidence<span style="s3"> to</span><span style="s4"> do</span> that&#39;s a</p>
+<p begin="00:40:39.140" end="00:40:45.890" style="s2">really<span style="s3"> good question</span><span style="s4"> um</span> I&#39;m glad you</p>
+<p begin="00:40:43.790" end="00:40:47.120" style="s2">asked<span style="s4"> that</span><span style="s3"> this</span> is one<span style="s4"> of</span> those this<span style="s4"> is</span></p>
+<p begin="00:40:45.890" end="00:40:48.860" style="s2">like one of<span style="s4"> those</span> like white<span style="s3"> privilege</span></p>
+<p begin="00:40:47.120" end="00:40:51.770" style="s2">shows it&#39;s and<span style="s4"> male privileges is like</span></p>
+<p begin="00:40:48.860" end="00:40:53.180" style="s2">we face<span style="s4"> I</span> was a new brash and very</p>
+<p begin="00:40:51.770" end="00:40:54.650" style="s2"><span style="s3">inexperienced</span><span style="s4"> programmer</span> when I started</p>
+<p begin="00:40:53.180" end="00:40:56.720" style="s2">contributing<span style="s4"> to</span><span style="s3"> open</span> source<span style="s4"> I</span> was</p>
+<p begin="00:40:54.650" end="00:40:59.240" style="s2">incompetent<span style="s4"> and</span> I felt no compunctions</p>
+<p begin="00:40:56.720" end="00:41:01.880" style="s2">about<span style="s3"> contributing right I was like</span></p>
+<p begin="00:40:59.240" end="00:41:07.340" style="s2"><span style="s3">surely surely Richard Stallman</span> will want</p>
+<p begin="00:41:01.880" end="00:41:08.570" style="s2">my patch to<span style="s3"> Emacs right and it took me a</span></p>
+<p begin="00:41:07.340" end="00:41:10.400" style="s2">long time<span style="s3"> to understand that not</span></p>
+<p begin="00:41:08.570" end="00:41:13.040" style="s2"><span style="s3">everyone</span> is such an<span style="s3"> idiot and they have</span></p>
+<p begin="00:41:10.400" end="00:41:15.650" style="s2">good reasons to<span style="s3"> be</span> nervous<span style="s4"> so what I</span></p>
+<p begin="00:41:13.040" end="00:41:17.180" style="s2">would<span style="s3"> say</span> is first of<span style="s3"> all</span> you&#39;re</p>
+<p begin="00:41:15.650" end="00:41:18.440" style="s2"><span style="s4">probably</span> not I&#39;m not<span style="s3"> I&#39;m</span> saying<span style="s3"> you</span> I</p>
+<p begin="00:41:17.180" end="00:41:19.640" style="s2">don&#39;t<span style="s3"> actually</span> know if<span style="s4"> you&#39;re</span> you<span style="s3"> know</span></p>
+<p begin="00:41:18.440" end="00:41:21.860" style="s2">are you<span style="s3"> asking</span> for<span style="s3"> a</span> friend<span style="s3"> or</span> asking</p>
+<p begin="00:41:19.640" end="00:41:25.040" style="s2">for yourself right but you&#39;re probably</p>
+<p begin="00:41:21.860" end="00:41:26.450" style="s2"><span style="s3">not</span> as as an experienced or slovenly</p>
+<p begin="00:41:25.040" end="00:41:29.750" style="s2">about your<span style="s3"> code</span><span style="s4"> a few</span><span style="s3"> things</span> don&#39;t<span style="s3"> worry</span></p>
+<p begin="00:41:26.450" end="00:41:32.000" style="s2"><span style="s3">to</span> you the nice thing about open<span style="s3"> source</span></p>
+<p begin="00:41:29.750" end="00:41:33.440" style="s2">projects is you can see the tone<span style="s4"> of</span> the</p>
+<p begin="00:41:32.000" end="00:41:35.600" style="s2">project<span style="s3"> because</span> all the mailing lists</p>
+<p begin="00:41:33.440" end="00:41:37.340" style="s2">and<span style="s3"> github</span> issued<span style="s3"> you know threads</span><span style="s4"> all</span></p>
+<p begin="00:41:35.600" end="00:41:39.560" style="s2">those<span style="s4"> conversations</span> are archived in in</p>
+<p begin="00:41:37.340" end="00:41:41.870" style="s2"><span style="s3">public</span> view<span style="s3"> so you can look and see</span><span style="s4"> at</span></p>
+<p begin="00:41:39.560" end="00:41:44.120" style="s2">how others people&#39;s<span style="s3"> pull</span> requests have</p>
+<p begin="00:41:41.870" end="00:41:46.070" style="s2"><span style="s3">been</span> received<span style="s3"> and</span> so what you could do</p>
+<p begin="00:41:44.120" end="00:41:47.780" style="s2">is you could actually go find someone</p>
+<p begin="00:41:46.070" end="00:41:49.190" style="s2"><span style="s3">who&#39;s</span> only<span style="s3"> made</span> one pull request<span style="s3"> and</span> who</p>
+<p begin="00:41:47.780" end="00:41:51.590" style="s2">looks<span style="s4"> like</span> they were kind<span style="s4"> of</span><span style="s3"> a</span> newcomer</p>
+<p begin="00:41:49.190" end="00:41:52.940" style="s2"><span style="s3">and</span> see how the project<span style="s4"> received it</span><span style="s3"> and</span></p>
+<p begin="00:41:51.590" end="00:41:56.540" style="s2">if they<span style="s3"> got</span> treated<span style="s3"> well</span><span style="s4"> you</span> will be</p>
+<p begin="00:41:52.940" end="00:41:58.170" style="s2">treated<span style="s3"> well too</span><span style="s4"> and</span> then projects have</p>
+<p begin="00:41:56.540" end="00:42:01.019" style="s2"><span style="s4">reputations</span> like</p>
+<p begin="00:41:58.170" end="00:42:02.279" style="s2">some the<span style="s4"> linux</span> kernel<span style="s4"> is</span> famously nasty</p>
+<p begin="00:42:01.019" end="00:42:06.960" style="s2">to new contributors early minutes</p>
+<p begin="00:42:02.279" end="00:42:08.190" style="s2">himself has sometimes been don&#39;t you</p>
+<p begin="00:42:06.960" end="00:42:09.720" style="s2"><span style="s3">know</span> don&#39;t<span style="s3"> start</span> out contributing a</p>
+<p begin="00:42:08.190" end="00:42:11.549" style="s2">package to<span style="s3"> the</span> kernel<span style="s3"> start</span> with a</p>
+<p begin="00:42:09.720" end="00:42:13.499" style="s2">really<span style="s4"> family</span> project<span style="s3"> but</span> most projects</p>
+<p begin="00:42:11.549" end="00:42:16.019" style="s2">are friendly<span style="s3"> so</span> expect<span style="s4"> to</span> be</p>
+<p begin="00:42:13.499" end="00:42:17.489" style="s2"><span style="s4">well-received</span><span style="s3"> do expect feedback expect</span></p>
+<p begin="00:42:16.019" end="00:42:19.589" style="s2">to have<span style="s3"> to</span><span style="s4"> iterate</span><span style="s3"> your</span><span style="s4"> poll request</span></p>
+<p begin="00:42:17.489" end="00:42:21.989" style="s2">several<span style="s3"> times</span><span style="s4"> that</span> is a compliment<span style="s3"> when</span></p>
+<p begin="00:42:19.589" end="00:42:23.970" style="s2">they review your<span style="s4"> code</span><span style="s3"> and they say thank</span></p>
+<p begin="00:42:21.989" end="00:42:25.799" style="s2">you but you<span style="s3"> know</span> our coding standards</p>
+<p begin="00:42:23.970" end="00:42:28.950" style="s2">say do<span style="s3"> this</span> here and<span style="s4"> that</span> there and<span style="s4"> also</span></p>
+<p begin="00:42:25.799" end="00:42:30.329" style="s2">you&#39;ve got<span style="s3"> a</span> you<span style="s4"> know</span> an order<span style="s3"> N</span><span style="s4"> squared</span></p>
+<p begin="00:42:28.950" end="00:42:31.650" style="s2">algorithm here and you can do it<span style="s4"> in</span></p>
+<p begin="00:42:30.329" end="00:42:33.599" style="s2">constant time if you just<span style="s4"> change</span> the</p>
+<p begin="00:42:31.650" end="00:42:34.680" style="s2"><span style="s3">loop</span> in<span style="s4"> this</span> way whatever<span style="s4"> it</span> is that&#39;s</p>
+<p begin="00:42:33.599" end="00:42:35.910" style="s2">they&#39;re paying you the highest</p>
+<p begin="00:42:34.680" end="00:42:37.650" style="s2"><span style="s3">compliment</span> when they pay you attention</p>
+<p begin="00:42:35.910" end="00:42:39.779" style="s2">that&#39;s why we have the expression<span style="s3"> pay</span></p>
+<p begin="00:42:37.650" end="00:42:41.279" style="s2">attention like pay money<span style="s3"> they are</span></p>
+<p begin="00:42:39.779" end="00:42:44.220" style="s2">they&#39;re giving you their time in their</p>
+<p begin="00:42:41.279" end="00:42:45.779" style="s2">brains<span style="s3"> and that&#39;s never take that kind</span></p>
+<p begin="00:42:44.220" end="00:42:47.309" style="s2">of technical criticism as anything other</p>
+<p begin="00:42:45.779" end="00:42:51.210" style="s2">than encouragement that&#39;s<span style="s3"> all</span> it is</p>
+<p begin="00:42:47.309" end="00:42:52.619" style="s2">does that<span style="s3"> answer the question all</span> right</p>
+<p begin="00:42:51.210" end="00:42:54.920" style="s2"><span style="s4">no dislikes Thank You</span><span style="s3"> Carl</span></p>
+<p begin="00:42:52.619" end="00:42:54.920" style="s2">yeah</p>
+<p begin="00:42:58.460" end="00:43:01.519" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

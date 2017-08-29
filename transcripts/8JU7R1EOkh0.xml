@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.400" end="00:00:08.550" style="s2">so<span style="s3"> I&#39;m</span> a student at the University of</p>
+<p begin="00:00:06.779" end="00:00:10.889" style="s2">Chicago and I study economics and public</p>
+<p begin="00:00:08.550" end="00:00:13.080" style="s2">policy basically means I read a lot of</p>
+<p begin="00:00:10.889" end="00:00:15.150" style="s2">dead old white guys readings and a lot</p>
+<p begin="00:00:13.080" end="00:00:17.550" style="s2">of theoretical math like a lot of</p>
+<p begin="00:00:15.150" end="00:00:19.859" style="s2">theoretical math but college isn&#39;t too</p>
+<p begin="00:00:17.550" end="00:00:21.710" style="s2">bad what I<span style="s3"> also</span> got to do is lead tech</p>
+<p begin="00:00:19.859" end="00:00:24.029" style="s2">team which is a<span style="s4"> two-sided</span> mission of</p>
+<p begin="00:00:21.710" end="00:00:26.189" style="s2">providing digital strategy to</p>
+<p begin="00:00:24.029" end="00:00:28.199" style="s2">under-resourced nonprofits and I also</p>
+<p begin="00:00:26.189" end="00:00:30.090" style="s2">get to get<span style="s3"> students</span> more comfortable</p>
+<p begin="00:00:28.199" end="00:00:31.830" style="s2">with tech and this really<span style="s3"> led</span> me to</p>
+<p begin="00:00:30.090" end="00:00:33.300" style="s2">becoming a<span style="s3"> Microsoft</span> Civic tech fellow</p>
+<p begin="00:00:31.830" end="00:00:35.399" style="s2">but something<span style="s3"> would</span> be wondering like</p>
+<p begin="00:00:33.300" end="00:00:37.140" style="s2">and of course<span style="s4"> what</span> would a corporate</p>
+<p begin="00:00:35.399" end="00:00:40.370" style="s2">presentation be without a cheesy stock</p>
+<p begin="00:00:37.140" end="00:00:43.410" style="s2">photo um some of you may be wondering</p>
+<p begin="00:00:40.370" end="00:00:45.270" style="s2">what does<span style="s3"> that</span> even mean um why</p>
+<p begin="00:00:43.410" end="00:00:46.860" style="s2">Microsoft Civic tech and so when I</p>
+<p begin="00:00:45.270" end="00:00:49.489" style="s2"><span style="s4">introduced</span> myself like that a lot of</p>
+<p begin="00:00:46.860" end="00:00:53.129" style="s2">people have<span style="s3"> this</span> apprehension because</p>
+<p begin="00:00:49.489" end="00:00:55.469" style="s2">everyone&#39;s and rightfully so oh and is</p>
+<p begin="00:00:53.129" end="00:00:57.539" style="s2">in something is organic is Civic tech</p>
+<p begin="00:00:55.469" end="00:00:59.250" style="s2">there&#39;s always some suspicion of some</p>
+<p begin="00:00:57.539" end="00:01:01.469" style="s2">guy<span style="s3"> that&#39;s</span> like working for the man I</p>
+<p begin="00:00:59.250" end="00:01:03.000" style="s2">mean why presentation here is kind<span style="s3"> of</span> to</p>
+<p begin="00:01:01.469" end="00:01:05.250" style="s2">talk<span style="s4"> about</span> why we&#39;re a little bit</p>
+<p begin="00:01:03.000" end="00:01:07.890" style="s2">different I&#39;m<span style="s3"> not trying to sell you</span></p>
+<p begin="00:01:05.250" end="00:01:10.500" style="s2">anything<span style="s3"> as</span> much as I love being I don&#39;t</p>
+<p begin="00:01:07.890" end="00:01:12.299" style="s2">have any like selling quotas I&#39;m not</p>
+<p begin="00:01:10.500" end="00:01:14.280" style="s2">trying to<span style="s3"> push</span> any products we&#39;re really</p>
+<p begin="00:01:12.299" end="00:01:17.009" style="s2">just here to<span style="s3"> help</span><span style="s4"> and</span> so what we do we</p>
+<p begin="00:01:14.280" end="00:01:19.290" style="s2">show up and we give you free stuff and</p>
+<p begin="00:01:17.009" end="00:01:22.770" style="s2">I&#39;m also<span style="s3"> here</span> for them panade owes as a</p>
+<p begin="00:01:19.290" end="00:01:24.150" style="s2">no starving college student um but what</p>
+<p begin="00:01:22.770" end="00:01:25.710" style="s2">I really want to<span style="s3"> take</span><span style="s4"> away from what</span></p>
+<p begin="00:01:24.150" end="00:01:28.080" style="s2">I&#39;ve learned<span style="s3"> from</span> shy hack night<span style="s4"> and</span></p>
+<p begin="00:01:25.710" end="00:01:29.759" style="s2">being here is that<span style="s3"> only</span> in Civic tech</p>
+<p begin="00:01:28.080" end="00:01:31.470" style="s2">are you<span style="s3"> gonna</span><span style="s4"> find</span> a space where it</p>
+<p begin="00:01:29.759" end="00:01:32.820" style="s2"><span style="s4">doesn&#39;t</span> matter where you<span style="s3"> come</span><span style="s4"> from</span> it</p>
+<p begin="00:01:31.470" end="00:01:36.180" style="s2">doesn&#39;t matter with your teacher a</p>
+<p begin="00:01:32.820" end="00:01:37.799" style="s2">student nonprofit developer anyone you</p>
+<p begin="00:01:36.180" end="00:01:40.470" style="s2"><span style="s3">have</span> a right to be here and contribute</p>
+<p begin="00:01:37.799" end="00:01:42.869" style="s2">because this era of the hooded hacker is</p>
+<p begin="00:01:40.470" end="00:01:45.930" style="s2">completely gone and I never really liked</p>
+<p begin="00:01:42.869" end="00:01:48.360" style="s2"><span style="s4">envision</span> that until I came here it was</p>
+<p begin="00:01:45.930" end="00:01:50.700" style="s2"><span style="s3">just</span> really<span style="s3"> cool</span> that everyone<span style="s3"> comes</span></p>
+<p begin="00:01:48.360" end="00:01:51.810" style="s2">here to build with<span style="s4"> the</span> community for<span style="s3"> the</span></p>
+<p begin="00:01:50.700" end="00:01:53.729" style="s2">community<span style="s3"> and</span> that&#39;s something that&#39;s</p>
+<p begin="00:01:51.810" end="00:01:57.000" style="s2">never been done before<span style="s3"> and</span> that is why i</p>
+<p begin="00:01:53.729" end="00:02:00.329" style="s2"><span style="s4">love</span> Civic tech um but<span style="s3"> there is there is</span></p>
+<p begin="00:01:57.000" end="00:02:01.950" style="s2">still work to be done within Civic tech</p>
+<p begin="00:02:00.329" end="00:02:03.630" style="s2">there&#39;s a lot of digital fragmentation</p>
+<p begin="00:02:01.950" end="00:02:05.700" style="s2">just because a lot of people are working</p>
+<p begin="00:02:03.630" end="00:02:07.560" style="s2">on<span style="s3"> the</span> same project and so what</p>
+<p begin="00:02:05.700" end="00:02:09.840" style="s2">Microsoft and a lot of<span style="s3"> other</span> people hope</p>
+<p begin="00:02:07.560" end="00:02:11.550" style="s2">to do is provide a ton of resources um</p>
+<p begin="00:02:09.840" end="00:02:13.830" style="s2">so I&#39;m going to<span style="s3"> go</span> through<span style="s3"> a</span> quick list</p>
+<p begin="00:02:11.550" end="00:02:16.590" style="s2">of resources<span style="s3"> that</span> we provide for<span style="s4"> free</span></p>
+<p begin="00:02:13.830" end="00:02:18.120" style="s2">cuz I&#39;m not<span style="s4"> a</span> corporate shill um and</p>
+<p begin="00:02:16.590" end="00:02:19.890" style="s2">yeah you can talk to me afterward and</p>
+<p begin="00:02:18.120" end="00:02:21.720" style="s2">we&#39;ll have<span style="s3"> a</span> conversation some of you</p>
+<p begin="00:02:19.890" end="00:02:23.520" style="s2">have met Adam but I would love<span style="s4"> to</span> talk</p>
+<p begin="00:02:21.720" end="00:02:27.810" style="s2">to<span style="s3"> you</span> and just see how we could help um</p>
+<p begin="00:02:23.520" end="00:02:29.940" style="s2">so let&#39;s go<span style="s3"> through</span> all this Asher we</p>
+<p begin="00:02:27.810" end="00:02:32.340" style="s2">give<span style="s3"> you</span> free tools<span style="s3"> just</span> play around</p>
+<p begin="00:02:29.940" end="00:02:34.890" style="s2">with micros<span style="s3"> Microsoft Azure the cloud</span></p>
+<p begin="00:02:32.340" end="00:02:37.500" style="s2">computing<span style="s3"> platform</span> so yeah super awesome</p>
+<p begin="00:02:34.890" end="00:02:38.820" style="s2">what else do we have bits park if you</p>
+<p begin="00:02:37.500" end="00:02:40.410" style="s2">guys are interested in starting your own</p>
+<p begin="00:02:38.820" end="00:02:42.270" style="s2">startup it&#39;s three years<span style="s4"> of</span> just like</p>
+<p begin="00:02:40.410" end="00:02:44.970" style="s2"><span style="s3">two</span> million dollars worth of<span style="s4"> startup</span></p>
+<p begin="00:02:42.270" end="00:02:46.440" style="s2">software so super awesome as<span style="s3"> well</span> as</p>
+<p begin="00:02:44.970" end="00:02:48.540" style="s2">digital literacy and development for</p>
+<p begin="00:02:46.440" end="00:02:50.970" style="s2">those of you with nonprofits and certain</p>
+<p begin="00:02:48.540" end="00:02:54.720" style="s2">educational programs this is a free</p>
+<p begin="00:02:50.970" end="00:02:56.190" style="s2">curriculum that online finally are not</p>
+<p begin="00:02:54.720" end="00:02:58.020" style="s2">fine I&#39;m sorry we have product donations</p>
+<p begin="00:02:56.190" end="00:02:59.730" style="s2">for nonprofits you can get in touch with</p>
+<p begin="00:02:58.020" end="00:03:02.580" style="s2">me but you know<span style="s3"> Microsoft Office cloud</span></p>
+<p begin="00:02:59.730" end="00:03:05.459" style="s2">36 office 365<span style="s4"> a</span> lot of stuff good there</p>
+<p begin="00:03:02.580" end="00:03:08.490" style="s2">and finally we have service<span style="s3"> loans</span> so</p>
+<p begin="00:03:05.459" end="00:03:09.959" style="s2">that was a lot but yeah I<span style="s3"> would</span> really</p>
+<p begin="00:03:08.490" end="00:03:12.480" style="s2">like to say thank you to this community</p>
+<p begin="00:03:09.959" end="00:03:14.400" style="s2">it&#39;s been wonderful to be a part of it</p>
+<p begin="00:03:12.480" end="00:03:17.209" style="s2"><span style="s3">and</span> I hope<span style="s4"> we</span> can get to know<span style="s4"> each</span> other</p>
+<p begin="00:03:14.400" end="00:03:17.209" style="s2">thank you</p>
+</div>
+</body>
+</tt>

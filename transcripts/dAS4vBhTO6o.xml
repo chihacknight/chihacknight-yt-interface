@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.270" end="00:00:10.950" style="s2"><span style="s3">alright</span> ladies<span style="s4"> and</span> gentlemen of shy hack</p>
+<p begin="00:00:08.790" end="00:00:15.690" style="s2">night the moment<span style="s3"> you&#39;ve</span> been waiting for</p>
+<p begin="00:00:10.950" end="00:00:18.529" style="s2">for well nigh 14 months<span style="s4"> Chicago</span> nursing</p>
+<p begin="00:00:15.690" end="00:00:21.689" style="s2">home search the app<span style="s3"> that</span> was launched</p>
+<p begin="00:00:18.529" end="00:00:23.460" style="s2">two winters ago in a dark corner over</p>
+<p begin="00:00:21.689" end="00:00:26.640" style="s2">there in an abandoned portion of the</p>
+<p begin="00:00:23.460" end="00:00:28.140" style="s2">building is now ready<span style="s3"> to go live my</span></p>
+<p begin="00:00:26.640" end="00:00:30.000" style="s2">favorite thing about this<span style="s3"> is</span> everyone</p>
+<p begin="00:00:28.140" end="00:00:34.559" style="s2">who&#39;s never been here before is like who</p>
+<p begin="00:00:30.000" end="00:00:35.760" style="s2">is this clown<span style="s4"> all right so it started</span></p>
+<p begin="00:00:34.559" end="00:00:39.570" style="s2">out with<span style="s4"> a</span> story in The New York Times</p>
+<p begin="00:00:35.760" end="00:00:42.690" style="s2">about how the rating system used by</p>
+<p begin="00:00:39.570" end="00:00:44.219" style="s2">nursing homes was not reflective of the</p>
+<p begin="00:00:42.690" end="00:00:45.780" style="s2">reality there were homes that were rated</p>
+<p begin="00:00:44.219" end="00:00:48.899" style="s2">really well that had<span style="s4"> some</span> really</p>
+<p begin="00:00:45.780" end="00:00:51.870" style="s2">horrific problems and so it began with a</p>
+<p begin="00:00:48.899" end="00:00:53.879" style="s2">new york<span style="s3"> times</span> story and then a<span style="s4"> Ted Ted</span></p>
+<p begin="00:00:51.870" end="00:00:56.579" style="s2">is no longer here but Ted was the guy</p>
+<p begin="00:00:53.879" end="00:00:59.250" style="s2">that came up<span style="s4"> with the</span><span style="s3"> idea</span> and<span style="s4"> I</span> tagged</p>
+<p begin="00:00:56.579" end="00:01:03.690" style="s2">along a few<span style="s4"> weeks</span> later and we got this</p>
+<p begin="00:00:59.250" end="00:01:06.540" style="s2">thing going so then our objective was to</p>
+<p begin="00:01:03.690" end="00:01:09.119" style="s2">create a better rating system so we</p>
+<p begin="00:01:06.540" end="00:01:11.880" style="s2"><span style="s3">built</span> a really<span style="s4"> complicated</span> web site with</p>
+<p begin="00:01:09.119" end="00:01:16.110" style="s2">the back end and a lot of took a whole</p>
+<p begin="00:01:11.880" end="00:01:18.869" style="s2">lot of<span style="s4"> work to do</span><span style="s3"> anything but we it</span></p>
+<p begin="00:01:16.110" end="00:01:21.270" style="s2">didn&#39;t really<span style="s3"> take</span> off so after<span style="s3"> a</span> couple</p>
+<p begin="00:01:18.869" end="00:01:24.270" style="s2">months one person<span style="s4"> another</span> person it</p>
+<p begin="00:01:21.270" end="00:01:29.970" style="s2">moved on<span style="s4"> to</span> other things and the a team</p>
+<p begin="00:01:24.270" end="00:01:32.130" style="s2">disbanded so b-list guy<span style="s3"> I</span> took<span style="s4"> a</span> long</p>
+<p begin="00:01:29.970" end="00:01:36.060" style="s2">weekend and actually used the system</p>
+<p begin="00:01:32.130" end="00:01:37.979" style="s2">developed by Derek to just throw up a</p>
+<p begin="00:01:36.060" end="00:01:39.600" style="s2">quick map that displayed the ratings of</p>
+<p begin="00:01:37.979" end="00:01:43.130" style="s2">nursing homes all really already</p>
+<p begin="00:01:39.600" end="00:01:45.299" style="s2">available on the Medicare website and</p>
+<p begin="00:01:43.130" end="00:01:47.790" style="s2">then lo and behold have people were</p>
+<p begin="00:01:45.299" end="00:01:49.890" style="s2">interested again so then we got a second</p>
+<p begin="00:01:47.790" end="00:01:53.490" style="s2">wind and then we built a site with no</p>
+<p begin="00:01:49.890" end="00:01:55.590" style="s2">back end because the all the work we</p>
+<p begin="00:01:53.490" end="00:01:57.000" style="s2"><span style="s3">were</span> putting into the database I was</p>
+<p begin="00:01:55.590" end="00:01:58.560" style="s2">really distracting and it was hard to</p>
+<p begin="00:01:57.000" end="00:02:01.229" style="s2"><span style="s3">find</span> a database person who would</p>
+<p begin="00:01:58.560" end="00:02:02.990" style="s2">consistently volunteer so we just built</p>
+<p begin="00:02:01.229" end="00:02:07.409" style="s2">the<span style="s4"> site</span> that pulls data directly from</p>
+<p begin="00:02:02.990" end="00:02:09.590" style="s2">dayton<span style="s4"> medicare</span> gov and you can too and</p>
+<p begin="00:02:07.409" end="00:02:13.349" style="s2">I can teach you how</p>
+<p begin="00:02:09.590" end="00:02:16.319" style="s2">so where do we what&#39;s out there right we</p>
+<p begin="00:02:13.349" end="00:02:21.239" style="s2">have dated medicare.gov Oh what have I</p>
+<p begin="00:02:16.319" end="00:02:26.400" style="s2">done how&#39;s the mouse work here we go so</p>
+<p begin="00:02:21.239" end="00:02:35.129" style="s2">they have Nursing Home compare she plug</p>
+<p begin="00:02:26.400" end="00:02:38.730" style="s2">in your zip code go in there<span style="s3"> and it</span></p>
+<p begin="00:02:35.129" end="00:02:42.299" style="s2">gives you this which is a list of</p>
+<p begin="00:02:38.730" end="00:02:44.489" style="s2">nursing homes and<span style="s3"> five-star</span> ratings on</p>
+<p begin="00:02:42.299" end="00:02:46.620" style="s2">several different categories and there&#39;s</p>
+<p begin="00:02:44.489" end="00:02:51.079" style="s2">a lot of<span style="s4"> good</span> info here but you can&#39;t</p>
+<p begin="00:02:46.620" end="00:02:53.189" style="s2">really<span style="s4"> see</span> a bigger picture also there&#39;s</p>
+<p begin="00:02:51.079" end="00:02:54.930" style="s2">it doesn&#39;t give you<span style="s3"> much</span> an</p>
+<p begin="00:02:53.189" end="00:02:57.540" style="s2">understanding of what&#39;s going on so if</p>
+<p begin="00:02:54.930" end="00:02:59.010" style="s2">you go to<span style="s4"> the</span> map view they created it</p>
+<p begin="00:02:57.540" end="00:03:03.480" style="s2">gives you just a little handful of</p>
+<p begin="00:02:59.010" end="00:03:05.129" style="s2">nursing homes and you have to click into</p>
+<p begin="00:03:03.480" end="00:03:08.730" style="s2">each one to see what&#39;s which one&#39;s</p>
+<p begin="00:03:05.129" end="00:03:09.900" style="s2">better than the others so anyway<span style="s4"> I&#39;m not</span></p>
+<p begin="00:03:08.730" end="00:03:12.900" style="s2"><span style="s3">going</span> to show it because that<span style="s4"> goes</span></p>
+<p begin="00:03:09.900" end="00:03:15.419" style="s2">terribly wrong but there<span style="s4"> is</span> a<span style="s4"> cow</span></p>
+<p begin="00:03:12.900" end="00:03:17.280" style="s2">quality care group so they have a very</p>
+<p begin="00:03:15.419" end="00:03:19.319" style="s2">in-depth app with it has a<span style="s4"> better</span> rating</p>
+<p begin="00:03:17.280" end="00:03:21.269" style="s2">system<span style="s4"> and</span> it gives you a visual of all</p>
+<p begin="00:03:19.319" end="00:03:25.260" style="s2">the nursing homes in your general area</p>
+<p begin="00:03:21.269" end="00:03:27.810" style="s2">in California and it only cost them a</p>
+<p begin="00:03:25.260" end="00:03:29.489" style="s2">million<span style="s3"> and</span> a half dollars a year our</p>
+<p begin="00:03:27.810" end="00:03:32.669" style="s2">budget being significantly less than</p>
+<p begin="00:03:29.489" end="00:03:38.699" style="s2"><span style="s3">that</span> we created instead this<span style="s4"> I</span> am going</p>
+<p begin="00:03:32.669" end="00:03:44.639" style="s2"><span style="s4">to</span> click on it it&#39;s alive thank you</p>
+<p begin="00:03:38.699" end="00:03:46.919" style="s2"><span style="s4">thank</span> you so well our<span style="s4"> initial</span> plan was</p>
+<p begin="00:03:44.639" end="00:03:49.979" style="s2">focused on the ratings but what we saw</p>
+<p begin="00:03:46.919" end="00:03:52.500" style="s2">when you<span style="s4"> put</span> it<span style="s4"> on</span> a map is that there&#39;s</p>
+<p begin="00:03:49.979" end="00:03:54.419" style="s2">a lot<span style="s3"> of</span> red right so the red dots</p>
+<p begin="00:03:52.500" end="00:03:57.239" style="s2">represent nursing homes with<span style="s3"> the</span> lowest</p>
+<p begin="00:03:54.419" end="00:03:59.549" style="s2">possible rating from<span style="s4"> Medicare</span> and the</p>
+<p begin="00:03:57.239" end="00:04:00.989" style="s2">green dots are<span style="s4"> the</span> highest and you&#39;ll</p>
+<p begin="00:03:59.549" end="00:04:03.000" style="s2">notice<span style="s4"> there</span> are some really high</p>
+<p begin="00:04:00.989" end="00:04:04.109" style="s2">concentrations right there right and</p>
+<p begin="00:04:03.000" end="00:04:08.310" style="s2">what&#39;s going on<span style="s3"> with</span> some of these</p>
+<p begin="00:04:04.109" end="00:04:12.959" style="s2"><span style="s4">places</span> so if you<span style="s4"> click</span> on<span style="s3"> one</span> let&#39;s pick</p>
+<p begin="00:04:08.310" end="00:04:15.069" style="s2">a bad one there we go you get this</p>
+<p begin="00:04:12.959" end="00:04:18.639" style="s2"><span style="s4">little</span> data card that shows you is</p>
+<p begin="00:04:15.069" end="00:04:20.199" style="s2">one their bed on when the state comes to</p>
+<p begin="00:04:18.639" end="00:04:21.940" style="s2">inspect they have a lot<span style="s3"> of</span> problems</p>
+<p begin="00:04:20.199" end="00:04:24.910" style="s2">their staffing is low in their nursing</p>
+<p begin="00:04:21.940" end="00:04:28.120" style="s2">level is low and then recently<span style="s4"> we</span> have</p>
+<p begin="00:04:24.910" end="00:04:30.490" style="s2"><span style="s3">added</span> a whole new detail<span style="s4"> view</span> so you can</p>
+<p begin="00:04:28.120" end="00:04:32.169" style="s2"><span style="s4">see</span> all<span style="s4"> kinds</span> of<span style="s4"> stuff</span> about this place</p>
+<p begin="00:04:30.490" end="00:04:34.470" style="s2"><span style="s4">and</span> we&#39;ll talk<span style="s4"> about some more</span> of<span style="s4"> these</span></p>
+<p begin="00:04:32.169" end="00:04:37.389" style="s2">issues<span style="s4"> later</span> but are they administering</p>
+<p begin="00:04:34.470" end="00:04:39.759" style="s2">antipsychotic medications to residents</p>
+<p begin="00:04:37.389" end="00:04:41.139" style="s2">who don&#39;t need antipsychotic medications</p>
+<p begin="00:04:39.759" end="00:04:44.889" style="s2">residents who are<span style="s3"> just</span> having a<span style="s3"> hard</span></p>
+<p begin="00:04:41.139" end="00:04:46.930" style="s2">time or they&#39;re excited we have</p>
+<p begin="00:04:44.889" end="00:04:48.220" style="s2">explanations for all the ratings<span style="s4"> and</span></p>
+<p begin="00:04:46.930" end="00:04:51.310" style="s2"><span style="s4">this</span> stuff I pulled directly from</p>
+<p begin="00:04:48.220" end="00:04:53.199" style="s2">Medicare so again team no<span style="s3"> back-end</span> right</p>
+<p begin="00:04:51.310" end="00:04:54.699" style="s2">we got the<span style="s4"> information</span> about<span style="s4"> the</span> owners</p>
+<p begin="00:04:53.199" end="00:04:56.440" style="s2"><span style="s3">and</span> we&#39;ve got all their latest</p>
+<p begin="00:04:54.699" end="00:05:00.340" style="s2">deficiencies which is pulled directly</p>
+<p begin="00:04:56.440" end="00:05:01.780" style="s2">from Medicare can I just jump in here to</p>
+<p begin="00:05:00.340" end="00:05:04.150" style="s2">talk about why they use antipsychotics</p>
+<p begin="00:05:01.780" end="00:05:07.720" style="s2">it&#39;s because physical restraints are now</p>
+<p begin="00:05:04.150" end="00:05:08.740" style="s2">mostly illegal so places that use see</p>
+<p begin="00:05:07.720" end="00:05:10.509" style="s2">this is another metric that gets a</p>
+<p begin="00:05:08.740" end="00:05:12.039" style="s2">little tricky but often a heavy use of</p>
+<p begin="00:05:10.509" end="00:05:13.539" style="s2">antipsychotic medication can be</p>
+<p begin="00:05:12.039" end="00:05:16.419" style="s2">indicative of what they call a chemical</p>
+<p begin="00:05:13.539" end="00:05:18.729" style="s2">restraint but some facilities have large</p>
+<p begin="00:05:16.419" end="00:05:20.289" style="s2">like Jerry psychiatric patients when</p>
+<p begin="00:05:18.729" end="00:05:23.400" style="s2">they might be using<span style="s4"> this</span> for the right</p>
+<p begin="00:05:20.289" end="00:05:27.190" style="s2">reasons so anyway yeah it&#39;s<span style="s4"> a good point</span></p>
+<p begin="00:05:23.400" end="00:05:28.570" style="s2">so two point oh we may talk about later</p>
+<p begin="00:05:27.190" end="00:05:32.020" style="s2">but I&#39;m<span style="s4"> going to keep</span><span style="s3"> coming</span> to hack</p>
+<p begin="00:05:28.570" end="00:05:32.949" style="s2">night you can&#39;t get rid of me<span style="s3"> so</span> don&#39;t</p>
+<p begin="00:05:32.020" end="00:05:34.509" style="s2">talk<span style="s4"> a</span> little bit about the situation</p>
+<p begin="00:05:32.949" end="00:05:36.570" style="s2">before I hand it over to someone who</p>
+<p begin="00:05:34.509" end="00:05:38.860" style="s2">actually knows something about this</p>
+<p begin="00:05:36.570" end="00:05:40.300" style="s2"><span style="s3">Illinois</span> ranks near the bottom nation</p>
+<p begin="00:05:38.860" end="00:05:43.570" style="s2">nationally for nursing home quality</p>
+<p begin="00:05:40.300" end="00:05:45.389" style="s2">we&#39;re 44 out of 50 at least<span style="s3"> according</span> to</p>
+<p begin="00:05:43.570" end="00:05:48.190" style="s2">this one group families for better care</p>
+<p begin="00:05:45.389" end="00:05:50.680" style="s2">and so some of the<span style="s3"> things</span> they talked</p>
+<p begin="00:05:48.190" end="00:05:53.440" style="s2">about where the what they believe may be</p>
+<p begin="00:05:50.680" end="00:05:56.130" style="s2">excessive use of strong medications a</p>
+<p begin="00:05:53.440" end="00:05:59.560" style="s2">lot<span style="s4"> of</span> these places<span style="s4"> are</span> understaffed and</p>
+<p begin="00:05:56.130" end="00:06:01.990" style="s2">they find deficiencies commonly which</p>
+<p begin="00:05:59.560" end="00:06:06.150" style="s2">can be like a fire code violation or a</p>
+<p begin="00:06:01.990" end="00:06:08.919" style="s2">health inspection violation so back in</p>
+<p begin="00:06:06.150" end="00:06:11.949" style="s2">2009-2010 Chicago Tribune did a really</p>
+<p begin="00:06:08.919" end="00:06:15.389" style="s2">fascinating series on all the problems</p>
+<p begin="00:06:11.949" end="00:06:18.849" style="s2">with nursing homes they found that<span style="s4"> in</span></p>
+<p begin="00:06:15.389" end="00:06:22.479" style="s2">2006 the state had stopped keeping up</p>
+<p begin="00:06:18.849" end="00:06:23.740" style="s2">with like I think criminal background</p>
+<p begin="00:06:22.479" end="00:06:25.690" style="s2">checks are like whether or not there</p>
+<p begin="00:06:23.740" end="00:06:28.980" style="s2">were registered sex offenders in<span style="s3"> the</span></p>
+<p begin="00:06:25.690" end="00:06:30.440" style="s2">nursing homes coupled with<span style="s4"> the closing</span></p>
+<p begin="00:06:28.980" end="00:06:36.720" style="s2">a lot of mental<span style="s3"> health</span> facilities</p>
+<p begin="00:06:30.440" end="00:06:38.070" style="s2">younger<span style="s3"> people</span> who have I mean they</p>
+<p begin="00:06:36.720" end="00:06:39.690" style="s2"><span style="s4">could</span> be quite strong but they have a</p>
+<p begin="00:06:38.070" end="00:06:41.850" style="s2">mental health problem or something<span style="s3"> like</span></p>
+<p begin="00:06:39.690" end="00:06:43.830" style="s2">that also ended up in nursing homes with</p>
+<p begin="00:06:41.850" end="00:06:44.970" style="s2">people who are not so strong which by</p>
+<p begin="00:06:43.830" end="00:06:48.450" style="s2">itself can create a very dangerous</p>
+<p begin="00:06:44.970" end="00:06:50.280" style="s2">situation and you found<span style="s4"> a</span> variety of</p>
+<p begin="00:06:48.450" end="00:06:52.740" style="s2">other issues but I&#39;m<span style="s4"> sticking</span> to my time</p>
+<p begin="00:06:50.280" end="00:06:54.690" style="s2">so this link is live and<span style="s3"> I</span> suggest you</p>
+<p begin="00:06:52.740" end="00:06:56.850" style="s2">go check out<span style="s3"> that</span> series so then</p>
+<p begin="00:06:54.690" end="00:06:58.650" style="s2">Governor Pat Quinn and the state</p>
+<p begin="00:06:56.850" end="00:07:00.060" style="s2">legislature decided they wanted to<span style="s4"> do</span></p>
+<p begin="00:06:58.650" end="00:07:02.220" style="s2">something about it so they passed the</p>
+<p begin="00:07:00.060" end="00:07:05.460" style="s2"><span style="s3">long-term</span> care reform bill which had a</p>
+<p begin="00:07:02.220" end="00:07:06.870" style="s2">lot of great stuff in there and it&#39;s my</p>
+<p begin="00:07:05.460" end="00:07:09.990" style="s2">general understanding that things are</p>
+<p begin="00:07:06.870" end="00:07:13.950" style="s2">much better since then however funding</p>
+<p begin="00:07:09.990" end="00:07:16.230" style="s2">has been<span style="s3"> a</span> huge problem it<span style="s3"> parted</span> to get</p>
+<p begin="00:07:13.950" end="00:07:18.900" style="s2">the little temporary sort of kind<span style="s4"> of</span></p>
+<p begin="00:07:16.230" end="00:07:23.160" style="s2">budget from the state they had a hundred</p>
+<p begin="00:07:18.900" end="00:07:24.450" style="s2"><span style="s4">six</span> million dollar cut from Medicaid so</p>
+<p begin="00:07:23.160" end="00:07:26.400" style="s2">you may end up<span style="s4"> in</span> a nursing home</p>
+<p begin="00:07:24.450" end="00:07:27.930" style="s2"><span style="s3">short-term</span> on Medicare but<span style="s4"> if</span> you need</p>
+<p begin="00:07:26.400" end="00:07:29.640" style="s2"><span style="s4">to</span> be there long term and<span style="s3"> you</span> don&#39;t have</p>
+<p begin="00:07:27.930" end="00:07:34.650" style="s2">much money you&#39;re going<span style="s4"> to be there on</span></p>
+<p begin="00:07:29.640" end="00:07:36.660" style="s2">Medicaid and so cut to Medicaid has a</p>
+<p begin="00:07:34.650" end="00:07:38.400" style="s2">real effect on nursing homes and it may</p>
+<p begin="00:07:36.660" end="00:07:41.280" style="s2">have an effect on the quality of life<span style="s3"> of</span></p>
+<p begin="00:07:38.400" end="00:07:44.610" style="s2">anyone who&#39;s living there and<span style="s4"> you</span> may</p>
+<p begin="00:07:41.280" end="00:07:46.050" style="s2">not think you&#39;re poor but at one hundred</p>
+<p begin="00:07:44.610" end="00:07:47.840" style="s2"><span style="s4">and ninety dollars a day your life</span></p>
+<p begin="00:07:46.050" end="00:07:52.200" style="s2">savings<span style="s4"> will</span> deplete pretty quickly and</p>
+<p begin="00:07:47.840" end="00:07:55.050" style="s2">you can<span style="s4"> find</span><span style="s3"> yourself</span> on Medicaid so now</p>
+<p begin="00:07:52.200" end="00:07:58.650" style="s2">i&#39;m<span style="s4"> going to hand it over to Jason hi</span></p>
+<p begin="00:07:55.050" end="00:07:59.880" style="s2">everybody so thanks I Joel and I&#39;ve</p>
+<p begin="00:07:58.650" end="00:08:02.550" style="s2">started showing my colleagues the</p>
+<p begin="00:07:59.880" end="00:08:04.530" style="s2">Chicago nursing home search<span style="s4"> website</span> and</p>
+<p begin="00:08:02.550" end="00:08:05.940" style="s2">it&#39;s been really really<span style="s4"> well-received</span></p>
+<p begin="00:08:04.530" end="00:08:08.340" style="s2">actually more than<span style="s4"> I</span> even thought it</p>
+<p begin="00:08:05.940" end="00:08:10.530" style="s2">would be and I<span style="s3"> think</span> part<span style="s4"> of</span> the reason</p>
+<p begin="00:08:08.340" end="00:08:11.760" style="s2">that<span style="s4"> that&#39;s</span> happening is that if you</p>
+<p begin="00:08:10.530" end="00:08:14.160" style="s2"><span style="s3">think</span> about the<span style="s4"> people</span> who are<span style="s3"> going</span><span style="s4"> to</span></p>
+<p begin="00:08:11.760" end="00:08:16.080" style="s2"><span style="s3">be</span><span style="s4"> using</span> it it&#39;s going<span style="s3"> to</span><span style="s4"> be</span> families in</p>
+<p begin="00:08:14.160" end="00:08:18.080" style="s2">crisis it&#39;s going<span style="s4"> to</span> be discharge</p>
+<p begin="00:08:16.080" end="00:08:21.330" style="s2">planners social<span style="s4"> workers</span> people<span style="s4"> like that</span></p>
+<p begin="00:08:18.080" end="00:08:22.890" style="s2">and what they need is information fast</p>
+<p begin="00:08:21.330" end="00:08:26.040" style="s2">and what I think<span style="s4"> is</span><span style="s3"> really</span> cool about</p>
+<p begin="00:08:22.890" end="00:08:27.720" style="s2"><span style="s4">the</span> the nursing home website is that<span style="s3"> I</span></p>
+<p begin="00:08:26.040" end="00:08:29.550" style="s2">don&#39;t<span style="s4"> know</span> if you showed when you did</p>
+<p begin="00:08:27.720" end="00:08:31.590" style="s2">show you when you click but you can</p>
+<p begin="00:08:29.550" end="00:08:34.110" style="s2">quickly find out what nursing homes are</p>
+<p begin="00:08:31.590" end="00:08:35.460" style="s2">in your neighborhood that five-star CMS</p>
+<p begin="00:08:34.110" end="00:08:37.140" style="s2">rating doesn&#39;t tell you everything you</p>
+<p begin="00:08:35.460" end="00:08:40.380" style="s2">need to know you<span style="s4"> still</span> need<span style="s3"> to</span> should</p>
+<p begin="00:08:37.140" end="00:08:42.000" style="s2">visit the facility but it can maybe</p>
+<p begin="00:08:40.380" end="00:08:42.860" style="s2">quickly help you<span style="s3"> identify</span> what might be</p>
+<p begin="00:08:42.000" end="00:08:44.300" style="s2">convenient</p>
+<p begin="00:08:42.860" end="00:08:46.579" style="s2">started<span style="s4"> and</span> then if you click you can</p>
+<p begin="00:08:44.300" end="00:08:47.990" style="s2">see a<span style="s4"> tremendous</span> amount of detail but</p>
+<p begin="00:08:46.579" end="00:08:49.970" style="s2">it&#39;s fairly well-organized and that&#39;s</p>
+<p begin="00:08:47.990" end="00:08:52.640" style="s2">detail that I it<span style="s4"> is</span> available through</p>
+<p begin="00:08:49.970" end="00:08:55.040" style="s2">CMS but I think it&#39;s hard to get<span style="s3"> short</span></p>
+<p begin="00:08:52.640" end="00:08:57.079" style="s2">of downloading CSV files and starting<span style="s4"> to</span></p>
+<p begin="00:08:55.040" end="00:08:59.329" style="s2">dig around in there which families are</p>
+<p begin="00:08:57.079" end="00:09:01.910" style="s2">not going to be doing so I&#39;m really</p>
+<p begin="00:08:59.329" end="00:09:04.390" style="s2"><span style="s4">optimistic</span> about this and I&#39;m going to</p>
+<p begin="00:09:01.910" end="00:09:06.470" style="s2">talk a little bit more<span style="s4"> about the project</span></p>
+<p begin="00:09:04.390" end="00:09:09.170" style="s2">or start talking<span style="s4"> about</span> the project that</p>
+<p begin="00:09:06.470" end="00:09:11.089" style="s2">we&#39;re currently kicking off it&#39;s our</p>
+<p begin="00:09:09.170" end="00:09:13.670" style="s2">first year at the<span style="s4"> University</span> of Chicago</p>
+<p begin="00:09:11.089" end="00:09:16.700" style="s2">using some federal funding to address</p>
+<p begin="00:09:13.670" end="00:09:18.320" style="s2">older adult health at a population level</p>
+<p begin="00:09:16.700" end="00:09:20.930" style="s2">specifically on the south side of</p>
+<p begin="00:09:18.320" end="00:09:23.500" style="s2">Chicago so I think pretty<span style="s4"> much</span> everybody</p>
+<p begin="00:09:20.930" end="00:09:27.260" style="s2">has at least some familiarity with the</p>
+<p begin="00:09:23.500" end="00:09:29.600" style="s2"><span style="s4">changing</span> age-related<span style="s4"> demographics</span> in the</p>
+<p begin="00:09:27.260" end="00:09:33.200" style="s2">United<span style="s4"> States</span> there&#39;s lots<span style="s4"> of</span><span style="s3"> different</span></p>
+<p begin="00:09:29.600" end="00:09:35.510" style="s2"><span style="s4">ways</span> to<span style="s3"> show</span> with data and anecdote but</p>
+<p begin="00:09:33.200" end="00:09:38.720" style="s2">this chart here<span style="s4"> basically</span> the red line</p>
+<p begin="00:09:35.510" end="00:09:40.550" style="s2">is the 65 plus population and then I put</p>
+<p begin="00:09:38.720" end="00:09:43.399" style="s2">Florida right at the twenty<span style="s3"> percent</span> mark</p>
+<p begin="00:09:40.550" end="00:09:45.740" style="s2">because Florida&#39;s 65 plus population</p>
+<p begin="00:09:43.399" end="00:09:48.260" style="s2">right now is it about twenty<span style="s3"> percent</span> so</p>
+<p begin="00:09:45.740" end="00:09:50.720" style="s2">by the year twenty thirty to twenty</p>
+<p begin="00:09:48.260" end="00:09:52.790" style="s2">thirty five the entire United States</p>
+<p begin="00:09:50.720" end="00:09:54.709" style="s2">population demographically<span style="s4"> speaking</span></p>
+<p begin="00:09:52.790" end="00:09:56.600" style="s2">broken down by age is<span style="s3"> going</span> to look like</p>
+<p begin="00:09:54.709" end="00:10:01.399" style="s2">Florida does now if you&#39;ve ever been</p>
+<p begin="00:09:56.600" end="00:10:04.190" style="s2">there so yeah it&#39;s our society is going</p>
+<p begin="00:10:01.399" end="00:10:05.779" style="s2">to transform<span style="s4"> radically</span> I hope for<span style="s3"> the</span></p>
+<p begin="00:10:04.190" end="00:10:09.290" style="s2">better at least<span style="s4"> in</span> a way that&#39;s more</p>
+<p begin="00:10:05.779" end="00:10:10.940" style="s2">accommodating but my feeling is that the</p>
+<p begin="00:10:09.290" end="00:10:12.709" style="s2">baby boomer generation that&#39;s coming is</p>
+<p begin="00:10:10.940" end="00:10:15.860" style="s2">going to transform<span style="s4"> health</span> care</p>
+<p begin="00:10:12.709" end="00:10:18.829" style="s2">retirement community in the way that</p>
+<p begin="00:10:15.860" end="00:10:20.300" style="s2">it&#39;s transformed education and civic</p>
+<p begin="00:10:18.829" end="00:10:23.600" style="s2">activism and things like that in the</p>
+<p begin="00:10:20.300" end="00:10:25.540" style="s2">past so<span style="s3"> we</span> do<span style="s3"> have</span> a big problem though</p>
+<p begin="00:10:23.600" end="00:10:27.769" style="s2">that our<span style="s3"> healthcare</span><span style="s4"> workforce</span> is</p>
+<p begin="00:10:25.540" end="00:10:30.649" style="s2">woefully unprepared for the current</p>
+<p begin="00:10:27.769" end="00:10:32.990" style="s2">older adult population much less than</p>
+<p begin="00:10:30.649" end="00:10:34.130" style="s2">one that&#39;s coming and the profession</p>
+<p begin="00:10:32.990" end="00:10:36.320" style="s2">that I&#39;m going<span style="s4"> to focus a little bit</span></p>
+<p begin="00:10:34.130" end="00:10:38.870" style="s2">about on<span style="s4"> this</span> talk is geriatricians</p>
+<p begin="00:10:36.320" end="00:10:41.449" style="s2">these are MDS who have done a one to</p>
+<p begin="00:10:38.870" end="00:10:43.250" style="s2">two-year fellowship following their</p>
+<p begin="00:10:41.449" end="00:10:44.570" style="s2">residency and who have specialized</p>
+<p begin="00:10:43.250" end="00:10:50.720" style="s2">training and how to care for older</p>
+<p begin="00:10:44.570" end="00:10:53.060" style="s2">adults right now there&#39;s about 40 for</p>
+<p begin="00:10:50.720" end="00:10:56.260" style="s2">what is it<span style="s3"> 4700</span> geriatricians the United</p>
+<p begin="00:10:53.060" end="00:10:58.850" style="s2">States<span style="s4"> and</span> we have 155 and trained</p>
+<p begin="00:10:56.260" end="00:11:02.510" style="s2">that&#39;s to take care<span style="s4"> of a population of</span></p>
+<p begin="00:10:58.850" end="00:11:05.240" style="s2">46 million and it&#39;s actually falling</p>
+<p begin="00:11:02.510" end="00:11:07.279" style="s2">rather steeply so what my project is</p>
+<p begin="00:11:05.240" end="00:11:11.060" style="s2">trying to do is<span style="s4"> to</span> take the specialized</p>
+<p begin="00:11:07.279" end="00:11:14.710" style="s2">knowledge that these folks<span style="s4"> have</span> and use</p>
+<p begin="00:11:11.060" end="00:11:16.790" style="s2">that to educate the entire health care</p>
+<p begin="00:11:14.710" end="00:11:18.890" style="s2">primary particularly primary care</p>
+<p begin="00:11:16.790" end="00:11:22.279" style="s2">workforce on<span style="s3"> the</span> south side of Chicago</p>
+<p begin="00:11:18.890" end="00:11:24.350" style="s2">and just a couple of<span style="s4"> their</span> stats here</p>
+<p begin="00:11:22.279" end="00:11:25.910" style="s2">there&#39;s very little training for regular</p>
+<p begin="00:11:24.350" end="00:11:27.710" style="s2">MDS I mean they get about nine and a</p>
+<p begin="00:11:25.910" end="00:11:29.630" style="s2">half hours throughout the entire<span style="s4"> course</span></p>
+<p begin="00:11:27.710" end="00:11:32.450" style="s2">of their medical education in working</p>
+<p begin="00:11:29.630" end="00:11:33.770" style="s2">with with older adults<span style="s4"> it&#39;s</span> problem is</p>
+<p begin="00:11:32.450" end="00:11:35.450" style="s2">systemic it goes all the way down<span style="s3"> to</span></p>
+<p begin="00:11:33.770" end="00:11:36.830" style="s2">like clinical trials for example</p>
+<p begin="00:11:35.450" end="00:11:38.870" style="s2">typically don&#39;t include older adults in</p>
+<p begin="00:11:36.830" end="00:11:44.720" style="s2">the<span style="s3"> sample</span> size so it&#39;s a siege problem</p>
+<p begin="00:11:38.870" end="00:11:46.070" style="s2">but um anyway<span style="s4"> okay</span> so I wanted<span style="s4"> to</span> look a</p>
+<p begin="00:11:44.720" end="00:11:49.430" style="s2">little<span style="s4"> bit</span> closer here at the<span style="s3"> southside</span></p>
+<p begin="00:11:46.070" end="00:11:52.580" style="s2">population because there are sort of</p>
+<p begin="00:11:49.430" end="00:11:54.110" style="s2">specific set of circumstances peep there</p>
+<p begin="00:11:52.580" end="00:11:57.880" style="s2">are more older adults on the<span style="s3"> southside</span></p>
+<p begin="00:11:54.110" end="00:12:00.320" style="s2">tend to have less access<span style="s4"> to</span><span style="s3"> health care</span></p>
+<p begin="00:11:57.880" end="00:12:02.720" style="s2">there are more living at poverty and</p>
+<p begin="00:12:00.320" end="00:12:03.980" style="s2">actually as an example of the metric</p>
+<p begin="00:12:02.720" end="00:12:05.480" style="s2">that illustrates the lower access to</p>
+<p begin="00:12:03.980" end="00:12:08.029" style="s2"><span style="s3">health care we&#39;ve got half as many</span></p>
+<p begin="00:12:05.480" end="00:12:12.200" style="s2">primary care providers per 1,000</p>
+<p begin="00:12:08.029" end="00:12:13.970" style="s2">residents<span style="s4"> underinsured</span> and so on now</p>
+<p begin="00:12:12.200" end="00:12:16.459" style="s2">that<span style="s4"> being</span> said<span style="s4"> the</span> community offers</p>
+<p begin="00:12:13.970" end="00:12:19.730" style="s2">tremendous assets for sort of getting</p>
+<p begin="00:12:16.459" end="00:12:22.070" style="s2">information out there robust tight</p>
+<p begin="00:12:19.730" end="00:12:25.550" style="s2">family networks communities of faith</p>
+<p begin="00:12:22.070" end="00:12:28.850" style="s2">block clubs and so on and so that&#39;s why</p>
+<p begin="00:12:25.550" end="00:12:32.120" style="s2">we<span style="s4"> took</span> the approach that we did which</p>
+<p begin="00:12:28.850" end="00:12:34.010" style="s2">was to network with both community-based</p>
+<p begin="00:12:32.120" end="00:12:35.720" style="s2">organizations and sort<span style="s4"> of</span></p>
+<p begin="00:12:34.010" end="00:12:39.680" style="s2">community-based health organizations and</p>
+<p begin="00:12:35.720" end="00:12:41.029" style="s2">long-term care<span style="s3"> Symphony</span> post-acute</p>
+<p begin="00:12:39.680" end="00:12:43.370" style="s2">network is a partner<span style="s3"> of</span> ours and</p>
+<p begin="00:12:41.029" end="00:12:45.050" style="s2"><span style="s4">actually</span><span style="s3"> you</span> can see the<span style="s4"> S</span> is there they</p>
+<p begin="00:12:43.370" end="00:12:47.480" style="s2">have<span style="s4"> something</span> like<span style="s3"> 20</span> facilities across</p>
+<p begin="00:12:45.050" end="00:12:50.510" style="s2">Chicago but those are just<span style="s4"> the</span> ones that</p>
+<p begin="00:12:47.480" end="00:12:52.850" style="s2">we&#39;re<span style="s3"> working</span> for<span style="s4"> in terms of educating</span></p>
+<p begin="00:12:50.510" end="00:12:58.400" style="s2">the long-term care workforce in</p>
+<p begin="00:12:52.850" end="00:13:02.570" style="s2">geriatric best practices basically let</p>
+<p begin="00:12:58.400" end="00:13:05.180" style="s2">go here for it a little bit fun a<span style="s4"> lot</span></p>
+<p begin="00:13:02.570" end="00:13:07.910" style="s2">about<span style="s4"> how</span> to organize this just to sort</p>
+<p begin="00:13:05.180" end="00:13:08.870" style="s2"><span style="s4">of</span> we have like a many many initiatives</p>
+<p begin="00:13:07.910" end="00:13:12.200" style="s2">kind of go</p>
+<p begin="00:13:08.870" end="00:13:13.670" style="s2">on this share<span style="s3"> Network</span> umbrella but<span style="s3"> I</span></p>
+<p begin="00:13:12.200" end="00:13:15.830" style="s2">broke<span style="s3"> it</span> down here by<span style="s3"> the</span> folks that</p>
+<p begin="00:13:13.670" end="00:13:19.460" style="s2">we&#39;re<span style="s3"> trying</span> to educate but really the</p>
+<p begin="00:13:15.830" end="00:13:21.380" style="s2">two main arms are working to educate the</p>
+<p begin="00:13:19.460" end="00:13:23.570" style="s2">medical workforce again in geriatric</p>
+<p begin="00:13:21.380" end="00:13:26.150" style="s2">best practices and also working to</p>
+<p begin="00:13:23.570" end="00:13:31.670" style="s2">educate older adults themselves families</p>
+<p begin="00:13:26.150" end="00:13:34.910" style="s2">caregivers in in their own health<span style="s3"> and</span></p>
+<p begin="00:13:31.670" end="00:13:37.040" style="s2">health literacy so we do a lot we do</p>
+<p begin="00:13:34.910" end="00:13:38.779" style="s2">like<span style="s3"> three to five</span> I have up<span style="s3"> there</span></p>
+<p begin="00:13:37.040" end="00:13:42.260" style="s2">events per month across the south side</p>
+<p begin="00:13:38.779" end="00:13:45.560" style="s2">and a lot within the traditional medical</p>
+<p begin="00:13:42.260" end="00:13:46.910" style="s2">training and then also given the focus</p>
+<p begin="00:13:45.560" end="00:13:48.740" style="s2">here<span style="s4"> on</span> technology i thought i<span style="s4"> would</span></p>
+<p begin="00:13:46.910" end="00:13:52.810" style="s2">talk<span style="s4"> a</span> little bit about this project</p>
+<p begin="00:13:48.740" end="00:13:57.500" style="s2">echo what you<span style="s4"> see</span> in the middle column</p>
+<p begin="00:13:52.810" end="00:13:58.730" style="s2">what this does it&#39;s actually<span style="s4"> a</span> model</p>
+<p begin="00:13:57.500" end="00:14:00.470" style="s2"><span style="s3">that</span> comes out of New Mexico where they</p>
+<p begin="00:13:58.730" end="00:14:02.690" style="s2">had a severe hepatitis outbreak that</p>
+<p begin="00:14:00.470" end="00:14:06.500" style="s2">overwhelmed all this sort of far-flung</p>
+<p begin="00:14:02.690" end="00:14:08.660" style="s2">network of family care practices and so</p>
+<p begin="00:14:06.500" end="00:14:10.040" style="s2">what they did is they switched instead</p>
+<p begin="00:14:08.660" end="00:14:11.960" style="s2">of<span style="s4"> having</span> everybody go<span style="s4"> to</span> see your</p>
+<p begin="00:14:10.040" end="00:14:13.610" style="s2">specialist like we could not possibly</p>
+<p begin="00:14:11.960" end="00:14:16.100" style="s2">sustain with all these older<span style="s4"> adults</span></p>
+<p begin="00:14:13.610" end="00:14:19.790" style="s2">coming to see<span style="s4"> that</span><span style="s3"> ten</span> geriatricians at</p>
+<p begin="00:14:16.100" end="00:14:22.040" style="s2">the<span style="s4"> University</span> of<span style="s4"> Chicago</span> we are this</p>
+<p begin="00:14:19.790" end="00:14:24.830" style="s2">video conferencing based model uses</p>
+<p begin="00:14:22.040" end="00:14:27.080" style="s2"><span style="s3">create</span><span style="s4"> sort</span> of small groups<span style="s4"> of</span> primary</p>
+<p begin="00:14:24.830" end="00:14:29.750" style="s2">care<span style="s4"> doctors</span> and what we call</p>
+<p begin="00:14:27.080" end="00:14:35.720" style="s2">interdisciplinary so<span style="s4"> nurses</span> social</p>
+<p begin="00:14:29.750" end="00:14:37.459" style="s2">workers well and so on I call<span style="s3"> it</span><span style="s4"> the</span></p>
+<p begin="00:14:35.720" end="00:14:38.959" style="s2"><span style="s4">Brady Bunch but</span><span style="s3"> basically</span> you get</p>
+<p begin="00:14:37.459" end="00:14:41.529" style="s2">everybody together in<span style="s3"> a</span> video conference</p>
+<p begin="00:14:38.959" end="00:14:44.420" style="s2">here and then instead of just a straight</p>
+<p begin="00:14:41.529" end="00:14:46.520" style="s2">medical lecture where you have to bring</p>
+<p begin="00:14:44.420" end="00:14:47.900" style="s2"><span style="s4">all</span> these<span style="s3"> people</span><span style="s4"> to</span> the University<span style="s4"> of</span></p>
+<p begin="00:14:46.520" end="00:14:50.150" style="s2">Chicago provide them with food and</p>
+<p begin="00:14:47.900" end="00:14:51.980" style="s2">parking and you know travel and a lot<span style="s4"> of</span></p>
+<p begin="00:14:50.150" end="00:14:55.040" style="s2">time out<span style="s3"> of</span> the clinic we can just do</p>
+<p begin="00:14:51.980" end="00:14:56.660" style="s2">all this<span style="s4"> sort</span> of virtually and this</p>
+<p begin="00:14:55.040" end="00:14:58.279" style="s2">model is<span style="s4"> actually</span> being used across the</p>
+<p begin="00:14:56.660" end="00:15:01.550" style="s2">city in a variety of disease areas but</p>
+<p begin="00:14:58.279" end="00:15:04.820" style="s2">now we&#39;re<span style="s3"> doing</span><span style="s4"> it</span> here in geriatrics</p>
+<p begin="00:15:01.550" end="00:15:07.130" style="s2">and what you kind of can&#39;t see here is a</p>
+<p begin="00:15:04.820" end="00:15:10.610" style="s2">case example so one of these physicians</p>
+<p begin="00:15:07.130" end="00:15:13.100" style="s2">has provided a complex case stripped of</p>
+<p begin="00:15:10.610" end="00:15:14.839" style="s2">personal health information and then the</p>
+<p begin="00:15:13.100" end="00:15:18.320" style="s2">entire<span style="s3"> group</span> will collaborate around it</p>
+<p begin="00:15:14.839" end="00:15:21.050" style="s2">and anyway it&#39;s so far it&#39;s been quite</p>
+<p begin="00:15:18.320" end="00:15:22.579" style="s2">successful but<span style="s4"> this</span> is how we<span style="s4"> kind</span> of</p>
+<p begin="00:15:21.050" end="00:15:23.869" style="s2">think of it<span style="s4"> as</span> like a force multiplier</p>
+<p begin="00:15:22.579" end="00:15:27.319" style="s2">part of the way<span style="s3"> that</span> we&#39;re trying<span style="s4"> to</span></p>
+<p begin="00:15:23.869" end="00:15:29.319" style="s2">educate an entire you know segment of</p>
+<p begin="00:15:27.319" end="00:15:34.459" style="s2">the workforce with only a handful of</p>
+<p begin="00:15:29.319" end="00:15:37.670" style="s2">providers so the last thing I&#39;d talk a</p>
+<p begin="00:15:34.459" end="00:15:41.449" style="s2">little bit about here is we have sort of</p>
+<p begin="00:15:37.670" end="00:15:43.420" style="s2">a reply leting like let&#39;s say larger</p>
+<p begin="00:15:41.449" end="00:15:46.220" style="s2">intervention is frankly not scalable</p>
+<p begin="00:15:43.420" end="00:15:48.379" style="s2">with one particular nursing home and<span style="s4"> the</span></p>
+<p begin="00:15:46.220" end="00:15:50.689" style="s2">south side this one&#39;s actually rated at</p>
+<p begin="00:15:48.379" end="00:15:52.189" style="s2">a three so about the middle<span style="s3"> of the road</span></p>
+<p begin="00:15:50.689" end="00:15:54.589" style="s2">and you know the<span style="s4"> other thing that</span> I</p>
+<p begin="00:15:52.189" end="00:15:57.199" style="s2">thought about was there<span style="s4"> there</span> at three</p>
+<p begin="00:15:54.589" end="00:16:00.709" style="s2">stars when it comes to staffing<span style="s4"> to</span> and</p>
+<p begin="00:15:57.199" end="00:16:04.009" style="s2">they are<span style="s4"> staffed</span> so lean like</p>
+<p begin="00:16:00.709" end="00:16:06.769" style="s2">unbelievable you people are working you</p>
+<p begin="00:16:04.009" end="00:16:09.619" style="s2">know at a running pace from when they</p>
+<p begin="00:16:06.769" end="00:16:10.850" style="s2">walk into when they leave we&#39;ve had to</p>
+<p begin="00:16:09.619" end="00:16:12.829" style="s2">redesign or whole curriculum because</p>
+<p begin="00:16:10.850" end="00:16:14.600" style="s2">there&#39;s people have no opportunity to</p>
+<p begin="00:16:12.829" end="00:16:16.639" style="s2"><span style="s3">participate</span><span style="s4"> in</span> any kind<span style="s4"> of</span> training even</p>
+<p begin="00:16:14.600" end="00:16:20.299" style="s2"><span style="s4">for</span> like 15 minutes<span style="s4"> the</span> way we were</p>
+<p begin="00:16:16.639" end="00:16:23.420" style="s2">doing it so if that&#39;s staffing at three</p>
+<p begin="00:16:20.299" end="00:16:27.290" style="s2">stars I&#39;m wondering<span style="s3"> what</span> staffing at one</p>
+<p begin="00:16:23.420" end="00:16:31.730" style="s2">star means I mean anyways that&#39;s a</p>
+<p begin="00:16:27.290" end="00:16:34.009" style="s2">little<span style="s3"> bit</span> scary but anyway the</p>
+<p begin="00:16:31.730" end="00:16:36.350" style="s2"><span style="s4">workforce</span> within this particular nursing</p>
+<p begin="00:16:34.009" end="00:16:41.480" style="s2">home that<span style="s3"> we&#39;re</span> working<span style="s3"> with the most is</span></p>
+<p begin="00:16:36.350" end="00:16:46.069" style="s2">the<span style="s3"> AIDS</span> the<span style="s3"> cnas</span> this place employs</p>
+<p begin="00:16:41.480" end="00:16:50.899" style="s2">around 130 of them and it&#39;s been</p>
+<p begin="00:16:46.069" end="00:16:53.169" style="s2">interesting to sort of understand how</p>
+<p begin="00:16:50.899" end="00:16:55.879" style="s2">the working conditions of the<span style="s4"> CNA</span></p>
+<p begin="00:16:53.169" end="00:16:57.169" style="s2">translate as well as<span style="s4"> they</span> do to a lot of</p>
+<p begin="00:16:55.879" end="00:16:59.839" style="s2">the quality problems that are happening</p>
+<p begin="00:16:57.169" end="00:17:02.689" style="s2">at the nursing home and frankly why they</p>
+<p begin="00:16:59.839" end="00:17:05.689" style="s2">can be so<span style="s4"> difficult</span> to reform again it&#39;s</p>
+<p begin="00:17:02.689" end="00:17:08.179" style="s2"><span style="s3">a</span> it&#39;s an extremely physical and</p>
+<p begin="00:17:05.689" end="00:17:11.750" style="s2">emotionally taxing job it pays the</p>
+<p begin="00:17:08.179" end="00:17:14.630" style="s2"><span style="s4">minimum</span><span style="s3"> wage</span> it&#39;s not a position<span style="s3"> that</span></p>
+<p begin="00:17:11.750" end="00:17:17.539" style="s2">requires technically requires 40 hours</p>
+<p begin="00:17:14.630" end="00:17:19.039" style="s2">of training frankly people<span style="s4"> are</span> doing it</p>
+<p begin="00:17:17.539" end="00:17:21.769" style="s2">with a lot<span style="s3"> less</span> maybe eight hours of</p>
+<p begin="00:17:19.039" end="00:17:23.839" style="s2">sort<span style="s4"> of</span> cursory training and yet those</p>
+<p begin="00:17:21.769" end="00:17:26.720" style="s2">aids are the ones who spend the most</p>
+<p begin="00:17:23.839" end="00:17:29.350" style="s2">time face-to-face with residents of any</p>
+<p begin="00:17:26.720" end="00:17:33.440" style="s2">medical provider in the<span style="s4"> entire</span> system</p>
+<p begin="00:17:29.350" end="00:17:36.139" style="s2">yet they have a day&#39;s training and and</p>
+<p begin="00:17:33.440" end="00:17:36.419" style="s2">they it&#39;s not<span style="s4"> a</span> generally not a culture</p>
+<p begin="00:17:36.139" end="00:17:38.850" style="s2">that&#39;s</p>
+<p begin="00:17:36.419" end="00:17:39.960" style="s2">of respects what they do so one of the</p>
+<p begin="00:17:38.850" end="00:17:41.009" style="s2">things<span style="s4"> that</span> we&#39;ve been<span style="s4"> able to do</span><span style="s3"> that</span></p>
+<p begin="00:17:39.960" end="00:17:43.830" style="s2">I&#39;m<span style="s4"> really</span> proud of that&#39;s actually</p>
+<p begin="00:17:41.009" end="00:17:46.619" style="s2">Monica our nurse educator is to at least</p>
+<p begin="00:17:43.830" end="00:17:49.309" style="s2">for this facility see if we come in with</p>
+<p begin="00:17:46.619" end="00:17:52.619" style="s2">a huge large emphasis on getting</p>
+<p begin="00:17:49.309" end="00:17:55.169" style="s2">training for the<span style="s3"> cnas</span> for sort of<span style="s4"> the</span></p>
+<p begin="00:17:52.619" end="00:18:00.840" style="s2">base level<span style="s4"> workforce</span> within a nursing</p>
+<p begin="00:17:55.169" end="00:18:03.090" style="s2">home if we can if we can sort of take</p>
+<p begin="00:18:00.840" end="00:18:05.009" style="s2">what would be just a job and instead</p>
+<p begin="00:18:03.090" end="00:18:08.779" style="s2">make it into a springboard for<span style="s3"> a</span> career</p>
+<p begin="00:18:05.009" end="00:18:11.070" style="s2">in<span style="s3"> healthcare</span><span style="s4"> when</span> we provide<span style="s3"> them</span> with</p>
+<p begin="00:18:08.779" end="00:18:12.809" style="s2">certificate UFC branded certificate</p>
+<p begin="00:18:11.070" end="00:18:14.879" style="s2">which we hope will help them land you</p>
+<p begin="00:18:12.809" end="00:18:17.309" style="s2">know the jobs that they choose moving on</p>
+<p begin="00:18:14.879" end="00:18:18.659" style="s2">and so far we&#39;ve had<span style="s4"> some</span> successes</p>
+<p begin="00:18:17.309" end="00:18:20.970" style="s2">we&#39;ve only been<span style="s4"> at</span> it for about six</p>
+<p begin="00:18:18.659" end="00:18:26.580" style="s2">months now so I<span style="s3"> don&#39;t</span><span style="s4"> have</span> a big data</p>
+<p begin="00:18:20.970" end="00:18:30.029" style="s2">set to point to but yeah anyway so some</p>
+<p begin="00:18:26.580" end="00:18:31.859" style="s2">other challenges I heard this</p>
+<p begin="00:18:30.029" end="00:18:34.739" style="s2">anecdotally I haven&#39;t heard it back you</p>
+<p begin="00:18:31.859" end="00:18:36.269" style="s2">know<span style="s4"> really</span> rigorously backed up but the</p>
+<p begin="00:18:34.739" end="00:18:37.859" style="s2">nursing home industry does not suffer</p>
+<p begin="00:18:36.269" end="00:18:40.080" style="s2">from<span style="s3"> lack</span> of a regulation at all in fact</p>
+<p begin="00:18:37.859" end="00:18:41.249" style="s2"><span style="s4">the</span> anecdotal they want to mention is</p>
+<p begin="00:18:40.080" end="00:18:42.779" style="s2">that it&#39;s often said that the<span style="s4"> only</span></p>
+<p begin="00:18:41.249" end="00:18:44.100" style="s2">industry that has more regulation than</p>
+<p begin="00:18:42.779" end="00:18:47.639" style="s2">the nursing home is the aviation</p>
+<p begin="00:18:44.100" end="00:18:49.190" style="s2">industry in fact there&#39;s in some ways so</p>
+<p begin="00:18:47.639" end="00:18:52.859" style="s2">much that it actually makes the</p>
+<p begin="00:18:49.190" end="00:18:54.269" style="s2">operation of a nursing home much more in</p>
+<p begin="00:18:52.859" end="00:18:56.279" style="s2">some ways a lot<span style="s4"> more</span> difficult<span style="s4"> because</span></p>
+<p begin="00:18:54.269" end="00:18:58.470" style="s2">they&#39;re having so many surprise</p>
+<p begin="00:18:56.279" end="00:18:59.850" style="s2">inspections every I don&#39;t know if you</p>
+<p begin="00:18:58.470" end="00:19:02.190" style="s2">noticed when Joel had brought up a</p>
+<p begin="00:18:59.850" end="00:19:03.570" style="s2">nursing home here but it has most of</p>
+<p begin="00:19:02.190" end="00:19:04.799" style="s2">them<span style="s4"> had</span> this long<span style="s4"> list of all these</span></p>
+<p begin="00:19:03.570" end="00:19:06.509" style="s2">things they&#39;ve been fined or penalized</p>
+<p begin="00:19:04.799" end="00:19:09.330" style="s2">for each one of those means another</p>
+<p begin="00:19:06.509" end="00:19:10.739" style="s2">inspection coming in so frankly it adds</p>
+<p begin="00:19:09.330" end="00:19:14.549" style="s2">to sort of a chaotic environment a</p>
+<p begin="00:19:10.739" end="00:19:15.809" style="s2">nursing home but anyway I&#39;m pleased<span style="s3"> that</span></p>
+<p begin="00:19:14.549" end="00:19:18.950" style="s2">we&#39;ve been<span style="s4"> able</span> to<span style="s4"> do</span> what we<span style="s4"> do</span> if we</p>
+<p begin="00:19:15.809" end="00:19:21.029" style="s2">can see some real<span style="s4"> improvements</span></p>
+<p begin="00:19:18.950" end="00:19:22.289" style="s2">particularly what I&#39;m thinking<span style="s3"> about</span></p>
+<p begin="00:19:21.029" end="00:19:23.850" style="s2">here when I say difficult to measure is</p>
+<p begin="00:19:22.289" end="00:19:26.159" style="s2">with patient outcomes in patient health</p>
+<p begin="00:19:23.850" end="00:19:28.950" style="s2">how we can you know improve workforce</p>
+<p begin="00:19:26.159" end="00:19:30.419" style="s2">education and see some sort<span style="s4"> of</span> biometric</p>
+<p begin="00:19:28.950" end="00:19:32.700" style="s2">indicator with a patient it&#39;s very</p>
+<p begin="00:19:30.419" end="00:19:34.529" style="s2">difficult to do but if we<span style="s4"> can</span> then we&#39;ll</p>
+<p begin="00:19:32.700" end="00:19:37.350" style="s2"><span style="s4">sort</span> of continue to scale out our model</p>
+<p begin="00:19:34.529" end="00:19:38.549" style="s2">across the south side particularly using</p>
+<p begin="00:19:37.350" end="00:19:40.049" style="s2">the network of nursing homes that<span style="s4"> I</span></p>
+<p begin="00:19:38.549" end="00:19:42.869" style="s2">mentioned and you saw<span style="s3"> on</span> the<span style="s3"> first</span> slide</p>
+<p begin="00:19:40.049" end="00:19:44.789" style="s2"><span style="s4">so</span> that&#39;s about<span style="s3"> what</span><span style="s4"> I</span> have about<span style="s4"> the</span></p>
+<p begin="00:19:42.869" end="00:19:47.309" style="s2">share network<span style="s3"> for</span><span style="s4"> right</span> now but I&#39;m</p>
+<p begin="00:19:44.789" end="00:19:49.510" style="s2"><span style="s4">really</span> happy<span style="s4"> to</span> see everybody here and</p>
+<p begin="00:19:47.309" end="00:19:52.480" style="s2">so passionate about nursing homes</p>
+<p begin="00:19:49.510" end="00:19:54.340" style="s2">and the thing I like<span style="s3"> to</span> kind of reflect</p>
+<p begin="00:19:52.480" end="00:19:58.630" style="s2">about and the reason why I do this I&#39;m a</p>
+<p begin="00:19:54.340" end="00:19:59.890" style="s2">social worker by training but my I think</p>
+<p begin="00:19:58.630" end="00:20:01.630" style="s2"><span style="s4">that</span> it&#39;s important<span style="s3"> to</span> remember that</p>
+<p begin="00:19:59.890" end="00:20:05.170" style="s2">we&#39;re all going to be fortunate enough</p>
+<p begin="00:20:01.630" end="00:20:08.020" style="s2">to age right so this society and that we</p>
+<p begin="00:20:05.170" end="00:20:11.230" style="s2">build through various aspects<span style="s4"> you</span> know</p>
+<p begin="00:20:08.020" end="00:20:13.420" style="s2">urban planning and<span style="s4"> health care reform</span></p>
+<p begin="00:20:11.230" end="00:20:15.610" style="s2">and everything else that the society</p>
+<p begin="00:20:13.420" end="00:20:18.820" style="s2"><span style="s3">that</span><span style="s4"> we</span> build for older adults will be</p>
+<p begin="00:20:15.610" end="00:20:20.650" style="s2">the society<span style="s3"> that</span> we all enter into for</p>
+<p begin="00:20:18.820" end="00:20:23.320" style="s2">better or worse as older<span style="s4"> adults</span> so I</p>
+<p begin="00:20:20.650" end="00:20:26.710" style="s2">would just leave that with you as a</p>
+<p begin="00:20:23.320" end="00:20:27.880" style="s2">perhaps<span style="s4"> a</span> source of inspiration<span style="s4"> to</span> think</p>
+<p begin="00:20:26.710" end="00:20:33.160" style="s2">about how to engage<span style="s3"> with</span> this<span style="s4"> particular</span></p>
+<p begin="00:20:27.880" end="00:20:34.660" style="s2">population so all right<span style="s4"> okay</span> everybody</p>
+<p begin="00:20:33.160" end="00:20:43.140" style="s2">who worked on the nursing home app stand</p>
+<p begin="00:20:34.660" end="00:20:43.140" style="s2">up<span style="s4"> gray</span><span style="s3"> okay</span> I had to do<span style="s4"> it</span></p>
+<p begin="00:20:57.910" end="00:21:04.640" style="s2">no because there&#39;s several I hadn&#39;t</p>
+<p begin="00:21:03.320" end="00:21:06.230" style="s2">thought<span style="s4"> about</span> that it would be great if</p>
+<p begin="00:21:04.640" end="00:21:08.840" style="s2">it could but you got to<span style="s4"> keep</span> in mind</p>
+<p begin="00:21:06.230" end="00:21:11.720" style="s2"><span style="s3">that</span> that<span style="s3"> five-star</span><span style="s4"> rating</span> is blended</p>
+<p begin="00:21:08.840" end="00:21:15.140" style="s2">from several aspects you know infection</p>
+<p begin="00:21:11.720" end="00:21:16.550" style="s2"><span style="s4">control</span> and staffing is the big one</p>
+<p begin="00:21:15.140" end="00:21:19.640" style="s2">right and that&#39;s what<span style="s4"> makes</span> me<span style="s4"> think</span></p>
+<p begin="00:21:16.550" end="00:21:23.120" style="s2"><span style="s4">it&#39;s</span> going to be most limited we<span style="s3"> would</span></p>
+<p begin="00:21:19.640" end="00:21:25.309" style="s2">love to have more staff available to</p>
+<p begin="00:21:23.120" end="00:21:28.250" style="s2"><span style="s3">make</span><span style="s4"> you</span> know to reduce that ratio but</p>
+<p begin="00:21:25.309" end="00:21:29.420" style="s2">you got<span style="s3"> to</span><span style="s4"> keep</span> in mind most one<span style="s3"> of</span><span style="s4"> the</span></p>
+<p begin="00:21:28.250" end="00:21:32.330" style="s2">trends within the nursing home industry</p>
+<p begin="00:21:29.420" end="00:21:35.540" style="s2">is that it&#39;s being bought into by</p>
+<p begin="00:21:32.330" end="00:21:36.980" style="s2">private equity many many nursing homes</p>
+<p begin="00:21:35.540" end="00:21:40.670" style="s2">now are being<span style="s4"> bought</span> by these</p>
+<p begin="00:21:36.980" end="00:21:43.190" style="s2">conglomerates and so how do you move up</p>
+<p begin="00:21:40.670" end="00:21:46.670" style="s2">a staffing ratio with an<span style="s3"> organization</span></p>
+<p begin="00:21:43.190" end="00:21:50.870" style="s2">where the business<span style="s3"> model</span> is you know</p>
+<p begin="00:21:46.670" end="00:21:52.970" style="s2">predicated on large profit margins you</p>
+<p begin="00:21:50.870" end="00:21:55.340" style="s2">know that&#39;s sort<span style="s4"> of</span> why I was marveling</p>
+<p begin="00:21:52.970" end="00:21:56.720" style="s2">in a or maybe horrified to think about</p>
+<p begin="00:21:55.340" end="00:21:59.150" style="s2">what some of the staffing ratios may be</p>
+<p begin="00:21:56.720" end="00:22:03.410" style="s2">like and some of these other facilities</p>
+<p begin="00:21:59.150" end="00:22:11.390" style="s2">up here it&#39;s like 30 30 to 1 30 to 40 to</p>
+<p begin="00:22:03.410" end="00:22:12.800" style="s2">1 nurse<span style="s3"> to</span> resident yeah yes Christina I</p>
+<p begin="00:22:11.390" end="00:22:14.150" style="s2">found<span style="s3"> out</span><span style="s4"> the</span> hard way last year<span style="s4"> the</span></p>
+<p begin="00:22:12.800" end="00:22:16.250" style="s2">people with disabilities after a</p>
+<p begin="00:22:14.150" end="00:22:18.500" style="s2">hospital&#39;s day go to nursing homes until</p>
+<p begin="00:22:16.250" end="00:22:22.580" style="s2">they recover enough so it&#39;s not just<span style="s3"> the</span></p>
+<p begin="00:22:18.500" end="00:22:24.380" style="s2">older generation<span style="s4"> yeah right and a lot</span><span style="s3"> of</span></p>
+<p begin="00:22:22.580" end="00:22:29.720" style="s2">these nursing homes to are also now</p>
+<p begin="00:22:24.380" end="00:22:32.720" style="s2">rehab centers so that means you&#39;ve got a</p>
+<p begin="00:22:29.720" end="00:22:36.530" style="s2">sort of younger population who&#39;s coming</p>
+<p begin="00:22:32.720" end="00:22:38.630" style="s2">in and out<span style="s4"> in</span><span style="s3"> addition</span><span style="s4"> to</span> the long-term</p>
+<p begin="00:22:36.530" end="00:22:40.490" style="s2">nursing home residents who tend to be</p>
+<p begin="00:22:38.630" end="00:22:42.500" style="s2">older that&#39;s actually<span style="s3"> been</span> the source of</p>
+<p begin="00:22:40.490" end="00:22:44.300" style="s2">a lot of exploitation that&#39;s happened</p>
+<p begin="00:22:42.500" end="00:22:49.210" style="s2"><span style="s4">with</span> people in nursing homes to have</p>
+<p begin="00:22:44.300" end="00:22:49.210" style="s2">been from younger healthier patients</p>
+<p begin="00:22:52.600" end="00:22:57.520" style="s2">country since we&#39;re so profit during</p>
+<p begin="00:22:55.150" end="00:23:01.840" style="s2">near that<span style="s3"> light</span> killing them if<span style="s3"> there</span></p>
+<p begin="00:22:57.520" end="00:23:04.480" style="s2">really<span style="s4"> is</span> an ideal model sure yeah</p>
+<p begin="00:23:01.840" end="00:23:06.550" style="s2">there&#39;s one I really like right here not</p>
+<p begin="00:23:04.480" end="00:23:11.050" style="s2">in Chicago unfortunately mostly due to</p>
+<p begin="00:23:06.550" end="00:23:12.880" style="s2"><span style="s4">I&#39;m soning but and I can explain why but</span></p>
+<p begin="00:23:11.050" end="00:23:15.820" style="s2">it&#39;s called the<span style="s3"> green house model</span><span style="s4"> so</span></p>
+<p begin="00:23:12.880" end="00:23:19.360" style="s2">it&#39;d<span style="s4"> be</span> worth googling but what that</p>
+<p begin="00:23:15.820" end="00:23:21.270" style="s2">tries<span style="s3"> to</span> do is switch the facility it</p>
+<p begin="00:23:19.360" end="00:23:25.980" style="s2">does a lot but switch the facility from</p>
+<p begin="00:23:21.270" end="00:23:28.990" style="s2">medical model to residential model and</p>
+<p begin="00:23:25.980" end="00:23:31.390" style="s2">there&#39;s a<span style="s4"> lot</span> of really strange sort of</p>
+<p begin="00:23:28.990" end="00:23:34.360" style="s2">and sad power dynamics that go on in the</p>
+<p begin="00:23:31.390" end="00:23:35.800" style="s2">nursing home for example you don&#39;t have</p>
+<p begin="00:23:34.360" end="00:23:37.720" style="s2">control over what you<span style="s4"> eat</span> or when you</p>
+<p begin="00:23:35.800" end="00:23:39.610" style="s2">eat or even<span style="s4"> whether</span> or not your doors</p>
+<p begin="00:23:37.720" end="00:23:41.230" style="s2">locked so the greenhouse model kind of</p>
+<p begin="00:23:39.610" end="00:23:43.800" style="s2">takes that and flips it on<span style="s3"> his head</span></p>
+<p begin="00:23:41.230" end="00:23:47.350" style="s2"><span style="s4">making</span> it into more of a home and</p>
+<p begin="00:23:43.800" end="00:23:50.590" style="s2">restoring the resident to being the main</p>
+<p begin="00:23:47.350" end="00:23:52.390" style="s2">decision maker it&#39;ll also will<span style="s4"> pair</span> aids</p>
+<p begin="00:23:50.590" end="00:23:54.340" style="s2">with individual residents over a long</p>
+<p begin="00:23:52.390" end="00:23:57.300" style="s2">term that&#39;s one<span style="s4"> thing</span> that most nursing</p>
+<p begin="00:23:54.340" end="00:24:00.310" style="s2">homes don&#39;t do it&#39;ll be like a<span style="s3"> new</span> face</p>
+<p begin="00:23:57.300" end="00:24:02.550" style="s2">constantly for residents so that would</p>
+<p begin="00:24:00.310" end="00:24:06.520" style="s2">be one model I would<span style="s4"> look</span> to as</p>
+<p begin="00:24:02.550" end="00:24:08.020" style="s2">progressive in the right way<span style="s3"> and</span> I would</p>
+<p begin="00:24:06.520" end="00:24:09.640" style="s2">just<span style="s4"> add</span> if you&#39;re interested in<span style="s3"> that</span> on</p>
+<p begin="00:24:08.020" end="00:24:10.960" style="s2">the<span style="s4"> about</span> page of the nursing home site</p>
+<p begin="00:24:09.640" end="00:24:13.150" style="s2">we<span style="s3"> have</span> some links out to other groups</p>
+<p begin="00:24:10.960" end="00:24:22.790" style="s2"><span style="s4">and</span> the<span style="s3"> Illinois</span> pioneer coalition is</p>
+<p begin="00:24:13.150" end="00:24:24.850" style="s2">doing on<span style="s4"> Erica</span> exactly<span style="s3"> really</span></p>
+<p begin="00:24:22.790" end="00:24:31.790" style="s2">these for ratings and stuff does anyone</p>
+<p begin="00:24:24.850" end="00:24:35.480" style="s2">do they responded them they have</p>
+<p begin="00:24:31.790" end="00:24:37.400" style="s2">lobbyists waiting for legitimate reason</p>
+<p begin="00:24:35.480" end="00:24:39.530" style="s2">I mean the they do have interests and</p>
+<p begin="00:24:37.400" end="00:24:42.200" style="s2">sometimes those interests coincide with</p>
+<p begin="00:24:39.530" end="00:24:43.940" style="s2">the interest of the<span style="s4"> residence</span> but I&#39;ve</p>
+<p begin="00:24:42.200" end="00:24:47.180" style="s2">not seen any particular feedback on this</p>
+<p begin="00:24:43.940" end="00:24:51.160" style="s2">other than<span style="s4"> I</span> think<span style="s4"> I&#39;ve</span> had a couple of</p>
+<p begin="00:24:47.180" end="00:24:53.750" style="s2">so I when I started<span style="s4"> my</span> project which is</p>
+<p begin="00:24:51.160" end="00:24:58.430" style="s2">assuming they&#39;ve seen it is that&#39;s a</p>
+<p begin="00:24:53.750" end="00:25:00.110" style="s2">pretty bold unlikely assertion but um I</p>
+<p begin="00:24:58.430" end="00:25:01.370" style="s2">had some feedback like<span style="s4"> a</span> little bit</p>
+<p begin="00:25:00.110" end="00:25:02.570" style="s2">peoples who<span style="s4"> said</span> they wanted<span style="s4"> to talk to</span></p>
+<p begin="00:25:01.370" end="00:25:05.480" style="s2">me but<span style="s4"> then</span> I<span style="s4"> never</span> heard<span style="s4"> back</span> from them</p>
+<p begin="00:25:02.570" end="00:25:09.260" style="s2">that&#39;s extent of it I could add one</p>
+<p begin="00:25:05.480" end="00:25:11.240" style="s2">thing to that one really wonderful thing</p>
+<p begin="00:25:09.260" end="00:25:14.090" style="s2">that&#39;s happened there is happening<span style="s4"> right</span></p>
+<p begin="00:25:11.240" end="00:25:15.980" style="s2">now is that it for the longest time and</p>
+<p begin="00:25:14.090" end="00:25:17.150" style="s2"><span style="s3">I</span> believe still<span style="s4"> is</span> currently that when</p>
+<p begin="00:25:15.980" end="00:25:18.920" style="s2">somebody&#39;s entering a nursing home and</p>
+<p begin="00:25:17.150" end="00:25:20.300" style="s2"><span style="s4">they&#39;re</span> signing over their documents as</p>
+<p begin="00:25:18.920" end="00:25:22.940" style="s2">they come in they&#39;re actually also</p>
+<p begin="00:25:20.300" end="00:25:25.370" style="s2">signing over their right to sue the</p>
+<p begin="00:25:22.940" end="00:25:27.140" style="s2">nursing home and it&#39;s I forget the name</p>
+<p begin="00:25:25.370" end="00:25:28.370" style="s2">for basically forced arbitration or</p>
+<p begin="00:25:27.140" end="00:25:31.520" style="s2">something like that<span style="s4"> so</span> if somebody</p>
+<p begin="00:25:28.370" end="00:25:33.650" style="s2">wanted<span style="s3"> to</span> sue the nursing home they</p>
+<p begin="00:25:31.520" end="00:25:35.600" style="s2">would be legally unable to do so at</p>
+<p begin="00:25:33.650" end="00:25:38.570" style="s2">pretty much every nursing home there is</p>
+<p begin="00:25:35.600" end="00:25:41.750" style="s2">so that&#39;s being undone so that you know</p>
+<p begin="00:25:38.570" end="00:25:43.910" style="s2">should there be the need to patients or</p>
+<p begin="00:25:41.750" end="00:25:49.160" style="s2">their family can pursue a broader<span style="s4"> range</span></p>
+<p begin="00:25:43.910" end="00:25:52.550" style="s2">of legal options one of the things<span style="s4"> I</span></p>
+<p begin="00:25:49.160" end="00:25:55.370" style="s2">seen at least electronic monitoring is</p>
+<p begin="00:25:52.550" end="00:26:00.430" style="s2">that you know their limits on how<span style="s3"> many</span></p>
+<p begin="00:25:55.370" end="00:26:00.430" style="s2">students<span style="s3"> Patil</span> we can be with a teacher</p>
+<p begin="00:26:00.759" end="00:26:04.940" style="s2">there&#39;s a regulation<span style="s3"> journal that is</span></p>
+<p begin="00:26:03.109" end="00:26:08.239" style="s2">they<span style="s4"> can&#39;t</span> break their mothership</p>
+<p begin="00:26:04.940" end="00:26:09.649" style="s2">designers down is<span style="s4"> that</span> leverage items</p>
+<p begin="00:26:08.239" end="00:26:12.799" style="s2">like tried<span style="s3"> to</span> apply in<span style="s3"> this</span> situation</p>
+<p begin="00:26:09.649" end="00:26:14.720" style="s2">because<span style="s4"> I</span> mean part of as a private</p>
+<p begin="00:26:12.799" end="00:26:20.210" style="s2">equity<span style="s3"> drivers</span> to like drive down labor</p>
+<p begin="00:26:14.720" end="00:26:23.539" style="s2">costs and this is detrimental to yeah</p>
+<p begin="00:26:20.210" end="00:26:26.119" style="s2">certainly the city so there are you<span style="s4"> know</span></p>
+<p begin="00:26:23.539" end="00:26:28.970" style="s2">nurse to nurse to resident nurse to</p>
+<p begin="00:26:26.119" end="00:26:30.619" style="s2">patient ratios unfortunately I&#39;m</p>
+<p begin="00:26:28.970" end="00:26:32.299" style="s2">honestly not sure quite what they are I</p>
+<p begin="00:26:30.619" end="00:26:40.539" style="s2">know there&#39;s legal limits but they must</p>
+<p begin="00:26:32.299" end="00:26:43.519" style="s2">be pretty darn low I mean it so yeah and</p>
+<p begin="00:26:40.539" end="00:26:45.349" style="s2">those ratios actually play into why</p>
+<p begin="00:26:43.519" end="00:26:47.840" style="s2">something like the greenhouse project</p>
+<p begin="00:26:45.349" end="00:26:49.940" style="s2">and the<span style="s4"> pioneer</span> network is the sort of</p>
+<p begin="00:26:47.840" end="00:26:51.169" style="s2">the founder of that has had a lot<span style="s4"> of</span></p>
+<p begin="00:26:49.940" end="00:26:52.129" style="s2">trouble in<span style="s4"> this</span> area<span style="s4"> and</span> would the</p>
+<p begin="00:26:51.169" end="00:26:55.129" style="s2">reason why I said<span style="s3"> it</span> had<span style="s3"> to</span> do with</p>
+<p begin="00:26:52.129" end="00:26:56.929" style="s2">zoning was because again the greenhouse</p>
+<p begin="00:26:55.129" end="00:26:59.359" style="s2">model is highly residential and they</p>
+<p begin="00:26:56.929" end="00:27:02.720" style="s2">actually they it&#39;s<span style="s4"> designed</span> from the</p>
+<p begin="00:26:59.359" end="00:27:04.309" style="s2">ground up to be to have fidelity with</p>
+<p begin="00:27:02.720" end="00:27:07.580" style="s2">this<span style="s3"> particular</span> model and<span style="s3"> that</span> means</p>
+<p begin="00:27:04.309" end="00:27:09.470" style="s2">little<span style="s4"> houses</span> but the problem<span style="s3"> is</span> then</p>
+<p begin="00:27:07.580" end="00:27:12.499" style="s2">you have to have way more nursing staff</p>
+<p begin="00:27:09.470" end="00:27:14.690" style="s2">because of those staff to resident</p>
+<p begin="00:27:12.499" end="00:27:15.859" style="s2">ratios so if you in<span style="s4"> this</span> one building</p>
+<p begin="00:27:14.690" end="00:27:17.840" style="s2">you might have to have a minimum<span style="s4"> of</span> how</p>
+<p begin="00:27:15.859" end="00:27:19.549" style="s2">many<span style="s3"> of</span><span style="s4"> our</span> nurses well that&#39;s fine if</p>
+<p begin="00:27:17.840" end="00:27:22.279" style="s2">you&#39;ve got<span style="s3"> 200</span> residents you can keep it</p>
+<p begin="00:27:19.549" end="00:27:23.599" style="s2">low but<span style="s4"> if</span> you&#39;ve got<span style="s3"> 12</span> residents that</p>
+<p begin="00:27:22.279" end="00:27:29.029" style="s2"><span style="s4">becomes more problematic and that&#39;s why</span></p>
+<p begin="00:27:23.599" end="00:27:31.059" style="s2">it ties back to zoning does<span style="s4"> that</span> make</p>
+<p begin="00:27:29.029" end="00:27:31.059" style="s2">sense</p>
+<p begin="00:27:31.290" end="00:27:39.230" style="s2">city and suburbs yeah it is their</p>
+<p begin="00:27:36.740" end="00:27:40.980" style="s2">oversight built into these Medicaid</p>
+<p begin="00:27:39.230" end="00:27:45.960" style="s2">evaluations from the federal government</p>
+<p begin="00:27:40.980" end="00:27:47.640" style="s2">or title what is there anything done at</p>
+<p begin="00:27:45.960" end="00:27:51.270" style="s2">the federal<span style="s3"> level are we supposed to be</span></p>
+<p begin="00:27:47.640" end="00:27:53.850" style="s2">is<span style="s3"> that</span> what what sections really<span style="s3"> exists</span></p>
+<p begin="00:27:51.270" end="00:27:56.730" style="s2">it&#39;s a few<span style="s3"> different</span> bodies that will</p>
+<p begin="00:27:53.850" end="00:27:58.980" style="s2">come in the Illinois Department of</p>
+<p begin="00:27:56.730" end="00:28:00.720" style="s2">Health<span style="s4"> a</span><span style="s3"> there&#39;s</span> so there&#39;s<span style="s4"> several</span></p>
+<p begin="00:27:58.980" end="00:28:03.300" style="s2">regulatory bodies that are looking at</p>
+<p begin="00:28:00.720" end="00:28:04.260" style="s2">nursing homes and I&#39;m frankly not an</p>
+<p begin="00:28:03.300" end="00:28:08.400" style="s2">expert in all<span style="s4"> of</span> them i know the</p>
+<p begin="00:28:04.260" end="00:28:10.500" style="s2"><span style="s4">Department</span> of<span style="s4"> Health</span> is one there&#39;s this</p>
+<p begin="00:28:08.400" end="00:28:12.210" style="s2">like the<span style="s3"> Department</span> of<span style="s3"> Health Facilities</span></p>
+<p begin="00:28:10.500" end="00:28:15.810" style="s2"><span style="s3">somebody</span> here might know more about that</p>
+<p begin="00:28:12.210" end="00:28:17.460" style="s2">than I part of<span style="s3"> Aging</span> right the</p>
+<p begin="00:28:15.810" end="00:28:20.190" style="s2">Department of Aging also has oversight</p>
+<p begin="00:28:17.460" end="00:28:22.470" style="s2"><span style="s4">there&#39;s</span> the Ombudsman who&#39;s a sort of</p>
+<p begin="00:28:20.190" end="00:28:24.600" style="s2">advocate for people who are who are</p>
+<p begin="00:28:22.470" end="00:28:26.040" style="s2">unable<span style="s3"> to</span> resolve their issues with the</p>
+<p begin="00:28:24.600" end="00:28:30.930" style="s2">nursing home who can also come in for a</p>
+<p begin="00:28:26.040" end="00:28:34.980" style="s2">surprise inspections and I mean there&#39;s</p>
+<p begin="00:28:30.930" end="00:28:37.230" style="s2">just again CMS is providing is taking in</p>
+<p begin="00:28:34.980" end="00:28:40.530" style="s2">these metrics that<span style="s4"> center</span> for<span style="s4"> medicare</span></p>
+<p begin="00:28:37.230" end="00:28:42.780" style="s2"><span style="s4">and medicaid</span><span style="s3"> services</span> and i would say</p>
+<p begin="00:28:40.530" end="00:28:45.030" style="s2">giving the most oversight at the federal</p>
+<p begin="00:28:42.780" end="00:28:49.160" style="s2">level if that if that answers your</p>
+<p begin="00:28:45.030" end="00:28:49.160" style="s2"><span style="s3">question</span> they&#39;re not healthy</p>
+<p begin="00:28:52.139" end="00:28:57.370" style="s2">they are yeah I just<span style="s4"> my</span> point would be</p>
+<p begin="00:28:55.389" end="00:28:59.549" style="s2">that with our particular nursing and</p>
+<p begin="00:28:57.370" end="00:29:02.620" style="s2">that we were focusing on when you know</p>
+<p begin="00:28:59.549" end="00:29:05.980" style="s2">we set aside entire days for staff</p>
+<p begin="00:29:02.620" end="00:29:08.080" style="s2">training and then you know maybe we<span style="s3"> do</span></p>
+<p begin="00:29:05.980" end="00:29:11.320" style="s2">that every other every week for a month</p>
+<p begin="00:29:08.080" end="00:29:14.169" style="s2">and<span style="s3"> then</span> we can&#39;t do you know two of</p>
+<p begin="00:29:11.320" end="00:29:15.700" style="s2"><span style="s3">those</span> days<span style="s3"> because</span> of state inspectors</p>
+<p begin="00:29:14.169" end="00:29:18.009" style="s2">coming in again<span style="s4"> and</span> again I&#39;m not<span style="s4"> saying</span></p>
+<p begin="00:29:15.700" end="00:29:19.990" style="s2"><span style="s3">it&#39;s</span> a bad thing but it sort of it turns</p>
+<p begin="00:29:18.009" end="00:29:28.960" style="s2">into a vicious cycle because this</p>
+<p begin="00:29:19.990" end="00:29:31.590" style="s2">they&#39;re already staffed so lean so<span style="s3"> I</span></p>
+<p begin="00:29:28.960" end="00:29:35.379" style="s2">made this website<span style="s4"> and its beautiful</span></p>
+<p begin="00:29:31.590" end="00:29:37.210" style="s2">fantastic advocate roses by<span style="s4"> the</span> way is</p>
+<p begin="00:29:35.379" end="00:29:40.059" style="s2">there like sort of a planet thought for</p>
+<p begin="00:29:37.210" end="00:29:43.269" style="s2">promoting and marketing and trying to</p>
+<p begin="00:29:40.059" end="00:29:46.419" style="s2">get<span style="s4"> like</span> the website in the<span style="s4"> hands</span> of the</p>
+<p begin="00:29:43.269" end="00:29:48.100" style="s2"><span style="s4">people</span> who need it most who maybe maybe</p>
+<p begin="00:29:46.419" end="00:29:51.000" style="s2">not reach through like word of mouth</p>
+<p begin="00:29:48.100" end="00:29:59.289" style="s2">with your circles from from you know</p>
+<p begin="00:29:51.000" end="00:30:00.879" style="s2">yeah phase two yeah and tonight<span style="s4"> I&#39;m</span></p>
+<p begin="00:29:59.289" end="00:30:02.980" style="s2">hoping<span style="s4"> to</span> get some social media interest</p>
+<p begin="00:30:00.879" end="00:30:05.049" style="s2">go in and I<span style="s3"> think</span> the cook county record</p>
+<p begin="00:30:02.980" end="00:30:07.570" style="s2">is Chronicle Chronicle is going to run a</p>
+<p begin="00:30:05.049" end="00:30:08.860" style="s2">story on this and I&#39;m hoping to build</p>
+<p begin="00:30:07.570" end="00:30:10.659" style="s2">some momentum that way and then<span style="s4"> I&#39;m</span></p>
+<p begin="00:30:08.860" end="00:30:15.039" style="s2">hoping to come up<span style="s3"> with</span> a<span style="s4"> low-cost</span></p>
+<p begin="00:30:10.659" end="00:30:16.299" style="s2"><span style="s3">guerrilla</span><span style="s4"> marketing</span> strategy which<span style="s4"> I&#39;ll</span></p>
+<p begin="00:30:15.039" end="00:30:18.279" style="s2">give you a little sneak preview you</p>
+<p begin="00:30:16.299" end="00:30:26.970" style="s2">might hear<span style="s3"> about</span> in the<span style="s4"> breakout</span> session</p>
+<p begin="00:30:18.279" end="00:30:30.059" style="s2">call other business we<span style="s3"> want</span> to</p>
+<p begin="00:30:26.970" end="00:30:32.760" style="s2">so<span style="s4"> are there external reasons the widest</span></p>
+<p begin="00:30:30.059" end="00:30:38.340" style="s2">such shortage of geriatric valuable</p>
+<p begin="00:30:32.760" end="00:30:39.780" style="s2">professionals yes the let&#39;s say we&#39;re</p>
+<p begin="00:30:38.340" end="00:30:43.110" style="s2">talking about<span style="s3"> geriatrician so md</span><span style="s4"> is</span> for</p>
+<p begin="00:30:39.780" end="00:30:45.960" style="s2">right now they&#39;re paid markedly lower</p>
+<p begin="00:30:43.110" end="00:30:48.360" style="s2">than other specialties and the thing</p>
+<p begin="00:30:45.960" end="00:30:50.250" style="s2"><span style="s3">that</span><span style="s4"> really</span> brought that<span style="s4"> home</span> to me<span style="s3"> and</span></p>
+<p begin="00:30:48.360" end="00:30:52.890" style="s2">made me wonder why anybody would do it</p>
+<p begin="00:30:50.250" end="00:30:53.970" style="s2">is because<span style="s3"> i</span><span style="s4"> realized</span><span style="s3"> that</span> if I</p>
+<p begin="00:30:52.890" end="00:30:55.470" style="s2">mentioned there&#39;s a one to two-year</p>
+<p begin="00:30:53.970" end="00:30:57.299" style="s2">fellowship to become a geriatrician if</p>
+<p begin="00:30:55.470" end="00:30:59.220" style="s2">they stopped and didn&#39;t do any</p>
+<p begin="00:30:57.299" end="00:31:02.070" style="s2">fellowship at all they&#39;d actually be</p>
+<p begin="00:30:59.220" end="00:31:06.059" style="s2">making<span style="s4"> more</span> money than<span style="s3"> if</span> they took<span style="s3"> that</span></p>
+<p begin="00:31:02.070" end="00:31:08.730" style="s2">time out from you know<span style="s4"> from</span> a lucrative</p>
+<p begin="00:31:06.059" end="00:31:10.740" style="s2">segment of their career to do the</p>
+<p begin="00:31:08.730" end="00:31:11.730" style="s2">fellowship it&#39;s<span style="s3"> pretty</span> amazing its peak</p>
+<p begin="00:31:10.740" end="00:31:13.770" style="s2">mostly because they&#39;re getting paid</p>
+<p begin="00:31:11.730" end="00:31:15.960" style="s2">primarily through<span style="s4"> Medicare our excuse me</span></p>
+<p begin="00:31:13.770" end="00:31:17.190" style="s2">through<span style="s4"> yeah</span> through<span style="s4"> Medicare</span></p>
+<p begin="00:31:15.960" end="00:31:20.220" style="s2">reimbursements which are lower on</p>
+<p begin="00:31:17.190" end="00:31:22.380" style="s2">average than private pay plus there&#39;s</p>
+<p begin="00:31:20.220" end="00:31:23.760" style="s2">stigma which is a little bit higher you</p>
+<p begin="00:31:22.380" end="00:31:34.200" style="s2">know harder to nail down exactly but i</p>
+<p begin="00:31:23.760" end="00:31:36.809" style="s2">think is very real did you<span style="s3"> i</span> can&#39;t have</p>
+<p begin="00:31:34.200" end="00:31:39.630" style="s2"><span style="s3">help</span> like<span style="s3"> social</span> workers to culture the</p>
+<p begin="00:31:36.809" end="00:31:42.210" style="s2"><span style="s3">global</span><span style="s4"> community</span> for the orange and<span style="s4"> were</span></p>
+<p begin="00:31:39.630" end="00:31:46.530" style="s2">those like local animations engaging</p>
+<p begin="00:31:42.210" end="00:31:47.850" style="s2">this<span style="s4"> model</span> well we&#39;re not we don&#39;t have</p>
+<p begin="00:31:46.530" end="00:31:50.179" style="s2">very<span style="s4"> many people actually traveling</span></p>
+<p begin="00:31:47.850" end="00:31:53.309" style="s2">anywhere that&#39;s kind of the beauty of<span style="s4"> it</span></p>
+<p begin="00:31:50.179" end="00:31:54.960" style="s2">so basically there&#39;s actually a whole</p>
+<p begin="00:31:53.309" end="00:31:57.450" style="s2">sort<span style="s4"> of little mini office at the</span></p>
+<p begin="00:31:54.960" end="00:32:00.030" style="s2"><span style="s3">university</span> of<span style="s3"> chicago</span><span style="s4"> hospital</span> that runs</p>
+<p begin="00:31:57.450" end="00:32:03.299" style="s2">this echo program and they have</p>
+<p begin="00:32:00.030" end="00:32:05.490" style="s2">coordinators and stuff who do outreach</p>
+<p begin="00:32:03.299" end="00:32:06.570" style="s2">to various organizations like we work a</p>
+<p begin="00:32:05.490" end="00:32:09.600" style="s2"><span style="s3">lot</span> with federally qualified health</p>
+<p begin="00:32:06.570" end="00:32:10.770" style="s2">centers with an<span style="s3"> organization</span> that&#39;s kind</p>
+<p begin="00:32:09.600" end="00:32:13.049" style="s2">of up<span style="s4"> and</span> coming called<span style="s3"> oak street</span></p>
+<p begin="00:32:10.770" end="00:32:16.530" style="s2">health with an arc a<span style="s4"> st. Bernard</span></p>
+<p begin="00:32:13.049" end="00:32:21.020" style="s2">hospital and these<span style="s3"> symphony</span> locations so</p>
+<p begin="00:32:16.530" end="00:32:24.720" style="s2">there isn&#39;t much sort of on the ground</p>
+<p begin="00:32:21.020" end="00:32:26.340" style="s2">recruitment but we haven&#39;t needed to do</p>
+<p begin="00:32:24.720" end="00:32:28.049" style="s2">a whole lot<span style="s3"> the</span> model<span style="s4"> has</span> been fairly</p>
+<p begin="00:32:26.340" end="00:32:30.179" style="s2">successful and we&#39;ve actually<span style="s4"> got</span> more</p>
+<p begin="00:32:28.049" end="00:32:32.280" style="s2">people who are<span style="s4"> asking</span> to participate we</p>
+<p begin="00:32:30.179" end="00:32:36.030" style="s2">kind of have a wait list right now</p>
+<p begin="00:32:32.280" end="00:32:37.230" style="s2">yeah they<span style="s4"> found</span> us there&#39;s<span style="s4"> definitely</span></p>
+<p begin="00:32:36.030" end="00:32:39.840" style="s2">recruitment that goes<span style="s4"> on</span> but it&#39;s an</p>
+<p begin="00:32:37.230" end="00:32:42.000" style="s2">we&#39;re not you know struggling<span style="s4"> to</span> find</p>
+<p begin="00:32:39.840" end="00:32:43.840" style="s2">people</p>
+<p begin="00:32:42.000" end="00:32:51.960" style="s2">[Music]</p>
+<p begin="00:32:43.840" end="00:32:51.960" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>

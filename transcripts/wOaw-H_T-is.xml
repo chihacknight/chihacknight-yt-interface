@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.819" end="00:00:08.610" style="s2"><span style="s3">alright</span> so raise your hand if you</p>
+<p begin="00:00:07.140" end="00:00:11.250" style="s2">flooded if you&#39;ve ever flooded your</p>
+<p begin="00:00:08.610" end="00:00:13.200" style="s2">basement cellar flooded all right I put</p>
+<p begin="00:00:11.250" end="00:00:15.000" style="s2">your<span style="s3"> hands</span> down if you haven&#39;t flooded</p>
+<p begin="00:00:13.200" end="00:00:16.830" style="s2">have you at<span style="s4"> least</span> seen bez loads is</p>
+<p begin="00:00:15.000" end="00:00:19.770" style="s2">their sewage in the<span style="s4"> Chicago River calm</span></p>
+<p begin="00:00:16.830" end="00:00:22.410" style="s2"><span style="s3">all right most</span> of you have does it seem</p>
+<p begin="00:00:19.770" end="00:00:26.490" style="s2">like there&#39;s there&#39;s more of these one</p>
+<p begin="00:00:22.410" end="00:00:29.550" style="s2">every 20 year<span style="s3"> or</span> 20<span style="s3"> or</span> 25 year<span style="s4"> 100-year</span></p>
+<p begin="00:00:26.490" end="00:00:31.830" style="s2">storm<span style="s3"> the</span> wilmette flooding lady says</p>
+<p begin="00:00:29.550" end="00:00:33.210" style="s2">yes if it seems<span style="s4"> like</span> there&#39;s more<span style="s3"> like</span></p>
+<p begin="00:00:31.830" end="00:00:34.770" style="s2">these things are happening more than</p>
+<p begin="00:00:33.210" end="00:00:36.750" style="s2">once every hundred years or once every</p>
+<p begin="00:00:34.770" end="00:00:40.530" style="s2"><span style="s4">25</span> years or whatever it&#39;s<span style="s3"> because</span> they</p>
+<p begin="00:00:36.750" end="00:00:43.440" style="s2">are storms today are a lot different</p>
+<p begin="00:00:40.530" end="00:00:45.600" style="s2">than storms were say a hundred years<span style="s3"> ago</span></p>
+<p begin="00:00:43.440" end="00:00:47.879" style="s2">right<span style="s3"> because of the impacts of climate</span></p>
+<p begin="00:00:45.600" end="00:00:51.480" style="s2"><span style="s3">change</span> because<span style="s4"> of</span><span style="s3"> the</span> effects<span style="s3"> of</span> climate</p>
+<p begin="00:00:47.879" end="00:00:54.480" style="s2">change storms are more hyper localized</p>
+<p begin="00:00:51.480" end="00:00:57.210" style="s2">they&#39;re more intense the shorter in</p>
+<p begin="00:00:54.480" end="00:00:59.129" style="s2">duration there so there&#39;s more water<span style="s3"> in</span></p>
+<p begin="00:00:57.210" end="00:01:01.350" style="s2">a shorter period of time they&#39;re less</p>
+<p begin="00:00:59.129" end="00:01:05.189" style="s2">predictable and that&#39;s one of<span style="s4"> the</span> things</p>
+<p begin="00:01:01.350" end="00:01:06.119" style="s2">that leads to urban flooding oh yeah<span style="s4"> and</span></p>
+<p begin="00:01:05.189" end="00:01:08.510" style="s2">there&#39;s twelve percent more</p>
+<p begin="00:01:06.119" end="00:01:12.420" style="s2">record-breaking storms that occurred in</p>
+<p begin="00:01:08.510" end="00:01:16.290" style="s2">from 81 to 2010 than there would have</p>
+<p begin="00:01:12.420" end="00:01:19.200" style="s2">been without human intervention now our</p>
+<p begin="00:01:16.290" end="00:01:20.909" style="s2">infrastructure in the city<span style="s3"> the service</span></p>
+<p begin="00:01:19.200" end="00:01:23.070" style="s2"><span style="s3">system</span> in Chicago is actually very well</p>
+<p begin="00:01:20.909" end="00:01:24.990" style="s2">kept up and they put about 50 million</p>
+<p begin="00:01:23.070" end="00:01:26.790" style="s2">dollars a year into green elements</p>
+<p begin="00:01:24.990" end="00:01:28.590" style="s2">around it it was<span style="s3"> built in the</span> time when</p>
+<p begin="00:01:26.790" end="00:01:30.119" style="s2"><span style="s3">we</span> didn&#39;t broadly know about climate</p>
+<p begin="00:01:28.590" end="00:01:34.860" style="s2">change we didn&#39;t<span style="s3"> know</span> about climate</p>
+<p begin="00:01:30.119" end="00:01:38.579" style="s2">change in 1850 1889 1892 1900 etcetera</p>
+<p begin="00:01:34.860" end="00:01:41.880" style="s2">and again<span style="s4"> even</span> though we have a pretty</p>
+<p begin="00:01:38.579" end="00:01:44.159" style="s2">modern sewer system there<span style="s3"> are</span> still some</p>
+<p begin="00:01:41.880" end="00:01:46.170" style="s2">elements of the sewer system that are in</p>
+<p begin="00:01:44.159" end="00:01:47.970" style="s2">place from<span style="s3"> when</span> it was originally</p>
+<p begin="00:01:46.170" end="00:01:51.450" style="s2">designed in fact<span style="s4"> there&#39;s</span> some<span style="s3"> places</span></p>
+<p begin="00:01:47.970" end="00:01:54.210" style="s2">where you can still find wooden sewers</p>
+<p begin="00:01:51.450" end="00:01:59.219" style="s2">right you can still find elements that</p>
+<p begin="00:01:54.210" end="00:02:00.890" style="s2">look like this and it one other one</p>
+<p begin="00:01:59.219" end="00:02:03.869" style="s2">other piece i should mention to this is</p>
+<p begin="00:02:00.890" end="00:02:07.770" style="s2">the city is bigger than it was a<span style="s3"> hundred</span></p>
+<p begin="00:02:03.869" end="00:02:11.520" style="s2"><span style="s4">years</span> ago or 150 years ago right and</p>
+<p begin="00:02:07.770" end="00:02:13.500" style="s2">when you expand what do<span style="s4"> you</span> do you&#39;re</p>
+<p begin="00:02:11.520" end="00:02:17.040" style="s2">removing green space</p>
+<p begin="00:02:13.500" end="00:02:19.590" style="s2">which would normally take in water and</p>
+<p begin="00:02:17.040" end="00:02:21.180" style="s2">bring it<span style="s4"> down</span> and draw it<span style="s3"> down</span> into the</p>
+<p begin="00:02:19.590" end="00:02:25.170" style="s2"><span style="s4">groundwater</span> and what are you replacing</p>
+<p begin="00:02:21.180" end="00:02:27.000" style="s2">it with asphalt right so when you</p>
+<p begin="00:02:25.170" end="00:02:29.160" style="s2">replace it<span style="s3"> with</span> asphalt what&#39;s asphalt</p>
+<p begin="00:02:27.000" end="00:02:32.760" style="s2">that&#39;s why it&#39;s nothing more than like a</p>
+<p begin="00:02:29.160" end="00:02:34.620" style="s2">man-made<span style="s4"> River</span> right raindrops form they</p>
+<p begin="00:02:32.760" end="00:02:37.890" style="s2">hit the asphalt the ass well there&#39;s</p>
+<p begin="00:02:34.620" end="00:02:40.410" style="s2">channeled into the sewer you might</p>
+<p begin="00:02:37.890" end="00:02:42.510" style="s2">actually say<span style="s4"> that</span> it&#39;s<span style="s4"> not</span> it&#39;s not the</p>
+<p begin="00:02:40.410" end="00:02:51.180" style="s2">rains fault and it&#39;s not the sewers</p>
+<p begin="00:02:42.510" end="00:02:54.630" style="s2">fault so yes well I thought<span style="s4"> about</span><span style="s3"> that</span> I</p>
+<p begin="00:02:51.180" end="00:02:57.630" style="s2">thought about<span style="s3"> that</span><span style="s4"> in</span> the bathroom<span style="s3"> okay</span></p>
+<p begin="00:02:54.630" end="00:03:00.480" style="s2">I could do<span style="s3"> this</span> whether you&#39;re here or</p>
+<p begin="00:02:57.630" end="00:03:02.280" style="s2">not so you&#39;re<span style="s3"> here</span> so what is<span style="s4"> that</span> so</p>
+<p begin="00:03:00.480" end="00:03:04.170" style="s2">that so the combination of the fact that</p>
+<p begin="00:03:02.280" end="00:03:05.790" style="s2">you have less green space you<span style="s3"> have</span> a</p>
+<p begin="00:03:04.170" end="00:03:07.980" style="s2">sewer system that was built<span style="s4"> 100</span><span style="s3"> years</span></p>
+<p begin="00:03:05.790" end="00:03:10.080" style="s2"><span style="s3">ago</span> what does<span style="s3"> that</span> lead to what leads to</p>
+<p begin="00:03:07.980" end="00:03:12.330" style="s2">urban flooding what<span style="s3"> has</span> urban flooding</p>
+<p begin="00:03:10.080" end="00:03:14.610" style="s2">lead to well for one thing it leads to</p>
+<p begin="00:03:12.330" end="00:03:17.459" style="s2">situations like this where you&#39;re</p>
+<p begin="00:03:14.610" end="00:03:20.910" style="s2">gumming up the works of the city&#39;s</p>
+<p begin="00:03:17.459" end="00:03:22.769" style="s2">transit and of course<span style="s3"> it</span> leads to</p>
+<p begin="00:03:20.910" end="00:03:25.440" style="s2">situations like this<span style="s4"> where</span> you<span style="s4"> have</span><span style="s3"> a</span></p>
+<p begin="00:03:22.769" end="00:03:27.350" style="s2">flooded basement that is not my basement</p>
+<p begin="00:03:25.440" end="00:03:31.410" style="s2">I would not<span style="s3"> have</span> a basketball down there</p>
+<p begin="00:03:27.350" end="00:03:33.570" style="s2">and it&#39;s costly it&#39;s extremely costly</p>
+<p begin="00:03:31.410" end="00:03:35.190" style="s2">it&#39;s over the last five years<span style="s3"> there</span> have</p>
+<p begin="00:03:33.570" end="00:03:37.680" style="s2">been seven hundred and seventy three</p>
+<p begin="00:03:35.190" end="00:03:42.060" style="s2">million dollars worth of storm water</p>
+<p begin="00:03:37.680" end="00:03:44.190" style="s2">damage done in the city alone and about</p>
+<p begin="00:03:42.060" end="00:03:48.180" style="s2">a hundred and eighty-one thousand claims</p>
+<p begin="00:03:44.190" end="00:03:52.019" style="s2">of property<span style="s4"> damage</span> so it&#39;s a significant</p>
+<p begin="00:03:48.180" end="00:03:53.549" style="s2">problem so enter city digital<span style="s3"> let</span> me</p>
+<p begin="00:03:52.019" end="00:03:55.769" style="s2"><span style="s4">explain</span> to you who&#39;s<span style="s3"> city</span><span style="s4"> digital</span> is</p>
+<p begin="00:03:53.549" end="00:03:58.260" style="s2">there is a group<span style="s3"> here</span> in Chicago<span style="s3"> called</span></p>
+<p begin="00:03:55.769" end="00:04:01.709" style="s2">you I labs you I lab stands for</p>
+<p begin="00:03:58.260" end="00:04:04.380" style="s2">university + industry labs and they are</p>
+<p begin="00:04:01.709" end="00:04:06.239" style="s2">a consortium building organization so if</p>
+<p begin="00:04:04.380" end="00:04:08.220" style="s2">there are projects that are too<span style="s4"> big</span> for</p>
+<p begin="00:04:06.239" end="00:04:11.100" style="s2"><span style="s3">any</span> one company or any one company plus</p>
+<p begin="00:04:08.220" end="00:04:13.350" style="s2">a university or whatever to do these</p>
+<p begin="00:04:11.100" end="00:04:16.049" style="s2">folks are great at building consortium</p>
+<p begin="00:04:13.350" end="00:04:18.090" style="s2">one of the<span style="s3"> consortium</span> is city digital</p>
+<p begin="00:04:16.049" end="00:04:21.269" style="s2">city digital<span style="s3"> is</span> a public-private</p>
+<p begin="00:04:18.090" end="00:04:23.400" style="s2"><span style="s3">partnership</span> it includes the city</p>
+<p begin="00:04:21.269" end="00:04:27.389" style="s2">industry players and university players</p>
+<p begin="00:04:23.400" end="00:04:30.629" style="s2">that focus on using the city<span style="s3"> it&#39;s</span></p>
+<p begin="00:04:27.389" end="00:04:34.259" style="s2">self as a<span style="s3"> test bed for experiments at</span></p>
+<p begin="00:04:30.629" end="00:04:38.009" style="s2">scale around water energy transportation</p>
+<p begin="00:04:34.259" end="00:04:40.830" style="s2">and physical infrastructure so city</p>
+<p begin="00:04:38.009" end="00:04:41.990" style="s2">digital as it relates<span style="s4"> to</span> the project</p>
+<p begin="00:04:40.830" end="00:04:48.659" style="s2">we&#39;re<span style="s4"> going</span> to talk about<span style="s3"> tonight</span></p>
+<p begin="00:04:41.990" end="00:04:51.930" style="s2">includes Microsoft Accenture aecom<span style="s4"> comed</span></p>
+<p begin="00:04:48.659" end="00:04:53.610" style="s2">and number<span style="s3"> of</span><span style="s4"> university</span> parts up</p>
+<p begin="00:04:51.930" end="00:04:56.909" style="s2">partners in here in<span style="s3"> this</span> case it was you</p>
+<p begin="00:04:53.610" end="00:04:58.409" style="s2">i use<span style="s4"> UI you see who&#39;s excuse me but</span></p>
+<p begin="00:04:56.909" end="00:05:01.039" style="s2"><span style="s3">other</span> universities also playing it as</p>
+<p begin="00:04:58.409" end="00:05:03.389" style="s2">well<span style="s3"> UIC and IIT have been partners and</span></p>
+<p begin="00:05:01.039" end="00:05:06.990" style="s2">what we&#39;re<span style="s4"> doing</span> here and what<span style="s4"> dan</span> is</p>
+<p begin="00:05:03.389" end="00:05:08.669" style="s2">going to explain to<span style="s4"> you</span> is we are going</p>
+<p begin="00:05:06.990" end="00:05:12.419" style="s2"><span style="s3">to</span> use<span style="s3"> we</span> have been using<span style="s4"> the</span> city</p>
+<p begin="00:05:08.669" end="00:05:15.930" style="s2">itself to test out an experiment with a</p>
+<p begin="00:05:12.419" end="00:05:18.479" style="s2">variety of green solutions to flooding</p>
+<p begin="00:05:15.930" end="00:05:20.849" style="s2">that we&#39;re going<span style="s4"> to</span><span style="s3"> use</span> to augment the</p>
+<p begin="00:05:18.479" end="00:05:22.020" style="s2">built infrastructure so basically what</p>
+<p begin="00:05:20.849" end="00:05:23.969" style="s2">we&#39;re kind of thinking<span style="s3"> of</span> doing is how</p>
+<p begin="00:05:22.020" end="00:05:25.020" style="s2">do you put back some of<span style="s3"> that</span> green space</p>
+<p begin="00:05:23.969" end="00:05:27.900" style="s2">how do you put back some<span style="s4"> of</span> those</p>
+<p begin="00:05:25.020" end="00:05:30.629" style="s2">natural processes to divert water from</p>
+<p begin="00:05:27.900" end="00:05:33.659" style="s2">the sewers and to put<span style="s3"> it</span> back into the</p>
+<p begin="00:05:30.629" end="00:05:36.569" style="s2"><span style="s3">natural system so</span> we have a variety of</p>
+<p begin="00:05:33.659" end="00:05:38.819" style="s2">green solutions and advanced analytics</p>
+<p begin="00:05:36.569" end="00:05:42.839" style="s2">applied to data which are collected from</p>
+<p begin="00:05:38.819" end="00:05:45.899" style="s2">sensors in these green infrastructure</p>
+<p begin="00:05:42.839" end="00:05:47.789" style="s2">sites so we have<span style="s3"> things</span> like replacing</p>
+<p begin="00:05:45.899" end="00:05:49.860" style="s2">asphalt with something that&#39;s permeable</p>
+<p begin="00:05:47.789" end="00:05:52.229" style="s2">and then putting<span style="s3"> a</span> package of sensors</p>
+<p begin="00:05:49.860" end="00:05:53.610" style="s2">down there that will understand how much</p>
+<p begin="00:05:52.229" end="00:05:54.839" style="s2">water you&#39;re being that is being</p>
+<p begin="00:05:53.610" end="00:05:56.550" style="s2">diverted you have things like</p>
+<p begin="00:05:54.839" end="00:05:59.520" style="s2">infiltration planters and infiltration</p>
+<p begin="00:05:56.550" end="00:06:02.610" style="s2">bump-outs and bios<span style="s3"> wales</span> where a bio</p>
+<p begin="00:05:59.520" end="00:06:04.529" style="s2">soil is where you have a sloped ass</p>
+<p begin="00:06:02.610" end="00:06:06.750" style="s2">local landscape and at the bottom<span style="s4"> you</span></p>
+<p begin="00:06:04.529" end="00:06:09.120" style="s2">have native plants that again draw the</p>
+<p begin="00:06:06.750" end="00:06:11.009" style="s2">water<span style="s3"> back</span> in so you<span style="s4"> have</span> all<span style="s3"> these</span></p>
+<p begin="00:06:09.120" end="00:06:13.620" style="s2">green elements but what we don&#39;t have is</p>
+<p begin="00:06:11.009" end="00:06:15.479" style="s2">good data that talks<span style="s4"> about</span> the</p>
+<p begin="00:06:13.620" end="00:06:18.389" style="s2">performance<span style="s3"> and</span> talks about what&#39;s good</p>
+<p begin="00:06:15.479" end="00:06:20.789" style="s2">and where etcetera oh and<span style="s3"> it&#39;s</span> city</p>
+<p begin="00:06:18.389" end="00:06:23.009" style="s2">digital I should also mention we&#39;re also</p>
+<p begin="00:06:20.789" end="00:06:25.379" style="s2">helped on this project by our good</p>
+<p begin="00:06:23.009" end="00:06:27.419" style="s2">friends at glass water who<span style="s4"> are</span> scattered</p>
+<p begin="00:06:25.379" end="00:06:30.060" style="s2">around the room so to talk about<span style="s3"> the</span></p>
+<p begin="00:06:27.419" end="00:06:32.089" style="s2">actual experiment and what we found from</p>
+<p begin="00:06:30.060" end="00:06:35.330" style="s2">it I&#39;m going<span style="s3"> to</span> bring up my colleague</p>
+<p begin="00:06:32.089" end="00:06:35.330" style="s2">danneel<span style="s4"> Cudi</span></p>
+<p begin="00:06:39.210" end="00:06:46.120" style="s2">thank you so as Adam mentioned the we&#39;re</p>
+<p begin="00:06:44.650" end="00:06:47.860" style="s2"><span style="s3">going to be talking about</span> some green</p>
+<p begin="00:06:46.120" end="00:06:49.570" style="s2">infrastructure today so the subjection</p>
+<p begin="00:06:47.860" end="00:06:51.400" style="s2">of this project<span style="s4"> was</span> really to look at</p>
+<p begin="00:06:49.570" end="00:06:53.380" style="s2">green infrastructure and kind of<span style="s3"> be</span> able</p>
+<p begin="00:06:51.400" end="00:06:55.300" style="s2">to tell is it<span style="s3"> doing</span> what we expected<span style="s3"> to</span></p>
+<p begin="00:06:53.380" end="00:06:58.120" style="s2">do is it doing what we wanted to do and</p>
+<p begin="00:06:55.300" end="00:06:59.530" style="s2">can we be able<span style="s3"> to tell how the screen</span></p>
+<p begin="00:06:58.120" end="00:07:01.480" style="s2"><span style="s3">infrastructure is functioning in a real</span></p>
+<p begin="00:06:59.530" end="00:07:04.120" style="s2">time and then be<span style="s4"> able</span><span style="s3"> to</span> modify and and</p>
+<p begin="00:07:01.480" end="00:07:05.710" style="s2">correct and adjust the green</p>
+<p begin="00:07:04.120" end="00:07:07.330" style="s2">infrastructure as needed based on that</p>
+<p begin="00:07:05.710" end="00:07:09.640" style="s2">information<span style="s3"> that</span> we&#39;re receiving so in</p>
+<p begin="00:07:07.330" end="00:07:10.810" style="s2">order to do that sensors were installed</p>
+<p begin="00:07:09.640" end="00:07:12.310" style="s2">across four different green</p>
+<p begin="00:07:10.810" end="00:07:15.130" style="s2">infrastructure types in the city so the</p>
+<p begin="00:07:12.310" end="00:07:17.230" style="s2">four types so we&#39;re looking at where<span style="s3"> a</span></p>
+<p begin="00:07:15.130" end="00:07:19.090" style="s2">bioswale permeable pavements</p>
+<p begin="00:07:17.230" end="00:07:21.040" style="s2">infiltration<span style="s3"> planters</span> and tree<span style="s3"> graves</span></p>
+<p begin="00:07:19.090" end="00:07:23.920" style="s2">and<span style="s3"> four</span> sites around the city of</p>
+<p begin="00:07:21.040" end="00:07:25.900" style="s2"><span style="s4">Chicago</span> identified for that and then</p>
+<p begin="00:07:23.920" end="00:07:28.750" style="s2">some of<span style="s3"> you</span> may or may not have seen</p>
+<p begin="00:07:25.900" end="00:07:31.270" style="s2"><span style="s3">these</span> big orange boxes on Argyle so that</p>
+<p begin="00:07:28.750" end="00:07:32.920" style="s2">was<span style="s3"> part</span> of the<span style="s3"> sensor</span> deployment so</p>
+<p begin="00:07:31.270" end="00:07:34.240" style="s2">essentially sensors were deployed<span style="s3"> if</span></p>
+<p begin="00:07:32.920" end="00:07:37.150" style="s2">these green infrastructure sites and</p>
+<p begin="00:07:34.240" end="00:07:40.150" style="s2">data<span style="s3"> streams</span> from those sensors so you</p>
+<p begin="00:07:37.150" end="00:07:42.910" style="s2">can collect information<span style="s3"> about</span> soil</p>
+<p begin="00:07:40.150" end="00:07:44.919" style="s2">moisture saturation precipitation</p>
+<p begin="00:07:42.910" end="00:07:47.470" style="s2">temperatures you<span style="s4"> can</span> kind of correlate</p>
+<p begin="00:07:44.919" end="00:07:49.360" style="s2">the performance of your GI site with</p>
+<p begin="00:07:47.470" end="00:07:52.000" style="s2">what&#39;s happening in the in<span style="s4"> the</span> world at</p>
+<p begin="00:07:49.360" end="00:07:56.110" style="s2">the time in<span style="s3"> terms</span> of weather and then</p>
+<p begin="00:07:52.000" end="00:07:57.310" style="s2">use that to<span style="s4"> make</span> decision but for sites</p>
+<p begin="00:07:56.110" end="00:07:59.500" style="s2">were identified in<span style="s4"> the</span> city<span style="s4"> of</span> Chicago</p>
+<p begin="00:07:57.310" end="00:08:00.940" style="s2"><span style="s3">so</span> one of them is<span style="s3"> West</span> Argyle Street</p>
+<p begin="00:07:59.500" end="00:08:02.740" style="s2">which is<span style="s4"> between</span><span style="s3"> north broadway and</span></p>
+<p begin="00:08:00.940" end="00:08:04.510" style="s2">sheridan and at that site permeable</p>
+<p begin="00:08:02.740" end="00:08:06.880" style="s2">pavers and infiltration planters were</p>
+<p begin="00:08:04.510" end="00:08:08.470" style="s2">used there&#39;s also a<span style="s3"> bios</span> well at the UI</p>
+<p begin="00:08:06.880" end="00:08:11.050" style="s2">labs headquarters which is in<span style="s3"> Goose</span></p>
+<p begin="00:08:08.470" end="00:08:12.730" style="s2"><span style="s3">Island</span> and then porous asphalt was</p>
+<p begin="00:08:11.050" end="00:08:14.290" style="s2">implemented at the South Langley Avenue</p>
+<p begin="00:08:12.730" end="00:08:16.030" style="s2">site and then in<span style="s4"> South</span> cottage grove</p>
+<p begin="00:08:14.290" end="00:08:18.330" style="s2">between 77th and seventy-ninth Street</p>
+<p begin="00:08:16.030" end="00:08:20.380" style="s2">there were infiltration bump-outs</p>
+<p begin="00:08:18.330" end="00:08:22.600" style="s2">infiltration planters and permeable</p>
+<p begin="00:08:20.380" end="00:08:24.370" style="s2">pavers that<span style="s4"> were</span> used so<span style="s3"> currently</span> we</p>
+<p begin="00:08:22.600" end="00:08:27.280" style="s2">have data streaming from both the West</p>
+<p begin="00:08:24.370" end="00:08:29.890" style="s2">Argyle site and the UI lab site and then</p>
+<p begin="00:08:27.280" end="00:08:31.390" style="s2"><span style="s3">from</span> the West are Gaza the West Argyle</p>
+<p begin="00:08:29.890" end="00:08:33.190" style="s2">site the data streaming from the</p>
+<p begin="00:08:31.390" end="00:08:37.659" style="s2">infiltration planter and soon<span style="s4"> will</span> be</p>
+<p begin="00:08:33.190" end="00:08:38.979" style="s2"><span style="s3">streaming</span> from the permeable pavers so</p>
+<p begin="00:08:37.659" end="00:08:40.659" style="s2">these are photos that kind<span style="s3"> of</span> show what</p>
+<p begin="00:08:38.979" end="00:08:43.510" style="s2">it looks like<span style="s4"> to</span> implement a sensor at</p>
+<p begin="00:08:40.659" end="00:08:45.370" style="s2">one of these sites so it<span style="s4"> involves</span> you</p>
+<p begin="00:08:43.510" end="00:08:46.839" style="s2">can see the sensor implementation here</p>
+<p begin="00:08:45.370" end="00:08:49.329" style="s2">and then these homemade boxes that</p>
+<p begin="00:08:46.839" end="00:08:51.549" style="s2">contain some of the sensor equipment</p>
+<p begin="00:08:49.329" end="00:08:55.569" style="s2">that are locked<span style="s3"> up</span> and then placed near</p>
+<p begin="00:08:51.549" end="00:08:56.829" style="s2">the<span style="s3"> site</span> so what happens once we get the</p>
+<p begin="00:08:55.569" end="00:08:59.110" style="s2">sensors in the ground and we&#39;re trying</p>
+<p begin="00:08:56.829" end="00:09:01.689" style="s2">to collect this information<span style="s3"> ops</span><span style="s4"> II</span></p>
+<p begin="00:08:59.110" end="00:09:04.089" style="s2"><span style="s3">helped</span> us in order to stream this data</p>
+<p begin="00:09:01.689" end="00:09:07.239" style="s2">to a<span style="s4"> platform</span> that<span style="s3"> you</span> can access<span style="s3"> and</span></p>
+<p begin="00:09:04.089" end="00:09:08.920" style="s2">connect to over 20,000 data streams so</p>
+<p begin="00:09:07.239" end="00:09:10.749" style="s2">you&#39;re blending<span style="s3"> mouse</span> external data sets</p>
+<p begin="00:09:08.920" end="00:09:12.369" style="s2">with live local data and you&#39;re able<span style="s4"> to</span></p>
+<p begin="00:09:10.749" end="00:09:14.350" style="s2">kind of put together this dashboard that</p>
+<p begin="00:09:12.369" end="00:09:16.209" style="s2">shows you what&#39;s really occurring so</p>
+<p begin="00:09:14.350" end="00:09:18.519" style="s2">currently we have data streaming from</p>
+<p begin="00:09:16.209" end="00:09:21.339" style="s2">the UI lab site as well as in the Argyle</p>
+<p begin="00:09:18.519" end="00:09:23.110" style="s2">site as<span style="s3"> I</span> mentioned and currently I</p>
+<p begin="00:09:21.339" end="00:09:26.049" style="s2">believe they said<span style="s3"> that</span> the data set to</p>
+<p begin="00:09:23.110" end="00:09:28.899" style="s2">go live on Thursday so<span style="s3"> that</span> people can</p>
+<p begin="00:09:26.049" end="00:09:30.220" style="s2">can access it we&#39;re also kind of working</p>
+<p begin="00:09:28.899" end="00:09:32.470" style="s2">with a limited data set at the moment</p>
+<p begin="00:09:30.220" end="00:09:35.410" style="s2">because<span style="s4"> of</span><span style="s3"> early</span> challenges with getting</p>
+<p begin="00:09:32.470" end="00:09:37.029" style="s2">sensors online and offline so we&#39;re</p>
+<p begin="00:09:35.410" end="00:09:38.259" style="s2"><span style="s3">going</span> to continue<span style="s3"> to</span> monitor data over</p>
+<p begin="00:09:37.029" end="00:09:40.509" style="s2">an extended period of time throughout</p>
+<p begin="00:09:38.259" end="00:09:42.399" style="s2">the coming year in order<span style="s3"> to</span> have<span style="s4"> a</span> more</p>
+<p begin="00:09:40.509" end="00:09:44.739" style="s2">comprehensive data set that<span style="s3"> covers a</span></p>
+<p begin="00:09:42.399" end="00:09:47.559" style="s2">wide variety of weather events including</p>
+<p begin="00:09:44.739" end="00:09:48.999" style="s2">significant rainfall so what are<span style="s4"> the</span></p>
+<p begin="00:09:47.559" end="00:09:52.749" style="s2">implications of working with data like</p>
+<p begin="00:09:48.999" end="00:09:54.459" style="s2"><span style="s4">this</span> so the goal of you I labs</p>
+<p begin="00:09:52.749" end="00:09:56.019" style="s2">ultimately is beyond this pilot project</p>
+<p begin="00:09:54.459" end="00:09:57.669" style="s2">and it&#39;s kind of why everyone is here</p>
+<p begin="00:09:56.019" end="00:10:00.399" style="s2">today which<span style="s4"> is</span> to look at how we<span style="s3"> can</span></p>
+<p begin="00:09:57.669" end="00:10:02.649" style="s2">integrate solutions to solve<span style="s4"> real-world</span></p>
+<p begin="00:10:00.399" end="00:10:04.269" style="s2">problems so what we&#39;re noticing or what</p>
+<p begin="00:10:02.649" end="00:10:05.980" style="s2">we&#39;re trying to advocate here is that</p>
+<p begin="00:10:04.269" end="00:10:07.809" style="s2">you know you can integrate physical</p>
+<p begin="00:10:05.980" end="00:10:09.519" style="s2">hardware and digital platforms in order</p>
+<p begin="00:10:07.809" end="00:10:11.470" style="s2">to provide<span style="s3"> the</span> ability to deploy and</p>
+<p begin="00:10:09.519" end="00:10:13.480" style="s2">test smart solutions to improve water</p>
+<p begin="00:10:11.470" end="00:10:15.160" style="s2">planning decision-making and ultimately</p>
+<p begin="00:10:13.480" end="00:10:17.739" style="s2">better respond to these emerging water</p>
+<p begin="00:10:15.160" end="00:10:18.759" style="s2">challenges to<span style="s3"> Adam</span> touched on earlier so</p>
+<p begin="00:10:17.739" end="00:10:21.629" style="s2">some of the things<span style="s4"> that</span><span style="s3"> we&#39;re</span> noticing</p>
+<p begin="00:10:18.759" end="00:10:23.439" style="s2">are that cities utilities<span style="s4"> and</span> many other</p>
+<p begin="00:10:21.629" end="00:10:25.329" style="s2"><span style="s4">organizations</span> are looking at smart</p>
+<p begin="00:10:23.439" end="00:10:26.919" style="s2">technology and practices to solve their</p>
+<p begin="00:10:25.329" end="00:10:28.629" style="s2">water solutions so when you have<span style="s4"> a</span> pilot</p>
+<p begin="00:10:26.919" end="00:10:31.119" style="s2">project like this you<span style="s3"> have</span> live data</p>
+<p begin="00:10:28.629" end="00:10:33.790" style="s2">that&#39;s streaming you can get hyperlocal</p>
+<p begin="00:10:31.119" end="00:10:35.799" style="s2">information in order to improve</p>
+<p begin="00:10:33.790" end="00:10:37.419" style="s2">decision-making you can look at things</p>
+<p begin="00:10:35.799" end="00:10:39.279" style="s2">like connecting flood sensors to enhance</p>
+<p begin="00:10:37.419" end="00:10:41.259" style="s2">disaster management response and improve</p>
+<p begin="00:10:39.279" end="00:10:42.850" style="s2">it you can look<span style="s3"> at</span> integrating data into</p>
+<p begin="00:10:41.259" end="00:10:44.110" style="s2">urban resilience<span style="s3"> datasets so that it&#39;s</span></p>
+<p begin="00:10:42.850" end="00:10:46.239" style="s2">accessible and used to enhance</p>
+<p begin="00:10:44.110" end="00:10:48.129" style="s2"><span style="s3">decision-making</span> you can<span style="s3"> develop</span> smart</p>
+<p begin="00:10:46.239" end="00:10:50.829" style="s2">utility strategies that develop specific</p>
+<p begin="00:10:48.129" end="00:10:52.209" style="s2">goals based on data that you&#39;ve seen you</p>
+<p begin="00:10:50.829" end="00:10:54.669" style="s2"><span style="s3">can</span> even develop apps and software</p>
+<p begin="00:10:52.209" end="00:10:56.499" style="s2">systems that connect people like us<span style="s4"> to</span></p>
+<p begin="00:10:54.669" end="00:10:58.600" style="s2">community data on water infrastructure</p>
+<p begin="00:10:56.499" end="00:11:00.129" style="s2">opportunities on a consistent basis and</p>
+<p begin="00:10:58.600" end="00:11:02.379" style="s2">New York&#39;s<span style="s4"> the</span> city that&#39;s kind of begun</p>
+<p begin="00:11:00.129" end="00:11:03.260" style="s2">to do that in terms of connecting data</p>
+<p begin="00:11:02.379" end="00:11:06.370" style="s2">with people</p>
+<p begin="00:11:03.260" end="00:11:08.900" style="s2">and then opportunities for projects work</p>
+<p begin="00:11:06.370" end="00:11:13.390" style="s2">so to talk more<span style="s3"> about</span> our information</p>
+<p begin="00:11:08.900" end="00:11:13.390" style="s2">and data I will pass<span style="s4"> it</span> off to Tom<span style="s3"> sink</span></p>
+<p begin="00:11:13.450" end="00:11:24.230" style="s2"><span style="s3">hey</span> well thank you so I&#39;m here which</p>
+<p begin="00:11:21.320" end="00:11:25.730" style="s2">means somebody<span style="s3"> said</span> the word data I&#39;m</p>
+<p begin="00:11:24.230" end="00:11:27.440" style="s2">the chief data officer for the city<span style="s3"> of</span></p>
+<p begin="00:11:25.730" end="00:11:29.450" style="s2">Chicago<span style="s3"> now</span> I&#39;m going<span style="s3"> to</span> want<span style="s4"> to</span> walk</p>
+<p begin="00:11:27.440" end="00:11:31.010" style="s2">through a little<span style="s3"> bit</span> about how we&#39;re</p>
+<p begin="00:11:29.450" end="00:11:33.020" style="s2">trying to take this project<span style="s4"> and</span> turn</p>
+<p begin="00:11:31.010" end="00:11:35.020" style="s2">into<span style="s3"> an</span> open data project you heard</p>
+<p begin="00:11:33.020" end="00:11:37.280" style="s2">about the context of this about</p>
+<p begin="00:11:35.020" end="00:11:41.480" style="s2">sustainability about green</p>
+<p begin="00:11:37.280" end="00:11:43.130" style="s2">infrastructure about returning our<span style="s4"> 5,000</span></p>
+<p begin="00:11:41.480" end="00:11:49.750" style="s2">miles of streets<span style="s3"> back</span> from<span style="s3"> being</span> a</p>
+<p begin="00:11:43.130" end="00:11:52.070" style="s2">man-made river back to back to nature so</p>
+<p begin="00:11:49.750" end="00:11:53.690" style="s2">how can<span style="s3"> we</span> do this<span style="s3"> now</span> what&#39;s<span style="s3"> really</span></p>
+<p begin="00:11:52.070" end="00:11:55.130" style="s2">important around science we all notice</p>
+<p begin="00:11:53.690" end="00:11:57.890" style="s2">what&#39;s really<span style="s3"> important</span> about science</p>
+<p begin="00:11:55.130" end="00:11:59.510" style="s2">what makes it survive its openness</p>
+<p begin="00:11:57.890" end="00:12:00.920" style="s2">around science that others can get</p>
+<p begin="00:11:59.510" end="00:12:03.080" style="s2"><span style="s4">access</span> to the numbers others can get</p>
+<p begin="00:12:00.920" end="00:12:05.360" style="s2"><span style="s4">access</span> to the data so we can all explore</p>
+<p begin="00:12:03.080" end="00:12:09.020" style="s2">we can explore the questions that were</p>
+<p begin="00:12:05.360" end="00:12:12.160" style="s2">posed to<span style="s4"> us</span> today about does this really</p>
+<p begin="00:12:09.020" end="00:12:15.430" style="s2">capture soil moisture how much soil</p>
+<p begin="00:12:12.160" end="00:12:17.810" style="s2">moisture are we capturing through these</p>
+<p begin="00:12:15.430" end="00:12:19.670" style="s2">little green<span style="s3"> parkways</span> now that we have</p>
+<p begin="00:12:17.810" end="00:12:21.920" style="s2">on the side of the streets<span style="s3"> but</span> there&#39;s</p>
+<p begin="00:12:19.670" end="00:12:23.630" style="s2">other questions that you might ask so</p>
+<p begin="00:12:21.920" end="00:12:25.490" style="s2">this data the data that&#39;s driving these</p>
+<p begin="00:12:23.630" end="00:12:28.430" style="s2">these internet of things that basically</p>
+<p begin="00:12:25.490" end="00:12:30.350" style="s2">are now embedded into the<span style="s3"> streets</span> we&#39;re</p>
+<p begin="00:12:28.430" end="00:12:32.510" style="s2">publishing on to the open data portal</p>
+<p begin="00:12:30.350" end="00:12:33.680" style="s2">and that&#39;s why i have here behind me i&#39;m</p>
+<p begin="00:12:32.510" end="00:12:35.750" style="s2">going<span style="s3"> to show you just</span> some raw data</p>
+<p begin="00:12:33.680" end="00:12:37.910" style="s2">first so everybody loves raw data and</p>
+<p begin="00:12:35.750" end="00:12:39.440" style="s2">we&#39;ll<span style="s3"> get into some graphs and take a</span></p>
+<p begin="00:12:37.910" end="00:12:41.630" style="s2">look<span style="s3"> at</span> this now there&#39;s a<span style="s3"> variety</span> of</p>
+<p begin="00:12:39.440" end="00:12:42.950" style="s2"><span style="s3">different</span> sensors that you you&#39;re<span style="s3"> going</span></p>
+<p begin="00:12:41.630" end="00:12:45.020" style="s2"><span style="s3">to</span> see lift it out you&#39;re going<span style="s3"> to have</span></p>
+<p begin="00:12:42.950" end="00:12:49.010" style="s2">rainfall and air temperature on the</p>
+<p begin="00:12:45.020" end="00:12:51.380" style="s2"><span style="s4">Argyle</span> sensors on<span style="s4"> the</span> north side wind</p>
+<p begin="00:12:49.010" end="00:12:53.300" style="s2">pressure wind speed<span style="s4"> sorry</span> barometric</p>
+<p begin="00:12:51.380" end="00:12:55.190" style="s2">pressure wind speed and<span style="s3"> then</span> we have</p>
+<p begin="00:12:53.300" end="00:12:57.500" style="s2">sensors at the<span style="s4"> langley</span> station as<span style="s4"> well</span></p>
+<p begin="00:12:55.190" end="00:13:00.170" style="s2">such as air temperature rainfall again</p>
+<p begin="00:12:57.500" end="00:13:01.940" style="s2">pressure wind speed and<span style="s3"> a</span> variety<span style="s3"> of</span></p>
+<p begin="00:13:00.170" end="00:13:03.650" style="s2"><span style="s4">different</span> things so we have this data</p>
+<p begin="00:13:01.940" end="00:13:05.720" style="s2">now starting to populate in the open</p>
+<p begin="00:13:03.650" end="00:13:07.460" style="s2"><span style="s3">data</span> portal now I&#39;m gonna have<span style="s3"> to</span> pause</p>
+<p begin="00:13:05.720" end="00:13:10.400" style="s2">and<span style="s3"> say</span> something that&#39;s kind of weird</p>
+<p begin="00:13:07.460" end="00:13:12.050" style="s2">it&#39;s not<span style="s3"> public</span> yet we have to make a</p>
+<p begin="00:13:10.400" end="00:13:13.700" style="s2">tweak to be able<span style="s3"> to handle the large</span></p>
+<p begin="00:13:12.050" end="00:13:15.290" style="s2">volume of data<span style="s3"> that</span> we&#39;re expected to</p>
+<p begin="00:13:13.700" end="00:13:17.059" style="s2">see over the next couple of years and</p>
+<p begin="00:13:15.290" end="00:13:19.039" style="s2">that tweak is going to<span style="s4"> taint</span> change</p>
+<p begin="00:13:17.059" end="00:13:20.419" style="s2">URL so we&#39;re waiting a couple days</p>
+<p begin="00:13:19.039" end="00:13:23.449" style="s2">because we have to make<span style="s3"> one</span> change and</p>
+<p begin="00:13:20.419" end="00:13:24.829" style="s2">then it will<span style="s3"> be</span> public and live and the</p>
+<p begin="00:13:23.449" end="00:13:26.299" style="s2">state is going<span style="s3"> to be streaming hourly</span></p>
+<p begin="00:13:24.829" end="00:13:28.969" style="s2">currently that&#39;s what it&#39;s doing right</p>
+<p begin="00:13:26.299" end="00:13:30.769" style="s2">now behind the<span style="s3"> scenes</span> on the half hour</p>
+<p begin="00:13:28.969" end="00:13:34.369" style="s2">every single hour the data is<span style="s3"> being</span></p>
+<p begin="00:13:30.769" end="00:13:37.189" style="s2">updated so let&#39;s<span style="s3"> just take a very brief</span></p>
+<p begin="00:13:34.369" end="00:13:39.609" style="s2">look behind some of the data now that</p>
+<p begin="00:13:37.189" end="00:13:41.719" style="s2">for<span style="s3"> those</span> who have<span style="s3"> not</span> those who<span style="s4"> are</span> new</p>
+<p begin="00:13:39.609" end="00:13:46.939" style="s2"><span style="s3">Derek</span> I&#39;m not sure if you did who&#39;s new</p>
+<p begin="00:13:41.719" end="00:13:48.799" style="s2">here<span style="s3"> not yet yeah so who&#39;s new here all</span></p>
+<p begin="00:13:46.939" end="00:13:53.029" style="s2">right who&#39;s never seen the open<span style="s3"> data</span></p>
+<p begin="00:13:48.799" end="00:13:54.499" style="s2">portal all right all right good so dated</p>
+<p begin="00:13:53.029" end="00:13:56.449" style="s2">at city<span style="s4"> of</span> Chicago org that&#39;s the</p>
+<p begin="00:13:54.499" end="00:13:59.529" style="s2">website that you&#39;ll go to know see this</p>
+<p begin="00:13:56.449" end="00:14:03.949" style="s2">sort of data now this data is</p>
+<p begin="00:13:59.529" end="00:14:05.719" style="s2">temperature over a period of time it&#39;s</p>
+<p begin="00:14:03.949" end="00:14:08.329" style="s2">on this<span style="s3"> little</span> time line series graph</p>
+<p begin="00:14:05.719" end="00:14:13.309" style="s2">here so we can<span style="s4"> zoom</span> into different time</p>
+<p begin="00:14:08.329" end="00:14:17.269" style="s2">periods and a measurement value of 10 10</p>
+<p begin="00:14:13.309" end="00:14:18.939" style="s2">degrees Celsius let&#39;s take<span style="s3"> a</span> look<span style="s3"> at</span> a</p>
+<p begin="00:14:17.269" end="00:14:23.779" style="s2">little<span style="s3"> bit</span> more interesting of a graph</p>
+<p begin="00:14:18.939" end="00:14:27.979" style="s2">someday it&#39;s a bit<span style="s3"> more</span> relevant so what</p>
+<p begin="00:14:23.779" end="00:14:29.919" style="s2">we&#39;re taking a look at here is various</p>
+<p begin="00:14:27.979" end="00:14:33.129" style="s2">different metrics this is actually a big</p>
+<p begin="00:14:29.919" end="00:14:38.779" style="s2">big hodgepodge of a lot of stuff</p>
+<p begin="00:14:33.129" end="00:14:41.479" style="s2">pressure rainfall again more wind</p>
+<p begin="00:14:38.779" end="00:14:43.909" style="s2">direction wind speed the soil most</p>
+<p begin="00:14:41.479" end="00:14:44.779" style="s2">moisture that&#39;s being measured so now</p>
+<p begin="00:14:43.909" end="00:14:46.339" style="s2">you can be able to take a look at this</p>
+<p begin="00:14:44.779" end="00:14:47.779" style="s2"><span style="s3">over</span> a long period of time what<span style="s4"> are</span> the</p>
+<p begin="00:14:46.339" end="00:14:49.459" style="s2">ebbs and flows what are the ups and</p>
+<p begin="00:14:47.779" end="00:14:50.989" style="s2">downs you&#39;re going to see<span style="s3"> information</span></p>
+<p begin="00:14:49.459" end="00:14:53.059" style="s2">such as what is the rainfall right now</p>
+<p begin="00:14:50.989" end="00:14:54.649" style="s2">and then shortly<span style="s3"> thereafter</span> hopefully</p>
+<p begin="00:14:53.059" end="00:14:56.419" style="s2">you&#39;re going to see an uptick and the</p>
+<p begin="00:14:54.649" end="00:14:58.249" style="s2">amount<span style="s3"> of</span> moisture that&#39;s being captured</p>
+<p begin="00:14:56.419" end="00:15:01.159" style="s2">through these sensors through these</p>
+<p begin="00:14:58.249" end="00:15:02.209" style="s2">pieces of giving a little<span style="s4"> parkway</span> so</p>
+<p begin="00:15:01.159" end="00:15:03.349" style="s2">you&#39;re going to<span style="s3"> be</span> able have access to</p>
+<p begin="00:15:02.209" end="00:15:04.759" style="s2">that<span style="s3"> again</span> it&#39;s going<span style="s3"> to</span> be streaming</p>
+<p begin="00:15:03.349" end="00:15:06.499" style="s2">it&#39;s going to<span style="s3"> be</span> available<span style="s3"> every</span> single</p>
+<p begin="00:15:04.759" end="00:15:07.939" style="s2">hour which you<span style="s3"> can</span> use to answer the</p>
+<p begin="00:15:06.499" end="00:15:10.009" style="s2">questions that were raised here today</p>
+<p begin="00:15:07.939" end="00:15:11.839" style="s2">you might<span style="s3"> be</span> able<span style="s3"> to</span> answer ask your<span style="s3"> own</span></p>
+<p begin="00:15:10.009" end="00:15:13.279" style="s2">questions and have those answered as</p>
+<p begin="00:15:11.839" end="00:15:19.249" style="s2">well whether or<span style="s4"> not</span> you&#39;re in university</p>
+<p begin="00:15:13.279" end="00:15:21.499" style="s2">students doing this as a is<span style="s3"> just</span> a point</p>
+<p begin="00:15:19.249" end="00:15:23.989" style="s2">of interest so of<span style="s4"> course</span> the city of</p>
+<p begin="00:15:21.499" end="00:15:25.129" style="s2"><span style="s4">Chicago</span> City digital and all the</p>
+<p begin="00:15:23.989" end="00:15:26.419" style="s2">partners about this are going to be very</p>
+<p begin="00:15:25.129" end="00:15:28.339" style="s2"><span style="s3">interested</span><span style="s4"> in</span> how you are going to be</p>
+<p begin="00:15:26.419" end="00:15:30.079" style="s2">able to use that this<span style="s3"> is</span> going to<span style="s3"> help</span></p>
+<p begin="00:15:28.339" end="00:15:30.410" style="s2">us drive what do we want to<span style="s4"> do</span> next with</p>
+<p begin="00:15:30.079" end="00:15:32.959" style="s2">this</p>
+<p begin="00:15:30.410" end="00:15:34.639" style="s2">can we use this sort of data beyond the</p>
+<p begin="00:15:32.959" end="00:15:36.110" style="s2">original scope of questions and that&#39;s</p>
+<p begin="00:15:34.639" end="00:15:38.810" style="s2">something that this community does best</p>
+<p begin="00:15:36.110" end="00:15:41.050" style="s2">so that&#39;s all<span style="s4"> I have and as we get</span><span style="s3"> this</span></p>
+<p begin="00:15:38.810" end="00:15:43.550" style="s2">data online we expect it to be online by</p>
+<p begin="00:15:41.050" end="00:15:45.709" style="s2">Thursday you&#39;ll be able<span style="s3"> to</span> go and visit</p>
+<p begin="00:15:43.550" end="00:15:48.980" style="s2">it again download that<span style="s3"> data</span> and connect</p>
+<p begin="00:15:45.709" end="00:15:59.560" style="s2">to the open data<span style="s4"> portals</span> api&#39;s<span style="s4"> alright</span></p>
+<p begin="00:15:48.980" end="00:16:01.399" style="s2">so<span style="s3"> that&#39;s</span> all I<span style="s3"> have</span> so once you notice</p>
+<p begin="00:15:59.560" end="00:16:03.410" style="s2">when you guys are finished collecting</p>
+<p begin="00:16:01.399" end="00:16:05.569" style="s2">all your data like suppose<span style="s3"> that</span> you find</p>
+<p begin="00:16:03.410" end="00:16:07.459" style="s2">that the permeable pavers are cheap and</p>
+<p begin="00:16:05.569" end="00:16:09.649" style="s2">they work great then what&#39;s the next</p>
+<p begin="00:16:07.459" end="00:16:12.379" style="s2">step does<span style="s3"> that</span> become like what Chicago</p>
+<p begin="00:16:09.649" end="00:16:14.959" style="s2">uses to pave everything or where do you</p>
+<p begin="00:16:12.379" end="00:16:19.759" style="s2">guys go after<span style="s3"> that</span> initial data</p>
+<p begin="00:16:14.959" end="00:16:21.980" style="s2">collection so one of the one of the</p>
+<p begin="00:16:19.759" end="00:16:23.360" style="s2"><span style="s3">goals</span> lines pile is too so you&#39;re</p>
+<p begin="00:16:21.980" end="00:16:25.490" style="s2">getting this data from these sites and</p>
+<p begin="00:16:23.360" end="00:16:27.079" style="s2">and you&#39;re one<span style="s4"> of</span> the things that<span style="s4"> you&#39;re</span></p>
+<p begin="00:16:25.490" end="00:16:29.750" style="s2">going<span style="s3"> to</span> be<span style="s4"> able</span><span style="s3"> to</span> tell is which GI</p>
+<p begin="00:16:27.079" end="00:16:31.129" style="s2">which GI type function and different</p>
+<p begin="00:16:29.750" end="00:16:32.839" style="s2">types<span style="s3"> of</span> reinvents better right so you</p>
+<p begin="00:16:31.129" end="00:16:35.300" style="s2">might have you might<span style="s3"> find</span> from your data</p>
+<p begin="00:16:32.839" end="00:16:37.579" style="s2">that<span style="s3"> one</span> type of GI functions better<span style="s3"> the</span></p>
+<p begin="00:16:35.300" end="00:16:39.350" style="s2">strong rain event that&#39;s very intense</p>
+<p begin="00:16:37.579" end="00:16:41.180" style="s2">and short whereas one functions better</p>
+<p begin="00:16:39.350" end="00:16:43.250" style="s2">for a smaller amount of rain<span style="s4"> over</span></p>
+<p begin="00:16:41.180" end="00:16:44.300" style="s2">consistent period<span style="s3"> type</span> so what we&#39;re</p>
+<p begin="00:16:43.250" end="00:16:46.009" style="s2">doing this data is a kind of<span style="s3"> an</span></p>
+<p begin="00:16:44.300" end="00:16:47.810" style="s2">engineering analysis feedback loop in</p>
+<p begin="00:16:46.009" end="00:16:49.430" style="s2">order<span style="s3"> to analyze it</span> from that</p>
+<p begin="00:16:47.810" end="00:16:50.689" style="s2">perspective and see what come trends we</p>
+<p begin="00:16:49.430" end="00:16:55.490" style="s2">find so we can provide some design</p>
+<p begin="00:16:50.689" end="00:16:57.290" style="s2">recommendations for future GI hi there&#39;s</p>
+<p begin="00:16:55.490" end="00:16:59.120" style="s2">a new project that I raised and read</p>
+<p begin="00:16:57.290" end="00:17:01.759" style="s2">about about the news city street light</p>
+<p begin="00:16:59.120" end="00:17:03.589" style="s2"><span style="s3">project</span> where they&#39;re replacing LED</p>
+<p begin="00:17:01.759" end="00:17:05.720" style="s2">street street lamps<span style="s4"> and</span> installing them</p>
+<p begin="00:17:03.589" end="00:17:07.220" style="s2">and part of that<span style="s3"> infrastructure</span> that</p>
+<p begin="00:17:05.720" end="00:17:08.659" style="s2">they&#39;re laying in as the new remote</p>
+<p begin="00:17:07.220" end="00:17:10.640" style="s2">management system where we&#39;ll<span style="s3"> be</span> able to</p>
+<p begin="00:17:08.659" end="00:17:12.289" style="s2">monitor the<span style="s4"> street lights because</span><span style="s3"> there</span></p>
+<p begin="00:17:10.640" end="00:17:14.780" style="s2">have been<span style="s3"> any</span> discussion about expanding</p>
+<p begin="00:17:12.289" end="00:17:16.640" style="s2">the sensor technology so that you could</p>
+<p begin="00:17:14.780" end="00:17:18.289" style="s2">actually<span style="s3"> leverage</span> the network<span style="s3"> they&#39;re</span></p>
+<p begin="00:17:16.640" end="00:17:21.559" style="s2">building to manage the<span style="s4"> streetlights</span> to</p>
+<p begin="00:17:18.289" end="00:17:23.179" style="s2">get more sensor data and data points so</p>
+<p begin="00:17:21.559" end="00:17:24.350" style="s2">each one<span style="s3"> of</span> those technologies one of</p>
+<p begin="00:17:23.179" end="00:17:27.049" style="s2">those projects are a little bit</p>
+<p begin="00:17:24.350" end="00:17:28.370" style="s2">different scope with with<span style="s3"> the</span> city</p>
+<p begin="00:17:27.049" end="00:17:30.620" style="s2">street lights of the city<span style="s3"> of</span><span style="s4"> Chicago</span></p>
+<p begin="00:17:28.370" end="00:17:31.640" style="s2">which has an<span style="s3"> extraordinary</span> number of</p>
+<p begin="00:17:30.620" end="00:17:33.260" style="s2"><span style="s3">streetlights you can</span> only tell the</p>
+<p begin="00:17:31.640" end="00:17:34.520" style="s2">outline of the<span style="s3"> city</span> quite perfectly when</p>
+<p begin="00:17:33.260" end="00:17:36.440" style="s2">you fly over<span style="s4"> it</span> because<span style="s3"> it&#39;s treat like</span></p>
+<p begin="00:17:34.520" end="00:17:38.659" style="s2">they&#39;re being replaced and we&#39;re going</p>
+<p begin="00:17:36.440" end="00:17:40.610" style="s2"><span style="s3">to</span> move<span style="s4"> to</span> a more affordable form of</p>
+<p begin="00:17:38.659" end="00:17:42.200" style="s2">technology<span style="s4"> that</span> powers those but<span style="s4"> really</span></p>
+<p begin="00:17:40.610" end="00:17:43.940" style="s2">one of<span style="s3"> the</span> big focuses on those smart</p>
+<p begin="00:17:42.200" end="00:17:45.379" style="s2">street lights from<span style="s4"> the</span><span style="s3"> get-go</span> is</p>
+<p begin="00:17:43.940" end="00:17:47.840" style="s2">being able<span style="s3"> to</span> lower their<span style="s3"> costs to be</span></p>
+<p begin="00:17:45.379" end="00:17:49.279" style="s2">able<span style="s3"> to</span> better<span style="s3"> easy</span> manage those so for</p>
+<p begin="00:17:47.840" end="00:17:51.470" style="s2"><span style="s3">instance</span> now when a street light goes</p>
+<p begin="00:17:49.279" end="00:17:53.389" style="s2">out this is not<span style="s4"> kidding</span> but this is very</p>
+<p begin="00:17:51.470" end="00:17:55.850" style="s2"><span style="s3">pragmatic</span> when a street light goes out</p>
+<p begin="00:17:53.389" end="00:17:59.090" style="s2">our crews go out but our crews work</p>
+<p begin="00:17:55.850" end="00:18:01.039" style="s2">during the day so they take<span style="s3"> off</span> their</p>
+<p begin="00:17:59.090" end="00:18:03.769" style="s2">yellow vests they<span style="s3"> put</span> it over a sensor</p>
+<p begin="00:18:01.039" end="00:18:05.570" style="s2">and if the street light goes on<span style="s3"> it</span> but</p>
+<p begin="00:18:03.769" end="00:18:07.340" style="s2">one of<span style="s3"> them</span> does not great street lights</p>
+<p begin="00:18:05.570" end="00:18:08.450" style="s2">are out this is a pragmatic otherwise</p>
+<p begin="00:18:07.340" end="00:18:10.820" style="s2">you<span style="s4"> have</span> your street department working</p>
+<p begin="00:18:08.450" end="00:18:12.830" style="s2">all night and it&#39;s even<span style="s3"> adds to the</span></p>
+<p begin="00:18:10.820" end="00:18:16.009" style="s2">extent there&#39;s some other sensors that</p>
+<p begin="00:18:12.830" end="00:18:17.149" style="s2">might go<span style="s4"> into</span> the smart<span style="s3"> streetlights</span> but</p>
+<p begin="00:18:16.009" end="00:18:18.769" style="s2">of course<span style="s4"> we&#39;re</span> going to be very<span style="s3"> careful</span></p>
+<p begin="00:18:17.149" end="00:18:20.480" style="s2">about you<span style="s4"> know</span> not<span style="s3"> in</span> pin gene on</p>
+<p begin="00:18:18.769" end="00:18:21.620" style="s2">anybody&#39;s property or anybody&#39;s privacy</p>
+<p begin="00:18:20.480" end="00:18:24.019" style="s2">because they&#39;re going<span style="s3"> to</span> be everywhere</p>
+<p begin="00:18:21.620" end="00:18:26.120" style="s2">as opposed to<span style="s3"> these</span> which are very very</p>
+<p begin="00:18:24.019" end="00:18:28.429" style="s2">focused about points of collection that</p>
+<p begin="00:18:26.120" end="00:18:29.539" style="s2"><span style="s4">you</span> see of going into<span style="s3"> the</span> ground which</p>
+<p begin="00:18:28.429" end="00:18:30.679" style="s2"><span style="s4">is</span> smart<span style="s4"> streetlights</span> are<span style="s3"> not</span> going to</p>
+<p begin="00:18:29.539" end="00:18:32.570" style="s2">be great about because they&#39;re<span style="s3"> going to</span></p>
+<p begin="00:18:30.679" end="00:18:34.610" style="s2">be on pavement themselves and not<span style="s3"> only</span></p>
+<p begin="00:18:32.570" end="00:18:38.210" style="s2">smart infrastructure but in<span style="s3"> general</span></p>
+<p begin="00:18:34.610" end="00:18:39.230" style="s2">taking a step back over the<span style="s3"> next</span> year</p>
+<p begin="00:18:38.210" end="00:18:41.029" style="s2">you&#39;re going<span style="s3"> to</span> see a lot<span style="s4"> of</span> sensor</p>
+<p begin="00:18:39.230" end="00:18:42.860" style="s2">projects<span style="s3"> this</span> project is one of three</p>
+<p begin="00:18:41.029" end="00:18:45.230" style="s2">main sensors projects that the city of</p>
+<p begin="00:18:42.860" end="00:18:46.879" style="s2"><span style="s4">Chicago</span> is working on sustainable green</p>
+<p begin="00:18:45.230" end="00:18:48.230" style="s2">infrastructure monitoring the array of</p>
+<p begin="00:18:46.879" end="00:18:50.870" style="s2">things which has been talked about quite</p>
+<p begin="00:18:48.230" end="00:18:52.580" style="s2">a bit<span style="s4"> of</span> measuring measuring you</p>
+<p begin="00:18:50.870" end="00:18:53.870" style="s2">communities and then also the smart</p>
+<p begin="00:18:52.580" end="00:18:55.490" style="s2">streetlights project which is<span style="s3"> going</span><span style="s4"> to</span></p>
+<p begin="00:18:53.870" end="00:18:56.899" style="s2"><span style="s3">take</span> in some<span style="s3"> more</span><span style="s4"> information</span><span style="s3"> about</span></p>
+<p begin="00:18:55.490" end="00:18:58.580" style="s2">electricity use and other things that</p>
+<p begin="00:18:56.899" end="00:18:59.659" style="s2"><span style="s3">might be happy and we are keeping in</span></p>
+<p begin="00:18:58.580" end="00:19:01.220" style="s2">mind about all the data is being</p>
+<p begin="00:18:59.659" end="00:19:06.019" style="s2">collected how we can leverage that to</p>
+<p begin="00:19:01.220" end="00:19:08.090" style="s2">optimize our city operation so prior to</p>
+<p begin="00:19:06.019" end="00:19:09.679" style="s2">the installation of these sensors would</p>
+<p begin="00:19:08.090" end="00:19:12.379" style="s2"><span style="s4">have</span> been some of<span style="s4"> the</span> ways that the city</p>
+<p begin="00:19:09.679" end="00:19:14.659" style="s2">has decided how how and which green</p>
+<p begin="00:19:12.379" end="00:19:17.080" style="s2">infrastructure elements during clue in a</p>
+<p begin="00:19:14.659" end="00:19:17.080" style="s2">given project</p>
+<p begin="00:19:25.160" end="00:19:30.870" style="s2">it blew the i&#39;m certainly not speaking</p>
+<p begin="00:19:29.610" end="00:19:32.340" style="s2"><span style="s3">on</span> behalf of the city but<span style="s4"> oftentimes</span> i</p>
+<p begin="00:19:30.870" end="00:19:33.540" style="s2">know a<span style="s4"> lot</span> of<span style="s3"> the</span> decisions that were</p>
+<p begin="00:19:32.340" end="00:19:35.040" style="s2">being<span style="s3"> made</span> around green infrastructure</p>
+<p begin="00:19:33.540" end="00:19:37.230" style="s2">we&#39;re<span style="s4"> oftentimes</span> done through modeling</p>
+<p begin="00:19:35.040" end="00:19:39.030" style="s2">so there&#39;s a model of<span style="s3"> the city sewer</span></p>
+<p begin="00:19:37.230" end="00:19:40.440" style="s2">itself that can look at overall</p>
+<p begin="00:19:39.030" end="00:19:42.030" style="s2">performance and then you know sort<span style="s3"> of</span></p>
+<p begin="00:19:40.440" end="00:19:44.220" style="s2">how to place these things as it comes in</p>
+<p begin="00:19:42.030" end="00:19:45.870" style="s2">and<span style="s3"> then</span> you look at sort of location</p>
+<p begin="00:19:44.220" end="00:19:47.670" style="s2">capital need and other things<span style="s3"> to</span> sort of</p>
+<p begin="00:19:45.870" end="00:19:48.720" style="s2">triangulate what makes sense<span style="s3"> i</span> think</p>
+<p begin="00:19:47.670" end="00:19:50.580" style="s2"><span style="s4">what&#39;s</span> very interesting about the</p>
+<p begin="00:19:48.720" end="00:19:52.680" style="s2">potential of this technology is to have</p>
+<p begin="00:19:50.580" end="00:19:53.580" style="s2">a feedback<span style="s4"> loop</span> to that so that if you</p>
+<p begin="00:19:52.680" end="00:19:55.890" style="s2">have some design or engineering</p>
+<p begin="00:19:53.580" end="00:19:57.480" style="s2">assumption you can actually<span style="s3"> test</span> it over</p>
+<p begin="00:19:55.890" end="00:20:02.340" style="s2">a longer period of time and with</p>
+<p begin="00:19:57.480" end="00:20:04.290" style="s2">multiple locations at scale what&#39;s the</p>
+<p begin="00:20:02.340" end="00:20:06.570" style="s2">relation between the overall size of the</p>
+<p begin="00:20:04.290" end="00:20:09.780" style="s2">problem and what each individual green</p>
+<p begin="00:20:06.570" end="00:20:11.520" style="s2">infrastructure unit brings and how much</p>
+<p begin="00:20:09.780" end="00:20:14.520" style="s2">would need to be built out in<span style="s3"> order</span> to</p>
+<p begin="00:20:11.520" end="00:20:15.870" style="s2">like I don&#39;t<span style="s3"> know</span> noticeably reduce the</p>
+<p begin="00:20:14.520" end="00:20:21.900" style="s2">amount of flooding or something along</p>
+<p begin="00:20:15.870" end="00:20:24.600" style="s2">those lines so if the question i think</p>
+<p begin="00:20:21.900" end="00:20:26.850" style="s2"><span style="s3">was</span> what&#39;s the what&#39;s the scale<span style="s4"> of</span> the</p>
+<p begin="00:20:24.600" end="00:20:28.910" style="s2">smart green infrastructure versus the</p>
+<p begin="00:20:26.850" end="00:20:32.010" style="s2">problem of flooding it&#39;s a it&#39;s<span style="s4"> a</span></p>
+<p begin="00:20:28.910" end="00:20:34.050" style="s2"><span style="s3">component</span><span style="s4"> of</span> the solution one of the</p>
+<p begin="00:20:32.010" end="00:20:37.860" style="s2">companies that<span style="s3"> we</span> worked with in fact</p>
+<p begin="00:20:34.050" end="00:20:39.240" style="s2"><span style="s4">Valle&#39;s</span> here today is opti who looks at</p>
+<p begin="00:20:37.860" end="00:20:42.300" style="s2">not just<span style="s4"> the</span> green infrastructure</p>
+<p begin="00:20:39.240" end="00:20:44.850" style="s2">elements but a number of other ways of</p>
+<p begin="00:20:42.300" end="00:20:46.290" style="s2">handling flooding like underneath the</p>
+<p begin="00:20:44.850" end="00:20:48.750" style="s2">large buildings in the city there are</p>
+<p begin="00:20:46.290" end="00:20:51.300" style="s2">holding tanks cisterns and there&#39;s<span style="s3"> about</span></p>
+<p begin="00:20:48.750" end="00:20:53.850" style="s2">a what it&#39;s about a<span style="s3"> four-inch</span> diameter</p>
+<p begin="00:20:51.300" end="00:20:57.360" style="s2"><span style="s3">hole</span> down there that drains it well what</p>
+<p begin="00:20:53.850" end="00:21:00.120" style="s2">if you got smart about using data to</p>
+<p begin="00:20:57.360" end="00:21:01.470" style="s2">model out when that whole should expand</p>
+<p begin="00:21:00.120" end="00:21:03.570" style="s2">and when it should contract and when you</p>
+<p begin="00:21:01.470" end="00:21:05.850" style="s2">should<span style="s3"> release</span> the the water out<span style="s4"> and</span></p>
+<p begin="00:21:03.570" end="00:21:09.600" style="s2">when<span style="s4"> you</span> shouldn&#39;t so my point here<span style="s3"> is</span></p>
+<p begin="00:21:05.850" end="00:21:14.520" style="s2">that it is just<span style="s3"> one</span> element of a of a</p>
+<p begin="00:21:09.600" end="00:21:16.740" style="s2">broader study<span style="s3"> I</span> would<span style="s3"> also</span> just add<span style="s4"> to</span></p>
+<p begin="00:21:14.520" end="00:21:18.390" style="s2">that that you<span style="s3"> know</span> one of<span style="s3"> the</span> goals is</p>
+<p begin="00:21:16.740" end="00:21:20.040" style="s2">to kind of identify which types of green</p>
+<p begin="00:21:18.390" end="00:21:22.020" style="s2">infrastructure can<span style="s3"> have</span> a maximum impact</p>
+<p begin="00:21:20.040" end="00:21:23.160" style="s2">on a certain types area so when you<span style="s3"> look</span></p>
+<p begin="00:21:22.020" end="00:21:25.410" style="s2">at some of<span style="s3"> our most flood-prone</span></p>
+<p begin="00:21:23.160" end="00:21:27.120" style="s2">communities or areas in the city you</p>
+<p begin="00:21:25.410" end="00:21:29.130" style="s2">know like her west side or south<span style="s3"> side</span></p>
+<p begin="00:21:27.120" end="00:21:31.770" style="s2">then you can kind<span style="s3"> of</span> start to look at it</p>
+<p begin="00:21:29.130" end="00:21:33.990" style="s2">from<span style="s3"> that</span> sense so it might not<span style="s4"> be</span> an</p>
+<p begin="00:21:31.770" end="00:21:35.130" style="s2">explicit number but that will help make</p>
+<p begin="00:21:33.990" end="00:21:37.340" style="s2">decision making so you can have a</p>
+<p begin="00:21:35.130" end="00:21:39.920" style="s2">maximal impact</p>
+<p begin="00:21:37.340" end="00:21:41.960" style="s2"><span style="s3">hey</span> yeah um so quick question<span style="s4"> about</span><span style="s3"> like</span></p>
+<p begin="00:21:39.920" end="00:21:44.870" style="s2">the individual sites right i mean i</p>
+<p begin="00:21:41.960" end="00:21:46.970" style="s2">think<span style="s3"> what</span> makes like a chicago project</p>
+<p begin="00:21:44.870" end="00:21:48.890" style="s2">interesting is you can test<span style="s3"> chicago</span></p>
+<p begin="00:21:46.970" end="00:21:50.770" style="s2">right because obviously this kind of</p>
+<p begin="00:21:48.890" end="00:21:53.900" style="s2"><span style="s3">testing</span> has been done other places<span style="s4"> but</span></p>
+<p begin="00:21:50.770" end="00:21:56.900" style="s2">is the soil<span style="s4"> uniform i mean can</span><span style="s3"> you</span> say</p>
+<p begin="00:21:53.900" end="00:21:59.150" style="s2"><span style="s3">like</span><span style="s4"> a</span> rain garden and<span style="s4"> the</span> north side</p>
+<p begin="00:21:56.900" end="00:22:01.400" style="s2">would perform like a rain garden the</p>
+<p begin="00:21:59.150" end="00:22:03.770" style="s2">south side and and certainly if you&#39;re</p>
+<p begin="00:22:01.400" end="00:22:05.570" style="s2">looking at sensors like is are the</p>
+<p begin="00:22:03.770" end="00:22:08.510" style="s2">attributes of<span style="s3"> the</span> locations like</p>
+<p begin="00:22:05.570" end="00:22:11.290" style="s2">available as well for you<span style="s4"> know</span> like</p>
+<p begin="00:22:08.510" end="00:22:14.420" style="s2">depths of the bios<span style="s3"> wales</span> stuff like that</p>
+<p begin="00:22:11.290" end="00:22:16.370" style="s2">yes<span style="s3"> that&#39;s</span> a<span style="s3"> great</span> point so in terms of</p>
+<p begin="00:22:14.420" end="00:22:18.890" style="s2">when you&#39;re doing<span style="s3"> like</span> an engineering</p>
+<p begin="00:22:16.370" end="00:22:20.480" style="s2">calculation for example to see how your</p>
+<p begin="00:22:18.890" end="00:22:21.830" style="s2"><span style="s3">GI</span> is performing a lot of<span style="s3"> things</span> come</p>
+<p begin="00:22:20.480" end="00:22:24.170" style="s2">into play there like the porosity of</p>
+<p begin="00:22:21.830" end="00:22:25.700" style="s2">your soil and you know is it is it</p>
+<p begin="00:22:24.170" end="00:22:27.020" style="s2">functioning well because your soil just</p>
+<p begin="00:22:25.700" end="00:22:28.700" style="s2">has a high porosity level or is it</p>
+<p begin="00:22:27.020" end="00:22:30.260" style="s2"><span style="s4">because</span> of your GI so all that comes</p>
+<p begin="00:22:28.700" end="00:22:32.300" style="s2">into play<span style="s3"> i&#39;m</span> not sure if we<span style="s4"> have that</span></p>
+<p begin="00:22:30.260" end="00:22:34.450" style="s2">information available that will be like</p>
+<p begin="00:22:32.300" end="00:22:37.100" style="s2">rolled out with that with the<span style="s3"> data</span> but</p>
+<p begin="00:22:34.450" end="00:22:37.940" style="s2">that information<span style="s3"> goes</span> into calculations</p>
+<p begin="00:22:37.100" end="00:22:42.860" style="s2">and you&#39;re looking<span style="s4"> at</span> engineering</p>
+<p begin="00:22:37.940" end="00:22:45.290" style="s2"><span style="s3">analysis</span> person hi so<span style="s3"> i&#39;m</span> wondering</p>
+<p begin="00:22:42.860" end="00:22:46.430" style="s2">about like controls so in other sites</p>
+<p begin="00:22:45.290" end="00:22:48.620" style="s2"><span style="s3">that</span> you mentioned are there like</p>
+<p begin="00:22:46.430" end="00:22:50.120" style="s2">multiple different like places that the</p>
+<p begin="00:22:48.620" end="00:22:51.950" style="s2">sensors are being taken that you can</p>
+<p begin="00:22:50.120" end="00:22:55.850" style="s2">kind of compare where the<span style="s4"> intervention</span></p>
+<p begin="00:22:51.950" end="00:22:57.860" style="s2"><span style="s4">has</span> been done and where it hasn&#39;t so the</p>
+<p begin="00:22:55.850" end="00:23:00.470" style="s2">senses are not there isn&#39;t<span style="s4"> like a</span></p>
+<p begin="00:22:57.860" end="00:23:01.820" style="s2">control sensor a<span style="s4"> break</span> because<span style="s3"> as david</span></p>
+<p begin="00:23:00.470" end="00:23:03.350" style="s2">mentioned earlier a lot<span style="s4"> of</span> this<span style="s3"> was</span> kind</p>
+<p begin="00:23:01.820" end="00:23:06.170" style="s2"><span style="s3">of</span> done in tandem with projects as they</p>
+<p begin="00:23:03.350" end="00:23:09.050" style="s2">were going on however you know<span style="s3"> you</span> can</p>
+<p begin="00:23:06.170" end="00:23:10.190" style="s2">kind of look at a control versus you can</p>
+<p begin="00:23:09.050" end="00:23:11.510" style="s2">kind of think about<span style="s3"> in</span> this way right</p>
+<p begin="00:23:10.190" end="00:23:12.950" style="s2">you want<span style="s3"> to</span> see how your GI is</p>
+<p begin="00:23:11.510" end="00:23:16.370" style="s2">performing during<span style="s3"> rain</span> events especially</p>
+<p begin="00:23:12.950" end="00:23:17.930" style="s2">so you can kind of compare it to a dr s</p>
+<p begin="00:23:16.370" end="00:23:23.000" style="s2">and then look at it from<span style="s3"> that</span></p>
+<p begin="00:23:17.930" end="00:23:25.160" style="s2">perspective so you mentioned a lot about</p>
+<p begin="00:23:23.000" end="00:23:27.320" style="s2">engineering modeling and a lot of the</p>
+<p begin="00:23:25.160" end="00:23:29.090" style="s2">methodology into analyzing this data and</p>
+<p begin="00:23:27.320" end="00:23:32.330" style="s2">comparing against expected performance</p>
+<p begin="00:23:29.090" end="00:23:34.520" style="s2">well that methodology and those models</p>
+<p begin="00:23:32.330" end="00:23:37.190" style="s2">be detailed publicly so that the<span style="s3"> people</span></p>
+<p begin="00:23:34.520" end="00:23:40.310" style="s2">who are able<span style="s3"> to</span> talk publicly access the</p>
+<p begin="00:23:37.190" end="00:23:42.080" style="s2">data are they also able to do the</p>
+<p begin="00:23:40.310" end="00:23:45.560" style="s2">analysis for themselves and make these</p>
+<p begin="00:23:42.080" end="00:23:47.780" style="s2">sort of comparisons so as i mentioned</p>
+<p begin="00:23:45.560" end="00:23:50.030" style="s2">earlier we&#39;re going to<span style="s3"> extend</span> the period</p>
+<p begin="00:23:47.780" end="00:23:50.809" style="s2">of data collection<span style="s3"> and</span> throughout until</p>
+<p begin="00:23:50.030" end="00:23:53.360" style="s2">the through</p>
+<p begin="00:23:50.809" end="00:23:55.999" style="s2">end of this year so that engineering</p>
+<p begin="00:23:53.360" end="00:23:58.490" style="s2"><span style="s4">analysis</span> will be done until the end<span style="s3"> of</span></p>
+<p begin="00:23:55.999" end="00:24:01.429" style="s2">this year likely and at<span style="s4"> that</span> point I&#39;m</p>
+<p begin="00:23:58.490" end="00:24:04.960" style="s2">not sure I mean I<span style="s3"> can&#39;t</span> speak<span style="s4"> to</span> other</p>
+<p begin="00:24:01.429" end="00:24:09.110" style="s2">that would be released or not<span style="s4"> said</span> yeah</p>
+<p begin="00:24:04.960" end="00:24:13.540" style="s2"><span style="s4">all right well Adam denna and Tom thank</span></p>
+<p begin="00:24:09.110" end="00:24:19.130" style="s2">you very much all right</p>
+<p begin="00:24:13.540" end="00:24:19.130" style="s2">[Applause]</p>
+</div>
+</body>
+</tt>
